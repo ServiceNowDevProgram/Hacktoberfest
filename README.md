@@ -109,10 +109,10 @@ earlduque.
 
 **Top 25% contributors:**
 hoederath.
-jesalynrose.
+MGOPW.
 
 **Top contributors (50%):**
-MGOPW.
+jesalynrose.
 wiz0floyd.
 
 **Other contributors:**
@@ -197,8 +197,8 @@ techYESlogyXplorer.
 b1naryst0rm.
 iar42.
 Lacah.
-AdilBasha1SAP.
 mgopw.
+AdilBasha1SAP.
 phr-nk.
 Vish-X07.
 OrgovanGeza.
