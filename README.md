@@ -108,15 +108,15 @@ To participate in moderation, join the sndevs at https://sndevs.com/ and join th
 earlduque.
 
 **Top 25% contributors:**
-Lacah.
+hoederath.
 
 **Top contributors (50%):**
-hoederath.
 wiz0floyd.
+Collosus1.
 
 **Other contributors:**
-Collosus1.
 kmohit2809.
+Lacah.
 niamccash.
 princeofwales88.
 SapphicFire.
@@ -183,7 +183,6 @@ davidkwhuang.
 zahidask.
 azeezgaa.
 DynamiteC.
-Lacah.
 shakeel-sheikh.
 vjtknn.
 MarcMouries.
@@ -195,6 +194,7 @@ mjonssonme.
 techYESlogyXplorer.
 b1naryst0rm.
 iar42.
+Lacah.
 AdilBasha1SAP.
 phr-nk.
 Vish-X07.
