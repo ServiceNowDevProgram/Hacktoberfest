@@ -42,21 +42,21 @@ To participate in moderation, join the sndevs at https://sndevs.com/ and join th
 
 ## Leaderboard (this year):
 
-Top 25% of contributors:
+**Top 25% contributors:**
 earlduque.
 
-Top contributors (50%):
+**Top contributors (50%):**
 wiz0floyd.
 Collosus1.
 
-Other contributors:
+**Other contributors:**
 princeofwales88.
 smoothwood.
 venkat-244.
 
 ## Leaderboard (all time):
 
-Top 5% of contributors:
+**Top 5% contributors:**
 earlduque.
 johndahl-now.
 DavidArthurCole.
@@ -72,7 +72,7 @@ aykmrgit.
 paigesndev.
 salmaniqbal92.
 
-Top 10% of contributors:
+**Top % contributors:**
 bird-03.
 niamccash.
 amigujarathi.
@@ -88,7 +88,7 @@ shakeel-sheikh.
 snamjosh.
 vjtknn.
 
-Top 25% of contributors:
+**Top 25% contributors:**
 chelming.
 kmohit2809.
 alyaanbasha.
@@ -120,7 +120,7 @@ adarshsingh0205.
 harisnad.
 seviceN.
 
-Top contributors (50%):
+**Top contributors (50%):**
 soerenmaucher.
 briangodfreydev.
 Danmax.
@@ -152,7 +152,7 @@ shridk.
 Lacah.
 phr-nk.
 
-Other contributors:
+**Other contributors:**
 VaishnaviLathkar98.
 abhilash264.
 sisco0.
