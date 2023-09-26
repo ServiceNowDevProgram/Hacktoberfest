@@ -12,7 +12,7 @@ Inside this repository, you will find links to all of our hosted projects, along
 ***CONTRIBUTORS must follow all guidelines in the various CONTRIBUTING.md files of each repository*** or run the risk of having your Pull Requests labeled as spam.<br>
 🔔🔔🔔
 
-<a name="contribute" href="#contribute">![contribute](/images/2contribute.png)</a>
+<br><a name="contribute" href="#contribute">![contribute](/images/2contribute.png)</a>
 
 To contribute, just follow these steps:
 
@@ -24,11 +24,63 @@ To contribute, just follow these steps:
 
 That's it! More detailed contribution instructions can be found [here](CONTRIBUTING.md)
 
-<a name="projects" href="#projects">![projects](/images/3projects.png)</a>
+<br><a name="projects" href="#projects">![projects](/images/3projects.png)</a>
 
-(will be updated soon)
+There are multiple projects we are encouraging participation in. To finish your Hacktoberfest goal:  
 
-<a name="points" href="#points">![points](/images/4points.png)</a>
+- You must make four approved pull-requests between October 1 and October 31, 2022.  
+- These four pull-requests can be spread out across multiple projects or can all be for one project.
+- From experience, you are more likely to get the t-shirt size you want the earlier you complete the goal! So get to work!
+
+## Code-Snippets
+
+https://github.com/ServiceNowDevProgram/code-snippets
+
+> A community moderated repository that hosts ServiceNow code-snippets for all situations. New to Git and source control? Start here and learn the process without having to leave GitHub, and then come back to any of the other projects below to learn how ServiceNow works with Git and source control.
+
+## SNDevs Slacker Bot
+
+https://github.com/ServiceNowDevProgram/SlackerBot
+
+> The @Slacker bot on the [sndevs.com](https://sndevs.com/) community has been completely rebuilt to make contribution easy. Through some clever automation between GitHub and the ServiceNow instance that hosts the bot, approved Pull Requests will introduce new functionality *immediately* to the Slack server, so everyone can benefit from your contribution right away! Check out the "Issues" tab for ideas.
+
+## SNDevs Points Thing
+
+https://github.com/ServiceNowDevProgram/Points-Thing
+
+> The @points_thing bot on the [sndevs.com](https://sndevs.com/) Slack workspace has been rebuilt for easier contribution: cleaner API calls, better table structure, less hard coding, etc. Feel free to add a milestone message as an app metadata or new features!
+
+## Plants App
+
+https://github.com/ServiceNowDevProgram/Plants
+
+> The ever popular "Show us your office plants" plants app is here, contribute by adding your metadata and/or expanding functionality.
+
+## Instance Scan Checks
+
+https://github.com/ServiceNowDevProgram/example-instancescan-checks
+
+> We all agree that Instance Scan is a great way to keep your instance in a healthy and performant state, but what we are lacking are the rules that should be added as Checks to the engine. ServiceNow ships with Instance Security Center checks, and you can find Instance Trouble Shooter checks in the ServiceNow Store, but in this community-contributed repository, users are providing their own “use-at-your-risk" checks.
+
+## Syntax Macros
+
+https://github.com/ServiceNowDevProgram/syntax_macros
+
+> Type in a keyword and a whole template script appears? Life is always easier with syntax macros. This repository was started up earlier last year to collect the community's favorite syntax macros.
+
+## Next Experience - MGOPW Custom Components
+
+> *link coming soon, just cleaning up some rough edges*
+
+## Next Experience - MGOPW Experience Page
+
+> *link coming soon, just cleaning up some rough edges*
+
+## Next Experience - 911 Dispatcher Workspace
+
+> *link coming soon, just cleaning up some rough edges*
+
+<br><a name="points" href="#points">![points](/images/4points.png)</a>
 
 There are a few ways to earn points here. The moment you earn a point, this file is automatically updated.
 
@@ -46,7 +98,7 @@ Ways for sndevs designated approvers to earn points:
 
 To participate in moderation, join the sndevs at https://sndevs.com/ and join the #hacktoberfest channel.
 
-<a name="leaders" href="#leaders">![leaders](/images/5leaders.png)</a>
+<br><a name="leaders" href="#leaders">![leaders](/images/5leaders.png)</a>
 
 ## Leaderboard (this year):
 
