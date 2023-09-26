@@ -111,11 +111,11 @@ earlduque.
 Lacah.
 
 **Top contributors (50%):**
+hoederath.
 wiz0floyd.
-Collosus1.
 
 **Other contributors:**
-hoederath.
+Collosus1.
 kmohit2809.
 niamccash.
 princeofwales88.
@@ -339,6 +339,7 @@ cmurley.
 DaiTranIT.
 gkiratkar1.
 himanisinghal.
+hoederath.
 kcimpulse.
 LakshmiPrasanna96.
 mua35.
@@ -438,7 +439,6 @@ himahk04.
 himavamsi-spec.
 himavamsi8.
 hockdiherdo.
-hoederath.
 imaxdvd.
 ishwarighule.
 IslamMari.
