@@ -104,8 +104,10 @@ To participate in moderation, join the sndevs at https://sndevs.com/ and join th
 
 ## Leaderboard (this year):
 
-**Top 25% contributors:**
+**Top % contributors:**
 earlduque.
+
+**Top 25% contributors:**
 wiz0floyd.
 
 **Top contributors (50%):**
@@ -114,6 +116,7 @@ kmohit2809.
 
 **Other contributors:**
 Lacah.
+niamccash.
 princeofwales88.
 SapphicFire.
 smoothwood.
@@ -130,8 +133,8 @@ paigesndev.
 Rampriya-S.
 wiz0floyd.
 R3J3NT.
-kmohit2809.
 niamccash.
+kmohit2809.
 hrobarikt.
 sumanthdosapati.
 urspvs.
