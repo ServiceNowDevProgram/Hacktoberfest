@@ -108,8 +108,8 @@ To participate in moderation, join the sndevs at https://sndevs.com/ and join th
 earlduque.
 
 **Top 25% contributors:**
-hoederath.
 MGOPW.
+hoederath.
 
 **Top contributors (50%):**
 jesalynrose.
@@ -192,12 +192,12 @@ chelming.
 sn-ajb.
 alyaanbasha.
 harishankert.
+mgopw.
 mjonssonme.
 techYESlogyXplorer.
 b1naryst0rm.
 iar42.
 Lacah.
-mgopw.
 AdilBasha1SAP.
 phr-nk.
 Vish-X07.
