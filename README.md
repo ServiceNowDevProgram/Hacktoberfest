@@ -110,9 +110,10 @@ wiz0floyd.
 
 **Top contributors (50%):**
 Collosus1.
-Lacah.
+kmohit2809.
 
 **Other contributors:**
+Lacah.
 princeofwales88.
 SapphicFire.
 smoothwood.
@@ -129,8 +130,8 @@ paigesndev.
 Rampriya-S.
 wiz0floyd.
 R3J3NT.
-niamccash.
 kmohit2809.
+niamccash.
 hrobarikt.
 sumanthdosapati.
 urspvs.
