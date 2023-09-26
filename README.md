@@ -112,13 +112,13 @@ hoederath.
 jesalynrose.
 
 **Top contributors (50%):**
+MGOPW.
 wiz0floyd.
-Collosus1.
 
 **Other contributors:**
+Collosus1.
 kmohit2809.
 Lacah.
-MGOPW.
 niamccash.
 princeofwales88.
 SapphicFire.
@@ -198,9 +198,9 @@ b1naryst0rm.
 iar42.
 Lacah.
 AdilBasha1SAP.
+mgopw.
 phr-nk.
 Vish-X07.
-mgopw.
 OrgovanGeza.
 arhaan2019.
 bradtiltonnow.
