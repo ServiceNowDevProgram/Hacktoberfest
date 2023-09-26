@@ -115,6 +115,7 @@ wiz0floyd.
 Collosus1.
 
 **Other contributors:**
+hoederath.
 kmohit2809.
 niamccash.
 princeofwales88.
@@ -437,6 +438,7 @@ himahk04.
 himavamsi-spec.
 himavamsi8.
 hockdiherdo.
+hoederath.
 imaxdvd.
 ishwarighule.
 IslamMari.
