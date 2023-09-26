@@ -6,6 +6,8 @@
 
 Welcome to the ServiceNow's Hacktoberfest community repository, managed by the Developer Program and SNDevs community.
 
+A blog post about this year's participation, along with some history and background can be found here: https://devlink.sn/hacktoberfest
+
 Inside this repository, you will find links to all of our hosted projects, along with helpful information and tutorials.
 
 🔔🔔🔔<br>
@@ -22,7 +24,7 @@ To contribute, just follow these steps:
 4. Add/Update the repo
 5. Submit a pull request!
 
-That's it! More detailed contribution instructions can be found [here](CONTRIBUTING.md)
+That's it! More detailed contribution instructions can be found on each project's "CONTRIBUTING.md" file. Always read this file before you partipate in a project!
 
 <br><a name="projects" href="#projects">![projects](/images/3projects.png)</a>
 
