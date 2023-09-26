@@ -109,11 +109,11 @@ earlduque.
 
 **Top 25% contributors:**
 hoederath.
-wiz0floyd.
+jesalynrose.
 
 **Top contributors (50%):**
+wiz0floyd.
 Collosus1.
-jesalynrose.
 
 **Other contributors:**
 kmohit2809.
@@ -341,6 +341,7 @@ cmurley.
 DaiTranIT.
 gkiratkar1.
 himanisinghal.
+jesalynrose.
 kcimpulse.
 LakshmiPrasanna96.
 mua35.
@@ -453,7 +454,6 @@ jayeshyadav252.
 jaypalmr.
 jc73uk.
 Jennylou777.
-jesalynrose.
 jnikita067.
 joshuaprakashg.
 joshuatechie.
