@@ -32,7 +32,6 @@ There are multiple projects we are encouraging participation in. To finish your 
 
 - You must make four approved pull-requests between October 1 and October 31, 2022.  
 - These four pull-requests can be spread out across multiple projects or can all be for one project.
-- From experience, you are more likely to get the t-shirt size you want the earlier you complete the goal! So get to work!
 
 ## Code-Snippets
 
