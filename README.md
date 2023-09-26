@@ -106,14 +106,15 @@ To participate in moderation, join the sndevs at https://sndevs.com/ and join th
 
 **Top 25% contributors:**
 earlduque.
+wiz0floyd.
 
 **Top contributors (50%):**
-wiz0floyd.
 Collosus1.
+Lacah.
 
 **Other contributors:**
-Lacah.
 princeofwales88.
+SapphicFire.
 smoothwood.
 venkat-244.
 
@@ -160,8 +161,8 @@ smartcarleen.
 amigujarathi.
 hafsa-asif.
 devinvalencia.
-aatrey882.
 SapphicFire.
+aatrey882.
 anillande90.
 danr2c2.
 MRSinghRajat.
