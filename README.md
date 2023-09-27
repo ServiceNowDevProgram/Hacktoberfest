@@ -280,15 +280,15 @@ VaishnaviLathkar98.
 abhilash264.
 NayeemKaka.
 sisco0.
+am-shakeel.
 ashaw7697.
 ewatch.
-Jaskaran-Techno.
 
 **Other contributors:**
+Jaskaran-Techno.
 rohantjoshi.
 thameemskings.
 abhay625.
-am-shakeel.
 ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
