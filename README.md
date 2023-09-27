@@ -116,11 +116,11 @@ hoederath.
 
 **Top contributors (50%):**
 Juusoee.
-mmaraj1.
+paigesndev.
 
 **Other contributors:**
+mmaraj1.
 jesalynrose.
-paigesndev.
 wiz0floyd.
 Collosus1.
 derHundOida.
