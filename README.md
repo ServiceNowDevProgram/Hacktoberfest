@@ -118,6 +118,7 @@ wiz0floyd.
 Collosus1.
 
 **Other contributors:**
+derHundOida.
 gh0stxplt.
 kmohit2809.
 Lacah.
@@ -275,9 +276,9 @@ abhilash264.
 NayeemKaka.
 sisco0.
 ashaw7697.
+ewatch.
 
 **Other contributors:**
-ewatch.
 Jaskaran-Techno.
 rohantjoshi.
 thameemskings.
@@ -410,6 +411,7 @@ DangerousNights.
 DaSilvaThiago.
 davewburns.
 denmant.
+derHundOida.
 DFanso.
 dhadwal.
 diasjp.
