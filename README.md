@@ -115,10 +115,11 @@ Juusoee.
 **Top contributors (50%):**
 mmaraj1.
 jesalynrose.
+paigesndev.
 wiz0floyd.
-Collosus1.
 
 **Other contributors:**
+Collosus1.
 derHundOida.
 gh0stxplt.
 kmohit2809.
