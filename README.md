@@ -177,11 +177,12 @@ am-shakeel.
 **Top 50% contributors:**
 hoederath.
 Juusoee.
+Lacah.
 
 **Other contributors:**
-Lacah.
 mmaraj1.
 jesalynrose.
+smartcarleen.
 wiz0floyd.
 Collosus1.
 derHundOida.
@@ -233,8 +234,8 @@ salmaniqbal92.
 23Thom.
 mr-swann.
 bird-03.
-eriemer1.
 smartcarleen.
+eriemer1.
 amigujarathi.
 hafsa-asif.
 devinvalencia.
