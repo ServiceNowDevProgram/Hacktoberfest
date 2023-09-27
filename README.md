@@ -112,11 +112,11 @@ MGOPW.
 
 **Top 25% contributors:**
 am-shakeel.
-hoederath.
+paigesndev.
 
 **Top contributors (50%):**
+hoederath.
 Juusoee.
-paigesndev.
 
 **Other contributors:**
 mmaraj1.
