@@ -113,11 +113,11 @@ hoederath.
 
 **Top contributors (50%):**
 jesalynrose.
+Juusoee.
 wiz0floyd.
-Collosus1.
 
 **Other contributors:**
-Juusoee.
+Collosus1.
 kmohit2809.
 Lacah.
 maxigrali.
@@ -345,6 +345,7 @@ DaiTranIT.
 gkiratkar1.
 himanisinghal.
 jesalynrose.
+Juusoee.
 kcimpulse.
 LakshmiPrasanna96.
 mua35.
@@ -464,7 +465,6 @@ jschuller.
 jsmayo.
 JulietteM81.
 justSNaccount.
-Juusoee.
 kainturar.
 KarelMusa.
 Karthick986.
