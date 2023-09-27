@@ -117,6 +117,7 @@ wiz0floyd.
 Collosus1.
 
 **Other contributors:**
+Juusoee.
 kmohit2809.
 Lacah.
 maxigrali.
@@ -151,9 +152,9 @@ snamjosh.
 alikuttyka.
 BadalHub.
 MrChrisE.
+vandna07.
 
 **Top % contributors:**
-vandna07.
 PranavBhagat18.
 aykmrgit.
 litwi1rm.
@@ -176,9 +177,9 @@ danr2c2.
 MRSinghRajat.
 oasif.
 jiteshmalik.
+avssrikanth.
 
 **Top 25% contributors:**
-avssrikanth.
 jonahpiascik.
 ovarn.
 sychi77.
@@ -273,10 +274,10 @@ abhilash264.
 NayeemKaka.
 sisco0.
 ashaw7697.
-ewatch.
-Jaskaran-Techno.
 
 **Other contributors:**
+ewatch.
+Jaskaran-Techno.
 rohantjoshi.
 thameemskings.
 abhay625.
@@ -463,6 +464,7 @@ jschuller.
 jsmayo.
 JulietteM81.
 justSNaccount.
+Juusoee.
 kainturar.
 KarelMusa.
 Karthick986.
