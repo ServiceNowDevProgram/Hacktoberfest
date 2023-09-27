@@ -1,4 +1,4 @@
-# ServiceNow Developers join Hacktoberfest!
+![ServiceNow and Hacktoberfest](/images/HacktoberfestCombined.gif)
 
 <a name="welcome" href="#welcome">![welcome](/images/1welcome.png)</a>
 
