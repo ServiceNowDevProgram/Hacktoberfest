@@ -14,6 +14,7 @@ on:
     branches: main
 jobs:
   deployment:
+    if: github.repository == 'ServiceNowDevProgram/Hacktoberfest'
     runs-on: ubuntu-latest
     steps:
 #     - name: Log payload

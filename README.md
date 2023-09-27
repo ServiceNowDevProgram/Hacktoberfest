@@ -6,6 +6,8 @@
 
 Welcome to the ServiceNow's Hacktoberfest community repository, managed by the Developer Program and SNDevs community.
 
+A blog post about this year's participation, along with some history and background can be found here: https://devlink.sn/hacktoberfest
+
 Inside this repository, you will find links to all of our hosted projects, along with helpful information and tutorials.
 
 🔔🔔🔔<br>
@@ -22,7 +24,7 @@ To contribute, just follow these steps:
 4. Add/Update the repo
 5. Submit a pull request!
 
-That's it! More detailed contribution instructions can be found [here](CONTRIBUTING.md)
+That's it! More detailed contribution instructions can be found on each project's "CONTRIBUTING.md" file. Always read this file before you partipate in a project!
 
 <br><a name="projects" href="#projects">![projects](/images/3projects.png)</a>
 
@@ -102,15 +104,34 @@ To participate in moderation, join the sndevs at https://sndevs.com/ and join th
 
 ## Leaderboard (this year):
 
-**Top 25% contributors:**
+**Top 5% contributors:**
 earlduque.
 
+**Top % contributors:**
+paigesndev.
+
+**Top 25% contributors:**
+MGOPW.
+am-shakeel.
+
 **Top contributors (50%):**
-wiz0floyd.
-Collosus1.
+hoederath.
+Juusoee.
 
 **Other contributors:**
+mmaraj1.
+jesalynrose.
+wiz0floyd.
+Collosus1.
+derHundOida.
+gh0stxplt.
+javiervillarreal.
+kmohit2809.
+Lacah.
+maxigrali.
+niamccash.
 princeofwales88.
+SapphicFire.
 smoothwood.
 venkat-244.
 
@@ -139,9 +160,9 @@ snamjosh.
 alikuttyka.
 BadalHub.
 MrChrisE.
+vandna07.
 
 **Top % contributors:**
-vandna07.
 PranavBhagat18.
 aykmrgit.
 litwi1rm.
@@ -157,20 +178,21 @@ smartcarleen.
 amigujarathi.
 hafsa-asif.
 devinvalencia.
-aatrey882.
 SapphicFire.
+aatrey882.
 anillande90.
 danr2c2.
 MRSinghRajat.
 oasif.
 jiteshmalik.
+avssrikanth.
 
 **Top 25% contributors:**
-avssrikanth.
 jonahpiascik.
 ovarn.
 sychi77.
 davidkwhuang.
+mgopw.
 zahidask.
 azeezgaa.
 DynamiteC.
@@ -185,8 +207,8 @@ mjonssonme.
 techYESlogyXplorer.
 b1naryst0rm.
 iar42.
-AdilBasha1SAP.
 Lacah.
+AdilBasha1SAP.
 phr-nk.
 Vish-X07.
 OrgovanGeza.
@@ -194,7 +216,6 @@ arhaan2019.
 bradtiltonnow.
 girishnagaraj09.
 llipovsky.
-mgopw.
 mohitchauhan-dev.
 tejudhoran95.
 vasantharaja-natarajan.
@@ -213,9 +234,9 @@ seviceN.
 soerenmaucher.
 allenandreas.
 apple9000.
+ashu759.
 
 **Top contributors (50%):**
-ashu759.
 briangodfreydev.
 Danmax.
 GauthamBellamkonda.
@@ -260,6 +281,7 @@ VaishnaviLathkar98.
 abhilash264.
 NayeemKaka.
 sisco0.
+am-shakeel.
 ashaw7697.
 ewatch.
 
@@ -281,12 +303,14 @@ deathkraiser.
 dhruvii-powershell.
 dorsy99.
 hmadhsan.
+hoederath.
 iamvpbhaskar.
 igrzhukovich.
 j4rodm.
 jamesfoot.
 JingAlanzhixin.
 jordanrogus.
+Juusoee.
 KartikeSingh.
 lakshyatyagi24.
 loudigi.
@@ -321,6 +345,7 @@ bendouglass.
 Marll22.
 Krishnakant-iv.
 lverbeke.
+mmaraj1.
 mohdzeeshan96.
 nancystodd.
 ab7289.
@@ -330,6 +355,8 @@ cmurley.
 DaiTranIT.
 gkiratkar1.
 himanisinghal.
+javiervillarreal.
+jesalynrose.
 kcimpulse.
 LakshmiPrasanna96.
 mua35.
@@ -393,6 +420,7 @@ DangerousNights.
 DaSilvaThiago.
 davewburns.
 denmant.
+derHundOida.
 DFanso.
 dhadwal.
 diasjp.
@@ -412,6 +440,7 @@ fisikos.
 flab-io.
 fredosborne.
 Geraldf.
+gh0stxplt.
 GiovanniPeretti.
 git-rep0.
 GouthamSG.
@@ -437,7 +466,6 @@ j2clow.
 jamalissimo.
 jambo969.
 jamiestroud.
-javiervillarreal.
 jayeshyadav252.
 jaypalmr.
 jc73uk.
@@ -477,6 +505,7 @@ Mady1947.
 makesh-ind.
 maralucca.
 martinkohler.
+maxigrali.
 mdirshadaelum.
 Mexiprince.
 mgcnent.
