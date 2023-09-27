@@ -113,17 +113,17 @@ hoederath.
 Juusoee.
 
 **Top contributors (50%):**
+mmaraj1.
 jesalynrose.
 wiz0floyd.
 Collosus1.
-derHundOida.
 
 **Other contributors:**
+derHundOida.
 gh0stxplt.
 kmohit2809.
 Lacah.
 maxigrali.
-mmaraj1.
 niamccash.
 princeofwales88.
 SapphicFire.
@@ -339,6 +339,7 @@ bendouglass.
 Marll22.
 Krishnakant-iv.
 lverbeke.
+mmaraj1.
 mohdzeeshan96.
 nancystodd.
 ab7289.
@@ -503,7 +504,6 @@ mdirshadaelum.
 Mexiprince.
 mgcnent.
 mhendershott.
-mmaraj1.
 mohammedusama.
 mortumus.
 mpvarmadatla.
