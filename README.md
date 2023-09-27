@@ -14,7 +14,28 @@ Inside this repository, you will find links to all of our hosted projects, along
 ***CONTRIBUTORS must follow all guidelines in the various CONTRIBUTING.md files of each repository*** or run the risk of having your Pull Requests labeled as spam.<br>
 🔔🔔🔔
 
-<br><a name="contribute" href="#contribute">![contribute](/images/2contribute.png)</a>
+<!-- TOC -->
+## Quick navigation
+
+- [How to contribute](#bra-namecontribute-hrefcontributecontributea)
+- [Projects](#bra-nameprojects-hrefprojectsprojectsa)
+    - [Code-Snippets](#code-snippets)
+    - [SNDevs Slacker Bot](#sndevs-slacker-bot)
+    - [SNDevs Points Thing](#sndevs-points-thing)
+    - [Menu Generating Operations Program Widget Custom Component](#menu-generating-operations-program-widget-custom-component)
+    - [Menu Generating Operations Program Widget Experience Page](#menu-generating-operations-program-widget-experience-page)
+    - [Plants App](#plants-app)
+    - [Dispatcher Configurable Workspace](#dispatcher-configurable-workspace)
+    - [Instance Scan Checks](#instance-scan-checks)
+    - [Syntax Macros](#syntax-macros)
+    - [Have a ServiceNow app you want to open to collaboration?](#have-a-servicenow-app-you-want-to-open-to-collaboration)
+- [Scoring](#bra-namepoints-hrefpointspointsa)
+- [Your Hacktoberfest crew](#bra-namereviewers-hrefreviewersreviewersa)
+- [Leaderboard](#bra-nameleaders-hrefleadersleadersa)
+
+<!-- /TOC -->
+
+# <br><a name="contribute" href="#contribute">![contribute](/images/2contribute.png)</a>
 
 To contribute, just follow these steps:
 
@@ -26,7 +47,7 @@ To contribute, just follow these steps:
 
 That's it! More detailed contribution instructions can be found on each project's "CONTRIBUTING.md" file. Always read this file before you partipate in a project!
 
-<br><a name="projects" href="#projects">![projects](/images/3projects.png)</a>
+# <br><a name="projects" href="#projects">![projects](/images/3projects.png)</a>
 
 There are multiple projects we are encouraging participation in. To finish your Hacktoberfest goal:  
 
@@ -52,11 +73,38 @@ https://github.com/ServiceNowDevProgram/Points-Thing
 
 > The @points_thing bot on the [sndevs.com](https://sndevs.com/) Slack workspace has been rebuilt for easier contribution: cleaner API calls, better table structure, less hard coding, etc. Feel free to add a milestone message as an app metadata or new features!
 
+## (Menu Generating Operations Program Widget) Custom Component
+
+https://github.com/ServiceNowDevProgram/Menu-Generating-Operations-Program-Widget-Custom-Component
+
+> Did I come up with a very convoluted and awful name for my component just so I could put my initials on a project? Why yes, I did. Has it caused some level of confusion? Yes, it has. Do I have any regrets? None!
+>
+> This repository holds the source code for the Menu Builder custom component! It allows for the configuration of UI Builder Portal Experience menus, so you don’t have to touch JSON. It’s a great example of what you can do with custom components, and you can poke at the source code all you want! Make sure you check out the sister repository for the Experience Page linked below!
+>
+> Heads up: Contributing to this repository is complicated, you MUST check out the CONTRIBUTING.MD file to be able to correctly contribute and have your PRs approved.
+(Oh you should also try finding the other references we put in the source code... and feel free to add your own!)
+
+## (Menu Generating Operations Program Widget) Experience Page
+
+https://github.com/ServiceNowDevProgram/Menu-Generating-Operations-Program-Widget-Experience-Page
+
+> Hi there, hopefully you read the previous repository’s description before checking this one out. No? Ok I'll give you a minute.
+> 
+> Ok, you good? Awesome. This is the UI Builder Page that actually houses the component so you can use it in your instance to craft awesome custom menus. If you want to test your component in an instance, this is a must have.
+> 
+> Heads up: You REALLY need to read the CONTRIBUTING.MD file for these two repos to understand how to contribute. We tried to explain it in the clearest way, but if you have questions feel free to reach out to me over on [SNDEVS.com](https://sndevs.com/) at @MGOPW or in our [#next-experience-uib-workspace](https://sndevs.slack.com/archives/C01QPGCA82K) channel.
+
 ## Plants App
 
 https://github.com/ServiceNowDevProgram/Plants
 
 > The ever popular "Show us your office plants" plants app is here, contribute by adding your metadata and/or expanding functionality.
+
+## Dispatcher Configurable Workspace
+
+https://github.com/ServiceNowDevProgram/911-Dispatcher-Workspace
+
+> We’ve created a Configurable Workspace solution for 911 operators to do 911 operator things and stuff. Come help build out this custom application and brush up on your UI Builder skills. I feel bad that this description is so short, but I don’t know what else to write. Listen – you try to be witty and funny three times in a row and let me know how it works out for you ok?
 
 ## Instance Scan Checks
 
@@ -70,19 +118,11 @@ https://github.com/ServiceNowDevProgram/syntax_macros
 
 > Type in a keyword and a whole template script appears? Life is always easier with syntax macros. This repository was started up earlier last year to collect the community's favorite syntax macros.
 
-## Next Experience - MGOPW Custom Components
+## Have a ServiceNow app you want to open to collaboration?
 
-> *link coming soon, just cleaning up some rough edges*
+Reach out to Earl Duque and we'll get your repo officially hosted.
 
-## Next Experience - MGOPW Experience Page
-
-> *link coming soon, just cleaning up some rough edges*
-
-## Next Experience - 911 Dispatcher Workspace
-
-> *link coming soon, just cleaning up some rough edges*
-
-<br><a name="points" href="#points">![points](/images/4points.png)</a>
+# <br><a name="points" href="#points">![points](/images/4points.png)</a>
 
 There are a few ways to earn points here. The moment you earn a point, this file is automatically updated.
 
@@ -100,7 +140,7 @@ Ways for sndevs designated approvers to earn points:
 
 To participate in moderation, join the sndevs at https://sndevs.com/ and join the #hacktoberfest channel.
 
-<br><a name="reviewers" href="#reviewers">![reviewers](/images/6reviewers.png)</a>
+# <br><a name="reviewers" href="#reviewers">![reviewers](/images/6reviewers.png)</a>
 
 Meet the Hacktoberfest crew who will be maintaining your projects:
 
@@ -120,7 +160,7 @@ Meet the Hacktoberfest crew who will be maintaining your projects:
 
 *these descriptions were generated by AI, mostly because you're probably not reading this*
 
-<br><a name="leaders" href="#leaders">![leaders](/images/5leaders.png)</a>
+# <br><a name="leaders" href="#leaders">![leaders](/images/5leaders.png)</a>
 
 ## Leaderboard (this year):
 
