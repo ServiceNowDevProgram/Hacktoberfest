@@ -108,10 +108,10 @@ To participate in moderation, join the sndevs at https://sndevs.com/ and join th
 earlduque.
 
 **Top % contributors:**
-MGOPW.
+paigesndev.
 
 **Top 25% contributors:**
-paigesndev.
+MGOPW.
 am-shakeel.
 
 **Top contributors (50%):**
