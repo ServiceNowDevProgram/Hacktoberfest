@@ -112,8 +112,8 @@ MGOPW.
 hoederath.
 
 **Top contributors (50%):**
-jesalynrose.
 Juusoee.
+jesalynrose.
 wiz0floyd.
 
 **Other contributors:**
@@ -333,6 +333,7 @@ jon-lind-sn.
 ToosinDada.
 bendouglass.
 Marll22.
+Juusoee.
 Krishnakant-iv.
 lverbeke.
 mohdzeeshan96.
@@ -345,7 +346,6 @@ DaiTranIT.
 gkiratkar1.
 himanisinghal.
 jesalynrose.
-Juusoee.
 kcimpulse.
 LakshmiPrasanna96.
 mua35.
