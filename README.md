@@ -110,14 +110,15 @@ earlduque.
 **Top 25% contributors:**
 MGOPW.
 hoederath.
+Juusoee.
 
 **Top contributors (50%):**
-Juusoee.
 jesalynrose.
 wiz0floyd.
+Collosus1.
 
 **Other contributors:**
-Collosus1.
+gh0stxplt.
 kmohit2809.
 Lacah.
 maxigrali.
@@ -428,6 +429,7 @@ fisikos.
 flab-io.
 fredosborne.
 Geraldf.
+gh0stxplt.
 GiovanniPeretti.
 git-rep0.
 GouthamSG.
