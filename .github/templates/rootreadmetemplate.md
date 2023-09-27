@@ -17,8 +17,8 @@ Inside this repository, you will find links to all of our hosted projects, along
 <!-- TOC -->
 ## Quick navigation
 
-- [How to contribute](#bra-namecontribute-hrefcontributecontributea)
-- [Projects](#bra-nameprojects-hrefprojectsprojectsa)
+- [How to contribute](#contribute)
+- [Projects](#projects)
     - [Code-Snippets](#code-snippets)
     - [SNDevs Slacker Bot](#sndevs-slacker-bot)
     - [SNDevs Points Thing](#sndevs-points-thing)
@@ -29,9 +29,9 @@ Inside this repository, you will find links to all of our hosted projects, along
     - [Instance Scan Checks](#instance-scan-checks)
     - [Syntax Macros](#syntax-macros)
     - [Have a ServiceNow app you want to open to collaboration?](#have-a-servicenow-app-you-want-to-open-to-collaboration)
-- [Scoring](#bra-namepoints-hrefpointspointsa)
-- [Your Hacktoberfest crew](#bra-namereviewers-hrefreviewersreviewersa)
-- [Leaderboard](#bra-nameleaders-hrefleadersleadersa)
+- [Scoring](#points)
+- [Your Hacktoberfest crew](#reviewers)
+- [Leaderboard](#leaders)
 
 <!-- /TOC -->
 
