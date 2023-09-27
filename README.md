@@ -116,12 +116,12 @@ Juusoee.
 
 **Top contributors (50%):**
 mmaraj1.
-jesalynrose.
+am-shakeel.
 
 **Other contributors:**
+jesalynrose.
 paigesndev.
 wiz0floyd.
-am-shakeel.
 Collosus1.
 derHundOida.
 gh0stxplt.
@@ -347,6 +347,7 @@ mmaraj1.
 mohdzeeshan96.
 nancystodd.
 ab7289.
+am-shakeel.
 anirudhkumarm.
 bgrk005.
 cmurley.
@@ -369,7 +370,6 @@ acdigitalclarity.
 afejzic.
 ajithaju15.
 aliceapps.
-am-shakeel.
 aman2519.
 amdhavalikar.
 Anantharaman91.
