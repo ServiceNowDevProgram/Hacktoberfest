@@ -114,11 +114,12 @@ hoederath.
 **Top contributors (50%):**
 jesalynrose.
 wiz0floyd.
+Collosus1.
 
 **Other contributors:**
-Collosus1.
 kmohit2809.
 Lacah.
+maxigrali.
 niamccash.
 princeofwales88.
 SapphicFire.
@@ -490,6 +491,7 @@ Mady1947.
 makesh-ind.
 maralucca.
 martinkohler.
+maxigrali.
 mdirshadaelum.
 Mexiprince.
 mgcnent.
