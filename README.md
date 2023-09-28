@@ -244,14 +244,14 @@ SapphicFire.
 aatrey882.
 anillande90.
 danr2c2.
+Lacah.
 MRSinghRajat.
 oasif.
 jiteshmalik.
-avssrikanth.
 
 **Top 25% contributors:**
+avssrikanth.
 jonahpiascik.
-Lacah.
 ovarn.
 sychi77.
 davidkwhuang.
