@@ -169,10 +169,10 @@ Meet the Hacktoberfest crew who will be maintaining your projects:
 earlduque.
 
 **Top 10% contributors:**
-paigesndev.
+MGOPW.
 
 **Top 25% contributors:**
-MGOPW.
+paigesndev.
 Lacah.
 
 **Top 50% contributors:**
@@ -242,10 +242,10 @@ hafsa-asif.
 devinvalencia.
 SapphicFire.
 aatrey882.
+mgopw.
 anillande90.
 danr2c2.
 Lacah.
-mgopw.
 MRSinghRajat.
 oasif.
 
