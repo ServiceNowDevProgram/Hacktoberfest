@@ -172,11 +172,11 @@ earlduque.
 niamccash.
 
 **Top 25% contributors:**
+MGOPW.
 paigesndev.
-Lacah.
 
 **Top 50% contributors:**
-MGOPW.
+Lacah.
 smartcarleen.
 
 **Other contributors:**
@@ -249,9 +249,9 @@ oasif.
 jiteshmalik.
 
 **Top 25% contributors:**
+mgopw.
 avssrikanth.
 jonahpiascik.
-mgopw.
 ovarn.
 sychi77.
 davidkwhuang.
