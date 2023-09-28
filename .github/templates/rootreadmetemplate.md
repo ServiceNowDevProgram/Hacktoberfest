@@ -11,7 +11,7 @@ A blog post about this year's participation, along with some history and backgro
 Inside this repository, you will find links to all of our hosted projects, along with helpful information and tutorials.
 
 🔔🔔🔔<br>
-***CONTRIBUTORS must follow all guidelines in the various CONTRIBUTING.md files of each repository*** or run the risk of having your Pull Requests labeled as spam.<br>
+***CONTRIBUTORS must follow all guidelines in the various CONTRIBUTING.md files of each repository*** or run the risk of having your Pull Requests labeled as spam. This repository's CONTRIBUTING.md file can be found [here](/CONTRIBUTING.md).<br>
 🔔🔔🔔
 
 <!-- TOC -->
