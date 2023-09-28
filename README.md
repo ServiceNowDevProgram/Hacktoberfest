@@ -178,13 +178,14 @@ paigesndev.
 **Top 50% contributors:**
 Lacah.
 smartcarleen.
+am-shakeel.
 
 **Other contributors:**
-am-shakeel.
 hoederath.
 Juusoee.
 mmaraj1.
 wiz0floyd.
+bradtiltonnow.
 Collosus1.
 derHundOida.
 gh0stxplt.
@@ -272,9 +273,9 @@ iar42.
 AdilBasha1SAP.
 phr-nk.
 Vish-X07.
+bradtiltonnow.
 OrgovanGeza.
 arhaan2019.
-bradtiltonnow.
 girishnagaraj09.
 llipovsky.
 mohitchauhan-dev.
