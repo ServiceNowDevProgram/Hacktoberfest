@@ -177,12 +177,12 @@ smartcarleen.
 
 **Top 50% contributors:**
 am-shakeel.
-niamccash.
+MGOPW.
 
 **Other contributors:**
+niamccash.
 hoederath.
 Juusoee.
-MGOPW.
 mmaraj1.
 wiz0floyd.
 Collosus1.
@@ -260,8 +260,8 @@ DynamiteC.
 shakeel-sheikh.
 vjtknn.
 MarcMouries.
-chelming.
 mgopw.
+chelming.
 sn-ajb.
 alyaanbasha.
 harishankert.
