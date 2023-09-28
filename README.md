@@ -169,22 +169,21 @@ Meet the Hacktoberfest crew who will be maintaining your projects:
 earlduque.
 
 **Top 10% contributors:**
-MGOPW.
+paigesndev.
 
 **Top 25% contributors:**
-paigesndev.
 Lacah.
+smartcarleen.
 
 **Top 50% contributors:**
-smartcarleen.
 am-shakeel.
 niamccash.
 
 **Other contributors:**
 hoederath.
 Juusoee.
+MGOPW.
 mmaraj1.
-jesalynrose.
 wiz0floyd.
 Collosus1.
 derHundOida.
@@ -203,8 +202,8 @@ venkat-244.
 earlduque.
 ishaanshoor.
 johndahl-now.
-paigesndev.
 DavidArthurCole.
+paigesndev.
 Rampriya-S.
 wiz0floyd.
 niamccash.
@@ -225,7 +224,6 @@ MrChrisE.
 vandna07.
 
 **Top 10% contributors:**
-mgopw.
 PranavBhagat18.
 aykmrgit.
 litwi1rm.
@@ -248,9 +246,9 @@ danr2c2.
 Lacah.
 MRSinghRajat.
 oasif.
+jiteshmalik.
 
 **Top 25% contributors:**
-jiteshmalik.
 avssrikanth.
 jonahpiascik.
 ovarn.
@@ -270,6 +268,7 @@ mjonssonme.
 techYESlogyXplorer.
 b1naryst0rm.
 iar42.
+mgopw.
 AdilBasha1SAP.
 phr-nk.
 Vish-X07.
@@ -296,9 +295,9 @@ seviceN.
 soerenmaucher.
 allenandreas.
 apple9000.
-ashu759.
 
 **Top 50% contributors:**
+ashu759.
 briangodfreydev.
 Danmax.
 GauthamBellamkonda.
@@ -345,9 +344,9 @@ NayeemKaka.
 sisco0.
 am-shakeel.
 ashaw7697.
-ewatch.
 
 **Other contributors:**
+ewatch.
 Jaskaran-Techno.
 rohantjoshi.
 thameemskings.
@@ -418,7 +417,6 @@ DaiTranIT.
 gkiratkar1.
 himanisinghal.
 javiervillarreal.
-jesalynrose.
 kcimpulse.
 LakshmiPrasanna96.
 mua35.
