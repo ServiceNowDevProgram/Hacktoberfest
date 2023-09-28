@@ -172,8 +172,8 @@ earlduque.
 paigesndev.
 
 **Top 25% contributors:**
-MGOPW.
 Lacah.
+MGOPW.
 
 **Top 50% contributors:**
 smartcarleen.
