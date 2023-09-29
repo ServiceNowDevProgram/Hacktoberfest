@@ -174,20 +174,21 @@ niamccash.
 **Top 25% contributors:**
 MGOPW.
 paigesndev.
+Lacah.
 
 **Top 50% contributors:**
-Lacah.
 smartcarleen.
 am-shakeel.
+hoederath.
 
 **Other contributors:**
-hoederath.
 Juusoee.
 mmaraj1.
 bradtiltonnow.
 wiz0floyd.
 Collosus1.
 derHundOida.
+djunaid.
 gh0stxplt.
 hentonjd.
 javiervillarreal.
@@ -488,6 +489,7 @@ dhadwal.
 diasjp.
 Dimuthu7.
 DirkRedeker.
+djunaid.
 drizzlt.
 DudeDrew.
 eduard-nitoi.
