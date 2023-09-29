@@ -179,10 +179,10 @@ hoederath.
 am-shakeel.
 Ladirinia.
 mady22070.
-Juusoee.
+mockspeed.
 
 **Top 50% contributors:**
-mockspeed.
+Juusoee.
 hentonjd.
 kmohit2809.
 Litaflom.
@@ -377,10 +377,11 @@ ewatch.
 Jaskaran-Techno.
 Ladirinia.
 mady22070.
+mockspeed.
 rohantjoshi.
-thameemskings.
 
 **Other contributors:**
+thameemskings.
 abhay625.
 ankitshaw625.
 Arpan-InGen.
@@ -408,7 +409,6 @@ loudigi.
 maialithar.
 mevops.
 mikeroosa.
-mockspeed.
 moshjahan.
 mwchiao.
 pavankumar-4.
