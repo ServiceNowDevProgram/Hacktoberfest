@@ -187,6 +187,7 @@ bradtiltonnow.
 
 **Other contributors:**
 ivan-betev.
+jaz1gdev.
 johndahl-now.
 MGOPW.
 NowSharif.
@@ -201,7 +202,6 @@ djunaid.
 eriemer1.
 gh0stxplt.
 javiervillarreal.
-jaz1gdev.
 MartinStoyanoff.
 maxigrali.
 princeofwales88.
@@ -433,6 +433,7 @@ gkiratkar1.
 himanisinghal.
 ivan-betev.
 javiervillarreal.
+jaz1gdev.
 kcimpulse.
 LakshmiPrasanna96.
 mua35.
@@ -549,7 +550,6 @@ jambo969.
 jamiestroud.
 jayeshyadav252.
 jaypalmr.
-jaz1gdev.
 jc73uk.
 Jennylou777.
 jnikita067.
