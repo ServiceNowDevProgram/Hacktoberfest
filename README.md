@@ -184,9 +184,9 @@ hentonjd.
 kmohit2809.
 Litaflom.
 mmaraj1.
+bradtiltonnow.
 
 **Other contributors:**
-bradtiltonnow.
 garyditsch.
 ivan-betev.
 jaz1gdev.
@@ -207,6 +207,7 @@ eriemer1.
 gh0stxplt.
 javiervillarreal.
 Josh767676.
+lidmaylid.
 MartinStoyanoff.
 maxigrali.
 princeofwales88.
@@ -588,6 +589,7 @@ Lathasuv.
 LaviniaChiburte.
 LekiaAnonim.
 lianskaya.
+lidmaylid.
 liyAGHORI.
 LoicSanchez.
 Luci-git.
