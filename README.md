@@ -214,6 +214,7 @@ princeofwales88.
 SapphicFire.
 smoothwood.
 Stevay3.
+TheSethRose.
 TVani5.
 venkat-244.
 
@@ -243,9 +244,9 @@ alikuttyka.
 BadalHub.
 MrChrisE.
 vandna07.
+PranavBhagat18.
 
 **Top 10% contributors:**
-PranavBhagat18.
 smartcarleen.
 aykmrgit.
 litwi1rm.
@@ -269,9 +270,9 @@ MRSinghRajat.
 oasif.
 jiteshmalik.
 avssrikanth.
+jonahpiascik.
 
 **Top 25% contributors:**
-jonahpiascik.
 ovarn.
 sychi77.
 davidkwhuang.
@@ -370,10 +371,10 @@ ewatch.
 Jaskaran-Techno.
 rohantjoshi.
 thameemskings.
-abhay625.
-ankitshaw625.
 
 **Other contributors:**
+abhay625.
+ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
@@ -679,6 +680,7 @@ suryakantshoor.
 sushil-now.
 SweetPoodle.
 TamByrd.
+TheSethRose.
 thesnowguy.
 thomas-seiberl.
 tosuch.
