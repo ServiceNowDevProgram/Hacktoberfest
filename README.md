@@ -349,9 +349,10 @@ sisco0.
 am-shakeel.
 ashaw7697.
 ewatch.
-Jaskaran-Techno.
+hoederath.
 
 **Other contributors:**
+Jaskaran-Techno.
 rohantjoshi.
 thameemskings.
 abhay625.
@@ -368,7 +369,6 @@ deathkraiser.
 dhruvii-powershell.
 dorsy99.
 hmadhsan.
-hoederath.
 iamvpbhaskar.
 igrzhukovich.
 j4rodm.
