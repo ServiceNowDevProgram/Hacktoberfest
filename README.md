@@ -186,6 +186,7 @@ bradtiltonnow.
 
 **Other contributors:**
 ivan-betev.
+johndahl-now.
 MGOPW.
 wiz0floyd.
 banjofrailer.
@@ -197,7 +198,6 @@ djunaid.
 eriemer1.
 gh0stxplt.
 javiervillarreal.
-johndahl-now.
 kmohit2809.
 MartinStoyanoff.
 maxigrali.
