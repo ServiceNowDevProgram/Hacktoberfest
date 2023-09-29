@@ -189,6 +189,7 @@ ivan-betev.
 **Other contributors:**
 jaz1gdev.
 johndahl-now.
+Litaflom.
 MGOPW.
 NowSharif.
 wiz0floyd.
@@ -203,7 +204,6 @@ djunaid.
 eriemer1.
 gh0stxplt.
 javiervillarreal.
-Litaflom.
 MartinStoyanoff.
 maxigrali.
 princeofwales88.
@@ -438,6 +438,7 @@ javiervillarreal.
 jaz1gdev.
 kcimpulse.
 LakshmiPrasanna96.
+Litaflom.
 mua35.
 Munnisona.
 NowSharif.
@@ -580,7 +581,6 @@ Lathasuv.
 LaviniaChiburte.
 LekiaAnonim.
 lianskaya.
-Litaflom.
 liyAGHORI.
 LoicSanchez.
 Luci-git.
