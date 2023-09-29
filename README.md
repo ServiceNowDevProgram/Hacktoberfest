@@ -191,6 +191,7 @@ Collosus1.
 derHundOida.
 djunaid.
 gh0stxplt.
+ivan-betev.
 javiervillarreal.
 kmohit2809.
 maxigrali.
@@ -348,9 +349,9 @@ sisco0.
 am-shakeel.
 ashaw7697.
 ewatch.
+Jaskaran-Techno.
 
 **Other contributors:**
-Jaskaran-Techno.
 rohantjoshi.
 thameemskings.
 abhay625.
@@ -526,6 +527,7 @@ hockdiherdo.
 imaxdvd.
 ishwarighule.
 IslamMari.
+ivan-betev.
 j-infinger.
 j2clow.
 jamalissimo.
