@@ -185,9 +185,9 @@ kmohit2809.
 mmaraj1.
 bradtiltonnow.
 ivan-betev.
+jaz1gdev.
 
 **Other contributors:**
-jaz1gdev.
 johndahl-now.
 Litaflom.
 MGOPW.
@@ -209,6 +209,7 @@ maxigrali.
 princeofwales88.
 SapphicFire.
 smoothwood.
+Stevay3.
 TVani5.
 venkat-244.
 
@@ -663,6 +664,7 @@ sohailkhilji.
 somusekher.
 Soulpancake000.
 Srutip04.
+Stevay3.
 SteveMunsell.
 sunnyt107.
 suryakantshoor.
