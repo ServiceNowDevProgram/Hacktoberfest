@@ -206,6 +206,7 @@ djunaid.
 eriemer1.
 gh0stxplt.
 javiervillarreal.
+Josh767676.
 MartinStoyanoff.
 maxigrali.
 princeofwales88.
@@ -369,9 +370,9 @@ Jaskaran-Techno.
 rohantjoshi.
 thameemskings.
 abhay625.
+ankitshaw625.
 
 **Other contributors:**
-ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
@@ -562,6 +563,7 @@ jaypalmr.
 jc73uk.
 Jennylou777.
 jnikita067.
+Josh767676.
 joshuaprakashg.
 joshuatechie.
 jschuller.
