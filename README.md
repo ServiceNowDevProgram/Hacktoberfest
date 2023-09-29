@@ -201,6 +201,7 @@ djunaid.
 eriemer1.
 gh0stxplt.
 javiervillarreal.
+jaz1gdev.
 MartinStoyanoff.
 maxigrali.
 princeofwales88.
@@ -310,9 +311,9 @@ allenandreas.
 apple9000.
 ashu759.
 briangodfreydev.
+Danmax.
 
 **Top 50% contributors:**
-Danmax.
 GauthamBellamkonda.
 gowdah.
 Irston.
@@ -360,9 +361,9 @@ am-shakeel.
 ashaw7697.
 ewatch.
 Jaskaran-Techno.
+rohantjoshi.
 
 **Other contributors:**
-rohantjoshi.
 thameemskings.
 abhay625.
 ankitshaw625.
@@ -548,6 +549,7 @@ jambo969.
 jamiestroud.
 jayeshyadav252.
 jaypalmr.
+jaz1gdev.
 jc73uk.
 Jennylou777.
 jnikita067.
