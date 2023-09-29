@@ -206,6 +206,7 @@ djunaid.
 eriemer1.
 gh0stxplt.
 javiervillarreal.
+jonahpiascik.
 Josh767676.
 lidmaylid.
 MartinStoyanoff.
@@ -270,8 +271,8 @@ danr2c2.
 MRSinghRajat.
 oasif.
 jiteshmalik.
-avssrikanth.
 jonahpiascik.
+avssrikanth.
 
 **Top 25% contributors:**
 ovarn.
