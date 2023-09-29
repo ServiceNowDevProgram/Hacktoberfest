@@ -203,6 +203,7 @@ djunaid.
 eriemer1.
 gh0stxplt.
 javiervillarreal.
+Litaflom.
 MartinStoyanoff.
 maxigrali.
 princeofwales88.
@@ -363,9 +364,9 @@ ashaw7697.
 ewatch.
 Jaskaran-Techno.
 rohantjoshi.
+thameemskings.
 
 **Other contributors:**
-thameemskings.
 abhay625.
 ankitshaw625.
 Arpan-InGen.
@@ -579,6 +580,7 @@ Lathasuv.
 LaviniaChiburte.
 LekiaAnonim.
 lianskaya.
+Litaflom.
 liyAGHORI.
 LoicSanchez.
 Luci-git.
