@@ -190,6 +190,7 @@ MGOPW.
 wiz0floyd.
 Collosus1.
 derHundOida.
+Dhar45.
 djunaid.
 gh0stxplt.
 javiervillarreal.
@@ -301,9 +302,9 @@ soerenmaucher.
 allenandreas.
 apple9000.
 ashu759.
+briangodfreydev.
 
 **Top 50% contributors:**
-briangodfreydev.
 Danmax.
 GauthamBellamkonda.
 gowdah.
@@ -351,9 +352,9 @@ sisco0.
 am-shakeel.
 ashaw7697.
 ewatch.
+Jaskaran-Techno.
 
 **Other contributors:**
-Jaskaran-Techno.
 rohantjoshi.
 thameemskings.
 abhay625.
@@ -490,6 +491,7 @@ denmant.
 derHundOida.
 DFanso.
 dhadwal.
+Dhar45.
 diasjp.
 Dimuthu7.
 DirkRedeker.
