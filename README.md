@@ -178,16 +178,16 @@ smartcarleen.
 hoederath.
 am-shakeel.
 Juusoee.
+hentonjd.
 
 **Top 50% contributors:**
-hentonjd.
 kmohit2809.
 Litaflom.
 mmaraj1.
 bradtiltonnow.
+garyditsch.
 
 **Other contributors:**
-garyditsch.
 ivan-betev.
 jaz1gdev.
 johndahl-now.
@@ -210,6 +210,7 @@ Josh767676.
 lidmaylid.
 MartinStoyanoff.
 maxigrali.
+NicoxNall.
 princeofwales88.
 SapphicFire.
 smoothwood.
@@ -618,6 +619,7 @@ nayeemwajid97.
 neenaSharma1.
 neerajs296.
 Nerdcode.
+NicoxNall.
 NoelJarling.
 noyzmaker.
 nvprav.
