@@ -176,20 +176,21 @@ paigesndev.
 Lacah.
 hoederath.
 smartcarleen.
+am-shakeel.
 
 **Top 50% contributors:**
-am-shakeel.
 Juusoee.
 hentonjd.
 mmaraj1.
+bradtiltonnow.
 
 **Other contributors:**
-bradtiltonnow.
 ivan-betev.
 MGOPW.
 wiz0floyd.
 banjofrailer.
 Collosus1.
+davematz.
 derHundOida.
 Dhar45.
 djunaid.
@@ -257,9 +258,9 @@ Lacah.
 MRSinghRajat.
 oasif.
 jiteshmalik.
+avssrikanth.
 
 **Top 25% contributors:**
-avssrikanth.
 jonahpiascik.
 ovarn.
 sychi77.
@@ -491,6 +492,7 @@ Damilare1212.
 Dan-Bladorn-Trimedx.
 DangerousNights.
 DaSilvaThiago.
+davematz.
 davewburns.
 denmant.
 derHundOida.
