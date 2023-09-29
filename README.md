@@ -175,15 +175,15 @@ niamccash.
 paigesndev.
 Lacah.
 hoederath.
+smartcarleen.
 
 **Top 50% contributors:**
-smartcarleen.
 am-shakeel.
 Juusoee.
 hentonjd.
+mmaraj1.
 
 **Other contributors:**
-mmaraj1.
 bradtiltonnow.
 ivan-betev.
 MGOPW.
@@ -194,6 +194,7 @@ Dhar45.
 djunaid.
 gh0stxplt.
 javiervillarreal.
+johndahl-now.
 kmohit2809.
 maxigrali.
 princeofwales88.
