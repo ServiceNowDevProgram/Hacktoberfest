@@ -174,8 +174,8 @@ Lacah.
 paigesndev.
 
 **Top 25% contributors:**
-hoederath.
 smartcarleen.
+hoederath.
 am-shakeel.
 Juusoee.
 
@@ -244,8 +244,8 @@ vandna07.
 
 **Top 10% contributors:**
 PranavBhagat18.
-aykmrgit.
 smartcarleen.
+aykmrgit.
 litwi1rm.
 mak1A4.
 mlemartien.
