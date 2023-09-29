@@ -177,22 +177,22 @@ Lacah.
 paigesndev.
 hoederath.
 am-shakeel.
+Ladirinia.
 mady22070.
 Juusoee.
-hentonjd.
 
 **Top 50% contributors:**
+hentonjd.
 kmohit2809.
 Litaflom.
 mmaraj1.
 bradtiltonnow.
 garyditsch.
-ivan-betev.
 
 **Other contributors:**
+ivan-betev.
 jaz1gdev.
 johndahl-now.
-Ladirinia.
 MGOPW.
 mockspeed.
 NowSharif.
@@ -375,12 +375,13 @@ am-shakeel.
 ashaw7697.
 ewatch.
 Jaskaran-Techno.
+Ladirinia.
 mady22070.
 rohantjoshi.
 thameemskings.
-abhay625.
 
 **Other contributors:**
+abhay625.
 ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
@@ -452,7 +453,6 @@ ivan-betev.
 javiervillarreal.
 jaz1gdev.
 kcimpulse.
-Ladirinia.
 LakshmiPrasanna96.
 mockspeed.
 mua35.
