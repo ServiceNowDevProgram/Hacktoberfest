@@ -183,9 +183,9 @@ hoederath.
 
 **Other contributors:**
 Juusoee.
+hentonjd.
 mmaraj1.
 bradtiltonnow.
-hentonjd.
 wiz0floyd.
 Collosus1.
 derHundOida.
@@ -407,6 +407,7 @@ jon-lind-sn.
 ToosinDada.
 bendouglass.
 Marll22.
+hentonjd.
 Krishnakant-iv.
 lverbeke.
 mmaraj1.
@@ -418,7 +419,6 @@ bgrk005.
 cmurley.
 DaiTranIT.
 gkiratkar1.
-hentonjd.
 himanisinghal.
 javiervillarreal.
 kcimpulse.
