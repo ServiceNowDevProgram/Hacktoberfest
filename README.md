@@ -202,6 +202,7 @@ designitsecure.
 Dhar45.
 djunaid.
 eriemer1.
+garyditsch.
 gh0stxplt.
 javiervillarreal.
 MartinStoyanoff.
@@ -315,9 +316,9 @@ apple9000.
 ashu759.
 briangodfreydev.
 Danmax.
+GauthamBellamkonda.
 
 **Top 50% contributors:**
-GauthamBellamkonda.
 gowdah.
 Irston.
 odinsride.
@@ -366,9 +367,9 @@ ewatch.
 Jaskaran-Techno.
 rohantjoshi.
 thameemskings.
+abhay625.
 
 **Other contributors:**
-abhay625.
 ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
@@ -526,6 +527,7 @@ extinctsion.
 fisikos.
 flab-io.
 fredosborne.
+garyditsch.
 Geraldf.
 gh0stxplt.
 GiovanniPeretti.
