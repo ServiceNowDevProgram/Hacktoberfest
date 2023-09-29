@@ -177,16 +177,16 @@ paigesndev.
 hoederath.
 smartcarleen.
 am-shakeel.
+Juusoee.
 
 **Top 50% contributors:**
-Juusoee.
 hentonjd.
 kmohit2809.
 mmaraj1.
 bradtiltonnow.
+ivan-betev.
 
 **Other contributors:**
-ivan-betev.
 jaz1gdev.
 johndahl-now.
 MGOPW.
@@ -197,6 +197,7 @@ banjofrailer.
 Collosus1.
 davematz.
 derHundOida.
+designitsecure.
 Dhar45.
 djunaid.
 eriemer1.
@@ -501,6 +502,7 @@ davematz.
 davewburns.
 denmant.
 derHundOida.
+designitsecure.
 DFanso.
 dhadwal.
 Dhar45.
