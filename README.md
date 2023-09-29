@@ -182,14 +182,14 @@ Juusoee.
 **Top 50% contributors:**
 hentonjd.
 kmohit2809.
+Litaflom.
 mmaraj1.
 bradtiltonnow.
 ivan-betev.
-jaz1gdev.
 
 **Other contributors:**
+jaz1gdev.
 johndahl-now.
-Litaflom.
 MGOPW.
 NowSharif.
 wiz0floyd.
@@ -423,6 +423,7 @@ ToosinDada.
 bendouglass.
 Marll22.
 Krishnakant-iv.
+Litaflom.
 lverbeke.
 mmaraj1.
 mohdzeeshan96.
@@ -439,7 +440,6 @@ javiervillarreal.
 jaz1gdev.
 kcimpulse.
 LakshmiPrasanna96.
-Litaflom.
 mua35.
 Munnisona.
 NowSharif.
