@@ -189,6 +189,7 @@ wiz0floyd.
 Collosus1.
 derHundOida.
 gh0stxplt.
+hentonjd.
 javiervillarreal.
 kmohit2809.
 maxigrali.
@@ -296,9 +297,9 @@ seviceN.
 soerenmaucher.
 allenandreas.
 apple9000.
+ashu759.
 
 **Top 50% contributors:**
-ashu759.
 briangodfreydev.
 Danmax.
 GauthamBellamkonda.
@@ -345,9 +346,9 @@ NayeemKaka.
 sisco0.
 am-shakeel.
 ashaw7697.
+ewatch.
 
 **Other contributors:**
-ewatch.
 Jaskaran-Techno.
 rohantjoshi.
 thameemskings.
@@ -515,6 +516,7 @@ han-le.
 hardikvyasji.
 haupx9.
 Hemant-Goldar.
+hentonjd.
 himahk04.
 himavamsi-spec.
 himavamsi8.
