@@ -168,33 +168,32 @@ Meet the Hacktoberfest crew who will be maintaining your projects:
 **Top 5% contributors:**
 earlduque.
 niamccash.
-Litwilly.
+MGOPW.
 
 **Top 10% contributors:**
-MGOPW.
-mady22070.
+Litwilly.
 paigesndev.
+Lacah.
 
 **Top 25% contributors:**
-Lacah.
 smartcarleen.
 Ladirinia.
 hoederath.
 mockspeed.
+mady22070.
 am-shakeel.
 johndahl-now.
 
 **Top 50% contributors:**
 wiresgit.
 Juusoee.
-nthumma.
 hentonjd.
 kmohit2809.
 Litaflom.
 mmaraj1.
+bradtiltonnow.
 
 **Other contributors:**
-bradtiltonnow.
 designitsecure.
 djunaid.
 garyditsch.
@@ -227,6 +226,7 @@ MartinStoyanoff.
 maxigrali.
 MiroslawBuszek.
 NicoxNall.
+nthumma.
 princeofwales88.
 SapphicFire.
 SeaBri.
@@ -288,20 +288,20 @@ SapphicFire.
 aatrey882.
 anillande90.
 danr2c2.
-Litwilly.
 MRSinghRajat.
 oasif.
 jiteshmalik.
 jonahpiascik.
+avssrikanth.
 
 **Top 25% contributors:**
-avssrikanth.
 ovarn.
 sychi77.
 davidkwhuang.
 zahidask.
 azeezgaa.
 DynamiteC.
+Litwilly.
 shakeel-sheikh.
 vjtknn.
 MarcMouries.
@@ -354,12 +354,10 @@ src107.
 pratyushasndev.
 homealone07.
 Iamsant.
-mady22070.
 Sagar-agarwal.
 yourepicservices.
 markroethof.
 mskoddow.
-nthumma.
 Abhishekchowdarapu.
 anguspalmer.
 ChecksumFailed.
@@ -374,6 +372,7 @@ allam1234.
 Decoder-Paul.
 Ladirinia.
 miracc.
+nthumma.
 patrickpaterlini.
 LucasRocha2308.
 Mahesh-Krishnan1.
@@ -387,6 +386,7 @@ hoederath.
 mockspeed.
 VaishnaviLathkar98.
 abhilash264.
+mady22070.
 NayeemKaka.
 sisco0.
 am-shakeel.
@@ -405,9 +405,7 @@ AryanBarsaiyan.
 ashleysnyder.
 brichards99.
 Coder0131.
-Crankzaton.
 DaleD-SN.
-danybr0.
 deathkraiser.
 dhruvii-powershell.
 dorsy99.
@@ -530,6 +528,7 @@ codexpert247.
 Codjam.
 Collosus1.
 Coolaxx.
+Crankzaton.
 CreatorWorkflowSC.
 csharpie.
 cwhits.
@@ -537,6 +536,7 @@ dalestubblefield.
 Damilare1212.
 Dan-Bladorn-Trimedx.
 DangerousNights.
+danybr0.
 DaSilvaThiago.
 davematz.
 davewburns.
