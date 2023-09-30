@@ -172,9 +172,9 @@ niamccash.
 **Top 10% contributors:**
 smartcarleen.
 Lacah.
+paigesndev.
 
 **Top 25% contributors:**
-paigesndev.
 mockspeed.
 hoederath.
 am-shakeel.
@@ -222,6 +222,7 @@ SeaBri.
 smoothwood.
 Stevay3.
 TheSethRose.
+v-agnihotri.
 venkat-244.
 
 ## Leaderboard (all time):
@@ -379,9 +380,9 @@ Jaskaran-Techno.
 Ladirinia.
 mady22070.
 rohantjoshi.
+thameemskings.
 
 **Other contributors:**
-thameemskings.
 abhay625.
 ankitshaw625.
 Arpan-InGen.
@@ -704,6 +705,7 @@ TRIGGEREDcoder.
 troat9824.
 tsicot.
 tylerteter.
+v-agnihotri.
 vaishakbkj-ml.
 VanWeapon.
 venkat-244.
