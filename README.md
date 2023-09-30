@@ -171,18 +171,18 @@ niamccash.
 mady22070.
 
 **Top 10% contributors:**
-MGOPW.
 Litwilly.
+MGOPW.
 paigesndev.
 
 **Top 25% contributors:**
 Lacah.
 smartcarleen.
-johndahl-now.
 Ladirinia.
 hoederath.
 mockspeed.
 am-shakeel.
+johndahl-now.
 
 **Top 50% contributors:**
 wiresgit.
@@ -288,20 +288,20 @@ SapphicFire.
 aatrey882.
 anillande90.
 danr2c2.
+Litwilly.
 MRSinghRajat.
 oasif.
 jiteshmalik.
 jonahpiascik.
-avssrikanth.
 
 **Top 25% contributors:**
+avssrikanth.
 ovarn.
 sychi77.
 davidkwhuang.
 zahidask.
 azeezgaa.
 DynamiteC.
-Litwilly.
 shakeel-sheikh.
 vjtknn.
 MarcMouries.
