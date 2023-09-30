@@ -181,18 +181,18 @@ mockspeed.
 hoederath.
 am-shakeel.
 mady22070.
+Juusoee.
 
 **Top 50% contributors:**
-Juusoee.
 nthumma.
 hentonjd.
 kmohit2809.
 Litaflom.
 mmaraj1.
 bradtiltonnow.
+garyditsch.
 
 **Other contributors:**
-garyditsch.
 ivan-betev.
 jaz1gdev.
 johndahl-now.
@@ -216,6 +216,7 @@ javiervillarreal.
 jonahpiascik.
 Josh767676.
 lidmaylid.
+Litwilly.
 MartinStoyanoff.
 maxigrali.
 MiroslawBuszek.
@@ -337,11 +338,11 @@ gowdah.
 Irston.
 
 **Top 50% contributors:**
+Litwilly.
 odinsride.
 piyusalunke123.
 rmedved84.
 src107.
-Litwilly.
 pratyushasndev.
 homealone07.
 Iamsant.
