@@ -191,9 +191,9 @@ Litaflom.
 mmaraj1.
 bradtiltonnow.
 garyditsch.
+ivan-betev.
 
 **Other contributors:**
-ivan-betev.
 jaz1gdev.
 johndahl-now.
 NowSharif.
@@ -212,6 +212,7 @@ Dhar45.
 djunaid.
 eriemer1.
 gh0stxplt.
+ishanjain18.
 javiervillarreal.
 jonahpiascik.
 Josh767676.
@@ -573,6 +574,7 @@ himavamsi-spec.
 himavamsi8.
 hockdiherdo.
 imaxdvd.
+ishanjain18.
 ishwarighule.
 IslamMari.
 j-infinger.
