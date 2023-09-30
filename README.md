@@ -170,27 +170,28 @@ earlduque.
 niamccash.
 
 **Top 10% contributors:**
+MGOPW.
 smartcarleen.
 Lacah.
-paigesndev.
 
 **Top 25% contributors:**
+paigesndev.
 mockspeed.
 hoederath.
 am-shakeel.
 Ladirinia.
 mady22070.
-Juusoee.
 
 **Top 50% contributors:**
+Juusoee.
 nthumma.
 hentonjd.
 kmohit2809.
 Litaflom.
 mmaraj1.
-bradtiltonnow.
 
 **Other contributors:**
+bradtiltonnow.
 garyditsch.
 ivan-betev.
 jaz1gdev.
@@ -267,6 +268,7 @@ salmaniqbal92.
 mr-swann.
 bird-03.
 eriemer1.
+mgopw.
 amigujarathi.
 hafsa-asif.
 devinvalencia.
@@ -279,16 +281,15 @@ MRSinghRajat.
 oasif.
 jiteshmalik.
 jonahpiascik.
-avssrikanth.
 
 **Top 25% contributors:**
+avssrikanth.
 ovarn.
 sychi77.
 davidkwhuang.
 zahidask.
 azeezgaa.
 DynamiteC.
-mgopw.
 shakeel-sheikh.
 vjtknn.
 MarcMouries.
