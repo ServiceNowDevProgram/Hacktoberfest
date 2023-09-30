@@ -177,14 +177,14 @@ Lacah.
 
 **Top 25% contributors:**
 Ladirinia.
+Litwilly.
 mockspeed.
 hoederath.
 am-shakeel.
 mady22070.
-Juusoee.
 
 **Top 50% contributors:**
-Litwilly.
+Juusoee.
 nthumma.
 hentonjd.
 kmohit2809.
@@ -308,6 +308,7 @@ mjonssonme.
 techYESlogyXplorer.
 b1naryst0rm.
 iar42.
+Litwilly.
 AdilBasha1SAP.
 bradtiltonnow.
 phr-nk.
@@ -324,7 +325,6 @@ HarneetSital.
 jacebenson.
 ReginaldFawcett.
 thorn91.
-Litwilly.
 namrataghorpade.
 danielliaus.
 sauravsumankumar.
