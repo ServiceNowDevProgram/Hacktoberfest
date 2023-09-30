@@ -214,6 +214,7 @@ Dhar45.
 djunaid.
 eriemer1.
 gh0stxplt.
+Haile-08.
 Hanan-Ashraf.
 HauseMasterZ.
 ishanjain18.
@@ -343,9 +344,9 @@ Danmax.
 GauthamBellamkonda.
 gowdah.
 Irston.
+odinsride.
 
 **Top 50% contributors:**
-odinsride.
 piyusalunke123.
 rmedved84.
 src107.
@@ -396,9 +397,9 @@ thameemskings.
 abhay625.
 ankitshaw625.
 Arpan-InGen.
+AryanBarsaiyan.
 
 **Other contributors:**
-AryanBarsaiyan.
 ashleysnyder.
 brichards99.
 Coder0131.
@@ -570,6 +571,7 @@ greencarlos.
 GuisseMaabo.
 gurudev-7.
 HackoDev1530.
+Haile-08.
 han-le.
 Hanan-Ashraf.
 hardikvyasji.
