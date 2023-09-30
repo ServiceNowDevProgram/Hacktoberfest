@@ -195,6 +195,7 @@ bradtiltonnow.
 
 **Other contributors:**
 designitsecure.
+djunaid.
 garyditsch.
 ivan-betev.
 jaz1gdev.
@@ -212,7 +213,6 @@ davematz.
 dcord1x.
 derHundOida.
 Dhar45.
-djunaid.
 eriemer1.
 gh0stxplt.
 Haile-08.
@@ -464,6 +464,7 @@ bgrk005.
 cmurley.
 DaiTranIT.
 designitsecure.
+djunaid.
 garyditsch.
 gkiratkar1.
 himanisinghal.
@@ -548,7 +549,6 @@ Dhar45.
 diasjp.
 Dimuthu7.
 DirkRedeker.
-djunaid.
 drizzlt.
 DudeDrew.
 eduard-nitoi.
