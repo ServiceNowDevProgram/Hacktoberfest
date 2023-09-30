@@ -190,9 +190,9 @@ hentonjd.
 kmohit2809.
 Litaflom.
 mmaraj1.
+bradtiltonnow.
 
 **Other contributors:**
-bradtiltonnow.
 garyditsch.
 ivan-betev.
 jaz1gdev.
@@ -235,6 +235,7 @@ theotherdebs.
 TheSethRose.
 v-agnihotri.
 venkat-244.
+wiresgit.
 
 ## Leaderboard (all time):
 
@@ -738,6 +739,7 @@ vvijaya19.
 Watermark-ServiceNow.
 wcarroll.
 wggibson.
+wiresgit.
 wkbroxton.
 xdisplay.
 youthinkasido.
