@@ -180,17 +180,17 @@ hoederath.
 am-shakeel.
 Ladirinia.
 mady22070.
+Juusoee.
 
 **Top 50% contributors:**
-Juusoee.
 hentonjd.
 kmohit2809.
 Litaflom.
 mmaraj1.
 bradtiltonnow.
+garyditsch.
 
 **Other contributors:**
-garyditsch.
 ivan-betev.
 jaz1gdev.
 johndahl-now.
@@ -217,6 +217,7 @@ lidmaylid.
 MartinStoyanoff.
 maxigrali.
 NicoxNall.
+nthumma.
 princeofwales88.
 SapphicFire.
 SeaBri.
@@ -358,11 +359,11 @@ akhoshnood.
 allam1234.
 Decoder-Paul.
 miracc.
+nthumma.
 patrickpaterlini.
 LucasRocha2308.
 Mahesh-Krishnan1.
 MihirRathod.
-nthumma.
 preshitd.
 tanu-profile.
 TheTreyKyle.
