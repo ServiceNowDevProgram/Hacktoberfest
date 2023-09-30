@@ -227,6 +227,7 @@ SeaBri.
 shridk.
 smoothwood.
 Stevay3.
+theotherdebs.
 TheSethRose.
 v-agnihotri.
 venkat-244.
@@ -284,9 +285,9 @@ MRSinghRajat.
 oasif.
 jiteshmalik.
 jonahpiascik.
+avssrikanth.
 
 **Top 25% contributors:**
-avssrikanth.
 ovarn.
 sychi77.
 davidkwhuang.
@@ -702,6 +703,7 @@ suryakantshoor.
 sushil-now.
 SweetPoodle.
 TamByrd.
+theotherdebs.
 TheSethRose.
 thesnowguy.
 thomas-seiberl.
