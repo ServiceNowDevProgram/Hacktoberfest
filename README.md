@@ -182,18 +182,18 @@ mady22070.
 mockspeed.
 hoederath.
 am-shakeel.
+Juusoee.
 
 **Top 50% contributors:**
-Juusoee.
 nthumma.
 hentonjd.
 kmohit2809.
 Litaflom.
 mmaraj1.
 bradtiltonnow.
+designitsecure.
 
 **Other contributors:**
-designitsecure.
 garyditsch.
 ivan-betev.
 jaz1gdev.
@@ -231,6 +231,7 @@ princeofwales88.
 SapphicFire.
 SeaBri.
 shridk.
+Shubham2227.
 smoothwood.
 Stevay3.
 theotherdebs.
@@ -702,6 +703,7 @@ shakysnake.
 shaoservicenow.
 sherief-io.
 shubham-snc.
+Shubham2227.
 smoothwood.
 SNOWMac75.
 sohailkhilji.
