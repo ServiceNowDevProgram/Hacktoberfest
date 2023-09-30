@@ -182,18 +182,19 @@ mady22070.
 mockspeed.
 hoederath.
 am-shakeel.
-Juusoee.
+wiresgit.
 
 **Top 50% contributors:**
+Juusoee.
 nthumma.
 hentonjd.
 kmohit2809.
 Litaflom.
 mmaraj1.
 bradtiltonnow.
-designitsecure.
 
 **Other contributors:**
+designitsecure.
 garyditsch.
 ivan-betev.
 jaz1gdev.
@@ -201,7 +202,6 @@ johndahl-now.
 NowSharif.
 RaunakScarlet.
 TVani5.
-wiresgit.
 wiz0floyd.
 23Thom.
 at8807602.
@@ -395,12 +395,13 @@ ewatch.
 Jaskaran-Techno.
 rohantjoshi.
 thameemskings.
+wiresgit.
 abhay625.
 ankitshaw625.
 Arpan-InGen.
-AryanBarsaiyan.
 
 **Other contributors:**
+AryanBarsaiyan.
 ashleysnyder.
 brichards99.
 Coder0131.
@@ -479,7 +480,6 @@ ron-karim.
 snowritik.
 TonySerN.
 TVani5.
-wiresgit.
 0x3developer.
 158w5a0532.
 aaron-howard.
