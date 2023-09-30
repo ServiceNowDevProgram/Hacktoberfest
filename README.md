@@ -192,9 +192,9 @@ hentonjd.
 kmohit2809.
 Litaflom.
 mmaraj1.
+bradtiltonnow.
 
 **Other contributors:**
-bradtiltonnow.
 designitsecure.
 djunaid.
 garyditsch.
@@ -228,6 +228,7 @@ maxigrali.
 MiroslawBuszek.
 NicoxNall.
 nthumma.
+PatriciaMaPe.
 princeofwales88.
 SapphicFire.
 SeaBri.
@@ -661,6 +662,7 @@ nvprav.
 oskadoskaposka.
 ousswx-wx.
 parthpanchal123.
+PatriciaMaPe.
 peteosaz.
 petersonferreira.
 PeteSkeet101.
