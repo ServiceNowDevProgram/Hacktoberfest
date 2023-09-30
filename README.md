@@ -178,11 +178,11 @@ paigesndev.
 **Top 25% contributors:**
 Lacah.
 smartcarleen.
+johndahl-now.
 Ladirinia.
 hoederath.
 mockspeed.
 am-shakeel.
-johndahl-now.
 
 **Top 50% contributors:**
 wiresgit.
