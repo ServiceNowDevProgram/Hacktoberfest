@@ -182,24 +182,24 @@ Ladirinia.
 mockspeed.
 hoederath.
 am-shakeel.
-wiresgit.
+johndahl-now.
 
 **Top 50% contributors:**
+wiresgit.
 Juusoee.
 nthumma.
 hentonjd.
 kmohit2809.
 Litaflom.
 mmaraj1.
-bradtiltonnow.
 
 **Other contributors:**
+bradtiltonnow.
 designitsecure.
 djunaid.
 garyditsch.
 ivan-betev.
 jaz1gdev.
-johndahl-now.
 NowSharif.
 RaunakScarlet.
 TVani5.
@@ -243,8 +243,8 @@ venkat-244.
 
 **Top 5% contributors:**
 earlduque.
-ishaanshoor.
 johndahl-now.
+ishaanshoor.
 niamccash.
 paigesndev.
 DavidArthurCole.
