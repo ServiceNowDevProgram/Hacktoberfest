@@ -184,6 +184,7 @@ mady22070.
 Juusoee.
 
 **Top 50% contributors:**
+Litwilly.
 nthumma.
 hentonjd.
 kmohit2809.
@@ -191,9 +192,9 @@ Litaflom.
 mmaraj1.
 bradtiltonnow.
 garyditsch.
-ivan-betev.
 
 **Other contributors:**
+ivan-betev.
 jaz1gdev.
 johndahl-now.
 NowSharif.
@@ -218,7 +219,6 @@ javiervillarreal.
 jonahpiascik.
 Josh767676.
 lidmaylid.
-Litwilly.
 MartinStoyanoff.
 maxigrali.
 MiroslawBuszek.
@@ -323,6 +323,7 @@ HarneetSital.
 jacebenson.
 ReginaldFawcett.
 thorn91.
+Litwilly.
 namrataghorpade.
 danielliaus.
 sauravsumankumar.
@@ -339,7 +340,6 @@ Danmax.
 GauthamBellamkonda.
 gowdah.
 Irston.
-Litwilly.
 
 **Top 50% contributors:**
 odinsride.
