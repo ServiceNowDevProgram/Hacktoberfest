@@ -172,8 +172,8 @@ MGOPW.
 
 **Top 10% contributors:**
 paigesndev.
-smartcarleen.
 Lacah.
+smartcarleen.
 
 **Top 25% contributors:**
 Ladirinia.
@@ -279,9 +279,9 @@ mgopw.
 amigujarathi.
 hafsa-asif.
 devinvalencia.
+Lacah.
 SapphicFire.
 aatrey882.
-Lacah.
 anillande90.
 danr2c2.
 MRSinghRajat.
