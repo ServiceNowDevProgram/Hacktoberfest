@@ -199,6 +199,7 @@ jaz1gdev.
 johndahl-now.
 NowSharif.
 TVani5.
+wiresgit.
 wiz0floyd.
 23Thom.
 at8807602.
@@ -235,7 +236,6 @@ theotherdebs.
 TheSethRose.
 v-agnihotri.
 venkat-244.
-wiresgit.
 
 ## Leaderboard (all time):
 
@@ -475,6 +475,7 @@ ron-karim.
 snowritik.
 TonySerN.
 TVani5.
+wiresgit.
 0x3developer.
 158w5a0532.
 aaron-howard.
@@ -739,7 +740,6 @@ vvijaya19.
 Watermark-ServiceNow.
 wcarroll.
 wggibson.
-wiresgit.
 wkbroxton.
 xdisplay.
 youthinkasido.
