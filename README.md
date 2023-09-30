@@ -168,10 +168,10 @@ Meet the Hacktoberfest crew who will be maintaining your projects:
 **Top 5% contributors:**
 earlduque.
 niamccash.
-MGOPW.
+Litwilly.
 
 **Top 10% contributors:**
-Litwilly.
+MGOPW.
 paigesndev.
 Lacah.
 
@@ -289,20 +289,20 @@ SapphicFire.
 aatrey882.
 anillande90.
 danr2c2.
+Litwilly.
 MRSinghRajat.
 oasif.
 jiteshmalik.
 jonahpiascik.
-avssrikanth.
 
 **Top 25% contributors:**
+avssrikanth.
 ovarn.
 sychi77.
 davidkwhuang.
 zahidask.
 azeezgaa.
 DynamiteC.
-Litwilly.
 shakeel-sheikh.
 vjtknn.
 MarcMouries.
