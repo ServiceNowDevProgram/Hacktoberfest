@@ -189,9 +189,9 @@ hentonjd.
 kmohit2809.
 Litaflom.
 mmaraj1.
+bradtiltonnow.
 
 **Other contributors:**
-bradtiltonnow.
 garyditsch.
 ivan-betev.
 jaz1gdev.
@@ -222,6 +222,7 @@ NicoxNall.
 princeofwales88.
 SapphicFire.
 SeaBri.
+shridk.
 smoothwood.
 Stevay3.
 TheSethRose.
@@ -366,11 +367,11 @@ LucasRocha2308.
 Mahesh-Krishnan1.
 MihirRathod.
 preshitd.
+shridk.
 tanu-profile.
 TheTreyKyle.
 thisnameissoclever.
 mockspeed.
-shridk.
 hoederath.
 VaishnaviLathkar98.
 abhilash264.
