@@ -183,6 +183,7 @@ at8807602.
 johndahl-now.
 
 **Top 50% contributors:**
+4bode.
 Juusoee.
 ManobhavSachan.
 Saileshlanka.
@@ -191,9 +192,9 @@ Litaflom.
 mmaraj1.
 outlivo.
 SapphicFire.
-bradtiltonnow.
 
 **Other contributors:**
+bradtiltonnow.
 designitsecure.
 djunaid.
 garyditsch.
@@ -209,7 +210,6 @@ vishalbirajdar0712.
 wiz0floyd.
 Yokesh0811.
 23Thom.
-4bode.
 adarshsingh7470.
 banjofrailer.
 bharatr21.
@@ -414,14 +414,15 @@ ewatch.
 Jaskaran-Techno.
 rohantjoshi.
 thameemskings.
+4bode.
 abhay625.
 ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
-brichards99.
 
 **Other contributors:**
+brichards99.
 Coder0131.
 DaleD-SN.
 deathkraiser.
@@ -506,7 +507,6 @@ vishalbirajdar0712.
 Yokesh0811.
 0x3developer.
 158w5a0532.
-4bode.
 aaron-howard.
 AbServicenow.
 acdigitalclarity.
