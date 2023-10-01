@@ -164,16 +164,16 @@ earlduque.
 MGOPW.
 niamccash.
 Lacah.
+Litwilly.
 
 **Top 10% contributors:**
-Litwilly.
 sychi77.
 hoederath.
 wiresgit.
 paigesndev.
+mady22070.
 
 **Top 25% contributors:**
-mady22070.
 smartcarleen.
 goranlundqvist.
 Ladirinia.
@@ -196,10 +196,10 @@ ManobhavSachan.
 Saileshlanka.
 Danmax.
 csharpie.
-kmohit2809.
-Litaflom.
 
 **Other contributors:**
+kmohit2809.
+Litaflom.
 mmaraj1.
 outlivo.
 SapphicFire.
@@ -210,6 +210,7 @@ djunaid.
 garyditsch.
 ivan-betev.
 jaz1gdev.
+jesalynrose.
 manoj424.
 mvarshney99.
 NicoxNall.
@@ -325,9 +326,9 @@ jiteshmalik.
 jonahpiascik.
 avssrikanth.
 ovarn.
+davidkwhuang.
 
 **Top 25% contributors:**
-davidkwhuang.
 zahidask.
 azeezgaa.
 DynamiteC.
@@ -511,6 +512,7 @@ himanisinghal.
 ivan-betev.
 javiervillarreal.
 jaz1gdev.
+jesalynrose.
 kcimpulse.
 LakshmiPrasanna96.
 manoj424.
