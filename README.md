@@ -187,15 +187,16 @@ at8807602.
 johndahl-now.
 Yokesh0811.
 4bode.
+goranlundqvist.
 Juusoee.
 ManobhavSachan.
 Saileshlanka.
 csharpie.
 kmohit2809.
 Litaflom.
-mmaraj1.
 
 **Other contributors:**
+mmaraj1.
 outlivo.
 SapphicFire.
 bradtiltonnow.
@@ -227,7 +228,6 @@ DinithiG.
 eriemer1.
 Flashdevp95.
 gh0stxplt.
-goranlundqvist.
 Haile-08.
 Hanan-Ashraf.
 HauseMasterZ.
@@ -435,6 +435,7 @@ DaleD-SN.
 deathkraiser.
 dhruvii-powershell.
 dorsy99.
+goranlundqvist.
 hmadhsan.
 iamvpbhaskar.
 igrzhukovich.
@@ -603,7 +604,6 @@ Geraldf.
 gh0stxplt.
 GiovanniPeretti.
 git-rep0.
-goranlundqvist.
 GouthamSG.
 Gowthammadhusuthanan067.
 greenc123.
