@@ -176,9 +176,9 @@ mady22070.
 **Top 25% contributors:**
 smartcarleen.
 goranlundqvist.
+jesalynrose.
 Ladirinia.
 hentonjd.
-jesalynrose.
 mockspeed.
 Irston.
 am-shakeel.
@@ -405,6 +405,7 @@ akhoshnood.
 allam1234.
 Decoder-Paul.
 goranlundqvist.
+jesalynrose.
 Ladirinia.
 miracc.
 nthumma.
@@ -418,7 +419,6 @@ shridk.
 tanu-profile.
 TheTreyKyle.
 thisnameissoclever.
-jesalynrose.
 mockspeed.
 VaishnaviLathkar98.
 abhilash264.
