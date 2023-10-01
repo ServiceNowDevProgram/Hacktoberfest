@@ -176,7 +176,6 @@ wiresgit.
 paigesndev.
 mady22070.
 smartcarleen.
-goranlundqvist.
 Ladirinia.
 pandeysumit-now.
 hentonjd.
@@ -184,6 +183,7 @@ mockspeed.
 Irston.
 am-shakeel.
 at8807602.
+goranlundqvist.
 
 **Top 50% contributors:**
 johndahl-now.
@@ -297,8 +297,8 @@ sychi77.
 
 **Top 10% contributors:**
 PranavBhagat18.
-aykmrgit.
 Lacah.
+aykmrgit.
 litwi1rm.
 mak1A4.
 mlemartien.
@@ -400,7 +400,6 @@ Adiana3308.
 akhoshnood.
 allam1234.
 Decoder-Paul.
-goranlundqvist.
 Ladirinia.
 miracc.
 nthumma.
@@ -424,6 +423,7 @@ am-shakeel.
 ashaw7697.
 at8807602.
 ewatch.
+goranlundqvist.
 Jaskaran-Techno.
 rohantjoshi.
 thameemskings.
