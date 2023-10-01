@@ -205,6 +205,7 @@ RaunakScarlet.
 TVani5.
 wiz0floyd.
 23Thom.
+4bode.
 at8807602.
 banjofrailer.
 Collosus1.
@@ -268,9 +269,9 @@ BadalHub.
 MrChrisE.
 vandna07.
 smartcarleen.
+PranavBhagat18.
 
 **Top 10% contributors:**
-PranavBhagat18.
 aykmrgit.
 litwi1rm.
 mak1A4.
@@ -295,9 +296,9 @@ MRSinghRajat.
 oasif.
 jiteshmalik.
 jonahpiascik.
+avssrikanth.
 
 **Top 25% contributors:**
-avssrikanth.
 ovarn.
 sychi77.
 davidkwhuang.
@@ -400,10 +401,10 @@ thameemskings.
 wiresgit.
 abhay625.
 ankitshaw625.
-Arpan-InGen.
-AryanBarsaiyan.
 
 **Other contributors:**
+Arpan-InGen.
+AryanBarsaiyan.
 ashleysnyder.
 brichards99.
 Coder0131.
@@ -484,6 +485,7 @@ TonySerN.
 TVani5.
 0x3developer.
 158w5a0532.
+4bode.
 aaron-howard.
 AbServicenow.
 acdigitalclarity.
