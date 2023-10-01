@@ -194,10 +194,11 @@ Maithani-ji.
 ManobhavSachan.
 Saileshlanka.
 Danmax.
+jesalynrose.
 csharpie.
-kmohit2809.
 
 **Other contributors:**
+kmohit2809.
 Litaflom.
 mmaraj1.
 outlivo.
@@ -209,7 +210,6 @@ djunaid.
 garyditsch.
 ivan-betev.
 jaz1gdev.
-jesalynrose.
 manoj424.
 mvarshney99.
 NicoxNall.
@@ -488,6 +488,7 @@ zaidongy.
 jon-lind-sn.
 ToosinDada.
 bendouglass.
+jesalynrose.
 Marll22.
 csharpie.
 Krishnakant-iv.
@@ -511,7 +512,6 @@ himanisinghal.
 ivan-betev.
 javiervillarreal.
 jaz1gdev.
-jesalynrose.
 kcimpulse.
 LakshmiPrasanna96.
 manoj424.
