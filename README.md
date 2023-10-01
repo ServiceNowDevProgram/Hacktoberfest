@@ -176,19 +176,19 @@ smartcarleen.
 Ladirinia.
 pandeysumit-now.
 wiresgit.
+sychi77.
 hentonjd.
 mockspeed.
 am-shakeel.
 at8807602.
-johndahl-now.
 
 **Top 50% contributors:**
+johndahl-now.
 Yokesh0811.
 4bode.
 Juusoee.
 ManobhavSachan.
 Saileshlanka.
-sychi77.
 csharpie.
 kmohit2809.
 Litaflom.
@@ -297,11 +297,11 @@ RahmanM.
 salmaniqbal92.
 mr-swann.
 bird-03.
+sychi77.
 eriemer1.
 SapphicFire.
 amigujarathi.
 hafsa-asif.
-sychi77.
 devinvalencia.
 aatrey882.
 anillande90.
