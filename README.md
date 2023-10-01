@@ -161,8 +161,8 @@ Meet the Hacktoberfest crew who will be maintaining your projects:
 
 **Top 5% contributors:**
 earlduque.
-niamccash.
 MGOPW.
+niamccash.
 Lacah.
 
 **Top 10% contributors:**
@@ -272,9 +272,9 @@ kmohit2809.
 hrobarikt.
 sumanthdosapati.
 urspvs.
+mgopw.
 Radhe-Manasa.
 MartinStoyanoff.
-mgopw.
 stevezero.
 rafzk.
 ynr-ram.
