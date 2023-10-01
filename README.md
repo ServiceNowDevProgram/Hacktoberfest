@@ -180,16 +180,16 @@ Ladirinia.
 hentonjd.
 mockspeed.
 Irston.
+jesalynrose.
 am-shakeel.
 at8807602.
 johndahl-now.
-pandeysumit-now.
 
 **Top 50% contributors:**
+pandeysumit-now.
 RagaChitraMankala.
 Yokesh0811.
 4bode.
-jesalynrose.
 Juusoee.
 Maithani-ji.
 ManobhavSachan.
@@ -421,6 +421,7 @@ thisnameissoclever.
 mockspeed.
 VaishnaviLathkar98.
 abhilash264.
+jesalynrose.
 NayeemKaka.
 sisco0.
 am-shakeel.
@@ -438,9 +439,9 @@ abhay625.
 ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
-ashleysnyder.
 
 **Other contributors:**
+ashleysnyder.
 brichards99.
 Coder0131.
 DaleD-SN.
@@ -452,7 +453,6 @@ iamvpbhaskar.
 igrzhukovich.
 j4rodm.
 jamesfoot.
-jesalynrose.
 JingAlanzhixin.
 jordanrogus.
 Juusoee.
