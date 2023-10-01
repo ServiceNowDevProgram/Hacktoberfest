@@ -185,12 +185,12 @@ mockspeed.
 am-shakeel.
 at8807602.
 johndahl-now.
+pandeysumit-now.
 wiresgit.
-Juusoee.
 
 **Top 50% contributors:**
+Juusoee.
 ManobhavSachan.
-pandeysumit-now.
 Saileshlanka.
 kmohit2809.
 Litaflom.
@@ -416,6 +416,7 @@ ashaw7697.
 at8807602.
 ewatch.
 Jaskaran-Techno.
+pandeysumit-now.
 rohantjoshi.
 thameemskings.
 wiresgit.
@@ -425,9 +426,9 @@ Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
 brichards99.
-Coder0131.
 
 **Other contributors:**
+Coder0131.
 DaleD-SN.
 deathkraiser.
 dhruvii-powershell.
@@ -449,7 +450,6 @@ mevops.
 mikeroosa.
 moshjahan.
 mwchiao.
-pandeysumit-now.
 pavankumar-4.
 physi.
 pratyushmp.
