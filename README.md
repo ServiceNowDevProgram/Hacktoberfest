@@ -184,10 +184,10 @@ am-shakeel.
 at8807602.
 
 **Top 50% contributors:**
+goranlundqvist.
 johndahl-now.
 Yokesh0811.
 4bode.
-goranlundqvist.
 Juusoee.
 ManobhavSachan.
 Saileshlanka.
@@ -417,6 +417,7 @@ am-shakeel.
 ashaw7697.
 at8807602.
 ewatch.
+goranlundqvist.
 Jaskaran-Techno.
 rohantjoshi.
 thameemskings.
@@ -424,9 +425,9 @@ Yokesh0811.
 4bode.
 abhay625.
 ankitshaw625.
-Arpan-InGen.
 
 **Other contributors:**
+Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
 brichards99.
@@ -435,7 +436,6 @@ DaleD-SN.
 deathkraiser.
 dhruvii-powershell.
 dorsy99.
-goranlundqvist.
 hmadhsan.
 iamvpbhaskar.
 igrzhukovich.
