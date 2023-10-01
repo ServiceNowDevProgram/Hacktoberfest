@@ -189,16 +189,15 @@ pandeysumit-now.
 RagaChitraMankala.
 Yokesh0811.
 4bode.
-DhanushNehru.
 Juusoee.
 Maithani-ji.
 ManobhavSachan.
 Saileshlanka.
 Danmax.
 csharpie.
+kmohit2809.
 
 **Other contributors:**
-kmohit2809.
 Litaflom.
 mmaraj1.
 outlivo.
@@ -233,6 +232,7 @@ davematz.
 dcord1x.
 derHundOida.
 developmentpark.
+DhanushNehru.
 Dhar45.
 DinithiG.
 eriemer1.
@@ -444,7 +444,6 @@ brichards99.
 Coder0131.
 DaleD-SN.
 deathkraiser.
-DhanushNehru.
 dhruvii-powershell.
 dorsy99.
 hmadhsan.
@@ -599,6 +598,7 @@ derHundOida.
 developmentpark.
 DFanso.
 dhadwal.
+DhanushNehru.
 Dhar45.
 diasjp.
 Dimuthu7.
