@@ -189,12 +189,12 @@ pandeysumit-now.
 RagaChitraMankala.
 Yokesh0811.
 4bode.
+jesalynrose.
 Juusoee.
 Maithani-ji.
 ManobhavSachan.
 Saileshlanka.
 Danmax.
-jesalynrose.
 csharpie.
 
 **Other contributors:**
@@ -452,6 +452,7 @@ iamvpbhaskar.
 igrzhukovich.
 j4rodm.
 jamesfoot.
+jesalynrose.
 JingAlanzhixin.
 jordanrogus.
 Juusoee.
@@ -489,7 +490,6 @@ zaidongy.
 jon-lind-sn.
 ToosinDada.
 bendouglass.
-jesalynrose.
 Marll22.
 csharpie.
 Krishnakant-iv.
