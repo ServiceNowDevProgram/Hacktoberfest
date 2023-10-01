@@ -188,6 +188,7 @@ at8807602.
 johndahl-now.
 Yokesh0811.
 4bode.
+DhanushNehru.
 Juusoee.
 ManobhavSachan.
 Saileshlanka.
@@ -195,9 +196,9 @@ csharpie.
 kmohit2809.
 Litaflom.
 mmaraj1.
-outlivo.
 
 **Other contributors:**
+outlivo.
 SapphicFire.
 bradtiltonnow.
 designitsecure.
@@ -226,7 +227,6 @@ davematz.
 dcord1x.
 derHundOida.
 developmentpark.
-DhanushNehru.
 Dhar45.
 DinithiG.
 eriemer1.
@@ -438,6 +438,7 @@ brichards99.
 Coder0131.
 DaleD-SN.
 deathkraiser.
+DhanushNehru.
 dhruvii-powershell.
 dorsy99.
 hmadhsan.
@@ -587,7 +588,6 @@ derHundOida.
 developmentpark.
 DFanso.
 dhadwal.
-DhanushNehru.
 Dhar45.
 diasjp.
 Dimuthu7.
