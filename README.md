@@ -167,13 +167,13 @@ Lacah.
 
 **Top 10% contributors:**
 Litwilly.
+sychi77.
 hoederath.
 RagaChitraMankala.
 wiresgit.
-paigesndev.
 
 **Top 25% contributors:**
-sychi77.
+paigesndev.
 mady22070.
 smartcarleen.
 Ladirinia.
@@ -287,14 +287,14 @@ BadalHub.
 MrChrisE.
 vandna07.
 smartcarleen.
-PranavBhagat18.
+sychi77.
 
 **Top 10% contributors:**
+PranavBhagat18.
 aykmrgit.
 Lacah.
 litwi1rm.
 mak1A4.
-sychi77.
 mlemartien.
 23Thom.
 RahmanM.
