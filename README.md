@@ -183,9 +183,9 @@ hentonjd.
 mockspeed.
 am-shakeel.
 at8807602.
+johndahl-now.
 
 **Top 50% contributors:**
-johndahl-now.
 Yokesh0811.
 4bode.
 DhanushNehru.
@@ -196,9 +196,9 @@ csharpie.
 kmohit2809.
 Litaflom.
 mmaraj1.
+outlivo.
 
 **Other contributors:**
-outlivo.
 SapphicFire.
 bradtiltonnow.
 designitsecure.
@@ -221,6 +221,7 @@ Ayushi22-coder.
 azabadaudiya.
 banjofrailer.
 bharatr21.
+bhavyajain511.
 cheshtapathak.
 Collosus1.
 davematz.
@@ -555,6 +556,7 @@ bgrk.
 bhanucvbmg.
 Bharat123rox.
 bharatr21.
+bhavyajain511.
 Bigshmow.
 billyperkinsukg.
 bmfmancini.
