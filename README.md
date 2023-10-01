@@ -240,6 +240,7 @@ Shubham2227.
 smoothwood.
 Sookeyy-12.
 Stevay3.
+sychi77.
 theotherdebs.
 TheSethRose.
 v-agnihotri.
@@ -302,8 +303,8 @@ jonahpiascik.
 avssrikanth.
 
 **Top 25% contributors:**
-ovarn.
 sychi77.
+ovarn.
 davidkwhuang.
 zahidask.
 azeezgaa.
