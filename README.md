@@ -205,6 +205,7 @@ jaz1gdev.
 NowSharif.
 RaunakScarlet.
 TVani5.
+vishalbirajdar0712.
 wiz0floyd.
 23Thom.
 banjofrailer.
@@ -242,7 +243,6 @@ theotherdebs.
 TheSethRose.
 v-agnihotri.
 venkat-244.
-vishalbirajdar0712.
 
 ## Leaderboard (all time):
 
@@ -487,6 +487,7 @@ ron-karim.
 snowritik.
 TonySerN.
 TVani5.
+vishalbirajdar0712.
 0x3developer.
 158w5a0532.
 aaron-howard.
@@ -746,7 +747,6 @@ venkat-244.
 VictorAlbergaria.
 vigneshmc.
 vijayshankar485.
-vishalbirajdar0712.
 Vivek-KP.
 vkambhammettu.
 vpeinado.
