@@ -195,9 +195,9 @@ kmohit2809.
 Litaflom.
 mmaraj1.
 bradtiltonnow.
+designitsecure.
 
 **Other contributors:**
-designitsecure.
 djunaid.
 garyditsch.
 ivan-betev.
@@ -209,6 +209,7 @@ vishalbirajdar0712.
 wiz0floyd.
 23Thom.
 banjofrailer.
+bharatr21.
 cheshtapathak.
 Collosus1.
 csharpie.
@@ -409,9 +410,9 @@ thameemskings.
 wiresgit.
 4bode.
 abhay625.
+ankitshaw625.
 
 **Other contributors:**
-ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
@@ -524,6 +525,7 @@ BFrost.
 bgrk.
 bhanucvbmg.
 Bharat123rox.
+bharatr21.
 Bigshmow.
 billyperkinsukg.
 bmfmancini.
