@@ -178,15 +178,15 @@ mady22070.
 smartcarleen.
 goranlundqvist.
 Ladirinia.
-pandeysumit-now.
 hentonjd.
 mockspeed.
 Irston.
 am-shakeel.
 at8807602.
+johndahl-now.
 
 **Top 50% contributors:**
-johndahl-now.
+pandeysumit-now.
 Yokesh0811.
 4bode.
 DhanushNehru.
@@ -297,8 +297,8 @@ smartcarleen.
 sychi77.
 
 **Top 10% contributors:**
-PranavBhagat18.
 Lacah.
+PranavBhagat18.
 aykmrgit.
 litwi1rm.
 mak1A4.
@@ -405,7 +405,6 @@ goranlundqvist.
 Ladirinia.
 miracc.
 nthumma.
-pandeysumit-now.
 patrickpaterlini.
 LucasRocha2308.
 Mahesh-Krishnan1.
@@ -426,6 +425,7 @@ ashaw7697.
 at8807602.
 ewatch.
 Jaskaran-Techno.
+pandeysumit-now.
 rohantjoshi.
 thameemskings.
 Yokesh0811.
