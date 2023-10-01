@@ -193,12 +193,13 @@ DhanushNehru.
 Juusoee.
 ManobhavSachan.
 Saileshlanka.
+Danmax.
 csharpie.
 kmohit2809.
 Litaflom.
-mmaraj1.
 
 **Other contributors:**
+mmaraj1.
 outlivo.
 SapphicFire.
 bhavyajain511.
@@ -356,6 +357,7 @@ HarneetSital.
 jacebenson.
 ReginaldFawcett.
 thorn91.
+Danmax.
 namrataghorpade.
 danielliaus.
 sauravsumankumar.
@@ -368,7 +370,6 @@ allenandreas.
 apple9000.
 ashu759.
 briangodfreydev.
-Danmax.
 GauthamBellamkonda.
 gowdah.
 odinsride.
