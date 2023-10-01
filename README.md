@@ -192,9 +192,9 @@ Litaflom.
 mmaraj1.
 outlivo.
 SapphicFire.
+bradtiltonnow.
 
 **Other contributors:**
-bradtiltonnow.
 designitsecure.
 djunaid.
 garyditsch.
@@ -242,6 +242,7 @@ parag477.
 PatriciaMaPe.
 princeofwales88.
 SeaBri.
+sheikhafsarzap.
 shridk.
 Shubham2227.
 smoothwood.
@@ -420,9 +421,9 @@ ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
+brichards99.
 
 **Other contributors:**
-brichards99.
 Coder0131.
 DaleD-SN.
 deathkraiser.
@@ -734,6 +735,7 @@ sekhar398.
 ServiceNowDevProgram.
 shakysnake.
 shaoservicenow.
+sheikhafsarzap.
 sherief-io.
 shubham-snc.
 Shubham2227.
