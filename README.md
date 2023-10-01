@@ -183,9 +183,9 @@ mockspeed.
 mady22070.
 am-shakeel.
 at8807602.
+johndahl-now.
 
 **Top 50% contributors:**
-johndahl-now.
 wiresgit.
 4bode.
 Juusoee.
@@ -193,9 +193,9 @@ Saileshlanka.
 hentonjd.
 kmohit2809.
 Litaflom.
+mmaraj1.
 
 **Other contributors:**
-mmaraj1.
 bradtiltonnow.
 designitsecure.
 djunaid.
@@ -241,6 +241,7 @@ theotherdebs.
 TheSethRose.
 v-agnihotri.
 venkat-244.
+vishalbirajdar0712.
 
 ## Leaderboard (all time):
 
@@ -743,6 +744,7 @@ venkat-244.
 VictorAlbergaria.
 vigneshmc.
 vijayshankar485.
+vishalbirajdar0712.
 Vivek-KP.
 vkambhammettu.
 vpeinado.
