@@ -169,15 +169,15 @@ Lacah.
 Litwilly.
 sychi77.
 hoederath.
-RagaChitraMankala.
 wiresgit.
+paigesndev.
 
 **Top 25% contributors:**
-paigesndev.
 mady22070.
 smartcarleen.
 goranlundqvist.
 Ladirinia.
+RagaChitraMankala.
 hentonjd.
 mockspeed.
 Irston.
@@ -388,7 +388,6 @@ Sagar-agarwal.
 yourepicservices.
 markroethof.
 mskoddow.
-RagaChitraMankala.
 wiresgit.
 Abhishekchowdarapu.
 anguspalmer.
@@ -408,6 +407,7 @@ Ladirinia.
 miracc.
 nthumma.
 patrickpaterlini.
+RagaChitraMankala.
 LucasRocha2308.
 Mahesh-Krishnan1.
 MihirRathod.
