@@ -178,19 +178,19 @@ smartcarleen.
 
 **Top 25% contributors:**
 Ladirinia.
+hentonjd.
 hoederath.
 mockspeed.
 mady22070.
 am-shakeel.
 at8807602.
 johndahl-now.
-wiresgit.
 
 **Top 50% contributors:**
+wiresgit.
 4bode.
 Juusoee.
 Saileshlanka.
-hentonjd.
 kmohit2809.
 Litaflom.
 mmaraj1.
@@ -391,6 +391,7 @@ shridk.
 tanu-profile.
 TheTreyKyle.
 thisnameissoclever.
+hentonjd.
 hoederath.
 mockspeed.
 VaishnaviLathkar98.
@@ -408,9 +409,9 @@ thameemskings.
 wiresgit.
 4bode.
 abhay625.
-ankitshaw625.
 
 **Other contributors:**
+ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
@@ -457,7 +458,6 @@ Subhraneel77.
 tomlozano.
 trishitapingolia.
 zaidongy.
-hentonjd.
 jon-lind-sn.
 ToosinDada.
 bendouglass.
