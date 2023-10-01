@@ -186,9 +186,9 @@ am-shakeel.
 at8807602.
 johndahl-now.
 wiresgit.
+Juusoee.
 
 **Top 50% contributors:**
-Juusoee.
 ManobhavSachan.
 Saileshlanka.
 kmohit2809.
@@ -197,9 +197,9 @@ mmaraj1.
 outlivo.
 SapphicFire.
 bradtiltonnow.
+designitsecure.
 
 **Other contributors:**
-designitsecure.
 djunaid.
 garyditsch.
 ivan-betev.
@@ -256,6 +256,7 @@ sychi77.
 theotherdebs.
 TheSethRose.
 v-agnihotri.
+Vaibhav91one.
 venkat-244.
 
 ## Leaderboard (all time):
@@ -368,9 +369,9 @@ odinsride.
 piyusalunke123.
 rmedved84.
 src107.
+hoederath.
 
 **Top 50% contributors:**
-hoederath.
 pratyushasndev.
 homealone07.
 Iamsant.
@@ -423,9 +424,9 @@ Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
 brichards99.
+Coder0131.
 
 **Other contributors:**
-Coder0131.
 DaleD-SN.
 deathkraiser.
 dhruvii-powershell.
@@ -768,6 +769,7 @@ troat9824.
 tsicot.
 tylerteter.
 v-agnihotri.
+Vaibhav91one.
 vaishakbkj-ml.
 VanWeapon.
 venkat-244.
