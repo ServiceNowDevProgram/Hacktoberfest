@@ -175,16 +175,16 @@ mady22070.
 smartcarleen.
 Ladirinia.
 pandeysumit-now.
+RagaChitraMankala.
 wiresgit.
 sychi77.
 hentonjd.
 mockspeed.
 am-shakeel.
 at8807602.
-johndahl-now.
 
 **Top 50% contributors:**
-RagaChitraMankala.
+johndahl-now.
 Yokesh0811.
 4bode.
 Juusoee.
@@ -395,6 +395,7 @@ miracc.
 nthumma.
 pandeysumit-now.
 patrickpaterlini.
+RagaChitraMankala.
 wiresgit.
 LucasRocha2308.
 Mahesh-Krishnan1.
@@ -415,7 +416,6 @@ ashaw7697.
 at8807602.
 ewatch.
 Jaskaran-Techno.
-RagaChitraMankala.
 rohantjoshi.
 thameemskings.
 Yokesh0811.
