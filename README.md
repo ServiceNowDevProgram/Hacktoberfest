@@ -190,6 +190,7 @@ Juusoee.
 
 **Top 50% contributors:**
 ManobhavSachan.
+pandeysumit-now.
 Saileshlanka.
 kmohit2809.
 Litaflom.
@@ -197,9 +198,9 @@ mmaraj1.
 outlivo.
 SapphicFire.
 bradtiltonnow.
-designitsecure.
 
 **Other contributors:**
+designitsecure.
 djunaid.
 garyditsch.
 ivan-betev.
@@ -242,7 +243,6 @@ MiroslawBuszek.
 mvarshney99.
 NicoxNall.
 nthumma.
-pandeysumit-now.
 parag477.
 PatriciaMaPe.
 princeofwales88.
@@ -448,6 +448,7 @@ mevops.
 mikeroosa.
 moshjahan.
 mwchiao.
+pandeysumit-now.
 pavankumar-4.
 physi.
 pratyushmp.
@@ -692,7 +693,6 @@ noyzmaker.
 nvprav.
 oskadoskaposka.
 ousswx-wx.
-pandeysumit-now.
 parag477.
 parthpanchal123.
 PatriciaMaPe.
