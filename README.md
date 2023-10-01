@@ -100,12 +100,6 @@ https://github.com/ServiceNowDevProgram/Plants
 
 > The ever popular "Show us your office plants" plants app is here, contribute by adding your metadata and/or expanding functionality.
 
-## Dispatcher Configurable Workspace
-
-https://github.com/ServiceNowDevProgram/911-Dispatcher-Workspace
-
-> We’ve created a Configurable Workspace solution for 911 operators to do 911 operator things and stuff. Come help build out this custom application and brush up on your UI Builder skills. I feel bad that this description is so short, but I don’t know what else to write. Listen – you try to be witty and funny three times in a row and let me know how it works out for you ok?
-
 ## Instance Scan Checks
 
 https://github.com/ServiceNowDevProgram/example-instancescan-checks
