@@ -196,9 +196,9 @@ kmohit2809.
 Litaflom.
 mmaraj1.
 outlivo.
+SapphicFire.
 
 **Other contributors:**
-SapphicFire.
 bradtiltonnow.
 designitsecure.
 djunaid.
@@ -241,6 +241,7 @@ maxigrali.
 MiroslawBuszek.
 NicoxNall.
 nthumma.
+pandeysumit-now.
 parag477.
 PatriciaMaPe.
 princeofwales88.
@@ -420,9 +421,9 @@ abhay625.
 ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
+ashleysnyder.
 
 **Other contributors:**
-ashleysnyder.
 brichards99.
 Coder0131.
 DaleD-SN.
@@ -688,6 +689,7 @@ noyzmaker.
 nvprav.
 oskadoskaposka.
 ousswx-wx.
+pandeysumit-now.
 parag477.
 parthpanchal123.
 PatriciaMaPe.
