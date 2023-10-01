@@ -170,9 +170,9 @@ Litwilly.
 hoederath.
 paigesndev.
 sychi77.
+mady22070.
 
 **Top 25% contributors:**
-mady22070.
 smartcarleen.
 Ladirinia.
 pandeysumit-now.
@@ -227,6 +227,7 @@ DinithiG.
 eriemer1.
 Flashdevp95.
 gh0stxplt.
+goranlundqvist.
 Haile-08.
 Hanan-Ashraf.
 HauseMasterZ.
@@ -423,9 +424,9 @@ Yokesh0811.
 4bode.
 abhay625.
 ankitshaw625.
+Arpan-InGen.
 
 **Other contributors:**
-Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
 brichards99.
@@ -602,6 +603,7 @@ Geraldf.
 gh0stxplt.
 GiovanniPeretti.
 git-rep0.
+goranlundqvist.
 GouthamSG.
 Gowthammadhusuthanan067.
 greenc123.
