@@ -197,6 +197,7 @@ outlivo.
 **Other contributors:**
 SapphicFire.
 bradtiltonnow.
+csharpie.
 designitsecure.
 djunaid.
 garyditsch.
@@ -216,7 +217,6 @@ banjofrailer.
 bharatr21.
 cheshtapathak.
 Collosus1.
-csharpie.
 davematz.
 dcord1x.
 derHundOida.
@@ -483,6 +483,7 @@ ab7289.
 anirudhkumarm.
 bgrk005.
 cmurley.
+csharpie.
 DaiTranIT.
 designitsecure.
 djunaid.
@@ -559,7 +560,6 @@ Collosus1.
 Coolaxx.
 Crankzaton.
 CreatorWorkflowSC.
-csharpie.
 cwhits.
 dalestubblefield.
 Damilare1212.
