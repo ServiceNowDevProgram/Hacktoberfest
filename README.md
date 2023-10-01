@@ -245,6 +245,7 @@ MartinStoyanoff.
 maxigrali.
 MiroslawBuszek.
 NicoxNall.
+noviicee.
 nthumma.
 nuwan94.
 parag477.
@@ -430,9 +431,9 @@ Yokesh0811.
 abhay625.
 ankitshaw625.
 Arpan-InGen.
+AryanBarsaiyan.
 
 **Other contributors:**
-AryanBarsaiyan.
 ashleysnyder.
 brichards99.
 Coder0131.
@@ -700,6 +701,7 @@ neerajs296.
 Nerdcode.
 NicoxNall.
 NoelJarling.
+noviicee.
 noyzmaker.
 nuwan94.
 nvprav.
