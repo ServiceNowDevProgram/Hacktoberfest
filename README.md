@@ -201,6 +201,7 @@ mmaraj1.
 **Other contributors:**
 outlivo.
 SapphicFire.
+bhavyajain511.
 bradtiltonnow.
 designitsecure.
 djunaid.
@@ -221,7 +222,6 @@ Ayushi22-coder.
 azabadaudiya.
 banjofrailer.
 bharatr21.
-bhavyajain511.
 cheshtapathak.
 Collosus1.
 davematz.
@@ -496,6 +496,7 @@ outlivo.
 ab7289.
 anirudhkumarm.
 bgrk005.
+bhavyajain511.
 cmurley.
 DaiTranIT.
 designitsecure.
@@ -556,7 +557,6 @@ bgrk.
 bhanucvbmg.
 Bharat123rox.
 bharatr21.
-bhavyajain511.
 Bigshmow.
 billyperkinsukg.
 bmfmancini.
