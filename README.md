@@ -195,9 +195,9 @@ csharpie.
 kmohit2809.
 Litaflom.
 mmaraj1.
+outlivo.
 
 **Other contributors:**
-outlivo.
 SapphicFire.
 bradtiltonnow.
 designitsecure.
@@ -234,6 +234,7 @@ gh0stxplt.
 Haile-08.
 Hanan-Ashraf.
 HauseMasterZ.
+Irston.
 ishanjain18.
 javiervillarreal.
 JoeSDoro.
@@ -358,6 +359,7 @@ sauravsumankumar.
 ashuprince121.
 adarshsingh0205.
 harisnad.
+Irston.
 seviceN.
 soerenmaucher.
 allenandreas.
@@ -367,7 +369,6 @@ briangodfreydev.
 Danmax.
 GauthamBellamkonda.
 gowdah.
-Irston.
 odinsride.
 piyusalunke123.
 rmedved84.
