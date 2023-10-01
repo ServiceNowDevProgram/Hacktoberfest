@@ -189,15 +189,15 @@ Juusoee.
 ManobhavSachan.
 Saileshlanka.
 sychi77.
+csharpie.
 kmohit2809.
 Litaflom.
 mmaraj1.
-outlivo.
 
 **Other contributors:**
+outlivo.
 SapphicFire.
 bradtiltonnow.
-csharpie.
 designitsecure.
 djunaid.
 garyditsch.
@@ -472,6 +472,7 @@ jon-lind-sn.
 ToosinDada.
 bendouglass.
 Marll22.
+csharpie.
 Krishnakant-iv.
 Litaflom.
 lverbeke.
@@ -483,7 +484,6 @@ ab7289.
 anirudhkumarm.
 bgrk005.
 cmurley.
-csharpie.
 DaiTranIT.
 designitsecure.
 djunaid.
