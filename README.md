@@ -197,9 +197,9 @@ mmaraj1.
 SapphicFire.
 bradtiltonnow.
 designitsecure.
+djunaid.
 
 **Other contributors:**
-djunaid.
 garyditsch.
 ivan-betev.
 jaz1gdev.
@@ -237,6 +237,7 @@ maxigrali.
 MiroslawBuszek.
 NicoxNall.
 nthumma.
+outlivo.
 PatriciaMaPe.
 princeofwales88.
 sdgrube2.
@@ -307,9 +308,9 @@ oasif.
 jiteshmalik.
 jonahpiascik.
 avssrikanth.
+sychi77.
 
 **Top 25% contributors:**
-sychi77.
 ovarn.
 davidkwhuang.
 zahidask.
@@ -680,6 +681,7 @@ noyzmaker.
 nvprav.
 oskadoskaposka.
 ousswx-wx.
+outlivo.
 parthpanchal123.
 PatriciaMaPe.
 peteosaz.
