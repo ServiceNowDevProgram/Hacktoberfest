@@ -221,6 +221,7 @@ Hanan-Ashraf.
 HauseMasterZ.
 ishanjain18.
 javiervillarreal.
+JoeSDoro.
 jonahpiascik.
 Josh767676.
 lidmaylid.
@@ -402,9 +403,9 @@ rohantjoshi.
 thameemskings.
 wiresgit.
 4bode.
+abhay625.
 
 **Other contributors:**
-abhay625.
 ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
@@ -604,6 +605,7 @@ jaypalmr.
 jc73uk.
 Jennylou777.
 jnikita067.
+JoeSDoro.
 Josh767676.
 joshuaprakashg.
 joshuatechie.
