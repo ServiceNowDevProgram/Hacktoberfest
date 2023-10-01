@@ -180,13 +180,13 @@ mady22070.
 **Top 25% contributors:**
 smartcarleen.
 Ladirinia.
+pandeysumit-now.
 wiresgit.
 hentonjd.
 mockspeed.
 am-shakeel.
 at8807602.
 johndahl-now.
-pandeysumit-now.
 
 **Top 50% contributors:**
 Juusoee.
@@ -396,6 +396,7 @@ Decoder-Paul.
 Ladirinia.
 miracc.
 nthumma.
+pandeysumit-now.
 patrickpaterlini.
 wiresgit.
 LucasRocha2308.
@@ -417,7 +418,6 @@ ashaw7697.
 at8807602.
 ewatch.
 Jaskaran-Techno.
-pandeysumit-now.
 rohantjoshi.
 thameemskings.
 abhay625.
