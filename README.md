@@ -188,13 +188,14 @@ Yokesh0811.
 Juusoee.
 ManobhavSachan.
 Saileshlanka.
+sychi77.
 kmohit2809.
 Litaflom.
 mmaraj1.
 outlivo.
-SapphicFire.
 
 **Other contributors:**
+SapphicFire.
 bradtiltonnow.
 designitsecure.
 djunaid.
@@ -248,7 +249,6 @@ Shubham2227.
 smoothwood.
 Sookeyy-12.
 Stevay3.
-sychi77.
 theotherdebs.
 TheSethRose.
 v-agnihotri.
@@ -300,6 +300,7 @@ eriemer1.
 SapphicFire.
 amigujarathi.
 hafsa-asif.
+sychi77.
 devinvalencia.
 aatrey882.
 anillande90.
@@ -310,7 +311,6 @@ oasif.
 jiteshmalik.
 jonahpiascik.
 avssrikanth.
-sychi77.
 
 **Top 25% contributors:**
 ovarn.
