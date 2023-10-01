@@ -185,9 +185,9 @@ mady22070.
 am-shakeel.
 at8807602.
 johndahl-now.
+wiresgit.
 
 **Top 50% contributors:**
-wiresgit.
 Juusoee.
 Saileshlanka.
 kmohit2809.
@@ -196,9 +196,9 @@ mmaraj1.
 SapphicFire.
 bradtiltonnow.
 designitsecure.
+djunaid.
 
 **Other contributors:**
-djunaid.
 garyditsch.
 ivan-betev.
 jaz1gdev.
@@ -238,6 +238,7 @@ NicoxNall.
 nthumma.
 PatriciaMaPe.
 princeofwales88.
+sdgrube2.
 SeaBri.
 shridk.
 Shubham2227.
@@ -358,9 +359,9 @@ gowdah.
 Irston.
 odinsride.
 piyusalunke123.
+rmedved84.
 
 **Top 50% contributors:**
-rmedved84.
 src107.
 pratyushasndev.
 homealone07.
@@ -412,9 +413,9 @@ wiresgit.
 abhay625.
 ankitshaw625.
 Arpan-InGen.
+AryanBarsaiyan.
 
 **Other contributors:**
-AryanBarsaiyan.
 ashleysnyder.
 brichards99.
 Coder0131.
@@ -716,6 +717,7 @@ Sarita3012.
 sasukepatel.
 Saumyaup11.
 scschroc.
+sdgrube2.
 SeaBri.
 sekhar398.
 ServiceNowDevProgram.
