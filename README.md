@@ -185,15 +185,15 @@ jesalynrose.
 Ladirinia.
 pandeysumit-now.
 mockspeed.
+designitsecure.
 Jayden-Chiu.
 bhavyajain511.
-Irston.
 
 **Top 50% contributors:**
+Irston.
 Yokesh0811.
 am-shakeel.
 debendu-das.
-designitsecure.
 djunaid.
 johndahl-now.
 RagaChitraMankala.
@@ -440,6 +440,7 @@ tanu-profile.
 TheTreyKyle.
 thisnameissoclever.
 mockspeed.
+designitsecure.
 Jayden-Chiu.
 VaishnaviLathkar98.
 abhilash264.
@@ -450,7 +451,6 @@ Yokesh0811.
 am-shakeel.
 ashaw7697.
 debendu-das.
-designitsecure.
 djunaid.
 ewatch.
 Jaskaran-Techno.
