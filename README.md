@@ -182,14 +182,14 @@ djunaid.
 goranlundqvist.
 jesalynrose.
 Ladirinia.
+pandeysumit-now.
 mockspeed.
 bhavyajain511.
-Irston.
 
 **Top 50% contributors:**
+Irston.
 am-shakeel.
 johndahl-now.
-pandeysumit-now.
 RagaChitraMankala.
 RaunakScarlet.
 Yokesh0811.
@@ -418,6 +418,7 @@ jesalynrose.
 Ladirinia.
 miracc.
 nthumma.
+pandeysumit-now.
 patrickpaterlini.
 LucasRocha2308.
 Mahesh-Krishnan1.
@@ -437,7 +438,6 @@ am-shakeel.
 ashaw7697.
 ewatch.
 Jaskaran-Techno.
-pandeysumit-now.
 RagaChitraMankala.
 RaunakScarlet.
 rohantjoshi.
