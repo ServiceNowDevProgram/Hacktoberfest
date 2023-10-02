@@ -171,15 +171,15 @@ hoederath.
 mady22070.
 Litwilly.
 sychi77.
-ajcooper72.
 paigesndev.
+wiresgit.
 
 **Top 25% contributors:**
-wiresgit.
 hentonjd.
 Danmax.
 SapphicFire.
 smartcarleen.
+ajcooper72.
 goranlundqvist.
 jesalynrose.
 Ladirinia.
@@ -303,8 +303,8 @@ sumanthdosapati.
 mgopw.
 urspvs.
 Radhe-Manasa.
-MartinStoyanoff.
 Lacah.
+MartinStoyanoff.
 stevezero.
 rafzk.
 ynr-ram.
@@ -405,7 +405,6 @@ Iamsant.
 **Top 50% contributors:**
 Sagar-agarwal.
 yourepicservices.
-ajcooper72.
 markroethof.
 mskoddow.
 wiresgit.
@@ -419,6 +418,7 @@ ttoter.
 AlphaEagle.
 JWITSM.
 Adiana3308.
+ajcooper72.
 akhoshnood.
 allam1234.
 Decoder-Paul.
