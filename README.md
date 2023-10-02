@@ -186,9 +186,9 @@ Ladirinia.
 pandeysumit-now.
 mockspeed.
 Jayden-Chiu.
+bhavyajain511.
 
 **Top 50% contributors:**
-bhavyajain511.
 Irston.
 am-shakeel.
 johndahl-now.
@@ -200,9 +200,9 @@ DhanushNehru.
 Juusoee.
 ManobhavSachan.
 Saileshlanka.
+csharpie.
 
 **Other contributors:**
-csharpie.
 djharshit.
 kmohit2809.
 Litaflom.
@@ -258,6 +258,7 @@ Maithani-ji.
 MartinStoyanoff.
 maxigrali.
 MiroslawBuszek.
+Msiva19.
 Muhammad-Rebaal.
 nthumma.
 nuwan94.
@@ -451,9 +452,9 @@ thameemskings.
 Yokesh0811.
 4bode.
 abhay625.
+ankitshaw625.
 
 **Other contributors:**
-ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
@@ -721,6 +722,7 @@ mortumus.
 mpvarmadatla.
 mrdavidgrant.
 MS4X4.
+Msiva19.
 mugiwaramenon.
 Muhammad-Rebaal.
 muhjaved.
