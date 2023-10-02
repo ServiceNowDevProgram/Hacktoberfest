@@ -203,6 +203,7 @@ Saileshlanka.
 
 **Other contributors:**
 csharpie.
+djharshit.
 kmohit2809.
 Litaflom.
 mmaraj1.
@@ -211,7 +212,6 @@ SapphicFire.
 bradtiltonnow.
 DavidMarcial.
 designitsecure.
-djharshit.
 garyditsch.
 ivan-betev.
 jaz1gdev.
@@ -507,6 +507,7 @@ ToosinDada.
 bendouglass.
 Marll22.
 csharpie.
+djharshit.
 Krishnakant-iv.
 Litaflom.
 lverbeke.
@@ -521,7 +522,6 @@ cmurley.
 DaiTranIT.
 DavidMarcial.
 designitsecure.
-djharshit.
 garyditsch.
 gkiratkar1.
 himanisinghal.
