@@ -207,11 +207,12 @@ djunaid.
 johndahl-now.
 RagaChitraMankala.
 4bode.
+brenduh.
 DhanushNehru.
 JBscriptsNow.
-Juusoee.
 
 **Other contributors:**
+Juusoee.
 ManobhavSachan.
 Saileshlanka.
 seviceN.
@@ -245,7 +246,6 @@ Ayushi22-coder.
 azabadaudiya.
 banjofrailer.
 bharatr21.
-brenduh.
 chelming.
 cheshtapathak.
 Collosus1.
@@ -479,6 +479,7 @@ ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
+brenduh.
 brichards99.
 Coder0131.
 DaleD-SN.
@@ -608,7 +609,6 @@ bharatr21.
 Bigshmow.
 billyperkinsukg.
 bmfmancini.
-brenduh.
 Brian-Rowland.
 celsiogil.
 cenzo85.
