@@ -184,9 +184,9 @@ Danmax.
 mockspeed.
 Irston.
 am-shakeel.
+djunaid.
 
 **Top 50% contributors:**
-djunaid.
 johndahl-now.
 pandeysumit-now.
 RagaChitraMankala.
@@ -197,9 +197,9 @@ ManobhavSachan.
 Saileshlanka.
 csharpie.
 kmohit2809.
+Litaflom.
 
 **Other contributors:**
-Litaflom.
 mmaraj1.
 outlivo.
 SapphicFire.
@@ -244,6 +244,7 @@ Hanan-Ashraf.
 HauseMasterZ.
 ishanjain18.
 javiervillarreal.
+JBscriptsNow.
 JoeSDoro.
 jonahpiascik.
 Josh767676.
@@ -442,9 +443,9 @@ abhay625.
 ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
+ashleysnyder.
 
 **Other contributors:**
-ashleysnyder.
 brichards99.
 Coder0131.
 DaleD-SN.
@@ -655,6 +656,7 @@ jambo969.
 jamiestroud.
 jayeshyadav252.
 jaypalmr.
+JBscriptsNow.
 jc73uk.
 Jennylou777.
 jnikita067.
