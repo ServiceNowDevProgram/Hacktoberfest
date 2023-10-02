@@ -179,17 +179,17 @@ paigesndev.
 Danmax.
 mady22070.
 smartcarleen.
+ajcooper72.
 djunaid.
 goranlundqvist.
 jesalynrose.
 Ladirinia.
 mockspeed.
 Jayden-Chiu.
-bhavyajain511.
 
 **Top 50% contributors:**
+bhavyajain511.
 Irston.
-ajcooper72.
 am-shakeel.
 johndahl-now.
 RagaChitraMankala.
@@ -412,6 +412,7 @@ AlphaEagle.
 JWITSM.
 mady22070.
 Adiana3308.
+ajcooper72.
 akhoshnood.
 allam1234.
 Decoder-Paul.
@@ -437,7 +438,6 @@ abhilash264.
 bhavyajain511.
 NayeemKaka.
 sisco0.
-ajcooper72.
 am-shakeel.
 ashaw7697.
 ewatch.
