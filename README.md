@@ -180,12 +180,13 @@ smartcarleen.
 goranlundqvist.
 jesalynrose.
 Ladirinia.
+Danmax.
 mockspeed.
 Irston.
 am-shakeel.
-djunaid.
 
 **Top 50% contributors:**
+djunaid.
 johndahl-now.
 pandeysumit-now.
 RagaChitraMankala.
@@ -194,7 +195,6 @@ RaunakScarlet.
 Juusoee.
 ManobhavSachan.
 Saileshlanka.
-Danmax.
 csharpie.
 kmohit2809.
 
@@ -345,6 +345,7 @@ harishankert.
 mjonssonme.
 techYESlogyXplorer.
 b1naryst0rm.
+Danmax.
 iar42.
 AdilBasha1SAP.
 bradtiltonnow.
@@ -363,7 +364,6 @@ HarneetSital.
 jacebenson.
 ReginaldFawcett.
 thorn91.
-Danmax.
 namrataghorpade.
 danielliaus.
 sauravsumankumar.
