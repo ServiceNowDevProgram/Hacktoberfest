@@ -107,7 +107,6 @@ https://github.com/ServiceNowDevProgram/911-Dispatcher-Workspace
 >
 > Consider this repository as a blank template you can make in to an awesome application. It's really bare bones right now, so think of useful features you want to add!
 
-
 ## Instance Scan Checks
 
 https://github.com/ServiceNowDevProgram/example-instancescan-checks
