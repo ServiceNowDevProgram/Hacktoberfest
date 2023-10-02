@@ -169,10 +169,10 @@ mady22070.
 **Top 10% contributors:**
 hoederath.
 at8807602.
+ajcooper72.
 Litwilly.
 sychi77.
 paigesndev.
-ajcooper72.
 
 **Top 25% contributors:**
 wiresgit.
@@ -387,6 +387,7 @@ sauravsumankumar.
 ashuprince121.
 at8807602.
 adarshsingh0205.
+ajcooper72.
 harisnad.
 soerenmaucher.
 allenandreas.
@@ -401,12 +402,11 @@ rmedved84.
 src107.
 pratyushasndev.
 homealone07.
-Iamsant.
 
 **Top 50% contributors:**
+Iamsant.
 Sagar-agarwal.
 yourepicservices.
-ajcooper72.
 markroethof.
 mskoddow.
 wiresgit.
