@@ -202,12 +202,12 @@ designitsecure.
 bhavyajain511.
 Irston.
 am-shakeel.
+brenduh.
 debendu-das.
 djunaid.
 johndahl-now.
 RagaChitraMankala.
 4bode.
-brenduh.
 DhanushNehru.
 JBscriptsNow.
 
@@ -464,6 +464,7 @@ NayeemKaka.
 sisco0.
 am-shakeel.
 ashaw7697.
+brenduh.
 debendu-das.
 djunaid.
 ewatch.
@@ -473,13 +474,12 @@ rohantjoshi.
 thameemskings.
 4bode.
 abhay625.
-ankitshaw625.
 
 **Other contributors:**
+ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
-brenduh.
 brichards99.
 Coder0131.
 DaleD-SN.
