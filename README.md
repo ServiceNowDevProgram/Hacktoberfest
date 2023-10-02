@@ -170,16 +170,16 @@ Litwilly.
 sychi77.
 hoederath.
 wiresgit.
+hentonjd.
 paigesndev.
-mady22070.
 
 **Top 25% contributors:**
+mady22070.
 at8807602.
 smartcarleen.
 goranlundqvist.
 jesalynrose.
 Ladirinia.
-hentonjd.
 mockspeed.
 Irston.
 am-shakeel.
@@ -395,6 +395,7 @@ wiresgit.
 Abhishekchowdarapu.
 anguspalmer.
 ChecksumFailed.
+hentonjd.
 revantKulkarni.
 trade12.
 ttoter.
@@ -412,7 +413,6 @@ Ladirinia.
 miracc.
 nthumma.
 patrickpaterlini.
-hentonjd.
 LucasRocha2308.
 Mahesh-Krishnan1.
 MihirRathod.
