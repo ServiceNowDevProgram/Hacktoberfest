@@ -180,18 +180,18 @@ mady22070.
 SapphicFire.
 smartcarleen.
 ajcooper72.
-djunaid.
 goranlundqvist.
 jesalynrose.
 Ladirinia.
 pandeysumit-now.
 mockspeed.
 Jayden-Chiu.
+bhavyajain511.
 
 **Top 50% contributors:**
-bhavyajain511.
 Irston.
 am-shakeel.
+djunaid.
 johndahl-now.
 RagaChitraMankala.
 RaunakScarlet.
@@ -315,8 +315,8 @@ sychi77.
 
 **Top 10% contributors:**
 PranavBhagat18.
-aykmrgit.
 SapphicFire.
+aykmrgit.
 litwi1rm.
 mak1A4.
 mlemartien.
@@ -419,7 +419,6 @@ ajcooper72.
 akhoshnood.
 allam1234.
 Decoder-Paul.
-djunaid.
 goranlundqvist.
 jesalynrose.
 Ladirinia.
@@ -444,6 +443,7 @@ NayeemKaka.
 sisco0.
 am-shakeel.
 ashaw7697.
+djunaid.
 ewatch.
 Jaskaran-Techno.
 RagaChitraMankala.
