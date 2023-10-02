@@ -190,21 +190,21 @@ Jayden-Chiu.
 SapphicFire.
 smartcarleen.
 Yokesh0811.
+djunaid.
 goranlundqvist.
 jesalynrose.
 Ladirinia.
 pandeysumit-now.
 RaunakScarlet.
-mockspeed.
 
 **Top 50% contributors:**
+mockspeed.
 designitsecure.
 bhavyajain511.
 Irston.
 am-shakeel.
 brenduh.
 debendu-das.
-djunaid.
 johndahl-now.
 RagaChitraMankala.
 4bode.
@@ -441,6 +441,7 @@ Adiana3308.
 akhoshnood.
 allam1234.
 Decoder-Paul.
+djunaid.
 goranlundqvist.
 jesalynrose.
 Ladirinia.
@@ -468,7 +469,6 @@ am-shakeel.
 ashaw7697.
 brenduh.
 debendu-das.
-djunaid.
 ewatch.
 Jaskaran-Techno.
 RagaChitraMankala.
