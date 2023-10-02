@@ -180,6 +180,7 @@ hentonjd.
 Danmax.
 SapphicFire.
 smartcarleen.
+debendu-das.
 goranlundqvist.
 jesalynrose.
 Ladirinia.
@@ -187,11 +188,10 @@ pandeysumit-now.
 mockspeed.
 Jayden-Chiu.
 bhavyajain511.
-Irston.
 
 **Top 50% contributors:**
+Irston.
 am-shakeel.
-debendu-das.
 djunaid.
 johndahl-now.
 RagaChitraMankala.
@@ -421,6 +421,7 @@ JWITSM.
 Adiana3308.
 akhoshnood.
 allam1234.
+debendu-das.
 Decoder-Paul.
 goranlundqvist.
 jesalynrose.
@@ -446,7 +447,6 @@ NayeemKaka.
 sisco0.
 am-shakeel.
 ashaw7697.
-debendu-das.
 djunaid.
 ewatch.
 Jaskaran-Techno.
