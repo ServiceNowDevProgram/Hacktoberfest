@@ -177,14 +177,14 @@ at8807602.
 **Top 10% contributors:**
 hoederath.
 ajcooper72.
+Himanshu-skb-oo7.
 Litwilly.
 sychi77.
 paigesndev.
-wiresgit.
 
 **Top 25% contributors:**
+wiresgit.
 hentonjd.
-Himanshu-skb-oo7.
 Danmax.
 Jayden-Chiu.
 SapphicFire.
@@ -409,15 +409,16 @@ ashu759.
 briangodfreydev.
 GauthamBellamkonda.
 gowdah.
+Himanshu-skb-oo7.
 odinsride.
 piyusalunke123.
 rmedved84.
 src107.
 pratyushasndev.
 homealone07.
-Iamsant.
 
 **Top 50% contributors:**
+Iamsant.
 Sagar-agarwal.
 yourepicservices.
 markroethof.
@@ -427,7 +428,6 @@ Abhishekchowdarapu.
 anguspalmer.
 ChecksumFailed.
 hentonjd.
-Himanshu-skb-oo7.
 revantKulkarni.
 trade12.
 ttoter.
