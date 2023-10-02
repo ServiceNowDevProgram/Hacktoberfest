@@ -205,6 +205,7 @@ ManobhavSachan.
 Saileshlanka.
 
 **Other contributors:**
+seviceN.
 csharpie.
 djharshit.
 kmohit2809.
@@ -271,7 +272,6 @@ PatriciaMaPe.
 princeofwales88.
 sam16vis.
 SeaBri.
-seviceN.
 ShanClayton.
 sheikhafsarzap.
 shridk.
@@ -372,6 +372,7 @@ arhaan2019.
 girishnagaraj09.
 llipovsky.
 mohitchauhan-dev.
+seviceN.
 tejudhoran95.
 vasantharaja-natarajan.
 dean-croaker.
@@ -385,7 +386,6 @@ danielliaus.
 sauravsumankumar.
 ashuprince121.
 at8807602.
-seviceN.
 adarshsingh0205.
 harisnad.
 soerenmaucher.
