@@ -184,9 +184,9 @@ paigesndev.
 
 **Top 25% contributors:**
 Danmax.
+SapphicFire.
 wiresgit.
 hentonjd.
-SapphicFire.
 Jayden-Chiu.
 smartcarleen.
 Yokesh0811.
@@ -329,12 +329,12 @@ alikuttyka.
 BadalHub.
 MrChrisE.
 vandna07.
+SapphicFire.
 smartcarleen.
-sychi77.
 
 **Top 10% contributors:**
+sychi77.
 PranavBhagat18.
-SapphicFire.
 aykmrgit.
 litwi1rm.
 mak1A4.
