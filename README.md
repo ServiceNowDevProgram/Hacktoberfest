@@ -178,6 +178,7 @@ wiresgit.
 **Top 25% contributors:**
 hentonjd.
 Danmax.
+Jayden-Chiu.
 SapphicFire.
 smartcarleen.
 Yokesh0811.
@@ -187,10 +188,9 @@ Ladirinia.
 pandeysumit-now.
 RaunakScarlet.
 mockspeed.
-designitsecure.
 
 **Top 50% contributors:**
-Jayden-Chiu.
+designitsecure.
 bhavyajain511.
 Irston.
 am-shakeel.
@@ -421,6 +421,7 @@ revantKulkarni.
 trade12.
 ttoter.
 AlphaEagle.
+Jayden-Chiu.
 JWITSM.
 Yokesh0811.
 Adiana3308.
@@ -445,7 +446,6 @@ TheTreyKyle.
 thisnameissoclever.
 mockspeed.
 designitsecure.
-Jayden-Chiu.
 VaishnaviLathkar98.
 abhilash264.
 bhavyajain511.
