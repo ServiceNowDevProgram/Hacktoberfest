@@ -302,8 +302,8 @@ venkat-244.
 
 **Top 5% contributors:**
 earlduque.
-johndahl-now.
 niamccash.
+johndahl-now.
 ishaanshoor.
 paigesndev.
 DavidArthurCole.
