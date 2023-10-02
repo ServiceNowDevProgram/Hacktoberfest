@@ -254,6 +254,7 @@ gh0stxplt.
 Haile-08.
 Hanan-Ashraf.
 HauseMasterZ.
+Himanshu-skb-oo7.
 ishanjain18.
 javiervillarreal.
 JoeSDoro.
@@ -460,9 +461,9 @@ rohantjoshi.
 thameemskings.
 4bode.
 abhay625.
+ankitshaw625.
 
 **Other contributors:**
-ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
@@ -665,6 +666,7 @@ haupx9.
 HauseMasterZ.
 Hemant-Goldar.
 himahk04.
+Himanshu-skb-oo7.
 himavamsi-spec.
 himavamsi8.
 hockdiherdo.
