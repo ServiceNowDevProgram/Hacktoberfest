@@ -203,9 +203,9 @@ DhanushNehru.
 JBscriptsNow.
 Juusoee.
 ManobhavSachan.
+Saileshlanka.
 
 **Other contributors:**
-Saileshlanka.
 seviceN.
 csharpie.
 djharshit.
@@ -246,6 +246,7 @@ derHundOida.
 developmentpark.
 Dhar45.
 DinithiG.
+EricLiv.
 eriemer1.
 fauverism.
 Flashdevp95.
@@ -635,6 +636,7 @@ eduard-nitoi.
 EduardoUG.
 eizzledizzle.
 Enotgnik.
+EricLiv.
 evanrichardfpl.
 EvTheJavaScriptDev.
 ewhite1.
