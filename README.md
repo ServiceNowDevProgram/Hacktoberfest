@@ -169,13 +169,12 @@ hoederath.
 **Top 10% contributors:**
 Litwilly.
 sychi77.
-pandeysumit-now.
 wiresgit.
 hentonjd.
 paigesndev.
+Danmax.
 
 **Top 25% contributors:**
-Danmax.
 mady22070.
 at8807602.
 smartcarleen.
@@ -184,6 +183,7 @@ djunaid.
 goranlundqvist.
 jesalynrose.
 Ladirinia.
+pandeysumit-now.
 mockspeed.
 Jayden-Chiu.
 
@@ -301,9 +301,9 @@ MartinStoyanoff.
 stevezero.
 rafzk.
 ynr-ram.
+Lacah.
 snamjosh.
 alikuttyka.
-Lacah.
 BadalHub.
 MrChrisE.
 vandna07.
@@ -399,7 +399,6 @@ Sagar-agarwal.
 yourepicservices.
 markroethof.
 mskoddow.
-pandeysumit-now.
 wiresgit.
 Abhishekchowdarapu.
 anguspalmer.
@@ -423,6 +422,7 @@ jesalynrose.
 Ladirinia.
 miracc.
 nthumma.
+pandeysumit-now.
 patrickpaterlini.
 LucasRocha2308.
 Mahesh-Krishnan1.
