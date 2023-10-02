@@ -192,14 +192,15 @@ johndahl-now.
 pandeysumit-now.
 RagaChitraMankala.
 RaunakScarlet.
+Yokesh0811.
 4bode.
 Juusoee.
 ManobhavSachan.
 Saileshlanka.
 csharpie.
-Jayden-Chiu.
 
 **Other contributors:**
+Jayden-Chiu.
 kmohit2809.
 Litaflom.
 mmaraj1.
@@ -221,7 +222,6 @@ thoffman210.
 TVani5.
 vishalbirajdar0712.
 wiz0floyd.
-Yokesh0811.
 23Thom.
 adarshsingh7470.
 Ayushi22-coder.
@@ -440,13 +440,14 @@ RagaChitraMankala.
 RaunakScarlet.
 rohantjoshi.
 thameemskings.
+Yokesh0811.
 4bode.
 abhay625.
 ankitshaw625.
 Arpan-InGen.
-AryanBarsaiyan.
 
 **Other contributors:**
+AryanBarsaiyan.
 ashleysnyder.
 brichards99.
 Coder0131.
@@ -534,7 +535,6 @@ thoffman210.
 TonySerN.
 TVani5.
 vishalbirajdar0712.
-Yokesh0811.
 0x3developer.
 158w5a0532.
 aaron-howard.
