@@ -198,11 +198,12 @@ Yokesh0811.
 4bode.
 DhanushNehru.
 Juusoee.
+Maithani-ji.
 ManobhavSachan.
 Msiva19.
-Saileshlanka.
 
 **Other contributors:**
+Saileshlanka.
 csharpie.
 djharshit.
 kmohit2809.
@@ -255,7 +256,6 @@ JoeSDoro.
 jonahpiascik.
 Josh767676.
 lidmaylid.
-Maithani-ji.
 MartinStoyanoff.
 maxigrali.
 MiroslawBuszek.
@@ -477,6 +477,7 @@ KartikeSingh.
 lakshyatyagi24.
 loudigi.
 maialithar.
+Maithani-ji.
 ManobhavSachan.
 mevops.
 mikeroosa.
@@ -708,7 +709,6 @@ LuisSepulveda21.
 m2santiago.
 macias-daniel.
 Mady1947.
-Maithani-ji.
 makesh-ind.
 maralucca.
 martinkohler.
