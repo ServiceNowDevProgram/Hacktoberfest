@@ -172,9 +172,9 @@ sychi77.
 at8807602.
 pandeysumit-now.
 wiresgit.
+hentonjd.
 
 **Top 25% contributors:**
-hentonjd.
 paigesndev.
 Danmax.
 mady22070.
@@ -240,6 +240,7 @@ developmentpark.
 Dhar45.
 DinithiG.
 eriemer1.
+fauverism.
 Flashdevp95.
 gh0stxplt.
 Haile-08.
@@ -307,9 +308,9 @@ MrChrisE.
 vandna07.
 Lacah.
 smartcarleen.
+sychi77.
 
 **Top 10% contributors:**
-sychi77.
 PranavBhagat18.
 aykmrgit.
 litwi1rm.
@@ -336,9 +337,9 @@ jonahpiascik.
 avssrikanth.
 ovarn.
 davidkwhuang.
+zahidask.
 
 **Top 25% contributors:**
-zahidask.
 azeezgaa.
 Danmax.
 DynamiteC.
@@ -449,10 +450,10 @@ thameemskings.
 Yokesh0811.
 4bode.
 abhay625.
-ankitshaw625.
-Arpan-InGen.
 
 **Other contributors:**
+ankitshaw625.
+Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
 brichards99.
@@ -627,6 +628,7 @@ evanrichardfpl.
 EvTheJavaScriptDev.
 ewhite1.
 extinctsion.
+fauverism.
 fisikos.
 flab-io.
 Flashdevp95.
