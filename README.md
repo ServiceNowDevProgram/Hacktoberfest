@@ -189,13 +189,13 @@ bhavyajain511.
 
 **Top 50% contributors:**
 Irston.
+ajcooper72.
 am-shakeel.
 johndahl-now.
 RagaChitraMankala.
 RaunakScarlet.
 Yokesh0811.
 4bode.
-ajcooper72.
 DhanushNehru.
 Juusoee.
 ManobhavSachan.
@@ -437,6 +437,7 @@ abhilash264.
 bhavyajain511.
 NayeemKaka.
 sisco0.
+ajcooper72.
 am-shakeel.
 ashaw7697.
 ewatch.
@@ -448,7 +449,6 @@ thameemskings.
 Yokesh0811.
 4bode.
 abhay625.
-ajcooper72.
 ankitshaw625.
 Arpan-InGen.
 
