@@ -195,9 +195,9 @@ jesalynrose.
 Ladirinia.
 pandeysumit-now.
 RaunakScarlet.
+mockspeed.
 
 **Top 50% contributors:**
-mockspeed.
 designitsecure.
 bhavyajain511.
 Irston.
@@ -210,9 +210,9 @@ RagaChitraMankala.
 4bode.
 DhanushNehru.
 JBscriptsNow.
+Juusoee.
 
 **Other contributors:**
-Juusoee.
 ManobhavSachan.
 Saileshlanka.
 seviceN.
@@ -239,6 +239,7 @@ thoffman210.
 TVani5.
 vishalbirajdar0712.
 wiz0floyd.
+1shabby.
 23Thom.
 adarshsingh7470.
 Amitanand0123.
@@ -358,9 +359,9 @@ jonahpiascik.
 avssrikanth.
 ovarn.
 davidkwhuang.
+zahidask.
 
 **Top 25% contributors:**
-zahidask.
 azeezgaa.
 DynamiteC.
 shakeel-sheikh.
@@ -571,6 +572,7 @@ TVani5.
 vishalbirajdar0712.
 0x3developer.
 158w5a0532.
+1shabby.
 aaron-howard.
 AbServicenow.
 acdigitalclarity.
