@@ -81,8 +81,7 @@ https://github.com/ServiceNowDevProgram/Menu-Generating-Operations-Program-Widge
 >
 > This repository holds the source code for the Menu Builder custom component! It allows for the configuration of UI Builder Portal Experience menus, so you don’t have to touch JSON. It’s a great example of what you can do with custom components, and you can poke at the source code all you want! Make sure you check out the sister repository for the Experience Page linked below!
 >
-> Heads up: Contributing to this repository is complicated, you MUST check out the CONTRIBUTING.MD file to be able to correctly contribute and have your PRs approved.
-(Oh you should also try finding the other references we put in the source code... and feel free to add your own!)
+> Heads up: Contributing to this repository is complicated, you MUST check out the README.md file to be able to correctly contribute and have your PRs approved. (Oh you should also try finding the other references we put in the source code... and feel free to add your own!)
 
 ## (Menu Generating Operations Program Widget) Experience Page
 
@@ -92,7 +91,7 @@ https://github.com/ServiceNowDevProgram/Menu-Generating-Operations-Program-Widge
 > 
 > Ok, you good? Awesome. This is the UI Builder Page that actually houses the component so you can use it in your instance to craft awesome custom menus. If you want to test your component in an instance, this is a must have.
 > 
-> Heads up: You REALLY need to read the CONTRIBUTING.MD file for these two repos to understand how to contribute. We tried to explain it in the clearest way, but if you have questions feel free to reach out to me over on [SNDEVS.com](https://sndevs.com/) at @MGOPW or in our [#next-experience-uib-workspace](https://sndevs.slack.com/archives/C01QPGCA82K) channel.
+> Heads up: You REALLY need to read the README.md file for these two repos to understand how to contribute. We tried to explain it in the clearest way, but if you have questions feel free to reach out to me over on [SNDEVS.com](https://sndevs.com/) at @MGOPW or in our [#next-experience-uib-workspace](https://sndevs.slack.com/archives/C01QPGCA82K) channel.
 
 ## Plants App
 
@@ -104,7 +103,10 @@ https://github.com/ServiceNowDevProgram/Plants
 
 https://github.com/ServiceNowDevProgram/911-Dispatcher-Workspace
 
-> We’ve created a Configurable Workspace solution for 911 operators to do 911 operator things and stuff. Come help build out this custom application and brush up on your UI Builder skills. I feel bad that this description is so short, but I don’t know what else to write. Listen – you try to be witty and funny three times in a row and let me know how it works out for you ok?
+> The scenario: 911 is an emergency phone line in the USA that people call when there are varying types of emergencies. Our target user is a 911 operator, who answers these calls and must act quickly and with good judgement to execute upon what is required to connect a response agency (fire, ems, police, etc) to the emergency and provide the help people are calling for. This workspace is for them to triage emergency calls and get them connected to the right resources.
+>
+> Consider this repository as a blank template you can make in to an awesome application. It's really bare bones right now, so think of useful features you want to add!
+
 
 ## Instance Scan Checks
 
