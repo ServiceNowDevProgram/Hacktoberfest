@@ -184,15 +184,15 @@ Ladirinia.
 mockspeed.
 Irston.
 am-shakeel.
-djunaid.
+bhavyajain511.
 
 **Top 50% contributors:**
+djunaid.
 johndahl-now.
 pandeysumit-now.
 RagaChitraMankala.
 RaunakScarlet.
 4bode.
-bhavyajain511.
 Juusoee.
 ManobhavSachan.
 Saileshlanka.
@@ -430,6 +430,7 @@ NayeemKaka.
 sisco0.
 am-shakeel.
 ashaw7697.
+bhavyajain511.
 djunaid.
 ewatch.
 Jaskaran-Techno.
@@ -443,10 +444,9 @@ abhay625.
 ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
-ashleysnyder.
 
 **Other contributors:**
-bhavyajain511.
+ashleysnyder.
 brichards99.
 Coder0131.
 DaleD-SN.
