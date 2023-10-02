@@ -195,13 +195,14 @@ RagaChitraMankala.
 RaunakScarlet.
 Yokesh0811.
 4bode.
+ajcooper72.
 DhanushNehru.
 Juusoee.
 ManobhavSachan.
 Saileshlanka.
-csharpie.
 
 **Other contributors:**
+csharpie.
 kmohit2809.
 Litaflom.
 mmaraj1.
@@ -225,7 +226,6 @@ vishalbirajdar0712.
 wiz0floyd.
 23Thom.
 adarshsingh7470.
-ajcooper72.
 Archita-2023.
 Ayushi22-coder.
 azabadaudiya.
@@ -448,11 +448,12 @@ thameemskings.
 Yokesh0811.
 4bode.
 abhay625.
+ajcooper72.
 ankitshaw625.
 Arpan-InGen.
-AryanBarsaiyan.
 
 **Other contributors:**
+AryanBarsaiyan.
 ashleysnyder.
 brichards99.
 Coder0131.
@@ -547,7 +548,6 @@ AbServicenow.
 acdigitalclarity.
 adarshsingh7470.
 afejzic.
-ajcooper72.
 ajithaju15.
 aliceapps.
 aman2519.
