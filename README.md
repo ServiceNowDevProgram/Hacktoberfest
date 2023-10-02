@@ -184,9 +184,10 @@ jesalynrose.
 Ladirinia.
 pandeysumit-now.
 mockspeed.
-bhavyajain511.
+Jayden-Chiu.
 
 **Top 50% contributors:**
+bhavyajain511.
 Irston.
 am-shakeel.
 johndahl-now.
@@ -198,7 +199,6 @@ DhanushNehru.
 Juusoee.
 ManobhavSachan.
 Saileshlanka.
-Jayden-Chiu.
 
 **Other contributors:**
 csharpie.
@@ -429,6 +429,7 @@ tanu-profile.
 TheTreyKyle.
 thisnameissoclever.
 mockspeed.
+Jayden-Chiu.
 VaishnaviLathkar98.
 abhilash264.
 bhavyajain511.
@@ -447,9 +448,9 @@ Yokesh0811.
 abhay625.
 ankitshaw625.
 Arpan-InGen.
-AryanBarsaiyan.
 
 **Other contributors:**
+AryanBarsaiyan.
 ashleysnyder.
 brichards99.
 Coder0131.
@@ -499,7 +500,6 @@ zaidongy.
 jon-lind-sn.
 ToosinDada.
 bendouglass.
-Jayden-Chiu.
 Marll22.
 csharpie.
 Krishnakant-iv.
