@@ -184,8 +184,8 @@ paigesndev.
 
 **Top 25% contributors:**
 wiresgit.
-hentonjd.
 Danmax.
+hentonjd.
 Jayden-Chiu.
 SapphicFire.
 smartcarleen.
@@ -356,12 +356,12 @@ jiteshmalik.
 jonahpiascik.
 avssrikanth.
 ovarn.
+Danmax.
 davidkwhuang.
-zahidask.
 
 **Top 25% contributors:**
+zahidask.
 azeezgaa.
-Danmax.
 DynamiteC.
 shakeel-sheikh.
 vjtknn.
