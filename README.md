@@ -192,10 +192,10 @@ pandeysumit-now.
 RagaChitraMankala.
 RaunakScarlet.
 4bode.
+bhavyajain511.
 Juusoee.
 ManobhavSachan.
 Saileshlanka.
-bhavyajain511.
 csharpie.
 kmohit2809.
 
@@ -446,6 +446,7 @@ AryanBarsaiyan.
 ashleysnyder.
 
 **Other contributors:**
+bhavyajain511.
 brichards99.
 Coder0131.
 DaleD-SN.
@@ -490,7 +491,6 @@ Subhraneel77.
 tomlozano.
 trishitapingolia.
 zaidongy.
-bhavyajain511.
 jon-lind-sn.
 ToosinDada.
 bendouglass.
