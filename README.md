@@ -172,11 +172,11 @@ mady22070.
 Litwilly.
 sychi77.
 ajcooper72.
-wiresgit.
+paigesndev.
 
 **Top 25% contributors:**
+wiresgit.
 hentonjd.
-paigesndev.
 Danmax.
 SapphicFire.
 smartcarleen.
