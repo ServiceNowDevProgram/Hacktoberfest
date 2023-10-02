@@ -200,10 +200,11 @@ RagaChitraMankala.
 RaunakScarlet.
 4bode.
 DhanushNehru.
+Himanshu-skb-oo7.
 JBscriptsNow.
-Juusoee.
 
 **Other contributors:**
+Juusoee.
 ManobhavSachan.
 Saileshlanka.
 seviceN.
@@ -255,7 +256,6 @@ gh0stxplt.
 Haile-08.
 Hanan-Ashraf.
 HauseMasterZ.
-Himanshu-skb-oo7.
 ishanjain18.
 javiervillarreal.
 JoeSDoro.
@@ -475,6 +475,7 @@ deathkraiser.
 DhanushNehru.
 dhruvii-powershell.
 dorsy99.
+Himanshu-skb-oo7.
 hmadhsan.
 iamvpbhaskar.
 igrzhukovich.
@@ -667,7 +668,6 @@ haupx9.
 HauseMasterZ.
 Hemant-Goldar.
 himahk04.
-Himanshu-skb-oo7.
 himavamsi-spec.
 himavamsi8.
 hockdiherdo.
