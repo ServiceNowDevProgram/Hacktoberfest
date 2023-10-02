@@ -201,9 +201,9 @@ DhanushNehru.
 Juusoee.
 ManobhavSachan.
 Saileshlanka.
+csharpie.
 
 **Other contributors:**
-csharpie.
 djharshit.
 kmohit2809.
 Litaflom.
@@ -268,6 +268,7 @@ PatriciaMaPe.
 princeofwales88.
 sam16vis.
 SeaBri.
+seviceN.
 ShanClayton.
 sheikhafsarzap.
 shridk.
@@ -381,9 +382,9 @@ danielliaus.
 mady22070.
 sauravsumankumar.
 ashuprince121.
+seviceN.
 adarshsingh0205.
 harisnad.
-seviceN.
 soerenmaucher.
 allenandreas.
 apple9000.
