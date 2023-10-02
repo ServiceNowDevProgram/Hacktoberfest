@@ -175,12 +175,12 @@ hentonjd.
 
 **Top 25% contributors:**
 paigesndev.
+Danmax.
 mady22070.
 smartcarleen.
 goranlundqvist.
 jesalynrose.
 Ladirinia.
-Danmax.
 mockspeed.
 Irston.
 am-shakeel.
@@ -335,6 +335,7 @@ davidkwhuang.
 **Top 25% contributors:**
 zahidask.
 azeezgaa.
+Danmax.
 DynamiteC.
 shakeel-sheikh.
 vjtknn.
@@ -346,7 +347,6 @@ harishankert.
 mjonssonme.
 techYESlogyXplorer.
 b1naryst0rm.
-Danmax.
 iar42.
 AdilBasha1SAP.
 bradtiltonnow.
