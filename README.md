@@ -192,6 +192,7 @@ Irston.
 **Top 50% contributors:**
 am-shakeel.
 debendu-das.
+designitsecure.
 djunaid.
 johndahl-now.
 RagaChitraMankala.
@@ -202,9 +203,9 @@ DhanushNehru.
 JBscriptsNow.
 Juusoee.
 ManobhavSachan.
-Saileshlanka.
 
 **Other contributors:**
+Saileshlanka.
 seviceN.
 csharpie.
 djharshit.
@@ -214,7 +215,6 @@ mmaraj1.
 outlivo.
 bradtiltonnow.
 DavidMarcial.
-designitsecure.
 garyditsch.
 ivan-betev.
 jaz1gdev.
@@ -448,6 +448,7 @@ sisco0.
 am-shakeel.
 ashaw7697.
 debendu-das.
+designitsecure.
 djunaid.
 ewatch.
 Jaskaran-Techno.
@@ -458,9 +459,9 @@ thameemskings.
 Yokesh0811.
 4bode.
 abhay625.
-ankitshaw625.
 
 **Other contributors:**
+ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
@@ -530,7 +531,6 @@ cmurley.
 DaiTranIT.
 dalestubblefield.
 DavidMarcial.
-designitsecure.
 garyditsch.
 gkiratkar1.
 himanisinghal.
