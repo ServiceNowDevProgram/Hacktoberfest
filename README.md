@@ -183,8 +183,8 @@ sychi77.
 paigesndev.
 
 **Top 25% contributors:**
-wiresgit.
 Danmax.
+wiresgit.
 hentonjd.
 Jayden-Chiu.
 SapphicFire.
@@ -355,8 +355,8 @@ oasif.
 jiteshmalik.
 jonahpiascik.
 avssrikanth.
-ovarn.
 Danmax.
+ovarn.
 davidkwhuang.
 
 **Top 25% contributors:**
