@@ -190,20 +190,20 @@ wiresgit.
 Jayden-Chiu.
 smartcarleen.
 Yokesh0811.
+brenduh.
 djunaid.
 goranlundqvist.
 jesalynrose.
 Ladirinia.
 pandeysumit-now.
-RaunakScarlet.
 
 **Top 50% contributors:**
+RaunakScarlet.
 mockspeed.
 designitsecure.
 bhavyajain511.
 Irston.
 am-shakeel.
-brenduh.
 debendu-das.
 johndahl-now.
 RagaChitraMankala.
@@ -440,6 +440,7 @@ Yokesh0811.
 Adiana3308.
 akhoshnood.
 allam1234.
+brenduh.
 Decoder-Paul.
 djunaid.
 goranlundqvist.
@@ -467,7 +468,6 @@ NayeemKaka.
 sisco0.
 am-shakeel.
 ashaw7697.
-brenduh.
 debendu-das.
 ewatch.
 Jaskaran-Techno.
