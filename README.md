@@ -253,6 +253,7 @@ Ayushi22-coder.
 azabadaudiya.
 banjofrailer.
 bharatr21.
+brumam.
 cenzo85.
 chelming.
 cheshtapathak.
@@ -424,9 +425,9 @@ piyusalunke123.
 rmedved84.
 src107.
 pratyushasndev.
+homealone07.
 
 **Top 50% contributors:**
-homealone07.
 Iamsant.
 Sagar-agarwal.
 yourepicservices.
@@ -483,9 +484,9 @@ thameemskings.
 1shabby.
 4bode.
 abhay625.
+ankitshaw625.
 
 **Other contributors:**
-ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
@@ -624,6 +625,7 @@ Bigshmow.
 billyperkinsukg.
 bmfmancini.
 Brian-Rowland.
+brumam.
 celsiogil.
 chandumishra21.
 Charlesemesobum.
