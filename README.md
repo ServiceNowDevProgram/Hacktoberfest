@@ -214,18 +214,18 @@ DavidMarcial.
 debendu-das.
 johndahl-now.
 RagaChitraMankala.
+sanjivmeher.
 1shabby.
 4bode.
 Avinash238.
 demetris7.
-DhanushNehru.
 
 **Other contributors:**
+DhanushNehru.
 JBscriptsNow.
 Juusoee.
 ManobhavSachan.
 Saileshlanka.
-sanjivmeher.
 seviceN.
 kmohit2809.
 brumam.
@@ -503,14 +503,15 @@ ewatch.
 Jaskaran-Techno.
 RagaChitraMankala.
 rohantjoshi.
+sanjivmeher.
 thameemskings.
 1shabby.
 4bode.
 abhay625.
 ankitshaw625.
-Arpan-InGen.
 
 **Other contributors:**
+Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
@@ -553,7 +554,6 @@ Saileshlanka.
 samwinchet.
 sanchit-varshney.
 sandeepd26.
-sanjivmeher.
 sanju009.
 Shambu-K.
 speedy18.
