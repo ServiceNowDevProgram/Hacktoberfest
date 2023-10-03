@@ -202,6 +202,7 @@ pandeysumit-now.
 mockspeed.
 
 **Top 50% contributors:**
+snamjosh.
 designitsecure.
 bhavyajain511.
 Irston.
@@ -217,14 +218,13 @@ Avinash238.
 demetris7.
 DhanushNehru.
 JBscriptsNow.
-Juusoee.
 
 **Other contributors:**
+Juusoee.
 ManobhavSachan.
 Saileshlanka.
 seviceN.
 iar42.
-snamjosh.
 kmohit2809.
 brumam.
 chelming.
@@ -341,9 +341,9 @@ hrobarikt.
 sumanthdosapati.
 urspvs.
 Radhe-Manasa.
+snamjosh.
 MartinStoyanoff.
 stevezero.
-snamjosh.
 rafzk.
 ynr-ram.
 SapphicFire.
