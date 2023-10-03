@@ -173,18 +173,18 @@ Lacah.
 niamccash.
 at8807602.
 mady22070.
+Jayden-Chiu.
 
 **Top 10% contributors:**
-Jayden-Chiu.
 ajcooper72.
 Himanshu-skb-oo7.
 hoederath.
 Yokesh0811.
 hentonjd.
 Litwilly.
+SapphicFire.
 
 **Top 25% contributors:**
-SapphicFire.
 sychi77.
 paigesndev.
 Danmax.
@@ -215,10 +215,10 @@ Avinash238.
 demetris7.
 DhanushNehru.
 JBscriptsNow.
-Juusoee.
-ManobhavSachan.
 
 **Other contributors:**
+Juusoee.
+ManobhavSachan.
 Saileshlanka.
 seviceN.
 snamjosh.
@@ -259,6 +259,7 @@ Ayushi22-coder.
 azabadaudiya.
 banjofrailer.
 bharatr21.
+bird-03.
 brumam.
 cheshtapathak.
 chetnadev.
@@ -357,8 +358,8 @@ mlemartien.
 23Thom.
 RahmanM.
 salmaniqbal92.
-mr-swann.
 bird-03.
+mr-swann.
 amigujarathi.
 hafsa-asif.
 devinvalencia.
