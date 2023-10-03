@@ -206,14 +206,15 @@ Irston.
 am-shakeel.
 debendu-das.
 johndahl-now.
+JonSandoval.
 RagaChitraMankala.
 1shabby.
 4bode.
 DhanushNehru.
 JBscriptsNow.
-Juusoee.
 
 **Other contributors:**
+Juusoee.
 ManobhavSachan.
 Saileshlanka.
 seviceN.
@@ -230,7 +231,6 @@ garyditsch.
 HariniSnow.
 ivan-betev.
 jaz1gdev.
-JonSandoval.
 manoj424.
 mvarshney99.
 NicoxNall.
@@ -472,14 +472,15 @@ ashaw7697.
 debendu-das.
 ewatch.
 Jaskaran-Techno.
+JonSandoval.
 RagaChitraMankala.
 rohantjoshi.
 thameemskings.
 1shabby.
 4bode.
-abhay625.
 
 **Other contributors:**
+abhay625.
 ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
@@ -557,7 +558,6 @@ himanisinghal.
 ivan-betev.
 javiervillarreal.
 jaz1gdev.
-JonSandoval.
 kcimpulse.
 LakshmiPrasanna96.
 manoj424.
