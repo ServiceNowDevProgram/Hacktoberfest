@@ -185,9 +185,9 @@ sychi77.
 **Top 25% contributors:**
 paigesndev.
 Danmax.
+Jayden-Chiu.
 SapphicFire.
 wiresgit.
-Jayden-Chiu.
 smartcarleen.
 Yokesh0811.
 djunaid.
@@ -420,9 +420,10 @@ piyusalunke123.
 rmedved84.
 src107.
 pratyushasndev.
-homealone07.
+Jayden-Chiu.
 
 **Top 50% contributors:**
+homealone07.
 Iamsant.
 Sagar-agarwal.
 yourepicservices.
@@ -436,7 +437,6 @@ revantKulkarni.
 trade12.
 ttoter.
 AlphaEagle.
-Jayden-Chiu.
 JWITSM.
 Yokesh0811.
 Adiana3308.
