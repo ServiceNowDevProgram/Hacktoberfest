@@ -171,12 +171,12 @@ earlduque.
 MGOPW.
 Lacah.
 niamccash.
+ajcooper72.
 at8807602.
 mady22070.
-Jayden-Chiu.
 
 **Top 10% contributors:**
-ajcooper72.
+Jayden-Chiu.
 Himanshu-skb-oo7.
 hoederath.
 Yokesh0811.
@@ -386,6 +386,7 @@ shakeel-sheikh.
 vjtknn.
 MarcMouries.
 sn-ajb.
+ajcooper72.
 alyaanbasha.
 at8807602.
 mady22070.
@@ -401,7 +402,6 @@ Vish-X07.
 Irston.
 Jayden-Chiu.
 OrgovanGeza.
-ajcooper72.
 arhaan2019.
 girishnagaraj09.
 llipovsky.
