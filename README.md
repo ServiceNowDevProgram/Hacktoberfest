@@ -197,9 +197,9 @@ goranlundqvist.
 jesalynrose.
 pandeysumit-now.
 mockspeed.
+designitsecure.
 
 **Top 50% contributors:**
-designitsecure.
 bhavyajain511.
 brenduh.
 eriemer1.
@@ -213,9 +213,9 @@ RagaChitraMankala.
 4bode.
 DhanushNehru.
 JBscriptsNow.
+Juusoee.
 
 **Other contributors:**
-Juusoee.
 ManobhavSachan.
 Saileshlanka.
 seviceN.
@@ -257,6 +257,7 @@ brumam.
 cenzo85.
 chelming.
 cheshtapathak.
+Cioraz.
 Collosus1.
 dalestubblefield.
 davematz.
@@ -632,6 +633,7 @@ Charlesemesobum.
 cheshtapathak.
 ChristineMayfield.
 ChrRepou.
+Cioraz.
 cnavr.
 coderdude207.
 codexpert247.
