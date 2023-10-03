@@ -189,6 +189,7 @@ sychi77.
 paigesndev.
 Danmax.
 wiresgit.
+brenduh.
 eriemer1.
 RaunakScarlet.
 smartcarleen.
@@ -198,11 +199,10 @@ jesalynrose.
 Ladirinia.
 pandeysumit-now.
 mockspeed.
-designitsecure.
 
 **Top 50% contributors:**
+designitsecure.
 bhavyajain511.
-brenduh.
 Irston.
 am-shakeel.
 DavidMarcial.
@@ -453,6 +453,7 @@ trade12.
 ttoter.
 AlphaEagle.
 JWITSM.
+brenduh.
 RaunakScarlet.
 Adiana3308.
 akhoshnood.
@@ -479,7 +480,6 @@ designitsecure.
 VaishnaviLathkar98.
 abhilash264.
 bhavyajain511.
-brenduh.
 NayeemKaka.
 sisco0.
 am-shakeel.
