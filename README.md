@@ -196,9 +196,9 @@ goranlundqvist.
 jesalynrose.
 Ladirinia.
 pandeysumit-now.
+RaunakScarlet.
 
 **Top 50% contributors:**
-RaunakScarlet.
 mockspeed.
 designitsecure.
 bhavyajain511.
@@ -212,9 +212,9 @@ RagaChitraMankala.
 1shabby.
 4bode.
 DhanushNehru.
+JBscriptsNow.
 
 **Other contributors:**
-JBscriptsNow.
 Juusoee.
 ManobhavSachan.
 Saileshlanka.
@@ -248,6 +248,7 @@ adarshsingh7470.
 Amitanand0123.
 Archita-2023.
 Avinash238.
+ayrotideysarkar.
 Ayushi22-coder.
 azabadaudiya.
 banjofrailer.
@@ -479,9 +480,9 @@ rohantjoshi.
 thameemskings.
 1shabby.
 4bode.
+abhay625.
 
 **Other contributors:**
-abhay625.
 ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
@@ -602,6 +603,7 @@ artemis15.
 askarthik.
 atipisova.
 Avinash238.
+ayrotideysarkar.
 aysenuruzunnn.
 Ayushi22-coder.
 azabadaudiya.
