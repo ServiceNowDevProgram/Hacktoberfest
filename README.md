@@ -211,9 +211,9 @@ RagaChitraMankala.
 4bode.
 DhanushNehru.
 JBscriptsNow.
+Juusoee.
 
 **Other contributors:**
-Juusoee.
 ManobhavSachan.
 Saileshlanka.
 seviceN.
@@ -271,6 +271,7 @@ ishanjain18.
 javiervillarreal.
 JoeSDoro.
 jonahpiascik.
+JonSandoval.
 Josh767676.
 lidmaylid.
 Maithani-ji.
@@ -418,9 +419,9 @@ piyusalunke123.
 rmedved84.
 src107.
 pratyushasndev.
+homealone07.
 
 **Top 50% contributors:**
-homealone07.
 Iamsant.
 Sagar-agarwal.
 yourepicservices.
@@ -476,9 +477,9 @@ rohantjoshi.
 thameemskings.
 1shabby.
 4bode.
+abhay625.
 
 **Other contributors:**
-abhay625.
 ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
@@ -702,6 +703,7 @@ jc73uk.
 Jennylou777.
 jnikita067.
 JoeSDoro.
+JonSandoval.
 Josh767676.
 joshuaprakashg.
 joshuatechie.
