@@ -252,6 +252,7 @@ sdgrube2.
 thoffman210.
 TVani5.
 vishalbirajdar0712.
+vivekverma18.
 wiz0floyd.
 23Thom.
 adarshsingh7470.
@@ -316,7 +317,6 @@ TheSethRose.
 v-agnihotri.
 Vaibhav91one.
 venkat-244.
-vivekverma18.
 
 ## Leaderboard (all time):
 
@@ -598,6 +598,7 @@ thoffman210.
 TonySerN.
 TVani5.
 vishalbirajdar0712.
+vivekverma18.
 0x3developer.
 158w5a0532.
 aaron-howard.
@@ -884,7 +885,6 @@ VictorAlbergaria.
 vigneshmc.
 vijayshankar485.
 Vivek-KP.
-vivekverma18.
 vkambhammettu.
 vpeinado.
 vvijaya19.
