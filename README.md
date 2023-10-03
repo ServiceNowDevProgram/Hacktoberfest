@@ -198,9 +198,9 @@ Ladirinia.
 pandeysumit-now.
 mockspeed.
 designitsecure.
+bhavyajain511.
 
 **Top 50% contributors:**
-bhavyajain511.
 brenduh.
 eriemer1.
 Irston.
@@ -215,9 +215,9 @@ Avinash238.
 demetris7.
 DhanushNehru.
 JBscriptsNow.
+Juusoee.
 
 **Other contributors:**
-Juusoee.
 ManobhavSachan.
 Saileshlanka.
 seviceN.
@@ -310,6 +310,7 @@ TheSethRose.
 v-agnihotri.
 Vaibhav91one.
 venkat-244.
+vivekverma18.
 
 ## Leaderboard (all time):
 
@@ -341,9 +342,9 @@ BadalHub.
 MrChrisE.
 vandna07.
 smartcarleen.
+sychi77.
 
 **Top 10% contributors:**
-sychi77.
 PranavBhagat18.
 aykmrgit.
 eriemer1.
@@ -371,9 +372,9 @@ avssrikanth.
 ovarn.
 davidkwhuang.
 zahidask.
+azeezgaa.
 
 **Top 25% contributors:**
-azeezgaa.
 DynamiteC.
 shakeel-sheikh.
 vjtknn.
@@ -488,10 +489,10 @@ thameemskings.
 1shabby.
 4bode.
 abhay625.
-ankitshaw625.
-Arpan-InGen.
 
 **Other contributors:**
+ankitshaw625.
+Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
@@ -872,6 +873,7 @@ VictorAlbergaria.
 vigneshmc.
 vijayshankar485.
 Vivek-KP.
+vivekverma18.
 vkambhammettu.
 vpeinado.
 vvijaya19.
