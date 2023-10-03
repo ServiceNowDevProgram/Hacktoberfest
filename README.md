@@ -188,7 +188,6 @@ paigesndev.
 Danmax.
 SapphicFire.
 wiresgit.
-eriemer1.
 RaunakScarlet.
 smartcarleen.
 Yokesh0811.
@@ -197,12 +196,13 @@ goranlundqvist.
 jesalynrose.
 Ladirinia.
 pandeysumit-now.
+mockspeed.
 
 **Top 50% contributors:**
-mockspeed.
 designitsecure.
 bhavyajain511.
 brenduh.
+eriemer1.
 Irston.
 am-shakeel.
 DavidMarcial.
@@ -330,16 +330,16 @@ rafzk.
 ynr-ram.
 alikuttyka.
 BadalHub.
-eriemer1.
 MrChrisE.
 SapphicFire.
 vandna07.
+smartcarleen.
 
 **Top 10% contributors:**
-smartcarleen.
 sychi77.
 PranavBhagat18.
 aykmrgit.
+eriemer1.
 litwi1rm.
 mak1A4.
 mlemartien.
