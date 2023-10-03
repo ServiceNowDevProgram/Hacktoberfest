@@ -188,7 +188,6 @@ Danmax.
 SapphicFire.
 wiresgit.
 Jayden-Chiu.
-JonSandoval.
 smartcarleen.
 Yokesh0811.
 djunaid.
@@ -196,14 +195,15 @@ goranlundqvist.
 jesalynrose.
 Ladirinia.
 pandeysumit-now.
+RaunakScarlet.
 
 **Top 50% contributors:**
-RaunakScarlet.
 mockspeed.
 designitsecure.
 bhavyajain511.
 brenduh.
 Irston.
+JonSandoval.
 am-shakeel.
 DavidMarcial.
 debendu-das.
@@ -438,7 +438,6 @@ ttoter.
 AlphaEagle.
 Jayden-Chiu.
 JWITSM.
-JonSandoval.
 Yokesh0811.
 Adiana3308.
 akhoshnood.
@@ -467,6 +466,7 @@ VaishnaviLathkar98.
 abhilash264.
 bhavyajain511.
 brenduh.
+JonSandoval.
 NayeemKaka.
 sisco0.
 am-shakeel.
