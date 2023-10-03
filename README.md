@@ -179,15 +179,15 @@ Jayden-Chiu.
 Yokesh0811.
 ajcooper72.
 Himanshu-skb-oo7.
+sychi77.
 hoederath.
 brenduh.
 paigesndev.
 hentonjd.
-Litwilly.
 
 **Top 25% contributors:**
+Litwilly.
 SapphicFire.
-sychi77.
 Danmax.
 wiresgit.
 Karanyadav7.
@@ -349,6 +349,7 @@ snamjosh.
 MartinStoyanoff.
 stevezero.
 rafzk.
+sychi77.
 ynr-ram.
 SapphicFire.
 alikuttyka.
@@ -356,10 +357,9 @@ BadalHub.
 eriemer1.
 MrChrisE.
 vandna07.
-smartcarleen.
 
 **Top 10% contributors:**
-sychi77.
+smartcarleen.
 aykmrgit.
 PranavBhagat18.
 litwi1rm.
