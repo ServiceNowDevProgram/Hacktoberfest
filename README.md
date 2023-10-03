@@ -223,6 +223,7 @@ Saileshlanka.
 seviceN.
 snamjosh.
 kmohit2809.
+chelming.
 csharpie.
 djharshit.
 JonSandoval.
@@ -258,7 +259,6 @@ banjofrailer.
 bharatr21.
 brumam.
 cenzo85.
-chelming.
 cheshtapathak.
 Cioraz.
 Collosus1.
@@ -370,15 +370,15 @@ jiteshmalik.
 jonahpiascik.
 avssrikanth.
 ovarn.
+chelming.
 davidkwhuang.
 zahidask.
-azeezgaa.
 
 **Top 25% contributors:**
+azeezgaa.
 DynamiteC.
 shakeel-sheikh.
 vjtknn.
-chelming.
 MarcMouries.
 sn-ajb.
 alyaanbasha.
