@@ -277,6 +277,7 @@ Flashdevp95.
 gh0stxplt.
 Haile-08.
 Hanan-Ashraf.
+Hasanul-Banna-Himel.
 HauseMasterZ.
 ishanjain18.
 javiervillarreal.
@@ -435,9 +436,9 @@ piyusalunke123.
 rmedved84.
 src107.
 pratyushasndev.
+homealone07.
 
 **Top 50% contributors:**
-homealone07.
 Iamsant.
 Sagar-agarwal.
 yourepicservices.
@@ -494,9 +495,9 @@ thameemskings.
 4bode.
 abhay625.
 ankitshaw625.
+Arpan-InGen.
 
 **Other contributors:**
-Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
@@ -703,6 +704,7 @@ Haile-08.
 han-le.
 Hanan-Ashraf.
 hardikvyasji.
+Hasanul-Banna-Himel.
 haupx9.
 HauseMasterZ.
 Hemant-Goldar.
