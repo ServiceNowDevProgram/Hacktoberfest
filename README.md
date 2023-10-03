@@ -298,6 +298,7 @@ maxigrali.
 MiroslawBuszek.
 Msiva19.
 Muhammad-Rebaal.
+NBaker137.
 nthumma.
 nuwan94.
 omkarvasekar.
@@ -447,9 +448,9 @@ rmedved84.
 src107.
 pratyushasndev.
 homealone07.
+Iamsant.
 
 **Top 50% contributors:**
-Iamsant.
 Sagar-agarwal.
 yourepicservices.
 markroethof.
@@ -507,9 +508,9 @@ thameemskings.
 abhay625.
 ankitshaw625.
 Arpan-InGen.
+AryanBarsaiyan.
 
 **Other contributors:**
-AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
 brichards99.
@@ -795,6 +796,7 @@ Muhammad-Rebaal.
 muhjaved.
 mybpdi.
 nayeemwajid97.
+NBaker137.
 neenaSharma1.
 neerajs296.
 Nerdcode.
