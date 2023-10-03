@@ -188,6 +188,7 @@ sychi77.
 paigesndev.
 Danmax.
 wiresgit.
+eriemer1.
 RaunakScarlet.
 smartcarleen.
 Yokesh0811.
@@ -198,11 +199,10 @@ Ladirinia.
 pandeysumit-now.
 mockspeed.
 designitsecure.
-bhavyajain511.
 
 **Top 50% contributors:**
+bhavyajain511.
 brenduh.
-eriemer1.
 Irston.
 am-shakeel.
 DavidMarcial.
@@ -339,15 +339,15 @@ ynr-ram.
 SapphicFire.
 alikuttyka.
 BadalHub.
+eriemer1.
 MrChrisE.
 vandna07.
 smartcarleen.
-sychi77.
 
 **Top 10% contributors:**
+sychi77.
 PranavBhagat18.
 aykmrgit.
-eriemer1.
 litwi1rm.
 mak1A4.
 mlemartien.
