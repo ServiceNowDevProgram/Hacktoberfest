@@ -217,12 +217,13 @@ Avinash238.
 demetris7.
 DhanushNehru.
 JBscriptsNow.
+Juusoee.
 
 **Other contributors:**
-Juusoee.
 ManobhavSachan.
 Saileshlanka.
 seviceN.
+iar42.
 snamjosh.
 kmohit2809.
 brumam.
@@ -386,6 +387,7 @@ zahidask.
 **Top 25% contributors:**
 azeezgaa.
 DynamiteC.
+iar42.
 shakeel-sheikh.
 vjtknn.
 MarcMouries.
@@ -397,7 +399,6 @@ harishankert.
 mjonssonme.
 techYESlogyXplorer.
 b1naryst0rm.
-iar42.
 AdilBasha1SAP.
 bradtiltonnow.
 phr-nk.
