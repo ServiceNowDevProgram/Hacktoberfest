@@ -187,8 +187,8 @@ SapphicFire.
 sychi77.
 paigesndev.
 Danmax.
-wiresgit.
 Yokesh0811.
+wiresgit.
 eriemer1.
 RaunakScarlet.
 smartcarleen.
@@ -433,9 +433,10 @@ piyusalunke123.
 rmedved84.
 src107.
 pratyushasndev.
-homealone07.
+Yokesh0811.
 
 **Top 50% contributors:**
+homealone07.
 Iamsant.
 Sagar-agarwal.
 yourepicservices.
@@ -450,7 +451,6 @@ trade12.
 ttoter.
 AlphaEagle.
 JWITSM.
-Yokesh0811.
 RaunakScarlet.
 Adiana3308.
 akhoshnood.
