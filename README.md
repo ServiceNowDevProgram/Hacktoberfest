@@ -211,12 +211,13 @@ johndahl-now.
 RagaChitraMankala.
 1shabby.
 4bode.
+Avinash238.
 demetris7.
 DhanushNehru.
 JBscriptsNow.
-Juusoee.
 
 **Other contributors:**
+Juusoee.
 ManobhavSachan.
 Saileshlanka.
 seviceN.
@@ -250,7 +251,6 @@ adarshsingh7470.
 aman2519.
 Amitanand0123.
 Archita-2023.
-Avinash238.
 Ayushi22-coder.
 azabadaudiya.
 banjofrailer.
@@ -493,6 +493,7 @@ Arpan-InGen.
 **Other contributors:**
 AryanBarsaiyan.
 ashleysnyder.
+Avinash238.
 brichards99.
 Coder0131.
 DaleD-SN.
@@ -611,7 +612,6 @@ arostesri.
 artemis15.
 askarthik.
 atipisova.
-Avinash238.
 aysenuruzunnn.
 Ayushi22-coder.
 azabadaudiya.
