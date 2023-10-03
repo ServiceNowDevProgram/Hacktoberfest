@@ -207,6 +207,7 @@ snamjosh.
 designitsecure.
 bhavyajain511.
 Irston.
+mmaraj1.
 am-shakeel.
 dalestubblefield.
 DavidMarcial.
@@ -218,9 +219,9 @@ RagaChitraMankala.
 Avinash238.
 demetris7.
 DhanushNehru.
-JBscriptsNow.
 
 **Other contributors:**
+JBscriptsNow.
 Juusoee.
 ManobhavSachan.
 Saileshlanka.
@@ -232,7 +233,6 @@ csharpie.
 djharshit.
 JonSandoval.
 Litaflom.
-mmaraj1.
 outlivo.
 abhishek-kumar-91.
 aman2519.
@@ -492,6 +492,7 @@ VaishnaviLathkar98.
 abhilash264.
 bhavyajain511.
 dalestubblefield.
+mmaraj1.
 NayeemKaka.
 sisco0.
 am-shakeel.
@@ -508,9 +509,9 @@ thameemskings.
 abhay625.
 ankitshaw625.
 Arpan-InGen.
-AryanBarsaiyan.
 
 **Other contributors:**
+AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
 brichards99.
@@ -573,7 +574,6 @@ JonSandoval.
 Krishnakant-iv.
 Litaflom.
 lverbeke.
-mmaraj1.
 mohdzeeshan96.
 nancystodd.
 outlivo.
