@@ -183,9 +183,9 @@ hoederath.
 brenduh.
 paigesndev.
 hentonjd.
+Litwilly.
 
 **Top 25% contributors:**
-Litwilly.
 SapphicFire.
 sychi77.
 Danmax.
@@ -319,6 +319,7 @@ Sookeyy-12.
 SruthiSivarajan.
 Stevay3.
 swathinagamahanti.
+TheoCantor.
 theotherdebs.
 TheSethRose.
 v-agnihotri.
@@ -875,6 +876,7 @@ sushil-now.
 swathinagamahanti.
 SweetPoodle.
 TamByrd.
+TheoCantor.
 theotherdebs.
 TheSethRose.
 thesnowguy.
