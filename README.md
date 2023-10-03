@@ -214,9 +214,9 @@ RagaChitraMankala.
 demetris7.
 DhanushNehru.
 JBscriptsNow.
+Juusoee.
 
 **Other contributors:**
-Juusoee.
 ManobhavSachan.
 Saileshlanka.
 seviceN.
@@ -293,6 +293,7 @@ omkarvasekar.
 parag477.
 PatriciaMaPe.
 princeofwales88.
+Sakshi29G.
 sam16vis.
 SeaBri.
 ShanClayton.
@@ -487,9 +488,9 @@ thameemskings.
 4bode.
 abhay625.
 ankitshaw625.
+Arpan-InGen.
 
 **Other contributors:**
-Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
 brichards99.
@@ -813,6 +814,7 @@ RosaAtCoding.
 RoseKonvalinka.
 rverrips.
 rwhittaker.
+Sakshi29G.
 salem769.
 sam16vis.
 samgoodecc.
