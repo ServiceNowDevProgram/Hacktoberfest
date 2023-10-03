@@ -177,15 +177,15 @@ mady22070.
 **Top 10% contributors:**
 Himanshu-skb-oo7.
 hoederath.
+Jayden-Chiu.
 ajcooper72.
 hentonjd.
 Litwilly.
-sychi77.
 
 **Top 25% contributors:**
+sychi77.
 paigesndev.
 Danmax.
-Jayden-Chiu.
 SapphicFire.
 wiresgit.
 smartcarleen.
@@ -402,6 +402,7 @@ Himanshu-skb-oo7.
 hoederath.
 namrataghorpade.
 danielliaus.
+Jayden-Chiu.
 sauravsumankumar.
 ashuprince121.
 adarshsingh0205.
@@ -420,7 +421,6 @@ piyusalunke123.
 rmedved84.
 src107.
 pratyushasndev.
-Jayden-Chiu.
 
 **Top 50% contributors:**
 homealone07.
