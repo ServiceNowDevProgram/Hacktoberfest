@@ -216,9 +216,9 @@ demetris7.
 DhanushNehru.
 JBscriptsNow.
 Juusoee.
+ManobhavSachan.
 
 **Other contributors:**
-ManobhavSachan.
 Saileshlanka.
 seviceN.
 snamjosh.
@@ -306,6 +306,7 @@ SinNaveen.
 smoothwood.
 Sookeyy-12.
 Stevay3.
+swathinagamahanti.
 theotherdebs.
 TheSethRose.
 v-agnihotri.
@@ -490,9 +491,9 @@ thameemskings.
 1shabby.
 4bode.
 abhay625.
+ankitshaw625.
 
 **Other contributors:**
-ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
@@ -851,6 +852,7 @@ SteveMunsell.
 sunnyt107.
 suryakantshoor.
 sushil-now.
+swathinagamahanti.
 SweetPoodle.
 TamByrd.
 theotherdebs.
