@@ -182,15 +182,15 @@ Himanshu-skb-oo7.
 hoederath.
 paigesndev.
 hentonjd.
-Litwilly.
+Karanyadav7.
 
 **Top 25% contributors:**
+Litwilly.
 SapphicFire.
 sychi77.
 Danmax.
 brenduh.
 wiresgit.
-Karanyadav7.
 eriemer1.
 RaunakScarlet.
 smartcarleen.
@@ -436,14 +436,15 @@ briangodfreydev.
 GauthamBellamkonda.
 gowdah.
 hentonjd.
+Karanyadav7.
 odinsride.
 piyusalunke123.
 rmedved84.
 src107.
 pratyushasndev.
-brenduh.
 
 **Top 50% contributors:**
+brenduh.
 homealone07.
 Iamsant.
 Sagar-agarwal.
@@ -454,7 +455,6 @@ wiresgit.
 Abhishekchowdarapu.
 anguspalmer.
 ChecksumFailed.
-Karanyadav7.
 revantKulkarni.
 trade12.
 ttoter.
