@@ -211,11 +211,12 @@ johndahl-now.
 RagaChitraMankala.
 1shabby.
 4bode.
+demetris7.
 DhanushNehru.
 JBscriptsNow.
-Juusoee.
 
 **Other contributors:**
+Juusoee.
 ManobhavSachan.
 Saileshlanka.
 seviceN.
@@ -263,7 +264,6 @@ Collosus1.
 dalestubblefield.
 davematz.
 dcord1x.
-demetris7.
 derHundOida.
 developmentpark.
 Dhar45.
@@ -496,6 +496,7 @@ brichards99.
 Coder0131.
 DaleD-SN.
 deathkraiser.
+demetris7.
 DhanushNehru.
 dhruvii-powershell.
 dorsy99.
@@ -652,7 +653,6 @@ DaSilvaThiago.
 davematz.
 davewburns.
 dcord1x.
-demetris7.
 denmant.
 derHundOida.
 developmentpark.
