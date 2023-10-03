@@ -190,6 +190,7 @@ sychi77.
 Danmax.
 brenduh.
 wiresgit.
+Karanyadav7.
 eriemer1.
 RaunakScarlet.
 smartcarleen.
@@ -198,7 +199,6 @@ goranlundqvist.
 jesalynrose.
 Ladirinia.
 pandeysumit-now.
-Karanyadav7.
 mockspeed.
 
 **Top 50% contributors:**
@@ -453,6 +453,7 @@ wiresgit.
 Abhishekchowdarapu.
 anguspalmer.
 ChecksumFailed.
+Karanyadav7.
 revantKulkarni.
 trade12.
 ttoter.
@@ -471,7 +472,6 @@ miracc.
 nthumma.
 pandeysumit-now.
 patrickpaterlini.
-Karanyadav7.
 LucasRocha2308.
 Mahesh-Krishnan1.
 MihirRathod.
