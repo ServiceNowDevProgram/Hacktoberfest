@@ -215,9 +215,9 @@ RagaChitraMankala.
 Avinash238.
 demetris7.
 DhanushNehru.
+JBscriptsNow.
 
 **Other contributors:**
-JBscriptsNow.
 Juusoee.
 ManobhavSachan.
 Saileshlanka.
@@ -286,6 +286,7 @@ jonahpiascik.
 Josh767676.
 lidmaylid.
 Maithani-ji.
+Manveer-Pbx1.
 MartinStoyanoff.
 maxigrali.
 MiroslawBuszek.
@@ -762,6 +763,7 @@ macias-daniel.
 Mady1947.
 Maithani-ji.
 makesh-ind.
+Manveer-Pbx1.
 maralucca.
 martinkohler.
 maxigrali.
