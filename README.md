@@ -189,12 +189,12 @@ SapphicFire.
 wiresgit.
 Jayden-Chiu.
 brenduh.
+JonSandoval.
 smartcarleen.
 Yokesh0811.
 djunaid.
 goranlundqvist.
 jesalynrose.
-JonSandoval.
 Ladirinia.
 
 **Top 50% contributors:**
@@ -439,6 +439,7 @@ AlphaEagle.
 Jayden-Chiu.
 JWITSM.
 brenduh.
+JonSandoval.
 Yokesh0811.
 Adiana3308.
 akhoshnood.
@@ -447,7 +448,6 @@ Decoder-Paul.
 djunaid.
 goranlundqvist.
 jesalynrose.
-JonSandoval.
 Ladirinia.
 miracc.
 nthumma.
