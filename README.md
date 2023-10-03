@@ -286,6 +286,7 @@ javiervillarreal.
 JoeSDoro.
 jonahpiascik.
 Josh767676.
+Karanyadav7.
 lidmaylid.
 Maithani-ji.
 MartinStoyanoff.
@@ -497,9 +498,9 @@ thameemskings.
 4bode.
 abhay625.
 ankitshaw625.
+Arpan-InGen.
 
 **Other contributors:**
-Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
@@ -738,6 +739,7 @@ jsmayo.
 JulietteM81.
 justSNaccount.
 kainturar.
+Karanyadav7.
 KarelMusa.
 Karthick986.
 karthiga8881.
