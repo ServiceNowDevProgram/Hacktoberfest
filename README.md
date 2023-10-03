@@ -199,9 +199,9 @@ jesalynrose.
 Ladirinia.
 pandeysumit-now.
 mockspeed.
+designitsecure.
 
 **Top 50% contributors:**
-designitsecure.
 bhavyajain511.
 Irston.
 am-shakeel.
@@ -216,9 +216,9 @@ Avinash238.
 demetris7.
 DhanushNehru.
 JBscriptsNow.
+Juusoee.
 
 **Other contributors:**
-Juusoee.
 ManobhavSachan.
 Manveer-Pbx1.
 Saileshlanka.
@@ -302,6 +302,7 @@ PatriciaMaPe.
 princeofwales88.
 Sakshi29G.
 sam16vis.
+scervv.
 SeaBri.
 ShanClayton.
 sheikhafsarzap.
@@ -837,6 +838,7 @@ SanketJ29.
 Sarita3012.
 sasukepatel.
 Saumyaup11.
+scervv.
 scschroc.
 SeaBri.
 sekhar398.
