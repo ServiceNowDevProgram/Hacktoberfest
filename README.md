@@ -220,7 +220,6 @@ Juusoee.
 
 **Other contributors:**
 ManobhavSachan.
-Manveer-Pbx1.
 Saileshlanka.
 seviceN.
 snamjosh.
@@ -289,6 +288,7 @@ Josh767676.
 Karanyadav7.
 lidmaylid.
 Maithani-ji.
+Manveer-Pbx1.
 MartinStoyanoff.
 maxigrali.
 MiroslawBuszek.
@@ -527,7 +527,6 @@ lakshyatyagi24.
 loudigi.
 maialithar.
 ManobhavSachan.
-Manveer-Pbx1.
 mevops.
 mikeroosa.
 moshjahan.
@@ -768,6 +767,7 @@ macias-daniel.
 Mady1947.
 Maithani-ji.
 makesh-ind.
+Manveer-Pbx1.
 maralucca.
 martinkohler.
 maxigrali.
