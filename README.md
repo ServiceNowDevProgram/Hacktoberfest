@@ -192,7 +192,6 @@ Danmax.
 eriemer1.
 wiresgit.
 deepak-64742.
-Karanyadav7.
 JonSandoval.
 RaunakScarlet.
 smartcarleen.
@@ -202,6 +201,7 @@ jesalynrose.
 Ladirinia.
 pandeysumit-now.
 iar42.
+Karanyadav7.
 
 **Top 50% contributors:**
 mockspeed.
@@ -341,8 +341,8 @@ paigesndev.
 DavidArthurCole.
 mgopw.
 Rampriya-S.
-wiz0floyd.
 Lacah.
+wiz0floyd.
 R3J3NT.
 kmohit2809.
 hrobarikt.
@@ -463,7 +463,6 @@ Abhishekchowdarapu.
 anguspalmer.
 ChecksumFailed.
 deepak-64742.
-Karanyadav7.
 revantKulkarni.
 trade12.
 ttoter.
@@ -483,6 +482,7 @@ miracc.
 nthumma.
 pandeysumit-now.
 patrickpaterlini.
+Karanyadav7.
 LucasRocha2308.
 Mahesh-Krishnan1.
 MihirRathod.
