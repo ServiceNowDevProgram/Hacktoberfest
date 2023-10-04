@@ -200,10 +200,11 @@ goranlundqvist.
 jesalynrose.
 Ladirinia.
 pandeysumit-now.
+deepak-64742.
 iar42.
-mockspeed.
 
 **Top 50% contributors:**
+mockspeed.
 snamjosh.
 designitsecure.
 1shabby.
@@ -219,7 +220,6 @@ RagaChitraMankala.
 sanjivmeher.
 4bode.
 Avinash238.
-deepak-64742.
 demetris7.
 
 **Other contributors:**
@@ -482,6 +482,7 @@ miracc.
 nthumma.
 pandeysumit-now.
 patrickpaterlini.
+deepak-64742.
 LucasRocha2308.
 Mahesh-Krishnan1.
 MihirRathod.
@@ -512,9 +513,9 @@ sanjivmeher.
 thameemskings.
 4bode.
 abhay625.
-ankitshaw625.
 
 **Other contributors:**
+ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
@@ -523,7 +524,6 @@ brichards99.
 Coder0131.
 DaleD-SN.
 deathkraiser.
-deepak-64742.
 demetris7.
 DhanushNehru.
 dhruvii-powershell.
