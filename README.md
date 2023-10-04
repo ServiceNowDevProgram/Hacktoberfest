@@ -188,10 +188,10 @@ brenduh.
 
 **Top 25% contributors:**
 eriemer1.
+designitsecure.
 hentonjd.
 Litwilly.
 Danmax.
-designitsecure.
 wiresgit.
 JonSandoval.
 MartinStoyanoff.
@@ -455,6 +455,7 @@ allenandreas.
 apple9000.
 ashu759.
 briangodfreydev.
+designitsecure.
 GauthamBellamkonda.
 gowdah.
 hentonjd.
@@ -463,7 +464,6 @@ piyusalunke123.
 rmedved84.
 src107.
 pratyushasndev.
-designitsecure.
 homealone07.
 Iamsant.
 
