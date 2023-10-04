@@ -203,9 +203,9 @@ pandeysumit-now.
 iar42.
 mockspeed.
 snamjosh.
+designitsecure.
 
 **Top 50% contributors:**
-designitsecure.
 1shabby.
 bhavyajain511.
 DavidMarcial.
@@ -222,9 +222,9 @@ Avinash238.
 demetris7.
 DhanushNehru.
 JBscriptsNow.
+Juusoee.
 
 **Other contributors:**
-Juusoee.
 ManobhavSachan.
 NBaker137.
 S-SuryaPrakash.
@@ -338,6 +338,7 @@ TheSethRose.
 v-agnihotri.
 Vaibhav91one.
 venkat-244.
+vivekmunda1609.
 
 ## Leaderboard (all time):
 
@@ -923,6 +924,7 @@ VictorAlbergaria.
 vigneshmc.
 vijayshankar485.
 Vivek-KP.
+vivekmunda1609.
 vkambhammettu.
 vpeinado.
 vvijaya19.
