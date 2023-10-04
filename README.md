@@ -182,8 +182,8 @@ deepak-64742.
 Himanshu-skb-oo7.
 sychi77.
 hoederath.
-brenduh.
 SapphicFire.
+brenduh.
 paigesndev.
 
 **Top 25% contributors:**
@@ -359,8 +359,8 @@ Radhe-Manasa.
 snamjosh.
 MartinStoyanoff.
 stevezero.
-eriemer1.
 SapphicFire.
+eriemer1.
 rafzk.
 sychi77.
 ynr-ram.
