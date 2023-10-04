@@ -191,8 +191,8 @@ eriemer1.
 hentonjd.
 Litwilly.
 Danmax.
-wiresgit.
 designitsecure.
+wiresgit.
 JonSandoval.
 RaunakScarlet.
 smartcarleen.
@@ -463,11 +463,12 @@ piyusalunke123.
 rmedved84.
 src107.
 pratyushasndev.
+designitsecure.
 homealone07.
 Iamsant.
-Sagar-agarwal.
 
 **Top 50% contributors:**
+Sagar-agarwal.
 yourepicservices.
 markroethof.
 mskoddow.
@@ -479,7 +480,6 @@ revantKulkarni.
 trade12.
 ttoter.
 AlphaEagle.
-designitsecure.
 JonSandoval.
 JWITSM.
 RaunakScarlet.
