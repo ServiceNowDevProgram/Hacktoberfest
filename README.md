@@ -178,12 +178,12 @@ mady22070.
 **Top 10% contributors:**
 Yokesh0811.
 Jayden-Chiu.
+deepak-64742.
 Himanshu-skb-oo7.
 sychi77.
 hoederath.
 brenduh.
 paigesndev.
-deepak-64742.
 
 **Top 25% contributors:**
 hentonjd.
@@ -433,6 +433,7 @@ HarneetSital.
 jacebenson.
 ReginaldFawcett.
 thorn91.
+deepak-64742.
 Himanshu-skb-oo7.
 hoederath.
 namrataghorpade.
@@ -447,7 +448,6 @@ allenandreas.
 apple9000.
 ashu759.
 briangodfreydev.
-deepak-64742.
 GauthamBellamkonda.
 gowdah.
 hentonjd.
