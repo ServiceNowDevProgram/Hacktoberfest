@@ -183,15 +183,15 @@ sychi77.
 hoederath.
 brenduh.
 paigesndev.
-hentonjd.
+deepak-64742.
 
 **Top 25% contributors:**
+hentonjd.
 Litwilly.
 SapphicFire.
 Danmax.
 eriemer1.
 wiresgit.
-deepak-64742.
 JonSandoval.
 RaunakScarlet.
 smartcarleen.
@@ -445,6 +445,7 @@ allenandreas.
 apple9000.
 ashu759.
 briangodfreydev.
+deepak-64742.
 GauthamBellamkonda.
 gowdah.
 hentonjd.
@@ -455,9 +456,9 @@ src107.
 pratyushasndev.
 homealone07.
 Iamsant.
-Sagar-agarwal.
 
 **Top 50% contributors:**
+Sagar-agarwal.
 yourepicservices.
 markroethof.
 mskoddow.
@@ -465,7 +466,6 @@ wiresgit.
 Abhishekchowdarapu.
 anguspalmer.
 ChecksumFailed.
-deepak-64742.
 revantKulkarni.
 trade12.
 ttoter.
