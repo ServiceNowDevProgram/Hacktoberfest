@@ -310,6 +310,7 @@ maxigrali.
 MiroslawBuszek.
 Msiva19.
 Muhammad-Rebaal.
+NK-01.
 nthumma.
 nuwan94.
 OllyIB.
@@ -527,9 +528,9 @@ thameemskings.
 abhay625.
 ankitshaw625.
 Arpan-InGen.
+AryanBarsaiyan.
 
 **Other contributors:**
-AryanBarsaiyan.
 ashleysnyder.
 brichards99.
 Coder0131.
@@ -826,6 +827,7 @@ nayeemwajid97.
 neenaSharma1.
 neerajs296.
 Nerdcode.
+NK-01.
 NoelJarling.
 noyzmaker.
 nuwan94.
