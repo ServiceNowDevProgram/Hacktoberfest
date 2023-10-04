@@ -192,6 +192,7 @@ Danmax.
 eriemer1.
 wiresgit.
 Karanyadav7.
+JonSandoval.
 RaunakScarlet.
 smartcarleen.
 djunaid.
@@ -201,14 +202,13 @@ Ladirinia.
 pandeysumit-now.
 iar42.
 mockspeed.
-snamjosh.
 
 **Top 50% contributors:**
+snamjosh.
 designitsecure.
 bhavyajain511.
 DavidMarcial.
 Irston.
-JonSandoval.
 mmaraj1.
 am-shakeel.
 dalestubblefield.
@@ -466,6 +466,7 @@ trade12.
 ttoter.
 AlphaEagle.
 JWITSM.
+JonSandoval.
 RaunakScarlet.
 Adiana3308.
 akhoshnood.
@@ -494,7 +495,6 @@ abhilash264.
 bhavyajain511.
 dalestubblefield.
 DavidMarcial.
-JonSandoval.
 mmaraj1.
 NayeemKaka.
 sisco0.
