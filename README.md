@@ -206,12 +206,12 @@ snamjosh.
 **Top 50% contributors:**
 designitsecure.
 bhavyajain511.
+DavidMarcial.
 Irston.
 JonSandoval.
 mmaraj1.
 am-shakeel.
 dalestubblefield.
-DavidMarcial.
 debendu-das.
 johndahl-now.
 RagaChitraMankala.
@@ -493,13 +493,13 @@ VaishnaviLathkar98.
 abhilash264.
 bhavyajain511.
 dalestubblefield.
+DavidMarcial.
 JonSandoval.
 mmaraj1.
 NayeemKaka.
 sisco0.
 am-shakeel.
 ashaw7697.
-DavidMarcial.
 debendu-das.
 ewatch.
 Jaskaran-Techno.
