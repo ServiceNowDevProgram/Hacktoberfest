@@ -192,6 +192,7 @@ hentonjd.
 Litwilly.
 Danmax.
 wiresgit.
+designitsecure.
 JonSandoval.
 RaunakScarlet.
 smartcarleen.
@@ -203,7 +204,6 @@ pandeysumit-now.
 iar42.
 mockspeed.
 snamjosh.
-designitsecure.
 
 **Top 50% contributors:**
 1shabby.
@@ -479,6 +479,7 @@ revantKulkarni.
 trade12.
 ttoter.
 AlphaEagle.
+designitsecure.
 JonSandoval.
 JWITSM.
 RaunakScarlet.
@@ -503,7 +504,6 @@ tanu-profile.
 TheTreyKyle.
 thisnameissoclever.
 mockspeed.
-designitsecure.
 VaishnaviLathkar98.
 1shabby.
 abhilash264.
