@@ -191,6 +191,7 @@ SapphicFire.
 Danmax.
 eriemer1.
 wiresgit.
+deepak-64742.
 Karanyadav7.
 JonSandoval.
 RaunakScarlet.
@@ -200,7 +201,6 @@ goranlundqvist.
 jesalynrose.
 Ladirinia.
 pandeysumit-now.
-deepak-64742.
 iar42.
 
 **Top 50% contributors:**
@@ -462,6 +462,7 @@ wiresgit.
 Abhishekchowdarapu.
 anguspalmer.
 ChecksumFailed.
+deepak-64742.
 Karanyadav7.
 revantKulkarni.
 trade12.
@@ -482,7 +483,6 @@ miracc.
 nthumma.
 pandeysumit-now.
 patrickpaterlini.
-deepak-64742.
 LucasRocha2308.
 Mahesh-Krishnan1.
 MihirRathod.
