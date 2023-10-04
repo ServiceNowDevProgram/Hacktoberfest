@@ -202,9 +202,10 @@ Ladirinia.
 pandeysumit-now.
 iar42.
 Karanyadav7.
-mockspeed.
+riya-misra-1.
 
 **Top 50% contributors:**
+mockspeed.
 snamjosh.
 designitsecure.
 1shabby.
@@ -222,13 +223,12 @@ sanjivmeher.
 Avinash238.
 demetris7.
 DhanushNehru.
-JBscriptsNow.
 
 **Other contributors:**
+JBscriptsNow.
 Juusoee.
 ManobhavSachan.
 NBaker137.
-riya-misra-1.
 Saileshlanka.
 seviceN.
 shivamTodwal.
@@ -492,6 +492,7 @@ LucasRocha2308.
 Mahesh-Krishnan1.
 MihirRathod.
 preshitd.
+riya-misra-1.
 shridk.
 tanu-profile.
 TheTreyKyle.
@@ -519,9 +520,9 @@ thameemskings.
 4bode.
 abhay625.
 ankitshaw625.
-Arpan-InGen.
 
 **Other contributors:**
+Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
@@ -559,7 +560,6 @@ PreyumKr.
 RajputUsman.
 rawnaldduck.
 renuka-rajpuria.
-riya-misra-1.
 SagarVijaykumar.
 saikumar-e.
 Saileshlanka.
