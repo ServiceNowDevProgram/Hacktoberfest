@@ -215,6 +215,7 @@ am-shakeel.
 dalestubblefield.
 debendu-das.
 johndahl-now.
+MartinStoyanoff.
 RagaChitraMankala.
 sanjivmeher.
 4bode.
@@ -223,10 +224,9 @@ demetris7.
 DhanushNehru.
 JBscriptsNow.
 Juusoee.
-ManobhavSachan.
 
 **Other contributors:**
-MartinStoyanoff.
+ManobhavSachan.
 NBaker137.
 S-SuryaPrakash.
 Saileshlanka.
