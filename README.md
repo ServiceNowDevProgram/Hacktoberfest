@@ -226,9 +226,9 @@ demetris7.
 DhanushNehru.
 JBscriptsNow.
 Juusoee.
+ManobhavSachan.
 
 **Other contributors:**
-ManobhavSachan.
 NBaker137.
 S-SuryaPrakash.
 Saileshlanka.
@@ -286,6 +286,7 @@ Collosus1.
 Darrkshade.
 davematz.
 dcord1x.
+Deraged.
 derHundOida.
 developmentpark.
 Dhar45.
@@ -710,6 +711,7 @@ davematz.
 davewburns.
 dcord1x.
 denmant.
+Deraged.
 derHundOida.
 developmentpark.
 DFanso.
