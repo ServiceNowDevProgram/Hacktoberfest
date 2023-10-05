@@ -175,9 +175,9 @@ ajcooper72.
 at8807602.
 deepak-64742.
 mady22070.
+Yokesh0811.
 
 **Top 10% contributors:**
-Yokesh0811.
 eriemer1.
 Jayden-Chiu.
 paigesndev.
@@ -186,9 +186,9 @@ designitsecure.
 Himanshu-skb-oo7.
 sychi77.
 hoederath.
+brenduh.
 
 **Top 25% contributors:**
-brenduh.
 hentonjd.
 Litwilly.
 Danmax.
@@ -227,10 +227,10 @@ demetris7.
 DhanushNehru.
 gregorwmail.
 JBscriptsNow.
-Juusoee.
-ManobhavSachan.
 
 **Other contributors:**
+Juusoee.
+ManobhavSachan.
 NBaker137.
 nthumma.
 S-SuryaPrakash.
@@ -350,6 +350,7 @@ SudhirG007.
 TheoCantor.
 theotherdebs.
 TheSethRose.
+TRIGGEREDcoder.
 v-agnihotri.
 Vaibhav91one.
 venkat-244.
@@ -645,6 +646,7 @@ snowritik.
 swathinagamahanti.
 thoffman210.
 TonySerN.
+TRIGGEREDcoder.
 TVani5.
 vishalbirajdar0712.
 vivekverma18.
@@ -938,7 +940,6 @@ toxic-8437.
 TracyCurry96.
 Tramblay.
 TreasuryDigitalApps.
-TRIGGEREDcoder.
 troat9824.
 tsicot.
 tylerteter.
