@@ -232,6 +232,7 @@ ManobhavSachan.
 
 **Other contributors:**
 NBaker137.
+nthumma.
 S-SuryaPrakash.
 Saileshlanka.
 seviceN.
@@ -320,7 +321,6 @@ maxigrali.
 MiroslawBuszek.
 Msiva19.
 Muhammad-Rebaal.
-nthumma.
 nuwan94.
 OllyIB.
 omkarvasekar.
@@ -484,6 +484,7 @@ yourepicservices.
 **Top 50% contributors:**
 markroethof.
 mskoddow.
+nthumma.
 wiresgit.
 Abhishekchowdarapu.
 anguspalmer.
@@ -505,7 +506,6 @@ goranlundqvist.
 jesalynrose.
 Ladirinia.
 miracc.
-nthumma.
 pandeysumit-now.
 patrickpaterlini.
 LucasRocha2308.
