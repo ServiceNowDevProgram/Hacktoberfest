@@ -292,6 +292,7 @@ EricLiv.
 fauverism.
 Flashdevp95.
 gh0stxplt.
+gregorwmail.
 Haile-08.
 Hanan-Ashraf.
 Hasanul-Banna-Himel.
@@ -468,9 +469,9 @@ src107.
 pratyushasndev.
 homealone07.
 Iamsant.
+Sagar-agarwal.
 
 **Top 50% contributors:**
-Sagar-agarwal.
 yourepicservices.
 markroethof.
 mskoddow.
@@ -530,9 +531,9 @@ thameemskings.
 abhay625.
 ankitshaw625.
 Arpan-InGen.
+AryanBarsaiyan.
 
 **Other contributors:**
-AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
 brichards99.
@@ -738,6 +739,7 @@ GouthamSG.
 Gowthammadhusuthanan067.
 greenc123.
 greencarlos.
+gregorwmail.
 GuisseMaabo.
 gurudev-7.
 HackoDev1530.
