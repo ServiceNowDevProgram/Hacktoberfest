@@ -180,9 +180,9 @@ Yokesh0811.
 **Top 10% contributors:**
 eriemer1.
 Jayden-Chiu.
+designitsecure.
 paigesndev.
 SapphicFire.
-designitsecure.
 Himanshu-skb-oo7.
 sychi77.
 hoederath.
@@ -444,6 +444,7 @@ Irston.
 Jayden-Chiu.
 OrgovanGeza.
 arhaan2019.
+designitsecure.
 girishnagaraj09.
 llipovsky.
 mohitchauhan-dev.
@@ -451,7 +452,6 @@ seviceN.
 tejudhoran95.
 vasantharaja-natarajan.
 dean-croaker.
-designitsecure.
 HarneetSital.
 jacebenson.
 ReginaldFawcett.
