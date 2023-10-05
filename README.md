@@ -209,9 +209,9 @@ mockspeed.
 snamjosh.
 
 **Top 50% contributors:**
+chelming.
 1shabby.
 bhavyajain511.
-chelming.
 DavidMarcial.
 Irston.
 mmaraj1.
@@ -401,9 +401,9 @@ mr-swann.
 amigujarathi.
 hafsa-asif.
 ajcooper72.
+chelming.
 devinvalencia.
 aatrey882.
-chelming.
 iar42.
 anillande90.
 danr2c2.
