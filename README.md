@@ -307,6 +307,7 @@ javiervillarreal.
 JoeSDoro.
 jonahpiascik.
 Josh767676.
+Kaluzy.
 Karanyadav7.
 kit-t.
 lidmaylid.
@@ -475,9 +476,9 @@ pratyushasndev.
 homealone07.
 Iamsant.
 Sagar-agarwal.
+yourepicservices.
 
 **Top 50% contributors:**
-yourepicservices.
 markroethof.
 mskoddow.
 wiresgit.
@@ -537,9 +538,9 @@ abhay625.
 ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
+ashleysnyder.
 
 **Other contributors:**
-ashleysnyder.
 Avinash238.
 brichards99.
 Coder0131.
@@ -786,6 +787,7 @@ jsmayo.
 JulietteM81.
 justSNaccount.
 kainturar.
+Kaluzy.
 Karanyadav7.
 KarelMusa.
 Karthick986.
