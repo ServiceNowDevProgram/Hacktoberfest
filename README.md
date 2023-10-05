@@ -204,9 +204,10 @@ Ladirinia.
 pandeysumit-now.
 iar42.
 riya-misra-1.
-mockspeed.
+shivamTodwal.
 
 **Top 50% contributors:**
+mockspeed.
 snamjosh.
 1shabby.
 bhavyajain511.
@@ -224,15 +225,14 @@ Avinash238.
 demetris7.
 DhanushNehru.
 JBscriptsNow.
-Juusoee.
 
 **Other contributors:**
+Juusoee.
 ManobhavSachan.
 NBaker137.
 S-SuryaPrakash.
 Saileshlanka.
 seviceN.
-shivamTodwal.
 chelming.
 csharpie.
 kmohit2809.
@@ -502,6 +502,7 @@ Mahesh-Krishnan1.
 MihirRathod.
 preshitd.
 riya-misra-1.
+shivamTodwal.
 shridk.
 tanu-profile.
 TheTreyKyle.
@@ -529,9 +530,9 @@ thameemskings.
 abhay625.
 ankitshaw625.
 Arpan-InGen.
-AryanBarsaiyan.
 
 **Other contributors:**
+AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
 brichards99.
@@ -577,7 +578,6 @@ sanchit-varshney.
 sandeepd26.
 sanju009.
 Shambu-K.
-shivamTodwal.
 speedy18.
 stwinkle.
 Subhraneel77.
