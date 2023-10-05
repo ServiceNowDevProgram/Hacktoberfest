@@ -206,9 +206,9 @@ pandeysumit-now.
 iar42.
 shivamTodwal.
 mockspeed.
+snamjosh.
 
 **Top 50% contributors:**
-snamjosh.
 1shabby.
 bhavyajain511.
 DavidMarcial.
@@ -227,9 +227,9 @@ DhanushNehru.
 JBscriptsNow.
 Juusoee.
 ManobhavSachan.
+NBaker137.
 
 **Other contributors:**
-NBaker137.
 S-SuryaPrakash.
 Saileshlanka.
 seviceN.
@@ -339,6 +339,7 @@ Shubham2227.
 SinNaveen.
 sjmeissner.
 smoothwood.
+soerenmaucher.
 Sookeyy-12.
 SruthiSivarajan.
 Stevay3.
@@ -458,9 +459,9 @@ brenduh.
 danielliaus.
 sauravsumankumar.
 ashuprince121.
+soerenmaucher.
 adarshsingh0205.
 harisnad.
-soerenmaucher.
 allenandreas.
 apple9000.
 ashu759.
