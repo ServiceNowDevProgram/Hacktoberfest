@@ -222,19 +222,19 @@ RagaChitraMankala.
 sanjivmeher.
 4bode.
 Avinash238.
+chelming.
 demetris7.
 DhanushNehru.
 gregorwmail.
 JBscriptsNow.
 Juusoee.
-ManobhavSachan.
 
 **Other contributors:**
+ManobhavSachan.
 NBaker137.
 S-SuryaPrakash.
 Saileshlanka.
 seviceN.
-chelming.
 csharpie.
 kmohit2809.
 brumam.
@@ -408,11 +408,11 @@ danr2c2.
 Litwilly.
 MRSinghRajat.
 oasif.
+chelming.
 Danmax.
 jiteshmalik.
 jonahpiascik.
 avssrikanth.
-chelming.
 ovarn.
 at8807602.
 davidkwhuang.
