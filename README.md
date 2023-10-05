@@ -211,6 +211,7 @@ snamjosh.
 **Top 50% contributors:**
 1shabby.
 bhavyajain511.
+chelming.
 DavidMarcial.
 Irston.
 mmaraj1.
@@ -222,7 +223,6 @@ RagaChitraMankala.
 sanjivmeher.
 4bode.
 Avinash238.
-chelming.
 demetris7.
 DhanushNehru.
 gregorwmail.
@@ -402,13 +402,13 @@ hafsa-asif.
 ajcooper72.
 devinvalencia.
 aatrey882.
+chelming.
 iar42.
 anillande90.
 danr2c2.
 Litwilly.
 MRSinghRajat.
 oasif.
-chelming.
 Danmax.
 jiteshmalik.
 jonahpiascik.
