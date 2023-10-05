@@ -205,11 +205,11 @@ Ladirinia.
 pandeysumit-now.
 iar42.
 shivamTodwal.
+chelming.
 mockspeed.
-snamjosh.
 
 **Top 50% contributors:**
-chelming.
+snamjosh.
 1shabby.
 bhavyajain511.
 DavidMarcial.
@@ -401,9 +401,9 @@ RahmanM.
 salmaniqbal92.
 mr-swann.
 amigujarathi.
+chelming.
 hafsa-asif.
 ajcooper72.
-chelming.
 devinvalencia.
 aatrey882.
 iar42.
