@@ -224,12 +224,13 @@ sanjivmeher.
 Avinash238.
 demetris7.
 DhanushNehru.
+gregorwmail.
 JBscriptsNow.
 Juusoee.
 ManobhavSachan.
-NBaker137.
 
 **Other contributors:**
+NBaker137.
 S-SuryaPrakash.
 Saileshlanka.
 seviceN.
@@ -296,7 +297,6 @@ EricLiv.
 fauverism.
 Flashdevp95.
 gh0stxplt.
-gregorwmail.
 Haile-08.
 Hanan-Ashraf.
 Hasanul-Banna-Himel.
@@ -551,6 +551,7 @@ demetris7.
 DhanushNehru.
 dhruvii-powershell.
 dorsy99.
+gregorwmail.
 hmadhsan.
 iamvpbhaskar.
 igrzhukovich.
@@ -748,7 +749,6 @@ GouthamSG.
 Gowthammadhusuthanan067.
 greenc123.
 greencarlos.
-gregorwmail.
 GuisseMaabo.
 gurudev-7.
 HackoDev1530.
