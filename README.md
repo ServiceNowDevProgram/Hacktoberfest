@@ -228,6 +228,7 @@ ManobhavSachan.
 
 **Other contributors:**
 NBaker137.
+riya-misra-1.
 S-SuryaPrakash.
 Saileshlanka.
 seviceN.
@@ -320,7 +321,6 @@ parag477.
 PatriciaMaPe.
 princeofwales88.
 Rampriya-S.
-riya-misra-1.
 Sakshi29G.
 sam16vis.
 scervv.
@@ -567,6 +567,7 @@ PreyumKr.
 RajputUsman.
 rawnaldduck.
 renuka-rajpuria.
+riya-misra-1.
 S-SuryaPrakash.
 SagarVijaykumar.
 saikumar-e.
@@ -865,7 +866,6 @@ retrokaj.
 ricksclick.
 rishabhbaranwal0.
 RitheshGit.
-riya-misra-1.
 rohi-v.
 RosaAtCoding.
 RoseKonvalinka.
