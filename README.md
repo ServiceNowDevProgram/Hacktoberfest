@@ -292,6 +292,7 @@ Ayushi22-coder.
 azabadaudiya.
 banjofrailer.
 bharatr21.
+ChecksumFailed.
 cheshtapathak.
 chetnadev.
 Cioraz.
@@ -496,12 +497,12 @@ Sagar-agarwal.
 yourepicservices.
 
 **Top 50% contributors:**
+ChecksumFailed.
 markroethof.
 mskoddow.
 wiresgit.
 Abhishekchowdarapu.
 anguspalmer.
-ChecksumFailed.
 revantKulkarni.
 shivamTodwal.
 trade12.
