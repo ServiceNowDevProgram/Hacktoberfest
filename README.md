@@ -207,9 +207,9 @@ pandeysumit-now.
 iar42.
 chelming.
 mockspeed.
+snamjosh.
 
 **Top 50% contributors:**
-snamjosh.
 1shabby.
 bhavyajain511.
 DavidMarcial.
@@ -228,9 +228,9 @@ DhanushNehru.
 gregorwmail.
 JBscriptsNow.
 Juusoee.
+ManobhavSachan.
 
 **Other contributors:**
-ManobhavSachan.
 NBaker137.
 nthumma.
 Rampriya-S.
@@ -293,6 +293,7 @@ cheshtapathak.
 chetnadev.
 Cioraz.
 Collosus1.
+dadhich-ashish.
 Darrkshade.
 davematz.
 dcord1x.
@@ -549,9 +550,9 @@ AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
 brichards99.
+Coder0131.
 
 **Other contributors:**
-Coder0131.
 DaleD-SN.
 deathkraiser.
 demetris7.
@@ -716,6 +717,7 @@ Coolaxx.
 Crankzaton.
 CreatorWorkflowSC.
 cwhits.
+dadhich-ashish.
 Damilare1212.
 Dan-Bladorn-Trimedx.
 DangerousNights.
