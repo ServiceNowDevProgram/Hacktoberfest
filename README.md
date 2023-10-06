@@ -426,11 +426,12 @@ jonahpiascik.
 avssrikanth.
 ovarn.
 at8807602.
+deepak-64742.
 davidkwhuang.
 zahidask.
-azeezgaa.
 
 **Top 25% contributors:**
+azeezgaa.
 DynamiteC.
 shakeel-sheikh.
 vjtknn.
@@ -438,7 +439,6 @@ MarcMouries.
 sn-ajb.
 techYESlogyXplorer.
 alyaanbasha.
-deepak-64742.
 mady22070.
 harishankert.
 mjonssonme.
