@@ -229,9 +229,9 @@ gregorwmail.
 JBscriptsNow.
 Juusoee.
 ManobhavSachan.
+NBaker137.
 
 **Other contributors:**
-NBaker137.
 nthumma.
 Rampriya-S.
 S-SuryaPrakash.
@@ -319,6 +319,7 @@ jonahpiascik.
 Josh767676.
 Kaluzy.
 Karanyadav7.
+KishoreGitRepo.
 kit-t.
 lidmaylid.
 Maithani-ji.
@@ -393,9 +394,9 @@ alikuttyka.
 BadalHub.
 MrChrisE.
 vandna07.
+aykmrgit.
 
 **Top 10% contributors:**
-aykmrgit.
 PranavBhagat18.
 litwi1rm.
 mak1A4.
@@ -425,9 +426,9 @@ ovarn.
 at8807602.
 davidkwhuang.
 zahidask.
+azeezgaa.
 
 **Top 25% contributors:**
-azeezgaa.
 DynamiteC.
 shakeel-sheikh.
 vjtknn.
@@ -550,10 +551,10 @@ Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
-brichards99.
-Coder0131.
 
 **Other contributors:**
+brichards99.
+Coder0131.
 DaleD-SN.
 deathkraiser.
 demetris7.
@@ -814,6 +815,7 @@ kenish12.
 KhAhshan.
 khoilu-1512.
 kieo-on.
+KishoreGitRepo.
 kit-t.
 KokilaAbeysinghe.
 kuldeep3143.
