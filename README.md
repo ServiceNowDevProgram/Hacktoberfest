@@ -205,12 +205,13 @@ jesalynrose.
 Ladirinia.
 pandeysumit-now.
 iar42.
+nthumma.
 chelming.
 mockspeed.
 snamjosh.
-1shabby.
 
 **Top 50% contributors:**
+1shabby.
 bhavyajain511.
 DavidMarcial.
 Irston.
@@ -230,7 +231,6 @@ JBscriptsNow.
 Juusoee.
 ManobhavSachan.
 NBaker137.
-nthumma.
 
 **Other contributors:**
 Rampriya-S.
@@ -475,6 +475,7 @@ soerenmaucher.
 ashuprince121.
 adarshsingh0205.
 harisnad.
+nthumma.
 allenandreas.
 apple9000.
 ashu759.
@@ -491,12 +492,11 @@ pratyushasndev.
 homealone07.
 Iamsant.
 Sagar-agarwal.
-yourepicservices.
 
 **Top 50% contributors:**
+yourepicservices.
 markroethof.
 mskoddow.
-nthumma.
 wiresgit.
 Abhishekchowdarapu.
 anguspalmer.
