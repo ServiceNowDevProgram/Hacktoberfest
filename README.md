@@ -318,6 +318,7 @@ HauseMasterZ.
 iks1.
 ishanjain18.
 Iuliak.
+Jaspalsinghchot.
 javiervillarreal.
 JoeSDoro.
 jonahpiascik.
@@ -559,9 +560,9 @@ Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
+brichards99.
 
 **Other contributors:**
-brichards99.
 Coder0131.
 DaleD-SN.
 deathkraiser.
@@ -800,6 +801,7 @@ j2clow.
 jamalissimo.
 jambo969.
 jamiestroud.
+Jaspalsinghchot.
 jayeshyadav252.
 jaypalmr.
 jc73uk.
