@@ -205,9 +205,9 @@ goranlundqvist.
 jesalynrose.
 Ladirinia.
 pandeysumit-now.
+chelming.
 iar42.
 nthumma.
-chelming.
 mockspeed.
 
 **Top 50% contributors:**
@@ -411,8 +411,8 @@ mlemartien.
 bird-03.
 salmaniqbal92.
 mr-swann.
-amigujarathi.
 chelming.
+amigujarathi.
 hafsa-asif.
 ajcooper72.
 devinvalencia.
