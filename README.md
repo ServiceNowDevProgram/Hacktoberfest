@@ -218,6 +218,7 @@ bhavyajain511.
 dadhich-ashish.
 DavidMarcial.
 Irston.
+Jaspalsinghchot.
 mmaraj1.
 sanjivmeher.
 am-shakeel.
@@ -231,9 +232,9 @@ demetris7.
 DhanushNehru.
 JBscriptsNow.
 Juusoee.
-ManobhavSachan.
 
 **Other contributors:**
+ManobhavSachan.
 NBaker137.
 Rampriya-S.
 S-SuryaPrakash.
@@ -244,7 +245,6 @@ csharpie.
 TRIGGEREDcoder.
 brumam.
 djharshit.
-Jaspalsinghchot.
 Litaflom.
 outlivo.
 RahmanM.
@@ -541,6 +541,7 @@ bhavyajain511.
 dadhich-ashish.
 dalestubblefield.
 DavidMarcial.
+Jaspalsinghchot.
 mmaraj1.
 NayeemKaka.
 sanjivmeher.
@@ -560,9 +561,9 @@ Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
-brichards99.
 
 **Other contributors:**
+brichards99.
 Coder0131.
 DaleD-SN.
 deathkraiser.
@@ -622,7 +623,6 @@ aman2519.
 brumam.
 cenzo85.
 djharshit.
-Jaspalsinghchot.
 Krishnakant-iv.
 Litaflom.
 lverbeke.
