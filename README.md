@@ -214,10 +214,10 @@ nthumma.
 **Top 50% contributors:**
 mockspeed.
 snamjosh.
+DavidMarcial.
 1shabby.
 bhavyajain511.
 dadhich-ashish.
-DavidMarcial.
 Irston.
 mmaraj1.
 sanjivmeher.
@@ -536,13 +536,13 @@ tanu-profile.
 TheTreyKyle.
 thisnameissoclever.
 mockspeed.
+DavidMarcial.
 VaishnaviLathkar98.
 1shabby.
 abhilash264.
 bhavyajain511.
 dadhich-ashish.
 dalestubblefield.
-DavidMarcial.
 mmaraj1.
 NayeemKaka.
 sanjivmeher.
