@@ -227,9 +227,9 @@ demetris7.
 DhanushNehru.
 gregorwmail.
 JBscriptsNow.
+Juusoee.
 
 **Other contributors:**
-Juusoee.
 ManobhavSachan.
 NBaker137.
 nthumma.
@@ -289,6 +289,7 @@ banjofrailer.
 bharatr21.
 cheshtapathak.
 chetnadev.
+ChilloutSenthil.
 Cioraz.
 Collosus1.
 Darrkshade.
@@ -483,9 +484,9 @@ homealone07.
 Iamsant.
 Sagar-agarwal.
 yourepicservices.
+markroethof.
 
 **Top 50% contributors:**
-markroethof.
 mskoddow.
 nthumma.
 wiresgit.
@@ -546,9 +547,9 @@ Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
+brichards99.
 
 **Other contributors:**
-brichards99.
 Coder0131.
 DaleD-SN.
 deathkraiser.
@@ -700,6 +701,7 @@ chandumishra21.
 Charlesemesobum.
 cheshtapathak.
 chetnadev.
+ChilloutSenthil.
 ChristineMayfield.
 ChrRepou.
 Cioraz.
