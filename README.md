@@ -213,6 +213,7 @@ snamjosh.
 **Top 50% contributors:**
 1shabby.
 bhavyajain511.
+dadhich-ashish.
 DavidMarcial.
 Irston.
 mmaraj1.
@@ -230,9 +231,9 @@ gregorwmail.
 JBscriptsNow.
 Juusoee.
 ManobhavSachan.
-NBaker137.
 
 **Other contributors:**
+NBaker137.
 Rampriya-S.
 S-SuryaPrakash.
 Saileshlanka.
@@ -242,7 +243,6 @@ csharpie.
 kmohit2809.
 TRIGGEREDcoder.
 brumam.
-dadhich-ashish.
 djharshit.
 Litaflom.
 outlivo.
@@ -533,6 +533,7 @@ VaishnaviLathkar98.
 1shabby.
 abhilash264.
 bhavyajain511.
+dadhich-ashish.
 dalestubblefield.
 DavidMarcial.
 mmaraj1.
@@ -554,9 +555,9 @@ Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
-brichards99.
 
 **Other contributors:**
+brichards99.
 Coder0131.
 DaleD-SN.
 deathkraiser.
@@ -616,7 +617,6 @@ Marll22.
 aman2519.
 brumam.
 cenzo85.
-dadhich-ashish.
 djharshit.
 Krishnakant-iv.
 Litaflom.
