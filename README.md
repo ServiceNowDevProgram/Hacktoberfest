@@ -212,9 +212,9 @@ pandeysumit-now.
 nthumma.
 
 **Top 50% contributors:**
+DavidMarcial.
 mockspeed.
 snamjosh.
-DavidMarcial.
 1shabby.
 bhavyajain511.
 dadhich-ashish.
@@ -535,8 +535,8 @@ shridk.
 tanu-profile.
 TheTreyKyle.
 thisnameissoclever.
-mockspeed.
 DavidMarcial.
+mockspeed.
 VaishnaviLathkar98.
 1shabby.
 abhilash264.
