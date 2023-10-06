@@ -195,6 +195,7 @@ riya-misra-1.
 smartcarleen.
 Danmax.
 wiresgit.
+iar42.
 shivamTodwal.
 JonSandoval.
 MartinStoyanoff.
@@ -207,7 +208,6 @@ kmohit2809.
 Ladirinia.
 pandeysumit-now.
 chelming.
-iar42.
 nthumma.
 
 **Top 50% contributors:**
@@ -411,13 +411,13 @@ mlemartien.
 bird-03.
 salmaniqbal92.
 mr-swann.
+iar42.
 chelming.
 amigujarathi.
 hafsa-asif.
 ajcooper72.
 devinvalencia.
 aatrey882.
-iar42.
 anillande90.
 danr2c2.
 Litwilly.
