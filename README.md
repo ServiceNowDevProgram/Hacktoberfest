@@ -205,13 +205,14 @@ djunaid.
 gregorwmail.
 Jaspalsinghchot.
 RaunakScarlet.
+domuserk.
 goranlundqvist.
 jesalynrose.
 kmohit2809.
 Ladirinia.
-pandeysumit-now.
 
 **Top 50% contributors:**
+pandeysumit-now.
 nthumma.
 DavidMarcial.
 mockspeed.
@@ -224,7 +225,6 @@ mmaraj1.
 am-shakeel.
 dalestubblefield.
 debendu-das.
-domuserk.
 johndahl-now.
 RagaChitraMankala.
 4bode.
@@ -522,6 +522,7 @@ Adiana3308.
 akhoshnood.
 allam1234.
 Decoder-Paul.
+domuserk.
 goranlundqvist.
 jesalynrose.
 Ladirinia.
@@ -550,7 +551,6 @@ sisco0.
 am-shakeel.
 ashaw7697.
 debendu-das.
-domuserk.
 ewatch.
 Jaskaran-Techno.
 RagaChitraMankala.
