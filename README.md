@@ -201,6 +201,7 @@ JonSandoval.
 MartinStoyanoff.
 djunaid.
 gregorwmail.
+Jaspalsinghchot.
 RaunakScarlet.
 goranlundqvist.
 jesalynrose.
@@ -209,16 +210,15 @@ Ladirinia.
 pandeysumit-now.
 chelming.
 nthumma.
-mockspeed.
 
 **Top 50% contributors:**
+mockspeed.
 snamjosh.
 1shabby.
 bhavyajain511.
 dadhich-ashish.
 DavidMarcial.
 Irston.
-Jaspalsinghchot.
 mmaraj1.
 sanjivmeher.
 am-shakeel.
@@ -514,6 +514,7 @@ JonSandoval.
 JWITSM.
 djunaid.
 gregorwmail.
+Jaspalsinghchot.
 RaunakScarlet.
 Adiana3308.
 akhoshnood.
@@ -541,7 +542,6 @@ bhavyajain511.
 dadhich-ashish.
 dalestubblefield.
 DavidMarcial.
-Jaspalsinghchot.
 mmaraj1.
 NayeemKaka.
 sanjivmeher.
