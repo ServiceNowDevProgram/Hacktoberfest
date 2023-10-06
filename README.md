@@ -200,6 +200,7 @@ shivamTodwal.
 chelming.
 JonSandoval.
 MartinStoyanoff.
+sanjivmeher.
 djunaid.
 gregorwmail.
 Jaspalsinghchot.
@@ -209,13 +210,12 @@ jesalynrose.
 kmohit2809.
 Ladirinia.
 pandeysumit-now.
-nthumma.
 
 **Top 50% contributors:**
+nthumma.
 DavidMarcial.
 mockspeed.
 snamjosh.
-sanjivmeher.
 1shabby.
 bhavyajain511.
 dadhich-ashish.
@@ -513,6 +513,7 @@ ttoter.
 AlphaEagle.
 JonSandoval.
 JWITSM.
+sanjivmeher.
 djunaid.
 gregorwmail.
 Jaspalsinghchot.
@@ -537,7 +538,6 @@ TheTreyKyle.
 thisnameissoclever.
 DavidMarcial.
 mockspeed.
-sanjivmeher.
 VaishnaviLathkar98.
 1shabby.
 abhilash264.
