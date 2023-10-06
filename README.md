@@ -244,6 +244,7 @@ csharpie.
 TRIGGEREDcoder.
 brumam.
 djharshit.
+Jaspalsinghchot.
 Litaflom.
 outlivo.
 RahmanM.
@@ -262,7 +263,6 @@ fauverism.
 garyditsch.
 HariniSnow.
 ivan-betev.
-Jaspalsinghchot.
 jaz1gdev.
 manoj424.
 mvarshney99.
@@ -622,6 +622,7 @@ aman2519.
 brumam.
 cenzo85.
 djharshit.
+Jaspalsinghchot.
 Krishnakant-iv.
 Litaflom.
 lverbeke.
@@ -646,7 +647,6 @@ gkiratkar1.
 HariniSnow.
 himanisinghal.
 ivan-betev.
-Jaspalsinghchot.
 javiervillarreal.
 jaz1gdev.
 kcimpulse.
