@@ -191,10 +191,10 @@ brenduh.
 **Top 25% contributors:**
 hentonjd.
 Litwilly.
+riya-misra-1.
 smartcarleen.
 Danmax.
 wiresgit.
-riya-misra-1.
 shivamTodwal.
 JonSandoval.
 MartinStoyanoff.
@@ -479,6 +479,7 @@ gowdah.
 hentonjd.
 odinsride.
 piyusalunke123.
+riya-misra-1.
 rmedved84.
 src107.
 pratyushasndev.
@@ -486,9 +487,9 @@ homealone07.
 Iamsant.
 Sagar-agarwal.
 yourepicservices.
-markroethof.
 
 **Top 50% contributors:**
+markroethof.
 mskoddow.
 nthumma.
 wiresgit.
@@ -496,7 +497,6 @@ Abhishekchowdarapu.
 anguspalmer.
 ChecksumFailed.
 revantKulkarni.
-riya-misra-1.
 shivamTodwal.
 trade12.
 ttoter.
