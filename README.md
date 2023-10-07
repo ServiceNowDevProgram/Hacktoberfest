@@ -501,13 +501,13 @@ pratyushasndev.
 homealone07.
 Iamsant.
 Sagar-agarwal.
-yourepicservices.
+wiresgit.
 
 **Top 50% contributors:**
+yourepicservices.
 ChecksumFailed.
 markroethof.
 mskoddow.
-wiresgit.
 Abhishekchowdarapu.
 anguspalmer.
 revantKulkarni.
