@@ -194,6 +194,7 @@ Litwilly.
 riya-misra-1.
 smartcarleen.
 Danmax.
+Jaspalsinghchot.
 wiresgit.
 iar42.
 shivamTodwal.
@@ -203,7 +204,6 @@ MartinStoyanoff.
 sanjivmeher.
 djunaid.
 gregorwmail.
-Jaspalsinghchot.
 RaunakScarlet.
 DavidMarcial.
 domuserk.
@@ -498,11 +498,12 @@ src107.
 pratyushasndev.
 homealone07.
 Iamsant.
+Jaspalsinghchot.
 Sagar-agarwal.
 yourepicservices.
-ChecksumFailed.
 
 **Top 50% contributors:**
+ChecksumFailed.
 markroethof.
 mskoddow.
 wiresgit.
@@ -518,7 +519,6 @@ JWITSM.
 sanjivmeher.
 djunaid.
 gregorwmail.
-Jaspalsinghchot.
 RaunakScarlet.
 Adiana3308.
 akhoshnood.
