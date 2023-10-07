@@ -217,6 +217,7 @@ pandeysumit-now.
 nthumma.
 mockspeed.
 snamjosh.
+csharpie.
 1shabby.
 aykmrgit.
 bhavyajain511.
@@ -234,9 +235,9 @@ Avinash238.
 demetris7.
 DhanushNehru.
 JBscriptsNow.
-Juusoee.
 
 **Other contributors:**
+Juusoee.
 ManobhavSachan.
 NBaker137.
 Rampriya-S.
@@ -246,7 +247,6 @@ seviceN.
 suryakantdubalgunde.
 RahmanM.
 ChilloutSenthil.
-csharpie.
 fauverism.
 TRIGGEREDcoder.
 brumam.
@@ -544,6 +544,7 @@ tanu-profile.
 TheTreyKyle.
 thisnameissoclever.
 mockspeed.
+csharpie.
 VaishnaviLathkar98.
 1shabby.
 abhilash264.
@@ -568,9 +569,9 @@ ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
-Avinash238.
 
 **Other contributors:**
+Avinash238.
 brichards99.
 Coder0131.
 DaleD-SN.
@@ -626,7 +627,6 @@ ToosinDada.
 TRIGGEREDcoder.
 bendouglass.
 ChilloutSenthil.
-csharpie.
 fauverism.
 Marll22.
 aman2519.
