@@ -182,15 +182,15 @@ mady22070.
 paigesndev.
 Jayden-Chiu.
 designitsecure.
+Jaspalsinghchot.
 SapphicFire.
 hentonjd.
 Himanshu-skb-oo7.
 sychi77.
 hoederath.
-brenduh.
 
 **Top 25% contributors:**
-Jaspalsinghchot.
+brenduh.
 Litwilly.
 riya-misra-1.
 smartcarleen.
@@ -462,6 +462,7 @@ OrgovanGeza.
 arhaan2019.
 designitsecure.
 girishnagaraj09.
+Jaspalsinghchot.
 llipovsky.
 mohitchauhan-dev.
 seviceN.
@@ -481,7 +482,6 @@ danielliaus.
 sauravsumankumar.
 soerenmaucher.
 ashuprince121.
-Jaspalsinghchot.
 adarshsingh0205.
 harisnad.
 nthumma.
