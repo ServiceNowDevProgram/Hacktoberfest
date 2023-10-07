@@ -214,6 +214,7 @@ Ladirinia.
 
 **Top 50% contributors:**
 pandeysumit-now.
+gowdah.
 nthumma.
 aykmrgit.
 mockspeed.
@@ -232,13 +233,12 @@ dalestubblefield.
 debendu-das.
 johndahl-now.
 RagaChitraMankala.
-4bode.
 
 **Other contributors:**
+4bode.
 Avinash238.
 demetris7.
 DhanushNehru.
-gowdah.
 JBscriptsNow.
 Juusoee.
 ManobhavSachan.
@@ -454,6 +454,7 @@ sn-ajb.
 techYESlogyXplorer.
 alyaanbasha.
 mady22070.
+gowdah.
 harishankert.
 mjonssonme.
 b1naryst0rm.
@@ -474,7 +475,6 @@ seviceN.
 tejudhoran95.
 vasantharaja-natarajan.
 dean-croaker.
-gowdah.
 HarneetSital.
 jacebenson.
 ReginaldFawcett.
