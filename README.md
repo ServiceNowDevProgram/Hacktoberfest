@@ -226,15 +226,16 @@ dadhich-ashish.
 Irston.
 mmaraj1.
 am-shakeel.
+annaydas.
 ashoo-jindal.
 dalestubblefield.
 debendu-das.
 johndahl-now.
 RagaChitraMankala.
 4bode.
-Avinash238.
 
 **Other contributors:**
+Avinash238.
 demetris7.
 DhanushNehru.
 JBscriptsNow.
@@ -256,7 +257,6 @@ sdgrube2.
 abhishek-kumar-91.
 aman2519.
 anilvaranasi.
-annaydas.
 ayleeandersen.
 ayrotideysarkar.
 bird-03.
@@ -557,6 +557,7 @@ mmaraj1.
 NayeemKaka.
 sisco0.
 am-shakeel.
+annaydas.
 ashaw7697.
 ashoo-jindal.
 debendu-das.
@@ -569,9 +570,9 @@ thameemskings.
 abhay625.
 ankitshaw625.
 Arpan-InGen.
-AryanBarsaiyan.
 
 **Other contributors:**
+AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
 brichards99.
@@ -645,7 +646,6 @@ ab7289.
 abhishek-kumar-91.
 anilvaranasi.
 anirudhkumarm.
-annaydas.
 ayleeandersen.
 ayrotideysarkar.
 bgrk005.
