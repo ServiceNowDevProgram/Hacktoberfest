@@ -174,9 +174,9 @@ niamccash.
 ajcooper72.
 at8807602.
 deepak-64742.
+Jaspalsinghchot.
 Yokesh0811.
 eriemer1.
-Jaspalsinghchot.
 
 **Top 10% contributors:**
 mady22070.
@@ -441,11 +441,12 @@ avssrikanth.
 ovarn.
 at8807602.
 deepak-64742.
+Jaspalsinghchot.
 davidkwhuang.
 gowdah.
-zahidask.
 
 **Top 25% contributors:**
+zahidask.
 azeezgaa.
 DynamiteC.
 shakeel-sheikh.
@@ -455,7 +456,6 @@ MarcMouries.
 sn-ajb.
 techYESlogyXplorer.
 alyaanbasha.
-Jaspalsinghchot.
 mady22070.
 harishankert.
 mjonssonme.
