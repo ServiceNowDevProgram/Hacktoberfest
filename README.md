@@ -183,11 +183,11 @@ paigesndev.
 Jayden-Chiu.
 designitsecure.
 SapphicFire.
+hentonjd.
 Himanshu-skb-oo7.
 sychi77.
 hoederath.
 brenduh.
-hentonjd.
 
 **Top 25% contributors:**
 Litwilly.
@@ -471,6 +471,7 @@ HarneetSital.
 jacebenson.
 ReginaldFawcett.
 thorn91.
+hentonjd.
 Himanshu-skb-oo7.
 hoederath.
 namrataghorpade.
@@ -488,7 +489,6 @@ ashu759.
 briangodfreydev.
 GauthamBellamkonda.
 gowdah.
-hentonjd.
 odinsride.
 piyusalunke123.
 riya-misra-1.
