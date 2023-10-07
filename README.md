@@ -190,11 +190,11 @@ hoederath.
 brenduh.
 
 **Top 25% contributors:**
+Jaspalsinghchot.
 Litwilly.
 riya-misra-1.
 smartcarleen.
 Danmax.
-Jaspalsinghchot.
 wiresgit.
 iar42.
 shivamTodwal.
@@ -481,6 +481,7 @@ danielliaus.
 sauravsumankumar.
 soerenmaucher.
 ashuprince121.
+Jaspalsinghchot.
 adarshsingh0205.
 harisnad.
 nthumma.
@@ -498,7 +499,6 @@ src107.
 pratyushasndev.
 homealone07.
 Iamsant.
-Jaspalsinghchot.
 Sagar-agarwal.
 yourepicservices.
 
