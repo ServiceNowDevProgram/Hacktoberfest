@@ -321,6 +321,7 @@ iks1.
 ishanjain18.
 Iuliak.
 javiervillarreal.
+jdsingh206.
 JoeSDoro.
 jonahpiascik.
 Josh767676.
@@ -498,9 +499,9 @@ homealone07.
 Iamsant.
 Sagar-agarwal.
 yourepicservices.
+ChecksumFailed.
 
 **Top 50% contributors:**
-ChecksumFailed.
 markroethof.
 mskoddow.
 wiresgit.
@@ -562,9 +563,9 @@ ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
+Avinash238.
 
 **Other contributors:**
-Avinash238.
 brichards99.
 Coder0131.
 DaleD-SN.
@@ -807,6 +808,7 @@ jamiestroud.
 jayeshyadav252.
 jaypalmr.
 jc73uk.
+jdsingh206.
 Jennylou777.
 jnikita067.
 JoeSDoro.
