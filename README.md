@@ -176,14 +176,14 @@ at8807602.
 deepak-64742.
 Yokesh0811.
 eriemer1.
-mady22070.
+Jaspalsinghchot.
 
 **Top 10% contributors:**
+mady22070.
 paigesndev.
 SapphicFire.
 Jayden-Chiu.
 designitsecure.
-Jaspalsinghchot.
 hentonjd.
 Himanshu-skb-oo7.
 sychi77.
@@ -454,6 +454,7 @@ MarcMouries.
 sn-ajb.
 techYESlogyXplorer.
 alyaanbasha.
+Jaspalsinghchot.
 mady22070.
 gowdah.
 harishankert.
@@ -469,7 +470,6 @@ OrgovanGeza.
 arhaan2019.
 designitsecure.
 girishnagaraj09.
-Jaspalsinghchot.
 llipovsky.
 mohitchauhan-dev.
 seviceN.
