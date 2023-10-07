@@ -233,9 +233,9 @@ dalestubblefield.
 debendu-das.
 johndahl-now.
 RagaChitraMankala.
+4bode.
 
 **Other contributors:**
-4bode.
 Avinash238.
 demetris7.
 DhanushNehru.
@@ -353,6 +353,7 @@ prashantmrshine.
 princeofnubia.
 princeofwales88.
 Rahulpawarb.
+ronaldkarim.
 Sakshi29G.
 sam16vis.
 scervv.
@@ -571,9 +572,9 @@ thameemskings.
 abhay625.
 ankitshaw625.
 Arpan-InGen.
+AryanBarsaiyan.
 
 **Other contributors:**
-AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
 brichards99.
@@ -926,6 +927,7 @@ ricksclick.
 rishabhbaranwal0.
 RitheshGit.
 rohi-v.
+ronaldkarim.
 RosaAtCoding.
 RoseKonvalinka.
 rverrips.
