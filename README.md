@@ -205,16 +205,16 @@ djunaid.
 gregorwmail.
 Jaspalsinghchot.
 RaunakScarlet.
+DavidMarcial.
 domuserk.
 goranlundqvist.
 jesalynrose.
 kmohit2809.
 Ladirinia.
-pandeysumit-now.
 
 **Top 50% contributors:**
+pandeysumit-now.
 nthumma.
-DavidMarcial.
 mockspeed.
 snamjosh.
 1shabby.
@@ -523,6 +523,7 @@ RaunakScarlet.
 Adiana3308.
 akhoshnood.
 allam1234.
+DavidMarcial.
 Decoder-Paul.
 domuserk.
 goranlundqvist.
@@ -539,7 +540,6 @@ shridk.
 tanu-profile.
 TheTreyKyle.
 thisnameissoclever.
-DavidMarcial.
 mockspeed.
 VaishnaviLathkar98.
 1shabby.
