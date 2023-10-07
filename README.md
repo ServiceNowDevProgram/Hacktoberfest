@@ -180,17 +180,17 @@ eriemer1.
 **Top 10% contributors:**
 mady22070.
 paigesndev.
-Jayden-Chiu.
 SapphicFire.
+Jayden-Chiu.
 designitsecure.
-Jaspalsinghchot.
 hentonjd.
 Himanshu-skb-oo7.
 sychi77.
 hoederath.
+brenduh.
 
 **Top 25% contributors:**
-brenduh.
+Jaspalsinghchot.
 Litwilly.
 riya-misra-1.
 smartcarleen.
@@ -394,8 +394,8 @@ sumanthdosapati.
 eriemer1.
 urspvs.
 Radhe-Manasa.
-snamjosh.
 SapphicFire.
+snamjosh.
 stevezero.
 smartcarleen.
 rafzk.
@@ -463,7 +463,6 @@ OrgovanGeza.
 arhaan2019.
 designitsecure.
 girishnagaraj09.
-Jaspalsinghchot.
 llipovsky.
 mohitchauhan-dev.
 seviceN.
@@ -483,6 +482,7 @@ danielliaus.
 sauravsumankumar.
 soerenmaucher.
 ashuprince121.
+Jaspalsinghchot.
 adarshsingh0205.
 harisnad.
 nthumma.
