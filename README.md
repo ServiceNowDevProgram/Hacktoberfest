@@ -231,13 +231,14 @@ mmaraj1.
 am-shakeel.
 ashoo-jindal.
 dalestubblefield.
+ivan-betev.
 johndahl-now.
 puneet94.
 RagaChitraMankala.
 TheSethRose.
-4bode.
 
 **Other contributors:**
+4bode.
 Avinash238.
 demetris7.
 DhanushNehru.
@@ -269,7 +270,6 @@ cenzo85.
 Deraged.
 garyditsch.
 HariniSnow.
-ivan-betev.
 jaz1gdev.
 manoj424.
 mvarshney99.
@@ -569,6 +569,7 @@ am-shakeel.
 ashaw7697.
 ashoo-jindal.
 ewatch.
+ivan-betev.
 Jaskaran-Techno.
 puneet94.
 RagaChitraMankala.
@@ -579,9 +580,9 @@ TheSethRose.
 abhay625.
 ankitshaw625.
 Arpan-InGen.
-AryanBarsaiyan.
 
 **Other contributors:**
+AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
 brichards99.
@@ -666,7 +667,6 @@ garyditsch.
 gkiratkar1.
 HariniSnow.
 himanisinghal.
-ivan-betev.
 javiervillarreal.
 jaz1gdev.
 kcimpulse.
