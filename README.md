@@ -199,6 +199,7 @@ riya-misra-1.
 smartcarleen.
 Danmax.
 wiresgit.
+goranlundqvist.
 iar42.
 shivamTodwal.
 chelming.
@@ -212,7 +213,6 @@ RaunakScarlet.
 annaydas.
 DavidMarcial.
 debendu-das.
-goranlundqvist.
 
 **Top 50% contributors:**
 jesalynrose.
@@ -519,6 +519,7 @@ wiresgit.
 **Top 50% contributors:**
 yourepicservices.
 ChecksumFailed.
+goranlundqvist.
 markroethof.
 mskoddow.
 Abhishekchowdarapu.
@@ -541,7 +542,6 @@ annaydas.
 DavidMarcial.
 debendu-das.
 Decoder-Paul.
-goranlundqvist.
 jesalynrose.
 Ladirinia.
 miracc.
