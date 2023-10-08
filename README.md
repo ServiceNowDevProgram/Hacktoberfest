@@ -234,10 +234,11 @@ dalestubblefield.
 johndahl-now.
 puneet94.
 RagaChitraMankala.
+TheSethRose.
 4bode.
-Avinash238.
 
 **Other contributors:**
+Avinash238.
 demetris7.
 DhanushNehru.
 JBscriptsNow.
@@ -280,7 +281,6 @@ soerenmaucher.
 SruthiSivarajan.
 swathinagamahanti.
 techYESlogyXplorer.
-TheSethRose.
 thoffman210.
 TVani5.
 vishalbirajdar0712.
@@ -573,14 +573,15 @@ puneet94.
 RagaChitraMankala.
 rohantjoshi.
 thameemskings.
+TheSethRose.
 4bode.
 abhay625.
 ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
-ashleysnyder.
 
 **Other contributors:**
+ashleysnyder.
 Avinash238.
 brichards99.
 Coder0131.
@@ -681,7 +682,6 @@ ron-karim.
 snowritik.
 SruthiSivarajan.
 swathinagamahanti.
-TheSethRose.
 thoffman210.
 TonySerN.
 TVani5.
