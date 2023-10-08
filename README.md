@@ -235,9 +235,9 @@ johndahl-now.
 puneet94.
 RagaChitraMankala.
 4bode.
+Avinash238.
 
 **Other contributors:**
-Avinash238.
 demetris7.
 DhanushNehru.
 JBscriptsNow.
@@ -373,6 +373,7 @@ Sookeyy-12.
 Stevay3.
 SudhirG007.
 suryakantdubalgunde.
+tedante.
 TheoCantor.
 theotherdebs.
 utk1725.
@@ -577,9 +578,9 @@ abhay625.
 ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
+ashleysnyder.
 
 **Other contributors:**
-ashleysnyder.
 Avinash238.
 brichards99.
 Coder0131.
@@ -977,6 +978,7 @@ suryakantshoor.
 sushil-now.
 SweetPoodle.
 TamByrd.
+tedante.
 TheoCantor.
 theotherdebs.
 thesnowguy.
