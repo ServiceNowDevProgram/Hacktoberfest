@@ -172,9 +172,9 @@ Lacah.
 MGOPW.
 niamccash.
 ajcooper72.
+Jaspalsinghchot.
 at8807602.
 deepak-64742.
-Jaspalsinghchot.
 Yokesh0811.
 eriemer1.
 
@@ -432,6 +432,7 @@ amigujarathi.
 hafsa-asif.
 ajcooper72.
 devinvalencia.
+Jaspalsinghchot.
 aatrey882.
 gowdah.
 anillande90.
@@ -446,7 +447,6 @@ avssrikanth.
 ovarn.
 at8807602.
 deepak-64742.
-Jaspalsinghchot.
 davidkwhuang.
 
 **Top 25% contributors:**
