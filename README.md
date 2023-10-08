@@ -219,6 +219,7 @@ jesalynrose.
 Ladirinia.
 pandeysumit-now.
 nthumma.
+Rampriya-S.
 aykmrgit.
 mockspeed.
 snamjosh.
@@ -236,9 +237,9 @@ ivan-betev.
 johndahl-now.
 puneet94.
 RagaChitraMankala.
-TheSethRose.
 
 **Other contributors:**
+TheSethRose.
 4bode.
 Avinash238.
 demetris7.
@@ -247,7 +248,6 @@ JBscriptsNow.
 Juusoee.
 ManobhavSachan.
 NBaker137.
-Rampriya-S.
 S-SuryaPrakash.
 Saileshlanka.
 seviceN.
