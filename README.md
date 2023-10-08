@@ -201,6 +201,7 @@ smartcarleen.
 Danmax.
 wiresgit.
 goranlundqvist.
+Rampriya-S.
 shivamTodwal.
 chelming.
 JonSandoval.
@@ -212,15 +213,14 @@ kmohit2809.
 RaunakScarlet.
 annaydas.
 DavidMarcial.
-debendu-das.
 
 **Top 50% contributors:**
+debendu-das.
 jesalynrose.
 Ladirinia.
 pandeysumit-now.
 TheSethRose.
 nthumma.
-Rampriya-S.
 aykmrgit.
 mockspeed.
 snamjosh.
