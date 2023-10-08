@@ -208,13 +208,14 @@ djunaid.
 gregorwmail.
 kmohit2809.
 RaunakScarlet.
+TVani5.
 annaydas.
 DavidMarcial.
 debendu-das.
 goranlundqvist.
-jesalynrose.
 
 **Top 50% contributors:**
+jesalynrose.
 Ladirinia.
 pandeysumit-now.
 nthumma.
@@ -228,7 +229,6 @@ bhavyajain511.
 dadhich-ashish.
 Irston.
 mmaraj1.
-TVani5.
 am-shakeel.
 ashoo-jindal.
 dalestubblefield.
@@ -533,6 +533,7 @@ sanjivmeher.
 djunaid.
 gregorwmail.
 RaunakScarlet.
+TVani5.
 Adiana3308.
 akhoshnood.
 allam1234.
@@ -566,7 +567,6 @@ dalestubblefield.
 mmaraj1.
 NayeemKaka.
 sisco0.
-TVani5.
 am-shakeel.
 ashaw7697.
 ashoo-jindal.
