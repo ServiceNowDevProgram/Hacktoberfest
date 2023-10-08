@@ -211,9 +211,9 @@ RaunakScarlet.
 annaydas.
 DavidMarcial.
 goranlundqvist.
+jesalynrose.
 
 **Top 50% contributors:**
-jesalynrose.
 Ladirinia.
 pandeysumit-now.
 nthumma.
@@ -234,9 +234,9 @@ debendu-das.
 johndahl-now.
 puneet94.
 RagaChitraMankala.
+4bode.
 
 **Other contributors:**
-4bode.
 Avinash238.
 demetris7.
 DhanushNehru.
@@ -374,6 +374,7 @@ suryakantdubalgunde.
 TheoCantor.
 theotherdebs.
 TheSethRose.
+utk1725.
 v-agnihotri.
 Vaibhav91one.
 venkat-244.
@@ -509,9 +510,9 @@ homealone07.
 Iamsant.
 Sagar-agarwal.
 wiresgit.
+yourepicservices.
 
 **Top 50% contributors:**
-yourepicservices.
 ChecksumFailed.
 markroethof.
 mskoddow.
@@ -574,9 +575,9 @@ thameemskings.
 abhay625.
 ankitshaw625.
 Arpan-InGen.
+AryanBarsaiyan.
 
 **Other contributors:**
-AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
 brichards99.
@@ -986,6 +987,7 @@ TreasuryDigitalApps.
 troat9824.
 tsicot.
 tylerteter.
+utk1725.
 v-agnihotri.
 Vaibhav91one.
 vaishakbkj-ml.
