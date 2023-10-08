@@ -221,6 +221,7 @@ Ladirinia.
 pandeysumit-now.
 TheSethRose.
 nthumma.
+amigujarathi.
 aykmrgit.
 mockspeed.
 snamjosh.
@@ -236,9 +237,9 @@ am-shakeel.
 ashoo-jindal.
 dalestubblefield.
 ivan-betev.
-johndahl-now.
 
 **Other contributors:**
+johndahl-now.
 puneet94.
 RagaChitraMankala.
 4bode.
@@ -252,7 +253,6 @@ NBaker137.
 S-SuryaPrakash.
 Saileshlanka.
 seviceN.
-amigujarathi.
 RahmanM.
 ChilloutSenthil.
 fauverism.
@@ -423,6 +423,7 @@ PranavBhagat18.
 
 **Top 10% contributors:**
 RahmanM.
+amigujarathi.
 litwi1rm.
 mak1A4.
 mlemartien.
@@ -431,7 +432,6 @@ iar42.
 bird-03.
 salmaniqbal92.
 mr-swann.
-amigujarathi.
 chelming.
 hafsa-asif.
 ajcooper72.
