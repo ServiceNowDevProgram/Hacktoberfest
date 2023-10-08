@@ -197,7 +197,6 @@ riya-misra-1.
 smartcarleen.
 Danmax.
 wiresgit.
-gowdah.
 iar42.
 shivamTodwal.
 chelming.
@@ -211,11 +210,12 @@ RaunakScarlet.
 annaydas.
 DavidMarcial.
 goranlundqvist.
+jesalynrose.
 
 **Top 50% contributors:**
-jesalynrose.
 Ladirinia.
 pandeysumit-now.
+gowdah.
 nthumma.
 aykmrgit.
 mockspeed.
@@ -443,10 +443,9 @@ at8807602.
 deepak-64742.
 Jaspalsinghchot.
 davidkwhuang.
-gowdah.
+zahidask.
 
 **Top 25% contributors:**
-zahidask.
 azeezgaa.
 DynamiteC.
 shakeel-sheikh.
@@ -457,6 +456,7 @@ sn-ajb.
 techYESlogyXplorer.
 alyaanbasha.
 mady22070.
+gowdah.
 harishankert.
 mjonssonme.
 b1naryst0rm.
