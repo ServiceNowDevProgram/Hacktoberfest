@@ -192,13 +192,13 @@ hoederath.
 brenduh.
 
 **Top 25% contributors:**
-TVani5.
 domuserk.
 gowdah.
 iar42.
 Litwilly.
 smartcarleen.
 Danmax.
+TVani5.
 wiresgit.
 goranlundqvist.
 gregorwmail.
@@ -505,7 +505,6 @@ danielliaus.
 sauravsumankumar.
 soerenmaucher.
 ashuprince121.
-TVani5.
 adarshsingh0205.
 domuserk.
 harisnad.
@@ -523,6 +522,7 @@ pratyushasndev.
 homealone07.
 Iamsant.
 Sagar-agarwal.
+TVani5.
 wiresgit.
 yourepicservices.
 
