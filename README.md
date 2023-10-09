@@ -243,6 +243,7 @@ puneet94.
 RagaChitraMankala.
 
 **Other contributors:**
+sudhanshu-77.
 4bode.
 Avinash238.
 demetris7.
@@ -285,7 +286,6 @@ noviicee.
 NowSharif.
 soerenmaucher.
 SruthiSivarajan.
-sudhanshu-77.
 swathinagamahanti.
 techYESlogyXplorer.
 TheSethRose.
@@ -589,12 +589,13 @@ Jaskaran-Techno.
 puneet94.
 RagaChitraMankala.
 rohantjoshi.
+sudhanshu-77.
 thameemskings.
 4bode.
 abhay625.
-ankitshaw625.
 
 **Other contributors:**
+ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
@@ -698,7 +699,6 @@ NowSharif.
 ron-karim.
 snowritik.
 SruthiSivarajan.
-sudhanshu-77.
 swathinagamahanti.
 SweetPoodle.
 TheSethRose.
