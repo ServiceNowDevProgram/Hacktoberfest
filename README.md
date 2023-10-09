@@ -173,8 +173,8 @@ MGOPW.
 niamccash.
 ajcooper72.
 Jaspalsinghchot.
-deepak-64742.
 SapphicFire.
+deepak-64742.
 at8807602.
 Yokesh0811.
 
@@ -243,7 +243,6 @@ puneet94.
 
 **Other contributors:**
 RagaChitraMankala.
-TheSethRose.
 4bode.
 Avinash238.
 demetris7.
@@ -288,6 +287,7 @@ soerenmaucher.
 SruthiSivarajan.
 swathinagamahanti.
 techYESlogyXplorer.
+TheSethRose.
 thoffman210.
 vishalbirajdar0712.
 vivekverma18.
@@ -589,11 +589,10 @@ puneet94.
 RagaChitraMankala.
 rohantjoshi.
 thameemskings.
-TheSethRose.
 4bode.
+abhay625.
 
 **Other contributors:**
-abhay625.
 ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
@@ -700,6 +699,7 @@ snowritik.
 SruthiSivarajan.
 swathinagamahanti.
 SweetPoodle.
+TheSethRose.
 thoffman210.
 TonySerN.
 vishalbirajdar0712.
