@@ -205,6 +205,7 @@ TheSethRose.
 gregorwmail.
 Rampriya-S.
 shivamTodwal.
+amigujarathi.
 chelming.
 JonSandoval.
 MartinStoyanoff.
@@ -213,16 +214,15 @@ ashoo-jindal.
 djunaid.
 kmohit2809.
 RaunakScarlet.
-annaydas.
 
 **Top 50% contributors:**
+annaydas.
 DavidMarcial.
 debendu-das.
 jesalynrose.
 Ladirinia.
 pandeysumit-now.
 nthumma.
-amigujarathi.
 aykmrgit.
 mockspeed.
 snamjosh.
@@ -424,11 +424,11 @@ alikuttyka.
 BadalHub.
 MrChrisE.
 vandna07.
-PranavBhagat18.
+amigujarathi.
 
 **Top 10% contributors:**
+PranavBhagat18.
 RahmanM.
-amigujarathi.
 litwi1rm.
 mak1A4.
 mlemartien.
