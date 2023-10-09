@@ -208,14 +208,14 @@ chelming.
 JonSandoval.
 MartinStoyanoff.
 sanjivmeher.
+ashoo-jindal.
 djunaid.
 gregorwmail.
 kmohit2809.
 RaunakScarlet.
-annaydas.
 
 **Top 50% contributors:**
-ashoo-jindal.
+annaydas.
 DavidMarcial.
 debendu-das.
 jesalynrose.
@@ -536,6 +536,7 @@ AlphaEagle.
 JonSandoval.
 JWITSM.
 sanjivmeher.
+ashoo-jindal.
 djunaid.
 gregorwmail.
 RaunakScarlet.
@@ -543,7 +544,6 @@ Adiana3308.
 akhoshnood.
 allam1234.
 annaydas.
-ashoo-jindal.
 DavidMarcial.
 debendu-das.
 Decoder-Paul.
