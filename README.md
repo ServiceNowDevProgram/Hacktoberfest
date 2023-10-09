@@ -223,7 +223,6 @@ debendu-das.
 jesalynrose.
 Ladirinia.
 pandeysumit-now.
-TheSethRose.
 nthumma.
 aykmrgit.
 mockspeed.
@@ -240,10 +239,11 @@ am-shakeel.
 dalestubblefield.
 ivan-betev.
 johndahl-now.
+puneet94.
 
 **Other contributors:**
-puneet94.
 RagaChitraMankala.
+TheSethRose.
 4bode.
 Avinash238.
 demetris7.
@@ -559,7 +559,6 @@ Ladirinia.
 miracc.
 pandeysumit-now.
 patrickpaterlini.
-TheSethRose.
 LucasRocha2308.
 Mahesh-Krishnan1.
 MihirRathod.
@@ -590,6 +589,7 @@ puneet94.
 RagaChitraMankala.
 rohantjoshi.
 thameemskings.
+TheSethRose.
 4bode.
 
 **Other contributors:**
