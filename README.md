@@ -218,6 +218,7 @@ DavidMarcial.
 
 **Top 50% contributors:**
 debendu-das.
+ivan-betev.
 jesalynrose.
 Ladirinia.
 pandeysumit-now.
@@ -235,7 +236,6 @@ mmaraj1.
 ronaldkarim.
 am-shakeel.
 dalestubblefield.
-ivan-betev.
 johndahl-now.
 puneet94.
 RagaChitraMankala.
@@ -552,6 +552,7 @@ annaydas.
 DavidMarcial.
 debendu-das.
 Decoder-Paul.
+ivan-betev.
 jesalynrose.
 Ladirinia.
 miracc.
@@ -581,7 +582,6 @@ sisco0.
 am-shakeel.
 ashaw7697.
 ewatch.
-ivan-betev.
 Jaskaran-Techno.
 puneet94.
 RagaChitraMankala.
