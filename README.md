@@ -225,6 +225,7 @@ Ladirinia.
 pandeysumit-now.
 nthumma.
 aykmrgit.
+karthiga-sk.
 mockspeed.
 snamjosh.
 csharpie.
@@ -239,9 +240,9 @@ am-shakeel.
 dalestubblefield.
 ivan-betev.
 johndahl-now.
-puneet94.
 
 **Other contributors:**
+puneet94.
 RagaChitraMankala.
 4bode.
 Avinash238.
@@ -255,7 +256,6 @@ S-SuryaPrakash.
 Saileshlanka.
 seviceN.
 workpurposeusername.
-karthiga-sk.
 RahmanM.
 ChilloutSenthil.
 fauverism.
@@ -567,6 +567,7 @@ shridk.
 tanu-profile.
 TheTreyKyle.
 thisnameissoclever.
+karthiga-sk.
 mockspeed.
 TRIGGEREDcoder.
 csharpie.
@@ -590,9 +591,9 @@ RagaChitraMankala.
 rohantjoshi.
 thameemskings.
 4bode.
-abhay625.
 
 **Other contributors:**
+abhay625.
 ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
@@ -649,7 +650,6 @@ trishitapingolia.
 workpurposeusername.
 zaidongy.
 jon-lind-sn.
-karthiga-sk.
 ToosinDada.
 bendouglass.
 ChilloutSenthil.
