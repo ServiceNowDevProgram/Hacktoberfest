@@ -240,9 +240,9 @@ johndahl-now.
 puneet94.
 RagaChitraMankala.
 4bode.
+Avinash238.
 
 **Other contributors:**
-Avinash238.
 demetris7.
 DhanushNehru.
 JBscriptsNow.
@@ -344,6 +344,7 @@ Kaluzy.
 Karanyadav7.
 KishoreGitRepo.
 kit-t.
+KritiDwivedi.
 lidmaylid.
 Maithani-ji.
 Manveer-Pbx1.
@@ -525,9 +526,9 @@ Sagar-agarwal.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
+goranlundqvist.
 
 **Top 50% contributors:**
-goranlundqvist.
 gregorwmail.
 markroethof.
 mskoddow.
@@ -591,9 +592,9 @@ thameemskings.
 abhay625.
 ankitshaw625.
 Arpan-InGen.
+AryanBarsaiyan.
 
 **Other contributors:**
-AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
 brichards99.
@@ -870,6 +871,7 @@ kieo-on.
 KishoreGitRepo.
 kit-t.
 KokilaAbeysinghe.
+KritiDwivedi.
 kuldeep3143.
 Lamquocminhhuy.
 LarsAssen.
