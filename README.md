@@ -224,6 +224,7 @@ jesalynrose.
 Ladirinia.
 pandeysumit-now.
 nthumma.
+sheikhafsarzap.
 aykmrgit.
 mockspeed.
 csharpie.
@@ -240,9 +241,9 @@ johndahl-now.
 puneet94.
 RagaChitraMankala.
 4bode.
-Avinash238.
 
 **Other contributors:**
+Avinash238.
 demetris7.
 DhanushNehru.
 JBscriptsNow.
@@ -252,7 +253,6 @@ NBaker137.
 S-SuryaPrakash.
 Saileshlanka.
 seviceN.
-sheikhafsarzap.
 workpurposeusername.
 RahmanM.
 ChilloutSenthil.
@@ -563,6 +563,7 @@ LucasRocha2308.
 Mahesh-Krishnan1.
 MihirRathod.
 preshitd.
+sheikhafsarzap.
 shridk.
 tanu-profile.
 TheTreyKyle.
@@ -592,9 +593,9 @@ thameemskings.
 abhay625.
 ankitshaw625.
 Arpan-InGen.
-AryanBarsaiyan.
 
 **Other contributors:**
+AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
 brichards99.
@@ -640,7 +641,6 @@ sanchit-varshney.
 sandeepd26.
 sanju009.
 Shambu-K.
-sheikhafsarzap.
 speedy18.
 stwinkle.
 Subhraneel77.
