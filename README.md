@@ -174,15 +174,15 @@ niamccash.
 ajcooper72.
 Jaspalsinghchot.
 deepak-64742.
-at8807602.
 SapphicFire.
-riya-misra-1.
+at8807602.
+Yokesh0811.
 
 **Top 10% contributors:**
-Yokesh0811.
 eriemer1.
 mady22070.
 paigesndev.
+riya-misra-1.
 sychi77.
 Jayden-Chiu.
 designitsecure.
@@ -464,7 +464,6 @@ zahidask.
 **Top 25% contributors:**
 azeezgaa.
 DynamiteC.
-riya-misra-1.
 shakeel-sheikh.
 vjtknn.
 Yokesh0811.
@@ -476,6 +475,7 @@ mady22070.
 harishankert.
 mjonssonme.
 b1naryst0rm.
+riya-misra-1.
 AdilBasha1SAP.
 bradtiltonnow.
 phr-nk.
