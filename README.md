@@ -175,13 +175,13 @@ ajcooper72.
 Jaspalsinghchot.
 deepak-64742.
 at8807602.
+SapphicFire.
 riya-misra-1.
-Yokesh0811.
 
 **Top 10% contributors:**
+Yokesh0811.
 eriemer1.
 mady22070.
-SapphicFire.
 paigesndev.
 sychi77.
 Jayden-Chiu.
@@ -412,8 +412,8 @@ hrobarikt.
 MartinStoyanoff.
 sumanthdosapati.
 eriemer1.
-urspvs.
 SapphicFire.
+urspvs.
 Radhe-Manasa.
 snamjosh.
 stevezero.
