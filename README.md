@@ -206,6 +206,7 @@ TheSethRose.
 Rampriya-S.
 shivamTodwal.
 amigujarathi.
+karthiga-sk.
 MartinStoyanoff.
 sdgrube2.
 chelming.
@@ -214,9 +215,9 @@ sanjivmeher.
 ashoo-jindal.
 djunaid.
 kmohit2809.
-RaunakScarlet.
 
 **Top 50% contributors:**
+RaunakScarlet.
 annaydas.
 DavidMarcial.
 debendu-das.
@@ -225,7 +226,6 @@ Ladirinia.
 pandeysumit-now.
 nthumma.
 aykmrgit.
-karthiga-sk.
 mockspeed.
 snamjosh.
 csharpie.
@@ -538,6 +538,7 @@ anguspalmer.
 revantKulkarni.
 shivamTodwal.
 trade12.
+karthiga-sk.
 sdgrube2.
 ttoter.
 AlphaEagle.
@@ -567,7 +568,6 @@ shridk.
 tanu-profile.
 TheTreyKyle.
 thisnameissoclever.
-karthiga-sk.
 mockspeed.
 TRIGGEREDcoder.
 csharpie.
