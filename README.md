@@ -254,7 +254,6 @@ S-SuryaPrakash.
 Saileshlanka.
 seviceN.
 workpurposeusername.
-karthiga-sk.
 RahmanM.
 ChilloutSenthil.
 fauverism.
@@ -648,7 +647,6 @@ trishitapingolia.
 workpurposeusername.
 zaidongy.
 jon-lind-sn.
-karthiga-sk.
 ToosinDada.
 bendouglass.
 ChilloutSenthil.
