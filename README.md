@@ -215,6 +215,7 @@ RaunakScarlet.
 annaydas.
 
 **Top 50% contributors:**
+ashoo-jindal.
 DavidMarcial.
 debendu-das.
 jesalynrose.
@@ -235,7 +236,6 @@ mmaraj1.
 ronaldkarim.
 sdgrube2.
 am-shakeel.
-ashoo-jindal.
 dalestubblefield.
 
 **Other contributors:**
@@ -543,6 +543,7 @@ Adiana3308.
 akhoshnood.
 allam1234.
 annaydas.
+ashoo-jindal.
 DavidMarcial.
 debendu-das.
 Decoder-Paul.
@@ -575,7 +576,6 @@ sdgrube2.
 sisco0.
 am-shakeel.
 ashaw7697.
-ashoo-jindal.
 ewatch.
 ivan-betev.
 Jaskaran-Techno.
