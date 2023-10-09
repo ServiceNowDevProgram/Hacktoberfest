@@ -171,8 +171,8 @@ earlduque.
 Lacah.
 MGOPW.
 niamccash.
-ajcooper72.
 SapphicFire.
+ajcooper72.
 Jaspalsinghchot.
 deepak-64742.
 at8807602.
@@ -213,11 +213,10 @@ sanjivmeher.
 ashoo-jindal.
 djunaid.
 RaunakScarlet.
-TVani5.
 annaydas.
+DavidMarcial.
 
 **Top 50% contributors:**
-DavidMarcial.
 debendu-das.
 jesalynrose.
 Ladirinia.
@@ -234,6 +233,7 @@ dadhich-ashish.
 Irston.
 mmaraj1.
 ronaldkarim.
+TVani5.
 am-shakeel.
 dalestubblefield.
 ivan-betev.
@@ -545,7 +545,6 @@ sanjivmeher.
 ashoo-jindal.
 djunaid.
 RaunakScarlet.
-TVani5.
 Adiana3308.
 akhoshnood.
 allam1234.
@@ -579,6 +578,7 @@ mmaraj1.
 NayeemKaka.
 ronaldkarim.
 sisco0.
+TVani5.
 am-shakeel.
 ashaw7697.
 ewatch.
