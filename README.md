@@ -201,8 +201,8 @@ smartcarleen.
 Danmax.
 wiresgit.
 goranlundqvist.
-TheSethRose.
 gregorwmail.
+TheSethRose.
 Rampriya-S.
 shivamTodwal.
 amigujarathi.
@@ -528,12 +528,12 @@ yourepicservices.
 **Top 50% contributors:**
 ChecksumFailed.
 goranlundqvist.
+gregorwmail.
 markroethof.
 mskoddow.
 TheSethRose.
 Abhishekchowdarapu.
 anguspalmer.
-gregorwmail.
 revantKulkarni.
 shivamTodwal.
 trade12.
