@@ -210,13 +210,14 @@ chelming.
 JonSandoval.
 MartinStoyanoff.
 sanjivmeher.
+sdgrube2.
 ashoo-jindal.
 djunaid.
 kmohit2809.
 RaunakScarlet.
-annaydas.
 
 **Top 50% contributors:**
+annaydas.
 DavidMarcial.
 debendu-das.
 jesalynrose.
@@ -227,7 +228,6 @@ aykmrgit.
 mockspeed.
 snamjosh.
 csharpie.
-sdgrube2.
 TRIGGEREDcoder.
 1shabby.
 bhavyajain511.
@@ -542,6 +542,7 @@ AlphaEagle.
 JonSandoval.
 JWITSM.
 sanjivmeher.
+sdgrube2.
 ashoo-jindal.
 djunaid.
 RaunakScarlet.
@@ -568,7 +569,6 @@ thisnameissoclever.
 mockspeed.
 TRIGGEREDcoder.
 csharpie.
-sdgrube2.
 VaishnaviLathkar98.
 1shabby.
 abhilash264.
