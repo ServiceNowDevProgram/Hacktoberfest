@@ -208,15 +208,16 @@ amigujarathi.
 chelming.
 MartinStoyanoff.
 sdgrube2.
+snamjosh.
 JonSandoval.
 sanjivmeher.
 ashoo-jindal.
 djunaid.
 RaunakScarlet.
 annaydas.
-DavidMarcial.
 
 **Top 50% contributors:**
+DavidMarcial.
 debendu-das.
 ivan-betev.
 jesalynrose.
@@ -225,7 +226,6 @@ pandeysumit-now.
 nthumma.
 aykmrgit.
 mockspeed.
-snamjosh.
 csharpie.
 TRIGGEREDcoder.
 1shabby.
@@ -414,9 +414,9 @@ hrobarikt.
 MartinStoyanoff.
 sumanthdosapati.
 eriemer1.
+snamjosh.
 urspvs.
 Radhe-Manasa.
-snamjosh.
 stevezero.
 sychi77.
 smartcarleen.
