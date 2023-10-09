@@ -218,6 +218,7 @@ djunaid.
 
 **Top 50% contributors:**
 RaunakScarlet.
+ronaldkarim.
 DavidMarcial.
 debendu-das.
 ivan-betev.
@@ -234,7 +235,6 @@ bhavyajain511.
 dadhich-ashish.
 Irston.
 mmaraj1.
-ronaldkarim.
 am-shakeel.
 ayleeandersen.
 dalestubblefield.
@@ -548,6 +548,7 @@ sanjivmeher.
 ashoo-jindal.
 djunaid.
 RaunakScarlet.
+ronaldkarim.
 Adiana3308.
 akhoshnood.
 allam1234.
@@ -579,7 +580,6 @@ dadhich-ashish.
 dalestubblefield.
 mmaraj1.
 NayeemKaka.
-ronaldkarim.
 sisco0.
 am-shakeel.
 ashaw7697.
