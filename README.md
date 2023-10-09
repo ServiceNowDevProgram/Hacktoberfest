@@ -200,6 +200,7 @@ smartcarleen.
 Danmax.
 kmohit2809.
 wiresgit.
+annaydas.
 goranlundqvist.
 gregorwmail.
 Rampriya-S.
@@ -214,7 +215,6 @@ sanjivmeher.
 ashoo-jindal.
 djunaid.
 RaunakScarlet.
-annaydas.
 
 **Top 50% contributors:**
 DavidMarcial.
@@ -525,10 +525,11 @@ Iamsant.
 Sagar-agarwal.
 wiresgit.
 yourepicservices.
+annaydas.
 ChecksumFailed.
-goranlundqvist.
 
 **Top 50% contributors:**
+goranlundqvist.
 gregorwmail.
 markroethof.
 mskoddow.
@@ -549,7 +550,6 @@ RaunakScarlet.
 Adiana3308.
 akhoshnood.
 allam1234.
-annaydas.
 DavidMarcial.
 debendu-das.
 Decoder-Paul.
