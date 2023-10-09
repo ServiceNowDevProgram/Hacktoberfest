@@ -202,7 +202,6 @@ Danmax.
 wiresgit.
 goranlundqvist.
 gregorwmail.
-TheSethRose.
 Rampriya-S.
 shivamTodwal.
 amigujarathi.
@@ -215,14 +214,15 @@ sanjivmeher.
 ashoo-jindal.
 djunaid.
 RaunakScarlet.
+annaydas.
 
 **Top 50% contributors:**
-annaydas.
 DavidMarcial.
 debendu-das.
 jesalynrose.
 Ladirinia.
 pandeysumit-now.
+TheSethRose.
 nthumma.
 aykmrgit.
 karthiga-sk.
@@ -410,9 +410,9 @@ wiz0floyd.
 R3J3NT.
 hrobarikt.
 MartinStoyanoff.
+SapphicFire.
 sumanthdosapati.
 eriemer1.
-SapphicFire.
 urspvs.
 Radhe-Manasa.
 snamjosh.
@@ -532,7 +532,6 @@ goranlundqvist.
 gregorwmail.
 markroethof.
 mskoddow.
-TheSethRose.
 Abhishekchowdarapu.
 anguspalmer.
 revantKulkarni.
@@ -559,6 +558,7 @@ Ladirinia.
 miracc.
 pandeysumit-now.
 patrickpaterlini.
+TheSethRose.
 LucasRocha2308.
 Mahesh-Krishnan1.
 MihirRathod.
