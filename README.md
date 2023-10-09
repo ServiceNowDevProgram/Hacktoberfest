@@ -172,8 +172,8 @@ Lacah.
 MGOPW.
 niamccash.
 ajcooper72.
-Jaspalsinghchot.
 SapphicFire.
+Jaspalsinghchot.
 deepak-64742.
 at8807602.
 Yokesh0811.
@@ -206,7 +206,6 @@ Rampriya-S.
 shivamTodwal.
 amigujarathi.
 chelming.
-karthiga-sk.
 MartinStoyanoff.
 sdgrube2.
 JonSandoval.
@@ -215,9 +214,9 @@ sanjivmeher.
 ashoo-jindal.
 djunaid.
 RaunakScarlet.
+annaydas.
 
 **Top 50% contributors:**
-annaydas.
 DavidMarcial.
 debendu-das.
 jesalynrose.
@@ -225,6 +224,7 @@ Ladirinia.
 pandeysumit-now.
 nthumma.
 aykmrgit.
+karthiga-sk.
 mockspeed.
 snamjosh.
 csharpie.
@@ -537,7 +537,6 @@ anguspalmer.
 revantKulkarni.
 shivamTodwal.
 trade12.
-karthiga-sk.
 sdgrube2.
 ttoter.
 AlphaEagle.
@@ -567,6 +566,7 @@ shridk.
 tanu-profile.
 TheTreyKyle.
 thisnameissoclever.
+karthiga-sk.
 mockspeed.
 TRIGGEREDcoder.
 csharpie.
