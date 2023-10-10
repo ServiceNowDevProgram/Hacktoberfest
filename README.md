@@ -177,9 +177,9 @@ Jaspalsinghchot.
 deepak-64742.
 at8807602.
 Yokesh0811.
+eriemer1.
 
 **Top 10% contributors:**
-eriemer1.
 mady22070.
 paigesndev.
 riya-misra-1.
@@ -190,9 +190,9 @@ domuserk.
 hentonjd.
 Himanshu-skb-oo7.
 hoederath.
+brenduh.
 
 **Top 25% contributors:**
-brenduh.
 gowdah.
 iar42.
 Litwilly.
@@ -239,10 +239,10 @@ mmaraj1.
 am-shakeel.
 ayleeandersen.
 dalestubblefield.
-johndahl-now.
-puneet94.
 
 **Other contributors:**
+johndahl-now.
+puneet94.
 RagaChitraMankala.
 sudhanshu-77.
 4bode.
@@ -323,6 +323,7 @@ davematz.
 dcord1x.
 derHundOida.
 developmentpark.
+devendra175151.
 Dhar45.
 DinithiG.
 ekta4es31.
@@ -462,9 +463,9 @@ ovarn.
 at8807602.
 davidkwhuang.
 zahidask.
+azeezgaa.
 
 **Top 25% contributors:**
-azeezgaa.
 DynamiteC.
 shakeel-sheikh.
 vjtknn.
@@ -787,6 +788,7 @@ dcord1x.
 denmant.
 derHundOida.
 developmentpark.
+devendra175151.
 DFanso.
 dhadwal.
 Dhar45.
