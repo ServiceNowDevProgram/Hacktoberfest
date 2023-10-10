@@ -182,13 +182,13 @@ eriemer1.
 **Top 10% contributors:**
 mady22070.
 paigesndev.
-riya-misra-1.
 sychi77.
 Jayden-Chiu.
 designitsecure.
 domuserk.
 hentonjd.
 Himanshu-skb-oo7.
+riya-misra-1.
 hoederath.
 brenduh.
 
@@ -479,7 +479,6 @@ mady22070.
 harishankert.
 mjonssonme.
 b1naryst0rm.
-riya-misra-1.
 AdilBasha1SAP.
 bradtiltonnow.
 phr-nk.
@@ -503,6 +502,7 @@ ReginaldFawcett.
 thorn91.
 hentonjd.
 Himanshu-skb-oo7.
+riya-misra-1.
 hoederath.
 namrataghorpade.
 brenduh.
