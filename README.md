@@ -207,6 +207,7 @@ ronaldkarim.
 smartcarleen.
 Danmax.
 wiresgit.
+ayleeandersen.
 gregorwmail.
 ivan-betev.
 MartinStoyanoff.
@@ -214,13 +215,12 @@ sheikhafsarzap.
 snamjosh.
 chelming.
 sanjivmeher.
-JonSandoval.
 
 **Top 50% contributors:**
+JonSandoval.
 ashoo-jindal.
 djunaid.
 RaunakScarlet.
-ayleeandersen.
 DavidMarcial.
 debendu-das.
 jesalynrose.
@@ -536,6 +536,7 @@ Sagar-agarwal.
 **Top 50% contributors:**
 wiresgit.
 yourepicservices.
+ayleeandersen.
 ChecksumFailed.
 gregorwmail.
 ivan-betev.
@@ -557,7 +558,6 @@ RaunakScarlet.
 Adiana3308.
 akhoshnood.
 allam1234.
-ayleeandersen.
 DavidMarcial.
 debendu-das.
 Decoder-Paul.
