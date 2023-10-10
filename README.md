@@ -200,6 +200,7 @@ Rampriya-S.
 shivamTodwal.
 amigujarathi.
 ronaldkarim.
+sdgrube2.
 smartcarleen.
 Danmax.
 kmohit2809.
@@ -211,7 +212,6 @@ MartinStoyanoff.
 sheikhafsarzap.
 snamjosh.
 chelming.
-sdgrube2.
 JonSandoval.
 sanjivmeher.
 ashoo-jindal.
@@ -524,13 +524,14 @@ shivamTodwal.
 src107.
 pratyushasndev.
 ronaldkarim.
+sdgrube2.
 homealone07.
 Iamsant.
 Sagar-agarwal.
 wiresgit.
-yourepicservices.
 
 **Top 50% contributors:**
+yourepicservices.
 annaydas.
 ChecksumFailed.
 goranlundqvist.
@@ -542,7 +543,6 @@ anguspalmer.
 revantKulkarni.
 sheikhafsarzap.
 trade12.
-sdgrube2.
 ttoter.
 AlphaEagle.
 JonSandoval.
