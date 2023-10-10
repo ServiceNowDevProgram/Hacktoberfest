@@ -208,20 +208,20 @@ Danmax.
 wiresgit.
 annaydas.
 gregorwmail.
+ivan-betev.
 MartinStoyanoff.
 sheikhafsarzap.
 snamjosh.
 chelming.
 JonSandoval.
 sanjivmeher.
-ashoo-jindal.
 
 **Top 50% contributors:**
+ashoo-jindal.
 djunaid.
 RaunakScarlet.
 DavidMarcial.
 debendu-das.
-ivan-betev.
 jesalynrose.
 Ladirinia.
 pandeysumit-now.
@@ -538,6 +538,7 @@ yourepicservices.
 annaydas.
 ChecksumFailed.
 gregorwmail.
+ivan-betev.
 markroethof.
 mskoddow.
 Abhishekchowdarapu.
@@ -559,7 +560,6 @@ allam1234.
 DavidMarcial.
 debendu-das.
 Decoder-Paul.
-ivan-betev.
 jesalynrose.
 Ladirinia.
 miracc.
