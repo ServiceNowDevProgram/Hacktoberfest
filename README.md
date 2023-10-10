@@ -215,9 +215,9 @@ sheikhafsarzap.
 snamjosh.
 chelming.
 sanjivmeher.
+JonSandoval.
 
 **Top 50% contributors:**
-JonSandoval.
 ashoo-jindal.
 djunaid.
 RaunakScarlet.
@@ -240,9 +240,9 @@ mmaraj1.
 am-shakeel.
 aman2519.
 dalestubblefield.
+Iuliak.
 
 **Other contributors:**
-Iuliak.
 johndahl-now.
 puneet94.
 RagaChitraMankala.
@@ -345,6 +345,7 @@ JoeSDoro.
 jonahpiascik.
 Josh767676.
 Kaluzy.
+kanishka-parmar.
 Karanyadav7.
 KholoodS.
 KishoreGitRepo.
@@ -599,9 +600,9 @@ rohantjoshi.
 sudhanshu-77.
 thameemskings.
 4bode.
+abhay625.
 
 **Other contributors:**
-abhay625.
 ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
@@ -867,6 +868,7 @@ JulietteM81.
 justSNaccount.
 kainturar.
 Kaluzy.
+kanishka-parmar.
 Karanyadav7.
 KarelMusa.
 Karthick986.
