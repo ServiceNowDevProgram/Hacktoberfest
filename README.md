@@ -194,6 +194,7 @@ sdgrube2.
 
 **Top 25% contributors:**
 brenduh.
+goranlundqvist.
 gowdah.
 iar42.
 Litwilly.
@@ -206,7 +207,6 @@ Danmax.
 kmohit2809.
 wiresgit.
 annaydas.
-goranlundqvist.
 gregorwmail.
 MartinStoyanoff.
 sheikhafsarzap.
@@ -512,6 +512,7 @@ sauravsumankumar.
 soerenmaucher.
 ashuprince121.
 adarshsingh0205.
+goranlundqvist.
 harisnad.
 nthumma.
 allenandreas.
@@ -529,13 +530,12 @@ ronaldkarim.
 homealone07.
 Iamsant.
 Sagar-agarwal.
-wiresgit.
 
 **Top 50% contributors:**
+wiresgit.
 yourepicservices.
 annaydas.
 ChecksumFailed.
-goranlundqvist.
 gregorwmail.
 markroethof.
 mskoddow.
