@@ -190,9 +190,10 @@ hentonjd.
 Himanshu-skb-oo7.
 riya-misra-1.
 hoederath.
-brenduh.
+sdgrube2.
 
 **Top 25% contributors:**
+brenduh.
 gowdah.
 iar42.
 Litwilly.
@@ -200,7 +201,6 @@ Rampriya-S.
 shivamTodwal.
 amigujarathi.
 ronaldkarim.
-sdgrube2.
 smartcarleen.
 Danmax.
 kmohit2809.
@@ -505,6 +505,7 @@ Himanshu-skb-oo7.
 riya-misra-1.
 hoederath.
 namrataghorpade.
+sdgrube2.
 brenduh.
 danielliaus.
 sauravsumankumar.
@@ -525,7 +526,6 @@ shivamTodwal.
 src107.
 pratyushasndev.
 ronaldkarim.
-sdgrube2.
 homealone07.
 Iamsant.
 Sagar-agarwal.
