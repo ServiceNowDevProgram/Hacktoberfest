@@ -197,6 +197,7 @@ gowdah.
 iar42.
 Litwilly.
 Rampriya-S.
+shivamTodwal.
 amigujarathi.
 ronaldkarim.
 smartcarleen.
@@ -208,7 +209,6 @@ goranlundqvist.
 gregorwmail.
 MartinStoyanoff.
 sheikhafsarzap.
-shivamTodwal.
 snamjosh.
 chelming.
 sdgrube2.
@@ -520,6 +520,7 @@ GauthamBellamkonda.
 odinsride.
 piyusalunke123.
 rmedved84.
+shivamTodwal.
 src107.
 pratyushasndev.
 ronaldkarim.
@@ -528,9 +529,9 @@ Iamsant.
 Sagar-agarwal.
 wiresgit.
 yourepicservices.
-annaydas.
 
 **Top 50% contributors:**
+annaydas.
 ChecksumFailed.
 goranlundqvist.
 gregorwmail.
@@ -540,7 +541,6 @@ Abhishekchowdarapu.
 anguspalmer.
 revantKulkarni.
 sheikhafsarzap.
-shivamTodwal.
 trade12.
 sdgrube2.
 ttoter.
