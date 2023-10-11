@@ -206,10 +206,10 @@ Litwilly.
 ronaldkarim.
 smartcarleen.
 Danmax.
+gregorwmail.
 wiresgit.
 ayleeandersen.
 DavidMarcial.
-gregorwmail.
 ivan-betev.
 MartinStoyanoff.
 sheikhafsarzap.
@@ -533,17 +533,17 @@ rmedved84.
 src107.
 pratyushasndev.
 ronaldkarim.
+gregorwmail.
 homealone07.
 Iamsant.
 Sagar-agarwal.
-wiresgit.
 
 **Top 50% contributors:**
+wiresgit.
 yourepicservices.
 ayleeandersen.
 ChecksumFailed.
 DavidMarcial.
-gregorwmail.
 ivan-betev.
 markroethof.
 mskoddow.
