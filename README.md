@@ -248,6 +248,7 @@ puneet94.
 RagaChitraMankala.
 sudhanshu-77.
 4bode.
+abhrajyotikanrar.
 Avinash238.
 demetris7.
 DhanushNehru.
@@ -301,7 +302,6 @@ vivekverma18.
 23Thom.
 Abhi132004.
 abhi5hek001.
-abhrajyotikanrar.
 adarshsingh7470.
 alexcasper.
 aman-kumar-004.
@@ -609,6 +609,7 @@ thameemskings.
 abhay625.
 
 **Other contributors:**
+abhrajyotikanrar.
 ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
@@ -726,7 +727,6 @@ vivekverma18.
 aaron-howard.
 Abhi132004.
 abhi5hek001.
-abhrajyotikanrar.
 AbServicenow.
 acdigitalclarity.
 adarshsingh7470.
