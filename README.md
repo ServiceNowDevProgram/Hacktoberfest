@@ -207,8 +207,8 @@ iar42.
 Litwilly.
 ronaldkarim.
 Danmax.
-wiresgit.
 ayleeandersen.
+wiresgit.
 DavidMarcial.
 ivan-betev.
 MartinStoyanoff.
@@ -539,14 +539,14 @@ rmedved84.
 src107.
 pratyushasndev.
 ronaldkarim.
+ayleeandersen.
 homealone07.
 Iamsant.
-Sagar-agarwal.
 
 **Top 50% contributors:**
+Sagar-agarwal.
 wiresgit.
 yourepicservices.
-ayleeandersen.
 ChecksumFailed.
 DavidMarcial.
 ivan-betev.
