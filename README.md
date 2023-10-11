@@ -217,9 +217,10 @@ MartinStoyanoff.
 sheikhafsarzap.
 chelming.
 RahmanM.
-JonSandoval.
+csharpie.
 
 **Top 50% contributors:**
+JonSandoval.
 ashoo-jindal.
 djunaid.
 Iuliak.
@@ -233,7 +234,6 @@ NBaker137.
 nthumma.
 aykmrgit.
 mockspeed.
-csharpie.
 dadhich-ashish.
 TRIGGEREDcoder.
 1shabby.
@@ -563,6 +563,7 @@ sheikhafsarzap.
 trade12.
 ttoter.
 AlphaEagle.
+csharpie.
 JonSandoval.
 JWITSM.
 aman2519.
@@ -591,7 +592,6 @@ TheTreyKyle.
 thisnameissoclever.
 mockspeed.
 TRIGGEREDcoder.
-csharpie.
 dadhich-ashish.
 VaishnaviLathkar98.
 1shabby.
