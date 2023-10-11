@@ -241,9 +241,9 @@ mmaraj1.
 am-shakeel.
 aman2519.
 dalestubblefield.
+johndahl-now.
 
 **Other contributors:**
-johndahl-now.
 puneet94.
 RagaChitraMankala.
 sudhanshu-77.
@@ -347,6 +347,7 @@ Josh767676.
 Kaluzy.
 kanishka-parmar.
 Karanyadav7.
+kaushalbharade.
 KholoodS.
 KishoreGitRepo.
 kit-t.
@@ -535,9 +536,9 @@ ronaldkarim.
 homealone07.
 Iamsant.
 Sagar-agarwal.
+wiresgit.
 
 **Top 50% contributors:**
-wiresgit.
 yourepicservices.
 ayleeandersen.
 ChecksumFailed.
@@ -602,9 +603,9 @@ sudhanshu-77.
 thameemskings.
 4bode.
 abhay625.
+ankitshaw625.
 
 **Other contributors:**
-ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
@@ -874,6 +875,7 @@ Karanyadav7.
 KarelMusa.
 Karthick986.
 karthiga8881.
+kaushalbharade.
 KayakDK.
 Keagnn.
 kenish12.
