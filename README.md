@@ -230,6 +230,7 @@ debendu-das.
 jesalynrose.
 Ladirinia.
 pandeysumit-now.
+abhrajyotikanrar.
 NBaker137.
 nthumma.
 aykmrgit.
@@ -245,11 +246,10 @@ dalestubblefield.
 johndahl-now.
 puneet94.
 RagaChitraMankala.
-sudhanshu-77.
 
 **Other contributors:**
+sudhanshu-77.
 4bode.
-abhrajyotikanrar.
 Avinash238.
 demetris7.
 DhanushNehru.
@@ -590,6 +590,7 @@ Ladirinia.
 miracc.
 pandeysumit-now.
 patrickpaterlini.
+abhrajyotikanrar.
 LucasRocha2308.
 Mahesh-Krishnan1.
 MihirRathod.
@@ -621,7 +622,6 @@ sudhanshu-77.
 thameemskings.
 4bode.
 abhay625.
-abhrajyotikanrar.
 ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
