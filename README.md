@@ -216,8 +216,8 @@ ivan-betev.
 MartinStoyanoff.
 sheikhafsarzap.
 chelming.
-RahmanM.
 csharpie.
+RahmanM.
 
 **Top 50% contributors:**
 JonSandoval.
@@ -562,9 +562,9 @@ anguspalmer.
 revantKulkarni.
 sheikhafsarzap.
 trade12.
+csharpie.
 ttoter.
 AlphaEagle.
-csharpie.
 JonSandoval.
 JWITSM.
 aman2519.
