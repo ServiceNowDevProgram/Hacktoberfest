@@ -183,6 +183,7 @@ Yokesh0811.
 eriemer1.
 paigesndev.
 mady22070.
+kmohit2809.
 shivamTodwal.
 sychi77.
 Jayden-Chiu.
@@ -191,7 +192,6 @@ domuserk.
 riya-misra-1.
 hentonjd.
 Himanshu-skb-oo7.
-kmohit2809.
 
 **Top 25% contributors:**
 sdgrube2.
@@ -422,8 +422,8 @@ paigesndev.
 Rampriya-S.
 ishaanshoor.
 mgopw.
-DavidArthurCole.
 kmohit2809.
+DavidArthurCole.
 wiz0floyd.
 R3J3NT.
 SapphicFire.
