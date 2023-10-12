@@ -204,6 +204,7 @@ brenduh.
 gregorwmail.
 annaydas.
 goranlundqvist.
+ivan-betev.
 gowdah.
 iar42.
 Litwilly.
@@ -213,7 +214,6 @@ Danmax.
 Iuliak.
 wiresgit.
 DavidMarcial.
-ivan-betev.
 MartinStoyanoff.
 sheikhafsarzap.
 chelming.
@@ -541,6 +541,7 @@ adarshsingh0205.
 annaydas.
 goranlundqvist.
 harisnad.
+ivan-betev.
 nthumma.
 allenandreas.
 apple9000.
@@ -556,14 +557,13 @@ pratyushasndev.
 homealone07.
 Iamsant.
 Iuliak.
-Sagar-agarwal.
 
 **Top 50% contributors:**
+Sagar-agarwal.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
 DavidMarcial.
-ivan-betev.
 markroethof.
 mskoddow.
 sheikhafsarzap.
