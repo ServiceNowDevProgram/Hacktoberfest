@@ -241,14 +241,14 @@ TRIGGEREDcoder.
 bhavyajain511.
 Irston.
 mmaraj1.
+Paulsylo25.
 Alprez.
 am-shakeel.
 chris-canto-11.
 dalestubblefield.
-johndahl-now.
 
 **Other contributors:**
-Paulsylo25.
+johndahl-now.
 puneet94.
 RagaChitraMankala.
 sudhanshu-77.
@@ -610,6 +610,7 @@ bhavyajain511.
 dalestubblefield.
 mmaraj1.
 NayeemKaka.
+Paulsylo25.
 sisco0.
 Alprez.
 am-shakeel.
@@ -617,7 +618,6 @@ ashaw7697.
 chris-canto-11.
 ewatch.
 Jaskaran-Techno.
-Paulsylo25.
 puneet94.
 RagaChitraMankala.
 rohantjoshi.
