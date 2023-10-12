@@ -246,9 +246,9 @@ johndahl-now.
 puneet94.
 RagaChitraMankala.
 sudhanshu-77.
+4bode.
 
 **Other contributors:**
-4bode.
 abhrajyotikanrar.
 Avinash238.
 demetris7.
@@ -385,6 +385,7 @@ princeofwales88.
 Rahulpawarb.
 Sakshi29G.
 sam16vis.
+sanathan-git.
 sankar-coder.
 scervv.
 SeaBri.
@@ -549,9 +550,9 @@ src107.
 pratyushasndev.
 homealone07.
 Iamsant.
+Iuliak.
 
 **Top 50% contributors:**
-Iuliak.
 Sagar-agarwal.
 wiresgit.
 yourepicservices.
@@ -617,9 +618,9 @@ thameemskings.
 abhay625.
 abhrajyotikanrar.
 ankitshaw625.
+Arpan-InGen.
 
 **Other contributors:**
-Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
@@ -1000,6 +1001,7 @@ Sakshi29G.
 salem769.
 sam16vis.
 samgoodecc.
+sanathan-git.
 sankar-coder.
 SanketJ29.
 Sarita3012.
