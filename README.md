@@ -190,11 +190,12 @@ amigujarathi.
 ayleeandersen.
 Jayden-Chiu.
 designitsecure.
+MartinStoyanoff.
 domuserk.
 riya-misra-1.
-hentonjd.
 
 **Top 25% contributors:**
+hentonjd.
 Himanshu-skb-oo7.
 sdgrube2.
 hoederath.
@@ -202,7 +203,6 @@ ronaldkarim.
 smartcarleen.
 brenduh.
 gregorwmail.
-MartinStoyanoff.
 annaydas.
 goranlundqvist.
 ivan-betev.
@@ -433,9 +433,9 @@ mgopw.
 kmohit2809.
 DavidArthurCole.
 wiz0floyd.
+MartinStoyanoff.
 R3J3NT.
 SapphicFire.
-MartinStoyanoff.
 hrobarikt.
 snamjosh.
 sumanthdosapati.
