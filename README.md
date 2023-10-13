@@ -247,9 +247,9 @@ chris-canto-11.
 dalestubblefield.
 johndahl-now.
 puneet94.
+RagaChitraMankala.
 
 **Other contributors:**
-RagaChitraMankala.
 sudhanshu-77.
 4bode.
 Avinash238.
@@ -329,6 +329,7 @@ chetnadev.
 Cioraz.
 Collosus1.
 cyberpanda18.
+Daksh-Goel12.
 dan-tracey.
 Darrkshade.
 davematz.
@@ -559,9 +560,9 @@ src107.
 pratyushasndev.
 homealone07.
 Iamsant.
+Iuliak.
 
 **Top 50% contributors:**
-Iuliak.
 Sagar-agarwal.
 wiresgit.
 yourepicservices.
@@ -628,9 +629,9 @@ thameemskings.
 abhay625.
 ankitshaw625.
 Arpan-InGen.
+AryanBarsaiyan.
 
 **Other contributors:**
-AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
 brichards99.
@@ -811,6 +812,7 @@ Crankzaton.
 CreatorWorkflowSC.
 cwhits.
 cyberpanda18.
+Daksh-Goel12.
 Damilare1212.
 Dan-Bladorn-Trimedx.
 dan-tracey.
