@@ -185,6 +185,7 @@ MartinStoyanoff.
 eriemer1.
 mady22070.
 riya-misra-1.
+hentonjd.
 kmohit2809.
 shivamTodwal.
 sychi77.
@@ -192,10 +193,9 @@ amigujarathi.
 ayleeandersen.
 Jayden-Chiu.
 designitsecure.
-domuserk.
 
 **Top 25% contributors:**
-hentonjd.
+domuserk.
 Himanshu-skb-oo7.
 ronaldkarim.
 sdgrube2.
@@ -503,6 +503,7 @@ harishankert.
 mjonssonme.
 riya-misra-1.
 b1naryst0rm.
+hentonjd.
 shivamTodwal.
 AdilBasha1SAP.
 ayleeandersen.
@@ -526,7 +527,6 @@ HarneetSital.
 jacebenson.
 ReginaldFawcett.
 thorn91.
-hentonjd.
 Himanshu-skb-oo7.
 ronaldkarim.
 sdgrube2.
