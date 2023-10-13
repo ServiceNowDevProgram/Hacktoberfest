@@ -215,17 +215,17 @@ Danmax.
 Iuliak.
 wiresgit.
 aman2519.
+DavidMarcial.
 sheikhafsarzap.
 chelming.
 csharpie.
 RahmanM.
-JonSandoval.
 
 **Top 50% contributors:**
+JonSandoval.
 ashoo-jindal.
 djunaid.
 RaunakScarlet.
-DavidMarcial.
 debendu-das.
 jesalynrose.
 Ladirinia.
@@ -565,6 +565,7 @@ Sagar-agarwal.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
+DavidMarcial.
 markroethof.
 mskoddow.
 sheikhafsarzap.
@@ -583,7 +584,6 @@ RaunakScarlet.
 Adiana3308.
 akhoshnood.
 allam1234.
-DavidMarcial.
 debendu-das.
 Decoder-Paul.
 jesalynrose.
