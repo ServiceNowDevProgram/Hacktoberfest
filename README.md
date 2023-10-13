@@ -213,18 +213,18 @@ Litwilly.
 sanjivmeher.
 snamjosh.
 Danmax.
+abhrajyotikanrar.
 Iuliak.
 wiresgit.
 dalestubblefield.
 DavidMarcial.
 sheikhafsarzap.
 chelming.
-csharpie.
 
 **Top 50% contributors:**
+csharpie.
 RahmanM.
 JonSandoval.
-abhrajyotikanrar.
 ashoo-jindal.
 djunaid.
 RaunakScarlet.
@@ -558,11 +558,12 @@ rmedved84.
 sanjivmeher.
 src107.
 pratyushasndev.
+abhrajyotikanrar.
 dalestubblefield.
 homealone07.
-Iamsant.
 
 **Top 50% contributors:**
+Iamsant.
 Iuliak.
 Sagar-agarwal.
 wiresgit.
@@ -581,7 +582,6 @@ ttoter.
 AlphaEagle.
 JonSandoval.
 JWITSM.
-abhrajyotikanrar.
 ashoo-jindal.
 djunaid.
 RaunakScarlet.
