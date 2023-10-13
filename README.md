@@ -224,10 +224,10 @@ csharpie.
 **Top 50% contributors:**
 RahmanM.
 JonSandoval.
+abhrajyotikanrar.
 ashoo-jindal.
 djunaid.
 RaunakScarlet.
-abhrajyotikanrar.
 debendu-das.
 jesalynrose.
 Ladirinia.
@@ -581,10 +581,10 @@ ttoter.
 AlphaEagle.
 JonSandoval.
 JWITSM.
+abhrajyotikanrar.
 ashoo-jindal.
 djunaid.
 RaunakScarlet.
-abhrajyotikanrar.
 Adiana3308.
 akhoshnood.
 allam1234.
