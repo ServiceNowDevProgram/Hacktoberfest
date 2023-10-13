@@ -242,14 +242,13 @@ bhavyajain511.
 Irston.
 mmaraj1.
 Paulsylo25.
-Alprez.
 am-shakeel.
 chris-canto-11.
 dalestubblefield.
 johndahl-now.
+puneet94.
 
 **Other contributors:**
-puneet94.
 RagaChitraMankala.
 sudhanshu-77.
 4bode.
@@ -276,6 +275,7 @@ outlivo.
 TVani5.
 4yasu6.
 abhishek-kumar-91.
+Alprez.
 anilvaranasi.
 ayrotideysarkar.
 bird-03.
@@ -613,7 +613,6 @@ mmaraj1.
 NayeemKaka.
 Paulsylo25.
 sisco0.
-Alprez.
 am-shakeel.
 ashaw7697.
 chris-canto-11.
@@ -627,9 +626,9 @@ thameemskings.
 4bode.
 abhay625.
 ankitshaw625.
+Arpan-InGen.
 
 **Other contributors:**
-Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
@@ -706,6 +705,7 @@ TVani5.
 4yasu6.
 ab7289.
 abhishek-kumar-91.
+Alprez.
 anilvaranasi.
 anirudhkumarm.
 ayrotideysarkar.
