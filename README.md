@@ -215,18 +215,18 @@ snamjosh.
 Danmax.
 Iuliak.
 wiresgit.
+dalestubblefield.
 DavidMarcial.
 sheikhafsarzap.
 chelming.
 csharpie.
-RahmanM.
 
 **Top 50% contributors:**
+RahmanM.
 JonSandoval.
 ashoo-jindal.
 djunaid.
 RaunakScarlet.
-dalestubblefield.
 debendu-das.
 jesalynrose.
 Ladirinia.
@@ -558,11 +558,12 @@ rmedved84.
 sanjivmeher.
 src107.
 pratyushasndev.
+dalestubblefield.
 homealone07.
 Iamsant.
-Iuliak.
 
 **Top 50% contributors:**
+Iuliak.
 Sagar-agarwal.
 wiresgit.
 yourepicservices.
@@ -581,7 +582,6 @@ AlphaEagle.
 JonSandoval.
 JWITSM.
 ashoo-jindal.
-dalestubblefield.
 djunaid.
 RaunakScarlet.
 Adiana3308.
