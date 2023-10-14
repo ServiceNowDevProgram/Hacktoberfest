@@ -219,11 +219,12 @@ Iuliak.
 wiresgit.
 DavidMarcial.
 sheikhafsarzap.
+sankar-coder.
 chelming.
 RahmanM.
-TRIGGEREDcoder.
 
 **Top 50% contributors:**
+TRIGGEREDcoder.
 JonSandoval.
 ashoo-jindal.
 djunaid.
@@ -239,7 +240,6 @@ madhu1256.
 NBaker137.
 nthumma.
 Saileshlanka.
-sankar-coder.
 aykmrgit.
 mockspeed.
 dadhich-ashish.
@@ -584,6 +584,7 @@ sheikhafsarzap.
 Abhishekchowdarapu.
 anguspalmer.
 revantKulkarni.
+sankar-coder.
 trade12.
 TRIGGEREDcoder.
 ttoter.
@@ -612,7 +613,6 @@ MihirRathod.
 NBaker137.
 preshitd.
 Saileshlanka.
-sankar-coder.
 shridk.
 tanu-profile.
 TheTreyKyle.
