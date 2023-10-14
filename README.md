@@ -192,16 +192,16 @@ sychi77.
 amigujarathi.
 ayleeandersen.
 smartcarleen.
+abhrajyotikanrar.
 Jayden-Chiu.
-designitsecure.
 
 **Top 25% contributors:**
+designitsecure.
 domuserk.
 Himanshu-skb-oo7.
 ronaldkarim.
 sdgrube2.
 hoederath.
-abhrajyotikanrar.
 aman2519.
 brenduh.
 gregorwmail.
@@ -516,6 +516,7 @@ ayleeandersen.
 bradtiltonnow.
 phr-nk.
 Vish-X07.
+abhrajyotikanrar.
 Irston.
 Jayden-Chiu.
 OrgovanGeza.
@@ -540,7 +541,6 @@ sdgrube2.
 aman2519.
 hoederath.
 namrataghorpade.
-abhrajyotikanrar.
 brenduh.
 danielliaus.
 gregorwmail.
