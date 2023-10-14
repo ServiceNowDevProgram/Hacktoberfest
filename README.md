@@ -225,6 +225,7 @@ chelming.
 **Top 50% contributors:**
 csharpie.
 JonSandoval.
+TRIGGEREDcoder.
 ashoo-jindal.
 djunaid.
 Paulsylo25.
@@ -239,7 +240,6 @@ aykmrgit.
 fn20200323.
 mockspeed.
 dadhich-ashish.
-TRIGGEREDcoder.
 1shabby.
 bhavyajain511.
 Irston.
@@ -583,6 +583,7 @@ anguspalmer.
 revantKulkarni.
 trade12.
 csharpie.
+TRIGGEREDcoder.
 ttoter.
 AlphaEagle.
 JonSandoval.
@@ -612,7 +613,6 @@ TheTreyKyle.
 thisnameissoclever.
 fn20200323.
 mockspeed.
-TRIGGEREDcoder.
 dadhich-ashish.
 VaishnaviLathkar98.
 1shabby.
