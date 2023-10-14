@@ -234,6 +234,7 @@ debendu-das.
 jesalynrose.
 Ladirinia.
 pandeysumit-now.
+soerenmaucher.
 NBaker137.
 nthumma.
 aykmrgit.
@@ -248,7 +249,6 @@ am-shakeel.
 johndahl-now.
 puneet94.
 RagaChitraMankala.
-soerenmaucher.
 
 **Other contributors:**
 sudhanshu-77.
@@ -503,6 +503,7 @@ vjtknn.
 Yokesh0811.
 MarcMouries.
 sn-ajb.
+soerenmaucher.
 techYESlogyXplorer.
 alyaanbasha.
 mady22070.
@@ -520,7 +521,6 @@ abhrajyotikanrar.
 Irston.
 Jayden-Chiu.
 OrgovanGeza.
-soerenmaucher.
 arhaan2019.
 designitsecure.
 girishnagaraj09.
