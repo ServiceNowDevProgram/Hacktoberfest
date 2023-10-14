@@ -193,9 +193,9 @@ amigujarathi.
 ayleeandersen.
 smartcarleen.
 Jayden-Chiu.
+designitsecure.
 
 **Top 25% contributors:**
-designitsecure.
 domuserk.
 Himanshu-skb-oo7.
 ronaldkarim.
@@ -317,6 +317,7 @@ aman-kumar-004.
 Amitanand0123.
 amrita06-max.
 ANISHAGHOSHAL.
+anveshmupparaju.
 Archita-2023.
 Arit-Su.
 AritraSadhu.
@@ -460,9 +461,9 @@ alikuttyka.
 BadalHub.
 MrChrisE.
 vandna07.
+PranavBhagat18.
 
 **Top 10% contributors:**
-PranavBhagat18.
 litwi1rm.
 mak1A4.
 mlemartien.
@@ -495,9 +496,9 @@ zahidask.
 azeezgaa.
 DynamiteC.
 shakeel-sheikh.
+vjtknn.
 
 **Top 25% contributors:**
-vjtknn.
 Yokesh0811.
 MarcMouries.
 sn-ajb.
@@ -632,10 +633,10 @@ thameemskings.
 4bode.
 abhay625.
 ankitshaw625.
-Arpan-InGen.
-AryanBarsaiyan.
 
 **Other contributors:**
+Arpan-InGen.
+AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
 brichards99.
@@ -773,6 +774,7 @@ ANISHAGHOSHAL.
 Anks-26.
 AnnaGould.
 anubhav-ritolia.
+anveshmupparaju.
 apbuhssc.
 Archita-2023.
 Arit-Su.
