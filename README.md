@@ -177,13 +177,13 @@ deepak-64742.
 Jaspalsinghchot.
 paigesndev.
 at8807602.
-Rampriya-S.
 Yokesh0811.
+MartinStoyanoff.
 
 **Top 10% contributors:**
-MartinStoyanoff.
 eriemer1.
 mady22070.
+Rampriya-S.
 riya-misra-1.
 hentonjd.
 kmohit2809.
@@ -438,8 +438,8 @@ niamccash.
 Lacah.
 paigesndev.
 johndahl-now.
-Rampriya-S.
 ishaanshoor.
+Rampriya-S.
 mgopw.
 SapphicFire.
 kmohit2809.
