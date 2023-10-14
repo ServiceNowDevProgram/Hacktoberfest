@@ -250,9 +250,9 @@ puneet94.
 RagaChitraMankala.
 sudhanshu-77.
 4bode.
+Avinash238.
 
 **Other contributors:**
-Avinash238.
 demetris7.
 DhanushNehru.
 JBscriptsNow.
@@ -349,6 +349,7 @@ gh0stxplt.
 GK884.
 Haile-08.
 Hanan-Ashraf.
+harishankert.
 Harshthakur1825.
 Hasanul-Banna-Himel.
 HauseMasterZ.
@@ -508,8 +509,8 @@ sn-ajb.
 soerenmaucher.
 techYESlogyXplorer.
 alyaanbasha.
-mady22070.
 harishankert.
+mady22070.
 mjonssonme.
 riya-misra-1.
 b1naryst0rm.
