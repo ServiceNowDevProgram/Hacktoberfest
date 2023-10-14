@@ -218,19 +218,19 @@ sanjivmeher.
 sankar-coder.
 snamjosh.
 Iuliak.
-Rampriya-S.
 wiresgit.
 DavidMarcial.
 sheikhafsarzap.
+chelming.
 
 **Top 50% contributors:**
-chelming.
 RahmanM.
 TRIGGEREDcoder.
 JonSandoval.
 ashoo-jindal.
 djunaid.
 Paulsylo25.
+Rampriya-S.
 RaunakScarlet.
 dalestubblefield.
 debendu-das.
@@ -442,8 +442,8 @@ SapphicFire.
 ishaanshoor.
 mgopw.
 kmohit2809.
-Rampriya-S.
 DavidArthurCole.
+Rampriya-S.
 MartinStoyanoff.
 wiz0floyd.
 R3J3NT.
