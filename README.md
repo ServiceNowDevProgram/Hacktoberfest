@@ -187,20 +187,20 @@ mady22070.
 riya-misra-1.
 hentonjd.
 kmohit2809.
-shivamTodwal.
 sychi77.
 amigujarathi.
 ayleeandersen.
 smartcarleen.
 abhrajyotikanrar.
 Jayden-Chiu.
+designitsecure.
 
 **Top 25% contributors:**
-designitsecure.
 domuserk.
 Himanshu-skb-oo7.
 ronaldkarim.
 sdgrube2.
+shivamTodwal.
 hoederath.
 aman2519.
 brenduh.
@@ -511,7 +511,6 @@ mjonssonme.
 riya-misra-1.
 b1naryst0rm.
 hentonjd.
-shivamTodwal.
 AdilBasha1SAP.
 ayleeandersen.
 bradtiltonnow.
@@ -539,6 +538,7 @@ thorn91.
 Himanshu-skb-oo7.
 ronaldkarim.
 sdgrube2.
+shivamTodwal.
 aman2519.
 hoederath.
 namrataghorpade.
