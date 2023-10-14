@@ -213,13 +213,13 @@ gowdah.
 iar42.
 Litwilly.
 sanjivmeher.
+sankar-coder.
 snamjosh.
 Danmax.
 Iuliak.
 wiresgit.
 DavidMarcial.
 sheikhafsarzap.
-sankar-coder.
 chelming.
 RahmanM.
 
@@ -566,11 +566,12 @@ odinsride.
 piyusalunke123.
 rmedved84.
 sanjivmeher.
+sankar-coder.
 src107.
 pratyushasndev.
-homealone07.
 
 **Top 50% contributors:**
+homealone07.
 Iamsant.
 Iuliak.
 Sagar-agarwal.
@@ -584,7 +585,6 @@ sheikhafsarzap.
 Abhishekchowdarapu.
 anguspalmer.
 revantKulkarni.
-sankar-coder.
 trade12.
 TRIGGEREDcoder.
 ttoter.
