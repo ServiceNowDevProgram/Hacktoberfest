@@ -213,6 +213,7 @@ ANISHAGHOSHAL.
 gowdah.
 iar42.
 Litwilly.
+nthumma.
 sanjivmeher.
 sankar-coder.
 snamjosh.
@@ -221,7 +222,6 @@ Iuliak.
 wiresgit.
 DavidMarcial.
 sheikhafsarzap.
-nthumma.
 
 **Top 50% contributors:**
 chelming.
@@ -512,6 +512,7 @@ alyaanbasha.
 harishankert.
 mady22070.
 mjonssonme.
+nthumma.
 riya-misra-1.
 b1naryst0rm.
 hentonjd.
@@ -536,7 +537,6 @@ dean-croaker.
 domuserk.
 HarneetSital.
 jacebenson.
-nthumma.
 ReginaldFawcett.
 thorn91.
 Himanshu-skb-oo7.
