@@ -224,8 +224,8 @@ chelming.
 
 **Top 50% contributors:**
 csharpie.
-JonSandoval.
 TRIGGEREDcoder.
+JonSandoval.
 ashoo-jindal.
 djunaid.
 Paulsylo25.
@@ -582,8 +582,8 @@ Abhishekchowdarapu.
 anguspalmer.
 revantKulkarni.
 trade12.
-csharpie.
 TRIGGEREDcoder.
+csharpie.
 ttoter.
 AlphaEagle.
 JonSandoval.
