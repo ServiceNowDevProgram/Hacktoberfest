@@ -235,6 +235,7 @@ jesalynrose.
 Ladirinia.
 pandeysumit-now.
 soerenmaucher.
+madhu1256.
 NBaker137.
 nthumma.
 aykmrgit.
@@ -250,16 +251,15 @@ puneet94.
 RagaChitraMankala.
 sudhanshu-77.
 4bode.
-ANISHAGHOSHAL.
 
 **Other contributors:**
+ANISHAGHOSHAL.
 Avinash238.
 demetris7.
 DhanushNehru.
 JBscriptsNow.
 Juusoee.
 kaushalbharade.
-madhu1256.
 ManobhavSachan.
 Ratheshan03.
 riya-vermaa.
@@ -606,6 +606,7 @@ miracc.
 pandeysumit-now.
 patrickpaterlini.
 LucasRocha2308.
+madhu1256.
 Mahesh-Krishnan1.
 MihirRathod.
 NBaker137.
@@ -637,9 +638,9 @@ abhay625.
 ANISHAGHOSHAL.
 ankitshaw625.
 Arpan-InGen.
-AryanBarsaiyan.
 
 **Other contributors:**
+AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
 brichards99.
@@ -663,7 +664,6 @@ KartikeSingh.
 kaushalbharade.
 lakshyatyagi24.
 loudigi.
-madhu1256.
 maialithar.
 ManobhavSachan.
 mevops.
