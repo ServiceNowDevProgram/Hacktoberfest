@@ -251,6 +251,7 @@ puneet94.
 RagaChitraMankala.
 
 **Other contributors:**
+soerenmaucher.
 sudhanshu-77.
 4bode.
 Avinash238.
@@ -296,7 +297,6 @@ NicoxNall.
 NK-01.
 noviicee.
 NowSharif.
-soerenmaucher.
 SruthiSivarajan.
 swathinagamahanti.
 SweetPoodle.
@@ -518,6 +518,7 @@ Vish-X07.
 Irston.
 Jayden-Chiu.
 OrgovanGeza.
+soerenmaucher.
 arhaan2019.
 designitsecure.
 girishnagaraj09.
@@ -542,7 +543,6 @@ brenduh.
 danielliaus.
 gregorwmail.
 sauravsumankumar.
-soerenmaucher.
 ashuprince121.
 adarshsingh0205.
 annaydas.
