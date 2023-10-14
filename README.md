@@ -220,10 +220,11 @@ Iuliak.
 wiresgit.
 DavidMarcial.
 sheikhafsarzap.
+ANISHAGHOSHAL.
 chelming.
-RahmanM.
 
 **Top 50% contributors:**
+RahmanM.
 TRIGGEREDcoder.
 JonSandoval.
 ashoo-jindal.
@@ -236,7 +237,6 @@ jesalynrose.
 Ladirinia.
 pandeysumit-now.
 soerenmaucher.
-ANISHAGHOSHAL.
 madhu1256.
 NBaker137.
 nthumma.
@@ -263,6 +263,7 @@ JBscriptsNow.
 Juusoee.
 kaushalbharade.
 ManobhavSachan.
+ovarn.
 Ratheshan03.
 riya-vermaa.
 S-SuryaPrakash.
@@ -389,7 +390,6 @@ OllyIB.
 omkarvasekar.
 osc99.
 OsvaldoCabral.
-ovarn.
 parag477.
 PatriciaMaPe.
 Pooja123667.
@@ -480,6 +480,7 @@ chelming.
 ajcooper72.
 deepak-64742.
 hafsa-asif.
+ovarn.
 devinvalencia.
 Jaspalsinghchot.
 aatrey882.
@@ -493,7 +494,6 @@ Danmax.
 jiteshmalik.
 jonahpiascik.
 avssrikanth.
-ovarn.
 at8807602.
 davidkwhuang.
 zahidask.
@@ -584,6 +584,7 @@ mskoddow.
 sheikhafsarzap.
 Abhishekchowdarapu.
 anguspalmer.
+ANISHAGHOSHAL.
 revantKulkarni.
 trade12.
 TRIGGEREDcoder.
@@ -606,7 +607,6 @@ Ladirinia.
 miracc.
 pandeysumit-now.
 patrickpaterlini.
-ANISHAGHOSHAL.
 LucasRocha2308.
 madhu1256.
 Mahesh-Krishnan1.
