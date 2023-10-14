@@ -236,6 +236,7 @@ jesalynrose.
 Ladirinia.
 pandeysumit-now.
 soerenmaucher.
+ANISHAGHOSHAL.
 madhu1256.
 NBaker137.
 nthumma.
@@ -250,12 +251,11 @@ mmaraj1.
 am-shakeel.
 johndahl-now.
 puneet94.
-RagaChitraMankala.
 
 **Other contributors:**
+RagaChitraMankala.
 sudhanshu-77.
 4bode.
-ANISHAGHOSHAL.
 Avinash238.
 demetris7.
 DhanushNehru.
@@ -606,6 +606,7 @@ Ladirinia.
 miracc.
 pandeysumit-now.
 patrickpaterlini.
+ANISHAGHOSHAL.
 LucasRocha2308.
 madhu1256.
 Mahesh-Krishnan1.
@@ -637,7 +638,6 @@ sudhanshu-77.
 thameemskings.
 4bode.
 abhay625.
-ANISHAGHOSHAL.
 
 **Other contributors:**
 ankitshaw625.
