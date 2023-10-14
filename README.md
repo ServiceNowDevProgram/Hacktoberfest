@@ -213,7 +213,6 @@ iar42.
 Litwilly.
 sanjivmeher.
 snamjosh.
-RahmanM.
 Danmax.
 Iuliak.
 wiresgit.
@@ -222,6 +221,7 @@ sheikhafsarzap.
 nthumma.
 chelming.
 csharpie.
+RahmanM.
 
 **Top 50% contributors:**
 TRIGGEREDcoder.
@@ -441,8 +441,8 @@ Rampriya-S.
 johndahl-now.
 ishaanshoor.
 mgopw.
-kmohit2809.
 SapphicFire.
+kmohit2809.
 DavidArthurCole.
 MartinStoyanoff.
 wiz0floyd.
@@ -455,9 +455,9 @@ urspvs.
 smartcarleen.
 amigujarathi.
 Radhe-Manasa.
-RahmanM.
 stevezero.
 sychi77.
+RahmanM.
 aykmrgit.
 rafzk.
 ynr-ram.
