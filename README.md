@@ -253,7 +253,6 @@ sudhanshu-77.
 
 **Other contributors:**
 Avinash238.
-Daksh-Goel12.
 demetris7.
 DhanushNehru.
 JBscriptsNow.
@@ -332,6 +331,7 @@ chetnadev.
 Cioraz.
 Collosus1.
 cyberpanda18.
+Daksh-Goel12.
 dan-tracey.
 Darrkshade.
 davematz.
@@ -642,7 +642,6 @@ ashleysnyder.
 Avinash238.
 brichards99.
 Coder0131.
-Daksh-Goel12.
 DaleD-SN.
 deathkraiser.
 demetris7.
@@ -822,6 +821,7 @@ Crankzaton.
 CreatorWorkflowSC.
 cwhits.
 cyberpanda18.
+Daksh-Goel12.
 Damilare1212.
 Dan-Bladorn-Trimedx.
 dan-tracey.
