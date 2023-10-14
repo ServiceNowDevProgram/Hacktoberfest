@@ -220,9 +220,9 @@ dalestubblefield.
 DavidMarcial.
 sheikhafsarzap.
 chelming.
+csharpie.
 
 **Top 50% contributors:**
-csharpie.
 RahmanM.
 JonSandoval.
 ashoo-jindal.
@@ -248,9 +248,9 @@ am-shakeel.
 chris-canto-11.
 johndahl-now.
 puneet94.
+RagaChitraMankala.
 
 **Other contributors:**
-RagaChitraMankala.
 sudhanshu-77.
 4bode.
 Avinash238.
@@ -381,6 +381,7 @@ nuwan94.
 OllyIB.
 omkarvasekar.
 osc99.
+OsvaldoCabral.
 ovarn.
 parag477.
 PatriciaMaPe.
@@ -631,9 +632,9 @@ thameemskings.
 abhay625.
 ankitshaw625.
 Arpan-InGen.
+AryanBarsaiyan.
 
 **Other contributors:**
-AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
 brichards99.
@@ -973,6 +974,7 @@ OllyIB.
 omkarvasekar.
 osc99.
 oskadoskaposka.
+OsvaldoCabral.
 ousswx-wx.
 parag477.
 parthpanchal123.
