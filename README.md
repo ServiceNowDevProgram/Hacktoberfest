@@ -183,7 +183,6 @@ MartinStoyanoff.
 **Top 10% contributors:**
 eriemer1.
 mady22070.
-Rampriya-S.
 riya-misra-1.
 hentonjd.
 kmohit2809.
@@ -194,6 +193,7 @@ smartcarleen.
 abhrajyotikanrar.
 Jayden-Chiu.
 designitsecure.
+Rampriya-S.
 
 **Top 25% contributors:**
 domuserk.
@@ -439,9 +439,9 @@ Lacah.
 paigesndev.
 johndahl-now.
 ishaanshoor.
-Rampriya-S.
 SapphicFire.
 mgopw.
+Rampriya-S.
 kmohit2809.
 DavidArthurCole.
 MartinStoyanoff.
