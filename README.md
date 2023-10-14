@@ -250,9 +250,10 @@ puneet94.
 RagaChitraMankala.
 sudhanshu-77.
 4bode.
-Avinash238.
+ANISHAGHOSHAL.
 
 **Other contributors:**
+Avinash238.
 demetris7.
 DhanushNehru.
 JBscriptsNow.
@@ -320,7 +321,6 @@ alexcasper.
 aman-kumar-004.
 Amitanand0123.
 amrita06-max.
-ANISHAGHOSHAL.
 Archita-2023.
 Arit-Su.
 AritraSadhu.
@@ -634,12 +634,13 @@ sudhanshu-77.
 thameemskings.
 4bode.
 abhay625.
+ANISHAGHOSHAL.
 ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
-ashleysnyder.
 
 **Other contributors:**
+ashleysnyder.
 Avinash238.
 brichards99.
 Coder0131.
@@ -778,7 +779,6 @@ Anantharaman91.
 andreneris.
 andy1717.
 andyops.
-ANISHAGHOSHAL.
 Anks-26.
 AnnaGould.
 anubhav-ritolia.
