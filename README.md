@@ -218,13 +218,12 @@ Iuliak.
 wiresgit.
 DavidMarcial.
 sheikhafsarzap.
-nthumma.
 chelming.
 csharpie.
 RahmanM.
+TRIGGEREDcoder.
 
 **Top 50% contributors:**
-TRIGGEREDcoder.
 JonSandoval.
 ashoo-jindal.
 djunaid.
@@ -237,6 +236,7 @@ Ladirinia.
 pandeysumit-now.
 soerenmaucher.
 NBaker137.
+nthumma.
 aykmrgit.
 mockspeed.
 dadhich-ashish.
@@ -536,7 +536,6 @@ dean-croaker.
 domuserk.
 HarneetSital.
 jacebenson.
-nthumma.
 ReginaldFawcett.
 thorn91.
 Himanshu-skb-oo7.
@@ -556,6 +555,7 @@ annaydas.
 goranlundqvist.
 harisnad.
 ivan-betev.
+nthumma.
 allenandreas.
 apple9000.
 ashu759.
