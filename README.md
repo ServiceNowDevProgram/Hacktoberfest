@@ -218,20 +218,20 @@ sanjivmeher.
 snamjosh.
 ynr-ram.
 Iuliak.
+soerenmaucher.
 wiresgit.
 DavidMarcial.
 RahmanM.
 sheikhafsarzap.
-chelming.
 
 **Top 50% contributors:**
+chelming.
 TRIGGEREDcoder.
 JonSandoval.
 Paulsylo25.
 ashoo-jindal.
 djunaid.
 RaunakScarlet.
-soerenmaucher.
 dalestubblefield.
 debendu-das.
 jesalynrose.
@@ -495,6 +495,7 @@ MRSinghRajat.
 oasif.
 jiteshmalik.
 jonahpiascik.
+soerenmaucher.
 avssrikanth.
 at8807602.
 davidkwhuang.
@@ -502,12 +503,11 @@ zahidask.
 azeezgaa.
 DynamiteC.
 shakeel-sheikh.
-vjtknn.
 
 **Top 25% contributors:**
+vjtknn.
 Yokesh0811.
 MarcMouries.
-soerenmaucher.
 sn-ajb.
 techYESlogyXplorer.
 alyaanbasha.
