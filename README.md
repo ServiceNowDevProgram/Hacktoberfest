@@ -226,7 +226,6 @@ chelming.
 
 **Top 50% contributors:**
 TRIGGEREDcoder.
-ynr-ram.
 JonSandoval.
 Paulsylo25.
 ashoo-jindal.
@@ -241,6 +240,7 @@ NBaker137.
 Saileshlanka.
 aykmrgit.
 mockspeed.
+ynr-ram.
 dadhich-ashish.
 1shabby.
 bhavyajain511.
@@ -453,10 +453,10 @@ hrobarikt.
 snamjosh.
 sumanthdosapati.
 eriemer1.
-ynr-ram.
 urspvs.
 smartcarleen.
 amigujarathi.
+ynr-ram.
 Radhe-Manasa.
 stevezero.
 sychi77.
