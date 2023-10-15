@@ -183,9 +183,9 @@ amigujarathi.
 **Top 10% contributors:**
 MartinStoyanoff.
 eriemer1.
+gregorwmail.
 mady22070.
 riya-misra-1.
-gregorwmail.
 hentonjd.
 kmohit2809.
 sdgrube2.
@@ -511,13 +511,13 @@ MarcMouries.
 sn-ajb.
 techYESlogyXplorer.
 alyaanbasha.
+gregorwmail.
 harishankert.
 mady22070.
 mjonssonme.
 nthumma.
 riya-misra-1.
 b1naryst0rm.
-gregorwmail.
 hentonjd.
 sdgrube2.
 AdilBasha1SAP.
