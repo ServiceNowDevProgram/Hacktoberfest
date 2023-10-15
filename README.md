@@ -218,17 +218,17 @@ nthumma.
 sanjivmeher.
 sankar-coder.
 snamjosh.
+Paulsylo25.
 Iuliak.
 wiresgit.
 DavidMarcial.
-RahmanM.
 
 **Top 50% contributors:**
+RahmanM.
 sheikhafsarzap.
 chelming.
 TRIGGEREDcoder.
 JonSandoval.
-Paulsylo25.
 ashoo-jindal.
 djunaid.
 RaunakScarlet.
@@ -573,6 +573,7 @@ src107.
 
 **Top 50% contributors:**
 pratyushasndev.
+Paulsylo25.
 homealone07.
 Iamsant.
 Iuliak.
@@ -593,7 +594,6 @@ ttoter.
 AlphaEagle.
 JonSandoval.
 JWITSM.
-Paulsylo25.
 ashoo-jindal.
 dalestubblefield.
 djunaid.
