@@ -210,6 +210,7 @@ annaydas.
 csharpie.
 goranlundqvist.
 ivan-betev.
+TRIGGEREDcoder.
 gowdah.
 iar42.
 Litwilly.
@@ -222,7 +223,6 @@ wiresgit.
 DavidMarcial.
 RahmanM.
 sheikhafsarzap.
-TRIGGEREDcoder.
 
 **Top 50% contributors:**
 chelming.
@@ -556,6 +556,7 @@ danielliaus.
 sauravsumankumar.
 ashuprince121.
 mskoddow.
+TRIGGEREDcoder.
 adarshsingh0205.
 annaydas.
 csharpie.
@@ -573,13 +574,12 @@ rmedved84.
 sanjivmeher.
 src107.
 pratyushasndev.
-homealone07.
 
 **Top 50% contributors:**
+homealone07.
 Iamsant.
 Iuliak.
 Sagar-agarwal.
-TRIGGEREDcoder.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
