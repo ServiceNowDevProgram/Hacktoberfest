@@ -208,6 +208,7 @@ Danmax.
 Rampriya-S.
 annaydas.
 csharpie.
+DavidMarcial.
 goranlundqvist.
 ivan-betev.
 TRIGGEREDcoder.
@@ -221,7 +222,6 @@ Paulsylo25.
 Iuliak.
 soerenmaucher.
 wiresgit.
-DavidMarcial.
 RahmanM.
 
 **Top 50% contributors:**
@@ -560,6 +560,7 @@ TRIGGEREDcoder.
 adarshsingh0205.
 annaydas.
 csharpie.
+DavidMarcial.
 goranlundqvist.
 harisnad.
 ivan-betev.
@@ -573,9 +574,9 @@ piyusalunke123.
 rmedved84.
 sanjivmeher.
 src107.
-pratyushasndev.
 
 **Top 50% contributors:**
+pratyushasndev.
 Paulsylo25.
 homealone07.
 Iamsant.
@@ -584,7 +585,6 @@ Sagar-agarwal.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
-DavidMarcial.
 markroethof.
 sheikhafsarzap.
 Abhishekchowdarapu.
