@@ -231,12 +231,12 @@ JonSandoval.
 ashoo-jindal.
 djunaid.
 RaunakScarlet.
+soerenmaucher.
 dalestubblefield.
 debendu-das.
 jesalynrose.
 Ladirinia.
 pandeysumit-now.
-soerenmaucher.
 NBaker137.
 Saileshlanka.
 aykmrgit.
@@ -507,8 +507,8 @@ vjtknn.
 **Top 25% contributors:**
 Yokesh0811.
 MarcMouries.
-sn-ajb.
 soerenmaucher.
+sn-ajb.
 techYESlogyXplorer.
 alyaanbasha.
 harishankert.
