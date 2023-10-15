@@ -226,7 +226,6 @@ RahmanM.
 **Top 50% contributors:**
 sheikhafsarzap.
 ANISHAGHOSHAL.
-sankar-coder.
 chelming.
 TRIGGEREDcoder.
 JonSandoval.
@@ -241,6 +240,7 @@ pandeysumit-now.
 soerenmaucher.
 NBaker137.
 Saileshlanka.
+sankar-coder.
 aykmrgit.
 mockspeed.
 dadhich-ashish.
@@ -587,7 +587,6 @@ Abhishekchowdarapu.
 anguspalmer.
 ANISHAGHOSHAL.
 revantKulkarni.
-sankar-coder.
 trade12.
 TRIGGEREDcoder.
 ttoter.
@@ -614,6 +613,7 @@ MihirRathod.
 NBaker137.
 preshitd.
 Saileshlanka.
+sankar-coder.
 shridk.
 tanu-profile.
 TheTreyKyle.
