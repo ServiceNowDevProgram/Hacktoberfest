@@ -242,6 +242,7 @@ NBaker137.
 Saileshlanka.
 aykmrgit.
 mockspeed.
+ynr-ram.
 dadhich-ashish.
 1shabby.
 bhavyajain511.
@@ -250,9 +251,9 @@ mmaraj1.
 puneet94.
 am-shakeel.
 johndahl-now.
-RagaChitraMankala.
 
 **Other contributors:**
+RagaChitraMankala.
 sudhanshu-77.
 4bode.
 Avinash238.
@@ -271,7 +272,6 @@ seviceN.
 workpurposeusername.
 fn20200323.
 wiz0floyd.
-ynr-ram.
 ChilloutSenthil.
 fauverism.
 KonvalinkaCodes.
@@ -455,10 +455,10 @@ eriemer1.
 urspvs.
 smartcarleen.
 amigujarathi.
+ynr-ram.
 Radhe-Manasa.
 stevezero.
 sychi77.
-ynr-ram.
 RahmanM.
 aykmrgit.
 rafzk.
