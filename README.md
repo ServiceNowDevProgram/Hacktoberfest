@@ -222,10 +222,10 @@ wiresgit.
 DavidMarcial.
 RahmanM.
 sheikhafsarzap.
-chelming.
+TRIGGEREDcoder.
 
 **Top 50% contributors:**
-TRIGGEREDcoder.
+chelming.
 JonSandoval.
 Paulsylo25.
 ashoo-jindal.
@@ -579,6 +579,7 @@ homealone07.
 Iamsant.
 Iuliak.
 Sagar-agarwal.
+TRIGGEREDcoder.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
@@ -589,7 +590,6 @@ Abhishekchowdarapu.
 anguspalmer.
 revantKulkarni.
 trade12.
-TRIGGEREDcoder.
 ttoter.
 AlphaEagle.
 JonSandoval.
