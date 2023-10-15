@@ -240,7 +240,6 @@ pandeysumit-now.
 soerenmaucher.
 NBaker137.
 Saileshlanka.
-sankar-coder.
 aykmrgit.
 mockspeed.
 dadhich-ashish.
@@ -251,9 +250,9 @@ mmaraj1.
 puneet94.
 am-shakeel.
 johndahl-now.
+RagaChitraMankala.
 
 **Other contributors:**
-RagaChitraMankala.
 sudhanshu-77.
 4bode.
 Avinash238.
@@ -267,6 +266,7 @@ ovarn.
 Ratheshan03.
 riya-vermaa.
 S-SuryaPrakash.
+sankar-coder.
 seviceN.
 workpurposeusername.
 fn20200323.
@@ -613,7 +613,6 @@ MihirRathod.
 NBaker137.
 preshitd.
 Saileshlanka.
-sankar-coder.
 shridk.
 tanu-profile.
 TheTreyKyle.
@@ -639,9 +638,9 @@ thameemskings.
 4bode.
 abhay625.
 ankitshaw625.
+Arpan-InGen.
 
 **Other contributors:**
-Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
@@ -688,6 +687,7 @@ samwinchet.
 sanchit-varshney.
 sandeepd26.
 sanju009.
+sankar-coder.
 Shambu-K.
 speedy18.
 stwinkle.
