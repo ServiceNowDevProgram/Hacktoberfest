@@ -248,9 +248,9 @@ dadhich-ashish.
 bhavyajain511.
 Irston.
 mmaraj1.
+puneet94.
 am-shakeel.
 johndahl-now.
-puneet94.
 
 **Other contributors:**
 RagaChitraMankala.
@@ -626,12 +626,12 @@ abhilash264.
 bhavyajain511.
 mmaraj1.
 NayeemKaka.
+puneet94.
 sisco0.
 am-shakeel.
 ashaw7697.
 ewatch.
 Jaskaran-Techno.
-puneet94.
 RagaChitraMankala.
 rohantjoshi.
 sudhanshu-77.
