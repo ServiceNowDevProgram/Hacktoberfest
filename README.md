@@ -177,16 +177,16 @@ deepak-64742.
 Jaspalsinghchot.
 paigesndev.
 at8807602.
+hentonjd.
 Yokesh0811.
-amigujarathi.
 
 **Top 10% contributors:**
+amigujarathi.
 MartinStoyanoff.
 eriemer1.
 gregorwmail.
 mady22070.
 riya-misra-1.
-hentonjd.
 kmohit2809.
 sdgrube2.
 sychi77.
@@ -504,9 +504,10 @@ davidkwhuang.
 zahidask.
 azeezgaa.
 DynamiteC.
-shakeel-sheikh.
+hentonjd.
 
 **Top 25% contributors:**
+shakeel-sheikh.
 vjtknn.
 Yokesh0811.
 MarcMouries.
@@ -520,7 +521,6 @@ mjonssonme.
 nthumma.
 riya-misra-1.
 b1naryst0rm.
-hentonjd.
 sdgrube2.
 AdilBasha1SAP.
 ayleeandersen.
