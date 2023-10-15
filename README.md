@@ -210,7 +210,6 @@ annaydas.
 csharpie.
 goranlundqvist.
 ivan-betev.
-ANISHAGHOSHAL.
 gowdah.
 iar42.
 Litwilly.
@@ -222,10 +221,11 @@ Paulsylo25.
 Iuliak.
 wiresgit.
 DavidMarcial.
+RahmanM.
 
 **Top 50% contributors:**
-RahmanM.
 sheikhafsarzap.
+ANISHAGHOSHAL.
 sankar-coder.
 chelming.
 TRIGGEREDcoder.
@@ -559,7 +559,6 @@ goranlundqvist.
 harisnad.
 ivan-betev.
 allenandreas.
-ANISHAGHOSHAL.
 apple9000.
 ashu759.
 briangodfreydev.
@@ -570,9 +569,9 @@ rmedved84.
 sanjivmeher.
 src107.
 pratyushasndev.
+Paulsylo25.
 
 **Top 50% contributors:**
-Paulsylo25.
 homealone07.
 Iamsant.
 Iuliak.
@@ -586,6 +585,7 @@ mskoddow.
 sheikhafsarzap.
 Abhishekchowdarapu.
 anguspalmer.
+ANISHAGHOSHAL.
 revantKulkarni.
 sankar-coder.
 trade12.
