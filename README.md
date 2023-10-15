@@ -197,6 +197,7 @@ designitsecure.
 
 **Top 25% contributors:**
 domuserk.
+gregorwmail.
 Himanshu-skb-oo7.
 ronaldkarim.
 shivamTodwal.
@@ -204,7 +205,6 @@ hoederath.
 aman2519.
 brenduh.
 Danmax.
-gregorwmail.
 Rampriya-S.
 annaydas.
 csharpie.
@@ -542,6 +542,7 @@ HarneetSital.
 jacebenson.
 ReginaldFawcett.
 thorn91.
+gregorwmail.
 Himanshu-skb-oo7.
 ronaldkarim.
 shivamTodwal.
@@ -550,7 +551,6 @@ hoederath.
 namrataghorpade.
 brenduh.
 danielliaus.
-gregorwmail.
 sauravsumankumar.
 ashuprince121.
 adarshsingh0205.
