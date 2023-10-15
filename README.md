@@ -170,8 +170,8 @@ Meet the Hacktoberfest crew who will be maintaining your projects:
 earlduque.
 Lacah.
 niamccash.
-MGOPW.
 SapphicFire.
+MGOPW.
 ajcooper72.
 deepak-64742.
 Jaspalsinghchot.
@@ -238,7 +238,6 @@ jesalynrose.
 Ladirinia.
 pandeysumit-now.
 soerenmaucher.
-madhu1256.
 NBaker137.
 Saileshlanka.
 aykmrgit.
@@ -251,9 +250,9 @@ mmaraj1.
 puneet94.
 am-shakeel.
 johndahl-now.
+RagaChitraMankala.
 
 **Other contributors:**
-RagaChitraMankala.
 sudhanshu-77.
 4bode.
 Avinash238.
@@ -262,6 +261,7 @@ DhanushNehru.
 JBscriptsNow.
 Juusoee.
 kaushalbharade.
+madhu1256.
 ManobhavSachan.
 ovarn.
 Ratheshan03.
@@ -436,8 +436,8 @@ VNAGULA117.
 earlduque.
 niamccash.
 Lacah.
-paigesndev.
 SapphicFire.
+paigesndev.
 johndahl-now.
 ishaanshoor.
 mgopw.
@@ -608,7 +608,6 @@ miracc.
 pandeysumit-now.
 patrickpaterlini.
 LucasRocha2308.
-madhu1256.
 Mahesh-Krishnan1.
 MihirRathod.
 NBaker137.
@@ -638,9 +637,9 @@ sudhanshu-77.
 thameemskings.
 4bode.
 abhay625.
+ankitshaw625.
 
 **Other contributors:**
-ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
@@ -666,6 +665,7 @@ KartikeSingh.
 kaushalbharade.
 lakshyatyagi24.
 loudigi.
+madhu1256.
 maialithar.
 ManobhavSachan.
 mevops.
