@@ -178,9 +178,10 @@ Jaspalsinghchot.
 paigesndev.
 at8807602.
 Yokesh0811.
-MartinStoyanoff.
+amigujarathi.
 
 **Top 10% contributors:**
+MartinStoyanoff.
 eriemer1.
 mady22070.
 riya-misra-1.
@@ -188,7 +189,6 @@ hentonjd.
 kmohit2809.
 sdgrube2.
 sychi77.
-amigujarathi.
 ayleeandersen.
 smartcarleen.
 abhrajyotikanrar.
@@ -453,9 +453,9 @@ hrobarikt.
 snamjosh.
 sumanthdosapati.
 eriemer1.
+amigujarathi.
 urspvs.
 smartcarleen.
-amigujarathi.
 Radhe-Manasa.
 stevezero.
 sychi77.
