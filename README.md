@@ -221,11 +221,11 @@ Iuliak.
 Rampriya-S.
 wiresgit.
 DavidMarcial.
-sheikhafsarzap.
+RahmanM.
 
 **Top 50% contributors:**
+sheikhafsarzap.
 chelming.
-RahmanM.
 TRIGGEREDcoder.
 JonSandoval.
 ashoo-jindal.
