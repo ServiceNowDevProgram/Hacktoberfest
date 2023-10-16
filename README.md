@@ -319,6 +319,7 @@ abhi5hek001.
 adarshsingh7470.
 ajbuono.
 alexcasper.
+almajam.
 aman-kumar-004.
 Amitanand0123.
 amrita06-max.
@@ -643,9 +644,9 @@ abhay625.
 ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
+ashleysnyder.
 
 **Other contributors:**
-ashleysnyder.
 Avinash238.
 brichards99.
 Coder0131.
@@ -773,6 +774,7 @@ ajbuono.
 ajithaju15.
 alexcasper.
 aliceapps.
+almajam.
 aman-kumar-004.
 amdhavalikar.
 Amitanand0123.
