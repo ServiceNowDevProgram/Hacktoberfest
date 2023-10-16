@@ -256,6 +256,7 @@ johndahl-now.
 RagaChitraMankala.
 sudhanshu-77.
 4bode.
+almajam.
 Avinash238.
 demetris7.
 DhanushNehru.
@@ -320,7 +321,6 @@ abhi5hek001.
 adarshsingh7470.
 ajbuono.
 alexcasper.
-almajam.
 aman-kumar-004.
 Amitanand0123.
 amrita06-max.
@@ -643,11 +643,12 @@ sudhanshu-77.
 thameemskings.
 4bode.
 abhay625.
+almajam.
 ankitshaw625.
 Arpan-InGen.
-AryanBarsaiyan.
 
 **Other contributors:**
+AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
 brichards99.
@@ -776,7 +777,6 @@ ajbuono.
 ajithaju15.
 alexcasper.
 aliceapps.
-almajam.
 aman-kumar-004.
 amdhavalikar.
 Amitanand0123.
