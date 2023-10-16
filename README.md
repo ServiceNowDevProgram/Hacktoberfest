@@ -408,6 +408,7 @@ sanathan-git.
 sankar-coder.
 scervv.
 SeaBri.
+sergelouie6.
 ShanClayton.
 shridk.
 Shubham2227.
@@ -576,9 +577,9 @@ odinsride.
 piyusalunke123.
 rmedved84.
 sanjivmeher.
+src107.
 
 **Top 50% contributors:**
-src107.
 pratyushasndev.
 Paulsylo25.
 ashoo-jindal.
@@ -646,9 +647,9 @@ thameemskings.
 abhay625.
 ankitshaw625.
 Arpan-InGen.
+AryanBarsaiyan.
 
 **Other contributors:**
-AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
 brichards99.
@@ -1048,6 +1049,7 @@ scervv.
 scschroc.
 SeaBri.
 sekhar398.
+sergelouie6.
 ServiceNowDevProgram.
 shakysnake.
 ShanClayton.
