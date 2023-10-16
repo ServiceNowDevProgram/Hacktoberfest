@@ -179,9 +179,9 @@ paigesndev.
 at8807602.
 riya-misra-1.
 hentonjd.
+Yokesh0811.
 
 **Top 10% contributors:**
-Yokesh0811.
 amigujarathi.
 MartinStoyanoff.
 eriemer1.
@@ -194,9 +194,9 @@ sychi77.
 ayleeandersen.
 smartcarleen.
 abhrajyotikanrar.
+csharpie.
 
 **Top 25% contributors:**
-csharpie.
 Jayden-Chiu.
 designitsecure.
 domuserk.
@@ -251,10 +251,10 @@ puneet94.
 am-shakeel.
 chris-canto-11.
 johndahl-now.
-RagaChitraMankala.
-sudhanshu-77.
 
 **Other contributors:**
+RagaChitraMankala.
+sudhanshu-77.
 4bode.
 Avinash238.
 demetris7.
@@ -272,6 +272,7 @@ S-SuryaPrakash.
 seviceN.
 workpurposeusername.
 fn20200323.
+karthiga-sk.
 wiz0floyd.
 ChilloutSenthil.
 fauverism.
@@ -703,6 +704,7 @@ workpurposeusername.
 zaidongy.
 fn20200323.
 jon-lind-sn.
+karthiga-sk.
 ToosinDada.
 bendouglass.
 ChilloutSenthil.
