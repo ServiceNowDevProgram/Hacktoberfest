@@ -239,6 +239,7 @@ Ladirinia.
 pandeysumit-now.
 mskoddow.
 NBaker137.
+rene-el.
 riya-vermaa.
 Saileshlanka.
 aykmrgit.
@@ -251,9 +252,9 @@ chetnadev.
 Irston.
 mmaraj1.
 puneet94.
-am-shakeel.
 
 **Other contributors:**
+am-shakeel.
 chris-canto-11.
 johndahl-now.
 RagaChitraMankala.
@@ -269,7 +270,6 @@ kaushalbharade.
 ManobhavSachan.
 ovarn.
 Ratheshan03.
-rene-el.
 S-SuryaPrakash.
 seviceN.
 workpurposeusername.
@@ -619,6 +619,7 @@ Mahesh-Krishnan1.
 MihirRathod.
 NBaker137.
 preshitd.
+rene-el.
 riya-vermaa.
 Saileshlanka.
 shridk.
@@ -648,9 +649,9 @@ thameemskings.
 4bode.
 abhay625.
 ankitshaw625.
-Arpan-InGen.
 
 **Other contributors:**
+Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
@@ -689,7 +690,6 @@ PreyumKr.
 RajputUsman.
 Ratheshan03.
 rawnaldduck.
-rene-el.
 renuka-rajpuria.
 S-SuryaPrakash.
 SagarVijaykumar.
