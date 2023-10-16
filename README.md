@@ -259,7 +259,6 @@ chris-canto-11.
 crooks-s.
 johndahl-now.
 RagaChitraMankala.
-sudhanshu-77.
 4bode.
 Avinash238.
 demetris7.
@@ -307,6 +306,7 @@ NK-01.
 noviicee.
 NowSharif.
 SruthiSivarajan.
+sudhanshu-77.
 swathinagamahanti.
 SweetPoodle.
 techYESlogyXplorer.
@@ -645,13 +645,12 @@ ewatch.
 Jaskaran-Techno.
 RagaChitraMankala.
 rohantjoshi.
-sudhanshu-77.
 thameemskings.
 4bode.
 abhay625.
+ankitshaw625.
 
 **Other contributors:**
-ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
@@ -761,6 +760,7 @@ NowSharif.
 ron-karim.
 snowritik.
 SruthiSivarajan.
+sudhanshu-77.
 swathinagamahanti.
 TheSethRose.
 thoffman210.
