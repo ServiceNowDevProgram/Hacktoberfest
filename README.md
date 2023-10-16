@@ -237,6 +237,7 @@ debendu-das.
 jesalynrose.
 Ladirinia.
 pandeysumit-now.
+mskoddow.
 NBaker137.
 Saileshlanka.
 aykmrgit.
@@ -250,9 +251,9 @@ Irston.
 mmaraj1.
 puneet94.
 am-shakeel.
-chris-canto-11.
 
 **Other contributors:**
+chris-canto-11.
 johndahl-now.
 RagaChitraMankala.
 sudhanshu-77.
@@ -265,7 +266,6 @@ JBscriptsNow.
 Juusoee.
 kaushalbharade.
 ManobhavSachan.
-mskoddow.
 ovarn.
 Ratheshan03.
 rene-el.
@@ -539,6 +539,7 @@ designitsecure.
 girishnagaraj09.
 llipovsky.
 mohitchauhan-dev.
+mskoddow.
 seviceN.
 tejudhoran95.
 vasantharaja-natarajan.
@@ -559,7 +560,6 @@ brenduh.
 danielliaus.
 sauravsumankumar.
 ashuprince121.
-mskoddow.
 TRIGGEREDcoder.
 adarshsingh0205.
 annaydas.
