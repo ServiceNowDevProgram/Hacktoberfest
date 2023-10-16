@@ -203,6 +203,7 @@ riya-misra-1.
 Himanshu-skb-oo7.
 ronaldkarim.
 hoederath.
+almajam.
 aman2519.
 brenduh.
 Danmax.
@@ -218,7 +219,6 @@ Litwilly.
 nthumma.
 sanjivmeher.
 snamjosh.
-almajam.
 Paulsylo25.
 ashoo-jindal.
 Iuliak.
@@ -554,6 +554,7 @@ ronaldkarim.
 aman2519.
 hoederath.
 namrataghorpade.
+almajam.
 brenduh.
 danielliaus.
 sauravsumankumar.
@@ -575,11 +576,10 @@ odinsride.
 piyusalunke123.
 rmedved84.
 sanjivmeher.
-src107.
 
 **Top 50% contributors:**
+src107.
 pratyushasndev.
-almajam.
 Paulsylo25.
 ashoo-jindal.
 homealone07.
