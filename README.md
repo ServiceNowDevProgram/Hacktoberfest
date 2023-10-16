@@ -186,7 +186,6 @@ MartinStoyanoff.
 eriemer1.
 gregorwmail.
 mady22070.
-riya-misra-1.
 kmohit2809.
 sdgrube2.
 shivamTodwal.
@@ -195,11 +194,12 @@ ayleeandersen.
 smartcarleen.
 abhrajyotikanrar.
 csharpie.
+Jayden-Chiu.
 
 **Top 25% contributors:**
-Jayden-Chiu.
 designitsecure.
 domuserk.
+riya-misra-1.
 Himanshu-skb-oo7.
 ronaldkarim.
 hoederath.
@@ -521,7 +521,6 @@ harishankert.
 mady22070.
 mjonssonme.
 nthumma.
-riya-misra-1.
 b1naryst0rm.
 sdgrube2.
 shivamTodwal.
@@ -548,6 +547,7 @@ domuserk.
 HarneetSital.
 jacebenson.
 ReginaldFawcett.
+riya-misra-1.
 thorn91.
 Himanshu-skb-oo7.
 ronaldkarim.
