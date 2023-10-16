@@ -251,9 +251,9 @@ chetnadev.
 Irston.
 mmaraj1.
 puneet94.
+am-shakeel.
 
 **Other contributors:**
-am-shakeel.
 chris-canto-11.
 johndahl-now.
 RagaChitraMankala.
@@ -337,6 +337,7 @@ ChecksumFailed.
 cheshtapathak.
 Cioraz.
 Collosus1.
+crooks-s.
 cyberpanda18.
 Daksh-Goel12.
 dan-tracey.
@@ -831,6 +832,7 @@ Collosus1.
 Coolaxx.
 Crankzaton.
 CreatorWorkflowSC.
+crooks-s.
 cwhits.
 cyberpanda18.
 Daksh-Goel12.
