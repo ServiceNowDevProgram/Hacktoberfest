@@ -249,12 +249,13 @@ Irston.
 mmaraj1.
 puneet94.
 am-shakeel.
+chris-canto-11.
 johndahl-now.
 RagaChitraMankala.
 sudhanshu-77.
-4bode.
 
 **Other contributors:**
+4bode.
 Avinash238.
 demetris7.
 DhanushNehru.
@@ -289,7 +290,6 @@ ayrotideysarkar.
 bird-03.
 bradtiltonnow.
 cenzo85.
-chris-canto-11.
 Deraged.
 drk1rd.
 garyditsch.
@@ -633,6 +633,7 @@ puneet94.
 sisco0.
 am-shakeel.
 ashaw7697.
+chris-canto-11.
 ewatch.
 Jaskaran-Techno.
 RagaChitraMankala.
@@ -644,9 +645,9 @@ abhay625.
 ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
-ashleysnyder.
 
 **Other contributors:**
+ashleysnyder.
 Avinash238.
 brichards99.
 Coder0131.
@@ -729,7 +730,6 @@ anirudhkumarm.
 anveshmupparaju.
 ayrotideysarkar.
 bgrk005.
-chris-canto-11.
 cmurley.
 DaiTranIT.
 Deraged.
