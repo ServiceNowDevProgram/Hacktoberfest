@@ -476,6 +476,7 @@ PranavBhagat18.
 **Top 10% contributors:**
 litwi1rm.
 mak1A4.
+ajcooper72.
 mlemartien.
 iar42.
 23Thom.
@@ -483,7 +484,6 @@ bird-03.
 salmaniqbal92.
 mr-swann.
 chelming.
-ajcooper72.
 deepak-64742.
 Danmax.
 hafsa-asif.
