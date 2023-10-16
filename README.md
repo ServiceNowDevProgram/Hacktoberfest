@@ -248,15 +248,15 @@ chetnadev.
 Irston.
 mmaraj1.
 puneet94.
+almajam.
 am-shakeel.
 chris-canto-11.
-johndahl-now.
 
 **Other contributors:**
+johndahl-now.
 RagaChitraMankala.
 sudhanshu-77.
 4bode.
-almajam.
 Avinash238.
 demetris7.
 DhanushNehru.
@@ -632,6 +632,7 @@ mmaraj1.
 NayeemKaka.
 puneet94.
 sisco0.
+almajam.
 am-shakeel.
 ashaw7697.
 chris-canto-11.
@@ -643,7 +644,6 @@ sudhanshu-77.
 thameemskings.
 4bode.
 abhay625.
-almajam.
 ankitshaw625.
 Arpan-InGen.
 
