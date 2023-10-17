@@ -226,10 +226,10 @@ soerenmaucher.
 wiresgit.
 
 **Top 50% contributors:**
+chelming.
 RahmanM.
 sheikhafsarzap.
 NBaker137.
-chelming.
 JonSandoval.
 djunaid.
 Rampriya-S.
@@ -487,9 +487,9 @@ mlemartien.
 iar42.
 23Thom.
 bird-03.
+chelming.
 salmaniqbal92.
 mr-swann.
-chelming.
 deepak-64742.
 Danmax.
 hafsa-asif.
