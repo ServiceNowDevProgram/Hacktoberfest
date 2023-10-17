@@ -176,9 +176,9 @@ ajcooper72.
 deepak-64742.
 Jaspalsinghchot.
 paigesndev.
+hentonjd.
 amigujarathi.
 at8807602.
-hentonjd.
 Yokesh0811.
 
 **Top 10% contributors:**
@@ -497,6 +497,7 @@ aatrey882.
 gowdah.
 anillande90.
 danr2c2.
+hentonjd.
 Litwilly.
 MRSinghRajat.
 oasif.
@@ -509,7 +510,6 @@ davidkwhuang.
 zahidask.
 azeezgaa.
 DynamiteC.
-hentonjd.
 shakeel-sheikh.
 
 **Top 25% contributors:**
