@@ -222,17 +222,17 @@ snamjosh.
 ashoo-jindal.
 Paulsylo25.
 Iuliak.
+Rampriya-S.
 soerenmaucher.
 wiresgit.
-chelming.
 
 **Top 50% contributors:**
+chelming.
 RahmanM.
 sheikhafsarzap.
 NBaker137.
 JonSandoval.
 djunaid.
-Rampriya-S.
 RaunakScarlet.
 dalestubblefield.
 debendu-das.
@@ -457,8 +457,8 @@ johndahl-now.
 ishaanshoor.
 mgopw.
 kmohit2809.
-DavidArthurCole.
 Rampriya-S.
+DavidArthurCole.
 MartinStoyanoff.
 wiz0floyd.
 R3J3NT.
