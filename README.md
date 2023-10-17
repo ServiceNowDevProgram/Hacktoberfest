@@ -223,9 +223,9 @@ Paulsylo25.
 ashoo-jindal.
 Iuliak.
 soerenmaucher.
+wiresgit.
 
 **Top 50% contributors:**
-wiresgit.
 RahmanM.
 sheikhafsarzap.
 NBaker137.
@@ -252,9 +252,9 @@ dadhich-ashish.
 bhavyajain511.
 chetnadev.
 chris-canto-11.
+Irston.
 
 **Other contributors:**
-Irston.
 puneet94.
 am-shakeel.
 crooks-s.
@@ -366,6 +366,7 @@ Hemant9993.
 iks1.
 javiervillarreal.
 jdsingh206.
+jeremyrubio27.
 JiyaGupta-cs.
 jkbdtadvisory.
 JoeSDoro.
@@ -916,6 +917,7 @@ jaypalmr.
 jc73uk.
 jdsingh206.
 Jennylou777.
+jeremyrubio27.
 JiyaGupta-cs.
 jkbdtadvisory.
 jnikita067.
