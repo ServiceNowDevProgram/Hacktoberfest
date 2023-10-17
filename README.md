@@ -224,9 +224,9 @@ Paulsylo25.
 Iuliak.
 soerenmaucher.
 wiresgit.
+chelming.
 
 **Top 50% contributors:**
-chelming.
 RahmanM.
 sheikhafsarzap.
 NBaker137.
@@ -254,9 +254,9 @@ chris-canto-11.
 Irston.
 mmaraj1.
 puneet94.
+am-shakeel.
 
 **Other contributors:**
-am-shakeel.
 crooks-s.
 johndahl-now.
 RagaChitraMankala.
@@ -383,6 +383,7 @@ Kswierk.
 lidmaylid.
 madhu1256.
 Maithani-ji.
+manrick.
 mansikasera.
 Manveer-Pbx1.
 martineskoooo.
@@ -969,6 +970,7 @@ madhu1256.
 Mady1947.
 Maithani-ji.
 makesh-ind.
+manrick.
 mansikasera.
 Manveer-Pbx1.
 maralucca.
