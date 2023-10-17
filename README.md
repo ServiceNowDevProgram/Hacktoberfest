@@ -178,13 +178,13 @@ amigujarathi.
 Jaspalsinghchot.
 paigesndev.
 hentonjd.
+ayleeandersen.
 at8807602.
-kmohit2809.
 
 **Top 10% contributors:**
+kmohit2809.
 shivamTodwal.
 Yokesh0811.
-ayleeandersen.
 MartinStoyanoff.
 abhrajyotikanrar.
 eriemer1.
@@ -508,6 +508,7 @@ hentonjd.
 Litwilly.
 MRSinghRajat.
 oasif.
+ayleeandersen.
 jiteshmalik.
 jonahpiascik.
 soerenmaucher.
@@ -517,13 +518,12 @@ davidkwhuang.
 zahidask.
 azeezgaa.
 DynamiteC.
-shakeel-sheikh.
 
 **Top 25% contributors:**
+shakeel-sheikh.
 shivamTodwal.
 vjtknn.
 Yokesh0811.
-ayleeandersen.
 MarcMouries.
 abhrajyotikanrar.
 sn-ajb.
