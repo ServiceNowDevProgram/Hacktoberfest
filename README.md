@@ -379,6 +379,7 @@ KishoreGitRepo.
 kit-t.
 KritiDwivedi.
 lidmaylid.
+Lxn12.
 madhu1256.
 Maithani-ji.
 mansikasera.
@@ -581,9 +582,9 @@ odinsride.
 piyusalunke123.
 rene-el.
 rmedved84.
+src107.
 
 **Top 50% contributors:**
-src107.
 pratyushasndev.
 Paulsylo25.
 ashoo-jindal.
@@ -651,9 +652,9 @@ rohantjoshi.
 thameemskings.
 4bode.
 abhay625.
+ankitshaw625.
 
 **Other contributors:**
-ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
@@ -958,6 +959,7 @@ liyAGHORI.
 LoicSanchez.
 Luci-git.
 LuisSepulveda21.
+Lxn12.
 m2santiago.
 macias-daniel.
 madhu1256.
