@@ -375,6 +375,7 @@ Josh767676.
 Kaluzy.
 kanishka-parmar.
 Karanyadav7.
+khawajaazfar2000.
 KholoodS.
 KishoreGitRepo.
 kit-t.
@@ -586,9 +587,9 @@ piyusalunke123.
 rene-el.
 rmedved84.
 src107.
+pratyushasndev.
 
 **Top 50% contributors:**
-pratyushasndev.
 ashoo-jindal.
 Paulsylo25.
 homealone07.
@@ -657,9 +658,9 @@ thameemskings.
 abhay625.
 ankitshaw625.
 Arpan-InGen.
+AryanBarsaiyan.
 
 **Other contributors:**
-AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
 brichards99.
@@ -944,6 +945,7 @@ KayakDK.
 Keagnn.
 kenish12.
 KhAhshan.
+khawajaazfar2000.
 khoilu-1512.
 KholoodS.
 kieo-on.
