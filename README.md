@@ -208,7 +208,6 @@ almajam.
 aman2519.
 brenduh.
 Danmax.
-Rampriya-S.
 annaydas.
 DavidMarcial.
 goranlundqvist.
@@ -223,6 +222,7 @@ snamjosh.
 Paulsylo25.
 ashoo-jindal.
 Iuliak.
+Rampriya-S.
 soerenmaucher.
 
 **Top 50% contributors:**
