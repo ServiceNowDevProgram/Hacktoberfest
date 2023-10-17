@@ -218,18 +218,18 @@ gowdah.
 iar42.
 Litwilly.
 nthumma.
+rene-el.
 snamjosh.
 Paulsylo25.
 ashoo-jindal.
 Iuliak.
 soerenmaucher.
-wiresgit.
 
 **Top 50% contributors:**
+wiresgit.
 RahmanM.
 sheikhafsarzap.
 NBaker137.
-rene-el.
 chelming.
 JonSandoval.
 djunaid.
@@ -579,10 +579,11 @@ briangodfreydev.
 GauthamBellamkonda.
 odinsride.
 piyusalunke123.
+rene-el.
 rmedved84.
-src107.
 
 **Top 50% contributors:**
+src107.
 pratyushasndev.
 Paulsylo25.
 ashoo-jindal.
@@ -598,7 +599,6 @@ sheikhafsarzap.
 Abhishekchowdarapu.
 anguspalmer.
 NBaker137.
-rene-el.
 revantKulkarni.
 trade12.
 ttoter.
