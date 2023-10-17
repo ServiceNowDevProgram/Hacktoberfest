@@ -258,6 +258,7 @@ am-shakeel.
 
 **Other contributors:**
 crooks-s.
+jeremyrubio27.
 johndahl-now.
 RagaChitraMankala.
 4bode.
@@ -299,7 +300,6 @@ garyditsch.
 HariniSnow.
 ishanjain18.
 jaz1gdev.
-jeremyrubio27.
 Lxn12.
 MaChenChen1211.
 manoj424.
@@ -652,6 +652,7 @@ ashaw7697.
 crooks-s.
 ewatch.
 Jaskaran-Techno.
+jeremyrubio27.
 RagaChitraMankala.
 rohantjoshi.
 thameemskings.
@@ -659,9 +660,9 @@ thameemskings.
 abhay625.
 ankitshaw625.
 Arpan-InGen.
-AryanBarsaiyan.
 
 **Other contributors:**
+AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
 brichards99.
@@ -755,7 +756,6 @@ himanisinghal.
 ishanjain18.
 javiervillarreal.
 jaz1gdev.
-jeremyrubio27.
 kcimpulse.
 LakshmiPrasanna96.
 Lxn12.
