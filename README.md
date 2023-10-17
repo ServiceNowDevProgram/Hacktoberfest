@@ -219,8 +219,8 @@ Litwilly.
 nthumma.
 rene-el.
 snamjosh.
-Paulsylo25.
 ashoo-jindal.
+Paulsylo25.
 Iuliak.
 soerenmaucher.
 wiresgit.
@@ -586,8 +586,8 @@ src107.
 
 **Top 50% contributors:**
 pratyushasndev.
-Paulsylo25.
 ashoo-jindal.
+Paulsylo25.
 homealone07.
 Iamsant.
 Iuliak.
