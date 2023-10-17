@@ -195,9 +195,9 @@ ayleeandersen.
 smartcarleen.
 csharpie.
 Jayden-Chiu.
+designitsecure.
 
 **Top 25% contributors:**
-designitsecure.
 domuserk.
 riya-misra-1.
 sheikhafsarzap.
@@ -375,6 +375,7 @@ jonahpiascik.
 Josh767676.
 Kaluzy.
 kanishka-parmar.
+Karan-p-singh.
 Karanyadav7.
 khawajaazfar2000.
 KholoodS.
@@ -938,6 +939,7 @@ justSNaccount.
 kainturar.
 Kaluzy.
 kanishka-parmar.
+Karan-p-singh.
 Karanyadav7.
 KarelMusa.
 Karthick986.
