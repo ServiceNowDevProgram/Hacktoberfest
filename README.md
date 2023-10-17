@@ -233,7 +233,6 @@ NBaker137.
 chelming.
 JonSandoval.
 djunaid.
-mmaraj1.
 RaunakScarlet.
 dalestubblefield.
 debendu-das.
@@ -253,6 +252,7 @@ bhavyajain511.
 chetnadev.
 chris-canto-11.
 Irston.
+mmaraj1.
 
 **Other contributors:**
 puneet94.
@@ -608,7 +608,6 @@ JonSandoval.
 JWITSM.
 dalestubblefield.
 djunaid.
-mmaraj1.
 RaunakScarlet.
 Adiana3308.
 akhoshnood.
@@ -639,6 +638,7 @@ abhilash264.
 bhavyajain511.
 chetnadev.
 chris-canto-11.
+mmaraj1.
 NayeemKaka.
 puneet94.
 sisco0.
