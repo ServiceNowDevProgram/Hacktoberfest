@@ -251,12 +251,12 @@ dadhich-ashish.
 1shabby.
 bhavyajain511.
 chetnadev.
-Irston.
+chris-canto-11.
 
 **Other contributors:**
+Irston.
 puneet94.
 am-shakeel.
-chris-canto-11.
 crooks-s.
 johndahl-now.
 RagaChitraMankala.
@@ -636,12 +636,12 @@ VaishnaviLathkar98.
 abhilash264.
 bhavyajain511.
 chetnadev.
+chris-canto-11.
 NayeemKaka.
 puneet94.
 sisco0.
 am-shakeel.
 ashaw7697.
-chris-canto-11.
 crooks-s.
 ewatch.
 Jaskaran-Techno.
