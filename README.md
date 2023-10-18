@@ -225,9 +225,9 @@ snamjosh.
 fn20200323.
 ashoo-jindal.
 Paulsylo25.
+Iuliak.
 
 **Top 50% contributors:**
-Iuliak.
 soerenmaucher.
 wiresgit.
 chelming.
@@ -255,9 +255,9 @@ chris-canto-11.
 Irston.
 mmaraj1.
 puneet94.
+am-shakeel.
 
 **Other contributors:**
-am-shakeel.
 crooks-s.
 jeremyrubio27.
 johndahl-now.
@@ -334,6 +334,7 @@ ANISHAGHOSHAL.
 Archita-2023.
 Arit-Su.
 AritraSadhu.
+AvTe.
 Ayushi22-coder.
 azabadaudiya.
 banjofrailer.
@@ -814,6 +815,7 @@ arostesri.
 artemis15.
 askarthik.
 atipisova.
+AvTe.
 aysenuruzunnn.
 Ayushi22-coder.
 azabadaudiya.
