@@ -224,12 +224,12 @@ snamjosh.
 ashoo-jindal.
 Paulsylo25.
 Iuliak.
-soerenmaucher.
+manrick.
 
 **Top 50% contributors:**
+soerenmaucher.
 wiresgit.
 chelming.
-manrick.
 RahmanM.
 NBaker137.
 fn20200323.
@@ -598,11 +598,11 @@ Paulsylo25.
 homealone07.
 Iamsant.
 Iuliak.
+manrick.
 Sagar-agarwal.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
-manrick.
 markroethof.
 Abhishekchowdarapu.
 anguspalmer.
