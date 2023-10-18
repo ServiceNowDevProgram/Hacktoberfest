@@ -239,6 +239,7 @@ debendu-das.
 jesalynrose.
 Ladirinia.
 pandeysumit-now.
+manrick.
 mskoddow.
 riya-vermaa.
 Saileshlanka.
@@ -254,9 +255,9 @@ chris-canto-11.
 Irston.
 mmaraj1.
 puneet94.
-am-shakeel.
 
 **Other contributors:**
+am-shakeel.
 crooks-s.
 jeremyrubio27.
 johndahl-now.
@@ -270,7 +271,6 @@ JBscriptsNow.
 Juusoee.
 kaushalbharade.
 ManobhavSachan.
-manrick.
 ovarn.
 Ratheshan03.
 S-SuryaPrakash.
@@ -627,6 +627,7 @@ pandeysumit-now.
 patrickpaterlini.
 LucasRocha2308.
 Mahesh-Krishnan1.
+manrick.
 MihirRathod.
 preshitd.
 riya-vermaa.
@@ -661,9 +662,9 @@ thameemskings.
 abhay625.
 ankitshaw625.
 Arpan-InGen.
-AryanBarsaiyan.
 
 **Other contributors:**
+AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
 brichards99.
@@ -690,7 +691,6 @@ lakshyatyagi24.
 loudigi.
 maialithar.
 ManobhavSachan.
-manrick.
 mevops.
 mikeroosa.
 moshjahan.
