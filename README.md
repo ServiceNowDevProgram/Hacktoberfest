@@ -222,18 +222,18 @@ Litwilly.
 nthumma.
 rene-el.
 snamjosh.
+fn20200323.
 ashoo-jindal.
 Paulsylo25.
-Iuliak.
 
 **Top 50% contributors:**
+Iuliak.
 soerenmaucher.
 wiresgit.
 chelming.
 RahmanM.
 mskoddow.
 NBaker137.
-fn20200323.
 JonSandoval.
 djunaid.
 RaunakScarlet.
@@ -593,6 +593,7 @@ rmedved84.
 
 **Top 50% contributors:**
 src107.
+fn20200323.
 pratyushasndev.
 ashoo-jindal.
 Paulsylo25.
@@ -609,7 +610,6 @@ anguspalmer.
 NBaker137.
 revantKulkarni.
 trade12.
-fn20200323.
 ttoter.
 AlphaEagle.
 JonSandoval.
