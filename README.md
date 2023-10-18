@@ -253,13 +253,13 @@ bhavyajain511.
 chetnadev.
 chris-canto-11.
 Irston.
+jeremyrubio27.
 mmaraj1.
 puneet94.
-am-shakeel.
 
 **Other contributors:**
+am-shakeel.
 crooks-s.
-jeremyrubio27.
 johndahl-now.
 MiroslawBuszek.
 RagaChitraMankala.
@@ -646,6 +646,7 @@ abhilash264.
 bhavyajain511.
 chetnadev.
 chris-canto-11.
+jeremyrubio27.
 mmaraj1.
 NayeemKaka.
 puneet94.
@@ -655,7 +656,6 @@ ashaw7697.
 crooks-s.
 ewatch.
 Jaskaran-Techno.
-jeremyrubio27.
 MiroslawBuszek.
 RagaChitraMankala.
 rohantjoshi.
