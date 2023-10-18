@@ -262,6 +262,7 @@ crooks-s.
 jeremyrubio27.
 johndahl-now.
 Kswierk.
+MiroslawBuszek.
 RagaChitraMankala.
 4bode.
 Avinash238.
@@ -305,7 +306,6 @@ ishanjain18.
 jaz1gdev.
 Lxn12.
 MaChenChen1211.
-MiroslawBuszek.
 mvarshney99.
 NicoxNall.
 NK-01.
@@ -656,14 +656,15 @@ ewatch.
 Jaskaran-Techno.
 jeremyrubio27.
 Kswierk.
+MiroslawBuszek.
 RagaChitraMankala.
 rohantjoshi.
 thameemskings.
 4bode.
 abhay625.
-ankitshaw625.
 
 **Other contributors:**
+ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
@@ -764,7 +765,6 @@ kcimpulse.
 LakshmiPrasanna96.
 Lxn12.
 MaChenChen1211.
-MiroslawBuszek.
 mua35.
 Munnisona.
 mvarshney99.
