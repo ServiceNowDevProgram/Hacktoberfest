@@ -229,6 +229,7 @@ soerenmaucher.
 **Top 50% contributors:**
 wiresgit.
 chelming.
+manrick.
 RahmanM.
 NBaker137.
 JonSandoval.
@@ -238,7 +239,6 @@ dalestubblefield.
 debendu-das.
 jesalynrose.
 Ladirinia.
-manrick.
 pandeysumit-now.
 mskoddow.
 riya-vermaa.
@@ -602,6 +602,7 @@ Sagar-agarwal.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
+manrick.
 markroethof.
 Abhishekchowdarapu.
 anguspalmer.
@@ -622,7 +623,6 @@ debendu-das.
 Decoder-Paul.
 jesalynrose.
 Ladirinia.
-manrick.
 miracc.
 pandeysumit-now.
 patrickpaterlini.
