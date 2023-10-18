@@ -337,6 +337,7 @@ azabadaudiya.
 banjofrailer.
 bharatr21.
 Bidexdablitz.
+chaitanyagummadavelly.
 ChecksumFailed.
 cheshtapathak.
 Cioraz.
@@ -660,9 +661,9 @@ thameemskings.
 abhay625.
 ankitshaw625.
 Arpan-InGen.
+AryanBarsaiyan.
 
 **Other contributors:**
-AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
 brichards99.
@@ -830,6 +831,7 @@ billyperkinsukg.
 bmfmancini.
 Brian-Rowland.
 celsiogil.
+chaitanyagummadavelly.
 chandumishra21.
 Charlesemesobum.
 cheshtapathak.
