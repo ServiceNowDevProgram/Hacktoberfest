@@ -210,6 +210,7 @@ almajam.
 aman2519.
 brenduh.
 Danmax.
+manrick.
 Rampriya-S.
 annaydas.
 DavidMarcial.
@@ -224,7 +225,6 @@ snamjosh.
 ashoo-jindal.
 Paulsylo25.
 Iuliak.
-manrick.
 
 **Top 50% contributors:**
 soerenmaucher.
@@ -574,6 +574,7 @@ brenduh.
 danielliaus.
 sauravsumankumar.
 ashuprince121.
+manrick.
 adarshsingh0205.
 annaydas.
 DavidMarcial.
@@ -589,16 +590,15 @@ odinsride.
 piyusalunke123.
 rene-el.
 rmedved84.
-src107.
 
 **Top 50% contributors:**
+src107.
 pratyushasndev.
 ashoo-jindal.
 Paulsylo25.
 homealone07.
 Iamsant.
 Iuliak.
-manrick.
 Sagar-agarwal.
 wiresgit.
 yourepicservices.
