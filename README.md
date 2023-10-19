@@ -256,9 +256,9 @@ chris-canto-11.
 Irston.
 mmaraj1.
 puneet94.
+am-shakeel.
 
 **Other contributors:**
-am-shakeel.
 crooks-s.
 johndahl-now.
 MiroslawBuszek.
@@ -387,6 +387,7 @@ khawajaazfar2000.
 KholoodS.
 KishoreGitRepo.
 kit-t.
+kkbrains1.
 KritiDwivedi.
 lidmaylid.
 madhu1256.
@@ -963,6 +964,7 @@ KholoodS.
 kieo-on.
 KishoreGitRepo.
 kit-t.
+kkbrains1.
 KokilaAbeysinghe.
 KritiDwivedi.
 kuldeep3143.
