@@ -341,6 +341,7 @@ azabadaudiya.
 banjofrailer.
 bharatr21.
 Bidexdablitz.
+but69.
 chaitanyagummadavelly.
 ChecksumFailed.
 cheshtapathak.
@@ -484,9 +485,9 @@ alikuttyka.
 BadalHub.
 MrChrisE.
 vandna07.
+PranavBhagat18.
 
 **Top 10% contributors:**
-PranavBhagat18.
 deepak-64742.
 litwi1rm.
 mak1A4.
@@ -520,9 +521,9 @@ at8807602.
 davidkwhuang.
 zahidask.
 azeezgaa.
+DynamiteC.
 
 **Top 25% contributors:**
-DynamiteC.
 shakeel-sheikh.
 vjtknn.
 Yokesh0811.
@@ -661,10 +662,10 @@ RagaChitraMankala.
 rohantjoshi.
 thameemskings.
 4bode.
-abhay625.
-ankitshaw625.
 
 **Other contributors:**
+abhay625.
+ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
@@ -835,6 +836,7 @@ Bigshmow.
 billyperkinsukg.
 bmfmancini.
 Brian-Rowland.
+but69.
 celsiogil.
 chaitanyagummadavelly.
 chandumishra21.
