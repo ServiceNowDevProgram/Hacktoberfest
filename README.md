@@ -242,6 +242,7 @@ RaunakScarlet.
 dalestubblefield.
 jesalynrose.
 Ladirinia.
+MiroslawBuszek.
 pandeysumit-now.
 riya-vermaa.
 Saileshlanka.
@@ -256,12 +257,11 @@ chris-canto-11.
 Irston.
 mmaraj1.
 puneet94.
-am-shakeel.
 
 **Other contributors:**
+am-shakeel.
 crooks-s.
 johndahl-now.
-MiroslawBuszek.
 RagaChitraMankala.
 4bode.
 Avinash238.
@@ -630,6 +630,7 @@ Decoder-Paul.
 jesalynrose.
 Ladirinia.
 miracc.
+MiroslawBuszek.
 pandeysumit-now.
 patrickpaterlini.
 LucasRocha2308.
@@ -659,7 +660,6 @@ am-shakeel.
 ashaw7697.
 crooks-s.
 Jaskaran-Techno.
-MiroslawBuszek.
 RagaChitraMankala.
 rohantjoshi.
 thameemskings.
