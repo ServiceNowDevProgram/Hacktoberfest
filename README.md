@@ -190,19 +190,19 @@ abhrajyotikanrar.
 eriemer1.
 gregorwmail.
 mady22070.
+riya-misra-1.
 sdgrube2.
 sychi77.
 smartcarleen.
 csharpie.
 DavidMarcial.
-Jayden-Chiu.
 
 **Top 25% contributors:**
+Jayden-Chiu.
 TRIGGEREDcoder.
 designitsecure.
 Rampriya-S.
 domuserk.
-riya-misra-1.
 sheikhafsarzap.
 Himanshu-skb-oo7.
 ronaldkarim.
@@ -540,6 +540,7 @@ mady22070.
 mskoddow.
 mjonssonme.
 nthumma.
+riya-misra-1.
 b1naryst0rm.
 sdgrube2.
 AdilBasha1SAP.
@@ -565,7 +566,6 @@ domuserk.
 HarneetSital.
 jacebenson.
 ReginaldFawcett.
-riya-misra-1.
 sheikhafsarzap.
 thorn91.
 Himanshu-skb-oo7.
