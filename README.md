@@ -215,6 +215,7 @@ Danmax.
 Paulsylo25.
 manrick.
 annaydas.
+debendu-das.
 goranlundqvist.
 ivan-betev.
 gowdah.
@@ -225,13 +226,12 @@ rene-el.
 snamjosh.
 fn20200323.
 ashoo-jindal.
-Iuliak.
 
 **Top 50% contributors:**
+Iuliak.
 soerenmaucher.
 wiresgit.
 chelming.
-debendu-das.
 RahmanM.
 mskoddow.
 NBaker137.
@@ -580,6 +580,7 @@ ashuprince121.
 manrick.
 adarshsingh0205.
 annaydas.
+debendu-das.
 goranlundqvist.
 harisnad.
 ivan-betev.
@@ -590,9 +591,9 @@ briangodfreydev.
 GauthamBellamkonda.
 odinsride.
 piyusalunke123.
-rene-el.
 
 **Top 50% contributors:**
+rene-el.
 rmedved84.
 src107.
 fn20200323.
@@ -605,7 +606,6 @@ Sagar-agarwal.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
-debendu-das.
 markroethof.
 Abhishekchowdarapu.
 anguspalmer.
