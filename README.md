@@ -194,10 +194,11 @@ sdgrube2.
 sychi77.
 smartcarleen.
 csharpie.
+DavidMarcial.
 Jayden-Chiu.
-TRIGGEREDcoder.
 
 **Top 25% contributors:**
+TRIGGEREDcoder.
 designitsecure.
 Rampriya-S.
 domuserk.
@@ -211,7 +212,6 @@ almajam.
 aman2519.
 brenduh.
 Danmax.
-DavidMarcial.
 Paulsylo25.
 manrick.
 annaydas.
@@ -545,6 +545,7 @@ phr-nk.
 TRIGGEREDcoder.
 Vish-X07.
 csharpie.
+DavidMarcial.
 Irston.
 Jayden-Chiu.
 OrgovanGeza.
@@ -573,7 +574,6 @@ namrataghorpade.
 almajam.
 brenduh.
 danielliaus.
-DavidMarcial.
 Paulsylo25.
 sauravsumankumar.
 ashuprince121.
