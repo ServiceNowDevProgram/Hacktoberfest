@@ -177,8 +177,8 @@ deepak-64742.
 hentonjd.
 amigujarathi.
 paigesndev.
-Jaspalsinghchot.
 shivamTodwal.
+Jaspalsinghchot.
 ayleeandersen.
 
 **Top 10% contributors:**
@@ -501,9 +501,9 @@ mr-swann.
 Danmax.
 hafsa-asif.
 ovarn.
+shivamTodwal.
 devinvalencia.
 Jaspalsinghchot.
-shivamTodwal.
 aatrey882.
 gowdah.
 anillande90.
