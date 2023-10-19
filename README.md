@@ -229,6 +229,7 @@ ashoo-jindal.
 Iuliak.
 
 **Top 50% contributors:**
+RaunakScarlet.
 soerenmaucher.
 wiresgit.
 chelming.
@@ -238,7 +239,6 @@ NBaker137.
 JonSandoval.
 djunaid.
 jeremyrubio27.
-RaunakScarlet.
 dalestubblefield.
 jesalynrose.
 Ladirinia.
@@ -606,6 +606,7 @@ ashoo-jindal.
 homealone07.
 Iamsant.
 Iuliak.
+RaunakScarlet.
 Sagar-agarwal.
 wiresgit.
 yourepicservices.
@@ -623,7 +624,6 @@ JWITSM.
 dalestubblefield.
 djunaid.
 jeremyrubio27.
-RaunakScarlet.
 Adiana3308.
 akhoshnood.
 allam1234.
