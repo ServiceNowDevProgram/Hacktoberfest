@@ -194,11 +194,12 @@ riya-misra-1.
 ronaldkarim.
 sdgrube2.
 sychi77.
+debendu-das.
 smartcarleen.
 csharpie.
-DavidMarcial.
 
 **Top 25% contributors:**
+DavidMarcial.
 Jayden-Chiu.
 TRIGGEREDcoder.
 designitsecure.
@@ -207,7 +208,6 @@ domuserk.
 sheikhafsarzap.
 Himanshu-skb-oo7.
 sanjivmeher.
-debendu-das.
 hoederath.
 almajam.
 aman2519.
@@ -554,6 +554,7 @@ ronaldkarim.
 sdgrube2.
 AdilBasha1SAP.
 bradtiltonnow.
+debendu-das.
 phr-nk.
 TRIGGEREDcoder.
 Vish-X07.
@@ -581,7 +582,6 @@ Abhishekchowdarapu.
 Himanshu-skb-oo7.
 sanjivmeher.
 aman2519.
-debendu-das.
 hoederath.
 namrataghorpade.
 almajam.
