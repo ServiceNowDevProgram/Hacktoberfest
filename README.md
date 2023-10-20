@@ -258,9 +258,9 @@ Irston.
 mmaraj1.
 puneet94.
 am-shakeel.
+crooks-s.
 
 **Other contributors:**
-crooks-s.
 johndahl-now.
 RagaChitraMankala.
 4bode.
@@ -403,6 +403,7 @@ Mukeshpandey0286.
 mukeshpandey9.
 napul205.
 natefern.
+newl92.
 nuwan94.
 OllyIB.
 omkarvasekar.
@@ -596,9 +597,9 @@ briangodfreydev.
 GauthamBellamkonda.
 odinsride.
 piyusalunke123.
+rene-el.
 
 **Top 50% contributors:**
-rene-el.
 rmedved84.
 src107.
 fn20200323.
@@ -667,9 +668,9 @@ rohantjoshi.
 thameemskings.
 4bode.
 abhay625.
+ankitshaw625.
 
 **Other contributors:**
-ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
@@ -1016,6 +1017,7 @@ nayeemwajid97.
 neenaSharma1.
 neerajs296.
 Nerdcode.
+newl92.
 NoelJarling.
 noyzmaker.
 nuwan94.
