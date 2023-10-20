@@ -254,12 +254,13 @@ mockspeed.
 ynr-ram.
 dadhich-ashish.
 1shabby.
+Alprez.
 bhavyajain511.
 chetnadev.
 chris-canto-11.
-Irston.
 
 **Other contributors:**
+Irston.
 mmaraj1.
 puneet94.
 yuvraj1107thapa.
@@ -287,7 +288,6 @@ Deraged.
 fauverism.
 KonvalinkaCodes.
 manoj424.
-Alprez.
 brumam.
 djharshit.
 Litaflom.
@@ -658,6 +658,7 @@ dadhich-ashish.
 VaishnaviLathkar98.
 1shabby.
 abhilash264.
+Alprez.
 bhavyajain511.
 chetnadev.
 chris-canto-11.
@@ -675,9 +676,9 @@ RagaChitraMankala.
 rohantjoshi.
 thameemskings.
 4bode.
-abhay625.
 
 **Other contributors:**
+abhay625.
 ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
@@ -743,7 +744,6 @@ fauverism.
 KonvalinkaCodes.
 manoj424.
 Marll22.
-Alprez.
 brumam.
 cenzo85.
 djharshit.
