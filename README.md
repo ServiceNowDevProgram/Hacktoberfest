@@ -240,6 +240,7 @@ JonSandoval.
 djunaid.
 jeremyrubio27.
 sonamtiwari8.
+anveshmupparaju.
 dalestubblefield.
 jesalynrose.
 Ladirinia.
@@ -256,13 +257,12 @@ dadhich-ashish.
 bhavyajain511.
 chetnadev.
 chris-canto-11.
-Irston.
 
 **Other contributors:**
+Irston.
 mmaraj1.
 puneet94.
 am-shakeel.
-anveshmupparaju.
 crooks-s.
 johndahl-now.
 RagaChitraMankala.
@@ -633,6 +633,7 @@ sonamtiwari8.
 Adiana3308.
 akhoshnood.
 allam1234.
+anveshmupparaju.
 Decoder-Paul.
 jesalynrose.
 Ladirinia.
@@ -664,7 +665,6 @@ NayeemKaka.
 puneet94.
 sisco0.
 am-shakeel.
-anveshmupparaju.
 ashaw7697.
 crooks-s.
 Jaskaran-Techno.
