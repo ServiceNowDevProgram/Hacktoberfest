@@ -263,7 +263,6 @@ am-shakeel.
 crooks-s.
 johndahl-now.
 RagaChitraMankala.
-yuvraj1107thapa.
 4bode.
 Avinash238.
 demetris7.
@@ -322,6 +321,7 @@ TheSethRose.
 thoffman210.
 vishalbirajdar0712.
 vivekverma18.
+yuvraj1107thapa.
 1-23-smy.
 158w5a0532.
 23Thom.
@@ -668,13 +668,12 @@ Jaskaran-Techno.
 RagaChitraMankala.
 rohantjoshi.
 thameemskings.
-yuvraj1107thapa.
 4bode.
 abhay625.
 ankitshaw625.
+Arpan-InGen.
 
 **Other contributors:**
-Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
@@ -793,6 +792,7 @@ thoffman210.
 TonySerN.
 vishalbirajdar0712.
 vivekverma18.
+yuvraj1107thapa.
 0x3developer.
 1-23-smy.
 aaron-howard.
