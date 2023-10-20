@@ -261,6 +261,7 @@ mmaraj1.
 **Other contributors:**
 puneet94.
 am-shakeel.
+anveshmupparaju.
 crooks-s.
 johndahl-now.
 RagaChitraMankala.
@@ -295,7 +296,6 @@ yuvraj1107thapa.
 abhishek-kumar-91.
 Alprez.
 anilvaranasi.
-anveshmupparaju.
 ayrotideysarkar.
 bird-03.
 bradtiltonnow.
@@ -664,6 +664,7 @@ NayeemKaka.
 puneet94.
 sisco0.
 am-shakeel.
+anveshmupparaju.
 ashaw7697.
 crooks-s.
 Jaskaran-Techno.
@@ -672,9 +673,9 @@ rohantjoshi.
 thameemskings.
 4bode.
 abhay625.
-ankitshaw625.
 
 **Other contributors:**
+ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
@@ -758,7 +759,6 @@ abhishek-kumar-91.
 Alprez.
 anilvaranasi.
 anirudhkumarm.
-anveshmupparaju.
 ayrotideysarkar.
 bgrk005.
 cmurley.
