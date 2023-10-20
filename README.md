@@ -257,9 +257,9 @@ dadhich-ashish.
 bhavyajain511.
 chetnadev.
 chris-canto-11.
+Irston.
 
 **Other contributors:**
-Irston.
 mmaraj1.
 puneet94.
 am-shakeel.
@@ -439,6 +439,7 @@ sjmeissner.
 smoothwood.
 somjyotisinha.
 Sookeyy-12.
+Souradeephazra123.
 srirampusuluri1.
 Stevay3.
 subhayudutta.
@@ -1106,6 +1107,7 @@ somjyotisinha.
 somusekher.
 Sookeyy-12.
 Soulpancake000.
+Souradeephazra123.
 srirampusuluri1.
 Srutip04.
 Stevay3.
