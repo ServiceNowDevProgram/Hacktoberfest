@@ -184,13 +184,13 @@ at8807602.
 
 **Top 10% contributors:**
 kmohit2809.
-riya-misra-1.
 Yokesh0811.
 MartinStoyanoff.
 abhrajyotikanrar.
 eriemer1.
 gregorwmail.
 mady22070.
+riya-misra-1.
 sdgrube2.
 sychi77.
 smartcarleen.
@@ -526,12 +526,11 @@ soerenmaucher.
 avssrikanth.
 at8807602.
 davidkwhuang.
-riya-misra-1.
 zahidask.
 azeezgaa.
+DynamiteC.
 
 **Top 25% contributors:**
-DynamiteC.
 shakeel-sheikh.
 vjtknn.
 Yokesh0811.
@@ -546,6 +545,7 @@ mady22070.
 mskoddow.
 mjonssonme.
 nthumma.
+riya-misra-1.
 b1naryst0rm.
 sdgrube2.
 AdilBasha1SAP.
