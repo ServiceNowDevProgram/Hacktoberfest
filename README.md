@@ -179,11 +179,11 @@ amigujarathi.
 shivamTodwal.
 paigesndev.
 ayleeandersen.
+csharpie.
 Jaspalsinghchot.
-at8807602.
 
 **Top 10% contributors:**
-csharpie.
+at8807602.
 kmohit2809.
 Yokesh0811.
 MartinStoyanoff.
@@ -515,6 +515,7 @@ ayleeandersen.
 Danmax.
 hafsa-asif.
 ovarn.
+csharpie.
 devinvalencia.
 Jaspalsinghchot.
 aatrey882.
@@ -530,7 +531,6 @@ jonahpiascik.
 soerenmaucher.
 avssrikanth.
 at8807602.
-csharpie.
 davidkwhuang.
 zahidask.
 
