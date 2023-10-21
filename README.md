@@ -201,6 +201,7 @@ smartcarleen.
 **Top 25% contributors:**
 DavidMarcial.
 Jayden-Chiu.
+Paulsylo25.
 TRIGGEREDcoder.
 designitsecure.
 Rampriya-S.
@@ -215,7 +216,6 @@ aman2519.
 ashoo-jindal.
 brenduh.
 Danmax.
-Paulsylo25.
 manrick.
 annaydas.
 goranlundqvist.
@@ -567,6 +567,7 @@ DavidMarcial.
 Irston.
 Jayden-Chiu.
 OrgovanGeza.
+Paulsylo25.
 arhaan2019.
 designitsecure.
 girishnagaraj09.
@@ -591,7 +592,6 @@ almajam.
 ashoo-jindal.
 brenduh.
 danielliaus.
-Paulsylo25.
 sauravsumankumar.
 ashuprince121.
 manrick.
