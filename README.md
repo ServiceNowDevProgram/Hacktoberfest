@@ -216,7 +216,6 @@ brenduh.
 Danmax.
 Paulsylo25.
 manrick.
-Rampriya-S.
 annaydas.
 goranlundqvist.
 ivan-betev.
@@ -228,6 +227,7 @@ rene-el.
 snamjosh.
 fn20200323.
 Iuliak.
+Rampriya-S.
 
 **Top 50% contributors:**
 RaunakScarlet.
