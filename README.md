@@ -183,8 +183,8 @@ Jaspalsinghchot.
 at8807602.
 
 **Top 10% contributors:**
-kmohit2809.
 csharpie.
+kmohit2809.
 Yokesh0811.
 MartinStoyanoff.
 abhrajyotikanrar.
@@ -530,12 +530,12 @@ jonahpiascik.
 soerenmaucher.
 avssrikanth.
 at8807602.
+csharpie.
 davidkwhuang.
 zahidask.
-azeezgaa.
 
 **Top 25% contributors:**
-csharpie.
+azeezgaa.
 DynamiteC.
 shakeel-sheikh.
 vjtknn.
