@@ -183,10 +183,10 @@ csharpie.
 Jaspalsinghchot.
 
 **Top 10% contributors:**
+Abhishekchowdarapu.
 at8807602.
 kmohit2809.
 Yokesh0811.
-Abhishekchowdarapu.
 MartinStoyanoff.
 abhrajyotikanrar.
 eriemer1.
@@ -502,13 +502,13 @@ vandna07.
 PranavBhagat18.
 
 **Top 10% contributors:**
+Abhishekchowdarapu.
 deepak-64742.
 litwi1rm.
 mak1A4.
 mlemartien.
 iar42.
 23Thom.
-Abhishekchowdarapu.
 bird-03.
 chelming.
 hentonjd.
