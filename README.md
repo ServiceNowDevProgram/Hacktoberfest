@@ -259,9 +259,9 @@ bhavyajain511.
 chetnadev.
 chris-canto-11.
 Irston.
+mmaraj1.
 
 **Other contributors:**
-mmaraj1.
 puneet94.
 yuvraj1107thapa.
 am-shakeel.
@@ -347,6 +347,7 @@ banjofrailer.
 belloibrahv.
 bharatr21.
 Bidexdablitz.
+Bsprogrammer28.
 but69.
 chaitanyagummadavelly.
 ChecksumFailed.
@@ -534,9 +535,9 @@ avssrikanth.
 at8807602.
 davidkwhuang.
 zahidask.
+azeezgaa.
 
 **Top 25% contributors:**
-azeezgaa.
 DynamiteC.
 shakeel-sheikh.
 vjtknn.
@@ -852,6 +853,7 @@ Bigshmow.
 billyperkinsukg.
 bmfmancini.
 Brian-Rowland.
+Bsprogrammer28.
 but69.
 celsiogil.
 chaitanyagummadavelly.
