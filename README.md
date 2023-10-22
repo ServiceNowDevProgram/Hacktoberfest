@@ -178,12 +178,12 @@ hentonjd.
 amigujarathi.
 shivamTodwal.
 paigesndev.
+Abhishekchowdarapu.
 ayleeandersen.
 csharpie.
-Jaspalsinghchot.
 
 **Top 10% contributors:**
-Abhishekchowdarapu.
+Jaspalsinghchot.
 at8807602.
 kmohit2809.
 Yokesh0811.
@@ -495,15 +495,15 @@ sychi77.
 RahmanM.
 aykmrgit.
 rafzk.
+Abhishekchowdarapu.
 alikuttyka.
 BadalHub.
 MrChrisE.
 vandna07.
-anillande90.
 
 **Top 10% contributors:**
+anillande90.
 PranavBhagat18.
-Abhishekchowdarapu.
 deepak-64742.
 litwi1rm.
 mak1A4.
