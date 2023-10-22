@@ -249,6 +249,7 @@ jesalynrose.
 Ladirinia.
 MiroslawBuszek.
 pandeysumit-now.
+SrijanPatwa.
 Saileshlanka.
 aykmrgit.
 mockspeed.
@@ -260,16 +261,15 @@ bhavyajain511.
 chetnadev.
 chris-canto-11.
 Irston.
-mmaraj1.
 
 **Other contributors:**
+mmaraj1.
 puneet94.
 yuvraj1107thapa.
 am-shakeel.
 crooks-s.
 johndahl-now.
 RagaChitraMankala.
-SrijanPatwa.
 4bode.
 Avinash238.
 demetris7.
@@ -649,6 +649,7 @@ miracc.
 MiroslawBuszek.
 pandeysumit-now.
 patrickpaterlini.
+SrijanPatwa.
 LucasRocha2308.
 Mahesh-Krishnan1.
 MihirRathod.
@@ -679,7 +680,6 @@ crooks-s.
 Jaskaran-Techno.
 RagaChitraMankala.
 rohantjoshi.
-SrijanPatwa.
 thameemskings.
 
 **Other contributors:**
