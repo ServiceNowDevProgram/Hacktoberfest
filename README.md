@@ -221,6 +221,7 @@ anveshmupparaju.
 goranlundqvist.
 ivan-betev.
 riya-vermaa.
+anillande90.
 gowdah.
 iar42.
 Litwilly.
@@ -228,9 +229,9 @@ mskoddow.
 nthumma.
 rene-el.
 snamjosh.
-fn20200323.
 
 **Top 50% contributors:**
+fn20200323.
 Iuliak.
 Rampriya-S.
 RaunakScarlet.
@@ -238,7 +239,6 @@ soerenmaucher.
 wiresgit.
 chelming.
 RahmanM.
-anillande90.
 NBaker137.
 JonSandoval.
 djunaid.
@@ -496,11 +496,11 @@ sychi77.
 RahmanM.
 aykmrgit.
 rafzk.
+anillande90.
 alikuttyka.
 BadalHub.
 MrChrisE.
 vandna07.
-anillande90.
 
 **Top 10% contributors:**
 PranavBhagat18.
