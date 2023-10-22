@@ -269,6 +269,7 @@ am-shakeel.
 crooks-s.
 johndahl-now.
 RagaChitraMankala.
+SrijanPatwa.
 4bode.
 Avinash238.
 demetris7.
@@ -315,7 +316,6 @@ NicoxNall.
 NK-01.
 noviicee.
 NowSharif.
-SrijanPatwa.
 SruthiSivarajan.
 sudhanshu-77.
 swathinagamahanti.
@@ -679,10 +679,11 @@ crooks-s.
 Jaskaran-Techno.
 RagaChitraMankala.
 rohantjoshi.
+SrijanPatwa.
 thameemskings.
-4bode.
 
 **Other contributors:**
+4bode.
 abhay625.
 ankitshaw625.
 Arpan-InGen.
@@ -794,7 +795,6 @@ noviicee.
 NowSharif.
 ron-karim.
 snowritik.
-SrijanPatwa.
 SruthiSivarajan.
 sudhanshu-77.
 swathinagamahanti.
