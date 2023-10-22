@@ -228,9 +228,9 @@ mskoddow.
 nthumma.
 rene-el.
 snamjosh.
+fn20200323.
 
 **Top 50% contributors:**
-fn20200323.
 Iuliak.
 Rampriya-S.
 RaunakScarlet.
@@ -260,9 +260,9 @@ bhavyajain511.
 chetnadev.
 chris-canto-11.
 Irston.
+mmaraj1.
 
 **Other contributors:**
-mmaraj1.
 puneet94.
 yuvraj1107thapa.
 am-shakeel.
@@ -445,6 +445,7 @@ smoothwood.
 somjyotisinha.
 Sookeyy-12.
 Souradeephazra123.
+SrijanPatwa.
 srirampusuluri1.
 Stevay3.
 subhayudutta.
@@ -1116,6 +1117,7 @@ somusekher.
 Sookeyy-12.
 Soulpancake000.
 Souradeephazra123.
+SrijanPatwa.
 srirampusuluri1.
 Srutip04.
 Stevay3.
