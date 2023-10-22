@@ -332,6 +332,7 @@ Abhi132004.
 abhi5hek001.
 adarshsingh7470.
 ajbuono.
+akmittal.
 alexcasper.
 aman-kumar-004.
 Amitanand0123.
@@ -609,9 +610,9 @@ allenandreas.
 apple9000.
 ashu759.
 briangodfreydev.
+GauthamBellamkonda.
 
 **Top 50% contributors:**
-GauthamBellamkonda.
 odinsride.
 piyusalunke123.
 rene-el.
@@ -681,9 +682,9 @@ Jaskaran-Techno.
 RagaChitraMankala.
 rohantjoshi.
 thameemskings.
+4bode.
 
 **Other contributors:**
-4bode.
 abhay625.
 ankitshaw625.
 Arpan-InGen.
@@ -814,6 +815,7 @@ adarshsingh7470.
 afejzic.
 ajbuono.
 ajithaju15.
+akmittal.
 alexcasper.
 aliceapps.
 aman-kumar-004.
