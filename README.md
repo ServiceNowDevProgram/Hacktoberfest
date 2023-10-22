@@ -209,6 +209,7 @@ sheikhafsarzap.
 Himanshu-skb-oo7.
 sanjivmeher.
 hoederath.
+Rampriya-S.
 almajam.
 aman2519.
 ashoo-jindal.
@@ -228,12 +229,11 @@ iar42.
 Litwilly.
 mskoddow.
 nthumma.
-rene-el.
 
 **Top 50% contributors:**
+rene-el.
 snamjosh.
 fn20200323.
-Rampriya-S.
 Iuliak.
 jeremyrubio27.
 RaunakScarlet.
