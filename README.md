@@ -192,11 +192,11 @@ abhrajyotikanrar.
 eriemer1.
 gregorwmail.
 mady22070.
+TRIGGEREDcoder.
 riya-misra-1.
 ronaldkarim.
 sdgrube2.
 sychi77.
-TRIGGEREDcoder.
 
 **Top 25% contributors:**
 debendu-das.
@@ -549,6 +549,7 @@ MarcMouries.
 abhrajyotikanrar.
 sn-ajb.
 techYESlogyXplorer.
+TRIGGEREDcoder.
 alyaanbasha.
 gregorwmail.
 harishankert.
@@ -557,7 +558,6 @@ mjonssonme.
 nthumma.
 riya-misra-1.
 ronaldkarim.
-TRIGGEREDcoder.
 b1naryst0rm.
 sdgrube2.
 AdilBasha1SAP.
