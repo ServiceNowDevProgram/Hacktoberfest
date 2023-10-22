@@ -233,6 +233,7 @@ snamjosh.
 **Top 50% contributors:**
 fn20200323.
 Iuliak.
+jeremyrubio27.
 Rampriya-S.
 RaunakScarlet.
 soerenmaucher.
@@ -243,7 +244,6 @@ SrijanPatwa.
 NBaker137.
 JonSandoval.
 djunaid.
-jeremyrubio27.
 sonamtiwari8.
 dalestubblefield.
 jesalynrose.
@@ -621,6 +621,7 @@ pratyushasndev.
 homealone07.
 Iamsant.
 Iuliak.
+jeremyrubio27.
 RaunakScarlet.
 Sagar-agarwal.
 wiresgit.
@@ -638,7 +639,6 @@ JonSandoval.
 JWITSM.
 dalestubblefield.
 djunaid.
-jeremyrubio27.
 sonamtiwari8.
 Adiana3308.
 akhoshnood.
