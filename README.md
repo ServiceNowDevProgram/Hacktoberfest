@@ -222,6 +222,7 @@ anveshmupparaju.
 goranlundqvist.
 ivan-betev.
 riya-vermaa.
+SrijanPatwa.
 anillande90.
 gowdah.
 iar42.
@@ -229,9 +230,9 @@ Litwilly.
 mskoddow.
 nthumma.
 rene-el.
-snamjosh.
 
 **Top 50% contributors:**
+snamjosh.
 fn20200323.
 Iuliak.
 jeremyrubio27.
@@ -240,7 +241,6 @@ soerenmaucher.
 wiresgit.
 chelming.
 RahmanM.
-SrijanPatwa.
 NBaker137.
 JonSandoval.
 djunaid.
@@ -609,15 +609,16 @@ goranlundqvist.
 harisnad.
 ivan-betev.
 riya-vermaa.
+SrijanPatwa.
 allenandreas.
 apple9000.
 ashu759.
 briangodfreydev.
 GauthamBellamkonda.
 odinsride.
-piyusalunke123.
 
 **Top 50% contributors:**
+piyusalunke123.
 rene-el.
 rmedved84.
 src107.
@@ -633,7 +634,6 @@ wiresgit.
 yourepicservices.
 ChecksumFailed.
 markroethof.
-SrijanPatwa.
 anguspalmer.
 NBaker137.
 revantKulkarni.
