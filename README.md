@@ -229,9 +229,9 @@ Litwilly.
 mskoddow.
 nthumma.
 rene-el.
+snamjosh.
 
 **Top 50% contributors:**
-snamjosh.
 fn20200323.
 Iuliak.
 jeremyrubio27.
@@ -261,9 +261,9 @@ Alprez.
 bhavyajain511.
 chetnadev.
 chris-canto-11.
+Irston.
 
 **Other contributors:**
-Irston.
 mmaraj1.
 puneet94.
 yuvraj1107thapa.
@@ -346,6 +346,7 @@ Athens0111.
 AvTe.
 Ayushi22-coder.
 azabadaudiya.
+Badal2k23.
 BadalKhojare.
 banjofrailer.
 belloibrahv.
@@ -846,6 +847,7 @@ AvTe.
 aysenuruzunnn.
 Ayushi22-coder.
 azabadaudiya.
+Badal2k23.
 Balamurugan-RR.
 banjofrailer.
 beingfluid.
