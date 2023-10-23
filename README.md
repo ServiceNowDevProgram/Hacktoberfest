@@ -430,6 +430,7 @@ princeofwales88.
 pujitakonjety.
 Rahulpawarb.
 rajubhojane.
+rupam870.
 Sakshi29G.
 sam16vis.
 sanathan-git.
@@ -684,9 +685,9 @@ RagaChitraMankala.
 rohantjoshi.
 thameemskings.
 4bode.
+abhay625.
 
 **Other contributors:**
-abhay625.
 ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
@@ -1086,6 +1087,7 @@ RitheshGit.
 rohi-v.
 RosaAtCoding.
 RoseKonvalinka.
+rupam870.
 rverrips.
 rwhittaker.
 Sakshi29G.
