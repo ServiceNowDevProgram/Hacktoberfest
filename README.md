@@ -467,6 +467,7 @@ venkat-244.
 vijay1379.
 vivekmunda1609.
 VNAGULA117.
+zomsik.
 
 ## Leaderboard (all time):
 
@@ -614,9 +615,9 @@ ashu759.
 briangodfreydev.
 GauthamBellamkonda.
 odinsride.
+piyusalunke123.
 
 **Top 50% contributors:**
-piyusalunke123.
 rene-el.
 rmedved84.
 src107.
@@ -687,9 +688,9 @@ rohantjoshi.
 thameemskings.
 4bode.
 abhay625.
+ankitshaw625.
 
 **Other contributors:**
-ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
@@ -1174,3 +1175,4 @@ wggibson.
 wkbroxton.
 xdisplay.
 youthinkasido.
+zomsik.
