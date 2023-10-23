@@ -197,9 +197,9 @@ riya-misra-1.
 ronaldkarim.
 sdgrube2.
 sychi77.
+debendu-das.
 
 **Top 25% contributors:**
-debendu-das.
 smartcarleen.
 DavidMarcial.
 Jayden-Chiu.
@@ -360,6 +360,7 @@ Collosus1.
 cyberpanda18.
 Daksh-Goel12.
 dan-tracey.
+Daoist-Ye.
 Darrkshade.
 davematz.
 dcord1x.
@@ -884,6 +885,7 @@ Dan-Bladorn-Trimedx.
 dan-tracey.
 DangerousNights.
 danybr0.
+Daoist-Ye.
 Darrkshade.
 DaSilvaThiago.
 davematz.
