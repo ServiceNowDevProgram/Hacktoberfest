@@ -230,9 +230,9 @@ SrijanPatwa.
 gowdah.
 iar42.
 Litwilly.
+nthumma.
 
 **Top 50% contributors:**
-nthumma.
 rene-el.
 snamjosh.
 fn20200323.
@@ -263,9 +263,9 @@ bhavyajain511.
 chris-canto-11.
 Irston.
 mmaraj1.
+puneet94.
 
 **Other contributors:**
-puneet94.
 yuvraj1107thapa.
 crooks-s.
 johndahl-now.
@@ -432,6 +432,7 @@ princeofwales88.
 pujitakonjety.
 Rahulpawarb.
 rajubhojane.
+ReapredatoR.
 rupam870.
 Sakshi29G.
 sam16vis.
@@ -691,9 +692,9 @@ thameemskings.
 4bode.
 abhay625.
 ananthsridhar.
+ankitshaw625.
 
 **Other contributors:**
-ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
@@ -1084,6 +1085,7 @@ ranjithsit.
 raphaelcrv.
 Ravenon.
 Razzzial.
+ReapredatoR.
 remkarthick.
 renjithragil.
 retrokaj.
