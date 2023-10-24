@@ -190,6 +190,7 @@ TRIGGEREDcoder.
 riya-misra-1.
 Yokesh0811.
 MartinStoyanoff.
+Rampriya-S.
 abhrajyotikanrar.
 eriemer1.
 gregorwmail.
@@ -197,10 +198,9 @@ mady22070.
 ronaldkarim.
 sdgrube2.
 sychi77.
-debendu-das.
 
 **Top 25% contributors:**
-Rampriya-S.
+debendu-das.
 smartcarleen.
 DavidMarcial.
 Jayden-Chiu.
@@ -481,8 +481,8 @@ niamccash.
 SapphicFire.
 paigesndev.
 johndahl-now.
-ishaanshoor.
 Rampriya-S.
+ishaanshoor.
 mgopw.
 kmohit2809.
 DavidArthurCole.
