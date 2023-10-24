@@ -271,6 +271,7 @@ crooks-s.
 johndahl-now.
 RagaChitraMankala.
 4bode.
+ananthsridhar.
 Avinash238.
 Badal2k23.
 demetris7.
@@ -339,7 +340,6 @@ alexcasper.
 aman-kumar-004.
 Amitanand0123.
 amrita06-max.
-ananthsridhar.
 ANISHAGHOSHAL.
 Archita-2023.
 Arit-Su.
@@ -689,9 +689,10 @@ rohantjoshi.
 thameemskings.
 4bode.
 abhay625.
-ankitshaw625.
+ananthsridhar.
 
 **Other contributors:**
+ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
@@ -830,7 +831,6 @@ amdhavalikar.
 Amitanand0123.
 amrita06-max.
 Anantharaman91.
-ananthsridhar.
 andreneris.
 andy1717.
 andyops.
