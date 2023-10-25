@@ -263,9 +263,9 @@ bhavyajain511.
 chris-canto-11.
 Irston.
 mmaraj1.
+puneet94.
 
 **Other contributors:**
-puneet94.
 yuvraj1107thapa.
 crooks-s.
 johndahl-now.
@@ -433,6 +433,7 @@ prerna120.
 princeofnubia.
 princeofwales88.
 pujitakonjety.
+QI-XING.
 Rahulpawarb.
 rajubhojane.
 ReapredatoR.
@@ -624,9 +625,9 @@ SrijanPatwa.
 allenandreas.
 apple9000.
 ashu759.
+briangodfreydev.
 
 **Top 50% contributors:**
-briangodfreydev.
 GauthamBellamkonda.
 odinsride.
 piyusalunke123.
@@ -697,9 +698,9 @@ thameemskings.
 4bode.
 abhay625.
 ananthsridhar.
+ankitshaw625.
 
 **Other contributors:**
-ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
@@ -1085,6 +1086,7 @@ ptupe.
 pujitakonjety.
 pupchenko.
 pysanders.
+QI-XING.
 raghava149.
 Rahulpawarb.
 rajeshkumar-2411.
