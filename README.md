@@ -270,6 +270,7 @@ mmaraj1.
 puneet94.
 yuvraj1107thapa.
 crooks-s.
+Haile-08.
 johndahl-now.
 RagaChitraMankala.
 4bode.
@@ -309,7 +310,6 @@ bradtiltonnow.
 cenzo85.
 drk1rd.
 garyditsch.
-Haile-08.
 HariniSnow.
 ishanjain18.
 jaz1gdev.
@@ -692,13 +692,14 @@ sisco0.
 yuvraj1107thapa.
 ashaw7697.
 crooks-s.
+Haile-08.
 Jaskaran-Techno.
 RagaChitraMankala.
 rohantjoshi.
 thameemskings.
-4bode.
 
 **Other contributors:**
+4bode.
 abhay625.
 ananthsridhar.
 ankitshaw625.
@@ -793,7 +794,6 @@ DaiTranIT.
 drk1rd.
 garyditsch.
 gkiratkar1.
-Haile-08.
 HariniSnow.
 himanisinghal.
 ishanjain18.
