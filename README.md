@@ -234,7 +234,6 @@ iar42.
 
 **Top 50% contributors:**
 Litwilly.
-NBaker137.
 nthumma.
 rene-el.
 snamjosh.
@@ -245,6 +244,7 @@ wiresgit.
 chelming.
 RahmanM.
 Badal2k23.
+NBaker137.
 JonSandoval.
 chetnadev.
 djunaid.
@@ -629,7 +629,6 @@ apple9000.
 ashu759.
 briangodfreydev.
 GauthamBellamkonda.
-NBaker137.
 odinsride.
 piyusalunke123.
 rene-el.
@@ -647,6 +646,7 @@ ChecksumFailed.
 markroethof.
 anguspalmer.
 Badal2k23.
+NBaker137.
 revantKulkarni.
 trade12.
 ttoter.
