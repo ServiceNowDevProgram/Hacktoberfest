@@ -268,13 +268,13 @@ puneet94.
 
 **Other contributors:**
 yuvraj1107thapa.
+captainbraddles.
 crooks-s.
 johndahl-now.
 RagaChitraMankala.
 4bode.
 ananthsridhar.
 Avinash238.
-captainbraddles.
 demetris7.
 DhanushNehru.
 HarshMN2345.
@@ -687,14 +687,15 @@ puneet94.
 sisco0.
 yuvraj1107thapa.
 ashaw7697.
+captainbraddles.
 crooks-s.
 Jaskaran-Techno.
 RagaChitraMankala.
 rohantjoshi.
 thameemskings.
-4bode.
 
 **Other contributors:**
+4bode.
 abhay625.
 ananthsridhar.
 ankitshaw625.
@@ -703,7 +704,6 @@ AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
 brichards99.
-captainbraddles.
 Coder0131.
 DaleD-SN.
 deathkraiser.
