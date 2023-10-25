@@ -264,9 +264,9 @@ bhavyajain511.
 chris-canto-11.
 Irston.
 mmaraj1.
+puneet94.
 
 **Other contributors:**
-puneet94.
 yuvraj1107thapa.
 crooks-s.
 johndahl-now.
@@ -355,6 +355,7 @@ bharatr21.
 Bidexdablitz.
 Bsprogrammer28.
 but69.
+captainbraddles.
 chaitanyagummadavelly.
 ChecksumFailed.
 cheshtapathak.
@@ -510,9 +511,9 @@ Abhishekchowdarapu.
 alikuttyka.
 BadalHub.
 MrChrisE.
+vandna07.
 
 **Top 10% contributors:**
-vandna07.
 PranavBhagat18.
 deepak-64742.
 litwi1rm.
@@ -547,9 +548,9 @@ avssrikanth.
 TRIGGEREDcoder.
 at8807602.
 davidkwhuang.
+riya-misra-1.
 
 **Top 25% contributors:**
-riya-misra-1.
 zahidask.
 azeezgaa.
 DynamiteC.
@@ -692,10 +693,10 @@ RagaChitraMankala.
 rohantjoshi.
 thameemskings.
 4bode.
-abhay625.
-ananthsridhar.
 
 **Other contributors:**
+abhay625.
+ananthsridhar.
 ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
@@ -871,6 +872,7 @@ bmfmancini.
 Brian-Rowland.
 Bsprogrammer28.
 but69.
+captainbraddles.
 celsiogil.
 chaitanyagummadavelly.
 chandumishra21.
