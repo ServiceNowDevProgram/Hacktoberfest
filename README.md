@@ -185,8 +185,8 @@ Jaspalsinghchot.
 
 **Top 10% contributors:**
 TRIGGEREDcoder.
-at8807602.
 kmohit2809.
+at8807602.
 riya-misra-1.
 Yokesh0811.
 MartinStoyanoff.
@@ -492,8 +492,8 @@ paigesndev.
 johndahl-now.
 Rampriya-S.
 ishaanshoor.
-mgopw.
 kmohit2809.
+mgopw.
 DavidArthurCole.
 MartinStoyanoff.
 wiz0floyd.
