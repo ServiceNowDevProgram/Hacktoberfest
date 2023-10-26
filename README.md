@@ -247,6 +247,7 @@ RahmanM.
 NBaker137.
 JonSandoval.
 djunaid.
+Haile-08.
 sonamtiwari8.
 bird-03.
 dalestubblefield.
@@ -263,10 +264,9 @@ dadhich-ashish.
 1shabby.
 Alprez.
 bhavyajain511.
-chris-canto-11.
 
 **Other contributors:**
-Haile-08.
+chris-canto-11.
 Irston.
 mmaraj1.
 puneet94.
@@ -657,6 +657,7 @@ JonSandoval.
 JWITSM.
 dalestubblefield.
 djunaid.
+Haile-08.
 sonamtiwari8.
 Adiana3308.
 akhoshnood.
@@ -686,7 +687,6 @@ Alprez.
 bhavyajain511.
 chris-canto-11.
 ewatch.
-Haile-08.
 mmaraj1.
 NayeemKaka.
 puneet94.
