@@ -270,7 +270,6 @@ mmaraj1.
 **Other contributors:**
 puneet94.
 yuvraj1107thapa.
-bird-03.
 crooks-s.
 johndahl-now.
 RagaChitraMankala.
@@ -306,6 +305,7 @@ TVani5.
 abhishek-kumar-91.
 anilvaranasi.
 ayrotideysarkar.
+bird-03.
 bradtiltonnow.
 cenzo85.
 drk1rd.
@@ -523,7 +523,6 @@ vandna07.
 
 **Top 10% contributors:**
 PranavBhagat18.
-bird-03.
 deepak-64742.
 litwi1rm.
 mak1A4.
@@ -532,6 +531,7 @@ hentonjd.
 iar42.
 23Thom.
 aatrey882.
+bird-03.
 chelming.
 salmaniqbal92.
 ayleeandersen.
