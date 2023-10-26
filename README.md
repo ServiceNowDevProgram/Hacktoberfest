@@ -265,9 +265,9 @@ Alprez.
 bhavyajain511.
 chris-canto-11.
 Irston.
+mmaraj1.
 
 **Other contributors:**
-mmaraj1.
 puneet94.
 yuvraj1107thapa.
 bird-03.
@@ -408,6 +408,7 @@ KholoodS.
 KishoreGitRepo.
 kit-t.
 KritiDwivedi.
+kurtzettel.
 lidmaylid.
 madhu1256.
 Maithani-ji.
@@ -1013,6 +1014,7 @@ kit-t.
 KokilaAbeysinghe.
 KritiDwivedi.
 kuldeep3143.
+kurtzettel.
 Lamquocminhhuy.
 LarsAssen.
 Lathasuv.
