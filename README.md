@@ -257,6 +257,7 @@ Saileshlanka.
 aykmrgit.
 mockspeed.
 ynr-ram.
+aatrey882.
 dadhich-ashish.
 1shabby.
 Alprez.
@@ -264,9 +265,9 @@ bhavyajain511.
 chris-canto-11.
 Haile-08.
 Irston.
-mmaraj1.
 
 **Other contributors:**
+mmaraj1.
 puneet94.
 yuvraj1107thapa.
 bird-03.
@@ -290,7 +291,6 @@ S-SuryaPrakash.
 seviceN.
 workpurposeusername.
 wiz0floyd.
-aatrey882.
 ChilloutSenthil.
 Deraged.
 fauverism.
@@ -530,12 +530,12 @@ mlemartien.
 hentonjd.
 iar42.
 23Thom.
+aatrey882.
 chelming.
 salmaniqbal92.
 ayleeandersen.
 mr-swann.
 shivamTodwal.
-aatrey882.
 Danmax.
 hafsa-asif.
 ovarn.
