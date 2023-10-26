@@ -269,6 +269,7 @@ mmaraj1.
 
 **Other contributors:**
 puneet94.
+TVani5.
 yuvraj1107thapa.
 crooks-s.
 johndahl-now.
@@ -300,7 +301,6 @@ djharshit.
 Litaflom.
 outlivo.
 prashantmrshine.
-TVani5.
 4yasu6.
 abhishek-kumar-91.
 anilvaranasi.
@@ -694,6 +694,7 @@ mmaraj1.
 NayeemKaka.
 puneet94.
 sisco0.
+TVani5.
 yuvraj1107thapa.
 ashaw7697.
 crooks-s.
@@ -703,9 +704,9 @@ rohantjoshi.
 thameemskings.
 4bode.
 abhay625.
-ananthsridhar.
 
 **Other contributors:**
+ananthsridhar.
 ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
@@ -783,7 +784,6 @@ nancystodd.
 outlivo.
 prashantmrshine.
 SweetPoodle.
-TVani5.
 158w5a0532.
 4yasu6.
 ab7289.
