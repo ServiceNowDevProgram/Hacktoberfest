@@ -219,6 +219,7 @@ captainbraddles.
 Danmax.
 Paulsylo25.
 chetnadev.
+Haile-08.
 Iuliak.
 manrick.
 RaunakScarlet.
@@ -230,16 +231,15 @@ goranlundqvist.
 ivan-betev.
 riya-vermaa.
 SrijanPatwa.
-gowdah.
 
 **Top 50% contributors:**
+gowdah.
 iar42.
 Litwilly.
 nthumma.
 rene-el.
 snamjosh.
 fn20200323.
-Haile-08.
 jeremyrubio27.
 soerenmaucher.
 wiresgit.
@@ -613,6 +613,7 @@ Paulsylo25.
 sauravsumankumar.
 ashuprince121.
 chetnadev.
+Haile-08.
 Iuliak.
 manrick.
 RaunakScarlet.
@@ -626,9 +627,9 @@ ivan-betev.
 riya-vermaa.
 SrijanPatwa.
 allenandreas.
-apple9000.
 
 **Top 50% contributors:**
+apple9000.
 ashu759.
 briangodfreydev.
 GauthamBellamkonda.
@@ -639,7 +640,6 @@ rmedved84.
 src107.
 fn20200323.
 pratyushasndev.
-Haile-08.
 homealone07.
 Iamsant.
 jeremyrubio27.
