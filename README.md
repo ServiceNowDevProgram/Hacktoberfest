@@ -273,6 +273,7 @@ puneet94.
 yuvraj1107thapa.
 crooks-s.
 johndahl-now.
+QI-XING.
 RagaChitraMankala.
 4bode.
 ananthsridhar.
@@ -286,7 +287,6 @@ Juusoee.
 kaushalbharade.
 ManobhavSachan.
 ovarn.
-QI-XING.
 Ratheshan03.
 S-SuryaPrakash.
 seviceN.
@@ -699,13 +699,14 @@ yuvraj1107thapa.
 ashaw7697.
 crooks-s.
 Jaskaran-Techno.
+QI-XING.
 RagaChitraMankala.
 rohantjoshi.
 thameemskings.
 4bode.
-abhay625.
 
 **Other contributors:**
+abhay625.
 ananthsridhar.
 ankitshaw625.
 Arpan-InGen.
@@ -745,7 +746,6 @@ pavankumar-4.
 physi.
 pratyushmp.
 PreyumKr.
-QI-XING.
 RajputUsman.
 Ratheshan03.
 rawnaldduck.
