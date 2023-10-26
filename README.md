@@ -266,6 +266,7 @@ bhavyajain511.
 chris-canto-11.
 
 **Other contributors:**
+Haile-08.
 Irston.
 mmaraj1.
 puneet94.
@@ -296,7 +297,6 @@ KonvalinkaCodes.
 manoj424.
 brumam.
 djharshit.
-Haile-08.
 Litaflom.
 outlivo.
 prashantmrshine.
@@ -686,6 +686,7 @@ Alprez.
 bhavyajain511.
 chris-canto-11.
 ewatch.
+Haile-08.
 mmaraj1.
 NayeemKaka.
 puneet94.
@@ -699,9 +700,9 @@ rohantjoshi.
 thameemskings.
 4bode.
 abhay625.
-ananthsridhar.
 
 **Other contributors:**
+ananthsridhar.
 ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
@@ -770,7 +771,6 @@ Marll22.
 brumam.
 cenzo85.
 djharshit.
-Haile-08.
 Krishnakant-iv.
 Litaflom.
 lverbeke.
