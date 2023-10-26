@@ -231,9 +231,9 @@ goranlundqvist.
 ivan-betev.
 riya-vermaa.
 SrijanPatwa.
+gowdah.
 
 **Top 50% contributors:**
-gowdah.
 iar42.
 Litwilly.
 nthumma.
@@ -264,9 +264,9 @@ dadhich-ashish.
 1shabby.
 Alprez.
 bhavyajain511.
+chris-canto-11.
 
 **Other contributors:**
-chris-canto-11.
 Irston.
 mmaraj1.
 puneet94.
@@ -430,6 +430,7 @@ OsvaldoCabral.
 parag477.
 PatriciaMaPe.
 Pooja123667.
+ppalaskar.
 prerna120.
 princeofnubia.
 princeofwales88.
@@ -1075,6 +1076,7 @@ petersonferreira.
 PeteSkeet101.
 pimvet.
 Pooja123667.
+ppalaskar.
 Prasannalakshmik.
 Pratyusha418.
 prerna120.
