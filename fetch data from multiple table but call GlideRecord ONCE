@@ -1,0 +1,122 @@
+try {
+            var tablename, query, query2, rel_param_pref1, rel_param_pref2, rel_param;
+            rel_param_pref2 = '';
+            tablename = '';
+            switch (milestone) {
+                case 'Create SAP Record (Businesss Sales Order) for Software':
+                    tablename = 'proc_po';
+                    query = 'u_order_line=' + coli;
+                    rel_param_pref1 = "ZTL2: ";
+                    rel_param = 'u_sap_sales_order_number';
+                    break;
+
+                case 'Create SAP Purchase Order for Software':
+                    tablename = 'proc_po';
+                    query = 'u_order_line=' + coli;
+                    rel_param_pref1 = "PO#: ";
+                    rel_param = 'u_sap_po_number';
+                    break;
+                    // u_sap_po_number is inactive 
+
+                case 'Adding Serial Number':
+                    var gr_coli = new GlideRecord('sn_ind_tmt_orm_order_line_item');
+                    gr_coli.addEncodedQuery('product_specification=9a2eab1df7d2c1105ef541b84851e0ed^top_line_item.sys_id=' + coli);
+                    gr_coli.query();
+                    while (gr_coli.next()) {
+                        var cpe_coli = new GlideRecord('sn_ind_tmt_orm_order_characteristic_value');
+                        cpe_coli.addEncodedQuery('specification.external_id=62002891^characteristic.name=CPE_role^order_line_item=' + gr_coli.sys_id);
+                        cpe_coli.query();
+                        if (cpe_coli.next()) {
+                            if (cpe_coli.getDisplayValue('characteristic_option_value') == 'primary') {
+                                rel_param_pref1 = 'Serial number CPE1#: ';
+                                query = 'characteristic.name=serial_number^specification.external_id=62002891^characteristic_option_value!=NULL^order_line_item=' + gr_coli.sys_id;
+                            } else if (cpe_coli.getDisplayValue('characteristic_option_value') == 'secondary') {
+                                rel_param_pref2 = 'Serial number CPE2#: ';
+                                query2 = 'characteristic.name=serial_number^specification.external_id=62002891^characteristic_option_value!=NULL^order_line_item=' + gr_coli.sys_id;
+                            }
+                        }
+                    }
+                    tablename = 'sn_ind_tmt_orm_order_characteristic_value';
+                    rel_param = 'characteristic_option_value';
+                    break;
+
+                case 'Activate License':
+                    var gr_coli = new GlideRecord('sn_ind_tmt_orm_order_line_item');
+                    gr_coli.addEncodedQuery('product_specification=9a2eab1df7d2c1105ef541b84851e0ed^top_line_item.sys_id=' + coli);
+                    gr_coli.query();
+                    while (gr_coli.next()) {
+                        var cpe_coli = new GlideRecord('sn_ind_tmt_orm_order_characteristic_value');
+                        cpe_coli.addEncodedQuery('specification.external_id=62002891^characteristic.name=CPE_role^order_line_item=' + gr_coli.sys_id);
+                        cpe_coli.query();
+                        if (cpe_coli.next()) {
+                            if (cpe_coli.getDisplayValue('characteristic_option_value') == 'primary') {
+                                rel_param_pref1 = 'License CPE1#: ';
+                                query = 'attribute=SecurityLicenceKey^order_line_item=' + gr_coli.sys_id;
+                            } else if (cpe_coli.getDisplayValue('characteristic_option_value') == 'secondary') {
+                                rel_param_pref2 = 'License CPE2#: ';
+                                query2 = 'attribute=SecurityLicenceKey^order_line_item=' + gr_coli.sys_id;
+                            }
+                        }
+                    }
+                    tablename = 'x_dtbsg_dt_order_m_order_line_item_attribute';
+                    rel_param = 'value';
+                    break;
+
+                case 'Confirm Shipping':
+                    tablename = 'proc_po_item';
+                    query = 'purchase_order.u_order_line.specification.external_id=62002891^purchase_order.u_order_line=' + coli;
+                    rel_param_pref1 = 'Shipping ID: ';
+                    rel_param = 'u_shipping_id';
+                    break;
+
+                case 'Confirm Installation Date':
+                    tablename = 'x_dtbsg_dt_order_m_order_line_item_attribute';
+                    query = 'attribute=ConfirmedInstallationDate^order_line_item=' + coli;
+                    rel_param_pref1 = 'Installation Date: ';
+                    rel_param = 'value';
+                    break;
+
+                case 'Provide Contact Data for Operations Level 2 Team Technician':
+                    tablename = 'x_dtbsg_dt_order_m_order_line_item_attribute';
+                    query = 'attribute=OPSL2TechnicianName^order_line_item=' + coli;
+                    rel_param_pref1 = 'Contact: ';
+                    rel_param = 'value';
+                    break;
+            }
+            var result1 = '',
+                result2 = '',
+                result = [];
+            if (rel_param_pref1 && tablename) {
+                var gr = new GlideRecord(tablename + '');
+                gr.addEncodedQuery(query);
+                gr.query();
+                while (gr.next()) {
+                    if (gr.getDisplayValue(rel_param) != '') {
+                        result1 = rel_param_pref1 + gr.getDisplayValue(rel_param);
+                        result.push(result1);
+                    }
+                }
+            }
+            if (rel_param_pref2) {
+                var gr1 = new GlideRecord(tablename + '');
+                gr1.addEncodedQuery(query2);
+                gr1.query();
+                while (gr1.next()) {
+                    if (gr.getDisplayValue(rel_param) != '') {
+                        result2 = rel_param_pref2 + gr1.getDisplayValue(rel_param);
+                        result.push(result2);
+                    }
+                }
+            }
+            return result;
+
+        } catch (err) {
+            throw errorObj = {
+                "script_include": this.type,
+                "method": "_getRelatedParameter",
+                "source": {},
+                "param": [milestone, coli],
+                "error": JSON.stringify(err)
+            };
+
+        }
