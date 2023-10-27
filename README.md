@@ -185,10 +185,10 @@ kmohit2809.
 
 **Top 10% contributors:**
 Jaspalsinghchot.
+Rampriya-S.
 TRIGGEREDcoder.
 at8807602.
 chetnadev.
-Rampriya-S.
 riya-misra-1.
 Yokesh0811.
 MartinStoyanoff.
@@ -490,8 +490,8 @@ Lacah.
 niamccash.
 SapphicFire.
 paigesndev.
-johndahl-now.
 Rampriya-S.
+johndahl-now.
 ishaanshoor.
 kmohit2809.
 mgopw.
