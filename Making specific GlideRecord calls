@@ -1,0 +1,114 @@
+/**  
+     * @method getRecords
+     * @desc get all rows from given table based on params  
+     * @param {string} table - name of the table to be queried
+     * @param {string} query - encoded query to be used for GlideRecord & GlideRecordSecure API includes also order by condition
+     * @param {string[]} fieldArr - list of field names from table which need to be contained in output each field will be added to the output with value and display value
+     * @param {DT_OM_CONSTANTS.GR.OFFSET_0 | number} offset - position in result set from where to start adding records to the result; requires OrderBy-Condition in query	  
+     * @param {DT_OM_CONSTANTS.GR.LIMIT_DEFAULT | number} limit - maximum number records contained in result
+     * @param {boolean DT_OM_CONSTANTS.GR.SECURE_ON | DT_OM_CONSTANTS.GR.SECURE_OFF} secured - true -> use GlideRecordSecure API / false -> use GlideRecord API
+     * @returns Array of objects containing the values and display values for each field defined in fieldArr alongwith static fields
+     */
+	getRecords: function(table, query, fieldArr, offset, limit, secured) {
+		//set initial values if not given
+		//if no offset is given "0" is taken as default
+
+		try {
+			if (gs.nil(offset)) {
+				offset = DT_OM_CONSTANTS.GR.OFFSET_0;
+			}
+			if (gs.nil(limit)) {
+				limit = DT_OM_CONSTANTS.GR.LIMIT_DEFAULT;
+			}
+			if (gs.nil(query)) {
+				query = "";
+			}
+
+			//set method variables
+			var grTableRecords;
+			var recordsArr = [];
+
+			//check if fieldArr is an object. If yes convert the keys into an array
+			if (typeof fieldArr === 'object' && fieldArr !== null && !Array.isArray(fieldArr)) {
+				fieldArr = Object.keys(fieldArr);
+			}
+
+			//depending on the "secured" value a different Gliderecord Method is choosed
+			if (secured) {
+				grTableRecords = new GlideRecordSecure(table);
+			} else {
+				grTableRecords = new GlideRecord(table);
+			}
+			grTableRecords.addEncodedQuery(query);
+			grTableRecords.setLimit(limit);
+			grTableRecords.chooseWindow(offset, offset + limit);
+			grTableRecords.query();
+		
+			//iterate over given glideRecords
+			while (grTableRecords.next()) {
+				try {
+					var obj = {};
+					//check if there are fields
+					//iterate over fields array to retrieve all the fields that are given for the output
+					for (var field in fieldArr) {
+						//check for use of dotwalking
+						if (!fieldArr[field].includes('.')) {
+							/* Deprecated: Name added and combined displayValue and Value into one object as given in Object Structure for Widgets
+                            	obj[fieldArr[field]] = grTableRecords.getValue(fieldArr[field]);
+                            	obj[fieldArr[field] + "_display_value"] = grTableRecords.getDisplayValue(fieldArr[field]);
+                            */
+							obj[fieldArr[field]] = ({
+								value: grTableRecords.getValue(fieldArr[field]),
+								displayValue: grTableRecords.getDisplayValue(fieldArr[field]),
+								name: fieldArr[field]
+							});
+						} else {
+							/* Deprecated: Name added and combined displayValue and Value into one object as given in Object Structure for Widgets
+							obj[fieldArr[field].replace(/\./g, "_")] = grTableRecords.getElement(fieldArr[field]).toString();
+							obj[fieldArr[field].replace(/\./g, "_") + "_display_value"] = grTableRecords.getDisplayValue(fieldArr[field]);
+                        */
+							obj[fieldArr[field].replace(/\./g, "_")] = ({
+								value: grTableRecords.getElement(fieldArr[field]).toString(),
+								displayValue: grTableRecords.getDisplayValue(fieldArr[field]),
+								name: fieldArr[field]
+							});
+						}
+					}
+					//add sys_id to object
+					obj.sys_id = grTableRecords.getValue('sys_id');
+					recordsArr.push(obj);
+				} catch (e) {
+					throw {
+						"script_include": this.type,
+						"method": "getRecords",
+						"param": [table, query, fieldArr, offset, limit, secured],
+						"source": e,
+						"error": e.message
+					};
+				}
+			}
+			return recordsArr;
+		} catch (ex) {
+			throw {
+				"script_include": this.type,
+				"method": "getRecords",
+				"param": [table, query, fieldArr, offset, limit, secured],
+				"source": ex,
+				"error": ex.message
+			};
+
+
+//calling this function from another script include
+
+ga = <object>.getRecords(
+                        "x_dtbsg_ordertrack_order_milestones",
+                        "customer_order_line_item=" + <value of site> + "^state=" + <state value> + "^ORDERBYsequence",
+                        ["milestone", "state"],
+                        0,
+                        null,
+                        true
+                    );
+//check if ga has records
+                if (ga.length != 0) {
+                   //perform operation
+}
