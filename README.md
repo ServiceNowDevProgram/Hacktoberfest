@@ -270,10 +270,10 @@ Irston.
 **Other contributors:**
 mmaraj1.
 puneet94.
+QI-XING.
 yuvraj1107thapa.
 crooks-s.
 johndahl-now.
-QI-XING.
 RagaChitraMankala.
 4bode.
 ananthsridhar.
@@ -694,12 +694,12 @@ ewatch.
 mmaraj1.
 NayeemKaka.
 puneet94.
+QI-XING.
 sisco0.
 yuvraj1107thapa.
 ashaw7697.
 crooks-s.
 Jaskaran-Techno.
-QI-XING.
 RagaChitraMankala.
 rohantjoshi.
 thameemskings.
