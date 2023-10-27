@@ -251,6 +251,7 @@ djunaid.
 Haile-08.
 mmaraj1.
 sonamtiwari8.
+bird-03.
 dalestubblefield.
 jesalynrose.
 Ladirinia.
@@ -266,13 +267,12 @@ dadhich-ashish.
 Alprez.
 bhavyajain511.
 chris-canto-11.
-Irston.
 
 **Other contributors:**
+Irston.
 puneet94.
 QI-XING.
 yuvraj1107thapa.
-bird-03.
 crooks-s.
 johndahl-now.
 ppalaskar.
@@ -520,13 +520,13 @@ anillande90.
 ayleeandersen.
 Abhishekchowdarapu.
 alikuttyka.
+bird-03.
 BadalHub.
-MrChrisE.
 
 **Top 10% contributors:**
+MrChrisE.
 vandna07.
 PranavBhagat18.
-bird-03.
 deepak-64742.
 litwi1rm.
 mak1A4.
