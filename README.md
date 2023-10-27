@@ -184,8 +184,8 @@ Abhishekchowdarapu.
 Jaspalsinghchot.
 
 **Top 10% contributors:**
-TRIGGEREDcoder.
 kmohit2809.
+TRIGGEREDcoder.
 at8807602.
 chetnadev.
 riya-misra-1.
