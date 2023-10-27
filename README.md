@@ -275,6 +275,7 @@ QI-XING.
 yuvraj1107thapa.
 crooks-s.
 johndahl-now.
+ppalaskar.
 RagaChitraMankala.
 4bode.
 ananthsridhar.
@@ -323,7 +324,6 @@ NicoxNall.
 NK-01.
 noviicee.
 NowSharif.
-ppalaskar.
 rickylarsson.
 SruthiSivarajan.
 sudhanshu-77.
@@ -701,11 +701,12 @@ yuvraj1107thapa.
 ashaw7697.
 crooks-s.
 Jaskaran-Techno.
+ppalaskar.
 RagaChitraMankala.
 rohantjoshi.
-thameemskings.
 
 **Other contributors:**
+thameemskings.
 4bode.
 abhay625.
 ananthsridhar.
@@ -817,7 +818,6 @@ NicoxNall.
 NK-01.
 noviicee.
 NowSharif.
-ppalaskar.
 rickylarsson.
 ron-karim.
 snowritik.
