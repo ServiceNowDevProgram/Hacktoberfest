@@ -232,9 +232,9 @@ riya-vermaa.
 SrijanPatwa.
 Badal2k23.
 gowdah.
+iar42.
 
 **Top 50% contributors:**
-iar42.
 Litwilly.
 nthumma.
 rene-el.
@@ -266,9 +266,9 @@ dadhich-ashish.
 Alprez.
 bhavyajain511.
 chris-canto-11.
+Irston.
 
 **Other contributors:**
-Irston.
 puneet94.
 QI-XING.
 yuvraj1107thapa.
@@ -356,6 +356,7 @@ AutumLeaf.
 AvTe.
 Ayushi22-coder.
 azabadaudiya.
+azeezgaa.
 BadalKhojare.
 banjofrailer.
 belloibrahv.
@@ -557,12 +558,12 @@ soerenmaucher.
 avssrikanth.
 at8807602.
 chetnadev.
-davidkwhuang.
+azeezgaa.
 
 **Top 25% contributors:**
+davidkwhuang.
 riya-misra-1.
 zahidask.
-azeezgaa.
 DynamiteC.
 shakeel-sheikh.
 vjtknn.
