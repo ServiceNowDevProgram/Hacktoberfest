@@ -250,7 +250,6 @@ JonSandoval.
 djunaid.
 Haile-08.
 sonamtiwari8.
-TVani5.
 dalestubblefield.
 jesalynrose.
 Ladirinia.
@@ -266,12 +265,13 @@ dadhich-ashish.
 Alprez.
 bhavyajain511.
 chris-canto-11.
+Irston.
 
 **Other contributors:**
-Irston.
 mmaraj1.
 puneet94.
 QI-XING.
+TVani5.
 yuvraj1107thapa.
 crooks-s.
 johndahl-now.
@@ -663,7 +663,6 @@ dalestubblefield.
 djunaid.
 Haile-08.
 sonamtiwari8.
-TVani5.
 Adiana3308.
 akhoshnood.
 allam1234.
@@ -697,6 +696,7 @@ NayeemKaka.
 puneet94.
 QI-XING.
 sisco0.
+TVani5.
 yuvraj1107thapa.
 ashaw7697.
 crooks-s.
