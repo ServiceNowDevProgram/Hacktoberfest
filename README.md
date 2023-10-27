@@ -243,6 +243,7 @@ fn20200323.
 jeremyrubio27.
 soerenmaucher.
 wiresgit.
+bird-03.
 chelming.
 RahmanM.
 NBaker137.
@@ -251,7 +252,6 @@ djunaid.
 Haile-08.
 mmaraj1.
 sonamtiwari8.
-bird-03.
 dalestubblefield.
 jesalynrose.
 Ladirinia.
@@ -515,13 +515,13 @@ Radhe-Manasa.
 stevezero.
 sychi77.
 RahmanM.
+bird-03.
 aykmrgit.
 rafzk.
 anillande90.
 ayleeandersen.
 Abhishekchowdarapu.
 alikuttyka.
-bird-03.
 BadalHub.
 
 **Top 10% contributors:**
