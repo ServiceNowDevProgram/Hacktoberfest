@@ -235,6 +235,7 @@ Badal2k23.
 gowdah.
 
 **Top 50% contributors:**
+hrichiksite.
 iar42.
 Litwilly.
 nthumma.
@@ -247,7 +248,6 @@ wiresgit.
 chelming.
 RahmanM.
 azeezgaa.
-hrichiksite.
 NBaker137.
 JonSandoval.
 djunaid.
@@ -640,6 +640,7 @@ ashu759.
 Badal2k23.
 briangodfreydev.
 GauthamBellamkonda.
+hrichiksite.
 odinsride.
 piyusalunke123.
 rene-el.
@@ -656,7 +657,6 @@ yourepicservices.
 ChecksumFailed.
 markroethof.
 anguspalmer.
-hrichiksite.
 NBaker137.
 revantKulkarni.
 trade12.
