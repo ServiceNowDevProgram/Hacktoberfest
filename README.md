@@ -557,8 +557,8 @@ TRIGGEREDcoder.
 jiteshmalik.
 jonahpiascik.
 soerenmaucher.
-avssrikanth.
 at8807602.
+avssrikanth.
 chetnadev.
 
 **Top 25% contributors:**
