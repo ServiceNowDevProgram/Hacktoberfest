@@ -199,9 +199,9 @@ mady22070.
 ronaldkarim.
 sdgrube2.
 sychi77.
+debendu-das.
 
 **Top 25% contributors:**
-debendu-das.
 smartcarleen.
 captainbraddles.
 DavidMarcial.
@@ -395,6 +395,7 @@ Harshthakur1825.
 Hasanul-Banna-Himel.
 HauseMasterZ.
 Hemant9993.
+hrichiksite.
 iks1.
 javiervillarreal.
 jdsingh206.
@@ -560,9 +561,9 @@ soerenmaucher.
 at8807602.
 avssrikanth.
 chetnadev.
+davidkwhuang.
 
 **Top 25% contributors:**
-davidkwhuang.
 riya-misra-1.
 zahidask.
 DynamiteC.
@@ -974,6 +975,7 @@ himahk04.
 himavamsi-spec.
 himavamsi8.
 hockdiherdo.
+hrichiksite.
 iks1.
 imaxdvd.
 ishwarighule.
