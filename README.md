@@ -188,12 +188,12 @@ kmohit2809.
 Jaspalsinghchot.
 TRIGGEREDcoder.
 at8807602.
-chetnadev.
 riya-misra-1.
 Yokesh0811.
 MartinStoyanoff.
 abhrajyotikanrar.
 eriemer1.
+chetnadev.
 gregorwmail.
 mady22070.
 ronaldkarim.
@@ -561,11 +561,10 @@ jonahpiascik.
 soerenmaucher.
 at8807602.
 avssrikanth.
-chetnadev.
 davidkwhuang.
+riya-misra-1.
 
 **Top 25% contributors:**
-riya-misra-1.
 zahidask.
 DynamiteC.
 shakeel-sheikh.
@@ -576,6 +575,7 @@ sn-ajb.
 abhrajyotikanrar.
 techYESlogyXplorer.
 alyaanbasha.
+chetnadev.
 gregorwmail.
 harishankert.
 mady22070.
