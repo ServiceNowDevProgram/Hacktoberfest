@@ -259,7 +259,6 @@ jesalynrose.
 Ladirinia.
 MiroslawBuszek.
 pandeysumit-now.
-azeezgaa.
 Saileshlanka.
 aykmrgit.
 mockspeed.
@@ -267,9 +266,9 @@ ynr-ram.
 aatrey882.
 dadhich-ashish.
 1shabby.
+Alprez.
 
 **Other contributors:**
-Alprez.
 bhavyajain511.
 chris-canto-11.
 Irston.
@@ -283,6 +282,7 @@ RagaChitraMankala.
 4bode.
 ananthsridhar.
 Avinash238.
+azeezgaa.
 demetris7.
 DhanushNehru.
 HarshMN2345.
@@ -543,13 +543,13 @@ salmaniqbal92.
 csharpie.
 mr-swann.
 shivamTodwal.
-azeezgaa.
 Danmax.
 hafsa-asif.
 ovarn.
 devinvalencia.
 Jaspalsinghchot.
 mskoddow.
+azeezgaa.
 gowdah.
 danr2c2.
 Litwilly.
