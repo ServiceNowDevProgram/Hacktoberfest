@@ -258,6 +258,7 @@ jesalynrose.
 Ladirinia.
 MiroslawBuszek.
 pandeysumit-now.
+hrichiksite.
 Saileshlanka.
 aykmrgit.
 mockspeed.
@@ -266,9 +267,9 @@ aatrey882.
 dadhich-ashish.
 1shabby.
 Alprez.
-bhavyajain511.
 
 **Other contributors:**
+bhavyajain511.
 chris-canto-11.
 Irston.
 puneet94.
@@ -284,7 +285,6 @@ Avinash238.
 demetris7.
 DhanushNehru.
 HarshMN2345.
-hrichiksite.
 JBscriptsNow.
 Juusoee.
 kaushalbharade.
@@ -678,6 +678,7 @@ miracc.
 MiroslawBuszek.
 pandeysumit-now.
 patrickpaterlini.
+hrichiksite.
 LucasRocha2308.
 Mahesh-Krishnan1.
 MihirRathod.
@@ -708,9 +709,9 @@ ppalaskar.
 RagaChitraMankala.
 rohantjoshi.
 thameemskings.
-4bode.
 
 **Other contributors:**
+4bode.
 abhay625.
 ananthsridhar.
 ankitshaw625.
@@ -728,7 +729,6 @@ dhruvii-powershell.
 dorsy99.
 HarshMN2345.
 hmadhsan.
-hrichiksite.
 iamvpbhaskar.
 igrzhukovich.
 j4rodm.
