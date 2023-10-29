@@ -278,6 +278,7 @@ crooks-s.
 johndahl-now.
 ppalaskar.
 RagaChitraMankala.
+ravichandra1998g.
 4bode.
 ananthsridhar.
 Avinash238.
@@ -290,7 +291,6 @@ kaushalbharade.
 ManobhavSachan.
 ovarn.
 Ratheshan03.
-ravichandra1998g.
 S-SuryaPrakash.
 seviceN.
 workpurposeusername.
@@ -709,10 +709,11 @@ crooks-s.
 Jaskaran-Techno.
 ppalaskar.
 RagaChitraMankala.
+ravichandra1998g.
 rohantjoshi.
-thameemskings.
 
 **Other contributors:**
+thameemskings.
 4bode.
 abhay625.
 ananthsridhar.
@@ -755,7 +756,6 @@ pratyushmp.
 PreyumKr.
 RajputUsman.
 Ratheshan03.
-ravichandra1998g.
 rawnaldduck.
 renuka-rajpuria.
 S-SuryaPrakash.
