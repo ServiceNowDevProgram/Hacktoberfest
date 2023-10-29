@@ -258,6 +258,7 @@ mmaraj1.
 Nikuuuuu.
 ravichandra1998g.
 sonamtiwari8.
+TVani5.
 jesalynrose.
 Ladirinia.
 MiroslawBuszek.
@@ -268,15 +269,14 @@ mockspeed.
 ynr-ram.
 aatrey882.
 dadhich-ashish.
-QI-XING.
 
 **Other contributors:**
+QI-XING.
 1shabby.
 Alprez.
 bhavyajain511.
 chris-canto-11.
 puneet94.
-TVani5.
 yuvraj1107thapa.
 crooks-s.
 RagaChitraMankala.
@@ -675,6 +675,7 @@ mmaraj1.
 Nikuuuuu.
 ravichandra1998g.
 sonamtiwari8.
+TVani5.
 Adiana3308.
 akhoshnood.
 allam1234.
@@ -707,7 +708,6 @@ ewatch.
 NayeemKaka.
 puneet94.
 sisco0.
-TVani5.
 yuvraj1107thapa.
 ashaw7697.
 crooks-s.
