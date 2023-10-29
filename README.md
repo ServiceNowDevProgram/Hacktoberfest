@@ -264,15 +264,15 @@ mockspeed.
 ynr-ram.
 aatrey882.
 dadhich-ashish.
+QI-XING.
 1shabby.
 Alprez.
-bhavyajain511.
 
 **Other contributors:**
+bhavyajain511.
 chris-canto-11.
 Irston.
 puneet94.
-QI-XING.
 yuvraj1107thapa.
 crooks-s.
 johndahl-now.
@@ -691,6 +691,7 @@ TheTreyKyle.
 thisnameissoclever.
 mockspeed.
 dadhich-ashish.
+QI-XING.
 VaishnaviLathkar98.
 1shabby.
 abhilash264.
@@ -700,7 +701,6 @@ chris-canto-11.
 ewatch.
 NayeemKaka.
 puneet94.
-QI-XING.
 sisco0.
 yuvraj1107thapa.
 ashaw7697.
