@@ -223,6 +223,7 @@ ashoo-jindal.
 brenduh.
 Danmax.
 Paulsylo25.
+dalestubblefield.
 hrichiksite.
 Iuliak.
 manrick.
@@ -233,10 +234,9 @@ anveshmupparaju.
 goranlundqvist.
 ivan-betev.
 riya-vermaa.
-SrijanPatwa.
 
 **Top 50% contributors:**
-dalestubblefield.
+SrijanPatwa.
 gowdah.
 iar42.
 Litwilly.
@@ -621,6 +621,7 @@ namrataghorpade.
 almajam.
 ashoo-jindal.
 brenduh.
+dalestubblefield.
 danielliaus.
 Paulsylo25.
 sauravsumankumar.
@@ -632,7 +633,6 @@ RaunakScarlet.
 adarshsingh0205.
 annaydas.
 anveshmupparaju.
-dalestubblefield.
 goranlundqvist.
 harisnad.
 ivan-betev.
