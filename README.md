@@ -268,9 +268,9 @@ dadhich-ashish.
 QI-XING.
 1shabby.
 Alprez.
+bhavyajain511.
 
 **Other contributors:**
-bhavyajain511.
 chris-canto-11.
 Irston.
 puneet94.
@@ -431,6 +431,7 @@ mukeshpandey9.
 napul205.
 natefern.
 newl92.
+Nikuuuuu.
 nuwan94.
 OllyIB.
 omkarvasekar.
@@ -1074,6 +1075,7 @@ neenaSharma1.
 neerajs296.
 Nerdcode.
 newl92.
+Nikuuuuu.
 NoelJarling.
 noyzmaker.
 nuwan94.
