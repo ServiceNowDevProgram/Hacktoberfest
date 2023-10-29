@@ -277,6 +277,7 @@ puneet94.
 yuvraj1107thapa.
 crooks-s.
 johndahl-now.
+Nikuuuuu.
 RagaChitraMankala.
 4bode.
 ananthsridhar.
@@ -324,7 +325,6 @@ Lxn12.
 MaChenChen1211.
 mvarshney99.
 NicoxNall.
-Nikuuuuu.
 NK-01.
 noviicee.
 NowSharif.
@@ -710,12 +710,13 @@ yuvraj1107thapa.
 ashaw7697.
 crooks-s.
 Jaskaran-Techno.
+Nikuuuuu.
 RagaChitraMankala.
 rohantjoshi.
 thameemskings.
-4bode.
 
 **Other contributors:**
+4bode.
 abhay625.
 ananthsridhar.
 ankitshaw625.
@@ -827,7 +828,6 @@ mua35.
 Munnisona.
 mvarshney99.
 NicoxNall.
-Nikuuuuu.
 NK-01.
 noviicee.
 NowSharif.
