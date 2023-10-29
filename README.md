@@ -411,6 +411,7 @@ Kaluzy.
 kanishka-parmar.
 Karan-p-singh.
 Karanyadav7.
+kfrencher.
 khawajaazfar2000.
 KholoodS.
 KishoreGitRepo.
@@ -714,9 +715,9 @@ crooks-s.
 Jaskaran-Techno.
 RagaChitraMankala.
 rohantjoshi.
+thameemskings.
 
 **Other contributors:**
-thameemskings.
 4bode.
 abhay625.
 ananthsridhar.
@@ -1018,6 +1019,7 @@ karthiga8881.
 KayakDK.
 Keagnn.
 kenish12.
+kfrencher.
 KhAhshan.
 khawajaazfar2000.
 khoilu-1512.
