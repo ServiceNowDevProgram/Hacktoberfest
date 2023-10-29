@@ -227,15 +227,16 @@ RaunakScarlet.
 anillande90.
 annaydas.
 anveshmupparaju.
+bird-03.
 goranlundqvist.
 ivan-betev.
 riya-vermaa.
 SrijanPatwa.
 gowdah.
 iar42.
-Litwilly.
 
 **Top 50% contributors:**
+Litwilly.
 nthumma.
 rene-el.
 snamjosh.
@@ -244,7 +245,6 @@ dalestubblefield.
 jeremyrubio27.
 soerenmaucher.
 wiresgit.
-bird-03.
 chelming.
 RahmanM.
 NBaker137.
@@ -516,10 +516,10 @@ urspvs.
 smartcarleen.
 ynr-ram.
 Radhe-Manasa.
+bird-03.
 stevezero.
 sychi77.
 RahmanM.
-bird-03.
 aykmrgit.
 rafzk.
 anillande90.
