@@ -256,6 +256,7 @@ mmaraj1.
 ravichandra1998g.
 sonamtiwari8.
 jesalynrose.
+johndahl-now.
 Ladirinia.
 MiroslawBuszek.
 pandeysumit-now.
@@ -268,15 +269,14 @@ dadhich-ashish.
 QI-XING.
 1shabby.
 Alprez.
-bhavyajain511.
 
 **Other contributors:**
+bhavyajain511.
 chris-canto-11.
 Irston.
 puneet94.
 yuvraj1107thapa.
 crooks-s.
-johndahl-now.
 Nikuuuuu.
 RagaChitraMankala.
 4bode.
