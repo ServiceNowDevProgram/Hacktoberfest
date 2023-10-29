@@ -236,6 +236,7 @@ riya-vermaa.
 SrijanPatwa.
 
 **Top 50% contributors:**
+dalestubblefield.
 gowdah.
 iar42.
 Litwilly.
@@ -243,7 +244,6 @@ nthumma.
 rene-el.
 snamjosh.
 fn20200323.
-dalestubblefield.
 jeremyrubio27.
 Nikuuuuu.
 soerenmaucher.
@@ -632,6 +632,7 @@ RaunakScarlet.
 adarshsingh0205.
 annaydas.
 anveshmupparaju.
+dalestubblefield.
 goranlundqvist.
 harisnad.
 ivan-betev.
@@ -639,9 +640,9 @@ riya-vermaa.
 SrijanPatwa.
 allenandreas.
 apple9000.
-ashu759.
 
 **Top 50% contributors:**
+ashu759.
 briangodfreydev.
 GauthamBellamkonda.
 odinsride.
@@ -649,7 +650,6 @@ piyusalunke123.
 rene-el.
 rmedved84.
 src107.
-dalestubblefield.
 fn20200323.
 pratyushasndev.
 homealone07.
