@@ -255,6 +255,7 @@ djunaid.
 Haile-08.
 Irston.
 mmaraj1.
+Nikuuuuu.
 ravichandra1998g.
 sonamtiwari8.
 jesalynrose.
@@ -268,13 +269,12 @@ ynr-ram.
 aatrey882.
 dadhich-ashish.
 QI-XING.
-1shabby.
 
 **Other contributors:**
+1shabby.
 Alprez.
 bhavyajain511.
 chris-canto-11.
-Nikuuuuu.
 puneet94.
 TVani5.
 yuvraj1107thapa.
@@ -672,6 +672,7 @@ JWITSM.
 djunaid.
 Haile-08.
 mmaraj1.
+Nikuuuuu.
 ravichandra1998g.
 sonamtiwari8.
 Adiana3308.
@@ -704,7 +705,6 @@ bhavyajain511.
 chris-canto-11.
 ewatch.
 NayeemKaka.
-Nikuuuuu.
 puneet94.
 sisco0.
 TVani5.
