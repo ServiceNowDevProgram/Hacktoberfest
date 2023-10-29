@@ -230,12 +230,13 @@ annaydas.
 anveshmupparaju.
 goranlundqvist.
 ivan-betev.
+johndahl-now.
 riya-vermaa.
 SrijanPatwa.
 gowdah.
-iar42.
 
 **Top 50% contributors:**
+iar42.
 Litwilly.
 nthumma.
 rene-el.
@@ -246,7 +247,6 @@ jeremyrubio27.
 soerenmaucher.
 wiresgit.
 chelming.
-johndahl-now.
 RahmanM.
 Badal2k23.
 NBaker137.
