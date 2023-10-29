@@ -185,10 +185,10 @@ Abhishekchowdarapu.
 
 **Top 10% contributors:**
 kmohit2809.
+chetnadev.
 Jaspalsinghchot.
 TRIGGEREDcoder.
 at8807602.
-chetnadev.
 riya-misra-1.
 Yokesh0811.
 MartinStoyanoff.
@@ -546,6 +546,7 @@ shivamTodwal.
 Danmax.
 hafsa-asif.
 ovarn.
+chetnadev.
 devinvalencia.
 Jaspalsinghchot.
 mskoddow.
@@ -560,7 +561,6 @@ jonahpiascik.
 soerenmaucher.
 at8807602.
 avssrikanth.
-chetnadev.
 azeezgaa.
 davidkwhuang.
 
