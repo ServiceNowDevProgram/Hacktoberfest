@@ -231,12 +231,11 @@ goranlundqvist.
 ivan-betev.
 riya-vermaa.
 SrijanPatwa.
-Badal2k23.
 gowdah.
 iar42.
+Litwilly.
 
 **Top 50% contributors:**
-Litwilly.
 nthumma.
 rene-el.
 snamjosh.
@@ -248,6 +247,7 @@ wiresgit.
 bird-03.
 chelming.
 RahmanM.
+Badal2k23.
 NBaker137.
 JonSandoval.
 djunaid.
@@ -641,7 +641,6 @@ apple9000.
 ashu759.
 
 **Top 50% contributors:**
-Badal2k23.
 briangodfreydev.
 GauthamBellamkonda.
 odinsride.
@@ -661,6 +660,7 @@ yourepicservices.
 ChecksumFailed.
 markroethof.
 anguspalmer.
+Badal2k23.
 NBaker137.
 revantKulkarni.
 trade12.
