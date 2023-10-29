@@ -234,9 +234,9 @@ anveshmupparaju.
 goranlundqvist.
 ivan-betev.
 RahmanM.
+riya-vermaa.
 
 **Top 50% contributors:**
-riya-vermaa.
 SrijanPatwa.
 gowdah.
 iar42.
@@ -269,9 +269,9 @@ mockspeed.
 ynr-ram.
 aatrey882.
 dadhich-ashish.
+QI-XING.
 
 **Other contributors:**
-QI-XING.
 1shabby.
 Alprez.
 bhavyajain511.
@@ -427,6 +427,7 @@ Manveer-Pbx1.
 martineskoooo.
 maxigrali.
 Msiva19.
+mtharjo.
 Muhammad-Rebaal.
 Mukeshpandey0286.
 mukeshpandey9.
@@ -1065,6 +1066,7 @@ mpvarmadatla.
 mrdavidgrant.
 MS4X4.
 Msiva19.
+mtharjo.
 mugiwaramenon.
 Muhammad-Rebaal.
 muhjaved.
