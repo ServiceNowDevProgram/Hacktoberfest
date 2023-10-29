@@ -220,6 +220,7 @@ ashoo-jindal.
 brenduh.
 Danmax.
 Paulsylo25.
+hrichiksite.
 Iuliak.
 manrick.
 RaunakScarlet.
@@ -232,7 +233,6 @@ riya-vermaa.
 SrijanPatwa.
 Badal2k23.
 gowdah.
-hrichiksite.
 
 **Top 50% contributors:**
 iar42.
@@ -622,6 +622,7 @@ danielliaus.
 Paulsylo25.
 sauravsumankumar.
 ashuprince121.
+hrichiksite.
 Iuliak.
 manrick.
 RaunakScarlet.
@@ -635,13 +636,12 @@ riya-vermaa.
 SrijanPatwa.
 allenandreas.
 apple9000.
-ashu759.
 
 **Top 50% contributors:**
+ashu759.
 Badal2k23.
 briangodfreydev.
 GauthamBellamkonda.
-hrichiksite.
 odinsride.
 piyusalunke123.
 rene-el.
