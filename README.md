@@ -451,6 +451,7 @@ Rahulpawarb.
 rajubhojane.
 ReapredatoR.
 RooshanSalim.
+rtalreja1997.
 rupam870.
 Sakshi29G.
 sam16vis.
@@ -642,9 +643,9 @@ riya-vermaa.
 SrijanPatwa.
 allenandreas.
 apple9000.
+ashu759.
 
 **Top 50% contributors:**
-ashu759.
 briangodfreydev.
 GauthamBellamkonda.
 odinsride.
@@ -717,9 +718,9 @@ Jaskaran-Techno.
 RagaChitraMankala.
 rohantjoshi.
 thameemskings.
+4bode.
 
 **Other contributors:**
-4bode.
 abhay625.
 ananthsridhar.
 ankitshaw625.
@@ -1130,6 +1131,7 @@ rohi-v.
 RooshanSalim.
 RosaAtCoding.
 RoseKonvalinka.
+rtalreja1997.
 rupam870.
 rverrips.
 rwhittaker.
