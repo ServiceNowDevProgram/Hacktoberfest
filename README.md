@@ -179,14 +179,14 @@ Rampriya-S.
 hentonjd.
 amigujarathi.
 csharpie.
+chetnadev.
 shivamTodwal.
 paigesndev.
-kmohit2809.
 
 **Top 10% contributors:**
+kmohit2809.
 Abhishekchowdarapu.
 TRIGGEREDcoder.
-chetnadev.
 Jaspalsinghchot.
 at8807602.
 riya-misra-1.
@@ -549,11 +549,11 @@ chelming.
 salmaniqbal92.
 csharpie.
 mr-swann.
+chetnadev.
 Irston.
 shivamTodwal.
 TRIGGEREDcoder.
 Danmax.
-chetnadev.
 hafsa-asif.
 ovarn.
 devinvalencia.
