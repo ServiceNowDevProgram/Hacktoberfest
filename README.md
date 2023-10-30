@@ -213,6 +213,7 @@ am-shakeel.
 domuserk.
 johndahl-now.
 sheikhafsarzap.
+Thrizvi.
 Himanshu-skb-oo7.
 mskoddow.
 sanjivmeher.
@@ -234,11 +235,10 @@ anveshmupparaju.
 goranlundqvist.
 ivan-betev.
 RahmanM.
-riya-vermaa.
 
 **Top 50% contributors:**
+riya-vermaa.
 SrijanPatwa.
-Thrizvi.
 gowdah.
 iar42.
 Litwilly.
@@ -618,6 +618,7 @@ jacebenson.
 ReginaldFawcett.
 sheikhafsarzap.
 thorn91.
+Thrizvi.
 Himanshu-skb-oo7.
 sanjivmeher.
 aman2519.
@@ -643,7 +644,6 @@ harisnad.
 ivan-betev.
 riya-vermaa.
 SrijanPatwa.
-Thrizvi.
 allenandreas.
 apple9000.
 
