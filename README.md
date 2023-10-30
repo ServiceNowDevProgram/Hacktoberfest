@@ -286,6 +286,7 @@ RagaChitraMankala.
 akoolarni.
 ananthsridhar.
 Avinash238.
+azeezgaa.
 demetris7.
 DhanushNehru.
 HarshMN2345.
@@ -366,7 +367,6 @@ AutumLeaf.
 AvTe.
 Ayushi22-coder.
 azabadaudiya.
-azeezgaa.
 BadalKhojare.
 banjofrailer.
 belloibrahv.
@@ -561,6 +561,7 @@ ovarn.
 devinvalencia.
 Jaspalsinghchot.
 mskoddow.
+azeezgaa.
 gowdah.
 Thrizvi.
 danr2c2.
@@ -571,10 +572,9 @@ jiteshmalik.
 jonahpiascik.
 soerenmaucher.
 at8807602.
-avssrikanth.
 
 **Top 25% contributors:**
-azeezgaa.
+avssrikanth.
 davidkwhuang.
 riya-misra-1.
 zahidask.
