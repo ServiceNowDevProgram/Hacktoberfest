@@ -228,15 +228,16 @@ hrichiksite.
 Iuliak.
 manrick.
 RaunakScarlet.
+ravichandra1998g.
 anillande90.
 annaydas.
 anveshmupparaju.
 goranlundqvist.
 ivan-betev.
 RahmanM.
-riya-vermaa.
 
 **Top 50% contributors:**
+riya-vermaa.
 SrijanPatwa.
 vk-cloud.
 azeezgaa.
@@ -250,7 +251,6 @@ fn20200323.
 JonSandoval.
 jeremyrubio27.
 Nikuuuuu.
-ravichandra1998g.
 soerenmaucher.
 TVani5.
 wiresgit.
@@ -636,6 +636,7 @@ hrichiksite.
 Iuliak.
 manrick.
 RaunakScarlet.
+ravichandra1998g.
 adarshsingh0205.
 annaydas.
 anveshmupparaju.
@@ -646,9 +647,9 @@ riya-vermaa.
 SrijanPatwa.
 vk-cloud.
 allenandreas.
-apple9000.
 
 **Top 50% contributors:**
+apple9000.
 ashu759.
 briangodfreydev.
 GauthamBellamkonda.
@@ -664,7 +665,6 @@ homealone07.
 Iamsant.
 jeremyrubio27.
 Nikuuuuu.
-ravichandra1998g.
 Sagar-agarwal.
 TVani5.
 wiresgit.
