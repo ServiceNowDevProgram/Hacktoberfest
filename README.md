@@ -225,6 +225,7 @@ aman2519.
 ashoo-jindal.
 brenduh.
 Danmax.
+JonSandoval.
 Paulsylo25.
 dalestubblefield.
 hrichiksite.
@@ -234,9 +235,9 @@ RaunakScarlet.
 anillande90.
 annaydas.
 anveshmupparaju.
-goranlundqvist.
 
 **Top 50% contributors:**
+goranlundqvist.
 ivan-betev.
 RahmanM.
 riya-vermaa.
@@ -249,7 +250,6 @@ nthumma.
 rene-el.
 snamjosh.
 fn20200323.
-JonSandoval.
 jeremyrubio27.
 Nikuuuuu.
 soerenmaucher.
@@ -632,6 +632,7 @@ ashoo-jindal.
 brenduh.
 dalestubblefield.
 danielliaus.
+JonSandoval.
 Paulsylo25.
 sauravsumankumar.
 ashuprince121.
@@ -647,9 +648,9 @@ harisnad.
 ivan-betev.
 riya-vermaa.
 SrijanPatwa.
-vk-cloud.
 
 **Top 50% contributors:**
+vk-cloud.
 allenandreas.
 apple9000.
 ashu759.
@@ -662,7 +663,6 @@ rmedved84.
 src107.
 fn20200323.
 pratyushasndev.
-JonSandoval.
 homealone07.
 Iamsant.
 jeremyrubio27.
