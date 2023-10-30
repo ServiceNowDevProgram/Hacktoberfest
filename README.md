@@ -282,6 +282,7 @@ puneet94.
 yuvraj1107thapa.
 crooks-s.
 RagaChitraMankala.
+sivajyo0803.
 4bode.
 akoolarni.
 ananthsridhar.
@@ -336,7 +337,6 @@ noviicee.
 NowSharif.
 ppalaskar.
 rickylarsson.
-sivajyo0803.
 SruthiSivarajan.
 sudhanshu-77.
 swathinagamahanti.
@@ -722,9 +722,10 @@ crooks-s.
 Jaskaran-Techno.
 RagaChitraMankala.
 rohantjoshi.
-thameemskings.
+sivajyo0803.
 
 **Other contributors:**
+thameemskings.
 4bode.
 abhay625.
 akoolarni.
@@ -845,7 +846,6 @@ NowSharif.
 ppalaskar.
 rickylarsson.
 ron-karim.
-sivajyo0803.
 snowritik.
 SruthiSivarajan.
 sudhanshu-77.
