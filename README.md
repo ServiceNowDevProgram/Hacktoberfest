@@ -182,9 +182,9 @@ amigujarathi.
 csharpie.
 chetnadev.
 paigesndev.
+kmohit2809.
 
 **Top 10% contributors:**
-kmohit2809.
 Abhishekchowdarapu.
 TRIGGEREDcoder.
 Jaspalsinghchot.
@@ -200,9 +200,9 @@ mady22070.
 bird-03.
 ronaldkarim.
 sdgrube2.
+sychi77.
 
 **Top 25% contributors:**
-sychi77.
 debendu-das.
 smartcarleen.
 captainbraddles.
@@ -269,10 +269,10 @@ aykmrgit.
 mockspeed.
 ynr-ram.
 aatrey882.
-dadhich-ashish.
-QI-XING.
 
 **Other contributors:**
+dadhich-ashish.
+QI-XING.
 1shabby.
 Alprez.
 bhavyajain511.
@@ -468,6 +468,7 @@ shreyverma03.
 shridk.
 Shubham2227.
 SinNaveen.
+sivajyo0803.
 sivangbagri.
 sjmeissner.
 smoothwood.
@@ -1164,6 +1165,7 @@ shreyverma03.
 shubham-snc.
 Shubham2227.
 SinNaveen.
+sivajyo0803.
 sivangbagri.
 sjmeissner.
 smoothwood.
