@@ -190,6 +190,7 @@ TRIGGEREDcoder.
 Jaspalsinghchot.
 at8807602.
 riya-misra-1.
+Thrizvi.
 Yokesh0811.
 MartinStoyanoff.
 abhrajyotikanrar.
@@ -198,7 +199,6 @@ gregorwmail.
 mady22070.
 bird-03.
 ronaldkarim.
-Thrizvi.
 sdgrube2.
 
 **Top 25% contributors:**
@@ -575,6 +575,7 @@ azeezgaa.
 **Top 25% contributors:**
 davidkwhuang.
 riya-misra-1.
+Thrizvi.
 zahidask.
 DynamiteC.
 shakeel-sheikh.
@@ -591,7 +592,6 @@ mady22070.
 mjonssonme.
 nthumma.
 ronaldkarim.
-Thrizvi.
 b1naryst0rm.
 sdgrube2.
 AdilBasha1SAP.
