@@ -265,12 +265,13 @@ Ladirinia.
 MiroslawBuszek.
 pandeysumit-now.
 Saileshlanka.
+vk-cloud.
 aykmrgit.
 mockspeed.
 ynr-ram.
-aatrey882.
 
 **Other contributors:**
+aatrey882.
 dadhich-ashish.
 QI-XING.
 1shabby.
@@ -297,7 +298,6 @@ Ratheshan03.
 S-SuryaPrakash.
 seviceN.
 ujjwalprem.
-vk-cloud.
 workpurposeusername.
 wiz0floyd.
 ChilloutSenthil.
@@ -702,6 +702,7 @@ shridk.
 tanu-profile.
 TheTreyKyle.
 thisnameissoclever.
+vk-cloud.
 mockspeed.
 dadhich-ashish.
 QI-XING.
@@ -722,9 +723,9 @@ Jaskaran-Techno.
 RagaChitraMankala.
 rohantjoshi.
 thameemskings.
-4bode.
 
 **Other contributors:**
+4bode.
 abhay625.
 akoolarni.
 ananthsridhar.
@@ -783,7 +784,6 @@ Subhraneel77.
 tomlozano.
 trishitapingolia.
 ujjwalprem.
-vk-cloud.
 workpurposeusername.
 zaidongy.
 jon-lind-sn.
