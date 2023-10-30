@@ -254,6 +254,7 @@ wiresgit.
 chelming.
 Badal2k23.
 NBaker137.
+QI-XING.
 JonSandoval.
 djunaid.
 Haile-08.
@@ -268,7 +269,6 @@ azeezgaa.
 Saileshlanka.
 aykmrgit.
 mockspeed.
-QI-XING.
 
 **Other contributors:**
 ynr-ram.
@@ -674,6 +674,7 @@ Badal2k23.
 NBaker137.
 revantKulkarni.
 trade12.
+QI-XING.
 ttoter.
 AlphaEagle.
 JonSandoval.
@@ -703,7 +704,6 @@ tanu-profile.
 TheTreyKyle.
 thisnameissoclever.
 mockspeed.
-QI-XING.
 dadhich-ashish.
 VaishnaviLathkar98.
 1shabby.
