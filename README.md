@@ -176,11 +176,11 @@ ajcooper72.
 ayleeandersen.
 deepak-64742.
 Rampriya-S.
+shivamTodwal.
 hentonjd.
 amigujarathi.
 csharpie.
 chetnadev.
-shivamTodwal.
 paigesndev.
 
 **Top 10% contributors:**
@@ -540,6 +540,7 @@ vandna07.
 PranavBhagat18.
 litwi1rm.
 mak1A4.
+shivamTodwal.
 mlemartien.
 hentonjd.
 iar42.
@@ -551,7 +552,6 @@ csharpie.
 mr-swann.
 chetnadev.
 Irston.
-shivamTodwal.
 TRIGGEREDcoder.
 Danmax.
 hafsa-asif.
