@@ -239,6 +239,7 @@ RahmanM.
 **Top 50% contributors:**
 riya-vermaa.
 SrijanPatwa.
+Thrizvi.
 vk-cloud.
 azeezgaa.
 gowdah.
@@ -255,7 +256,6 @@ soerenmaucher.
 TVani5.
 wiresgit.
 chelming.
-Thrizvi.
 Badal2k23.
 NBaker137.
 QI-XING.
@@ -646,10 +646,11 @@ harisnad.
 ivan-betev.
 riya-vermaa.
 SrijanPatwa.
+Thrizvi.
 vk-cloud.
-allenandreas.
 
 **Top 50% contributors:**
+allenandreas.
 apple9000.
 ashu759.
 briangodfreydev.
@@ -672,7 +673,6 @@ wiresgit.
 yourepicservices.
 ChecksumFailed.
 markroethof.
-Thrizvi.
 anguspalmer.
 Badal2k23.
 NBaker137.
