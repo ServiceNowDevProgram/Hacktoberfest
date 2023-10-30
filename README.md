@@ -350,6 +350,7 @@ abhi5hek001.
 adarshsingh7470.
 ajbuono.
 akmittal.
+akoolarni.
 alexcasper.
 aman-kumar-004.
 Amitanand0123.
@@ -720,9 +721,9 @@ Jaskaran-Techno.
 RagaChitraMankala.
 rohantjoshi.
 thameemskings.
+4bode.
 
 **Other contributors:**
-4bode.
 abhay625.
 ananthsridhar.
 ankitshaw625.
@@ -862,6 +863,7 @@ afejzic.
 ajbuono.
 ajithaju15.
 akmittal.
+akoolarni.
 alexcasper.
 aliceapps.
 aman-kumar-004.
