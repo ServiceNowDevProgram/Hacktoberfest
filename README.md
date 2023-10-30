@@ -280,6 +280,7 @@ puneet94.
 yuvraj1107thapa.
 crooks-s.
 RagaChitraMankala.
+Thrizvi.
 4bode.
 ananthsridhar.
 Avinash238.
@@ -339,7 +340,6 @@ SweetPoodle.
 techYESlogyXplorer.
 TheSethRose.
 thoffman210.
-Thrizvi.
 vishalbirajdar0712.
 vivekverma18.
 1-23-smy.
@@ -719,9 +719,10 @@ Jaskaran-Techno.
 RagaChitraMankala.
 rohantjoshi.
 thameemskings.
-4bode.
+Thrizvi.
 
 **Other contributors:**
+4bode.
 abhay625.
 ananthsridhar.
 ankitshaw625.
@@ -846,7 +847,6 @@ sudhanshu-77.
 swathinagamahanti.
 TheSethRose.
 thoffman210.
-Thrizvi.
 TonySerN.
 vishalbirajdar0712.
 vivekverma18.
