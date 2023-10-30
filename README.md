@@ -267,12 +267,12 @@ pandeysumit-now.
 Saileshlanka.
 aykmrgit.
 mockspeed.
+QI-XING.
 ynr-ram.
-aatrey882.
 
 **Other contributors:**
+aatrey882.
 dadhich-ashish.
-QI-XING.
 1shabby.
 Alprez.
 bhavyajain511.
@@ -703,8 +703,8 @@ tanu-profile.
 TheTreyKyle.
 thisnameissoclever.
 mockspeed.
-dadhich-ashish.
 QI-XING.
+dadhich-ashish.
 VaishnaviLathkar98.
 1shabby.
 abhilash264.
