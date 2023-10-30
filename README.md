@@ -270,9 +270,9 @@ ynr-ram.
 aatrey882.
 dadhich-ashish.
 QI-XING.
+1shabby.
 
 **Other contributors:**
-1shabby.
 Alprez.
 bhavyajain511.
 chris-canto-11.
@@ -482,6 +482,7 @@ suryakantdubalgunde.
 tedante.
 TheoCantor.
 theotherdebs.
+Thrizvi.
 Timi-2023.
 utk1725.
 v-agnihotri.
@@ -1187,6 +1188,7 @@ TheoCantor.
 theotherdebs.
 thesnowguy.
 thomas-seiberl.
+Thrizvi.
 Timi-2023.
 tosuch.
 toxic-8437.
