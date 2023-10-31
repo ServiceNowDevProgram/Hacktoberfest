@@ -197,13 +197,12 @@ abhrajyotikanrar.
 eriemer1.
 gregorwmail.
 mady22070.
-lakshmikanthgupta.
 ronaldkarim.
 azeezgaa.
 sdgrube2.
+sychi77.
 
 **Top 25% contributors:**
-sychi77.
 debendu-das.
 captainbraddles.
 DavidMarcial.
@@ -214,6 +213,7 @@ am-shakeel.
 bird-03.
 domuserk.
 johndahl-now.
+lakshmikanthgupta.
 sheikhafsarzap.
 Himanshu-skb-oo7.
 mskoddow.
@@ -597,7 +597,6 @@ alyaanbasha.
 gregorwmail.
 harishankert.
 mady22070.
-lakshmikanthgupta.
 mjonssonme.
 nthumma.
 ronaldkarim.
@@ -626,6 +625,7 @@ dean-croaker.
 domuserk.
 HarneetSital.
 jacebenson.
+lakshmikanthgupta.
 ReginaldFawcett.
 sheikhafsarzap.
 thorn91.
