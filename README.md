@@ -235,9 +235,9 @@ RaunakScarlet.
 anillande90.
 annaydas.
 anveshmupparaju.
+goranlundqvist.
 
 **Top 50% contributors:**
-goranlundqvist.
 ivan-betev.
 RahmanM.
 riya-vermaa.
@@ -270,9 +270,9 @@ MiroslawBuszek.
 pandeysumit-now.
 lakshmikanthgupta.
 Saileshlanka.
+aykmrgit.
 
 **Other contributors:**
-aykmrgit.
 mockspeed.
 ynr-ram.
 aatrey882.
@@ -449,6 +449,7 @@ osc99.
 OsvaldoCabral.
 parag477.
 PatriciaMaPe.
+Pavandileep.
 Pooja123667.
 prerna120.
 princeofnubia.
@@ -724,9 +725,9 @@ sisco0.
 yuvraj1107thapa.
 ashaw7697.
 crooks-s.
+Jaskaran-Techno.
 
 **Other contributors:**
-Jaskaran-Techno.
 RagaChitraMankala.
 rohantjoshi.
 sivajyo0803.
@@ -1107,6 +1108,7 @@ ousswx-wx.
 parag477.
 parthpanchal123.
 PatriciaMaPe.
+Pavandileep.
 peteosaz.
 petersonferreira.
 PeteSkeet101.
