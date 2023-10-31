@@ -271,9 +271,9 @@ mockspeed.
 ynr-ram.
 aatrey882.
 dadhich-ashish.
+1shabby.
 
 **Other contributors:**
-1shabby.
 Alprez.
 bhavyajain511.
 chris-canto-11.
@@ -436,6 +436,7 @@ mansikasera.
 Manveer-Pbx1.
 martineskoooo.
 maxigrali.
+mrical.
 Msiva19.
 mtharjo.
 Muhammad-Rebaal.
@@ -652,9 +653,9 @@ goranlundqvist.
 harisnad.
 ivan-betev.
 riya-vermaa.
+SrijanPatwa.
 
 **Top 50% contributors:**
-SrijanPatwa.
 allenandreas.
 apple9000.
 ashu759.
@@ -727,9 +728,9 @@ lakshmikanthgupta.
 RagaChitraMankala.
 rohantjoshi.
 thameemskings.
+Thrizvi.
 
 **Other contributors:**
-Thrizvi.
 vk-cloud.
 4bode.
 abhay625.
@@ -1082,6 +1083,7 @@ mohammedusama.
 mortumus.
 mpvarmadatla.
 mrdavidgrant.
+mrical.
 MS4X4.
 Msiva19.
 mtharjo.
