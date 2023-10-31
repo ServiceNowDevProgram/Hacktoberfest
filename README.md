@@ -181,8 +181,8 @@ shivamTodwal.
 hentonjd.
 amigujarathi.
 csharpie.
-chetnadev.
 paigesndev.
+chetnadev.
 
 **Top 10% contributors:**
 Abhishekchowdarapu.
