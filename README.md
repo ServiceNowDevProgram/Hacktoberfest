@@ -168,8 +168,8 @@ Meet the Hacktoberfest crew who will be maintaining your projects:
 
 **Top 5% contributors:**
 Lacah.
-SapphicFire.
 earlduque.
+SapphicFire.
 niamccash.
 MGOPW.
 ajcooper72.
