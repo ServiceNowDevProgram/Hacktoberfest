@@ -264,6 +264,7 @@ Haile-08.
 sonamtiwari8.
 jesalynrose.
 Ladirinia.
+lakshmikanthgupta.
 pandeysumit-now.
 Saileshlanka.
 ujjwalprem.
@@ -272,9 +273,9 @@ aykmrgit.
 mockspeed.
 ynr-ram.
 aatrey882.
-dadhich-ashish.
 
 **Other contributors:**
+dadhich-ashish.
 1shabby.
 Alprez.
 bhavyajain511.
@@ -282,7 +283,6 @@ chris-canto-11.
 puneet94.
 yuvraj1107thapa.
 crooks-s.
-lakshmikanthgupta.
 RagaChitraMankala.
 Thrizvi.
 vk-cloud.
@@ -698,6 +698,7 @@ allam1234.
 Decoder-Paul.
 jesalynrose.
 Ladirinia.
+lakshmikanthgupta.
 miracc.
 pandeysumit-now.
 patrickpaterlini.
@@ -728,7 +729,6 @@ yuvraj1107thapa.
 ashaw7697.
 crooks-s.
 Jaskaran-Techno.
-lakshmikanthgupta.
 RagaChitraMankala.
 rohantjoshi.
 
