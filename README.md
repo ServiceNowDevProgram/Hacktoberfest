@@ -192,6 +192,7 @@ riya-misra-1.
 at8807602.
 Yokesh0811.
 MartinStoyanoff.
+smartcarleen.
 abhrajyotikanrar.
 eriemer1.
 gregorwmail.
@@ -200,10 +201,9 @@ bird-03.
 ronaldkarim.
 sdgrube2.
 sychi77.
-debendu-das.
 
 **Top 25% contributors:**
-smartcarleen.
+debendu-das.
 captainbraddles.
 DavidMarcial.
 Jayden-Chiu.
@@ -526,8 +526,8 @@ snamjosh.
 sumanthdosapati.
 bird-03.
 eriemer1.
-urspvs.
 smartcarleen.
+urspvs.
 ynr-ram.
 RahmanM.
 Radhe-Manasa.
