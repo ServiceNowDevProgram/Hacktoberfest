@@ -168,8 +168,8 @@ Meet the Hacktoberfest crew who will be maintaining your projects:
 
 **Top 5% contributors:**
 Lacah.
-earlduque.
 SapphicFire.
+earlduque.
 niamccash.
 MGOPW.
 ajcooper72.
@@ -259,7 +259,6 @@ mmaraj1.
 soerenmaucher.
 wiresgit.
 chelming.
-Thrizvi.
 Badal2k23.
 NBaker137.
 djunaid.
@@ -269,6 +268,7 @@ jesalynrose.
 Ladirinia.
 MiroslawBuszek.
 pandeysumit-now.
+Thrizvi.
 Saileshlanka.
 aykmrgit.
 
@@ -679,7 +679,6 @@ wiresgit.
 yourepicservices.
 ChecksumFailed.
 markroethof.
-Thrizvi.
 anguspalmer.
 Badal2k23.
 NBaker137.
@@ -701,6 +700,7 @@ miracc.
 MiroslawBuszek.
 pandeysumit-now.
 patrickpaterlini.
+Thrizvi.
 LucasRocha2308.
 Mahesh-Krishnan1.
 MihirRathod.
