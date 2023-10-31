@@ -260,6 +260,7 @@ MiroslawBuszek.
 Badal2k23.
 NBaker137.
 QI-XING.
+Nikuuuuu.
 djunaid.
 Haile-08.
 sonamtiwari8.
@@ -272,11 +273,10 @@ anubhav-ritolia.
 aykmrgit.
 mockspeed.
 ynr-ram.
-aatrey882.
 
 **Other contributors:**
+aatrey882.
 dadhich-ashish.
-Nikuuuuu.
 1shabby.
 Alprez.
 bhavyajain511.
@@ -690,6 +690,7 @@ QI-XING.
 ttoter.
 AlphaEagle.
 JWITSM.
+Nikuuuuu.
 djunaid.
 Haile-08.
 sonamtiwari8.
@@ -715,7 +716,6 @@ thisnameissoclever.
 ujjwalprem.
 mockspeed.
 dadhich-ashish.
-Nikuuuuu.
 VaishnaviLathkar98.
 1shabby.
 abhilash264.
