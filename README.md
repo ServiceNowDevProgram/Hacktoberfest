@@ -425,6 +425,7 @@ KishoreGitRepo.
 kit-t.
 KritiDwivedi.
 kurtzettel.
+lakshmikanthgupta.
 lidmaylid.
 madhu1256.
 Maithani-ji.
@@ -1044,6 +1045,7 @@ KokilaAbeysinghe.
 KritiDwivedi.
 kuldeep3143.
 kurtzettel.
+lakshmikanthgupta.
 Lamquocminhhuy.
 LarsAssen.
 Lathasuv.
