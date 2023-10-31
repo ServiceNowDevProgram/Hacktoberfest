@@ -269,9 +269,9 @@ MiroslawBuszek.
 pandeysumit-now.
 Saileshlanka.
 aykmrgit.
+mockspeed.
 
 **Other contributors:**
-mockspeed.
 ynr-ram.
 aatrey882.
 dadhich-ashish.
@@ -363,6 +363,7 @@ Archita-2023.
 Arit-Su.
 AritraSadhu.
 Athens0111.
+AudreyLin.
 AutumLeaf.
 AvTe.
 Ayushi22-coder.
@@ -535,9 +536,9 @@ anillande90.
 ayleeandersen.
 Abhishekchowdarapu.
 alikuttyka.
+deepak-64742.
 
 **Top 10% contributors:**
-deepak-64742.
 BadalHub.
 MrChrisE.
 vandna07.
@@ -573,9 +574,9 @@ jonahpiascik.
 soerenmaucher.
 at8807602.
 avssrikanth.
+davidkwhuang.
 
 **Top 25% contributors:**
-davidkwhuang.
 riya-misra-1.
 zahidask.
 DynamiteC.
@@ -722,10 +723,10 @@ ashaw7697.
 crooks-s.
 Jaskaran-Techno.
 RagaChitraMankala.
-rohantjoshi.
-sivajyo0803.
 
 **Other contributors:**
+rohantjoshi.
+sivajyo0803.
 thameemskings.
 4bode.
 abhay625.
@@ -891,6 +892,7 @@ artemis15.
 askarthik.
 Athens0111.
 atipisova.
+AudreyLin.
 AutumLeaf.
 AvTe.
 aysenuruzunnn.
