@@ -188,8 +188,8 @@ chetnadev.
 Abhishekchowdarapu.
 TRIGGEREDcoder.
 Jaspalsinghchot.
-at8807602.
 riya-misra-1.
+at8807602.
 azeezgaa.
 Yokesh0811.
 MartinStoyanoff.
@@ -567,6 +567,7 @@ devinvalencia.
 Jaspalsinghchot.
 mskoddow.
 gowdah.
+riya-misra-1.
 danr2c2.
 Litwilly.
 MRSinghRajat.
@@ -576,10 +577,9 @@ jonahpiascik.
 soerenmaucher.
 at8807602.
 avssrikanth.
-davidkwhuang.
 
 **Top 25% contributors:**
-riya-misra-1.
+davidkwhuang.
 zahidask.
 DynamiteC.
 shakeel-sheikh.
