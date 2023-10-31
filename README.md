@@ -268,10 +268,11 @@ jesalynrose.
 Ladirinia.
 MiroslawBuszek.
 pandeysumit-now.
+lakshmikanthgupta.
 Saileshlanka.
-aykmrgit.
 
 **Other contributors:**
+aykmrgit.
 mockspeed.
 ynr-ram.
 aatrey882.
@@ -294,7 +295,6 @@ HarshMN2345.
 JBscriptsNow.
 Juusoee.
 kaushalbharade.
-lakshmikanthgupta.
 ManobhavSachan.
 ovarn.
 Ratheshan03.
@@ -699,6 +699,7 @@ miracc.
 MiroslawBuszek.
 pandeysumit-now.
 patrickpaterlini.
+lakshmikanthgupta.
 LucasRocha2308.
 Mahesh-Krishnan1.
 MihirRathod.
@@ -723,9 +724,9 @@ sisco0.
 yuvraj1107thapa.
 ashaw7697.
 crooks-s.
-Jaskaran-Techno.
 
 **Other contributors:**
+Jaskaran-Techno.
 RagaChitraMankala.
 rohantjoshi.
 sivajyo0803.
@@ -758,7 +759,6 @@ jordanrogus.
 Juusoee.
 KartikeSingh.
 kaushalbharade.
-lakshmikanthgupta.
 lakshyatyagi24.
 loudigi.
 maialithar.
