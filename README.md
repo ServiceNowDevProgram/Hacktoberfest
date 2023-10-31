@@ -243,7 +243,6 @@ ivan-betev.
 RahmanM.
 riya-vermaa.
 SrijanPatwa.
-Thrizvi.
 gowdah.
 iar42.
 Litwilly.
@@ -258,6 +257,7 @@ soerenmaucher.
 wiresgit.
 chelming.
 MiroslawBuszek.
+Thrizvi.
 Badal2k23.
 NBaker137.
 QI-XING.
@@ -659,7 +659,6 @@ riya-vermaa.
 
 **Top 50% contributors:**
 SrijanPatwa.
-Thrizvi.
 allenandreas.
 apple9000.
 ashu759.
@@ -682,6 +681,7 @@ yourepicservices.
 ChecksumFailed.
 markroethof.
 MiroslawBuszek.
+Thrizvi.
 anguspalmer.
 Badal2k23.
 NBaker137.
