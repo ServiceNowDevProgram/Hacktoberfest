@@ -267,14 +267,15 @@ jesalynrose.
 Ladirinia.
 pandeysumit-now.
 Saileshlanka.
+anubhav-ritolia.
 aykmrgit.
 mockspeed.
 ynr-ram.
 aatrey882.
 dadhich-ashish.
-1shabby.
 
 **Other contributors:**
+1shabby.
 Alprez.
 bhavyajain511.
 chris-canto-11.
@@ -300,7 +301,6 @@ S-SuryaPrakash.
 seviceN.
 ujjwalprem.
 workpurposeusername.
-anubhav-ritolia.
 wiz0floyd.
 ChilloutSenthil.
 Deraged.
@@ -702,6 +702,7 @@ Ladirinia.
 miracc.
 pandeysumit-now.
 patrickpaterlini.
+anubhav-ritolia.
 LucasRocha2308.
 Mahesh-Krishnan1.
 MihirRathod.
@@ -730,15 +731,14 @@ Jaskaran-Techno.
 RagaChitraMankala.
 rohantjoshi.
 thameemskings.
-Thrizvi.
 
 **Other contributors:**
+Thrizvi.
 vk-cloud.
 4bode.
 abhay625.
 ananthsridhar.
 ankitshaw625.
-anubhav-ritolia.
 Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
