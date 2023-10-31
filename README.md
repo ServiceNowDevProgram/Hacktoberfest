@@ -239,7 +239,6 @@ goranlundqvist.
 ivan-betev.
 
 **Top 50% contributors:**
-lakshmikanthgupta.
 RahmanM.
 riya-vermaa.
 SrijanPatwa.
@@ -256,6 +255,7 @@ mmaraj1.
 soerenmaucher.
 wiresgit.
 chelming.
+lakshmikanthgupta.
 MiroslawBuszek.
 Badal2k23.
 NBaker137.
@@ -654,11 +654,10 @@ anveshmupparaju.
 goranlundqvist.
 harisnad.
 ivan-betev.
-lakshmikanthgupta.
 riya-vermaa.
+SrijanPatwa.
 
 **Top 50% contributors:**
-SrijanPatwa.
 allenandreas.
 apple9000.
 ashu759.
@@ -679,6 +678,7 @@ Sagar-agarwal.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
+lakshmikanthgupta.
 markroethof.
 MiroslawBuszek.
 anguspalmer.
