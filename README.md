@@ -280,6 +280,7 @@ chris-canto-11.
 puneet94.
 yuvraj1107thapa.
 crooks-s.
+lakshmikanthgupta.
 RagaChitraMankala.
 Thrizvi.
 vk-cloud.
@@ -327,7 +328,6 @@ jaz1gdev.
 kfrencher.
 kkbrains1.
 Kswierk.
-lakshmikanthgupta.
 Lxn12.
 MaChenChen1211.
 mvarshney99.
@@ -723,12 +723,13 @@ yuvraj1107thapa.
 ashaw7697.
 crooks-s.
 Jaskaran-Techno.
+lakshmikanthgupta.
 RagaChitraMankala.
 rohantjoshi.
 thameemskings.
-Thrizvi.
 
 **Other contributors:**
+Thrizvi.
 vk-cloud.
 4bode.
 abhay625.
@@ -837,7 +838,6 @@ kcimpulse.
 kfrencher.
 kkbrains1.
 Kswierk.
-lakshmikanthgupta.
 LakshmiPrasanna96.
 Lxn12.
 MaChenChen1211.
