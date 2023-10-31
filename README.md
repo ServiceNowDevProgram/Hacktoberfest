@@ -215,7 +215,6 @@ am-shakeel.
 domuserk.
 johndahl-now.
 sheikhafsarzap.
-azeezgaa.
 Himanshu-skb-oo7.
 mskoddow.
 sanjivmeher.
@@ -236,14 +235,15 @@ TVani5.
 anillande90.
 annaydas.
 anveshmupparaju.
+goranlundqvist.
 
 **Top 50% contributors:**
-goranlundqvist.
 ivan-betev.
 RahmanM.
 riya-vermaa.
 SrijanPatwa.
 vk-cloud.
+azeezgaa.
 gowdah.
 iar42.
 lakshmikanthgupta.
@@ -536,14 +536,14 @@ aykmrgit.
 rafzk.
 anillande90.
 ayleeandersen.
-azeezgaa.
 Abhishekchowdarapu.
 alikuttyka.
+BadalHub.
 
 **Top 10% contributors:**
-BadalHub.
 MrChrisE.
 vandna07.
+azeezgaa.
 PranavBhagat18.
 litwi1rm.
 mak1A4.
