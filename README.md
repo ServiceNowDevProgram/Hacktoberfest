@@ -277,7 +277,6 @@ dadhich-ashish.
 Alprez.
 bhavyajain511.
 chris-canto-11.
-Nikuuuuu.
 puneet94.
 yuvraj1107thapa.
 crooks-s.
@@ -313,6 +312,7 @@ brumam.
 CreatorWorkflowsNow.
 djharshit.
 Litaflom.
+Nikuuuuu.
 outlivo.
 prashantmrshine.
 4yasu6.
@@ -717,7 +717,6 @@ bhavyajain511.
 chris-canto-11.
 ewatch.
 NayeemKaka.
-Nikuuuuu.
 puneet94.
 sisco0.
 yuvraj1107thapa.
@@ -727,9 +726,9 @@ Jaskaran-Techno.
 RagaChitraMankala.
 rohantjoshi.
 thameemskings.
+Thrizvi.
 
 **Other contributors:**
-Thrizvi.
 vk-cloud.
 4bode.
 abhay625.
@@ -812,6 +811,7 @@ Litaflom.
 lverbeke.
 mohdzeeshan96.
 nancystodd.
+Nikuuuuu.
 outlivo.
 prashantmrshine.
 SweetPoodle.
