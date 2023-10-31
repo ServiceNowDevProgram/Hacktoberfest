@@ -261,7 +261,6 @@ NBaker137.
 QI-XING.
 djunaid.
 Haile-08.
-Nikuuuuu.
 sonamtiwari8.
 jesalynrose.
 Ladirinia.
@@ -271,15 +270,16 @@ azeezgaa.
 Saileshlanka.
 aykmrgit.
 mockspeed.
+ynr-ram.
 
 **Other contributors:**
-ynr-ram.
 aatrey882.
 dadhich-ashish.
 1shabby.
 Alprez.
 bhavyajain511.
 chris-canto-11.
+Nikuuuuu.
 puneet94.
 yuvraj1107thapa.
 crooks-s.
@@ -689,7 +689,6 @@ AlphaEagle.
 JWITSM.
 djunaid.
 Haile-08.
-Nikuuuuu.
 sonamtiwari8.
 Adiana3308.
 akhoshnood.
@@ -720,6 +719,7 @@ bhavyajain511.
 chris-canto-11.
 ewatch.
 NayeemKaka.
+Nikuuuuu.
 puneet94.
 sisco0.
 yuvraj1107thapa.
