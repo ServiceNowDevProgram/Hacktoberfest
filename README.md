@@ -231,14 +231,15 @@ dalestubblefield.
 hrichiksite.
 Iuliak.
 manrick.
+mmaraj1.
 RaunakScarlet.
 TVani5.
 anillande90.
 annaydas.
 anveshmupparaju.
-goranlundqvist.
 
 **Top 50% contributors:**
+goranlundqvist.
 ivan-betev.
 RahmanM.
 riya-vermaa.
@@ -252,7 +253,6 @@ rene-el.
 snamjosh.
 fn20200323.
 jeremyrubio27.
-mmaraj1.
 soerenmaucher.
 wiresgit.
 chelming.
@@ -646,6 +646,7 @@ ashuprince121.
 hrichiksite.
 Iuliak.
 manrick.
+mmaraj1.
 Munnisona.
 RaunakScarlet.
 TVani5.
@@ -655,9 +656,9 @@ anveshmupparaju.
 goranlundqvist.
 harisnad.
 ivan-betev.
-riya-vermaa.
 
 **Top 50% contributors:**
+riya-vermaa.
 SrijanPatwa.
 allenandreas.
 apple9000.
@@ -674,7 +675,6 @@ pratyushasndev.
 homealone07.
 Iamsant.
 jeremyrubio27.
-mmaraj1.
 Sagar-agarwal.
 wiresgit.
 yourepicservices.
