@@ -195,20 +195,20 @@ Yokesh0811.
 MartinStoyanoff.
 smartcarleen.
 abhrajyotikanrar.
+DavidMarcial.
 eriemer1.
 Irston.
 gregorwmail.
 mady22070.
 bird-03.
-ronaldkarim.
 
 **Top 25% contributors:**
+ronaldkarim.
 azeezgaa.
 sdgrube2.
 sychi77.
 debendu-das.
 captainbraddles.
-DavidMarcial.
 Jayden-Chiu.
 designitsecure.
 ravichandra1998g.
@@ -593,6 +593,7 @@ Yokesh0811.
 MarcMouries.
 sn-ajb.
 abhrajyotikanrar.
+DavidMarcial.
 techYESlogyXplorer.
 alyaanbasha.
 gregorwmail.
@@ -609,7 +610,6 @@ debendu-das.
 phr-nk.
 Vish-X07.
 captainbraddles.
-DavidMarcial.
 Jayden-Chiu.
 OrgovanGeza.
 arhaan2019.
