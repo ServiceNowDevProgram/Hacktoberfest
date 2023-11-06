@@ -227,6 +227,7 @@ brenduh.
 Danmax.
 JonSandoval.
 Paulsylo25.
+chelming.
 dalestubblefield.
 hrichiksite.
 Iuliak.
@@ -237,14 +238,13 @@ TVani5.
 anillande90.
 annaydas.
 anveshmupparaju.
-goranlundqvist.
 
 **Top 50% contributors:**
+goranlundqvist.
 ivan-betev.
 RahmanM.
 riya-vermaa.
 SrijanPatwa.
-chelming.
 gowdah.
 iar42.
 Litwilly.
@@ -552,8 +552,8 @@ alikuttyka.
 BadalHub.
 MrChrisE.
 vandna07.
-PranavBhagat18.
 chelming.
+PranavBhagat18.
 Irston.
 litwi1rm.
 mak1A4.
