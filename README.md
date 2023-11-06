@@ -414,6 +414,7 @@ iamcreed.
 iks1.
 ishanpatil35.
 javiervillarreal.
+JCofman.
 jdsingh206.
 JiyaGupta-cs.
 jkbdtadvisory.
@@ -658,9 +659,9 @@ anveshmupparaju.
 goranlundqvist.
 harisnad.
 ivan-betev.
+riya-vermaa.
 
 **Top 50% contributors:**
-riya-vermaa.
 SrijanPatwa.
 allenandreas.
 anubhav-ritolia.
@@ -734,9 +735,9 @@ Jaskaran-Techno.
 RagaChitraMankala.
 rohantjoshi.
 thameemskings.
+Thrizvi.
 
 **Other contributors:**
-Thrizvi.
 vk-cloud.
 4bode.
 abhay625.
@@ -1021,6 +1022,7 @@ jamiestroud.
 jayeshyadav252.
 jaypalmr.
 jc73uk.
+JCofman.
 jdsingh206.
 Jennylou777.
 JiyaGupta-cs.
