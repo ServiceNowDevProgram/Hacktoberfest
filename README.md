@@ -276,6 +276,7 @@ aatrey882.
 
 **Other contributors:**
 dadhich-ashish.
+wiz0floyd.
 1shabby.
 Alprez.
 bhavyajain511.
@@ -286,7 +287,6 @@ crooks-s.
 RagaChitraMankala.
 Thrizvi.
 vk-cloud.
-wiz0floyd.
 4bode.
 ananthsridhar.
 Avinash238.
@@ -521,8 +521,8 @@ kmohit2809.
 ishaanshoor.
 mgopw.
 DavidArthurCole.
-MartinStoyanoff.
 wiz0floyd.
+MartinStoyanoff.
 R3J3NT.
 amigujarathi.
 ajcooper72.
