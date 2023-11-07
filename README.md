@@ -378,6 +378,7 @@ banjofrailer.
 belloibrahv.
 bharatr21.
 Bidexdablitz.
+bjmfransen.
 Bsprogrammer28.
 but69.
 chaitanyagummadavelly.
@@ -585,9 +586,9 @@ jiteshmalik.
 jonahpiascik.
 soerenmaucher.
 at8807602.
+avssrikanth.
 
 **Top 25% contributors:**
-avssrikanth.
 davidkwhuang.
 zahidask.
 DynamiteC.
@@ -924,6 +925,7 @@ bharatr21.
 Bidexdablitz.
 Bigshmow.
 billyperkinsukg.
+bjmfransen.
 bmfmancini.
 Brian-Rowland.
 Bsprogrammer28.
