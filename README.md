@@ -274,9 +274,9 @@ mockspeed.
 ynr-ram.
 aatrey882.
 dadhich-ashish.
+wiz0floyd.
 
 **Other contributors:**
-wiz0floyd.
 1shabby.
 Alprez.
 bhavyajain511.
@@ -385,6 +385,7 @@ chaitanyagummadavelly.
 ChecksumFailed.
 cheshtapathak.
 Cioraz.
+CObsidien.
 Collosus1.
 cyberpanda18.
 Daksh-Goel12.
@@ -939,6 +940,7 @@ ChristineMayfield.
 ChrRepou.
 Cioraz.
 cnavr.
+CObsidien.
 coderdude207.
 codexpert247.
 Codjam.
