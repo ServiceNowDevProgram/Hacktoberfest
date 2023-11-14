@@ -373,6 +373,7 @@ AutumLeaf.
 AvTe.
 Ayushi22-coder.
 azabadaudiya.
+BAB533.
 BadalKhojare.
 banjofrailer.
 belloibrahv.
@@ -663,9 +664,9 @@ goranlundqvist.
 harisnad.
 ivan-betev.
 riya-vermaa.
+SrijanPatwa.
 
 **Top 50% contributors:**
-SrijanPatwa.
 allenandreas.
 anubhav-ritolia.
 apple9000.
@@ -739,9 +740,9 @@ RagaChitraMankala.
 rohantjoshi.
 thameemskings.
 Thrizvi.
+vk-cloud.
 
 **Other contributors:**
-vk-cloud.
 4bode.
 abhay625.
 ananthsridhar.
@@ -913,6 +914,7 @@ AvTe.
 aysenuruzunnn.
 Ayushi22-coder.
 azabadaudiya.
+BAB533.
 Balamurugan-RR.
 banjofrailer.
 beingfluid.
