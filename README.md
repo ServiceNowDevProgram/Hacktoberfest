@@ -269,12 +269,12 @@ MiroslawBuszek.
 pandeysumit-now.
 Saileshlanka.
 ujjwalprem.
+wiz0floyd.
 aykmrgit.
 mockspeed.
 ynr-ram.
 aatrey882.
 dadhich-ashish.
-wiz0floyd.
 
 **Other contributors:**
 1shabby.
