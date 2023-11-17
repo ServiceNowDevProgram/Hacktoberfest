@@ -238,9 +238,9 @@ TVani5.
 anillande90.
 annaydas.
 anveshmupparaju.
+goranlundqvist.
 
 **Top 50% contributors:**
-goranlundqvist.
 ivan-betev.
 RahmanM.
 riya-vermaa.
@@ -275,9 +275,9 @@ mockspeed.
 ynr-ram.
 aatrey882.
 dadhich-ashish.
+1shabby.
 
 **Other contributors:**
-1shabby.
 Alprez.
 bhavyajain511.
 chris-canto-11.
@@ -476,6 +476,7 @@ sam16vis.
 sanathan-git.
 sankar-coder.
 Santosh-kumar01.
+sarath-patoju.
 scervv.
 SeaBri.
 sergelouie6.
@@ -1177,6 +1178,7 @@ sanathan-git.
 sankar-coder.
 SanketJ29.
 Santosh-kumar01.
+sarath-patoju.
 Sarita3012.
 sasukepatel.
 Saumyaup11.
