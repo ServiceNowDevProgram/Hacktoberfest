@@ -506,6 +506,7 @@ Timi-2023.
 utk1725.
 v-agnihotri.
 Vaibhav91one.
+VarAti.
 venkat-244.
 vijay1379.
 vivekmunda1609.
@@ -742,9 +743,9 @@ rohantjoshi.
 thameemskings.
 Thrizvi.
 vk-cloud.
+4bode.
 
 **Other contributors:**
-4bode.
 abhay625.
 ananthsridhar.
 ankitshaw625.
@@ -1238,6 +1239,7 @@ v-agnihotri.
 Vaibhav91one.
 vaishakbkj-ml.
 VanWeapon.
+VarAti.
 venkat-244.
 VictorAlbergaria.
 vigneshmc.
