@@ -276,9 +276,9 @@ ynr-ram.
 aatrey882.
 dadhich-ashish.
 1shabby.
+Alprez.
 
 **Other contributors:**
-Alprez.
 bhavyajain511.
 chris-canto-11.
 puneet94.
@@ -500,6 +500,7 @@ subhayudutta.
 SudhirG007.
 sumitkandpal3.
 suryakantdubalgunde.
+SwarnadeepNandy.
 tedante.
 TheoCantor.
 theotherdebs.
@@ -1220,6 +1221,7 @@ sunnyt107.
 suryakantdubalgunde.
 suryakantshoor.
 sushil-now.
+SwarnadeepNandy.
 TamByrd.
 tedante.
 TheoCantor.
