@@ -392,6 +392,7 @@ Collosus1.
 cyberpanda18.
 Daksh-Goel12.
 dan-tracey.
+danclausen.
 Daoist-Ye.
 Darrkshade.
 davematz.
@@ -668,9 +669,9 @@ harisnad.
 ivan-betev.
 riya-vermaa.
 SrijanPatwa.
+allenandreas.
 
 **Top 50% contributors:**
-allenandreas.
 anubhav-ritolia.
 apple9000.
 ashu759.
@@ -745,9 +746,9 @@ thameemskings.
 Thrizvi.
 vk-cloud.
 4bode.
+abhay625.
 
 **Other contributors:**
-abhay625.
 ananthsridhar.
 ankitshaw625.
 Arpan-InGen.
@@ -960,6 +961,7 @@ Daksh-Goel12.
 Damilare1212.
 Dan-Bladorn-Trimedx.
 dan-tracey.
+danclausen.
 DangerousNights.
 danybr0.
 Daoist-Ye.
