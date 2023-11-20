@@ -275,9 +275,9 @@ mockspeed.
 ynr-ram.
 aatrey882.
 dadhich-ashish.
+1shabby.
 
 **Other contributors:**
-1shabby.
 Alprez.
 bhavyajain511.
 chris-canto-11.
@@ -386,6 +386,7 @@ bjmfransen.
 Bsprogrammer28.
 but69.
 chaitanyagummadavelly.
+CharanjeetSi.
 ChecksumFailed.
 cheshtapathak.
 Cioraz.
@@ -945,6 +946,7 @@ but69.
 celsiogil.
 chaitanyagummadavelly.
 chandumishra21.
+CharanjeetSi.
 Charlesemesobum.
 cheshtapathak.
 ChristineMayfield.
