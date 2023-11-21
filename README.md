@@ -403,6 +403,7 @@ dcord1x.
 derHundOida.
 developmentpark.
 devendra175151.
+dh3bp.
 Dhar45.
 DinithiG.
 ekta4es31.
@@ -557,9 +558,9 @@ anillande90.
 ayleeandersen.
 Abhishekchowdarapu.
 alikuttyka.
+BadalHub.
 
 **Top 10% contributors:**
-BadalHub.
 MrChrisE.
 vandna07.
 chelming.
@@ -596,9 +597,9 @@ jonahpiascik.
 soerenmaucher.
 at8807602.
 avssrikanth.
+davidkwhuang.
 
 **Top 25% contributors:**
-davidkwhuang.
 zahidask.
 DynamiteC.
 shakeel-sheikh.
@@ -749,10 +750,10 @@ thameemskings.
 Thrizvi.
 vk-cloud.
 4bode.
-abhay625.
-ananthsridhar.
 
 **Other contributors:**
+abhay625.
+ananthsridhar.
 ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
@@ -981,6 +982,7 @@ derHundOida.
 developmentpark.
 devendra175151.
 DFanso.
+dh3bp.
 dhadwal.
 Dhar45.
 diasjp.
