@@ -239,9 +239,9 @@ anillande90.
 annaydas.
 anveshmupparaju.
 goranlundqvist.
+ivan-betev.
 
 **Top 50% contributors:**
-ivan-betev.
 RahmanM.
 riya-vermaa.
 SrijanPatwa.
@@ -276,9 +276,9 @@ ynr-ram.
 aatrey882.
 dadhich-ashish.
 1shabby.
+Alprez.
 
 **Other contributors:**
-Alprez.
 bhavyajain511.
 chris-canto-11.
 puneet94.
@@ -358,6 +358,7 @@ vivekverma18.
 23Thom.
 Abhi132004.
 abhi5hek001.
+abuhaidar61.
 adarshsingh7470.
 Ahkonn.
 ajbuono.
@@ -890,6 +891,7 @@ aaron-howard.
 Abhi132004.
 abhi5hek001.
 AbServicenow.
+abuhaidar61.
 acdigitalclarity.
 adarshsingh7470.
 afejzic.
