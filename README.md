@@ -368,6 +368,7 @@ alexcasper.
 aman-kumar-004.
 Amitanand0123.
 amrita06-max.
+andersonvale78.
 ANISHAGHOSHAL.
 Archita-2023.
 Arit-Su.
@@ -677,9 +678,9 @@ ivan-betev.
 riya-vermaa.
 SrijanPatwa.
 allenandreas.
+anubhav-ritolia.
 
 **Top 50% contributors:**
-anubhav-ritolia.
 apple9000.
 ashu759.
 briangodfreydev.
@@ -754,9 +755,9 @@ Thrizvi.
 vk-cloud.
 4bode.
 abhay625.
+ananthsridhar.
 
 **Other contributors:**
-ananthsridhar.
 ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
@@ -909,6 +910,7 @@ amdhavalikar.
 Amitanand0123.
 amrita06-max.
 Anantharaman91.
+andersonvale78.
 andreneris.
 andy1717.
 andyops.
