@@ -756,9 +756,9 @@ vk-cloud.
 4bode.
 abhay625.
 ananthsridhar.
+ankitshaw625.
 
 **Other contributors:**
-ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
@@ -997,6 +997,7 @@ diasjp.
 Dimuthu7.
 DinithiG.
 DirkRedeker.
+dk5ax.
 drizzlt.
 DudeDrew.
 eduard-nitoi.
