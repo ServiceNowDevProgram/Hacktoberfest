@@ -679,9 +679,9 @@ riya-vermaa.
 SrijanPatwa.
 allenandreas.
 anubhav-ritolia.
+apple9000.
 
 **Top 50% contributors:**
-apple9000.
 ashu759.
 briangodfreydev.
 GauthamBellamkonda.
@@ -757,9 +757,9 @@ vk-cloud.
 abhay625.
 ananthsridhar.
 ankitshaw625.
+Arpan-InGen.
 
 **Other contributors:**
-Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
@@ -1069,6 +1069,7 @@ justSNaccount.
 kainturar.
 Kaluzy.
 kalyans12.
+Kamstrup-ServiceNow.
 kanishka-parmar.
 Karan-p-singh.
 Karanyadav7.
