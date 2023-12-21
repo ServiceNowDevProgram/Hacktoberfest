@@ -602,9 +602,9 @@ soerenmaucher.
 at8807602.
 avssrikanth.
 davidkwhuang.
+zahidask.
 
 **Top 25% contributors:**
-zahidask.
 DynamiteC.
 shakeel-sheikh.
 vjtknn.
@@ -1265,6 +1265,7 @@ v-agnihotri.
 Vaibhav91one.
 vaishakbkj-ml.
 VanWeapon.
+varunasuresh92.
 venkat-244.
 VictorAlbergaria.
 vigneshmc.
