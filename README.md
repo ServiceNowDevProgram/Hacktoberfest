@@ -325,9 +325,9 @@ SrijanPatwa.
 allenandreas.
 anubhav-ritolia.
 apple9000.
+ashu759.
 
 **Top 50% contributors:**
-ashu759.
 briangodfreydev.
 GauthamBellamkonda.
 odinsride.
@@ -403,9 +403,9 @@ abhay625.
 ananthsridhar.
 ankitshaw625.
 Arpan-InGen.
+AryanBarsaiyan.
 
 **Other contributors:**
-AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
 brichards99.
@@ -869,6 +869,7 @@ shubham-snc.
 Shubham2227.
 SinNaveen.
 sivangbagri.
+sixstatdad.
 sjmeissner.
 smoothwood.
 snehauj.
