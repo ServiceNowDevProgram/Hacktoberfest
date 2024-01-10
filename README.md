@@ -404,9 +404,9 @@ ananthsridhar.
 ankitshaw625.
 Arpan-InGen.
 AryanBarsaiyan.
+ashleysnyder.
 
 **Other contributors:**
-ashleysnyder.
 Avinash238.
 brichards99.
 Chouffy.
@@ -721,6 +721,7 @@ kanishka-parmar.
 Karan-p-singh.
 Karanyadav7.
 KarelMusa.
+KarelSyrovatka.
 Karthick986.
 karthiga8881.
 KayakDK.
