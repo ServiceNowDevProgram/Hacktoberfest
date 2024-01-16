@@ -207,12 +207,12 @@ anillande90.
 ayleeandersen.
 Abhishekchowdarapu.
 alikuttyka.
-BadalHub.
+chelming.
 
 **Top 10% contributors:**
+BadalHub.
 MrChrisE.
 vandna07.
-chelming.
 PranavBhagat18.
 Irston.
 litwi1rm.
