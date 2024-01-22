@@ -406,9 +406,9 @@ Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
+brichards99.
 
 **Other contributors:**
-brichards99.
 Chouffy.
 Coder0131.
 DaleD-SN.
@@ -672,6 +672,7 @@ GouthamSG.
 Gowthammadhusuthanan067.
 greenc123.
 greencarlos.
+GTKsnow.
 GuisseMaabo.
 HackoDev1530.
 han-le.
