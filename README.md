@@ -407,9 +407,9 @@ AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
 brichards99.
+Chouffy.
 
 **Other contributors:**
-Chouffy.
 Coder0131.
 DaleD-SN.
 deathkraiser.
@@ -920,6 +920,7 @@ Tramblay.
 TreasuryDigitalApps.
 troat9824.
 tsicot.
+Turbo-Javax.
 tylerteter.
 utk1725.
 v-agnihotri.
