@@ -328,9 +328,9 @@ apple9000.
 ashu759.
 briangodfreydev.
 GauthamBellamkonda.
+odinsride.
 
 **Top 50% contributors:**
-odinsride.
 piyusalunke123.
 rene-el.
 rmedved84.
@@ -408,9 +408,9 @@ ashleysnyder.
 Avinash238.
 brichards99.
 Chouffy.
+Coder0131.
 
 **Other contributors:**
-Coder0131.
 DaleD-SN.
 deathkraiser.
 demetris7.
@@ -646,6 +646,7 @@ Dhar45.
 diasjp.
 Dimuthu7.
 DinithiG.
+Diogo-Ramos.
 DirkRedeker.
 dk5ax.
 drizzlt.
