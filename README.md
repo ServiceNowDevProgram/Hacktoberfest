@@ -249,9 +249,9 @@ avssrikanth.
 davidkwhuang.
 zahidask.
 DynamiteC.
+shakeel-sheikh.
 
 **Top 25% contributors:**
-shakeel-sheikh.
 vjtknn.
 Yokesh0811.
 MarcMouries.
@@ -667,6 +667,7 @@ fisikos.
 flab-io.
 Flashdevp95.
 fredosborne.
+Gayathrichennaioutlook.
 Geraldf.
 gh0stxplt.
 GiovanniPeretti.
