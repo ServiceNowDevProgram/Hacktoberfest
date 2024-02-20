@@ -329,9 +329,9 @@ ashu759.
 briangodfreydev.
 GauthamBellamkonda.
 odinsride.
+piyusalunke123.
 
 **Top 50% contributors:**
-piyusalunke123.
 rene-el.
 rmedved84.
 src107.
@@ -409,9 +409,9 @@ Avinash238.
 brichards99.
 Chouffy.
 Coder0131.
+DaleD-SN.
 
 **Other contributors:**
-DaleD-SN.
 deathkraiser.
 demetris7.
 DhanushNehru.
@@ -949,4 +949,5 @@ wggibson.
 wkbroxton.
 xdisplay.
 youthinkasido.
+Zephyre195.
 zomsik.
