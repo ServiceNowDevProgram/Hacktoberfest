@@ -538,6 +538,7 @@ VarAti.
 varunasuresh92.
 vishalbirajdar0712.
 vivekverma18.
+Zephyre195.
 0x3developer.
 1-23-smy.
 aaron-howard.
@@ -949,5 +950,4 @@ wggibson.
 wkbroxton.
 xdisplay.
 youthinkasido.
-Zephyre195.
 zomsik.
