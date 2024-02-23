@@ -410,9 +410,9 @@ brichards99.
 Chouffy.
 Coder0131.
 DaleD-SN.
+deathkraiser.
 
 **Other contributors:**
-deathkraiser.
 demetris7.
 DhanushNehru.
 dhruvii-powershell.
@@ -651,6 +651,7 @@ DinithiG.
 Diogo-Ramos.
 DirkRedeker.
 dk5ax.
+dominikhycnar.
 drizzlt.
 DudeDrew.
 eduard-nitoi.
