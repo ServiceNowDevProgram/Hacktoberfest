@@ -330,9 +330,9 @@ briangodfreydev.
 GauthamBellamkonda.
 odinsride.
 piyusalunke123.
+rene-el.
 
 **Top 50% contributors:**
-rene-el.
 rmedved84.
 src107.
 fn20200323.
@@ -411,9 +411,9 @@ Chouffy.
 Coder0131.
 DaleD-SN.
 deathkraiser.
+demetris7.
 
 **Other contributors:**
-demetris7.
 DhanushNehru.
 dhruvii-powershell.
 dorsy99.
@@ -908,6 +908,7 @@ Stevay3.
 SteveMunsell.
 subhayudutta.
 SudhirG007.
+sudnep.
 sumitkandpal3.
 sunnyt107.
 suryakantdubalgunde.
