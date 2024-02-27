@@ -412,9 +412,9 @@ Coder0131.
 DaleD-SN.
 deathkraiser.
 demetris7.
+DhanushNehru.
 
 **Other contributors:**
-DhanushNehru.
 dhruvii-powershell.
 dorsy99.
 HarshMN2345.
@@ -741,6 +741,7 @@ KayakDK.
 kdinesh26.
 Keagnn.
 kenish12.
+kevintor.
 KhAhshan.
 khawajaazfar2000.
 khoilu-1512.
