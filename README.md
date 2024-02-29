@@ -209,9 +209,9 @@ ayleeandersen.
 Abhishekchowdarapu.
 alikuttyka.
 BadalHub.
+MrChrisE.
 
 **Top 10% contributors:**
-MrChrisE.
 vandna07.
 PranavBhagat18.
 Irston.
@@ -250,9 +250,9 @@ davidkwhuang.
 zahidask.
 DynamiteC.
 shakeel-sheikh.
+vjtknn.
 
 **Top 25% contributors:**
-vjtknn.
 Yokesh0811.
 MarcMouries.
 sn-ajb.
@@ -411,10 +411,10 @@ Chouffy.
 Coder0131.
 DaleD-SN.
 deathkraiser.
-demetris7.
-DhanushNehru.
 
 **Other contributors:**
+demetris7.
+DhanushNehru.
 dhruvii-powershell.
 dorsy99.
 HarshMN2345.
@@ -921,6 +921,7 @@ SwarnadeepNandy.
 TamByrd.
 techspark77.
 tedante.
+telbir.
 TheoCantor.
 theotherdebs.
 thesnowguy.
