@@ -411,9 +411,9 @@ Chouffy.
 Coder0131.
 DaleD-SN.
 deathkraiser.
+demetris7.
 
 **Other contributors:**
-demetris7.
 DhanushNehru.
 dhruvii-powershell.
 dorsy99.
@@ -812,6 +812,7 @@ NoelJarling.
 noyzmaker.
 nuwan94.
 nvprav.
+ocl-gustavo.
 Ogre86.
 OllyIB.
 omkarvasekar.
