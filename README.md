@@ -413,9 +413,9 @@ DaleD-SN.
 deathkraiser.
 demetris7.
 DhanushNehru.
+dhruvii-powershell.
 
 **Other contributors:**
-dhruvii-powershell.
 dorsy99.
 HarshMN2345.
 hmadhsan.
@@ -769,6 +769,7 @@ lianskaya.
 lidmaylid.
 liyAGHORI.
 LoicSanchez.
+lucas-especta.
 Luci-git.
 LuisSepulveda21.
 m2santiago.
