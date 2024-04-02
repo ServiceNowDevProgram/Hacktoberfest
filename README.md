@@ -251,9 +251,9 @@ zahidask.
 DynamiteC.
 shakeel-sheikh.
 vjtknn.
+Yokesh0811.
 
 **Top 25% contributors:**
-Yokesh0811.
 MarcMouries.
 sn-ajb.
 abhrajyotikanrar.
@@ -626,6 +626,7 @@ CObsidien.
 coderdude207.
 codexpert247.
 Codjam.
+colinschlecht.
 Collosus1.
 Coolaxx.
 Crankzaton.
