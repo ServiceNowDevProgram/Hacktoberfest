@@ -416,9 +416,9 @@ DhanushNehru.
 dhruvii-powershell.
 dorsy99.
 HarshMN2345.
+hmadhsan.
 
 **Other contributors:**
-hmadhsan.
 iamvpbhaskar.
 igrzhukovich.
 j4rodm.
@@ -612,6 +612,7 @@ Bsprogrammer28.
 but69.
 celsiogil.
 chaitanyagummadavelly.
+ChaitanyaKiran14.
 chalamalamahesh.
 chandumishra21.
 CharanjeetSi.
