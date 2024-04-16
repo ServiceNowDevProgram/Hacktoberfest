@@ -334,9 +334,9 @@ rene-el.
 rmedved84.
 src107.
 fn20200323.
+pratyushasndev.
 
 **Top 50% contributors:**
-pratyushasndev.
 homealone07.
 Iamsant.
 jeremyrubio27.
@@ -417,9 +417,9 @@ dhruvii-powershell.
 dorsy99.
 HarshMN2345.
 hmadhsan.
+iamvpbhaskar.
 
 **Other contributors:**
-iamvpbhaskar.
 igrzhukovich.
 j4rodm.
 jamesfoot.
@@ -685,6 +685,7 @@ Geraldf.
 gh0stxplt.
 GiovanniPeretti.
 git-rep0.
+golu833.
 GouthamSG.
 Gowthammadhusuthanan067.
 greenc123.
