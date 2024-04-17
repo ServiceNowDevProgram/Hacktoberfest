@@ -418,9 +418,9 @@ dorsy99.
 HarshMN2345.
 hmadhsan.
 iamvpbhaskar.
+igrzhukovich.
 
 **Other contributors:**
-igrzhukovich.
 j4rodm.
 jamesfoot.
 JBscriptsNow.
@@ -822,6 +822,7 @@ neerajs296.
 Nerdcode.
 newl92.
 NoelJarling.
+NowZilla.
 noyzmaker.
 nuwan94.
 nvprav.
