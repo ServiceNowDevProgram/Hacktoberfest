@@ -660,6 +660,7 @@ DinithiG.
 Diogo-Ramos.
 DirkRedeker.
 dk5ax.
+DoColl-Byte.
 dominikhycnar.
 drizzlt.
 DudeDrew.
