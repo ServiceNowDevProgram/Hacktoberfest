@@ -210,9 +210,9 @@ Abhishekchowdarapu.
 alikuttyka.
 BadalHub.
 MrChrisE.
+vandna07.
 
 **Top 10% contributors:**
-vandna07.
 PranavBhagat18.
 Irston.
 litwi1rm.
@@ -252,9 +252,9 @@ DynamiteC.
 shakeel-sheikh.
 vjtknn.
 Yokesh0811.
+MarcMouries.
 
 **Top 25% contributors:**
-MarcMouries.
 sn-ajb.
 abhrajyotikanrar.
 DavidMarcial.
@@ -417,10 +417,10 @@ dhruvii-powershell.
 dorsy99.
 HarshMN2345.
 hmadhsan.
-iamvpbhaskar.
-igrzhukovich.
 
 **Other contributors:**
+iamvpbhaskar.
+igrzhukovich.
 j4rodm.
 jamesfoot.
 JBscriptsNow.
@@ -974,6 +974,7 @@ vvijaya19.
 Watermark-ServiceNow.
 wcarroll.
 wggibson.
+williambhadley.
 wkbroxton.
 xdisplay.
 youthinkasido.
