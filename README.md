@@ -417,9 +417,9 @@ dhruvii-powershell.
 dorsy99.
 HarshMN2345.
 hmadhsan.
+iamvpbhaskar.
 
 **Other contributors:**
-iamvpbhaskar.
 igrzhukovich.
 j4rodm.
 jamesfoot.
@@ -664,6 +664,7 @@ DirkRedeker.
 dk5ax.
 DoColl-Byte.
 dominikhycnar.
+DRDeep7.
 drizzlt.
 DudeDrew.
 eduard-nitoi.
