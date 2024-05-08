@@ -419,9 +419,9 @@ HarshMN2345.
 hmadhsan.
 iamvpbhaskar.
 igrzhukovich.
+j4rodm.
 
 **Other contributors:**
-j4rodm.
 jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
@@ -737,6 +737,7 @@ jkbdtadvisory.
 jnikita067.
 JoeSDoro.
 Jon-Wadsworth.
+JorgeGRC.
 Josh767676.
 joshuaprakashg.
 jschuller.
