@@ -336,9 +336,9 @@ src107.
 fn20200323.
 pratyushasndev.
 homealone07.
+Iamsant.
 
 **Top 50% contributors:**
-Iamsant.
 jeremyrubio27.
 Sagar-agarwal.
 wiresgit.
@@ -420,9 +420,9 @@ hmadhsan.
 iamvpbhaskar.
 igrzhukovich.
 j4rodm.
+jamesfoot.
 
 **Other contributors:**
-jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
 jordanrogus.
@@ -663,6 +663,7 @@ Dimuthu7.
 DinithiG.
 Diogo-Ramos.
 DirkRedeker.
+dk0017.
 dk5ax.
 DoColl-Byte.
 dominikhycnar.
