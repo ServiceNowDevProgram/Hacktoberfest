@@ -369,6 +369,7 @@ pandeysumit-now.
 patrickpaterlini.
 LucasRocha2308.
 Mahesh-Krishnan1.
+maialithar.
 MihirRathod.
 preshitd.
 Saileshlanka.
@@ -420,9 +421,9 @@ hmadhsan.
 iamvpbhaskar.
 igrzhukovich.
 j4rodm.
-jamesfoot.
 
 **Other contributors:**
+jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
 jordanrogus.
@@ -431,7 +432,6 @@ KartikeSingh.
 kaushalbharade.
 lakshyatyagi24.
 loudigi.
-maialithar.
 ManobhavSachan.
 mevops.
 mikeroosa.
