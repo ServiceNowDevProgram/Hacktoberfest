@@ -253,9 +253,9 @@ shakeel-sheikh.
 vjtknn.
 Yokesh0811.
 MarcMouries.
+sn-ajb.
 
 **Top 25% contributors:**
-sn-ajb.
 abhrajyotikanrar.
 DavidMarcial.
 techYESlogyXplorer.
@@ -742,6 +742,7 @@ Jon-Wadsworth.
 JorgeGRC.
 Josh767676.
 joshuaprakashg.
+JosielMalaquias.
 jschuller.
 jsmayo.
 JulietteM81.
