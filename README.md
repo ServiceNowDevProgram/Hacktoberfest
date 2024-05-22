@@ -337,9 +337,9 @@ fn20200323.
 pratyushasndev.
 homealone07.
 Iamsant.
+jeremyrubio27.
 
 **Top 50% contributors:**
-jeremyrubio27.
 Sagar-agarwal.
 wiresgit.
 yourepicservices.
@@ -421,9 +421,9 @@ hmadhsan.
 iamvpbhaskar.
 igrzhukovich.
 j4rodm.
+jamesfoot.
 
 **Other contributors:**
-jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
 jordanrogus.
@@ -717,6 +717,7 @@ himavamsi8.
 hockdiherdo.
 horizody.
 iamcreed.
+iDeepDev8.
 iks1.
 imaxdvd.
 ishanpatil35.
