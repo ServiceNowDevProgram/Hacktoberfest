@@ -422,9 +422,9 @@ iamvpbhaskar.
 igrzhukovich.
 j4rodm.
 jamesfoot.
+JBscriptsNow.
 
 **Other contributors:**
-JBscriptsNow.
 JingAlanzhixin.
 jordanrogus.
 Juusoee.
@@ -967,6 +967,7 @@ troat9824.
 tsicot.
 Turbo-Javax.
 tylerteter.
+umd-dit-servicenow.
 utk1725.
 v-agnihotri.
 Vaibhav91one.
