@@ -338,9 +338,9 @@ pratyushasndev.
 homealone07.
 Iamsant.
 jeremyrubio27.
+Sagar-agarwal.
 
 **Top 50% contributors:**
-Sagar-agarwal.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
@@ -423,9 +423,9 @@ igrzhukovich.
 j4rodm.
 jamesfoot.
 JBscriptsNow.
+JingAlanzhixin.
 
 **Other contributors:**
-JingAlanzhixin.
 jordanrogus.
 Juusoee.
 KartikeSingh.
@@ -951,6 +951,7 @@ suryakantshoor.
 sushil-now.
 SwarnadeepNandy.
 TamByrd.
+tapishsh.
 techspark77.
 tedante.
 telbir.
