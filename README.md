@@ -424,9 +424,9 @@ j4rodm.
 jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
+jordanrogus.
 
 **Other contributors:**
-jordanrogus.
 Juusoee.
 KartikeSingh.
 kaushalbharade.
@@ -696,6 +696,7 @@ Geraldf.
 gh0stxplt.
 GiovanniPeretti.
 git-rep0.
+GLaDOS2199.
 golu833.
 GouthamSG.
 Gowthammadhusuthanan067.
