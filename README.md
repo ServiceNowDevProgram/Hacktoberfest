@@ -211,9 +211,9 @@ alikuttyka.
 BadalHub.
 MrChrisE.
 vandna07.
+PranavBhagat18.
 
 **Top 10% contributors:**
-PranavBhagat18.
 Irston.
 litwi1rm.
 mak1A4.
@@ -254,9 +254,9 @@ vjtknn.
 Yokesh0811.
 MarcMouries.
 sn-ajb.
+abhrajyotikanrar.
 
 **Top 25% contributors:**
-abhrajyotikanrar.
 DavidMarcial.
 techYESlogyXplorer.
 alyaanbasha.
@@ -423,10 +423,10 @@ igrzhukovich.
 j4rodm.
 jamesfoot.
 JBscriptsNow.
-JingAlanzhixin.
-jordanrogus.
 
 **Other contributors:**
+JingAlanzhixin.
+jordanrogus.
 Juusoee.
 KartikeSingh.
 kaushalbharade.
@@ -703,6 +703,7 @@ Gowthammadhusuthanan067.
 greenc123.
 greencarlos.
 GTKsnow.
+guidugli.
 GuisseMaabo.
 HackoDev1530.
 han-le.
