@@ -423,9 +423,9 @@ igrzhukovich.
 j4rodm.
 jamesfoot.
 JBscriptsNow.
+JingAlanzhixin.
 
 **Other contributors:**
-JingAlanzhixin.
 jordanrogus.
 Juusoee.
 KartikeSingh.
@@ -999,4 +999,5 @@ wkbroxton.
 xdisplay.
 yay-jake.
 youthinkasido.
+zerus83.
 zomsik.
