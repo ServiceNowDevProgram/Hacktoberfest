@@ -339,9 +339,9 @@ homealone07.
 Iamsant.
 jeremyrubio27.
 Sagar-agarwal.
+wiresgit.
 
 **Top 50% contributors:**
-wiresgit.
 yourepicservices.
 ChecksumFailed.
 markroethof.
@@ -424,9 +424,9 @@ j4rodm.
 jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
+jordanrogus.
 
 **Other contributors:**
-jordanrogus.
 Juusoee.
 KartikeSingh.
 kaushalbharade.
@@ -809,6 +809,7 @@ ManjuRichi.
 mansikasera.
 Manveer-Pbx1.
 maralucca.
+marcosdshc.
 martineskoooo.
 martinkohler.
 maxigrali.
