@@ -425,9 +425,9 @@ jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
 jordanrogus.
+Juusoee.
 
 **Other contributors:**
-Juusoee.
 KartikeSingh.
 kaushalbharade.
 lakshyatyagi24.
@@ -872,6 +872,7 @@ prevostr.
 PrimeDemonic.
 princeofnubia.
 princeofwales88.
+PromoFaux.
 psyherin.
 ptupe.
 pujitakonjety.
