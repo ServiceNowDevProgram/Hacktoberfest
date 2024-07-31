@@ -255,9 +255,9 @@ Yokesh0811.
 MarcMouries.
 sn-ajb.
 abhrajyotikanrar.
+DavidMarcial.
 
 **Top 25% contributors:**
-DavidMarcial.
 techYESlogyXplorer.
 alyaanbasha.
 gregorwmail.
@@ -971,6 +971,7 @@ TheoCantor.
 theotherdebs.
 thesnowguy.
 thomas-seiberl.
+thomasvogh.
 Timi-2023.
 tosuch.
 toxic-8437.
