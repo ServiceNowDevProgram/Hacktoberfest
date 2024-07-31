@@ -456,6 +456,7 @@ Shambu-K.
 speedy18.
 stwinkle.
 Subhraneel77.
+thomasvogh.
 tomlozano.
 trishitapingolia.
 workpurposeusername.
@@ -971,7 +972,6 @@ TheoCantor.
 theotherdebs.
 thesnowguy.
 thomas-seiberl.
-thomasvogh.
 Timi-2023.
 tosuch.
 toxic-8437.
