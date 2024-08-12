@@ -341,9 +341,9 @@ jeremyrubio27.
 Sagar-agarwal.
 wiresgit.
 yourepicservices.
+ChecksumFailed.
 
 **Top 50% contributors:**
-ChecksumFailed.
 markroethof.
 anguspalmer.
 Badal2k23.
@@ -427,9 +427,9 @@ JingAlanzhixin.
 jordanrogus.
 Juusoee.
 KartikeSingh.
+kaushalbharade.
 
 **Other contributors:**
-kaushalbharade.
 lakshyatyagi24.
 loudigi.
 ManobhavSachan.
@@ -817,6 +817,7 @@ marcosdshc.
 martineskoooo.
 martinkohler.
 maxigrali.
+mbartkowiak.
 mdirshadaelum.
 Mexiprince.
 mgcnent.
