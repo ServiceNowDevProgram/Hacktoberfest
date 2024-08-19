@@ -428,9 +428,9 @@ jordanrogus.
 Juusoee.
 KartikeSingh.
 kaushalbharade.
+lakshyatyagi24.
 
 **Other contributors:**
-lakshyatyagi24.
 loudigi.
 ManobhavSachan.
 mevops.
@@ -754,6 +754,7 @@ joshuaprakashg.
 JosielMalaquias.
 jschuller.
 jsmayo.
+JStuempert.
 JulietteM81.
 JustinLoftas.
 justSNaccount.
