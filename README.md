@@ -342,9 +342,9 @@ Sagar-agarwal.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
+markroethof.
 
 **Top 50% contributors:**
-markroethof.
 anguspalmer.
 Badal2k23.
 NBaker137.
@@ -429,9 +429,9 @@ Juusoee.
 KartikeSingh.
 kaushalbharade.
 lakshyatyagi24.
+loudigi.
 
 **Other contributors:**
-loudigi.
 ManobhavSachan.
 mevops.
 mikeroosa.
@@ -746,6 +746,7 @@ Jennylou777.
 JiyaGupta-cs.
 jj073110.
 jkbdtadvisory.
+jmccormick14.
 jnikita067.
 JoeSDoro.
 Jon-Wadsworth.
