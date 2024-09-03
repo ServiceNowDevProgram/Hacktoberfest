@@ -166,8 +166,11 @@ Meet the Hacktoberfest crew who will be maintaining your projects:
 
 ## Leaderboard (this year):
 
-**Other contributors:**
+**Top 50% contributors:**
 KiwiPelago.
+
+**Other contributors:**
+TracyCurry96.
 
 ## Leaderboard (all time):
 
@@ -542,6 +545,7 @@ swathinagamahanti.
 TheSethRose.
 thoffman210.
 TonySerN.
+TracyCurry96.
 VarAti.
 varunasuresh92.
 vishalbirajdar0712.
@@ -983,7 +987,6 @@ thomas-seiberl.
 Timi-2023.
 tosuch.
 toxic-8437.
-TracyCurry96.
 Tramblay.
 TreasuryDigitalApps.
 troat9824.
