@@ -167,6 +167,7 @@ Meet the Hacktoberfest crew who will be maintaining your projects:
 ## Leaderboard (this year):
 
 **Other contributors:**
+KiwiPelago.
 
 ## Leaderboard (all time):
 
@@ -783,6 +784,7 @@ KholoodS.
 kieo-on.
 KishoreGitRepo.
 kit-t.
+KiwiPelago.
 KokilaAbeysinghe.
 kolomu.
 konikalily.
