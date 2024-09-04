@@ -167,9 +167,10 @@ Meet the Hacktoberfest crew who will be maintaining your projects:
 ## Leaderboard (this year):
 
 **Top 50% contributors:**
-KiwiPelago.
+acashkr.
 
 **Other contributors:**
+KiwiPelago.
 TracyCurry96.
 
 ## Leaderboard (all time):
@@ -434,9 +435,9 @@ KartikeSingh.
 kaushalbharade.
 lakshyatyagi24.
 loudigi.
+ManobhavSachan.
 
 **Other contributors:**
-ManobhavSachan.
 mevops.
 mikeroosa.
 moshjahan.
@@ -559,6 +560,7 @@ Abhi132004.
 abhi5hek001.
 AbServicenow.
 abuhaidar61.
+acashkr.
 acdigitalclarity.
 adarshsingh7470.
 Adil404.
