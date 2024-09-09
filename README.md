@@ -170,10 +170,11 @@ Meet the Hacktoberfest crew who will be maintaining your projects:
 acashkr.
 
 **Top 50% contributors:**
+davidehira.
 KiwiPelago.
-pandeysameer.
 
 **Other contributors:**
+pandeysameer.
 robertbeeman.
 steveuncg.
 TracyCurry96.
@@ -439,9 +440,9 @@ Juusoee.
 KartikeSingh.
 kaushalbharade.
 lakshyatyagi24.
+loudigi.
 
 **Other contributors:**
-loudigi.
 ManobhavSachan.
 mevops.
 mikeroosa.
@@ -665,6 +666,7 @@ Darrkshade.
 DaSilvaThiago.
 davematz.
 davewburns.
+davidehira.
 dchavez434.
 dcord1x.
 denmant.
