@@ -168,10 +168,11 @@ Meet the Hacktoberfest crew who will be maintaining your projects:
 
 **Top 25% contributors:**
 acashkr.
+davidehira.
 
 **Top 50% contributors:**
-davidehira.
 KiwiPelago.
+marcos-michalski.
 
 **Other contributors:**
 pandeysameer.
@@ -832,6 +833,7 @@ manjuyb.
 mansikasera.
 Manveer-Pbx1.
 maralucca.
+marcos-michalski.
 marcosdshc.
 martineskoooo.
 martinkohler.
