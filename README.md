@@ -140,13 +140,13 @@ Meet the Hacktoberfest crew who will be maintaining your projects:
 d7ianielsimonP.
 
 **Top 25% contributors:**
+earlduque.
 SapphicFire.
-acashkr.
 
 **Top 50% contributors:**
+acashkr.
 BH0LL.
 davidehira.
-earlduque.
 
 **Other contributors:**
 john9006.
