@@ -19,13 +19,11 @@ Inside this repository, you will find links to all of our hosted projects, along
 
 - [How to contribute](#contribute)
 - [Projects](#projects)
+    - [ServiceNow Generative AI Prompt Library](#servicenow-generative-ai-prompt-library)
     - [Code-Snippets](#code-snippets)
     - [SNDevs Slacker Bot](#sndevs-slacker-bot)
     - [SNDevs Points Thing](#sndevs-points-thing)
-    - [Menu Generating Operations Program Widget Custom Component](#menu-generating-operations-program-widget-custom-component)
-    - [Menu Generating Operations Program Widget Experience Page](#menu-generating-operations-program-widget-experience-page)
     - [Plants App](#plants-app)
-    - [Dispatcher Configurable Workspace](#dispatcher-configurable-workspace)
     - [Instance Scan Checks](#instance-scan-checks)
     - [Syntax Macros](#syntax-macros)
     - [Have a ServiceNow app you want to open to collaboration?](#have-a-servicenow-app-you-want-to-open-to-collaboration)
@@ -137,10 +135,10 @@ Meet the Hacktoberfest crew who will be maintaining your projects:
 ## Leaderboard (this year):
 
 **Top 10% contributors:**
-d7ianielsimonP.
+earlduque.
 
 **Top 25% contributors:**
-earlduque.
+d7ianielsimonP.
 SapphicFire.
 
 **Top 50% contributors:**
