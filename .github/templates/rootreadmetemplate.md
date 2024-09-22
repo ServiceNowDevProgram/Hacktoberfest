@@ -53,69 +53,39 @@ There are multiple projects we are encouraging participation in. To finish your 
 
 - You must make four approved pull-requests between October 1 and October 31.  
 - These four pull-requests can be spread out across multiple projects or can all be for one project.
-- From experience, you are more likely to get the t-shirt size you want the earlier you complete the goal! So get to work!
+
+## ServiceNow Generative AI Prompt Library
+[![Prompt Library Banner](images/promptlibrary.png)](https://github.com/ServiceNowDevProgram/ServiceNow-GenAi-Prompt-Library)
+
+> The SN GenAI Prompt Library at [devlink.sn/PromptLibrary](https://devlink.sn/PromptLibrary) is a community-driven hub for ServiceNow professionals to gather Generative AI prompts that we use to make our lives easier. Now you can submit prompts directly from GitHub!
 
 ## Code-Snippets
-
-https://github.com/ServiceNowDevProgram/code-snippets
+[![Code Snippets Banner](images/code-snippets.png)](https://github.com/ServiceNowDevProgram/code-snippets)
 
 > A community moderated repository that hosts ServiceNow code-snippets for all situations. New to Git and source control? Start here and learn the process without having to leave GitHub, and then come back to any of the other projects below to learn how ServiceNow works with Git and source control.
 
 ## SNDevs Slacker Bot
-
-https://github.com/ServiceNowDevProgram/SlackerBot
+[![Slacker Bot Banner](images/slackerbot.png)](https://github.com/ServiceNowDevProgram/SlackerBot)
 
 > The @Slacker bot on the [sndevs.com](https://sndevs.com/) community has been completely rebuilt to make contribution easy. Through some clever automation between GitHub and the ServiceNow instance that hosts the bot, approved Pull Requests will introduce new functionality *immediately* to the Slack server, so everyone can benefit from your contribution right away! Check out the "Issues" tab for ideas.
 
 ## SNDevs Points Thing
-
-https://github.com/ServiceNowDevProgram/Points-Thing
+[![Points Thing Banner](images/pointsthing.png)](https://github.com/ServiceNowDevProgram/Points-Thing)
 
 > The @points_thing bot on the [sndevs.com](https://sndevs.com/) Slack workspace has been rebuilt for easier contribution: cleaner API calls, better table structure, less hard coding, etc. Feel free to add a milestone message as an app metadata or new features!
 
-## (Menu Generating Operations Program Widget) Custom Component
-
-https://github.com/ServiceNowDevProgram/Menu-Generating-Operations-Program-Widget-Custom-Component
-
-> Did I come up with a very convoluted and awful name for my component just so I could put my initials on a project? Why yes, I did. Has it caused some level of confusion? Yes, it has. Do I have any regrets? None!
->
-> This repository holds the source code for the Menu Builder custom component! It allows for the configuration of UI Builder Portal Experience menus, so you don’t have to touch JSON. It’s a great example of what you can do with custom components, and you can poke at the source code all you want! Make sure you check out the sister repository for the Experience Page linked below!
->
-> Heads up: Contributing to this repository is complicated, you MUST check out the README.md file to be able to correctly contribute and have your PRs approved. (Oh you should also try finding the other references we put in the source code... and feel free to add your own!)
-
-## (Menu Generating Operations Program Widget) Experience Page
-
-https://github.com/ServiceNowDevProgram/Menu-Generating-Operations-Program-Widget-Experience-Page
-
-> Hi there, hopefully you read the previous repository’s description before checking this one out. No? Ok I'll give you a minute.
-> 
-> Ok, you good? Awesome. This is the UI Builder Page that actually houses the component so you can use it in your instance to craft awesome custom menus. If you want to test your component in an instance, this is a must have.
-> 
-> Heads up: You REALLY need to read the README.md file for these two repos to understand how to contribute. We tried to explain it in the clearest way, but if you have questions feel free to reach out to me over on [SNDEVS.com](https://sndevs.com/) at @MGOPW or in our [#next-experience-uib-workspace](https://sndevs.slack.com/archives/C01QPGCA82K) channel.
-
 ## Plants App
-
-https://github.com/ServiceNowDevProgram/Plants
+[![Plants App Banner](images/plants.png)](https://github.com/ServiceNowDevProgram/Plants)
 
 > The ever popular "Show us your office plants" plants app is here, contribute by adding your metadata and/or expanding functionality.
 
-## Dispatcher Configurable Workspace
-
-https://github.com/ServiceNowDevProgram/911-Dispatcher-Workspace
-
-> The scenario: 911 is an emergency phone line in the USA that people call when there are varying types of emergencies. Our target user is a 911 operator, who answers these calls and must act quickly and with good judgement to execute upon what is required to connect a response agency (fire, ems, police, etc) to the emergency and provide the help people are calling for. This workspace is for them to triage emergency calls and get them connected to the right resources.
->
-> Consider this repository as a blank template you can make in to an awesome application. It's really bare bones right now, so think of useful features you want to add!
-
 ## Instance Scan Checks
-
-https://github.com/ServiceNowDevProgram/example-instancescan-checks
+[![Instance Scan Banner](images/instancescan.png)](https://github.com/ServiceNowDevProgram/example-instancescan-checks)
 
 > We all agree that Instance Scan is a great way to keep your instance in a healthy and performant state, but what we are lacking are the rules that should be added as Checks to the engine. ServiceNow ships with Instance Security Center checks, and you can find Instance Trouble Shooter checks in the ServiceNow Store, but in this community-contributed repository, users are providing their own “use-at-your-risk" checks.
 
 ## Syntax Macros
-
-https://github.com/ServiceNowDevProgram/syntax_macros
+[![Syntax Macros Banner](images/syntaxmacros.jpg)](https://github.com/ServiceNowDevProgram/syntax_macros)
 
 > Type in a keyword and a whole template script appears? Life is always easier with syntax macros. This repository was started up earlier last year to collect the community's favorite syntax macros.
 
