@@ -176,6 +176,7 @@ acashkr.
 **Top 50% contributors:**
 BH0LL.
 davidehira.
+earlduque.
 
 **Other contributors:**
 john9006.
