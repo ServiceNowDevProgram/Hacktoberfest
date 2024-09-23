@@ -113,8 +113,8 @@ To participate in moderation, join the sndevs at https://sndevs.com/ and join th
 
 Meet the Hacktoberfest crew who will be maintaining your projects:
 
-|   |   |   |   |   |   |   |   |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- |
 | ![](/images/2024Cyberpunk/earl2.png) | ![](/images/2024Cyberpunk/laszlo2.png) | ![](/images/2024Cyberpunk/abhrajyoti2.png) | ![](/images/2024Cyberpunk/adam2.png) | ![](/images/2024Cyberpunk/ashutosh2.png) | ![](/images/2024Cyberpunk/astrid2.png) | ![](/images/2024Cyberpunk/carlos2.png) |
 | [earl](https://github.com/earlduque) | [laszlo](https://github.com/Lacah) | [abhrajyoti](https://github.com/abhrajyotikanrar) | [adam](https://github.com/wiz0floyd) | [ashutosh](https://github.com/ashu759) | [astrid](https://github.com/SapphicFire) | [carlos]() |
 | ![](/images/2024Cyberpunk/chris2.png) | ![](/images/2024Cyberpunk/gabi2.png) | ![](/images/2024Cyberpunk/janos.png) | ![](/images/2024Cyberpunk/jerry2.png) | ![](/images/2024Cyberpunk/martin2.png) | ![](/images/2024Cyberpunk/mohit2.png) | ![](/images/2024Cyberpunk/nia2.png) |
