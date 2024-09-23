@@ -1,4 +1,4 @@
-![ServiceNow and Hacktoberfest](/images/HacktoberfestRepoBanner.gif)
+![ServiceNow and Hacktoberfest](/images/hacktoberfest11repobanner.gif)
 
 <a name="welcome" href="#welcome">![welcome](/images/1welcome.png)</a>
 
