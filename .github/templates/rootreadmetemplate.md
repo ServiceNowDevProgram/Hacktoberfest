@@ -113,6 +113,8 @@ To participate in moderation, join the sndevs at https://sndevs.com/ and join th
 
 Meet the Hacktoberfest crew who will be maintaining your projects:
 
+|   |   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | --- | --- | ![](/images/2024Cyberpunk/earl2.png) | [earl](https://github.com/earlduque) | ![](/images/2024Cyberpunk/laszlo2.png) | [laszlo](https://github.com/Lacah) | --- | --- |
 | ![](/images/2024Cyberpunk/abhrajyoti2.png) | [abhrajyoti](https://github.com/abhrajyotikanrar) | ![](/images/2024Cyberpunk/adam2.png) | [adam](https://github.com/wiz0floyd) | ![](/images/2024Cyberpunk/ashutosh2.png) | [ashutosh](https://github.com/ashu759) | ![](/images/2024Cyberpunk/astrid2.png) | [astrid](https://github.com/SapphicFire) |
 | ![](/images/2024Cyberpunk/carlos2.png) | [carlos]() | ![](/images/2024Cyberpunk/chris2.png) | [chris](https://github.com/chelming) | ![](/images/2024Cyberpunk/gabi2.png) | [mgopw](https://github.com/MGOPW) | ![](/images/2024Cyberpunk/janos.png) | [janos](https://github.com/szentpali-janos) |
