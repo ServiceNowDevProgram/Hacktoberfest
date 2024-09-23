@@ -147,6 +147,7 @@ BH0LL.
 davidehira.
 
 **Other contributors:**
+erlingvt.
 john9006.
 KiwiPelago.
 marcos-michalski.
@@ -332,9 +333,9 @@ yourepicservices.
 ChecksumFailed.
 markroethof.
 anguspalmer.
+Badal2k23.
 
 **Top 50% contributors:**
-Badal2k23.
 NBaker137.
 revantKulkarni.
 trade12.
@@ -420,9 +421,9 @@ lakshyatyagi24.
 loudigi.
 ManobhavSachan.
 mevops.
+mikeroosa.
 
 **Other contributors:**
-mikeroosa.
 moshjahan.
 mwchiao.
 pavankumar-4.
@@ -678,6 +679,7 @@ Enotgnik.
 enpecko.
 ericccp.
 EricLiv.
+erlingvt.
 erwinel.
 euphoria18.
 evanrichardfpl.
