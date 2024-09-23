@@ -53,37 +53,37 @@ There are multiple projects we are encouraging participation in. To finish your 
 - These four pull-requests can be spread out across multiple projects or can all be for one project.
 
 ## ServiceNow Generative AI Prompt Library
-[![Prompt Library Banner](images/promptlibrary.png)](https://github.com/ServiceNowDevProgram/ServiceNow-GenAi-Prompt-Library)
+[![Prompt Library Banner](/images/promptlibrary.png)](https://github.com/ServiceNowDevProgram/ServiceNow-GenAi-Prompt-Library)
 
 > The SN GenAI Prompt Library at [devlink.sn/PromptLibrary](https://devlink.sn/PromptLibrary) is a community-driven hub for ServiceNow professionals to gather Generative AI prompts that we use to make our lives easier. Now you can submit prompts directly from GitHub!
 
 ## Code-Snippets
-[![Code Snippets Banner](images/code-snippets.png)](https://github.com/ServiceNowDevProgram/code-snippets)
+[![Code Snippets Banner](/images/code-snippets.png)](https://github.com/ServiceNowDevProgram/code-snippets)
 
 > A community moderated repository that hosts ServiceNow code-snippets for all situations. New to Git and source control? Start here and learn the process without having to leave GitHub, and then come back to any of the other projects below to learn how ServiceNow works with Git and source control.
 
 ## SNDevs Slacker Bot
-[![Slacker Bot Banner](images/slackerbot.png)](https://github.com/ServiceNowDevProgram/SlackerBot)
+[![Slacker Bot Banner](/images/slackerbot.png)](https://github.com/ServiceNowDevProgram/SlackerBot)
 
 > The @Slacker bot on the [sndevs.com](https://sndevs.com/) community has been completely rebuilt to make contribution easy. Through some clever automation between GitHub and the ServiceNow instance that hosts the bot, approved Pull Requests will introduce new functionality *immediately* to the Slack server, so everyone can benefit from your contribution right away! Check out the "Issues" tab for ideas.
 
 ## SNDevs Points Thing
-[![Points Thing Banner](images/pointsthing.png)](https://github.com/ServiceNowDevProgram/Points-Thing)
+[![Points Thing Banner](/images/pointsthing.png)](https://github.com/ServiceNowDevProgram/Points-Thing)
 
 > The @points_thing bot on the [sndevs.com](https://sndevs.com/) Slack workspace has been rebuilt for easier contribution: cleaner API calls, better table structure, less hard coding, etc. Feel free to add a milestone message as an app metadata or new features!
 
 ## Plants App
-[![Plants App Banner](images/plants.png)](https://github.com/ServiceNowDevProgram/Plants)
+[![Plants App Banner](/images/plants.png)](https://github.com/ServiceNowDevProgram/Plants)
 
 > The ever popular "Show us your office plants" plants app is here, contribute by adding your metadata and/or expanding functionality.
 
 ## Instance Scan Checks
-[![Instance Scan Banner](images/instancescan.png)](https://github.com/ServiceNowDevProgram/example-instancescan-checks)
+[![Instance Scan Banner](/images/instancescan.png)](https://github.com/ServiceNowDevProgram/example-instancescan-checks)
 
 > We all agree that Instance Scan is a great way to keep your instance in a healthy and performant state, but what we are lacking are the rules that should be added as Checks to the engine. ServiceNow ships with Instance Security Center checks, and you can find Instance Trouble Shooter checks in the ServiceNow Store, but in this community-contributed repository, users are providing their own “use-at-your-risk" checks.
 
 ## Syntax Macros
-[![Syntax Macros Banner](images/syntaxmacros.jpg)](https://github.com/ServiceNowDevProgram/syntax_macros)
+[![Syntax Macros Banner](/images/syntaxmacros.jpg)](https://github.com/ServiceNowDevProgram/syntax_macros)
 
 > Type in a keyword and a whole template script appears? Life is always easier with syntax macros. This repository was started up earlier last year to collect the community's favorite syntax macros.
 
