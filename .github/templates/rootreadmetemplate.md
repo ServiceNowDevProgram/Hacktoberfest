@@ -115,12 +115,12 @@ Meet the Hacktoberfest crew who will be maintaining your projects:
 
 |   |   |   |   |   |   |   |   |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ![](/images/2024Cyberpunk/earl2.png) | ![](/images/2024Cyberpunk/laszlo2.png) | ![](/images/2024Cyberpunk/abhrajyoti2.png) | ![](/images/2024Cyberpunk/adam2.png) | ![](/images/2024Cyberpunk/ashutosh2.png) | ![](/images/2024Cyberpunk/astrid2.png) | ![](/images/2024Cyberpunk/carlos2.png) | ![](/images/2024Cyberpunk/chris2.png) |
-| [earl](https://github.com/earlduque) | [laszlo](https://github.com/Lacah) | [abhrajyoti](https://github.com/abhrajyotikanrar) | [adam](https://github.com/wiz0floyd) | [ashutosh](https://github.com/ashu759) | [astrid](https://github.com/SapphicFire) | [carlos]() | [chris](https://github.com/chelming) |
-| ![](/images/2024Cyberpunk/gabi2.png) | ![](/images/2024Cyberpunk/janos.png) | ![](/images/2024Cyberpunk/jerry2.png) | ![](/images/2024Cyberpunk/martin2.png) | ![](/images/2024Cyberpunk/mohit2.png) | ![](/images/2024Cyberpunk/nia2.png) | ![](/images/2024Cyberpunk/paige2.png) | ![](/images/2024Cyberpunk/paul.png) |
-| [mgopw](https://github.com/MGOPW) | [janos](https://github.com/szentpali-janos) | [jerry](https://github.com/SNProductOwner) | [martin](https://github.com/MartinStoyanoff) | [mohit](https://github.com/kmohit2809) | [nia](https://github.com/niamccash) | [paige](https://github.com/paigesndev) | [paul](https://github.com/Paulsylo) |
-| ![](/images/2024Cyberpunk/phil2.png) | ![](/images/2024Cyberpunk/ron2.png) | ![](/images/2024Cyberpunk/sachin2.png) | ![](/images/2024Cyberpunk/sandeep2.png) | ![](/images/2024Cyberpunk/shakeel.png) | ![](/images/2024Cyberpunk/sharon2.png) |
-| [phil]() | [ron](https://github.com/ronaldkarim) | [sachin](https://github.com/snamjosh) | [sandeep](https://github.com/sandeepd26) | [shakeel](https://github.com/am-shakeel) | [sharon](https://github.com/slwb) |
+| ![](/images/2024Cyberpunk/earl2.png) | ![](/images/2024Cyberpunk/laszlo2.png) | ![](/images/2024Cyberpunk/abhrajyoti2.png) | ![](/images/2024Cyberpunk/adam2.png) | ![](/images/2024Cyberpunk/ashutosh2.png) | ![](/images/2024Cyberpunk/astrid2.png) | ![](/images/2024Cyberpunk/carlos2.png) |
+| [earl](https://github.com/earlduque) | [laszlo](https://github.com/Lacah) | [abhrajyoti](https://github.com/abhrajyotikanrar) | [adam](https://github.com/wiz0floyd) | [ashutosh](https://github.com/ashu759) | [astrid](https://github.com/SapphicFire) | [carlos]() |
+| ![](/images/2024Cyberpunk/chris2.png) | ![](/images/2024Cyberpunk/gabi2.png) | ![](/images/2024Cyberpunk/janos.png) | ![](/images/2024Cyberpunk/jerry2.png) | ![](/images/2024Cyberpunk/martin2.png) | ![](/images/2024Cyberpunk/mohit2.png) | ![](/images/2024Cyberpunk/nia2.png) |
+| [chris](https://github.com/chelming) | [mgopw](https://github.com/MGOPW) | [janos](https://github.com/szentpali-janos) | [jerry](https://github.com/SNProductOwner) | [martin](https://github.com/MartinStoyanoff) | [mohit](https://github.com/kmohit2809) | [nia](https://github.com/niamccash) |
+| ![](/images/2024Cyberpunk/paige2.png) | ![](/images/2024Cyberpunk/paul.png) | ![](/images/2024Cyberpunk/ron2.png) | ![](/images/2024Cyberpunk/sachin2.png) | ![](/images/2024Cyberpunk/sandeep2.png) | ![](/images/2024Cyberpunk/shakeel.png) | ![](/images/2024Cyberpunk/sharon2.png) |
+| [paige](https://github.com/paigesndev) | [paul](https://github.com/Paulsylo) | [ron](https://github.com/ronaldkarim) | [sachin](https://github.com/snamjosh) | [sandeep](https://github.com/sandeepd26) | [shakeel](https://github.com/am-shakeel) | [sharon](https://github.com/slwb) |
 
 *images via Generative AI (dark sushi 2.5d with a pixel lora on stable diffusion)*
 
