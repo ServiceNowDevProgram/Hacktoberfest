@@ -6,7 +6,8 @@
 
 Welcome to the ServiceNow's Hacktoberfest community repository, managed by the Developer Program and SNDevs community.
 
-A blog post about this year's participation, along with some history and background can be found here: https://devlink.sn/hacktoberfest
+- This repo and its readme file has everything about **actually** participating in `ServiceNow x Hacktoberfest`: how-to, the projects, technical documentation
+- A blog post about this year's participation, along with some history and background, and what's in it for participants can be found here: https://devlink.sn/hacktoberfest
 
 Inside this repository, you will find links to all of our hosted projects, along with helpful information and tutorials.
 
