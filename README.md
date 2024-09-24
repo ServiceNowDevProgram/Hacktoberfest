@@ -1,4 +1,4 @@
-![ServiceNow and Hacktoberfest](/images/HacktoberfestRepoBanner.gif)
+![ServiceNow and Hacktoberfest](/images/hacktoberfest11repobanner.gif)
 
 <a name="welcome" href="#welcome">![welcome](/images/1welcome.png)</a>
 
@@ -6,13 +6,16 @@
 
 Welcome to the ServiceNow's Hacktoberfest community repository, managed by the Developer Program and SNDevs community.
 
-A blog post about this year's participation, along with some history and background can be found here: https://devlink.sn/hacktoberfest
-
-Inside this repository, you will find links to all of our hosted projects, along with helpful information and tutorials.
+- This repo and its readme file has everything about **actually** participating in `ServiceNow x Hacktoberfest`: how-to tutorials, the projects, technical documentation
+- A blog post about this year's participation, along with some history and background, and what's in it for participants can be found here: https://devlink.sn/hacktoberfest
 
 🔔🔔🔔<br>
 ***CONTRIBUTORS must follow all guidelines in the various CONTRIBUTING.md files of each repository*** or run the risk of having your Pull Requests labeled as spam. This repository's CONTRIBUTING.md file can be found [here](/CONTRIBUTING.md).<br>
 🔔🔔🔔
+
+## Need help with anything ServiceNow+Hacktoberfest?
+
+Every reviewer/maintainer hangs out on the SNDevs Slack workspace. You can join via this link (https://invite.sndevs.com/) and then find us on the [#hacktoberfest channel](https://sndevs.slack.com/archives/C01C0RWV32M).
 
 <!-- TOC -->
 ## Quick navigation
@@ -43,7 +46,7 @@ To contribute, just follow these steps:
 4. Add/Update the repo
 5. Submit a pull request!
 
-That's it! More detailed contribution instructions can be found on each project's "CONTRIBUTING.md" file. Always read this file before you partipate in a project!
+That's it! More detailed contribution instructions can be found on each project's "CONTRIBUTING.md" file. **Always read a repo's README and CONTRIBUTING files before you partipate in a project!**
 
 # <br><a name="projects" href="#projects">![projects](/images/3projects.png)</a>
 
@@ -53,37 +56,37 @@ There are multiple projects we are encouraging participation in. To finish your 
 - These four pull-requests can be spread out across multiple projects or can all be for one project.
 
 ## ServiceNow Generative AI Prompt Library
-[![Prompt Library Banner](images/promptlibrary.png)](https://github.com/ServiceNowDevProgram/ServiceNow-GenAi-Prompt-Library)
+[![Prompt Library Banner](/images/promptlibrary.png)](https://github.com/ServiceNowDevProgram/ServiceNow-GenAi-Prompt-Library)
 
 > The SN GenAI Prompt Library at [devlink.sn/PromptLibrary](https://devlink.sn/PromptLibrary) is a community-driven hub for ServiceNow professionals to gather Generative AI prompts that we use to make our lives easier. Now you can submit prompts directly from GitHub!
 
 ## Code-Snippets
-[![Code Snippets Banner](images/code-snippets.png)](https://github.com/ServiceNowDevProgram/code-snippets)
+[![Code Snippets Banner](/images/code-snippets.png)](https://github.com/ServiceNowDevProgram/code-snippets)
 
 > A community moderated repository that hosts ServiceNow code-snippets for all situations. New to Git and source control? Start here and learn the process without having to leave GitHub, and then come back to any of the other projects below to learn how ServiceNow works with Git and source control.
 
 ## SNDevs Slacker Bot
-[![Slacker Bot Banner](images/slackerbot.png)](https://github.com/ServiceNowDevProgram/SlackerBot)
+[![Slacker Bot Banner](/images/slackerbot.png)](https://github.com/ServiceNowDevProgram/SlackerBot)
 
 > The @Slacker bot on the [sndevs.com](https://sndevs.com/) community has been completely rebuilt to make contribution easy. Through some clever automation between GitHub and the ServiceNow instance that hosts the bot, approved Pull Requests will introduce new functionality *immediately* to the Slack server, so everyone can benefit from your contribution right away! Check out the "Issues" tab for ideas.
 
 ## SNDevs Points Thing
-[![Points Thing Banner](images/pointsthing.png)](https://github.com/ServiceNowDevProgram/Points-Thing)
+[![Points Thing Banner](/images/pointsthing.png)](https://github.com/ServiceNowDevProgram/Points-Thing)
 
 > The @points_thing bot on the [sndevs.com](https://sndevs.com/) Slack workspace has been rebuilt for easier contribution: cleaner API calls, better table structure, less hard coding, etc. Feel free to add a milestone message as an app metadata or new features!
 
 ## Plants App
-[![Plants App Banner](images/plants.png)](https://github.com/ServiceNowDevProgram/Plants)
+[![Plants App Banner](/images/plants.png)](https://github.com/ServiceNowDevProgram/Plants)
 
 > The ever popular "Show us your office plants" plants app is here, contribute by adding your metadata and/or expanding functionality.
 
 ## Instance Scan Checks
-[![Instance Scan Banner](images/instancescan.png)](https://github.com/ServiceNowDevProgram/example-instancescan-checks)
+[![Instance Scan Banner](/images/instancescan.png)](https://github.com/ServiceNowDevProgram/example-instancescan-checks)
 
 > We all agree that Instance Scan is a great way to keep your instance in a healthy and performant state, but what we are lacking are the rules that should be added as Checks to the engine. ServiceNow ships with Instance Security Center checks, and you can find Instance Trouble Shooter checks in the ServiceNow Store, but in this community-contributed repository, users are providing their own “use-at-your-risk" checks.
 
 ## Syntax Macros
-[![Syntax Macros Banner](images/syntaxmacros.jpg)](https://github.com/ServiceNowDevProgram/syntax_macros)
+[![Syntax Macros Banner](/images/syntaxmacros.jpg)](https://github.com/ServiceNowDevProgram/syntax_macros)
 
 > Type in a keyword and a whole template script appears? Life is always easier with syntax macros. This repository was started up earlier last year to collect the community's favorite syntax macros.
 
@@ -113,21 +116,17 @@ To participate in moderation, join the sndevs at https://sndevs.com/ and join th
 
 Meet the Hacktoberfest crew who will be maintaining your projects:
 
-| 📷 | 🔗 | ❔ |
-| --- | --- | --- |
-| ![earl](/images/earl_transparent_1.png) | [earl](https://github.com/earlduque) | a passionate individual with a zest for life and a strong desire to make a positive impact on the world. |
-| ![nia](/images/nia_transparent_1.png) | [nia](https://github.com/niamccash) | a kind-hearted individual who is passionate about their interests and always looking for new opportunities to grow. |
-| ![adam](/images/adam_transparent_1.png) | [adam](https://github.com/wiz0floyd) | a shadowy figure whose enigmatic existence reveals nothing, lurking in the depths of uncertainty. |
-| ![astrid](/images/astrid_transparent_1.png) | [astrid](https://github.com/SapphicFire) | a dedicated individual who always strives for greatness in every aspect of their life. |
-| ![laszlo](/images/laszlo_transparent_1.png) | [laszlo](https://github.com/Lacah) | a passionate and creative thinker who brings fresh ideas to the table. |
-| ![brad](/images/brad_transparent_1.png) | [brad](https://github.com/bradtiltonnow) | a dependable and focused individual with a strong eye for detail. |
-| ![chris](/images/chris_transparent_1.png) | [chris](https://github.com/chelming) | A ordinary individual with an extraordinary curiosity for life's adventures. |
-| ![mgopw](/images/newhair_transparent_1.png) | [mgopw](https://github.com/MGOPW) | a proactive and adaptable person who excels in any given situation. |
-| ![martin](/images/martin_transparent_1.png) | [martin](https://github.com/MartinStoyanoff) | a compassionate and empathetic individual who always puts others before herself. |
-| ![paige](/images/paige_transparent_1.png) | [paige](https://github.com/paigesndev) | a diligent and motivated individual, always willing to go the extra mile. |
-| ![mohit](/images/mohit2_transparent_1.png) | [mohit](https://github.com/kmohit2809) | a confident and articulate communicator who builds strong connections with everyone they meets. |
+|   |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- |
+| ![](/images/2024Cyberpunk/earl2.png) | ![](/images/2024Cyberpunk/laszlo2.png) | ![](/images/2024Cyberpunk/abhrajyoti2.png) | ![](/images/2024Cyberpunk/adam2.png) | ![](/images/2024Cyberpunk/ashutosh2.png) | ![](/images/2024Cyberpunk/astrid2.png) | ![](/images/2024Cyberpunk/carlos2.png) |
+| [earl](https://github.com/earlduque) | [laszlo](https://github.com/Lacah) | [abhrajyoti](https://github.com/abhrajyotikanrar) | [adam](https://github.com/wiz0floyd) | [ashutosh](https://github.com/ashu759) | [astrid](https://github.com/SapphicFire) | [carlos]() |
+| ![](/images/2024Cyberpunk/chris2.png) | ![](/images/2024Cyberpunk/gabi2.png) | ![](/images/2024Cyberpunk/janos.png) | ![](/images/2024Cyberpunk/jerry2.png) | ![](/images/2024Cyberpunk/martin2.png) | ![](/images/2024Cyberpunk/mohit2.png) | ![](/images/2024Cyberpunk/nia2.png) |
+| [chris](https://github.com/chelming) | [mgopw](https://github.com/MGOPW) | [janos](https://github.com/szentpali-janos) | [jerry](https://github.com/SNProductOwner) | [martin](https://github.com/MartinStoyanoff) | [mohit](https://github.com/kmohit2809) | [nia](https://github.com/niamccash) |
+| ![](/images/2024Cyberpunk/paige2.png) | ![](/images/2024Cyberpunk/paul.png) | ![](/images/2024Cyberpunk/ron2.png) | ![](/images/2024Cyberpunk/sachin2.png) | ![](/images/2024Cyberpunk/sandeep2.png) | ![](/images/2024Cyberpunk/shakeel.png) | ![](/images/2024Cyberpunk/sharon2.png) |
+| [paige](https://github.com/paigesndev) | [paul](https://github.com/Paulsylo) | [ron](https://github.com/ronaldkarim) | [sachin](https://github.com/snamjosh) | [sandeep](https://github.com/sandeepd26) | [shakeel](https://github.com/am-shakeel) | [sharon](https://github.com/slwb) |
+|   |   |   |   |   |   |   |
 
-*these descriptions were generated by AI, mostly because you're probably not reading this*
+*images via Generative AI (dark sushi 2.5d with a pixel lora on stable diffusion)*
 
 # <br><a name="leaders" href="#leaders">![leaders](/images/5leaders.png)</a>
 
