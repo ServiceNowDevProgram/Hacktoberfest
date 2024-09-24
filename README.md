@@ -140,11 +140,12 @@ earlduque.
 **Top 25% contributors:**
 d7ianielsimonP.
 SapphicFire.
+acashkr.
 
 **Top 50% contributors:**
-acashkr.
 BH0LL.
 davidehira.
+dwilso1018.
 
 **Other contributors:**
 erlingvt.
@@ -670,6 +671,7 @@ drc.
 DRDeep7.
 drizzlt.
 DudeDrew.
+dwilso1018.
 eduard-nitoi.
 EduardoUG.
 eizzledizzle.
