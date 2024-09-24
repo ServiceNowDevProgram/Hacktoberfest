@@ -92,7 +92,7 @@ There are multiple projects we are encouraging participation in. To finish your 
 
 ## Have a ServiceNow app you want to open to collaboration?
 
-Reach out to Earl Duque and we'll get your repo officially hosted.
+Reach out to [Earl Duque](https://sndevs.slack.com/team/U7WGPRC2D) ([earl.duque@servicenow.com](mailto:earl.duque@servicenow.com)) and we'll get your repo officially hosted.
 
 # <br><a name="points" href="#points">![points](/images/4points.png)</a>
 
