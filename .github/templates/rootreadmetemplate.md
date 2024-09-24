@@ -13,6 +13,10 @@ Welcome to the ServiceNow's Hacktoberfest community repository, managed by the D
 ***CONTRIBUTORS must follow all guidelines in the various CONTRIBUTING.md files of each repository*** or run the risk of having your Pull Requests labeled as spam. This repository's CONTRIBUTING.md file can be found [here](/CONTRIBUTING.md).<br>
 🔔🔔🔔
 
+## Need help with anything ServiceNow+Hacktoberfest?
+
+Every reviewer/maintainer hangs out on the SNDevs Slack workspace. You can join via this link (https://invite.sndevs.com/) and then find us on the [#hacktoberfest channel](https://sndevs.slack.com/archives/C01C0RWV32M).
+
 <!-- TOC -->
 ## Quick navigation
 
