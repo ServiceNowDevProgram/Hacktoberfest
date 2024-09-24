@@ -145,6 +145,7 @@ SapphicFire.
 acashkr.
 BH0LL.
 davidehira.
+DhanushNehru.
 
 **Other contributors:**
 dwilso1018.
@@ -384,6 +385,7 @@ sisco0.
 yuvraj1107thapa.
 ashaw7697.
 crooks-s.
+DhanushNehru.
 Jaskaran-Techno.
 RagaChitraMankala.
 thameemskings.
@@ -403,7 +405,6 @@ Coder0131.
 DaleD-SN.
 deathkraiser.
 demetris7.
-DhanushNehru.
 dhruvii-powershell.
 dorsy99.
 HarshMN2345.
