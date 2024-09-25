@@ -137,10 +137,10 @@ Meet the Hacktoberfest crew who will be maintaining your projects:
 earlduque.
 
 **Top 10% contributors:**
-Lacah.
+snamjosh.
 
 **Top 25% contributors:**
-snamjosh.
+Lacah.
 DhanushNehru.
 
 **Top 50% contributors:**
@@ -181,9 +181,9 @@ DavidArthurCole.
 MartinStoyanoff.
 eriemer1.
 R3J3NT.
+snamjosh.
 amigujarathi.
 ajcooper72.
-snamjosh.
 hrobarikt.
 chelming.
 sumanthdosapati.
