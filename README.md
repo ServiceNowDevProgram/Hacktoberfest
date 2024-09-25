@@ -138,14 +138,14 @@ earlduque.
 
 **Top 25% contributors:**
 Lacah.
+DhanushNehru.
 d7ianielsimonP.
-SapphicFire.
 
 **Top 50% contributors:**
+SapphicFire.
 acashkr.
 BH0LL.
 davidehira.
-DhanushNehru.
 
 **Other contributors:**
 dwilso1018.
@@ -352,6 +352,7 @@ Adiana3308.
 akhoshnood.
 allam1234.
 Decoder-Paul.
+DhanushNehru.
 jesalynrose.
 Ladirinia.
 miracc.
@@ -385,7 +386,6 @@ sisco0.
 yuvraj1107thapa.
 ashaw7697.
 crooks-s.
-DhanushNehru.
 Jaskaran-Techno.
 RagaChitraMankala.
 thameemskings.
