@@ -150,6 +150,7 @@ d7ianielsimonP.
 **Other contributors:**
 SapphicFire.
 acashkr.
+alkaChaudhary73.
 BH0LL.
 davidehira.
 dwilso1018.
@@ -252,9 +253,9 @@ sn-ajb.
 abhrajyotikanrar.
 DavidMarcial.
 techYESlogyXplorer.
+alyaanbasha.
 
 **Top 25% contributors:**
-alyaanbasha.
 gregorwmail.
 harishankert.
 mady22070.
@@ -564,6 +565,7 @@ akmittal.
 akoolarni.
 alexcasper.
 aliceapps.
+alkaChaudhary73.
 allenmxh.
 AlphieKiu.
 aman-kumar-004.
