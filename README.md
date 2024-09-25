@@ -119,7 +119,7 @@ Meet the Hacktoberfest crew who will be maintaining your projects:
 |   |   |   |   |   |   |   |
 | --- | --- | --- | --- | --- | --- | --- |
 | ![](/images/2024Cyberpunk/earl2.png) | ![](/images/2024Cyberpunk/laszlo2.png) | ![](/images/2024Cyberpunk/abhrajyoti2.png) | ![](/images/2024Cyberpunk/adam2.png) | ![](/images/2024Cyberpunk/ashutosh2.png) | ![](/images/2024Cyberpunk/astrid2.png) | ![](/images/2024Cyberpunk/carlos2.png) |
-| [earl](https://github.com/earlduque) | [laszlo](https://github.com/Lacah) | [abhrajyoti](https://github.com/abhrajyotikanrar) | [adam](https://github.com/wiz0floyd) | [ashutosh](https://github.com/ashu759) | [astrid](https://github.com/SapphicFire) | [carlos]() |
+| [earl](https://github.com/earlduque) | [laszlo](https://github.com/Lacah) | [abhrajyoti](https://github.com/abhrajyotikanrar) | [adam](https://github.com/wiz0floyd) | [ashutosh](https://github.com/ashu759) | [astrid](https://github.com/SapphicFire) | [carlos](https://github.com/kmxo) |
 | ![](/images/2024Cyberpunk/chris2.png) | ![](/images/2024Cyberpunk/gabi2.png) | ![](/images/2024Cyberpunk/janos.png) | ![](/images/2024Cyberpunk/jerry2.png) | ![](/images/2024Cyberpunk/martin2.png) | ![](/images/2024Cyberpunk/mohit2.png) | ![](/images/2024Cyberpunk/nia2.png) |
 | [chris](https://github.com/chelming) | [mgopw](https://github.com/MGOPW) | [janos](https://github.com/szentpali-janos) | [jerry](https://github.com/SNProductOwner) | [martin](https://github.com/MartinStoyanoff) | [mohit](https://github.com/kmohit2809) | [nia](https://github.com/niamccash) |
 | ![](/images/2024Cyberpunk/paige2.png) | ![](/images/2024Cyberpunk/paul.png) | ![](/images/2024Cyberpunk/ron2.png) | ![](/images/2024Cyberpunk/sachin2.png) | ![](/images/2024Cyberpunk/sandeep2.png) | ![](/images/2024Cyberpunk/shakeel.png) | ![](/images/2024Cyberpunk/sharon2.png) |
@@ -133,21 +133,25 @@ Meet the Hacktoberfest crew who will be maintaining your projects:
 
 ## Leaderboard (this year):
 
-**Top 10% contributors:**
+**Top 5% contributors:**
 earlduque.
 
-**Top 25% contributors:**
+**Top 10% contributors:**
 Lacah.
+
+**Top 25% contributors:**
+snamjosh.
 DhanushNehru.
-d7ianielsimonP.
 
 **Top 50% contributors:**
+d7ianielsimonP.
+niamccash.
+
+**Other contributors:**
 SapphicFire.
 acashkr.
 BH0LL.
 davidehira.
-
-**Other contributors:**
 dwilso1018.
 erlingvt.
 john9006.
@@ -179,9 +183,9 @@ eriemer1.
 R3J3NT.
 amigujarathi.
 ajcooper72.
+snamjosh.
 hrobarikt.
 chelming.
-snamjosh.
 sumanthdosapati.
 bird-03.
 smartcarleen.
