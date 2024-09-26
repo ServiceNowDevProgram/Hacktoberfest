@@ -25,6 +25,7 @@ Every reviewer/maintainer hangs out on the SNDevs Slack workspace. You can join 
     - [ServiceNow Generative AI Prompt Library](#servicenow-generative-ai-prompt-library)
     - [Code-Snippets](#code-snippets)
     - [SNDevs Slacker Bot](#sndevs-slacker-bot)
+    - [UI Builder Conference Notes App](#ui-builder-conference-notes-app)
     - [SNDevs Points Thing](#sndevs-points-thing)
     - [Plants App](#plants-app)
     - [Instance Scan Checks](#instance-scan-checks)
@@ -69,6 +70,11 @@ There are multiple projects we are encouraging participation in. To finish your 
 [![Slacker Bot Banner](/images/slackerbot.png)](https://github.com/ServiceNowDevProgram/SlackerBot)
 
 > The @Slacker bot on the [sndevs.com](https://sndevs.com/) community has been completely rebuilt to make contribution easy. Through some clever automation between GitHub and the ServiceNow instance that hosts the bot, approved Pull Requests will introduce new functionality *immediately* to the Slack server, so everyone can benefit from your contribution right away! Check out the "Issues" tab for ideas.
+
+## UI Builder Conference Notes App
+[![UI Builder Banner](images/uibuilder.png)](https://github.com/ServiceNowDevProgram/UI-Builder-Conference-Notes-App)
+
+> Your mission, should you choose to accept it, will be to create your own variant of the project's landing page and innovate! Follow the stories in the Build Along Month home page, check out the resources and videos, and showcase your talents. Go above and beyond and create a one of a kind application experience to wow everyone! If we get enough submitted variants, we'll even feature the best on the livestream and show off your work.
 
 ## SNDevs Points Thing
 [![Points Thing Banner](/images/pointsthing.png)](https://github.com/ServiceNowDevProgram/Points-Thing)
@@ -151,9 +157,9 @@ chelming.
 d7ianielsimonP.
 mohitchauhan-dev.
 SapphicFire.
+acashkr.
 
 **Other contributors:**
-acashkr.
 alkaChaudhary73.
 artemis15.
 BH0LL.
@@ -170,6 +176,7 @@ pandeysameer.
 Paulsylo25.
 pviglianti.
 robertbeeman.
+ronaldkarim.
 Saiprethaa.
 sravankadudhuri.
 steveuncg.
@@ -271,9 +278,9 @@ alyaanbasha.
 gregorwmail.
 harishankert.
 mady22070.
+ronaldkarim.
 mjonssonme.
 nthumma.
-ronaldkarim.
 b1naryst0rm.
 sdgrube2.
 AdilBasha1SAP.
