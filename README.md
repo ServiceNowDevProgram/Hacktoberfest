@@ -142,15 +142,16 @@ snamjosh.
 **Top 25% contributors:**
 Lacah.
 DhanushNehru.
+niamccash.
 
 **Top 50% contributors:**
-niamccash.
 d7ianielsimonP.
 SapphicFire.
+acashkr.
 
 **Other contributors:**
-acashkr.
 alkaChaudhary73.
+artemis15.
 BH0LL.
 davidehira.
 dwilso1018.
@@ -492,6 +493,7 @@ andersonvale78.
 anilvaranasi.
 anirudhkumarm.
 APraestegaard.
+artemis15.
 ayrotideysarkar.
 BadalKhojare.
 beingfluid.
@@ -586,7 +588,6 @@ Archita-2023.
 Arit-Su.
 AritraSadhu.
 arostesri.
-artemis15.
 artursnusz.
 askarthik.
 Athens0111.
