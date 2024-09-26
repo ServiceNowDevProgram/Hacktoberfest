@@ -146,9 +146,9 @@ DhanushNehru.
 **Top 50% contributors:**
 niamccash.
 d7ianielsimonP.
+SapphicFire.
 
 **Other contributors:**
-SapphicFire.
 acashkr.
 alkaChaudhary73.
 BH0LL.
@@ -157,6 +157,7 @@ dwilso1018.
 erlingvt.
 john9006.
 KiwiPelago.
+kmxo.
 marcos-michalski.
 pandeysameer.
 robertbeeman.
@@ -789,6 +790,7 @@ kieo-on.
 KishoreGitRepo.
 kit-t.
 KiwiPelago.
+kmxo.
 KokilaAbeysinghe.
 kolomu.
 konikalily.
