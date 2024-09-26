@@ -160,6 +160,7 @@ KiwiPelago.
 kmxo.
 marcos-michalski.
 pandeysameer.
+pviglianti.
 robertbeeman.
 steveuncg.
 TracyCurry96.
@@ -342,9 +343,9 @@ ChecksumFailed.
 markroethof.
 anguspalmer.
 Badal2k23.
+NBaker137.
 
 **Top 50% contributors:**
-NBaker137.
 revantKulkarni.
 trade12.
 QI-XING.
@@ -430,9 +431,9 @@ loudigi.
 ManobhavSachan.
 mevops.
 mikeroosa.
+moshjahan.
 
 **Other contributors:**
-moshjahan.
 mwchiao.
 pavankumar-4.
 physi.
@@ -896,6 +897,7 @@ ptupe.
 pujitakonjety.
 pupchenko.
 purplemanchris.
+pviglianti.
 pysanders.
 r1990v.
 raghava149.
