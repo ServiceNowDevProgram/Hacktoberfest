@@ -156,10 +156,11 @@ niamccash.
 chelming.
 d7ianielsimonP.
 mohitchauhan-dev.
+pviglianti.
 SapphicFire.
-acashkr.
 
 **Other contributors:**
+acashkr.
 alkaChaudhary73.
 artemis15.
 BH0LL.
@@ -174,7 +175,6 @@ kmxo.
 marcos-michalski.
 pandeysameer.
 Paulsylo25.
-pviglianti.
 robertbeeman.
 ronaldkarim.
 Saiprethaa.
@@ -548,6 +548,7 @@ noviicee.
 NowSharif.
 Pavandileep.
 ppalaskar.
+pviglianti.
 ranjithsit.
 rickylarsson.
 ron-karim.
@@ -918,7 +919,6 @@ ptupe.
 pujitakonjety.
 pupchenko.
 purplemanchris.
-pviglianti.
 pysanders.
 r1990v.
 raghava149.
