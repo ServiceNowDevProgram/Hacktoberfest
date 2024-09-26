@@ -138,20 +138,21 @@ earlduque.
 
 **Top 10% contributors:**
 snamjosh.
+Lacah.
 
 **Top 25% contributors:**
-Lacah.
 Dhruvyadav2000.
 DhanushNehru.
 niamccash.
 
 **Top 50% contributors:**
+chelming.
 d7ianielsimonP.
 SapphicFire.
 acashkr.
-alkaChaudhary73.
 
 **Other contributors:**
+alkaChaudhary73.
 artemis15.
 BH0LL.
 cschmidt82.
@@ -193,8 +194,8 @@ R3J3NT.
 snamjosh.
 amigujarathi.
 ajcooper72.
-hrobarikt.
 chelming.
+hrobarikt.
 sumanthdosapati.
 bird-03.
 smartcarleen.
