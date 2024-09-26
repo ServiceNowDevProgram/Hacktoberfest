@@ -148,12 +148,13 @@ niamccash.
 d7ianielsimonP.
 SapphicFire.
 acashkr.
+alkaChaudhary73.
 
 **Other contributors:**
-alkaChaudhary73.
 artemis15.
 BH0LL.
 davidehira.
+Dhruvyadav2000.
 dwilso1018.
 erlingvt.
 john9006.
@@ -434,9 +435,9 @@ ManobhavSachan.
 mevops.
 mikeroosa.
 moshjahan.
+mwchiao.
 
 **Other contributors:**
-mwchiao.
 pavankumar-4.
 physi.
 pratyushmp.
@@ -668,6 +669,7 @@ devendra175151.
 DFanso.
 dhadwal.
 Dhar45.
+Dhruvyadav2000.
 diasjp.
 Dimuthu7.
 DinithiG.
