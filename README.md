@@ -147,15 +147,15 @@ sravankadudhuri.
 **Top 50% contributors:**
 niamccash.
 d7ianielsimonP.
+Dhruvyadav2000.
 SapphicFire.
-acashkr.
 
 **Other contributors:**
+acashkr.
 alkaChaudhary73.
 artemis15.
 BH0LL.
 davidehira.
-Dhruvyadav2000.
 dwilso1018.
 erlingvt.
 john9006.
@@ -506,6 +506,7 @@ cmurley.
 d7ianielsimonP.
 DaiTranIT.
 dh3bp.
+Dhruvyadav2000.
 drk1rd.
 garyditsch.
 GK884.
@@ -670,7 +671,6 @@ devendra175151.
 DFanso.
 dhadwal.
 Dhar45.
-Dhruvyadav2000.
 diasjp.
 Dimuthu7.
 DinithiG.
