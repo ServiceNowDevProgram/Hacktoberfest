@@ -141,13 +141,13 @@ Meet the Hacktoberfest crew who will be maintaining your projects:
 
 **Top 5% contributors:**
 earlduque.
+Lacah.
 
 **Top 10% contributors:**
-Lacah.
 snamjosh.
+vermaamit1664.
 
 **Top 25% contributors:**
-vermaamit1664.
 Dhruvyadav2000.
 DhanushNehru.
 Praiseto.
@@ -158,10 +158,10 @@ niamccash.
 chelming.
 d7ianielsimonP.
 mohitchauhan-dev.
-pviglianti.
-SapphicFire.
 
 **Other contributors:**
+pviglianti.
+SapphicFire.
 acashkr.
 alkaChaudhary73.
 artemis15.
@@ -181,6 +181,7 @@ Paulsylo25.
 robertbeeman.
 rohi-v.
 ronaldkarim.
+Sravanik12.
 sravankadudhuri.
 steveuncg.
 swaroop-surampalli.
@@ -998,6 +999,7 @@ somusekher.
 Sookeyy-12.
 Soulpancake000.
 Souradeephazra123.
+Sravanik12.
 sravankadudhuri.
 srirampusuluri1.
 Srutip04.
