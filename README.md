@@ -187,6 +187,7 @@ steveuncg.
 swaroop-surampalli.
 TracyCurry96.
 vijaytechy.
+Vishnu-rvk.
 xjfdzn.
 
 ## Leaderboard (all time):
@@ -368,9 +369,9 @@ anguspalmer.
 Badal2k23.
 NBaker137.
 revantKulkarni.
+trade12.
 
 **Top 50% contributors:**
-trade12.
 QI-XING.
 ttoter.
 AlphaEagle.
@@ -457,9 +458,9 @@ ManobhavSachan.
 mevops.
 mikeroosa.
 moshjahan.
+mwchiao.
 
 **Other contributors:**
-mwchiao.
 pavankumar-4.
 physi.
 Praiseto.
@@ -1046,6 +1047,7 @@ vigneshmc.
 vijay1379.
 vijayshankar485.
 vijaytechy.
+Vishnu-rvk.
 Vivek-KP.
 vivekmunda1609.
 vkambhammettu.
