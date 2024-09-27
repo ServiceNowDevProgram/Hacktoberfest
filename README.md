@@ -158,9 +158,9 @@ Sravanik12.
 niamccash.
 chelming.
 d7ianielsimonP.
+mohitchauhan-dev.
 
 **Other contributors:**
-mohitchauhan-dev.
 pviglianti.
 SapphicFire.
 acashkr.
@@ -182,6 +182,7 @@ Paulsylo25.
 robertbeeman.
 rohi-v.
 ronaldkarim.
+selvarun-umass.
 sravankadudhuri.
 steveuncg.
 swaroop-surampalli.
@@ -977,6 +978,7 @@ scervv.
 scschroc.
 SeaBri.
 sekhar398.
+selvarun-umass.
 sergelouie6.
 ServiceNowDevProgram.
 SG-SN.
