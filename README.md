@@ -151,16 +151,16 @@ vermaamit1664.
 Dhruvyadav2000.
 DhanushNehru.
 Praiseto.
+niamccash.
 
 **Top 50% contributors:**
-niamccash.
 chelming.
 d7ianielsimonP.
 mohitchauhan-dev.
 pviglianti.
+SapphicFire.
 
 **Other contributors:**
-SapphicFire.
 acashkr.
 alkaChaudhary73.
 artemis15.
@@ -182,6 +182,7 @@ Saiprethaa.
 sravankadudhuri.
 steveuncg.
 TracyCurry96.
+vijaytechy.
 xjfdzn.
 
 ## Leaderboard (all time):
@@ -229,9 +230,9 @@ MrChrisE.
 vandna07.
 PranavBhagat18.
 Irston.
+litwi1rm.
 
 **Top 10% contributors:**
-litwi1rm.
 mak1A4.
 shivamTodwal.
 iar42.
@@ -274,9 +275,9 @@ abhrajyotikanrar.
 DavidMarcial.
 techYESlogyXplorer.
 alyaanbasha.
+gregorwmail.
 
 **Top 25% contributors:**
-gregorwmail.
 harishankert.
 mady22070.
 ronaldkarim.
@@ -451,10 +452,10 @@ loudigi.
 ManobhavSachan.
 mevops.
 mikeroosa.
-moshjahan.
-mwchiao.
 
 **Other contributors:**
+moshjahan.
+mwchiao.
 pavankumar-4.
 physi.
 Praiseto.
@@ -1037,6 +1038,7 @@ VictorAlbergaria.
 vigneshmc.
 vijay1379.
 vijayshankar485.
+vijaytechy.
 Vivek-KP.
 vivekmunda1609.
 vkambhammettu.
