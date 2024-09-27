@@ -150,14 +150,14 @@ selvarun-umass.
 **Top 25% contributors:**
 vermaamit1664.
 Dhruvyadav2000.
+404paige.
 DhanushNehru.
 Praiseto.
-praisetoyt.
 
 **Top 50% contributors:**
+praisetoyt.
 Saiprethaa.
 Sravanik12.
-404paige.
 niamccash.
 chelming.
 
@@ -428,6 +428,7 @@ RagaChitraMankala.
 thameemskings.
 Thrizvi.
 vk-cloud.
+404paige.
 4bode.
 abhay625.
 ananthsridhar.
@@ -462,9 +463,9 @@ ManobhavSachan.
 mevops.
 mikeroosa.
 moshjahan.
-mwchiao.
 
 **Other contributors:**
+mwchiao.
 pavankumar-4.
 physi.
 Praiseto.
@@ -493,7 +494,6 @@ tomlozano.
 trishitapingolia.
 workpurposeusername.
 zaidongy.
-404paige.
 jon-lind-sn.
 ToosinDada.
 bendouglass.
