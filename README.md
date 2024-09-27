@@ -169,6 +169,7 @@ cschmidt82.
 davidehira.
 dwilso1018.
 erlingvt.
+GittyHarsha.
 jekinz-tagline.
 john9006.
 KiwiPelago.
@@ -454,9 +455,9 @@ loudigi.
 ManobhavSachan.
 mevops.
 mikeroosa.
+moshjahan.
 
 **Other contributors:**
-moshjahan.
 mwchiao.
 pavankumar-4.
 physi.
@@ -733,6 +734,7 @@ Geraldf.
 gh0stxplt.
 GiovanniPeretti.
 git-rep0.
+GittyHarsha.
 GLaDOS2199.
 golu833.
 GouthamSG.
