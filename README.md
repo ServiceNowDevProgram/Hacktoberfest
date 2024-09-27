@@ -151,16 +151,17 @@ vermaamit1664.
 Dhruvyadav2000.
 DhanushNehru.
 Praiseto.
-Saiprethaa.
+praisetoyt.
 
 **Top 50% contributors:**
+Saiprethaa.
 Sravanik12.
 niamccash.
 chelming.
 d7ianielsimonP.
-mohitchauhan-dev.
 
 **Other contributors:**
+mohitchauhan-dev.
 pviglianti.
 SapphicFire.
 acashkr.
@@ -179,7 +180,6 @@ kmxo.
 marcos-michalski.
 pandeysameer.
 Paulsylo25.
-praisetoyt.
 robertbeeman.
 rohi-v.
 ronaldkarim.
@@ -466,6 +466,7 @@ pavankumar-4.
 **Other contributors:**
 physi.
 Praiseto.
+praisetoyt.
 pratyushmp.
 PreyumKr.
 RajputUsman.
@@ -920,7 +921,6 @@ petersonferreira.
 PeteSkeet101.
 pimvet.
 Pooja123667.
-praisetoyt.
 Prasannalakshmik.
 Pratyusha418.
 prerna120.
