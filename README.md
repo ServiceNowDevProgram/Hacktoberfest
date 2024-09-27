@@ -159,9 +159,9 @@ d7ianielsimonP.
 mohitchauhan-dev.
 pviglianti.
 SapphicFire.
+acashkr.
 
 **Other contributors:**
-acashkr.
 alkaChaudhary73.
 artemis15.
 BH0LL.
@@ -182,6 +182,7 @@ ronaldkarim.
 Saiprethaa.
 sravankadudhuri.
 steveuncg.
+swaroop-surampalli.
 TracyCurry96.
 vijaytechy.
 xjfdzn.
@@ -1010,6 +1011,7 @@ suryakantdubalgunde.
 suryakantshoor.
 sushil-now.
 SwarnadeepNandy.
+swaroop-surampalli.
 TamByrd.
 tapishsh.
 techspark77.
