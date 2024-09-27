@@ -148,9 +148,9 @@ snamjosh.
 
 **Top 25% contributors:**
 Dhruvyadav2000.
+vermaamit1664.
 DhanushNehru.
 Praiseto.
-vermaamit1664.
 
 **Top 50% contributors:**
 niamccash.
@@ -416,6 +416,7 @@ Jaskaran-Techno.
 RagaChitraMankala.
 thameemskings.
 Thrizvi.
+vermaamit1664.
 vk-cloud.
 4bode.
 abhay625.
@@ -452,9 +453,9 @@ mevops.
 mikeroosa.
 moshjahan.
 mwchiao.
-pavankumar-4.
 
 **Other contributors:**
+pavankumar-4.
 physi.
 Praiseto.
 pratyushmp.
@@ -477,7 +478,6 @@ Subhraneel77.
 thomasvogh.
 tomlozano.
 trishitapingolia.
-vermaamit1664.
 workpurposeusername.
 zaidongy.
 jon-lind-sn.
