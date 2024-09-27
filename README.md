@@ -145,10 +145,10 @@ Lacah.
 
 **Top 10% contributors:**
 snamjosh.
-vermaamit1664.
+selvarun-umass.
 
 **Top 25% contributors:**
-selvarun-umass.
+vermaamit1664.
 Dhruvyadav2000.
 DhanushNehru.
 Praiseto.
@@ -393,6 +393,7 @@ miracc.
 MiroslawBuszek.
 pandeysumit-now.
 patrickpaterlini.
+selvarun-umass.
 vermaamit1664.
 LucasRocha2308.
 Mahesh-Krishnan1.
@@ -400,7 +401,6 @@ maialithar.
 MihirRathod.
 preshitd.
 Saileshlanka.
-selvarun-umass.
 shridk.
 tanu-profile.
 TheTreyKyle.
