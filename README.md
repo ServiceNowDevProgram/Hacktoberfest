@@ -155,12 +155,13 @@ praisetoyt.
 
 **Top 50% contributors:**
 Saiprethaa.
+selvarun-umass.
 Sravanik12.
 niamccash.
 chelming.
-d7ianielsimonP.
 
 **Other contributors:**
+d7ianielsimonP.
 mohitchauhan-dev.
 pviglianti.
 SapphicFire.
@@ -183,7 +184,6 @@ Paulsylo25.
 robertbeeman.
 rohi-v.
 ronaldkarim.
-selvarun-umass.
 sravankadudhuri.
 steveuncg.
 swaroop-surampalli.
@@ -481,6 +481,7 @@ samwinchet.
 sanchit-varshney.
 sandeepd26.
 sanju009.
+selvarun-umass.
 Shambu-K.
 speedy18.
 Sravanik12.
@@ -980,7 +981,6 @@ scervv.
 scschroc.
 SeaBri.
 sekhar398.
-selvarun-umass.
 sergelouie6.
 ServiceNowDevProgram.
 SG-SN.
