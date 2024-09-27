@@ -144,12 +144,12 @@ earlduque.
 Lacah.
 
 **Top 10% contributors:**
+404paige.
 snamjosh.
-selvarun-umass.
 
 **Top 25% contributors:**
+selvarun-umass.
 vermaamit1664.
-404paige.
 Dhruvyadav2000.
 DhanushNehru.
 Praiseto.
@@ -380,6 +380,7 @@ QI-XING.
 ttoter.
 AlphaEagle.
 JWITSM.
+404paige.
 djunaid.
 Haile-08.
 sonamtiwari8.
@@ -396,7 +397,6 @@ pandeysumit-now.
 patrickpaterlini.
 selvarun-umass.
 vermaamit1664.
-404paige.
 LucasRocha2308.
 Mahesh-Krishnan1.
 maialithar.
