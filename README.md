@@ -148,8 +148,8 @@ snamjosh.
 vermaamit1664.
 
 **Top 25% contributors:**
-Dhruvyadav2000.
 selvarun-umass.
+Dhruvyadav2000.
 DhanushNehru.
 Praiseto.
 praisetoyt.
@@ -417,6 +417,7 @@ ewatch.
 NayeemKaka.
 puneet94.
 rohantjoshi.
+selvarun-umass.
 sisco0.
 yuvraj1107thapa.
 ashaw7697.
@@ -424,7 +425,6 @@ crooks-s.
 Dhruvyadav2000.
 Jaskaran-Techno.
 RagaChitraMankala.
-selvarun-umass.
 thameemskings.
 Thrizvi.
 vk-cloud.
