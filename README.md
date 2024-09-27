@@ -154,12 +154,13 @@ Praiseto.
 Saiprethaa.
 
 **Top 50% contributors:**
+Sravanik12.
 niamccash.
 chelming.
 d7ianielsimonP.
-mohitchauhan-dev.
 
 **Other contributors:**
+mohitchauhan-dev.
 pviglianti.
 SapphicFire.
 acashkr.
@@ -181,7 +182,6 @@ Paulsylo25.
 robertbeeman.
 rohi-v.
 ronaldkarim.
-Sravanik12.
 sravankadudhuri.
 steveuncg.
 swaroop-surampalli.
@@ -479,6 +479,7 @@ sandeepd26.
 sanju009.
 Shambu-K.
 speedy18.
+Sravanik12.
 stwinkle.
 Subhraneel77.
 thomasvogh.
@@ -999,7 +1000,6 @@ somusekher.
 Sookeyy-12.
 Soulpancake000.
 Souradeephazra123.
-Sravanik12.
 sravankadudhuri.
 srirampusuluri1.
 Srutip04.
