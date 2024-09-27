@@ -150,16 +150,17 @@ snamjosh.
 Dhruvyadav2000.
 DhanushNehru.
 Praiseto.
-niamccash.
+vermaamit1664.
 
 **Top 50% contributors:**
+niamccash.
 chelming.
 d7ianielsimonP.
 mohitchauhan-dev.
 pviglianti.
-SapphicFire.
 
 **Other contributors:**
+SapphicFire.
 acashkr.
 alkaChaudhary73.
 artemis15.
@@ -181,7 +182,6 @@ Saiprethaa.
 sravankadudhuri.
 steveuncg.
 TracyCurry96.
-vermaamit1664.
 xjfdzn.
 
 ## Leaderboard (all time):
@@ -477,6 +477,7 @@ Subhraneel77.
 thomasvogh.
 tomlozano.
 trishitapingolia.
+vermaamit1664.
 workpurposeusername.
 zaidongy.
 jon-lind-sn.
@@ -1032,7 +1033,6 @@ Vaibhav91one.
 vaishakbkj-ml.
 VanWeapon.
 venkat-244.
-vermaamit1664.
 VictorAlbergaria.
 vigneshmc.
 vijay1379.
