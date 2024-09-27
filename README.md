@@ -147,8 +147,8 @@ Lacah.
 snamjosh.
 
 **Top 25% contributors:**
-Dhruvyadav2000.
 vermaamit1664.
+Dhruvyadav2000.
 DhanushNehru.
 Praiseto.
 
@@ -384,6 +384,7 @@ miracc.
 MiroslawBuszek.
 pandeysumit-now.
 patrickpaterlini.
+vermaamit1664.
 LucasRocha2308.
 Mahesh-Krishnan1.
 maialithar.
@@ -416,7 +417,6 @@ Jaskaran-Techno.
 RagaChitraMankala.
 thameemskings.
 Thrizvi.
-vermaamit1664.
 vk-cloud.
 4bode.
 abhay625.
