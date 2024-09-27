@@ -152,19 +152,20 @@ Dhruvyadav2000.
 DhanushNehru.
 Praiseto.
 praisetoyt.
+Saiprethaa.
 
 **Top 50% contributors:**
-Saiprethaa.
 selvarun-umass.
 Sravanik12.
 niamccash.
 chelming.
+d7ianielsimonP.
 
 **Other contributors:**
-d7ianielsimonP.
 mohitchauhan-dev.
 pviglianti.
 SapphicFire.
+404paige.
 acashkr.
 alkaChaudhary73.
 artemis15.
@@ -584,6 +585,7 @@ vivekverma18.
 Zephyre195.
 0x3developer.
 1-23-smy.
+404paige.
 aaron-howard.
 abbottj27.
 Abhi132004.
