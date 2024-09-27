@@ -163,9 +163,9 @@ chelming.
 MGOPW.
 
 **Other contributors:**
+mvkassak.
 d7ianielsimonP.
 mohitchauhan-dev.
-mvkassak.
 pviglianti.
 SapphicFire.
 acashkr.
@@ -517,6 +517,7 @@ Krishnakant-iv.
 Litaflom.
 lverbeke.
 mohdzeeshan96.
+mvkassak.
 nancystodd.
 outlivo.
 prashantmrshine.
@@ -561,7 +562,6 @@ Lxn12.
 MaChenChen1211.
 mua35.
 mvarshney99.
-mvkassak.
 NicoxNall.
 NK-01.
 noviicee.
