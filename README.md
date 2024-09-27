@@ -149,13 +149,13 @@ vermaamit1664.
 
 **Top 25% contributors:**
 Dhruvyadav2000.
+selvarun-umass.
 DhanushNehru.
 Praiseto.
 praisetoyt.
-Saiprethaa.
 
 **Top 50% contributors:**
-selvarun-umass.
+Saiprethaa.
 Sravanik12.
 niamccash.
 chelming.
@@ -424,6 +424,7 @@ crooks-s.
 Dhruvyadav2000.
 Jaskaran-Techno.
 RagaChitraMankala.
+selvarun-umass.
 thameemskings.
 Thrizvi.
 vk-cloud.
@@ -462,9 +463,9 @@ mevops.
 mikeroosa.
 moshjahan.
 mwchiao.
-pavankumar-4.
 
 **Other contributors:**
+pavankumar-4.
 physi.
 Praiseto.
 praisetoyt.
@@ -482,7 +483,6 @@ samwinchet.
 sanchit-varshney.
 sandeepd26.
 sanju009.
-selvarun-umass.
 Shambu-K.
 speedy18.
 Sravanik12.
