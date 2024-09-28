@@ -150,9 +150,9 @@ vermaamit1664.
 
 **Top 25% contributors:**
 Dhruvyadav2000.
+mebeingmustaq.
 selvarun-umass.
 DhanushNehru.
-mebeingmustaq.
 Praiseto.
 
 **Top 50% contributors:**
@@ -430,6 +430,7 @@ ashaw7697.
 crooks-s.
 Dhruvyadav2000.
 Jaskaran-Techno.
+mebeingmustaq.
 RagaChitraMankala.
 selvarun-umass.
 thameemskings.
@@ -466,7 +467,6 @@ kaushalbharade.
 lakshyatyagi24.
 loudigi.
 ManobhavSachan.
-mebeingmustaq.
 mevops.
 mikeroosa.
 moshjahan.
