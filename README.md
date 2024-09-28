@@ -150,23 +150,24 @@ vermaamit1664.
 
 **Top 25% contributors:**
 Dhruvyadav2000.
-mebeingmustaq.
 selvarun-umass.
 DhanushNehru.
 Praiseto.
+praisetoyt.
 
 **Top 50% contributors:**
-praisetoyt.
 Saiprethaa.
 Sravanik12.
 niamccash.
 chelming.
 ronaldkarim.
+MGOPW.
 
 **Other contributors:**
-MGOPW.
 mvkassak.
 d7ianielsimonP.
+kmxo.
+mebeingmustaq.
 mohitchauhan-dev.
 pviglianti.
 SapphicFire.
@@ -184,7 +185,6 @@ GittyHarsha.
 jekinz-tagline.
 john9006.
 KiwiPelago.
-kmxo.
 marcos-michalski.
 nooras.
 pandeysameer.
@@ -430,7 +430,6 @@ ashaw7697.
 crooks-s.
 Dhruvyadav2000.
 Jaskaran-Techno.
-mebeingmustaq.
 RagaChitraMankala.
 selvarun-umass.
 thameemskings.
@@ -471,9 +470,9 @@ mevops.
 mikeroosa.
 moshjahan.
 mwchiao.
+pavankumar-4.
 
 **Other contributors:**
-pavankumar-4.
 physi.
 Praiseto.
 praisetoyt.
@@ -559,11 +558,13 @@ JCofman.
 kcimpulse.
 kfrencher.
 kkbrains1.
+kmxo.
 Kswierk.
 LakshmiPrasanna96.
 lucas-especta.
 Lxn12.
 MaChenChen1211.
+mebeingmustaq.
 mua35.
 mvarshney99.
 NicoxNall.
@@ -841,7 +842,6 @@ kieo-on.
 KishoreGitRepo.
 kit-t.
 KiwiPelago.
-kmxo.
 KokilaAbeysinghe.
 kolomu.
 konikalily.
