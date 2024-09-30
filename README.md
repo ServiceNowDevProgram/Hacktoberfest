@@ -145,8 +145,8 @@ Lacah.
 
 **Top 10% contributors:**
 404paige.
-snamjosh.
 mohitchauhan-dev.
+snamjosh.
 
 **Top 25% contributors:**
 vermaamit1664.
@@ -269,6 +269,7 @@ mr-swann.
 chetnadev.
 TRIGGEREDcoder.
 Danmax.
+mohitchauhan-dev.
 hafsa-asif.
 ovarn.
 devinvalencia.
@@ -283,7 +284,6 @@ MRSinghRajat.
 oasif.
 jiteshmalik.
 jonahpiascik.
-mohitchauhan-dev.
 soerenmaucher.
 at8807602.
 avssrikanth.
