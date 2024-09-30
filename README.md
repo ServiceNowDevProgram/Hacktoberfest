@@ -165,9 +165,9 @@ chelming.
 kmxo.
 ronaldkarim.
 MGOPW.
+mvkassak.
 
 **Other contributors:**
-mvkassak.
 Beeram12.
 d7ianielsimonP.
 manrick.
@@ -189,6 +189,7 @@ gauravghodinde.
 GittyHarsha.
 jekinz-tagline.
 john9006.
+katsiarynasoshyna.
 KiwiPelago.
 marcos-michalski.
 nooras.
@@ -480,9 +481,9 @@ mwchiao.
 pavankumar-4.
 physi.
 Praiseto.
+praisetoyt.
 
 **Other contributors:**
-praisetoyt.
 pratyushmp.
 PreyumKr.
 RajputUsman.
@@ -841,6 +842,7 @@ KarelMusa.
 KarelSyrovatka.
 Karthick986.
 karthiga8881.
+katsiarynasoshyna.
 KayakDK.
 kdinesh26.
 Keagnn.
