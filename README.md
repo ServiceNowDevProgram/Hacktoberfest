@@ -198,6 +198,7 @@ marcos-michalski.
 nooras.
 osc99.
 pandeysameer.
+pranjalisr.
 robertbeeman.
 rohantjoshi.
 rohi-v.
@@ -257,9 +258,9 @@ vandna07.
 PranavBhagat18.
 Irston.
 litwi1rm.
+mak1A4.
 
 **Top 10% contributors:**
-mak1A4.
 shivamTodwal.
 iar42.
 mlemartien.
@@ -303,9 +304,9 @@ sn-ajb.
 abhrajyotikanrar.
 DavidMarcial.
 techYESlogyXplorer.
+alyaanbasha.
 
 **Top 25% contributors:**
-alyaanbasha.
 gregorwmail.
 harishankert.
 mady22070.
@@ -484,10 +485,10 @@ mikeroosa.
 moshjahan.
 mwchiao.
 pavankumar-4.
-physi.
-Praiseto.
 
 **Other contributors:**
+physi.
+Praiseto.
 praisetoyt.
 pratyushmp.
 PreyumKr.
@@ -953,6 +954,7 @@ petersonferreira.
 PeteSkeet101.
 pimvet.
 Pooja123667.
+pranjalisr.
 Prasannalakshmik.
 Pratyusha418.
 prerna120.
