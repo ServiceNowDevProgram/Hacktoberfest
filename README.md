@@ -168,6 +168,7 @@ mvkassak.
 **Other contributors:**
 Beeram12.
 d7ianielsimonP.
+manrick.
 mebeingmustaq.
 mohitchauhan-dev.
 pviglianti.
@@ -188,7 +189,6 @@ GittyHarsha.
 jekinz-tagline.
 john9006.
 KiwiPelago.
-manrick.
 marcos-michalski.
 nooras.
 pandeysameer.
@@ -333,6 +333,7 @@ Himanshu-skb-oo7.
 sanjivmeher.
 aman2519.
 hoederath.
+manrick.
 namrataghorpade.
 Paulsylo25.
 almajam.
@@ -341,7 +342,6 @@ brenduh.
 dalestubblefield.
 danielliaus.
 JonSandoval.
-manrick.
 sauravsumankumar.
 ashuprince121.
 hrichiksite.
