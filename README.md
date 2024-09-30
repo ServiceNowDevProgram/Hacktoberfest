@@ -166,6 +166,7 @@ MGOPW.
 mvkassak.
 
 **Other contributors:**
+Beeram12.
 d7ianielsimonP.
 mebeingmustaq.
 mohitchauhan-dev.
@@ -175,7 +176,6 @@ Vishnu-rvk.
 acashkr.
 alkaChaudhary73.
 artemis15.
-Beeram12.
 BH0LL.
 blindaks.
 cschmidt82.
@@ -542,6 +542,7 @@ APraestegaard.
 artemis15.
 ayrotideysarkar.
 BadalKhojare.
+Beeram12.
 beingfluid.
 BeniRaja.
 bgrk005.
@@ -654,7 +655,6 @@ Balamurugan-RR.
 banjofrailer.
 Basha8.
 beedme.
-Beeram12.
 belloibrahv.
 bflat96.
 BFrost.
