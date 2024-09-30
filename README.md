@@ -168,6 +168,7 @@ Beeram12.
 
 **Other contributors:**
 d7ianielsimonP.
+kalyan120694.
 manrick.
 mebeingmustaq.
 mohitchauhan-dev.
@@ -188,7 +189,6 @@ gauravghodinde.
 GittyHarsha.
 jekinz-tagline.
 john9006.
-kalyan120694.
 KiwiPelago.
 marcos-michalski.
 nooras.
@@ -564,6 +564,7 @@ ishanjain18.
 javiervillarreal.
 jaz1gdev.
 JCofman.
+kalyan120694.
 kcimpulse.
 kfrencher.
 kkbrains1.
@@ -831,7 +832,6 @@ JustinLoftas.
 justSNaccount.
 kainturar.
 Kaluzy.
-kalyan120694.
 kalyans12.
 Kamstrup-ServiceNow.
 kanishka-parmar.
