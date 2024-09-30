@@ -154,17 +154,17 @@ selvarun-umass.
 DhanushNehru.
 Praiseto.
 praisetoyt.
+Saiprethaa.
 
 **Top 50% contributors:**
-Saiprethaa.
 Sravanik12.
 niamccash.
 chelming.
 kmxo.
 ronaldkarim.
+MGOPW.
 
 **Other contributors:**
-MGOPW.
 mvkassak.
 d7ianielsimonP.
 mebeingmustaq.
@@ -193,6 +193,7 @@ pandeysameer.
 Paulsylo25.
 robertbeeman.
 rohi-v.
+Ronilpatil22.
 sravankadudhuri.
 steveuncg.
 swaroop-surampalli.
@@ -472,9 +473,9 @@ mikeroosa.
 moshjahan.
 mwchiao.
 pavankumar-4.
+physi.
 
 **Other contributors:**
-physi.
 Praiseto.
 praisetoyt.
 pratyushmp.
@@ -973,6 +974,7 @@ RitheshGit.
 robertbeeman.
 Rohitshaun.
 RokasG.
+Ronilpatil22.
 RooshanSalim.
 RosaAtCoding.
 RoseKonvalinka.
