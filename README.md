@@ -163,9 +163,9 @@ chelming.
 kmxo.
 ronaldkarim.
 MGOPW.
+mvkassak.
 
 **Other contributors:**
-mvkassak.
 d7ianielsimonP.
 mebeingmustaq.
 mohitchauhan-dev.
@@ -175,6 +175,7 @@ Vishnu-rvk.
 acashkr.
 alkaChaudhary73.
 artemis15.
+Beeram12.
 BH0LL.
 blindaks.
 cschmidt82.
@@ -384,9 +385,9 @@ NBaker137.
 revantKulkarni.
 trade12.
 QI-XING.
+ttoter.
 
 **Top 50% contributors:**
-ttoter.
 AlphaEagle.
 JWITSM.
 djunaid.
@@ -475,9 +476,9 @@ moshjahan.
 mwchiao.
 pavankumar-4.
 physi.
+Praiseto.
 
 **Other contributors:**
-Praiseto.
 praisetoyt.
 pratyushmp.
 PreyumKr.
@@ -653,6 +654,7 @@ Balamurugan-RR.
 banjofrailer.
 Basha8.
 beedme.
+Beeram12.
 belloibrahv.
 bflat96.
 BFrost.
