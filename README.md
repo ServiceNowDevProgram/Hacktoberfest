@@ -140,8 +140,8 @@ Meet the Hacktoberfest crew who will be maintaining your projects:
 ## Leaderboard (this year):
 
 **Top 5% contributors:**
-earlduque.
 404paige.
+earlduque.
 Lacah.
 
 **Top 10% contributors:**
@@ -268,6 +268,7 @@ salmaniqbal92.
 csharpie.
 mr-swann.
 chetnadev.
+404paige.
 TRIGGEREDcoder.
 Danmax.
 mohitchauhan-dev.
@@ -279,7 +280,6 @@ mskoddow.
 gowdah.
 lakshmikanthgupta.
 riya-misra-1.
-404paige.
 danr2c2.
 Litwilly.
 MRSinghRajat.
