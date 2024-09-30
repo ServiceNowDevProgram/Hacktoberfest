@@ -153,19 +153,20 @@ snamjosh.
 vermaamit1664.
 Dhruvyadav2000.
 selvarun-umass.
+ariyadmir.
 DhanushNehru.
 Praiseto.
-praisetoyt.
 
 **Top 50% contributors:**
+praisetoyt.
 Saiprethaa.
 Sravanik12.
 kalyan120694.
 chelming.
 kmxo.
-MGOPW.
 
 **Other contributors:**
+MGOPW.
 ronaldkarim.
 mvkassak.
 Beeram12.
@@ -177,7 +178,6 @@ SapphicFire.
 Vishnu-rvk.
 acashkr.
 alkaChaudhary73.
-ariyadmir.
 artemis15.
 BH0LL.
 blindaks.
@@ -449,6 +449,7 @@ vk-cloud.
 abhay625.
 ananthsridhar.
 ankitshaw625.
+ariyadmir.
 Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
@@ -483,9 +484,9 @@ mwchiao.
 pavankumar-4.
 physi.
 Praiseto.
-praisetoyt.
 
 **Other contributors:**
+praisetoyt.
 pratyushmp.
 PreyumKr.
 RajputUsman.
@@ -646,7 +647,6 @@ apbuhssc.
 Archita-2023.
 Arit-Su.
 AritraSadhu.
-ariyadmir.
 arostesri.
 artursnusz.
 askarthik.
