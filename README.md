@@ -158,12 +158,12 @@ ariyadmir.
 DhanushNehru.
 
 **Top 50% contributors:**
+MGOPW.
 Praiseto.
 praisetoyt.
 Saiprethaa.
 Sravanik12.
 kalyan120694.
-MGOPW.
 chelming.
 
 **Other contributors:**
@@ -224,8 +224,8 @@ Rampriya-S.
 johndahl-now.
 paigesndev.
 kmohit2809.
-ishaanshoor.
 mgopw.
+ishaanshoor.
 DavidArthurCole.
 eriemer1.
 MartinStoyanoff.
