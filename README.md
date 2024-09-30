@@ -140,8 +140,8 @@ Meet the Hacktoberfest crew who will be maintaining your projects:
 ## Leaderboard (this year):
 
 **Top 5% contributors:**
-404paige.
 earlduque.
+404paige.
 Lacah.
 
 **Top 10% contributors:**
