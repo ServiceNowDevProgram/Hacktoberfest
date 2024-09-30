@@ -156,18 +156,18 @@ Dhruvyadav2000.
 selvarun-umass.
 ariyadmir.
 DhanushNehru.
+MGOPW.
 
 **Top 50% contributors:**
-MGOPW.
 Praiseto.
 praisetoyt.
 Saiprethaa.
 Sravanik12.
 kalyan120694.
 chelming.
+kmxo.
 
 **Other contributors:**
-kmxo.
 ronaldkarim.
 mvkassak.
 Paulsylo25.
@@ -178,6 +178,7 @@ mebeingmustaq.
 pviglianti.
 SapphicFire.
 Vishnu-rvk.
+wiz0floyd.
 acashkr.
 alkaChaudhary73.
 artemis15.
