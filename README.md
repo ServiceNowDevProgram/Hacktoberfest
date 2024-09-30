@@ -155,18 +155,18 @@ DhanushNehru.
 Praiseto.
 praisetoyt.
 Saiprethaa.
+Sravanik12.
 
 **Top 50% contributors:**
-Sravanik12.
 niamccash.
 chelming.
 kmxo.
 ronaldkarim.
 MGOPW.
 mvkassak.
+Beeram12.
 
 **Other contributors:**
-Beeram12.
 d7ianielsimonP.
 manrick.
 mebeingmustaq.
@@ -191,6 +191,7 @@ john9006.
 KiwiPelago.
 marcos-michalski.
 nooras.
+osc99.
 pandeysameer.
 Paulsylo25.
 robertbeeman.
@@ -577,6 +578,7 @@ NicoxNall.
 NK-01.
 noviicee.
 NowSharif.
+osc99.
 Pavandileep.
 ppalaskar.
 pviglianti.
@@ -929,7 +931,6 @@ ocl-gustavo.
 Ogre86.
 OllyIB.
 omkarvasekar.
-osc99.
 oskadoskaposka.
 OsvaldoCabral.
 ousswx-wx.
