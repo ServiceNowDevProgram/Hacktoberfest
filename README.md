@@ -146,11 +146,11 @@ Lacah.
 **Top 10% contributors:**
 404paige.
 snamjosh.
-vermaamit1664.
+mohitchauhan-dev.
 
 **Top 25% contributors:**
+vermaamit1664.
 Dhruvyadav2000.
-mohitchauhan-dev.
 selvarun-umass.
 DhanushNehru.
 Praiseto.
@@ -281,6 +281,7 @@ MRSinghRajat.
 oasif.
 jiteshmalik.
 jonahpiascik.
+mohitchauhan-dev.
 soerenmaucher.
 at8807602.
 avssrikanth.
@@ -292,7 +293,6 @@ shakeel-sheikh.
 vjtknn.
 Yokesh0811.
 MarcMouries.
-mohitchauhan-dev.
 sn-ajb.
 abhrajyotikanrar.
 DavidMarcial.
