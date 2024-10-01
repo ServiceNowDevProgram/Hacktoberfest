@@ -172,9 +172,9 @@ DhanushNehru.
 Jahnavi-Solanki.
 MGOPW.
 Praiseto.
+praisetoyt.
 
 **Other contributors:**
-praisetoyt.
 sachinggsingh.
 Saiprethaa.
 shridk.
@@ -201,6 +201,7 @@ BhageshChavan.
 blindaks.
 cschmidt82.
 davidehira.
+DennisRutherford.
 dwilso1018.
 erlingvt.
 ersureshbe.
@@ -758,6 +759,7 @@ davidehira.
 dchavez434.
 dcord1x.
 denmant.
+DennisRutherford.
 derHundOida.
 developmentpark.
 devendra175151.
