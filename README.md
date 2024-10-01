@@ -150,10 +150,10 @@ kmxo.
 maheshkhatal27.
 mohitchauhan-dev.
 snamjosh.
-vermaamit1664.
+niamccash.
 
 **Top 25% contributors:**
-niamccash.
+vermaamit1664.
 selvarun-umass.
 eriemer1.
 Praiseto.
@@ -161,14 +161,14 @@ ashoo-jindal.
 captainbraddles.
 SapphicFire.
 mo-dahir.
-ariyadmir.
 Dhruvyadav2000.
 Vishnu-rvk.
+bkb68.
 
 **Top 50% contributors:**
-bkb68.
 ronaldkarim.
 Shreedevisnow.
+ariyadmir.
 Beeram12.
 tejasathalye.
 DhanushNehru.
@@ -447,7 +447,6 @@ sonamtiwari8.
 Adiana3308.
 akhoshnood.
 allam1234.
-ariyadmir.
 Decoder-Paul.
 DhanushNehru.
 Dhruvyadav2000.
@@ -483,6 +482,7 @@ puneet94.
 Shreedevisnow.
 sisco0.
 yuvraj1107thapa.
+ariyadmir.
 ashaw7697.
 Beeram12.
 crooks-s.
