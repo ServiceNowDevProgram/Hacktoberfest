@@ -156,15 +156,15 @@ vermaamit1664.
 captainbraddles.
 niamccash.
 mo-dahir.
+Dhruvyadav2000.
 Vishnu-rvk.
 eriemer1.
 shridk.
-ashoo-jindal.
 
 **Top 50% contributors:**
+ashoo-jindal.
 ronaldkarim.
 Shreedevisnow.
-Dhruvyadav2000.
 selvarun-umass.
 tejasathalye.
 ariyadmir.
@@ -430,6 +430,7 @@ akhoshnood.
 allam1234.
 Decoder-Paul.
 DhanushNehru.
+Dhruvyadav2000.
 jesalynrose.
 Ladirinia.
 miracc.
@@ -464,7 +465,6 @@ sisco0.
 yuvraj1107thapa.
 ashaw7697.
 crooks-s.
-Dhruvyadav2000.
 Jaskaran-Techno.
 RagaChitraMankala.
 selvarun-umass.
