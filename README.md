@@ -168,15 +168,16 @@ Vishnu-rvk.
 Praiseto.
 ronaldkarim.
 Shreedevisnow.
+Beeram12.
 tejasathalye.
 bkb68.
 DhanushNehru.
 Jahnavi-Solanki.
 MGOPW.
 Nikil-D-Gr8.
-praisetoyt.
 
 **Other contributors:**
+praisetoyt.
 sachinggsingh.
 Saiprethaa.
 saitarun2499.
@@ -192,7 +193,6 @@ bgrk005.
 mvkassak.
 Paulsylo25.
 abhrajyotikanrar.
-Beeram12.
 d7ianielsimonP.
 DennisRutherford.
 manrick.
@@ -480,6 +480,7 @@ Shreedevisnow.
 sisco0.
 yuvraj1107thapa.
 ashaw7697.
+Beeram12.
 crooks-s.
 Jaskaran-Techno.
 RagaChitraMankala.
@@ -520,9 +521,9 @@ kaushalbharade.
 lakshyatyagi24.
 loudigi.
 ManobhavSachan.
-mevops.
 
 **Other contributors:**
+mevops.
 mikeroosa.
 moshjahan.
 mwchiao.
@@ -597,7 +598,6 @@ APraestegaard.
 artemis15.
 ayrotideysarkar.
 BadalKhojare.
-Beeram12.
 beingfluid.
 BeniRaja.
 cmurley.
