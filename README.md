@@ -169,9 +169,9 @@ MGOPW.
 Praiseto.
 praisetoyt.
 sachinggsingh.
+Saiprethaa.
 
 **Other contributors:**
-Saiprethaa.
 Sravanik12.
 kalyan120694.
 Rampriya-S.
@@ -190,6 +190,7 @@ wiz0floyd.
 acashkr.
 alkaChaudhary73.
 artemis15.
+ashoo-jindal.
 BH0LL.
 blindaks.
 cschmidt82.
@@ -352,11 +353,11 @@ thorn91.
 Himanshu-skb-oo7.
 sanjivmeher.
 aman2519.
+ashoo-jindal.
 hoederath.
 manrick.
 namrataghorpade.
 almajam.
-ashoo-jindal.
 brenduh.
 dalestubblefield.
 danielliaus.
