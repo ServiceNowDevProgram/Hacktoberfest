@@ -152,12 +152,12 @@ snamjosh.
 
 **Top 25% contributors:**
 vermaamit1664.
+maheshkhatal27.
 captainbraddles.
 niamccash.
 mo-dahir.
 Vishnu-rvk.
 eriemer1.
-maheshkhatal27.
 ronaldkarim.
 Shreedevisnow.
 
@@ -410,11 +410,12 @@ markroethof.
 shridk.
 anguspalmer.
 Badal2k23.
+maheshkhatal27.
 NBaker137.
 revantKulkarni.
-trade12.
 
 **Top 50% contributors:**
+trade12.
 QI-XING.
 ttoter.
 AlphaEagle.
@@ -437,7 +438,6 @@ patrickpaterlini.
 Vishnu-rvk.
 LucasRocha2308.
 Mahesh-Krishnan1.
-maheshkhatal27.
 maialithar.
 MihirRathod.
 preshitd.
