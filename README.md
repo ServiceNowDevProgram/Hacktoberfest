@@ -170,13 +170,13 @@ Rampriya-S.
 
 **Other contributors:**
 chelming.
+mo-dahir.
 mvkassak.
 Paulsylo25.
 Beeram12.
 d7ianielsimonP.
 manrick.
 mebeingmustaq.
-mo-dahir.
 pviglianti.
 SapphicFire.
 Vishnu-rvk.
@@ -539,6 +539,7 @@ joshuatechie.
 Krishnakant-iv.
 Litaflom.
 lverbeke.
+mo-dahir.
 mohdzeeshan96.
 mvkassak.
 nancystodd.
@@ -586,7 +587,6 @@ lucas-especta.
 Lxn12.
 MaChenChen1211.
 mebeingmustaq.
-mo-dahir.
 mua35.
 mvarshney99.
 NicoxNall.
