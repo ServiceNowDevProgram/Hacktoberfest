@@ -144,16 +144,16 @@ earlduque.
 Lacah.
 404paige.
 kmxo.
+sravankadudhuri.
 
 **Top 10% contributors:**
-sravankadudhuri.
 maheshkhatal27.
 niamccash.
 MartinStoyanoff.
 snamjosh.
+mohitchauhan-dev.
 
 **Top 25% contributors:**
-mohitchauhan-dev.
 selvarun-umass.
 Rampriya-S.
 bkb68.
@@ -176,10 +176,10 @@ Beeram12.
 tejasathalye.
 ankitshu.
 DhanushNehru.
-Jahnavi-Solanki.
-MGOPW.
 
 **Other contributors:**
+Jahnavi-Solanki.
+MGOPW.
 Nikil-D-Gr8.
 praisetoyt.
 sachinggsingh.
@@ -219,6 +219,7 @@ gauravghodinde.
 GittyHarsha.
 Gowthamsai29.
 herambchaudhari4121.
+isaac-vicentini.
 jekinz-tagline.
 john9006.
 katsiarynasoshyna.
@@ -859,6 +860,7 @@ iamcreed.
 iDeepDev8.
 iks1.
 imaxdvd.
+isaac-vicentini.
 ishanpatil35.
 ishwarighule.
 IslamMari.
