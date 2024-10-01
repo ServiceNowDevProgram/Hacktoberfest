@@ -207,6 +207,7 @@ jekinz-tagline.
 john9006.
 katsiarynasoshyna.
 KiwiPelago.
+maheshkhatal27.
 marcos-michalski.
 nooras.
 osc99.
@@ -320,9 +321,9 @@ sn-ajb.
 abhrajyotikanrar.
 DavidMarcial.
 techYESlogyXplorer.
+alyaanbasha.
 
 **Top 25% contributors:**
-alyaanbasha.
 gregorwmail.
 harishankert.
 mady22070.
@@ -910,6 +911,7 @@ m2santiago.
 macias-daniel.
 madhu1256.
 Mady1947.
+maheshkhatal27.
 Maithani-ji.
 makesh-ind.
 Manishak798.
