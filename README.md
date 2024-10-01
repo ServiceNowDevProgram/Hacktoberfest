@@ -213,6 +213,7 @@ rohantjoshi.
 rohi-v.
 Ronilpatil22.
 saarimshaikh.
+sachinggsingh.
 sagarbhadke08.
 steveuncg.
 swaroop-surampalli.
@@ -496,9 +497,9 @@ loudigi.
 ManobhavSachan.
 mevops.
 mikeroosa.
+moshjahan.
 
 **Other contributors:**
-moshjahan.
 mwchiao.
 pavankumar-4.
 physi.
@@ -1013,6 +1014,7 @@ rupam870.
 rverrips.
 rwhittaker.
 saarimshaikh.
+sachinggsingh.
 SainathLRH.
 Sakshi29G.
 salem769.
