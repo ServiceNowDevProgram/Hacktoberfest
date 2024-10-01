@@ -148,11 +148,11 @@ Lacah.
 kmxo.
 mohitchauhan-dev.
 snamjosh.
-niamccash.
+vermaamit1664.
 
 **Top 25% contributors:**
+niamccash.
 mo-dahir.
-vermaamit1664.
 eriemer1.
 captainbraddles.
 bgrk005.
@@ -394,6 +394,7 @@ homealone07.
 Iamsant.
 jeremyrubio27.
 Sagar-agarwal.
+vermaamit1664.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
@@ -404,16 +405,15 @@ NBaker137.
 revantKulkarni.
 trade12.
 QI-XING.
-ttoter.
 
 **Top 50% contributors:**
+ttoter.
 AlphaEagle.
 JWITSM.
 mo-dahir.
 djunaid.
 Haile-08.
 sonamtiwari8.
-vermaamit1664.
 Adiana3308.
 akhoshnood.
 allam1234.
