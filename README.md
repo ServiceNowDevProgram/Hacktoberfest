@@ -167,6 +167,7 @@ shraddhakadam301298.
 
 **Top 50% contributors:**
 Vishnu-rvk.
+Rampriya-S.
 ronaldkarim.
 Shreedevisnow.
 ariyadmir.
@@ -176,9 +177,9 @@ ankitshu.
 DhanushNehru.
 Jahnavi-Solanki.
 MGOPW.
-Nikil-D-Gr8.
 
 **Other contributors:**
+Nikil-D-Gr8.
 praisetoyt.
 sachinggsingh.
 Saiprethaa.
@@ -189,7 +190,6 @@ Sravanik12.
 at8807602.
 dadhich-ashish.
 kalyan120694.
-Rampriya-S.
 chelming.
 bgrk005.
 mvkassak.
@@ -253,8 +253,8 @@ earlduque.
 Lacah.
 SapphicFire.
 niamccash.
-wiz0floyd.
 Rampriya-S.
+wiz0floyd.
 johndahl-now.
 paigesndev.
 kmohit2809.
