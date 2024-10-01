@@ -177,6 +177,7 @@ sachinggsingh.
 
 **Other contributors:**
 Saiprethaa.
+saitarun2499.
 shridk.
 soham-shee.
 Sravanik12.
@@ -228,7 +229,6 @@ rohi-v.
 Ronilpatil22.
 saarimshaikh.
 sagarbhadke08.
-saitarun2499.
 shraddhakadam301298.
 SKYsnaX.
 steveuncg.
@@ -535,6 +535,7 @@ sachinggsingh.
 SagarVijaykumar.
 saikumar-e.
 Saiprethaa.
+saitarun2499.
 samwinchet.
 sanchit-varshney.
 sandeepd26.
@@ -1041,7 +1042,6 @@ rverrips.
 rwhittaker.
 saarimshaikh.
 SainathLRH.
-saitarun2499.
 Sakshi29G.
 salem769.
 sam16vis.
