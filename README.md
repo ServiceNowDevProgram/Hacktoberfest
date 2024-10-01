@@ -157,16 +157,16 @@ niamccash.
 mo-dahir.
 Vishnu-rvk.
 eriemer1.
+maheshkhatal27.
 ronaldkarim.
 Shreedevisnow.
-Dhruvyadav2000.
 
 **Top 50% contributors:**
+Dhruvyadav2000.
 selvarun-umass.
 tejasathalye.
 ariyadmir.
 DhanushNehru.
-maheshkhatal27.
 MGOPW.
 Praiseto.
 praisetoyt.
@@ -437,6 +437,7 @@ patrickpaterlini.
 Vishnu-rvk.
 LucasRocha2308.
 Mahesh-Krishnan1.
+maheshkhatal27.
 maialithar.
 MihirRathod.
 preshitd.
@@ -501,7 +502,6 @@ KartikeSingh.
 kaushalbharade.
 lakshyatyagi24.
 loudigi.
-maheshkhatal27.
 ManobhavSachan.
 mevops.
 mikeroosa.
