@@ -152,10 +152,10 @@ vermaamit1664.
 
 **Top 25% contributors:**
 niamccash.
+captainbraddles.
 mo-dahir.
 eriemer1.
 sravankadudhuri.
-captainbraddles.
 bgrk005.
 ronaldkarim.
 Shreedevisnow.
@@ -286,6 +286,7 @@ TRIGGEREDcoder.
 Danmax.
 hafsa-asif.
 ovarn.
+captainbraddles.
 devinvalencia.
 Jaspalsinghchot.
 mskoddow.
@@ -302,7 +303,6 @@ ronaldkarim.
 soerenmaucher.
 at8807602.
 avssrikanth.
-captainbraddles.
 davidkwhuang.
 zahidask.
 DynamiteC.
