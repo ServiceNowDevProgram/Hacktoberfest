@@ -172,13 +172,14 @@ ariyadmir.
 Beeram12.
 shraddhakadam301298.
 tejasathalye.
+ankitshu.
 DhanushNehru.
 Jahnavi-Solanki.
 MGOPW.
 Nikil-D-Gr8.
-praisetoyt.
 
 **Other contributors:**
+praisetoyt.
 sachinggsingh.
 Saiprethaa.
 saitarun2499.
@@ -203,7 +204,6 @@ SujathaSuj.
 wiz0floyd.
 acashkr.
 alkaChaudhary73.
-ankitshu.
 artemis15.
 BH0LL.
 BhageshChavan.
@@ -497,6 +497,7 @@ vk-cloud.
 abhay625.
 ananthsridhar.
 ankitshaw625.
+ankitshu.
 Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
@@ -525,9 +526,9 @@ kaushalbharade.
 lakshyatyagi24.
 loudigi.
 ManobhavSachan.
-mevops.
 
 **Other contributors:**
+mevops.
 mikeroosa.
 moshjahan.
 mwchiao.
@@ -691,7 +692,6 @@ andreneris.
 andy1717.
 andyops.
 ANISHAGHOSHAL.
-ankitshu.
 Anks-26.
 AnnaGould.
 apbuhssc.
