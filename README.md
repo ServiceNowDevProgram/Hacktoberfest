@@ -164,6 +164,7 @@ ronaldkarim.
 
 **Top 50% contributors:**
 Shreedevisnow.
+SapphicFire.
 selvarun-umass.
 tejasathalye.
 ariyadmir.
@@ -171,12 +172,11 @@ DhanushNehru.
 Jahnavi-Solanki.
 MGOPW.
 Praiseto.
-praisetoyt.
 
 **Other contributors:**
+praisetoyt.
 sachinggsingh.
 Saiprethaa.
-SapphicFire.
 shridk.
 soham-shee.
 Sravanik12.
