@@ -171,11 +171,12 @@ tejasathalye.
 DhanushNehru.
 Jahnavi-Solanki.
 MGOPW.
+Nikil-D-Gr8.
 Praiseto.
 praisetoyt.
-sachinggsingh.
 
 **Other contributors:**
+sachinggsingh.
 Saiprethaa.
 saitarun2499.
 shridk.
@@ -218,7 +219,6 @@ john9006.
 katsiarynasoshyna.
 KiwiPelago.
 marcos-michalski.
-Nikil-D-Gr8.
 nooras.
 osc99.
 pandeysameer.
@@ -519,9 +519,10 @@ mevops.
 mikeroosa.
 moshjahan.
 mwchiao.
-pavankumar-4.
+Nikil-D-Gr8.
 
 **Other contributors:**
+pavankumar-4.
 physi.
 Praiseto.
 praisetoyt.
@@ -972,7 +973,6 @@ neerajs296.
 Nerdcode.
 newl92.
 Nexarsysllc.
-Nikil-D-Gr8.
 NoelJarling.
 nooras.
 NowZilla.
