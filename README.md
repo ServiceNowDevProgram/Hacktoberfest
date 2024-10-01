@@ -171,9 +171,10 @@ Praiseto.
 praisetoyt.
 sachinggsingh.
 Saiprethaa.
-Sravanik12.
+shridk.
 
 **Other contributors:**
+Sravanik12.
 ashoo-jindal.
 kalyan120694.
 Rampriya-S.
@@ -218,7 +219,6 @@ rohi-v.
 Ronilpatil22.
 saarimshaikh.
 sagarbhadke08.
-shridk.
 SKYsnaX.
 steveuncg.
 swaroop-surampalli.
@@ -405,15 +405,16 @@ wiresgit.
 yourepicservices.
 ChecksumFailed.
 markroethof.
+shridk.
 sravankadudhuri.
 anguspalmer.
 Badal2k23.
 NBaker137.
 revantKulkarni.
 trade12.
-QI-XING.
 
 **Top 50% contributors:**
+QI-XING.
 ttoter.
 AlphaEagle.
 JWITSM.
@@ -432,7 +433,6 @@ miracc.
 MiroslawBuszek.
 pandeysumit-now.
 patrickpaterlini.
-shridk.
 Vishnu-rvk.
 LucasRocha2308.
 Mahesh-Krishnan1.
