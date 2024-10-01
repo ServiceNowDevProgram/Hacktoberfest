@@ -153,13 +153,13 @@ snamjosh.
 vermaamit1664.
 
 **Top 25% contributors:**
+selvarun-umass.
 ashoo-jindal.
 captainbraddles.
 niamccash.
 SapphicFire.
 mo-dahir.
 Dhruvyadav2000.
-selvarun-umass.
 Vishnu-rvk.
 ariyadmir.
 
@@ -420,15 +420,16 @@ wiresgit.
 yourepicservices.
 ChecksumFailed.
 markroethof.
+selvarun-umass.
 shridk.
 anguspalmer.
 Badal2k23.
 NBaker137.
 revantKulkarni.
 trade12.
-QI-XING.
 
 **Top 50% contributors:**
+QI-XING.
 ttoter.
 AlphaEagle.
 dadhich-ashish.
@@ -449,7 +450,6 @@ miracc.
 MiroslawBuszek.
 pandeysumit-now.
 patrickpaterlini.
-selvarun-umass.
 Vishnu-rvk.
 ariyadmir.
 LucasRocha2308.
