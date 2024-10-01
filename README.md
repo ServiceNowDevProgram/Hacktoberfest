@@ -227,6 +227,7 @@ KiwiPelago.
 lokeshwar777.
 mahamed-rashid.
 marcos-michalski.
+msdfib.
 nooras.
 osc99.
 pandeysameer.
@@ -437,9 +438,9 @@ NBaker137.
 Praiseto.
 revantKulkarni.
 trade12.
+QI-XING.
 
 **Top 50% contributors:**
-QI-XING.
 ttoter.
 AlphaEagle.
 dadhich-ashish.
@@ -531,9 +532,9 @@ lakshyatyagi24.
 loudigi.
 ManobhavSachan.
 mevops.
+mikeroosa.
 
 **Other contributors:**
-mikeroosa.
 moshjahan.
 mwchiao.
 Nikil-D-Gr8.
@@ -972,6 +973,7 @@ mpvarmadatla.
 mrdavidgrant.
 mrical.
 MS4X4.
+msdfib.
 Msiva19.
 mtharjo.
 mugiwaramenon.
