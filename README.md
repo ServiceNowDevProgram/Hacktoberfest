@@ -146,8 +146,8 @@ Lacah.
 sravankadudhuri.
 
 **Top 10% contributors:**
-maheshkhatal27.
 kmxo.
+maheshkhatal27.
 mohitchauhan-dev.
 snamjosh.
 vermaamit1664.
@@ -342,6 +342,7 @@ techYESlogyXplorer.
 alyaanbasha.
 gregorwmail.
 harishankert.
+kmxo.
 mady22070.
 mjonssonme.
 nthumma.
@@ -358,7 +359,6 @@ OrgovanGeza.
 arhaan2019.
 designitsecure.
 girishnagaraj09.
-kmxo.
 llipovsky.
 ravichandra1998g.
 seviceN.
