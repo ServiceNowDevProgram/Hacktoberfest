@@ -165,6 +165,7 @@ Dhruvyadav2000.
 Vishnu-rvk.
 
 **Top 50% contributors:**
+Praiseto.
 ronaldkarim.
 Shreedevisnow.
 tejasathalye.
@@ -173,7 +174,6 @@ DhanushNehru.
 Jahnavi-Solanki.
 MGOPW.
 Nikil-D-Gr8.
-Praiseto.
 praisetoyt.
 
 **Other contributors:**
@@ -458,6 +458,7 @@ LucasRocha2308.
 Mahesh-Krishnan1.
 maialithar.
 MihirRathod.
+Praiseto.
 preshitd.
 Saileshlanka.
 tanu-profile.
@@ -520,15 +521,14 @@ lakshyatyagi24.
 loudigi.
 ManobhavSachan.
 mevops.
-mikeroosa.
 
 **Other contributors:**
+mikeroosa.
 moshjahan.
 mwchiao.
 Nikil-D-Gr8.
 pavankumar-4.
 physi.
-Praiseto.
 praisetoyt.
 pratyushmp.
 PreyumKr.
