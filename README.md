@@ -170,9 +170,9 @@ ariyadmir.
 DhanushNehru.
 Jahnavi-Solanki.
 MGOPW.
+Praiseto.
 
 **Other contributors:**
-Praiseto.
 praisetoyt.
 sachinggsingh.
 Saiprethaa.
@@ -221,6 +221,7 @@ rohi-v.
 Ronilpatil22.
 saarimshaikh.
 sagarbhadke08.
+saitarun2499.
 SKYsnaX.
 soham-shee.
 steveuncg.
@@ -1028,6 +1029,7 @@ rverrips.
 rwhittaker.
 saarimshaikh.
 SainathLRH.
+saitarun2499.
 Sakshi29G.
 salem769.
 sam16vis.
