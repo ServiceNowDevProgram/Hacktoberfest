@@ -146,11 +146,11 @@ Lacah.
 
 **Top 10% contributors:**
 mohitchauhan-dev.
+kmxo.
 snamjosh.
-niamccash.
 
 **Top 25% contributors:**
-kmxo.
+niamccash.
 vermaamit1664.
 eriemer1.
 ronaldkarim.
@@ -382,6 +382,7 @@ rmedved84.
 src107.
 fn20200323.
 pratyushasndev.
+kmxo.
 homealone07.
 Iamsant.
 jeremyrubio27.
@@ -396,12 +397,11 @@ NBaker137.
 revantKulkarni.
 trade12.
 QI-XING.
-ttoter.
 
 **Top 50% contributors:**
+ttoter.
 AlphaEagle.
 JWITSM.
-kmxo.
 djunaid.
 Haile-08.
 sonamtiwari8.
