@@ -154,6 +154,7 @@ vermaamit1664.
 
 **Top 25% contributors:**
 selvarun-umass.
+eriemer1.
 ashoo-jindal.
 captainbraddles.
 niamccash.
@@ -161,10 +162,9 @@ SapphicFire.
 mo-dahir.
 Dhruvyadav2000.
 Vishnu-rvk.
-ariyadmir.
 
 **Top 50% contributors:**
-eriemer1.
+ariyadmir.
 ronaldkarim.
 Shreedevisnow.
 tejasathalye.
