@@ -155,12 +155,12 @@ vermaamit1664.
 eriemer1.
 mo-dahir.
 ronaldkarim.
+captainbraddles.
 Dhruvyadav2000.
 selvarun-umass.
-ariyadmir.
 
 **Top 50% contributors:**
-captainbraddles.
+ariyadmir.
 DhanushNehru.
 MGOPW.
 Praiseto.
@@ -302,11 +302,11 @@ at8807602.
 avssrikanth.
 davidkwhuang.
 zahidask.
+captainbraddles.
 DynamiteC.
 shakeel-sheikh.
 vjtknn.
 Yokesh0811.
-captainbraddles.
 MarcMouries.
 sn-ajb.
 abhrajyotikanrar.
