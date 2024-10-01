@@ -145,8 +145,8 @@ earlduque.
 Lacah.
 
 **Top 10% contributors:**
-mohitchauhan-dev.
 kmxo.
+mohitchauhan-dev.
 snamjosh.
 
 **Top 25% contributors:**
@@ -355,6 +355,7 @@ brenduh.
 dalestubblefield.
 danielliaus.
 JonSandoval.
+kmxo.
 sauravsumankumar.
 ashuprince121.
 hrichiksite.
@@ -384,7 +385,6 @@ rmedved84.
 src107.
 fn20200323.
 pratyushasndev.
-kmxo.
 homealone07.
 Iamsant.
 jeremyrubio27.
