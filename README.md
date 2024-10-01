@@ -206,6 +206,7 @@ erlingvt.
 ersureshbe.
 gauravghodinde.
 GittyHarsha.
+Gowthamsai29.
 herambchaudhari4121.
 jekinz-tagline.
 john9006.
@@ -419,9 +420,9 @@ Badal2k23.
 NBaker137.
 revantKulkarni.
 trade12.
+QI-XING.
 
 **Top 50% contributors:**
-QI-XING.
 ttoter.
 AlphaEagle.
 JWITSM.
@@ -512,9 +513,9 @@ ManobhavSachan.
 mevops.
 mikeroosa.
 moshjahan.
+mwchiao.
 
 **Other contributors:**
-mwchiao.
 pavankumar-4.
 physi.
 Praiseto.
@@ -810,6 +811,7 @@ GLaDOS2199.
 golu833.
 GouthamSG.
 Gowthammadhusuthanan067.
+Gowthamsai29.
 greenc123.
 greencarlos.
 GTKsnow.
