@@ -155,13 +155,13 @@ vermaamit1664.
 eriemer1.
 ronaldkarim.
 Dhruvyadav2000.
+mo-dahir.
 selvarun-umass.
-ariyadmir.
 
 **Top 50% contributors:**
+ariyadmir.
 DhanushNehru.
 MGOPW.
-mo-dahir.
 Praiseto.
 praisetoyt.
 Saiprethaa.
@@ -448,6 +448,7 @@ ashaw7697.
 crooks-s.
 Dhruvyadav2000.
 Jaskaran-Techno.
+mo-dahir.
 RagaChitraMankala.
 selvarun-umass.
 thameemskings.
@@ -487,7 +488,6 @@ loudigi.
 ManobhavSachan.
 mevops.
 mikeroosa.
-mo-dahir.
 moshjahan.
 
 **Other contributors:**
