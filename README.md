@@ -178,6 +178,7 @@ ankitshu.
 DhanushNehru.
 
 **Other contributors:**
+isaac-vicentini.
 Jahnavi-Solanki.
 MGOPW.
 Nikil-D-Gr8.
@@ -219,7 +220,6 @@ gauravghodinde.
 GittyHarsha.
 Gowthamsai29.
 herambchaudhari4121.
-isaac-vicentini.
 jekinz-tagline.
 john9006.
 katsiarynasoshyna.
@@ -519,6 +519,7 @@ HarshMN2345.
 hmadhsan.
 iamvpbhaskar.
 igrzhukovich.
+isaac-vicentini.
 j4rodm.
 Jahnavi-Solanki.
 jamesfoot.
@@ -532,9 +533,9 @@ lakshyatyagi24.
 loudigi.
 ManobhavSachan.
 mevops.
-mikeroosa.
 
 **Other contributors:**
+mikeroosa.
 moshjahan.
 mwchiao.
 Nikil-D-Gr8.
@@ -861,7 +862,6 @@ iamcreed.
 iDeepDev8.
 iks1.
 imaxdvd.
-isaac-vicentini.
 ishanpatil35.
 ishwarighule.
 IslamMari.
