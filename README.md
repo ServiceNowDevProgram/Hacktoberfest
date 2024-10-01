@@ -166,14 +166,15 @@ selvarun-umass.
 tejasathalye.
 ariyadmir.
 DhanushNehru.
+maheshkhatal27.
 MGOPW.
 Praiseto.
 praisetoyt.
 sachinggsingh.
 Saiprethaa.
-shridk.
 
 **Other contributors:**
+shridk.
 Sravanik12.
 ashoo-jindal.
 kalyan120694.
@@ -207,7 +208,6 @@ jekinz-tagline.
 john9006.
 katsiarynasoshyna.
 KiwiPelago.
-maheshkhatal27.
 marcos-michalski.
 nooras.
 osc99.
@@ -501,12 +501,13 @@ KartikeSingh.
 kaushalbharade.
 lakshyatyagi24.
 loudigi.
+maheshkhatal27.
 ManobhavSachan.
 mevops.
 mikeroosa.
-moshjahan.
 
 **Other contributors:**
+moshjahan.
 mwchiao.
 pavankumar-4.
 physi.
@@ -911,7 +912,6 @@ m2santiago.
 macias-daniel.
 madhu1256.
 Mady1947.
-maheshkhatal27.
 Maithani-ji.
 makesh-ind.
 Manishak798.
