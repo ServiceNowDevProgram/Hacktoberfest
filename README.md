@@ -159,10 +159,9 @@ mo-dahir.
 Dhruvyadav2000.
 Vishnu-rvk.
 eriemer1.
-shridk.
+ashoo-jindal.
 
 **Top 50% contributors:**
-ashoo-jindal.
 ronaldkarim.
 Shreedevisnow.
 selvarun-umass.
@@ -170,12 +169,13 @@ tejasathalye.
 ariyadmir.
 DhanushNehru.
 MGOPW.
+Praiseto.
 
 **Other contributors:**
-Praiseto.
 praisetoyt.
 sachinggsingh.
 Saiprethaa.
+shridk.
 Sravanik12.
 kalyan120694.
 Rampriya-S.
@@ -183,12 +183,12 @@ chelming.
 bgrk005.
 mvkassak.
 Paulsylo25.
+SapphicFire.
 Beeram12.
 d7ianielsimonP.
 manrick.
 mebeingmustaq.
 pviglianti.
-SapphicFire.
 SujathaSuj.
 wiz0floyd.
 acashkr.
@@ -386,7 +386,6 @@ goranlundqvist.
 harisnad.
 ivan-betev.
 riya-vermaa.
-shridk.
 SrijanPatwa.
 allenandreas.
 anubhav-ritolia.
@@ -410,6 +409,7 @@ wiresgit.
 yourepicservices.
 ChecksumFailed.
 markroethof.
+shridk.
 anguspalmer.
 Badal2k23.
 NBaker137.
