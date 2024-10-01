@@ -162,15 +162,15 @@ captainbraddles.
 SapphicFire.
 mo-dahir.
 Dhruvyadav2000.
+shraddhakadam301298.
 Vishnu-rvk.
-bkb68.
 
 **Top 50% contributors:**
+bkb68.
 ronaldkarim.
 Shreedevisnow.
 ariyadmir.
 Beeram12.
-shraddhakadam301298.
 tejasathalye.
 ankitshu.
 DhanushNehru.
@@ -456,6 +456,7 @@ miracc.
 MiroslawBuszek.
 pandeysumit-now.
 patrickpaterlini.
+shraddhakadam301298.
 Vishnu-rvk.
 bkb68.
 LucasRocha2308.
@@ -488,7 +489,6 @@ Beeram12.
 crooks-s.
 Jaskaran-Techno.
 RagaChitraMankala.
-shraddhakadam301298.
 tejasathalye.
 thameemskings.
 Thrizvi.
