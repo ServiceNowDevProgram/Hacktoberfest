@@ -238,6 +238,7 @@ templetontsai.
 TracyCurry96.
 vijaytechy.
 xjfdzn.
+YDdraigGoch70.
 
 ## Leaderboard (all time):
 
@@ -286,9 +287,9 @@ PranavBhagat18.
 Irston.
 litwi1rm.
 mak1A4.
+shivamTodwal.
 
 **Top 10% contributors:**
-shivamTodwal.
 iar42.
 mlemartien.
 404paige.
@@ -333,9 +334,9 @@ Yokesh0811.
 MarcMouries.
 sn-ajb.
 DavidMarcial.
+techYESlogyXplorer.
 
 **Top 25% contributors:**
-techYESlogyXplorer.
 alyaanbasha.
 gregorwmail.
 harishankert.
@@ -518,10 +519,10 @@ ManobhavSachan.
 mevops.
 mikeroosa.
 moshjahan.
-mwchiao.
-Nikil-D-Gr8.
 
 **Other contributors:**
+mwchiao.
+Nikil-D-Gr8.
 pavankumar-4.
 physi.
 Praiseto.
@@ -1146,6 +1147,7 @@ wkbroxton.
 xdisplay.
 xjfdzn.
 yay-jake.
+YDdraigGoch70.
 youthinkasido.
 zerus83.
 zomsik.
