@@ -162,9 +162,9 @@ SapphicFire.
 mo-dahir.
 ariyadmir.
 Dhruvyadav2000.
+Vishnu-rvk.
 
 **Top 50% contributors:**
-Vishnu-rvk.
 ronaldkarim.
 Shreedevisnow.
 tejasathalye.
@@ -174,15 +174,16 @@ Jahnavi-Solanki.
 MGOPW.
 Nikil-D-Gr8.
 Praiseto.
+praisetoyt.
 
 **Other contributors:**
-praisetoyt.
 sachinggsingh.
 Saiprethaa.
 saitarun2499.
 shridk.
 soham-shee.
 Sravanik12.
+at8807602.
 dadhich-ashish.
 kalyan120694.
 Rampriya-S.
@@ -303,6 +304,7 @@ mr-swann.
 chetnadev.
 TRIGGEREDcoder.
 Danmax.
+at8807602.
 captainbraddles.
 hafsa-asif.
 ovarn.
@@ -322,7 +324,6 @@ jonahpiascik.
 ronaldkarim.
 soerenmaucher.
 ashoo-jindal.
-at8807602.
 avssrikanth.
 davidkwhuang.
 zahidask.
