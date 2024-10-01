@@ -150,9 +150,9 @@ maheshkhatal27.
 kmxo.
 mohitchauhan-dev.
 snamjosh.
+vermaamit1664.
 
 **Top 25% contributors:**
-vermaamit1664.
 ashoo-jindal.
 captainbraddles.
 niamccash.
@@ -218,6 +218,7 @@ john9006.
 katsiarynasoshyna.
 KiwiPelago.
 marcos-michalski.
+Nikil-D-Gr8.
 nooras.
 osc99.
 pandeysameer.
@@ -971,6 +972,7 @@ neerajs296.
 Nerdcode.
 newl92.
 Nexarsysllc.
+Nikil-D-Gr8.
 NoelJarling.
 nooras.
 NowZilla.
