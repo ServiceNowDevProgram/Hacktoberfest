@@ -177,9 +177,9 @@ ankitshu.
 DhanushNehru.
 Jahnavi-Solanki.
 MGOPW.
+Nikil-D-Gr8.
 
 **Other contributors:**
-Nikil-D-Gr8.
 praisetoyt.
 sachinggsingh.
 Saiprethaa.
@@ -201,6 +201,7 @@ manrick.
 mebeingmustaq.
 pviglianti.
 SujathaSuj.
+TanushreeBorase.
 wiz0floyd.
 acashkr.
 alkaChaudhary73.
@@ -527,9 +528,9 @@ kaushalbharade.
 lakshyatyagi24.
 loudigi.
 ManobhavSachan.
+mevops.
 
 **Other contributors:**
-mevops.
 mikeroosa.
 moshjahan.
 mwchiao.
@@ -651,6 +652,7 @@ SruthiSivarajan.
 sudhanshu-77.
 SujathaSuj.
 swathinagamahanti.
+TanushreeBorase.
 TheSethRose.
 thoffman210.
 TonySerN.
