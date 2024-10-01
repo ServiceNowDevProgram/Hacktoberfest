@@ -160,13 +160,13 @@ ashoo-jindal.
 captainbraddles.
 SapphicFire.
 mo-dahir.
+ariyadmir.
 Dhruvyadav2000.
 Vishnu-rvk.
-ronaldkarim.
 
 **Top 50% contributors:**
+ronaldkarim.
 Shreedevisnow.
-ariyadmir.
 tejasathalye.
 bkb68.
 DhanushNehru.
@@ -443,6 +443,7 @@ sonamtiwari8.
 Adiana3308.
 akhoshnood.
 allam1234.
+ariyadmir.
 Decoder-Paul.
 DhanushNehru.
 Dhruvyadav2000.
@@ -477,7 +478,6 @@ puneet94.
 Shreedevisnow.
 sisco0.
 yuvraj1107thapa.
-ariyadmir.
 ashaw7697.
 crooks-s.
 Jaskaran-Techno.
