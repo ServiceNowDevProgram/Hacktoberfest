@@ -146,12 +146,12 @@ Lacah.
 
 **Top 10% contributors:**
 sravankadudhuri.
+maheshkhatal27.
 kmxo.
 mohitchauhan-dev.
-snamjosh.
 
 **Top 25% contributors:**
-maheshkhatal27.
+snamjosh.
 vermaamit1664.
 captainbraddles.
 niamccash.
@@ -358,6 +358,7 @@ ReginaldFawcett.
 sheikhafsarzap.
 thorn91.
 Himanshu-skb-oo7.
+maheshkhatal27.
 sanjivmeher.
 aman2519.
 hoederath.
@@ -391,7 +392,6 @@ apple9000.
 ashu759.
 briangodfreydev.
 GauthamBellamkonda.
-maheshkhatal27.
 odinsride.
 piyusalunke123.
 rene-el.
