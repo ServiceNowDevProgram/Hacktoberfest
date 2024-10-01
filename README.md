@@ -155,11 +155,12 @@ vermaamit1664.
 eriemer1.
 mo-dahir.
 ronaldkarim.
+bgrk005.
 captainbraddles.
 Dhruvyadav2000.
-selvarun-umass.
 
 **Top 50% contributors:**
+selvarun-umass.
 ariyadmir.
 DhanushNehru.
 MGOPW.
@@ -167,16 +168,15 @@ Praiseto.
 praisetoyt.
 Saiprethaa.
 Sravanik12.
-kalyan120694.
 
 **Other contributors:**
+kalyan120694.
 Rampriya-S.
 chelming.
 mvkassak.
 Paulsylo25.
 Shreedevisnow.
 Beeram12.
-bgrk005.
 d7ianielsimonP.
 manrick.
 mebeingmustaq.
@@ -434,6 +434,7 @@ TheTreyKyle.
 thisnameissoclever.
 ujjwalprem.
 mockspeed.
+bgrk005.
 dadhich-ashish.
 mo-dahir.
 rohantjoshi.
@@ -492,9 +493,9 @@ ManobhavSachan.
 mevops.
 mikeroosa.
 moshjahan.
-mwchiao.
 
 **Other contributors:**
+mwchiao.
 pavankumar-4.
 physi.
 Praiseto.
@@ -527,7 +528,6 @@ jon-lind-sn.
 kalyan120694.
 ToosinDada.
 bendouglass.
-bgrk005.
 ChilloutSenthil.
 Deraged.
 fauverism.
