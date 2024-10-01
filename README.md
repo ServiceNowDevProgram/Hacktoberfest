@@ -222,6 +222,7 @@ Ronilpatil22.
 saarimshaikh.
 sagarbhadke08.
 SKYsnaX.
+soham-shee.
 steveuncg.
 swaroop-surampalli.
 templetontsai.
@@ -414,9 +415,9 @@ anguspalmer.
 Badal2k23.
 NBaker137.
 revantKulkarni.
+trade12.
 
 **Top 50% contributors:**
-trade12.
 QI-XING.
 ttoter.
 AlphaEagle.
@@ -506,9 +507,9 @@ lakshyatyagi24.
 loudigi.
 ManobhavSachan.
 mevops.
+mikeroosa.
 
 **Other contributors:**
-mikeroosa.
 moshjahan.
 mwchiao.
 pavankumar-4.
@@ -1063,6 +1064,7 @@ smoothwood.
 snehauj.
 SNOWMac75.
 sohailkhilji.
+soham-shee.
 somjyotisinha.
 somusekher.
 Sookeyy-12.
