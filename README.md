@@ -168,10 +168,11 @@ selvarun-umass.
 tejasathalye.
 ariyadmir.
 DhanushNehru.
+Jahnavi-Solanki.
 MGOPW.
-Praiseto.
 
 **Other contributors:**
+Praiseto.
 praisetoyt.
 sachinggsingh.
 Saiprethaa.
@@ -204,7 +205,6 @@ ersureshbe.
 gauravghodinde.
 GittyHarsha.
 herambchaudhari4121.
-Jahnavi-Solanki.
 jekinz-tagline.
 john9006.
 katsiarynasoshyna.
@@ -494,6 +494,7 @@ hmadhsan.
 iamvpbhaskar.
 igrzhukovich.
 j4rodm.
+Jahnavi-Solanki.
 jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
@@ -505,9 +506,9 @@ lakshyatyagi24.
 loudigi.
 ManobhavSachan.
 mevops.
-mikeroosa.
 
 **Other contributors:**
+mikeroosa.
 moshjahan.
 mwchiao.
 pavankumar-4.
@@ -834,7 +835,6 @@ ishwarighule.
 IslamMari.
 j-infinger.
 j2clow.
-Jahnavi-Solanki.
 jamalissimo.
 jambo969.
 jamiestroud.
