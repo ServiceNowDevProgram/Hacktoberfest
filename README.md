@@ -143,10 +143,10 @@ Meet the Hacktoberfest crew who will be maintaining your projects:
 earlduque.
 Lacah.
 404paige.
-sravankadudhuri.
+kmxo.
 
 **Top 10% contributors:**
-kmxo.
+sravankadudhuri.
 maheshkhatal27.
 niamccash.
 MartinStoyanoff.
@@ -317,6 +317,7 @@ hafsa-asif.
 ovarn.
 devinvalencia.
 Jaspalsinghchot.
+kmxo.
 mskoddow.
 gowdah.
 lakshmikanthgupta.
@@ -332,7 +333,6 @@ ronaldkarim.
 soerenmaucher.
 ashoo-jindal.
 avssrikanth.
-kmxo.
 davidkwhuang.
 zahidask.
 abhrajyotikanrar.
