@@ -330,6 +330,7 @@ ronaldkarim.
 soerenmaucher.
 ashoo-jindal.
 avssrikanth.
+kmxo.
 davidkwhuang.
 zahidask.
 abhrajyotikanrar.
@@ -340,13 +341,12 @@ Yokesh0811.
 MarcMouries.
 sn-ajb.
 DavidMarcial.
-techYESlogyXplorer.
 
 **Top 25% contributors:**
+techYESlogyXplorer.
 alyaanbasha.
 gregorwmail.
 harishankert.
-kmxo.
 mady22070.
 mjonssonme.
 nthumma.
