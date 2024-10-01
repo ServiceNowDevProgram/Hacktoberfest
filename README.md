@@ -151,8 +151,8 @@ mohitchauhan-dev.
 snamjosh.
 
 **Top 25% contributors:**
-vermaamit1664.
 maheshkhatal27.
+vermaamit1664.
 captainbraddles.
 niamccash.
 mo-dahir.
@@ -391,6 +391,7 @@ apple9000.
 ashu759.
 briangodfreydev.
 GauthamBellamkonda.
+maheshkhatal27.
 odinsride.
 piyusalunke123.
 rene-el.
@@ -410,7 +411,6 @@ markroethof.
 shridk.
 anguspalmer.
 Badal2k23.
-maheshkhatal27.
 NBaker137.
 revantKulkarni.
 
