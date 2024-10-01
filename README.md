@@ -159,9 +159,10 @@ mo-dahir.
 Vishnu-rvk.
 eriemer1.
 shridk.
-ronaldkarim.
+ashoo-jindal.
 
 **Top 50% contributors:**
+ronaldkarim.
 Shreedevisnow.
 Dhruvyadav2000.
 selvarun-umass.
@@ -171,12 +172,11 @@ DhanushNehru.
 MGOPW.
 Praiseto.
 praisetoyt.
-sachinggsingh.
 
 **Other contributors:**
+sachinggsingh.
 Saiprethaa.
 Sravanik12.
-ashoo-jindal.
 kalyan120694.
 Rampriya-S.
 chelming.
@@ -320,10 +320,11 @@ Yokesh0811.
 MarcMouries.
 sn-ajb.
 abhrajyotikanrar.
+ashoo-jindal.
 DavidMarcial.
-techYESlogyXplorer.
 
 **Top 25% contributors:**
+techYESlogyXplorer.
 alyaanbasha.
 gregorwmail.
 harishankert.
@@ -338,7 +339,6 @@ bradtiltonnow.
 debendu-das.
 phr-nk.
 Vish-X07.
-ashoo-jindal.
 Jayden-Chiu.
 OrgovanGeza.
 arhaan2019.
