@@ -154,7 +154,6 @@ mohitchauhan-dev.
 
 **Top 25% contributors:**
 selvarun-umass.
-vermaamit1664.
 bkb68.
 eriemer1.
 Praiseto.
@@ -163,6 +162,7 @@ captainbraddles.
 Rampriya-S.
 SapphicFire.
 mo-dahir.
+vermaamit1664.
 Dhruvyadav2000.
 
 **Top 50% contributors:**
@@ -293,12 +293,12 @@ MrChrisE.
 vandna07.
 PranavBhagat18.
 Irston.
+404paige.
 litwi1rm.
 mak1A4.
-shivamTodwal.
 
 **Top 10% contributors:**
-404paige.
+shivamTodwal.
 iar42.
 mlemartien.
 hentonjd.
@@ -424,7 +424,6 @@ homealone07.
 Iamsant.
 jeremyrubio27.
 Sagar-agarwal.
-vermaamit1664.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
@@ -436,9 +435,9 @@ bkb68.
 NBaker137.
 Praiseto.
 revantKulkarni.
+trade12.
 
 **Top 50% contributors:**
-trade12.
 QI-XING.
 ttoter.
 AlphaEagle.
@@ -448,6 +447,7 @@ mo-dahir.
 djunaid.
 Haile-08.
 sonamtiwari8.
+vermaamit1664.
 Adiana3308.
 akhoshnood.
 allam1234.
