@@ -153,6 +153,7 @@ snamjosh.
 
 **Top 25% contributors:**
 vermaamit1664.
+ashoo-jindal.
 captainbraddles.
 niamccash.
 mo-dahir.
@@ -160,7 +161,6 @@ SapphicFire.
 Dhruvyadav2000.
 Vishnu-rvk.
 eriemer1.
-ashoo-jindal.
 
 **Top 50% contributors:**
 ronaldkarim.
@@ -315,6 +315,7 @@ jiteshmalik.
 jonahpiascik.
 ronaldkarim.
 soerenmaucher.
+ashoo-jindal.
 at8807602.
 avssrikanth.
 davidkwhuang.
@@ -326,7 +327,6 @@ Yokesh0811.
 MarcMouries.
 sn-ajb.
 abhrajyotikanrar.
-ashoo-jindal.
 DavidMarcial.
 
 **Top 25% contributors:**
