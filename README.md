@@ -160,14 +160,14 @@ SapphicFire.
 mo-dahir.
 Dhruvyadav2000.
 Vishnu-rvk.
+ariyadmir.
 eriemer1.
-ronaldkarim.
 
 **Top 50% contributors:**
+ronaldkarim.
 Shreedevisnow.
 selvarun-umass.
 tejasathalye.
-ariyadmir.
 DhanushNehru.
 Jahnavi-Solanki.
 MGOPW.
@@ -447,6 +447,7 @@ MiroslawBuszek.
 pandeysumit-now.
 patrickpaterlini.
 Vishnu-rvk.
+ariyadmir.
 LucasRocha2308.
 Mahesh-Krishnan1.
 maialithar.
@@ -484,7 +485,6 @@ vk-cloud.
 abhay625.
 ananthsridhar.
 ankitshaw625.
-ariyadmir.
 Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
