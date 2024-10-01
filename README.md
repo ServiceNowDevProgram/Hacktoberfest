@@ -187,6 +187,7 @@ mebeingmustaq.
 pviglianti.
 SapphicFire.
 SujathaSuj.
+tejasathalye.
 wiz0floyd.
 acashkr.
 alkaChaudhary73.
@@ -218,7 +219,6 @@ saarimshaikh.
 sagarbhadke08.
 steveuncg.
 swaroop-surampalli.
-tejasathalye.
 templetontsai.
 TracyCurry96.
 vijaytechy.
@@ -619,6 +619,7 @@ SruthiSivarajan.
 sudhanshu-77.
 SujathaSuj.
 swathinagamahanti.
+tejasathalye.
 TheSethRose.
 thoffman210.
 TonySerN.
@@ -1077,7 +1078,6 @@ TamByrd.
 tapishsh.
 techspark77.
 tedante.
-tejasathalye.
 telbir.
 templetontsai.
 TheoCantor.
