@@ -169,15 +169,16 @@ vermaamit1664.
 Dhruvyadav2000.
 shraddhakadam301298.
 Vishnu-rvk.
+templetontsai.
 ronaldkarim.
 Shreedevisnow.
 ariyadmir.
 Beeram12.
 tejasathalye.
 ankitshu.
-DhanushNehru.
 
 **Other contributors:**
+DhanushNehru.
 isaac-vicentini.
 Jahnavi-Solanki.
 MGOPW.
@@ -190,7 +191,6 @@ saitarun2499.
 shridk.
 soham-shee.
 Sravanik12.
-templetontsai.
 at8807602.
 dadhich-ashish.
 kalyan120694.
@@ -471,6 +471,7 @@ MihirRathod.
 preshitd.
 Saileshlanka.
 tanu-profile.
+templetontsai.
 TheTreyKyle.
 thisnameissoclever.
 ujjwalprem.
@@ -532,9 +533,9 @@ kaushalbharade.
 lakshyatyagi24.
 loudigi.
 ManobhavSachan.
-mevops.
 
 **Other contributors:**
+mevops.
 mikeroosa.
 moshjahan.
 msdfib.
@@ -565,7 +566,6 @@ speedy18.
 Sravanik12.
 stwinkle.
 Subhraneel77.
-templetontsai.
 thomasvogh.
 tomlozano.
 trishitapingolia.
