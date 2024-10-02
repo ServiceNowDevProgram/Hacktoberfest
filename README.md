@@ -170,11 +170,11 @@ unbirthdays.
 
 **Top 50% contributors:**
 ashoo-jindal.
-dadhich-ashish.
 mo-dahir.
 vermaamit1664.
 ariyadmir.
 Dhruvyadav2000.
+dadhich-ashish.
 Rampriya-S.
 ronaldkarim.
 Shreedevisnow.
@@ -404,7 +404,6 @@ manrick.
 namrataghorpade.
 almajam.
 brenduh.
-dadhich-ashish.
 dalestubblefield.
 danielliaus.
 JonSandoval.
@@ -439,6 +438,7 @@ rmedved84.
 src107.
 fn20200323.
 pratyushasndev.
+dadhich-ashish.
 Vishnu-rvk.
 ankitshu.
 homealone07.
