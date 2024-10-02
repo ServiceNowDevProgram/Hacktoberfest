@@ -230,6 +230,7 @@ BH0LL.
 BhageshChavan.
 blindaks.
 cschmidt82.
+DanielMadsenDK.
 davidehira.
 dwilso1018.
 erlingvt.
@@ -554,9 +555,9 @@ jordanrogus.
 Juusoee.
 KartikeSingh.
 kaushalbharade.
+koratalas.
 
 **Other contributors:**
-koratalas.
 lakshyatyagi24.
 loudigi.
 ManobhavSachan.
@@ -804,6 +805,7 @@ Dan-Bladorn-Trimedx.
 dan-tracey.
 danclausen.
 DangerousNights.
+DanielMadsenDK.
 danybr0.
 Daoist-Ye.
 Darrkshade.
