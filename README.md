@@ -164,11 +164,11 @@ captainbraddles.
 SapphicFire.
 mo-dahir.
 vermaamit1664.
-Dhruvyadav2000.
+Vishnu-rvk.
 
 **Top 50% contributors:**
+Dhruvyadav2000.
 shraddhakadam301298.
-Vishnu-rvk.
 templetontsai.
 ronaldkarim.
 Shreedevisnow.
@@ -453,6 +453,7 @@ djunaid.
 Haile-08.
 sonamtiwari8.
 vermaamit1664.
+Vishnu-rvk.
 Adiana3308.
 akhoshnood.
 allam1234.
@@ -466,7 +467,6 @@ MiroslawBuszek.
 pandeysumit-now.
 patrickpaterlini.
 shraddhakadam301298.
-Vishnu-rvk.
 LucasRocha2308.
 Mahesh-Krishnan1.
 maialithar.
