@@ -152,9 +152,9 @@ maheshkhatal27.
 bkb68.
 snamjosh.
 Praiseto.
+ynr-ram.
 
 **Top 25% contributors:**
-ynr-ram.
 mohitchauhan-dev.
 eriemer1.
 SapphicFire.
@@ -238,6 +238,7 @@ KiwiPelago.
 lokeshwar777.
 mahamed-rashid.
 marcos-michalski.
+Narasimha677.
 nooras.
 osc99.
 pandeysameer.
@@ -1000,6 +1001,7 @@ mukeshpandey9.
 muthuj.
 mybpdi.
 napul205.
+Narasimha677.
 natefern.
 nayeemwajid97.
 neenaSharma1.
