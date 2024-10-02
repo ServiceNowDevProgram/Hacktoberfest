@@ -144,10 +144,10 @@ earlduque.
 Lacah.
 404paige.
 kmxo.
-Rampriya-S.
+sravankadudhuri.
 
 **Top 10% contributors:**
-sravankadudhuri.
+Rampriya-S.
 maheshkhatal27.
 niamccash.
 snamjosh.
@@ -164,12 +164,12 @@ Vishnu-rvk.
 ankitshu.
 templetontsai.
 captainbraddles.
+SapphicFire.
 unbirthdays.
-ashoo-jindal.
 
 **Top 50% contributors:**
+ashoo-jindal.
 MartinStoyanoff.
-SapphicFire.
 mo-dahir.
 vermaamit1664.
 ariyadmir.
