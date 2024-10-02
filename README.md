@@ -155,8 +155,8 @@ Praiseto.
 ynr-ram.
 
 **Top 25% contributors:**
-mohitchauhan-dev.
 SapphicFire.
+mohitchauhan-dev.
 eriemer1.
 at8807602.
 Vishnu-rvk.
@@ -169,12 +169,12 @@ ashoo-jindal.
 
 **Top 50% contributors:**
 MartinStoyanoff.
-Rampriya-S.
 mo-dahir.
 vermaamit1664.
 ariyadmir.
 Dhruvyadav2000.
 shraddhakadam301298.
+Rampriya-S.
 ronaldkarim.
 Shreedevisnow.
 Beeram12.
