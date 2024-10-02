@@ -147,9 +147,9 @@ kmxo.
 sravankadudhuri.
 
 **Top 10% contributors:**
-Rampriya-S.
 maheshkhatal27.
 niamccash.
+Rampriya-S.
 snamjosh.
 Praiseto.
 
@@ -162,9 +162,9 @@ eriemer1.
 at8807602.
 Vishnu-rvk.
 ankitshu.
+SapphicFire.
 templetontsai.
 captainbraddles.
-SapphicFire.
 unbirthdays.
 
 **Top 50% contributors:**
