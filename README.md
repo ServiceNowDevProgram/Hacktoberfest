@@ -167,9 +167,9 @@ Vishnu-rvk.
 templetontsai.
 captainbraddles.
 unbirthdays.
+ashoo-jindal.
 
 **Top 50% contributors:**
-ashoo-jindal.
 mo-dahir.
 vermaamit1664.
 ariyadmir.
@@ -182,9 +182,9 @@ Beeram12.
 pradeepthipani.
 shraddhakadam301298.
 tejasathalye.
+ChndrshP.
 
 **Other contributors:**
-ChndrshP.
 DhanushNehru.
 isaac-vicentini.
 koratalas.
@@ -243,6 +243,7 @@ lokeshwar777.
 mahamed-rashid.
 marcos-michalski.
 Mihir008.
+MillerYadira.
 Narasimha677.
 nooras.
 osc99.
@@ -550,9 +551,9 @@ KartikeSingh.
 kaushalbharade.
 koratalas.
 lakshyatyagi24.
+loudigi.
 
 **Other contributors:**
-loudigi.
 ManobhavSachan.
 mevops.
 mikeroosa.
@@ -992,6 +993,7 @@ Mexiprince.
 mgcnent.
 mhendershott.
 Mihir008.
+MillerYadira.
 mishraca.
 mohammedusama.
 mortumus.
