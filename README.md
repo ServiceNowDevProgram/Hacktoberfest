@@ -160,17 +160,17 @@ Vishnu-rvk.
 bkb68.
 eriemer1.
 Praiseto.
+templetontsai.
 ashoo-jindal.
 captainbraddles.
 MartinStoyanoff.
 SapphicFire.
-mo-dahir.
 
 **Top 50% contributors:**
+mo-dahir.
 vermaamit1664.
 Dhruvyadav2000.
 shraddhakadam301298.
-templetontsai.
 ronaldkarim.
 Shreedevisnow.
 ariyadmir.
@@ -442,9 +442,10 @@ bkb68.
 NBaker137.
 Praiseto.
 revantKulkarni.
-trade12.
+templetontsai.
 
 **Top 50% contributors:**
+trade12.
 QI-XING.
 ttoter.
 AlphaEagle.
@@ -475,7 +476,6 @@ MihirRathod.
 preshitd.
 Saileshlanka.
 tanu-profile.
-templetontsai.
 TheTreyKyle.
 thisnameissoclever.
 ujjwalprem.
