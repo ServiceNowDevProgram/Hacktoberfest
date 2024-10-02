@@ -174,14 +174,15 @@ vermaamit1664.
 ariyadmir.
 Dhruvyadav2000.
 shraddhakadam301298.
+dadhich-ashish.
 Rampriya-S.
 ronaldkarim.
 Shreedevisnow.
 Beeram12.
 pradeepthipani.
-tejasathalye.
 
 **Other contributors:**
+tejasathalye.
 ChndrshP.
 DhanushNehru.
 isaac-vicentini.
@@ -198,7 +199,6 @@ shridk.
 soham-shee.
 Sravanik12.
 ultralegendary.
-dadhich-ashish.
 dcord1x.
 kalyan120694.
 Paulsylo25.
@@ -433,6 +433,7 @@ rmedved84.
 src107.
 fn20200323.
 pratyushasndev.
+dadhich-ashish.
 Vishnu-rvk.
 ankitshu.
 homealone07.
@@ -450,14 +451,13 @@ anguspalmer.
 Badal2k23.
 NBaker137.
 revantKulkarni.
-trade12.
 
 **Top 50% contributors:**
+trade12.
 unbirthdays.
 QI-XING.
 ttoter.
 AlphaEagle.
-dadhich-ashish.
 JWITSM.
 mo-dahir.
 djunaid.
