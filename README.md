@@ -165,8 +165,8 @@ MartinStoyanoff.
 at8807602.
 Vishnu-rvk.
 templetontsai.
-captainbraddles.
 unbirthdays.
+captainbraddles.
 ashoo-jindal.
 
 **Top 50% contributors:**
@@ -453,6 +453,7 @@ Iamsant.
 jeremyrubio27.
 Sagar-agarwal.
 templetontsai.
+unbirthdays.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
@@ -460,12 +461,11 @@ markroethof.
 shridk.
 anguspalmer.
 Badal2k23.
-NBaker137.
 
 **Top 50% contributors:**
+NBaker137.
 revantKulkarni.
 trade12.
-unbirthdays.
 QI-XING.
 ttoter.
 AlphaEagle.
