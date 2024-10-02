@@ -250,6 +250,7 @@ mahamed-rashid.
 marcos-michalski.
 Mihir008.
 Mikerniker.
+mucho243.
 Narasimha677.
 Nikil-D-Gr8.
 nooras.
@@ -462,9 +463,9 @@ shridk.
 anguspalmer.
 Badal2k23.
 NBaker137.
+revantKulkarni.
 
 **Top 50% contributors:**
-revantKulkarni.
 trade12.
 QI-XING.
 ttoter.
@@ -557,9 +558,9 @@ Juusoee.
 KartikeSingh.
 kaushalbharade.
 koratalas.
+lakshyatyagi24.
 
 **Other contributors:**
-lakshyatyagi24.
 loudigi.
 ManobhavSachan.
 mevops.
@@ -1013,6 +1014,7 @@ mrical.
 MS4X4.
 Msiva19.
 mtharjo.
+mucho243.
 mugiwaramenon.
 Muhammad-Rebaal.
 muhjaved.
