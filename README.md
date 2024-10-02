@@ -164,9 +164,9 @@ captainbraddles.
 SapphicFire.
 mo-dahir.
 vermaamit1664.
+Dhruvyadav2000.
 
 **Top 50% contributors:**
-Dhruvyadav2000.
 shraddhakadam301298.
 Vishnu-rvk.
 templetontsai.
@@ -177,9 +177,9 @@ Beeram12.
 tejasathalye.
 ankitshu.
 DhanushNehru.
+isaac-vicentini.
 
 **Other contributors:**
-isaac-vicentini.
 Jahnavi-Solanki.
 MGOPW.
 msdfib.
@@ -222,6 +222,7 @@ gauravghodinde.
 GittyHarsha.
 Gowthamsai29.
 herambchaudhari4121.
+jefflintel.
 jekinz-tagline.
 john9006.
 katsiarynasoshyna.
@@ -347,9 +348,9 @@ Yokesh0811.
 MarcMouries.
 sn-ajb.
 DavidMarcial.
+techYESlogyXplorer.
 
 **Top 25% contributors:**
-techYESlogyXplorer.
 alyaanbasha.
 gregorwmail.
 harishankert.
@@ -879,6 +880,7 @@ jaypalmr.
 jc73uk.
 jdsingh206.
 jee10der.
+jefflintel.
 jekinz-tagline.
 Jennylou777.
 JiyaGupta-cs.
