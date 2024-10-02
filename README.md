@@ -183,6 +183,7 @@ DhanushNehru.
 **Other contributors:**
 isaac-vicentini.
 Jahnavi-Solanki.
+koratalas.
 MGOPW.
 msdfib.
 Nikil-D-Gr8.
@@ -231,7 +232,6 @@ john9006.
 katsiarynasoshyna.
 KedarisettiSreeVamsi.
 KiwiPelago.
-koratalas.
 lokeshwar777.
 mahamed-rashid.
 marcos-michalski.
@@ -538,10 +538,11 @@ jordanrogus.
 Juusoee.
 KartikeSingh.
 kaushalbharade.
+koratalas.
 lakshyatyagi24.
-loudigi.
 
 **Other contributors:**
+loudigi.
 ManobhavSachan.
 mevops.
 mikeroosa.
@@ -934,7 +935,6 @@ KiwiPelago.
 KokilaAbeysinghe.
 kolomu.
 konikalily.
-koratalas.
 krishna1369.
 KritiDwivedi.
 krysbzh.
