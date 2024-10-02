@@ -194,6 +194,7 @@ soham-shee.
 Sravanik12.
 at8807602.
 dadhich-ashish.
+dcord1x.
 kalyan120694.
 Paulsylo25.
 chelming.
@@ -515,6 +516,7 @@ brichards99.
 Chouffy.
 Coder0131.
 DaleD-SN.
+dcord1x.
 deathkraiser.
 demetris7.
 dhruvii-powershell.
@@ -535,9 +537,9 @@ KartikeSingh.
 kaushalbharade.
 lakshyatyagi24.
 loudigi.
-ManobhavSachan.
 
 **Other contributors:**
+ManobhavSachan.
 mevops.
 mikeroosa.
 moshjahan.
@@ -785,7 +787,6 @@ davematz.
 davewburns.
 davidehira.
 dchavez434.
-dcord1x.
 denmant.
 derHundOida.
 developmentpark.
