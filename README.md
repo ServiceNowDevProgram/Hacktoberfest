@@ -185,6 +185,7 @@ tejasathalye.
 
 **Other contributors:**
 abhrajyotikanrar.
+anurags10.
 ChndrshP.
 DhanushNehru.
 isaac-vicentini.
@@ -223,7 +224,6 @@ TanushreeBorase.
 wiz0floyd.
 acashkr.
 alkaChaudhary73.
-anurags10.
 artemis15.
 BH0LL.
 BhageshChavan.
@@ -526,6 +526,7 @@ vk-cloud.
 abhay625.
 ananthsridhar.
 ankitshaw625.
+anurags10.
 Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
@@ -553,9 +554,9 @@ jordanrogus.
 Juusoee.
 KartikeSingh.
 kaushalbharade.
-koratalas.
 
 **Other contributors:**
+koratalas.
 lakshyatyagi24.
 loudigi.
 ManobhavSachan.
@@ -732,7 +733,6 @@ andyops.
 ANISHAGHOSHAL.
 Anks-26.
 AnnaGould.
-anurags10.
 apbuhssc.
 Archita-2023.
 Arit-Su.
