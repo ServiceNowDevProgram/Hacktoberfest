@@ -178,9 +178,9 @@ Shreedevisnow.
 ariyadmir.
 Beeram12.
 tejasathalye.
+DhanushNehru.
 
 **Other contributors:**
-DhanushNehru.
 isaac-vicentini.
 Jahnavi-Solanki.
 MGOPW.
@@ -230,6 +230,7 @@ jekinz-tagline.
 john9006.
 katsiarynasoshyna.
 KiwiPelago.
+koratalas.
 lokeshwar777.
 mahamed-rashid.
 marcos-michalski.
@@ -931,6 +932,7 @@ KiwiPelago.
 KokilaAbeysinghe.
 kolomu.
 konikalily.
+koratalas.
 krishna1369.
 KritiDwivedi.
 krysbzh.
