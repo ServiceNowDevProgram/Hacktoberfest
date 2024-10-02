@@ -220,6 +220,7 @@ artemis15.
 BH0LL.
 BhageshChavan.
 blindaks.
+ChndrshP.
 cschmidt82.
 davidehira.
 dwilso1018.
@@ -541,9 +542,9 @@ Juusoee.
 KartikeSingh.
 kaushalbharade.
 koratalas.
+lakshyatyagi24.
 
 **Other contributors:**
-lakshyatyagi24.
 loudigi.
 ManobhavSachan.
 mevops.
@@ -764,6 +765,7 @@ chandumishra21.
 CharanjeetSi.
 Charlesemesobum.
 cheshtapathak.
+ChndrshP.
 ChocolateTilt.
 ChristineMayfield.
 ChrRepou.
