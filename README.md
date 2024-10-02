@@ -147,8 +147,8 @@ kmxo.
 sravankadudhuri.
 
 **Top 10% contributors:**
-niamccash.
 SapphicFire.
+niamccash.
 maheshkhatal27.
 bkb68.
 snamjosh.
@@ -172,12 +172,12 @@ dadhich-ashish.
 MartinStoyanoff.
 mo-dahir.
 vermaamit1664.
-ariyadmir.
 Dhruvyadav2000.
 shraddhakadam301298.
 Rampriya-S.
 ronaldkarim.
 Shreedevisnow.
+ariyadmir.
 Beeram12.
 pradeepthipani.
 tejasathalye.
@@ -468,7 +468,6 @@ vermaamit1664.
 Adiana3308.
 akhoshnood.
 allam1234.
-ariyadmir.
 Decoder-Paul.
 DhanushNehru.
 Dhruvyadav2000.
@@ -503,6 +502,7 @@ puneet94.
 Shreedevisnow.
 sisco0.
 yuvraj1107thapa.
+ariyadmir.
 ashaw7697.
 Beeram12.
 crooks-s.
