@@ -166,9 +166,9 @@ captainbraddles.
 selvarun-umass.
 unbirthdays.
 ashoo-jindal.
+dadhich-ashish.
 
 **Top 50% contributors:**
-dadhich-ashish.
 MartinStoyanoff.
 mo-dahir.
 vermaamit1664.
@@ -180,9 +180,9 @@ ronaldkarim.
 Shreedevisnow.
 Beeram12.
 pradeepthipani.
+tejasathalye.
 
 **Other contributors:**
-tejasathalye.
 ChndrshP.
 DhanushNehru.
 isaac-vicentini.
@@ -198,6 +198,7 @@ shridk.
 soham-shee.
 Sravanik12.
 ultralegendary.
+aykmrgit.
 dcord1x.
 kalyan120694.
 Paulsylo25.
@@ -290,11 +291,11 @@ smartcarleen.
 urspvs.
 RahmanM.
 Radhe-Manasa.
+aykmrgit.
 stevezero.
 sychi77.
 azeezgaa.
 deepak-64742.
-aykmrgit.
 rafzk.
 anillande90.
 ayleeandersen.
