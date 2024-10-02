@@ -157,10 +157,10 @@ ynr-ram.
 mohitchauhan-dev.
 selvarun-umass.
 Vishnu-rvk.
+templetontsai.
 bkb68.
 eriemer1.
 Praiseto.
-templetontsai.
 unbirthdays.
 ashoo-jindal.
 captainbraddles.
@@ -436,13 +436,13 @@ yourepicservices.
 ChecksumFailed.
 markroethof.
 shridk.
+templetontsai.
 anguspalmer.
 Badal2k23.
 bkb68.
 NBaker137.
 Praiseto.
 revantKulkarni.
-templetontsai.
 
 **Top 50% contributors:**
 trade12.
