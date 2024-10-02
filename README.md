@@ -178,16 +178,16 @@ Dhruvyadav2000.
 ronaldkarim.
 Shreedevisnow.
 Beeram12.
+isaac-vicentini.
 pradeepthipani.
 shraddhakadam301298.
 tejasathalye.
 abhrajyotikanrar.
 anurags10.
-ChndrshP.
 
 **Other contributors:**
+ChndrshP.
 DhanushNehru.
-isaac-vicentini.
 koratalas.
 MGOPW.
 msdfib.
@@ -518,6 +518,7 @@ yuvraj1107thapa.
 ashaw7697.
 Beeram12.
 crooks-s.
+isaac-vicentini.
 Jaskaran-Techno.
 pradeepthipani.
 RagaChitraMankala.
@@ -549,7 +550,6 @@ HarshMN2345.
 hmadhsan.
 iamvpbhaskar.
 igrzhukovich.
-isaac-vicentini.
 j4rodm.
 jamesfoot.
 JBscriptsNow.
