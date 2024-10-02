@@ -152,10 +152,10 @@ maheshkhatal27.
 bkb68.
 snamjosh.
 Praiseto.
-ynr-ram.
+SapphicFire.
 
 **Top 25% contributors:**
-SapphicFire.
+ynr-ram.
 mohitchauhan-dev.
 eriemer1.
 at8807602.
@@ -186,7 +186,6 @@ tejasathalye.
 ChndrshP.
 DhanushNehru.
 isaac-vicentini.
-Jahnavi-Solanki.
 koratalas.
 MGOPW.
 msdfib.
@@ -230,6 +229,7 @@ ersureshbe.
 gauravghodinde.
 GittyHarsha.
 herambchaudhari4121.
+Jahnavi-Solanki.
 jefflintel.
 jekinz-tagline.
 john9006.
@@ -536,7 +536,6 @@ iamvpbhaskar.
 igrzhukovich.
 isaac-vicentini.
 j4rodm.
-Jahnavi-Solanki.
 jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
@@ -546,9 +545,9 @@ KartikeSingh.
 kaushalbharade.
 koratalas.
 lakshyatyagi24.
+loudigi.
 
 **Other contributors:**
-loudigi.
 ManobhavSachan.
 mevops.
 mikeroosa.
@@ -885,6 +884,7 @@ ishwarighule.
 IslamMari.
 j-infinger.
 j2clow.
+Jahnavi-Solanki.
 jamalissimo.
 jambo969.
 jamiestroud.
