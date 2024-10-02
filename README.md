@@ -165,9 +165,9 @@ captainbraddles.
 bkb68.
 unbirthdays.
 ashoo-jindal.
+MartinStoyanoff.
 
 **Top 50% contributors:**
-MartinStoyanoff.
 SapphicFire.
 mo-dahir.
 vermaamit1664.
@@ -179,9 +179,9 @@ ariyadmir.
 Beeram12.
 tejasathalye.
 DhanushNehru.
+isaac-vicentini.
 
 **Other contributors:**
-isaac-vicentini.
 Jahnavi-Solanki.
 koratalas.
 MGOPW.
@@ -252,6 +252,7 @@ steveuncg.
 swaroop-surampalli.
 TracyCurry96.
 ujjwalgupta2021.
+ultralegendary.
 vijaytechy.
 xjfdzn.
 YDdraigGoch70.
@@ -1149,6 +1150,7 @@ tsicot.
 Turbo-Javax.
 tylerteter.
 ujjwalgupta2021.
+ultralegendary.
 umd-dit-servicenow.
 utk1725.
 v-agnihotri.
