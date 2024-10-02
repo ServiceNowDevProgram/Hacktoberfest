@@ -178,10 +178,11 @@ shraddhakadam301298.
 ronaldkarim.
 Shreedevisnow.
 Beeram12.
+pradeepthipani.
 tejasathalye.
-DhanushNehru.
 
 **Other contributors:**
+DhanushNehru.
 isaac-vicentini.
 Jahnavi-Solanki.
 koratalas.
@@ -208,7 +209,6 @@ DennisRutherford.
 Gowthamsai29.
 manrick.
 mebeingmustaq.
-pradeepthipani.
 pviglianti.
 SujathaSuj.
 TanushreeBorase.
@@ -503,6 +503,7 @@ ashaw7697.
 Beeram12.
 crooks-s.
 Jaskaran-Techno.
+pradeepthipani.
 RagaChitraMankala.
 tejasathalye.
 thameemskings.
@@ -540,9 +541,9 @@ Juusoee.
 KartikeSingh.
 kaushalbharade.
 koratalas.
-lakshyatyagi24.
 
 **Other contributors:**
+lakshyatyagi24.
 loudigi.
 ManobhavSachan.
 mevops.
@@ -658,7 +659,6 @@ NowSharif.
 osc99.
 Pavandileep.
 ppalaskar.
-pradeepthipani.
 pviglianti.
 ranjithsit.
 rickylarsson.
