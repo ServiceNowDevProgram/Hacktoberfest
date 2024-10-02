@@ -151,13 +151,13 @@ sravankadudhuri.
 maheshkhatal27.
 niamccash.
 snamjosh.
-ynr-ram.
+Praiseto.
 
 **Top 25% contributors:**
+ynr-ram.
 mohitchauhan-dev.
 selvarun-umass.
 eriemer1.
-Praiseto.
 Vishnu-rvk.
 ankitshu.
 templetontsai.
@@ -388,6 +388,7 @@ ReginaldFawcett.
 sheikhafsarzap.
 thorn91.
 Himanshu-skb-oo7.
+Praiseto.
 sanjivmeher.
 aman2519.
 hoederath.
@@ -423,7 +424,6 @@ briangodfreydev.
 GauthamBellamkonda.
 odinsride.
 piyusalunke123.
-Praiseto.
 rene-el.
 rmedved84.
 src107.
