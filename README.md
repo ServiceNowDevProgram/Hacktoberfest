@@ -165,15 +165,15 @@ captainbraddles.
 bkb68.
 unbirthdays.
 ashoo-jindal.
-MartinStoyanoff.
+at8807602.
 
 **Top 50% contributors:**
+MartinStoyanoff.
 SapphicFire.
 mo-dahir.
 vermaamit1664.
 Dhruvyadav2000.
 shraddhakadam301298.
-at8807602.
 ronaldkarim.
 Shreedevisnow.
 ariyadmir.
@@ -303,10 +303,11 @@ vandna07.
 PranavBhagat18.
 Irston.
 404paige.
+at8807602.
 litwi1rm.
-mak1A4.
 
 **Top 10% contributors:**
+mak1A4.
 shivamTodwal.
 iar42.
 mlemartien.
@@ -318,7 +319,6 @@ csharpie.
 kmxo.
 mohitchauhan-dev.
 mr-swann.
-at8807602.
 chetnadev.
 captainbraddles.
 TRIGGEREDcoder.
