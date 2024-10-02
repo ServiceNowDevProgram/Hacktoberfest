@@ -173,15 +173,16 @@ mo-dahir.
 vermaamit1664.
 Dhruvyadav2000.
 shraddhakadam301298.
+at8807602.
 ronaldkarim.
 Shreedevisnow.
 ariyadmir.
 Beeram12.
 tejasathalye.
 DhanushNehru.
-isaac-vicentini.
 
 **Other contributors:**
+isaac-vicentini.
 Jahnavi-Solanki.
 koratalas.
 MGOPW.
@@ -194,7 +195,6 @@ saitarun2499.
 shridk.
 soham-shee.
 Sravanik12.
-at8807602.
 dadhich-ashish.
 dcord1x.
 kalyan120694.
@@ -318,11 +318,11 @@ csharpie.
 kmxo.
 mohitchauhan-dev.
 mr-swann.
+at8807602.
 chetnadev.
 captainbraddles.
 TRIGGEREDcoder.
 Danmax.
-at8807602.
 hafsa-asif.
 ovarn.
 devinvalencia.
