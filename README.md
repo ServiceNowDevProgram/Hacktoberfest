@@ -150,12 +150,12 @@ Rampriya-S.
 sravankadudhuri.
 maheshkhatal27.
 niamccash.
+ynr-ram.
 snamjosh.
-mohitchauhan-dev.
 
 **Top 25% contributors:**
+mohitchauhan-dev.
 selvarun-umass.
-ynr-ram.
 MartinStoyanoff.
 Vishnu-rvk.
 bkb68.
@@ -272,8 +272,8 @@ MartinStoyanoff.
 DavidArthurCole.
 eriemer1.
 snamjosh.
-R3J3NT.
 ynr-ram.
+R3J3NT.
 amigujarathi.
 ajcooper72.
 chelming.
