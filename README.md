@@ -171,15 +171,16 @@ mo-dahir.
 vermaamit1664.
 Dhruvyadav2000.
 shraddhakadam301298.
+unbirthdays.
 ronaldkarim.
 Shreedevisnow.
 ariyadmir.
 Beeram12.
 tejasathalye.
 ankitshu.
-DhanushNehru.
 
 **Other contributors:**
+DhanushNehru.
 isaac-vicentini.
 Jahnavi-Solanki.
 MGOPW.
@@ -192,7 +193,6 @@ saitarun2499.
 shridk.
 soham-shee.
 Sravanik12.
-unbirthdays.
 at8807602.
 dadhich-ashish.
 dcord1x.
@@ -479,6 +479,7 @@ tanu-profile.
 TheTreyKyle.
 thisnameissoclever.
 ujjwalprem.
+unbirthdays.
 mockspeed.
 rohantjoshi.
 VaishnaviLathkar98.
@@ -536,9 +537,9 @@ Juusoee.
 KartikeSingh.
 kaushalbharade.
 lakshyatyagi24.
-loudigi.
 
 **Other contributors:**
+loudigi.
 ManobhavSachan.
 mevops.
 mikeroosa.
@@ -574,7 +575,6 @@ Subhraneel77.
 thomasvogh.
 tomlozano.
 trishitapingolia.
-unbirthdays.
 workpurposeusername.
 zaidongy.
 bgrk005.
