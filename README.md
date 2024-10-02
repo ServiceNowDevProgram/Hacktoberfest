@@ -190,6 +190,7 @@ saitarun2499.
 shridk.
 soham-shee.
 Sravanik12.
+templetontsai.
 at8807602.
 dadhich-ashish.
 kalyan120694.
@@ -243,7 +244,6 @@ sagarbhadke08.
 SKYsnaX.
 steveuncg.
 swaroop-surampalli.
-templetontsai.
 TracyCurry96.
 ujjwalgupta2021.
 vijaytechy.
@@ -565,6 +565,7 @@ speedy18.
 Sravanik12.
 stwinkle.
 Subhraneel77.
+templetontsai.
 thomasvogh.
 tomlozano.
 trishitapingolia.
@@ -1124,7 +1125,6 @@ tapishsh.
 techspark77.
 tedante.
 telbir.
-templetontsai.
 TheoCantor.
 theotherdebs.
 thesnowguy.
