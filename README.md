@@ -156,15 +156,15 @@ Praiseto.
 **Top 25% contributors:**
 ynr-ram.
 mohitchauhan-dev.
-selvarun-umass.
 eriemer1.
+SapphicFire.
 at8807602.
 Rampriya-S.
-SapphicFire.
 Vishnu-rvk.
 ankitshu.
 templetontsai.
 captainbraddles.
+selvarun-umass.
 unbirthdays.
 
 **Top 50% contributors:**
@@ -417,7 +417,6 @@ goranlundqvist.
 harisnad.
 ivan-betev.
 riya-vermaa.
-selvarun-umass.
 SrijanPatwa.
 allenandreas.
 anubhav-ritolia.
@@ -443,6 +442,7 @@ wiresgit.
 yourepicservices.
 ChecksumFailed.
 markroethof.
+selvarun-umass.
 shridk.
 anguspalmer.
 Badal2k23.
