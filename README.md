@@ -152,11 +152,11 @@ SapphicFire.
 bkb68.
 snamjosh.
 maheshkhatal27.
+ynr-ram.
 selvarun-umass.
-Praiseto.
 
 **Top 25% contributors:**
-ynr-ram.
+Praiseto.
 ankitshu.
 mohitchauhan-dev.
 S-w-a-p-n-i-l-22.
