@@ -159,11 +159,11 @@ selvarun-umass.
 eriemer1.
 Vishnu-rvk.
 templetontsai.
+captainbraddles.
 bkb68.
 Praiseto.
 unbirthdays.
 ashoo-jindal.
-captainbraddles.
 MartinStoyanoff.
 
 **Top 50% contributors:**
@@ -315,11 +315,11 @@ csharpie.
 mohitchauhan-dev.
 mr-swann.
 chetnadev.
+captainbraddles.
 TRIGGEREDcoder.
 Danmax.
 kmxo.
 at8807602.
-captainbraddles.
 hafsa-asif.
 ovarn.
 devinvalencia.
