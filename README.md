@@ -152,14 +152,14 @@ SapphicFire.
 bkb68.
 snamjosh.
 maheshkhatal27.
-Praiseto.
+selvarun-umass.
 
 **Top 25% contributors:**
+Praiseto.
 ynr-ram.
 ankitshu.
 mohitchauhan-dev.
 S-w-a-p-n-i-l-22.
-selvarun-umass.
 eriemer1.
 MartinStoyanoff.
 at8807602.
@@ -398,6 +398,7 @@ domuserk.
 HarneetSital.
 jacebenson.
 ReginaldFawcett.
+selvarun-umass.
 sheikhafsarzap.
 thorn91.
 Himanshu-skb-oo7.
@@ -429,7 +430,6 @@ harisnad.
 ivan-betev.
 riya-vermaa.
 S-w-a-p-n-i-l-22.
-selvarun-umass.
 SrijanPatwa.
 allenandreas.
 anubhav-ritolia.
