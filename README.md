@@ -150,15 +150,14 @@ niamccash.
 **Top 10% contributors:**
 sravankadudhuri.
 SapphicFire.
-bkb68.
 snamjosh.
+bkb68.
 maheshkhatal27.
 selvarun-umass.
 
 **Top 25% contributors:**
 Praiseto.
 mohitchauhan-dev.
-S-w-a-p-n-i-l-22.
 eriemer1.
 MartinStoyanoff.
 at8807602.
@@ -167,6 +166,7 @@ ankitshu.
 templetontsai.
 unbirthdays.
 captainbraddles.
+S-w-a-p-n-i-l-22.
 ashoo-jindal.
 
 **Top 50% contributors:**
@@ -431,7 +431,6 @@ goranlundqvist.
 harisnad.
 ivan-betev.
 riya-vermaa.
-S-w-a-p-n-i-l-22.
 SrijanPatwa.
 allenandreas.
 anubhav-ritolia.
@@ -459,6 +458,7 @@ wiresgit.
 yourepicservices.
 ChecksumFailed.
 markroethof.
+S-w-a-p-n-i-l-22.
 shridk.
 anguspalmer.
 Badal2k23.
