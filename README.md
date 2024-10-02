@@ -229,6 +229,7 @@ jefflintel.
 jekinz-tagline.
 john9006.
 katsiarynasoshyna.
+KedarisettiSreeVamsi.
 KiwiPelago.
 koratalas.
 lokeshwar777.
@@ -444,9 +445,9 @@ Badal2k23.
 bkb68.
 NBaker137.
 Praiseto.
+revantKulkarni.
 
 **Top 50% contributors:**
-revantKulkarni.
 trade12.
 unbirthdays.
 QI-XING.
@@ -538,9 +539,9 @@ Juusoee.
 KartikeSingh.
 kaushalbharade.
 lakshyatyagi24.
+loudigi.
 
 **Other contributors:**
-loudigi.
 ManobhavSachan.
 mevops.
 mikeroosa.
@@ -919,6 +920,7 @@ katsiarynasoshyna.
 KayakDK.
 kdinesh26.
 Keagnn.
+KedarisettiSreeVamsi.
 kenish12.
 kevintor.
 KhAhshan.
