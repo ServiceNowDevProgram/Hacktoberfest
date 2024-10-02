@@ -181,9 +181,9 @@ Shreedevisnow.
 Beeram12.
 pradeepthipani.
 shraddhakadam301298.
+tejasathalye.
 
 **Other contributors:**
-tejasathalye.
 ChndrshP.
 DhanushNehru.
 isaac-vicentini.
@@ -200,6 +200,7 @@ soham-shee.
 Sravanik12.
 ultralegendary.
 aykmrgit.
+chetnadev.
 dcord1x.
 kalyan120694.
 Paulsylo25.
@@ -309,9 +310,10 @@ at8807602.
 PranavBhagat18.
 Irston.
 404paige.
-litwi1rm.
+chetnadev.
 
 **Top 10% contributors:**
+litwi1rm.
 mak1A4.
 shivamTodwal.
 iar42.
@@ -324,7 +326,6 @@ csharpie.
 kmxo.
 mohitchauhan-dev.
 mr-swann.
-chetnadev.
 captainbraddles.
 TRIGGEREDcoder.
 Danmax.
