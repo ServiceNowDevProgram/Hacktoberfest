@@ -154,8 +154,8 @@ snamjosh.
 **Top 10% contributors:**
 niamccash.
 sravankadudhuri.
-SapphicFire.
 ankitshu.
+SapphicFire.
 bkb68.
 maheshkhatal27.
 templetontsai.
@@ -370,6 +370,7 @@ jiteshmalik.
 jonahpiascik.
 soerenmaucher.
 avssrikanth.
+ankitshu.
 davidkwhuang.
 zahidask.
 DynamiteC.
@@ -380,11 +381,10 @@ Yokesh0811.
 MarcMouries.
 sn-ajb.
 DavidMarcial.
-techYESlogyXplorer.
 
 **Top 25% contributors:**
+techYESlogyXplorer.
 alyaanbasha.
-ankitshu.
 gregorwmail.
 harishankert.
 mady22070.
