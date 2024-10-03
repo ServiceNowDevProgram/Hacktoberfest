@@ -158,6 +158,7 @@ templetontsai.
 **Top 25% contributors:**
 selvarun-umass.
 Praiseto.
+ankitshu.
 MartinStoyanoff.
 captainbraddles.
 mohitchauhan-dev.
@@ -167,7 +168,6 @@ ashoo-jindal.
 at8807602.
 Rampriya-S.
 Vishnu-rvk.
-ankitshu.
 unbirthdays.
 vermaamit1664.
 
@@ -426,6 +426,7 @@ dalestubblefield.
 danielliaus.
 JonSandoval.
 sauravsumankumar.
+ankitshu.
 ashuprince121.
 hrichiksite.
 Iuliak.
@@ -457,7 +458,6 @@ src107.
 fn20200323.
 pratyushasndev.
 Vishnu-rvk.
-ankitshu.
 homealone07.
 Iamsant.
 jeremyrubio27.
