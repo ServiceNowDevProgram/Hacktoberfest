@@ -173,11 +173,11 @@ eriemer1.
 at8807602.
 dadhich-ashish.
 Vishnu-rvk.
+ariyadmir.
 unbirthdays.
-vermaamit1664.
 
 **Top 50% contributors:**
-ariyadmir.
+vermaamit1664.
 bird-03.
 mo-dahir.
 Dhruvyadav2000.
@@ -469,6 +469,7 @@ src107.
 fn20200323.
 pratyushasndev.
 Vishnu-rvk.
+ariyadmir.
 homealone07.
 Iamsant.
 jeremyrubio27.
@@ -477,7 +478,6 @@ unbirthdays.
 vermaamit1664.
 wiresgit.
 yourepicservices.
-ariyadmir.
 ChecksumFailed.
 markroethof.
 anguspalmer.
