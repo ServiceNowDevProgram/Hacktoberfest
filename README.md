@@ -188,17 +188,17 @@ Rampriya-S.
 ronaldkarim.
 Shreedevisnow.
 Beeram12.
+koratalas.
 pradeepthipani.
 shraddhakadam301298.
 tejasathalye.
 anurags10.
-ChndrshP.
 
 **Other contributors:**
+ChndrshP.
 DanielMadsenDK.
 DhanushNehru.
 ezratkim.
-koratalas.
 MGOPW.
 msdfib.
 Paulsylo25.
@@ -538,6 +538,7 @@ ashaw7697.
 Beeram12.
 crooks-s.
 Jaskaran-Techno.
+koratalas.
 pradeepthipani.
 RagaChitraMankala.
 shraddhakadam301298.
@@ -579,7 +580,6 @@ jordanrogus.
 Juusoee.
 KartikeSingh.
 kaushalbharade.
-koratalas.
 
 **Other contributors:**
 lakshyatyagi24.
