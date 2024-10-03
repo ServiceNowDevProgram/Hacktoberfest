@@ -182,8 +182,8 @@ bird-03.
 mo-dahir.
 Dhruvyadav2000.
 isaac-vicentini.
-shridk.
 abhrajyotikanrar.
+shridk.
 Rampriya-S.
 ronaldkarim.
 Shreedevisnow.
@@ -355,8 +355,8 @@ ashoo-jindal.
 riya-misra-1.
 kmxo.
 TRIGGEREDcoder.
-Danmax.
 abhrajyotikanrar.
+Danmax.
 hafsa-asif.
 ovarn.
 devinvalencia.
