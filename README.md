@@ -153,9 +153,9 @@ snamjosh.
 
 **Top 10% contributors:**
 ynr-ram.
+ankitshu.
 bkb68.
 sravankadudhuri.
-ankitshu.
 SapphicFire.
 selvarun-umass.
 maheshkhatal27.
@@ -359,6 +359,7 @@ riya-misra-1.
 kmxo.
 TRIGGEREDcoder.
 Danmax.
+ankitshu.
 hafsa-asif.
 ovarn.
 devinvalencia.
@@ -376,7 +377,6 @@ oasif.
 jiteshmalik.
 jonahpiascik.
 soerenmaucher.
-ankitshu.
 avssrikanth.
 davidkwhuang.
 zahidask.
