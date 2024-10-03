@@ -178,6 +178,7 @@ mo-dahir.
 
 **Top 50% contributors:**
 ariyadmir.
+aswamy93.
 Dhruvyadav2000.
 isaac-vicentini.
 shridk.
@@ -186,7 +187,6 @@ Rampriya-S.
 ronaldkarim.
 abhrajyotikanrar.
 Shreedevisnow.
-aswamy93.
 Beeram12.
 pradeepthipani.
 shraddhakadam301298.
@@ -496,6 +496,7 @@ Adiana3308.
 akhoshnood.
 allam1234.
 ariyadmir.
+aswamy93.
 Decoder-Paul.
 DhanushNehru.
 Dhruvyadav2000.
@@ -531,7 +532,6 @@ Shreedevisnow.
 sisco0.
 yuvraj1107thapa.
 ashaw7697.
-aswamy93.
 Beeram12.
 crooks-s.
 Jaskaran-Techno.
