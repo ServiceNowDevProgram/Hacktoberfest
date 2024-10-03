@@ -196,6 +196,7 @@ ChndrshP.
 
 **Other contributors:**
 DhanushNehru.
+ezratkim.
 koratalas.
 MGOPW.
 msdfib.
@@ -248,7 +249,6 @@ davidehira.
 dwilso1018.
 erlingvt.
 ersureshbe.
-ezratkim.
 gauravghodinde.
 GittyHarsha.
 herambchaudhari4121.
@@ -565,6 +565,7 @@ deathkraiser.
 demetris7.
 dhruvii-powershell.
 dorsy99.
+ezratkim.
 HarshMN2345.
 hmadhsan.
 iamvpbhaskar.
@@ -579,9 +580,9 @@ KartikeSingh.
 kaushalbharade.
 koratalas.
 lakshyatyagi24.
-loudigi.
 
 **Other contributors:**
+loudigi.
 ManobhavSachan.
 mevops.
 mikeroosa.
@@ -881,7 +882,6 @@ evanrichardfpl.
 EvTheJavaScriptDev.
 ewhite1.
 extinctsion.
-ezratkim.
 fisikos.
 flab-io.
 Flashdevp95.
