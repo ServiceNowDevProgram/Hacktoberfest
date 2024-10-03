@@ -154,9 +154,9 @@ SapphicFire.
 ankitshu.
 bkb68.
 maheshkhatal27.
+templetontsai.
 
 **Top 25% contributors:**
-templetontsai.
 selvarun-umass.
 Praiseto.
 MartinStoyanoff.
@@ -262,6 +262,7 @@ osc99.
 pandeysameer.
 pranavkhurana2011.
 pranjalisr.
+prashantmrshine.
 robertbeeman.
 rohantjoshi.
 rohi-v.
@@ -618,6 +619,7 @@ KonvalinkaCodes.
 manoj424.
 Marll22.
 Nikuuuuu.
+prashantmrshine.
 adamnewhall.
 brumam.
 cenzo85.
@@ -631,7 +633,6 @@ mohdzeeshan96.
 mvkassak.
 nancystodd.
 outlivo.
-prashantmrshine.
 sagarbhadke08.
 SweetPoodle.
 varunharih.
