@@ -22,7 +22,7 @@ Every reviewer/maintainer hangs out on the SNDevs Slack workspace. You can join 
 
 - [How to contribute](#contribute)
 - [Projects](#projects)
-    - [ServiceNow Generative AI Prompt Library](#servicenow-generative-ai-prompt-library)
+    - ~~ServiceNow Generative AI Prompt Library~~ **Project** $${\color{red}EXCLUDED}$$ **from Hacktoberfest 2024**
     - [Code-Snippets](#code-snippets)
     - [SNDevs Slacker Bot](#sndevs-slacker-bot)
     - [UI Builder Conference Notes App](#ui-builder-conference-notes-app)
@@ -58,6 +58,10 @@ There are multiple projects we are encouraging participation in. To finish your 
 
 ## ServiceNow Generative AI Prompt Library
 [![Prompt Library Banner](/images/promptlibrary.png)](https://github.com/ServiceNowDevProgram/ServiceNow-GenAi-Prompt-Library)
+
+:warning::warning::warning:<br>
+**Unfortunately this repository was _reported_ and got automatically** ${\color{red}excluded}$ **from Hacktoberfest 2024. As a result, while contributions are still accepted, they will _not count_ towards the completion of Hactoberfest 2024.**<br>
+:warning::warning::warning:
 
 > The SN GenAI Prompt Library at [devlink.sn/PromptLibrary](https://devlink.sn/PromptLibrary) is a community-driven hub for ServiceNow professionals to gather Generative AI prompts that we use to make our lives easier. Now you can submit prompts directly from GitHub!
 
@@ -361,9 +365,9 @@ danr2c2.
 Litwilly.
 MRSinghRajat.
 oasif.
+ronaldkarim.
 jiteshmalik.
 jonahpiascik.
-ronaldkarim.
 soerenmaucher.
 avssrikanth.
 davidkwhuang.
