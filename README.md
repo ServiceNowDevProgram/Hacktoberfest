@@ -162,13 +162,13 @@ MartinStoyanoff.
 captainbraddles.
 mohitchauhan-dev.
 eriemer1.
+ashoo-jindal.
 at8807602.
 Rampriya-S.
 Vishnu-rvk.
 ankitshu.
 unbirthdays.
 S-w-a-p-n-i-l-22.
-ashoo-jindal.
 
 **Top 50% contributors:**
 dadhich-ashish.
@@ -343,6 +343,7 @@ riya-misra-1.
 TRIGGEREDcoder.
 Danmax.
 kmxo.
+ashoo-jindal.
 hafsa-asif.
 ovarn.
 devinvalencia.
@@ -360,7 +361,6 @@ jiteshmalik.
 jonahpiascik.
 ronaldkarim.
 soerenmaucher.
-ashoo-jindal.
 avssrikanth.
 davidkwhuang.
 zahidask.
