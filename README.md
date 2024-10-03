@@ -169,11 +169,11 @@ Rampriya-S.
 Vishnu-rvk.
 ankitshu.
 unbirthdays.
-dadhich-ashish.
+vermaamit1664.
 
 **Top 50% contributors:**
+dadhich-ashish.
 mo-dahir.
-vermaamit1664.
 ariyadmir.
 Dhruvyadav2000.
 isaac-vicentini.
@@ -463,15 +463,16 @@ Iamsant.
 jeremyrubio27.
 Sagar-agarwal.
 unbirthdays.
+vermaamit1664.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
 markroethof.
 anguspalmer.
 Badal2k23.
-NBaker137.
 
 **Top 50% contributors:**
+NBaker137.
 revantKulkarni.
 trade12.
 QI-XING.
@@ -482,7 +483,6 @@ mo-dahir.
 djunaid.
 Haile-08.
 sonamtiwari8.
-vermaamit1664.
 Adiana3308.
 akhoshnood.
 allam1234.
