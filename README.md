@@ -177,9 +177,9 @@ unbirthdays.
 vermaamit1664.
 
 **Top 50% contributors:**
+ariyadmir.
 bird-03.
 mo-dahir.
-ariyadmir.
 Dhruvyadav2000.
 isaac-vicentini.
 shridk.
@@ -477,12 +477,13 @@ unbirthdays.
 vermaamit1664.
 wiresgit.
 yourepicservices.
+ariyadmir.
 ChecksumFailed.
 markroethof.
 anguspalmer.
-Badal2k23.
 
 **Top 50% contributors:**
+Badal2k23.
 NBaker137.
 revantKulkarni.
 trade12.
@@ -497,7 +498,6 @@ sonamtiwari8.
 Adiana3308.
 akhoshnood.
 allam1234.
-ariyadmir.
 Decoder-Paul.
 DhanushNehru.
 Dhruvyadav2000.
