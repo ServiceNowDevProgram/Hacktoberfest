@@ -153,12 +153,12 @@ sravankadudhuri.
 SapphicFire.
 bkb68.
 maheshkhatal27.
-templetontsai.
+ankitshu.
 
 **Top 25% contributors:**
+templetontsai.
 selvarun-umass.
 Praiseto.
-ankitshu.
 MartinStoyanoff.
 captainbraddles.
 mohitchauhan-dev.
@@ -394,6 +394,7 @@ Vish-X07.
 Jayden-Chiu.
 OrgovanGeza.
 Paulsylo25.
+ankitshu.
 arhaan2019.
 designitsecure.
 girishnagaraj09.
@@ -426,7 +427,6 @@ dalestubblefield.
 danielliaus.
 JonSandoval.
 sauravsumankumar.
-ankitshu.
 ashuprince121.
 hrichiksite.
 Iuliak.
