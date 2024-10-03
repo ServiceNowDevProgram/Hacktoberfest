@@ -265,6 +265,7 @@ marcos-michalski.
 Mihir008.
 Mikerniker.
 Narasimha677.
+naveenraw25.
 Nikil-D-Gr8.
 nooras.
 osc99.
@@ -581,9 +582,9 @@ jordanrogus.
 Juusoee.
 KartikeSingh.
 kaushalbharade.
+lakshyatyagi24.
 
 **Other contributors:**
-lakshyatyagi24.
 loudigi.
 ManobhavSachan.
 mevops.
@@ -1051,6 +1052,7 @@ mybpdi.
 napul205.
 Narasimha677.
 natefern.
+naveenraw25.
 nayeemwajid97.
 neenaSharma1.
 neerajs296.
