@@ -158,8 +158,8 @@ selvarun-umass.
 bkb68.
 sravankadudhuri.
 SapphicFire.
-maheshkhatal27.
 templetontsai.
+maheshkhatal27.
 
 **Top 25% contributors:**
 Praiseto.
@@ -402,10 +402,10 @@ harishankert.
 mady22070.
 mjonssonme.
 nthumma.
+templetontsai.
 b1naryst0rm.
 maheshkhatal27.
 sdgrube2.
-templetontsai.
 AdilBasha1SAP.
 bradtiltonnow.
 debendu-das.
