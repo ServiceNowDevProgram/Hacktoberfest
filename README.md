@@ -158,6 +158,7 @@ selvarun-umass.
 **Top 25% contributors:**
 Praiseto.
 templetontsai.
+captainbraddles.
 mohitchauhan-dev.
 eriemer1.
 MartinStoyanoff.
@@ -166,7 +167,6 @@ Rampriya-S.
 Vishnu-rvk.
 ankitshu.
 unbirthdays.
-captainbraddles.
 S-w-a-p-n-i-l-22.
 ashoo-jindal.
 
@@ -334,11 +334,11 @@ mlemartien.
 hentonjd.
 23Thom.
 aatrey882.
+captainbraddles.
 salmaniqbal92.
 csharpie.
 mohitchauhan-dev.
 mr-swann.
-captainbraddles.
 TRIGGEREDcoder.
 Danmax.
 kmxo.
