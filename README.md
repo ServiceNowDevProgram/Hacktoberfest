@@ -57,7 +57,7 @@ There are multiple projects we are encouraging participation in. To finish your 
 - These four pull-requests can be spread out across multiple projects or can all be for one project.
 
 ## ServiceNow Generative AI Prompt Library
-[![Prompt Library Banner](/images/promptlibrary.png)](https://github.com/ServiceNowDevProgram/ServiceNow-GenAi-Prompt-Library)
+[![Prompt Library Banner](/images/promptlibrary-excluded.png)](https://github.com/ServiceNowDevProgram/ServiceNow-GenAi-Prompt-Library)
 
 :warning::warning::warning:<br>
 **Unfortunately this repository was _reported_ and got automatically** ${\color{red}excluded}$ **from Hacktoberfest 2024. As a result, while contributions are still accepted, they will _not count_ towards the completion of Hactoberfest 2024.**<br>
