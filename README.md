@@ -153,12 +153,12 @@ sravankadudhuri.
 SapphicFire.
 bkb68.
 maheshkhatal27.
-selvarun-umass.
+templetontsai.
 
 **Top 25% contributors:**
+selvarun-umass.
 Praiseto.
 MartinStoyanoff.
-templetontsai.
 captainbraddles.
 mohitchauhan-dev.
 eriemer1.
@@ -399,6 +399,7 @@ llipovsky.
 ravichandra1998g.
 seviceN.
 tejudhoran95.
+templetontsai.
 vasantharaja-natarajan.
 am-shakeel.
 dean-croaker.
@@ -429,7 +430,6 @@ Iuliak.
 mmaraj1.
 Munnisona.
 RaunakScarlet.
-templetontsai.
 TVani5.
 adarshsingh0205.
 annaydas.
