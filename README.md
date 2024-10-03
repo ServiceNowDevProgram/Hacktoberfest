@@ -148,12 +148,12 @@ Lacah.
 earlduque.
 404paige.
 niamccash.
+ankitshu.
 kmxo.
-snamjosh.
 
 **Top 10% contributors:**
+snamjosh.
 ynr-ram.
-ankitshu.
 bkb68.
 sravankadudhuri.
 SapphicFire.
@@ -353,6 +353,7 @@ aatrey882.
 captainbraddles.
 salmaniqbal92.
 abhrajyotikanrar.
+ankitshu.
 csharpie.
 Danmax.
 mohitchauhan-dev.
@@ -361,7 +362,6 @@ ashoo-jindal.
 kmxo.
 riya-misra-1.
 TRIGGEREDcoder.
-ankitshu.
 hafsa-asif.
 ovarn.
 devinvalencia.
