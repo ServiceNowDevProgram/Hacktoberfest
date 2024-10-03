@@ -191,9 +191,9 @@ Beeram12.
 pradeepthipani.
 shraddhakadam301298.
 tejasathalye.
+anurags10.
 
 **Other contributors:**
-anurags10.
 ChndrshP.
 DhanushNehru.
 koratalas.
@@ -275,6 +275,7 @@ rohi-v.
 Ronilpatil22.
 saarimshaikh.
 sagarbhadke08.
+sharsha315.
 SKYsnaX.
 sohailkhilji.
 steveuncg.
@@ -383,9 +384,9 @@ Yokesh0811.
 MarcMouries.
 sn-ajb.
 DavidMarcial.
+techYESlogyXplorer.
 
 **Top 25% contributors:**
-techYESlogyXplorer.
 alyaanbasha.
 gregorwmail.
 harishankert.
@@ -1144,6 +1145,7 @@ SG-SN.
 shakysnake.
 ShanClayton.
 shaoservicenow.
+sharsha315.
 sherief-io.
 SherylThompson.
 shreyverma03.
