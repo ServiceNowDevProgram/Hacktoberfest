@@ -174,9 +174,9 @@ Rampriya-S.
 Vishnu-rvk.
 unbirthdays.
 vermaamit1664.
+bird-03.
 
 **Top 50% contributors:**
-bird-03.
 dadhich-ashish.
 mo-dahir.
 ariyadmir.
@@ -190,9 +190,9 @@ Beeram12.
 pradeepthipani.
 shraddhakadam301298.
 tejasathalye.
+anurags10.
 
 **Other contributors:**
-anurags10.
 ChndrshP.
 DhanushNehru.
 koratalas.
@@ -277,6 +277,7 @@ sagarbhadke08.
 SKYsnaX.
 sohailkhilji.
 steveuncg.
+stwinkle.
 swaroop-surampalli.
 TracyCurry96.
 ujjwalgupta2021.
@@ -534,6 +535,7 @@ Jaskaran-Techno.
 pradeepthipani.
 RagaChitraMankala.
 shraddhakadam301298.
+stwinkle.
 tejasathalye.
 thameemskings.
 Thrizvi.
@@ -572,9 +574,9 @@ kaushalbharade.
 koratalas.
 lakshyatyagi24.
 loudigi.
-ManobhavSachan.
 
 **Other contributors:**
+ManobhavSachan.
 mevops.
 mikeroosa.
 moshjahan.
@@ -605,7 +607,6 @@ Shambu-K.
 soham-shee.
 speedy18.
 Sravanik12.
-stwinkle.
 Subhraneel77.
 thomasvogh.
 tomlozano.
