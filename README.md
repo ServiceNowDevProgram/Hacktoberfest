@@ -195,6 +195,7 @@ anurags10.
 ChndrshP.
 
 **Other contributors:**
+DanielMadsenDK.
 DhanushNehru.
 ezratkim.
 koratalas.
@@ -243,7 +244,6 @@ BhageshChavan.
 blindaks.
 Charanjet.
 cschmidt82.
-DanielMadsenDK.
 davidehira.
 dwilso1018.
 erlingvt.
@@ -560,6 +560,7 @@ ChndrshP.
 Chouffy.
 Coder0131.
 DaleD-SN.
+DanielMadsenDK.
 dcord1x.
 deathkraiser.
 demetris7.
@@ -579,9 +580,9 @@ Juusoee.
 KartikeSingh.
 kaushalbharade.
 koratalas.
-lakshyatyagi24.
 
 **Other contributors:**
+lakshyatyagi24.
 loudigi.
 ManobhavSachan.
 mevops.
@@ -833,7 +834,6 @@ Dan-Bladorn-Trimedx.
 dan-tracey.
 danclausen.
 DangerousNights.
-DanielMadsenDK.
 danybr0.
 Daoist-Ye.
 Darrkshade.
