@@ -186,13 +186,14 @@ shridk.
 ronaldkarim.
 Shreedevisnow.
 abhrajyotikanrar.
+aswamy93.
 Beeram12.
 pradeepthipani.
 shraddhakadam301298.
 tejasathalye.
-anurags10.
 
 **Other contributors:**
+anurags10.
 ChndrshP.
 DhanushNehru.
 koratalas.
@@ -218,7 +219,6 @@ chelming.
 bgrk005.
 bhavyajain511.
 mvkassak.
-aswamy93.
 d7ianielsimonP.
 DennisRutherford.
 Gowthamsai29.
@@ -530,6 +530,7 @@ Shreedevisnow.
 sisco0.
 yuvraj1107thapa.
 ashaw7697.
+aswamy93.
 Beeram12.
 crooks-s.
 Jaskaran-Techno.
@@ -574,9 +575,9 @@ KartikeSingh.
 kaushalbharade.
 koratalas.
 lakshyatyagi24.
-loudigi.
 
 **Other contributors:**
+loudigi.
 ManobhavSachan.
 mevops.
 mikeroosa.
@@ -653,7 +654,6 @@ anilvaranasi.
 anirudhkumarm.
 APraestegaard.
 artemis15.
-aswamy93.
 ayrotideysarkar.
 BadalKhojare.
 beingfluid.
