@@ -177,12 +177,12 @@ unbirthdays.
 vermaamit1664.
 
 **Top 50% contributors:**
+bird-03.
 mo-dahir.
 ariyadmir.
 Dhruvyadav2000.
 isaac-vicentini.
 shridk.
-bird-03.
 Rampriya-S.
 ronaldkarim.
 abhrajyotikanrar.
@@ -307,10 +307,10 @@ MartinStoyanoff.
 ynr-ram.
 eriemer1.
 DavidArthurCole.
+bird-03.
 R3J3NT.
 amigujarathi.
 ajcooper72.
-bird-03.
 chelming.
 hrobarikt.
 sumanthdosapati.
