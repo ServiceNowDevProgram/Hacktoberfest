@@ -155,9 +155,9 @@ snamjosh.
 **Top 10% contributors:**
 ynr-ram.
 bkb68.
+selvarun-umass.
 sravankadudhuri.
 SapphicFire.
-selvarun-umass.
 maheshkhatal27.
 templetontsai.
 
@@ -372,6 +372,7 @@ bkb68.
 gowdah.
 lakshmikanthgupta.
 ronaldkarim.
+selvarun-umass.
 sravankadudhuri.
 danr2c2.
 Litwilly.
@@ -382,7 +383,6 @@ jonahpiascik.
 soerenmaucher.
 avssrikanth.
 davidkwhuang.
-selvarun-umass.
 zahidask.
 DynamiteC.
 phr-nk.
