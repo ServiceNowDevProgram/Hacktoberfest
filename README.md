@@ -147,9 +147,9 @@ Meet the Hacktoberfest crew who will be maintaining your projects:
 Lacah.
 earlduque.
 404paige.
-ynr-ram.
 kmxo.
 snamjosh.
+ynr-ram.
 
 **Top 10% contributors:**
 niamccash.
@@ -305,8 +305,8 @@ mgopw.
 ishaanshoor.
 snamjosh.
 MartinStoyanoff.
-ynr-ram.
 eriemer1.
+ynr-ram.
 DavidArthurCole.
 bird-03.
 R3J3NT.
