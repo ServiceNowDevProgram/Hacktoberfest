@@ -175,9 +175,9 @@ bird-03.
 dadhich-ashish.
 Vishnu-rvk.
 ariyadmir.
+unbirthdays.
 
 **Top 50% contributors:**
-unbirthdays.
 vermaamit1664.
 mo-dahir.
 abhrajyotikanrar.
@@ -192,9 +192,9 @@ pradeepthipani.
 shraddhakadam301298.
 tejasathalye.
 anurags10.
+ChndrshP.
 
 **Other contributors:**
-ChndrshP.
 DhanushNehru.
 koratalas.
 MGOPW.
@@ -241,6 +241,7 @@ artemis15.
 BH0LL.
 BhageshChavan.
 blindaks.
+Charanjet.
 cschmidt82.
 DanielMadsenDK.
 davidehira.
@@ -481,9 +482,9 @@ yourepicservices.
 ChecksumFailed.
 markroethof.
 anguspalmer.
+Badal2k23.
 
 **Top 50% contributors:**
-Badal2k23.
 NBaker137.
 revantKulkarni.
 trade12.
@@ -577,9 +578,9 @@ KartikeSingh.
 kaushalbharade.
 koratalas.
 lakshyatyagi24.
+loudigi.
 
 **Other contributors:**
-loudigi.
 ManobhavSachan.
 mevops.
 mikeroosa.
@@ -805,6 +806,7 @@ ChaitanyaKiran14.
 chalamalamahesh.
 chandumishra21.
 CharanjeetSi.
+Charanjet.
 Charlesemesobum.
 cheshtapathak.
 ChocolateTilt.
