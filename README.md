@@ -157,13 +157,13 @@ selvarun-umass.
 
 **Top 25% contributors:**
 Praiseto.
+templetontsai.
 mohitchauhan-dev.
 eriemer1.
 MartinStoyanoff.
 at8807602.
 Vishnu-rvk.
 ankitshu.
-templetontsai.
 unbirthdays.
 captainbraddles.
 S-w-a-p-n-i-l-22.
@@ -425,6 +425,7 @@ Iuliak.
 mmaraj1.
 Munnisona.
 RaunakScarlet.
+templetontsai.
 TVani5.
 adarshsingh0205.
 annaydas.
@@ -453,7 +454,6 @@ homealone07.
 Iamsant.
 jeremyrubio27.
 Sagar-agarwal.
-templetontsai.
 unbirthdays.
 wiresgit.
 yourepicservices.
