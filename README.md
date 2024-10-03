@@ -193,9 +193,9 @@ pradeepthipani.
 shraddhakadam301298.
 tejasathalye.
 anurags10.
+ChndrshP.
 
 **Other contributors:**
-ChndrshP.
 DanielMadsenDK.
 DhanushNehru.
 ezratkim.
@@ -214,6 +214,7 @@ soham-shee.
 Sravanik12.
 ultralegendary.
 aykmrgit.
+Danmax.
 dcord1x.
 kalyan120694.
 chelming.
@@ -352,13 +353,13 @@ captainbraddles.
 salmaniqbal92.
 abhrajyotikanrar.
 csharpie.
+Danmax.
 mohitchauhan-dev.
 mr-swann.
 ashoo-jindal.
 kmxo.
 riya-misra-1.
 TRIGGEREDcoder.
-Danmax.
 ankitshu.
 hafsa-asif.
 ovarn.
