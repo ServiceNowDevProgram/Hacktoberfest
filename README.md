@@ -179,11 +179,11 @@ chetnadev.
 dadhich-ashish.
 
 **Top 50% contributors:**
+SrijanPatwa.
 vermaamit1664.
 Vishnu-rvk.
 abhrajyotikanrar.
 Rampriya-S.
-SrijanPatwa.
 mo-dahir.
 DanielMadsenDK.
 Dhruvyadav2000.
@@ -381,6 +381,7 @@ gowdah.
 lakshmikanthgupta.
 ronaldkarim.
 sravankadudhuri.
+SrijanPatwa.
 danr2c2.
 Litwilly.
 MRSinghRajat.
@@ -391,7 +392,6 @@ soerenmaucher.
 avssrikanth.
 aswamy93.
 davidkwhuang.
-SrijanPatwa.
 zahidask.
 DynamiteC.
 phr-nk.
