@@ -154,8 +154,8 @@ snamjosh.
 
 **Top 10% contributors:**
 kmxo.
-selvarun-umass.
 bkb68.
+selvarun-umass.
 sravankadudhuri.
 SapphicFire.
 aswamy93.
@@ -368,6 +368,7 @@ csharpie.
 kmxo.
 mohitchauhan-dev.
 mr-swann.
+bkb68.
 TRIGGEREDcoder.
 Danmax.
 hafsa-asif.
@@ -376,7 +377,6 @@ devinvalencia.
 Jaspalsinghchot.
 mskoddow.
 selvarun-umass.
-bkb68.
 gowdah.
 lakshmikanthgupta.
 ronaldkarim.
