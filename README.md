@@ -181,6 +181,7 @@ Vishnu-rvk.
 **Top 50% contributors:**
 vermaamit1664.
 abhrajyotikanrar.
+shridk.
 Rampriya-S.
 mo-dahir.
 DanielMadsenDK.
@@ -188,7 +189,6 @@ Dhruvyadav2000.
 isaac-vicentini.
 koratalas.
 riya-misra-1.
-shridk.
 RahmanM.
 ronaldkarim.
 SrijanPatwa.
@@ -436,6 +436,7 @@ HarneetSital.
 jacebenson.
 ReginaldFawcett.
 sheikhafsarzap.
+shridk.
 thorn91.
 Himanshu-skb-oo7.
 Praiseto.
@@ -467,7 +468,6 @@ harisnad.
 ivan-betev.
 riya-vermaa.
 S-w-a-p-n-i-l-22.
-shridk.
 allenandreas.
 anubhav-ritolia.
 apple9000.
