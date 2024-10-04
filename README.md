@@ -153,11 +153,11 @@ niamccash.
 404paige.
 
 **Top 10% contributors:**
-selvarun-umass.
 kmxo.
+selvarun-umass.
 aswamy93.
-bkb68.
 SapphicFire.
+bkb68.
 sravankadudhuri.
 templetontsai.
 maheshkhatal27.
@@ -362,11 +362,11 @@ litwi1rm.
 mak1A4.
 shivamTodwal.
 iar42.
+kmxo.
 mlemartien.
 riya-misra-1.
 selvarun-umass.
 hentonjd.
-kmxo.
 23Thom.
 aatrey882.
 captainbraddles.
@@ -375,7 +375,6 @@ csharpie.
 mohitchauhan-dev.
 mr-swann.
 aswamy93.
-bkb68.
 SrijanPatwa.
 TRIGGEREDcoder.
 Danmax.
@@ -384,6 +383,7 @@ ovarn.
 devinvalencia.
 Jaspalsinghchot.
 mskoddow.
+bkb68.
 gowdah.
 lakshmikanthgupta.
 ronaldkarim.
