@@ -189,13 +189,13 @@ DanielMadsenDK.
 Dhruvyadav2000.
 isaac-vicentini.
 koratalas.
+priyasnexpert.
 riya-misra-1.
 RahmanM.
 ronaldkarim.
 Shreedevisnow.
 Beeram12.
 pradeepthipani.
-priyasnexpert.
 
 **Other contributors:**
 shraddhakadam301298.
@@ -524,6 +524,7 @@ miracc.
 MiroslawBuszek.
 pandeysumit-now.
 patrickpaterlini.
+priyasnexpert.
 bhavyajain511.
 LucasRocha2308.
 Mahesh-Krishnan1.
@@ -552,7 +553,6 @@ Beeram12.
 crooks-s.
 Jaskaran-Techno.
 pradeepthipani.
-priyasnexpert.
 RagaChitraMankala.
 shraddhakadam301298.
 stwinkle.
