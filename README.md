@@ -183,6 +183,7 @@ Vishnu-rvk.
 vermaamit1664.
 abhrajyotikanrar.
 Rampriya-S.
+SrijanPatwa.
 mo-dahir.
 DanielMadsenDK.
 Dhruvyadav2000.
@@ -191,7 +192,6 @@ koratalas.
 riya-misra-1.
 RahmanM.
 ronaldkarim.
-SrijanPatwa.
 Shreedevisnow.
 Beeram12.
 pradeepthipani.
@@ -391,15 +391,16 @@ soerenmaucher.
 avssrikanth.
 aswamy93.
 davidkwhuang.
+SrijanPatwa.
 zahidask.
 DynamiteC.
 phr-nk.
 shakeel-sheikh.
 vjtknn.
 Yokesh0811.
-MarcMouries.
 
 **Top 25% contributors:**
+MarcMouries.
 sn-ajb.
 DavidMarcial.
 techYESlogyXplorer.
@@ -410,7 +411,6 @@ mady22070.
 mjonssonme.
 nthumma.
 shridk.
-SrijanPatwa.
 templetontsai.
 b1naryst0rm.
 maheshkhatal27.
