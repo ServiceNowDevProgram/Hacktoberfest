@@ -177,13 +177,13 @@ shridk.
 at8807602.
 chetnadev.
 dadhich-ashish.
-SrijanPatwa.
+abhrajyotikanrar.
 
 **Top 50% contributors:**
 Vishnu-rvk.
-abhrajyotikanrar.
 S-w-a-p-n-i-l-22.
 Rampriya-S.
+SrijanPatwa.
 mo-dahir.
 DanielMadsenDK.
 Dhruvyadav2000.
@@ -356,10 +356,10 @@ ashoo-jindal.
 litwi1rm.
 mak1A4.
 shivamTodwal.
+abhrajyotikanrar.
 iar42.
 mlemartien.
 riya-misra-1.
-abhrajyotikanrar.
 hentonjd.
 23Thom.
 aatrey882.
@@ -382,7 +382,6 @@ gowdah.
 lakshmikanthgupta.
 ronaldkarim.
 sravankadudhuri.
-SrijanPatwa.
 danr2c2.
 Litwilly.
 MRSinghRajat.
@@ -393,6 +392,7 @@ soerenmaucher.
 avssrikanth.
 aswamy93.
 davidkwhuang.
+SrijanPatwa.
 zahidask.
 DynamiteC.
 phr-nk.
