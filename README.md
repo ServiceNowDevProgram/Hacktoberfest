@@ -182,12 +182,12 @@ dadhich-ashish.
 
 **Top 50% contributors:**
 Vishnu-rvk.
+DanielMadsenDK.
 S-w-a-p-n-i-l-22.
 ronaldkarim.
 Rampriya-S.
 mo-dahir.
 isaac-vicentini.
-DanielMadsenDK.
 Dhruvyadav2000.
 koratalas.
 priyasnexpert.
@@ -497,13 +497,14 @@ Sagar-agarwal.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
+DanielMadsenDK.
 markroethof.
 S-w-a-p-n-i-l-22.
 Saileshlanka.
 anguspalmer.
-Badal2k23.
 
 **Top 50% contributors:**
+Badal2k23.
 NBaker137.
 revantKulkarni.
 trade12.
@@ -519,7 +520,6 @@ sonamtiwari8.
 Adiana3308.
 akhoshnood.
 allam1234.
-DanielMadsenDK.
 Decoder-Paul.
 DhanushNehru.
 Dhruvyadav2000.
