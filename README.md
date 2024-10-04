@@ -186,14 +186,15 @@ DanielMadsenDK.
 Dhruvyadav2000.
 isaac-vicentini.
 koratalas.
+riya-misra-1.
 chetnadev.
 RahmanM.
 ronaldkarim.
 Shreedevisnow.
 Beeram12.
-pradeepthipani.
 
 **Other contributors:**
+pradeepthipani.
 shraddhakadam301298.
 tejasathalye.
 anurags10.
@@ -207,7 +208,6 @@ Paulsylo25.
 phr-nk.
 praisetoyt.
 PraveenM1132.
-riya-misra-1.
 sachinggsingh.
 Saileshlanka.
 Saiprethaa.
@@ -350,6 +350,7 @@ mak1A4.
 shivamTodwal.
 iar42.
 mlemartien.
+riya-misra-1.
 hentonjd.
 23Thom.
 aatrey882.
@@ -361,7 +362,6 @@ kmxo.
 mohitchauhan-dev.
 mr-swann.
 ashoo-jindal.
-riya-misra-1.
 TRIGGEREDcoder.
 Danmax.
 hafsa-asif.
