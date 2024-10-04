@@ -188,13 +188,14 @@ Dhruvyadav2000.
 isaac-vicentini.
 koratalas.
 riya-misra-1.
+shridk.
 RahmanM.
 ronaldkarim.
 Shreedevisnow.
 Beeram12.
-pradeepthipani.
 
 **Other contributors:**
+pradeepthipani.
 shraddhakadam301298.
 tejasathalye.
 anurags10.
@@ -212,7 +213,6 @@ sachinggsingh.
 Saileshlanka.
 Saiprethaa.
 saitarun2499.
-shridk.
 soham-shee.
 Sravanik12.
 ultralegendary.
@@ -460,6 +460,7 @@ harisnad.
 ivan-betev.
 riya-vermaa.
 S-w-a-p-n-i-l-22.
+shridk.
 SrijanPatwa.
 allenandreas.
 anubhav-ritolia.
@@ -487,7 +488,6 @@ yourepicservices.
 ChecksumFailed.
 markroethof.
 Saileshlanka.
-shridk.
 anguspalmer.
 
 **Top 50% contributors:**
