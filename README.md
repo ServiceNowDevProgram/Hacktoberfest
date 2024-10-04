@@ -190,13 +190,14 @@ Dhruvyadav2000.
 isaac-vicentini.
 koratalas.
 Jahnavi-Solanki.
+priyasnexpert.
 riya-misra-1.
 RahmanM.
 ronaldkarim.
 Shreedevisnow.
-Beeram12.
 
 **Other contributors:**
+Beeram12.
 pradeepthipani.
 shraddhakadam301298.
 tejasathalye.
@@ -211,7 +212,6 @@ Paulsylo25.
 phr-nk.
 praisetoyt.
 PraveenM1132.
-priyasnexpert.
 sachinggsingh.
 Saileshlanka.
 Saiprethaa.
@@ -530,6 +530,7 @@ Mahesh-Krishnan1.
 maialithar.
 MihirRathod.
 preshitd.
+priyasnexpert.
 tanu-profile.
 TheTreyKyle.
 thisnameissoclever.
@@ -592,9 +593,9 @@ Juusoee.
 KartikeSingh.
 kaushalbharade.
 lakshyatyagi24.
-loudigi.
 
 **Other contributors:**
+loudigi.
 ManobhavSachan.
 mevops.
 mikeroosa.
@@ -608,7 +609,6 @@ praisetoyt.
 pratyushmp.
 PraveenM1132.
 PreyumKr.
-priyasnexpert.
 RajputUsman.
 Ratheshan03.
 rawnaldduck.
