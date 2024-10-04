@@ -194,9 +194,9 @@ ronaldkarim.
 SrijanPatwa.
 Shreedevisnow.
 Beeram12.
+pradeepthipani.
 
 **Other contributors:**
-pradeepthipani.
 shraddhakadam301298.
 tejasathalye.
 anurags10.
@@ -279,6 +279,7 @@ Piyushsahu99.
 pranavkhurana2011.
 pranjalisr.
 prashantmrshine.
+priyasnexpert.
 robertbeeman.
 rohantjoshi.
 rohi-v.
@@ -1101,6 +1102,7 @@ prevostr.
 PrimeDemonic.
 princeofnubia.
 princeofwales88.
+priyasnexpert.
 PromoFaux.
 psyherin.
 ptupe.
