@@ -189,13 +189,13 @@ DanielMadsenDK.
 Dhruvyadav2000.
 isaac-vicentini.
 koratalas.
-priyasnexpert.
 riya-misra-1.
 RahmanM.
 ronaldkarim.
 Shreedevisnow.
 Beeram12.
 pradeepthipani.
+priyasnexpert.
 
 **Other contributors:**
 shraddhakadam301298.
@@ -229,6 +229,7 @@ d7ianielsimonP.
 DennisRutherford.
 Gowthamsai29.
 Itsreema.
+kmohit2809.
 manrick.
 mebeingmustaq.
 MillerYadira.
@@ -265,7 +266,6 @@ Karthi6559.
 katsiarynasoshyna.
 KedarisettiSreeVamsi.
 KiwiPelago.
-kmohit2809.
 lokeshwar777.
 mahamed-rashid.
 manoj424.
@@ -524,7 +524,6 @@ miracc.
 MiroslawBuszek.
 pandeysumit-now.
 patrickpaterlini.
-priyasnexpert.
 bhavyajain511.
 LucasRocha2308.
 Mahesh-Krishnan1.
@@ -553,6 +552,7 @@ Beeram12.
 crooks-s.
 Jaskaran-Techno.
 pradeepthipani.
+priyasnexpert.
 RagaChitraMankala.
 shraddhakadam301298.
 stwinkle.
