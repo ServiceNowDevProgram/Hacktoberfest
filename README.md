@@ -179,8 +179,8 @@ chetnadev.
 dadhich-ashish.
 
 **Top 50% contributors:**
-Vishnu-rvk.
 vermaamit1664.
+Vishnu-rvk.
 abhrajyotikanrar.
 Rampriya-S.
 SrijanPatwa.
@@ -482,12 +482,12 @@ rmedved84.
 src107.
 fn20200323.
 pratyushasndev.
+vermaamit1664.
 Vishnu-rvk.
 homealone07.
 Iamsant.
 jeremyrubio27.
 Sagar-agarwal.
-vermaamit1664.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
