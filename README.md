@@ -163,10 +163,10 @@ templetontsai.
 
 **Top 25% contributors:**
 maheshkhatal27.
+ashoo-jindal.
 bird-03.
 unbirthdays.
 Praiseto.
-ashoo-jindal.
 MartinStoyanoff.
 captainbraddles.
 mohitchauhan-dev.
@@ -347,6 +347,7 @@ Irston.
 404paige.
 
 **Top 10% contributors:**
+ashoo-jindal.
 litwi1rm.
 mak1A4.
 shivamTodwal.
@@ -363,7 +364,6 @@ csharpie.
 kmxo.
 mohitchauhan-dev.
 mr-swann.
-ashoo-jindal.
 TRIGGEREDcoder.
 Danmax.
 hafsa-asif.
