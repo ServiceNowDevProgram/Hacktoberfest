@@ -174,16 +174,16 @@ vermaamit1664.
 ariyadmir.
 MartinStoyanoff.
 captainbraddles.
+DanielMadsenDK.
 mohitchauhan-dev.
 abhrajyotikanrar.
 eriemer1.
 ronaldkarim.
 chetnadev.
-dadhich-ashish.
 
 **Top 50% contributors:**
+dadhich-ashish.
 Vishnu-rvk.
-DanielMadsenDK.
 S-w-a-p-n-i-l-22.
 Rampriya-S.
 mo-dahir.
@@ -475,6 +475,7 @@ TVani5.
 adarshsingh0205.
 annaydas.
 anveshmupparaju.
+DanielMadsenDK.
 goranlundqvist.
 harisnad.
 ivan-betev.
@@ -499,7 +500,6 @@ Sagar-agarwal.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
-DanielMadsenDK.
 markroethof.
 S-w-a-p-n-i-l-22.
 Saileshlanka.
