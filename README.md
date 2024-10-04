@@ -168,6 +168,7 @@ bird-03.
 unbirthdays.
 Praiseto.
 SrijanPatwa.
+vermaamit1664.
 ariyadmir.
 MartinStoyanoff.
 captainbraddles.
@@ -176,11 +177,10 @@ S-w-a-p-n-i-l-22.
 eriemer1.
 shridk.
 at8807602.
-chetnadev.
 
 **Top 50% contributors:**
+chetnadev.
 dadhich-ashish.
-vermaamit1664.
 Vishnu-rvk.
 abhrajyotikanrar.
 Rampriya-S.
@@ -447,6 +447,7 @@ aman2519.
 hoederath.
 manrick.
 namrataghorpade.
+vermaamit1664.
 almajam.
 brenduh.
 dalestubblefield.
@@ -482,7 +483,6 @@ rmedved84.
 src107.
 fn20200323.
 pratyushasndev.
-vermaamit1664.
 Vishnu-rvk.
 homealone07.
 Iamsant.
