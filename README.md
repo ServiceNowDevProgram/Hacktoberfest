@@ -22,6 +22,7 @@ Every reviewer/maintainer hangs out on the SNDevs Slack workspace. You can join 
 
 - [How to contribute](#contribute)
 - [Projects](#projects)
+    - ~~ServiceNow Generative AI Prompt Library~~ **Project** $${\color{red}EXCLUDED}$$ **from Hacktoberfest 2024**
     - [Code-Snippets](#code-snippets)
     - [SNDevs Slacker Bot](#sndevs-slacker-bot)
     - [UI Builder Conference Notes App](#ui-builder-conference-notes-app)
@@ -30,7 +31,6 @@ Every reviewer/maintainer hangs out on the SNDevs Slack workspace. You can join 
     - [Instance Scan Checks](#instance-scan-checks)
     - [Syntax Macros](#syntax-macros)
     - [Have a ServiceNow app you want to open to collaboration?](#have-a-servicenow-app-you-want-to-open-to-collaboration)
-    - ~~ServiceNow Generative AI Prompt Library~~
 - [Scoring](#points)
 - [Your Hacktoberfest crew](#reviewers)
 - [Leaderboard](#leaders)
@@ -55,6 +55,15 @@ There are multiple projects we are encouraging participation in. To finish your 
 
 - You must make four approved pull-requests between October 1 and October 31.  
 - These four pull-requests can be spread out across multiple projects or can all be for one project.
+
+## ServiceNow Generative AI Prompt Library
+[![Prompt Library Banner](/images/promptlibrary-excluded.png)](https://github.com/ServiceNowDevProgram/ServiceNow-GenAi-Prompt-Library)
+
+:warning::warning::warning:<br>
+**Unfortunately this repository was _reported_ and got automatically** ${\color{red}excluded}$ **from Hacktoberfest 2024. As a result, while contributions are still accepted, they will _not count_ towards the completion of Hactoberfest 2024.**<br>
+:warning::warning::warning:
+
+> The SN GenAI Prompt Library at [devlink.sn/PromptLibrary](https://devlink.sn/PromptLibrary) is a community-driven hub for ServiceNow professionals to gather Generative AI prompts that we use to make our lives easier. Now you can submit prompts directly from GitHub!
 
 ## Code-Snippets
 [![Code Snippets Banner](/images/code-snippets.png)](https://github.com/ServiceNowDevProgram/code-snippets)
@@ -90,15 +99,6 @@ There are multiple projects we are encouraging participation in. To finish your 
 [![Syntax Macros Banner](/images/syntaxmacros.jpg)](https://github.com/ServiceNowDevProgram/syntax_macros)
 
 > Type in a keyword and a whole template script appears? Life is always easier with syntax macros. This repository was started up earlier last year to collect the community's favorite syntax macros.
-
-## ServiceNow Generative AI Prompt Library
-[![Prompt Library Banner](/images/promptlibrary-excluded.png)](https://github.com/ServiceNowDevProgram/ServiceNow-GenAi-Prompt-Library)
-
-:warning::warning::warning:<br>
-**Unfortunately, this repository is** ${\color{red}not}$ **available for participation in Hacktoberfest 2024. Contributions to this project will still be accepted for ServiceNow Community tracking but not for official Hacktoberfest participation.** (updated: 2024/10/03)<br>
-:warning::warning::warning:
-
-> The SN GenAI Prompt Library at [devlink.sn/PromptLibrary](https://devlink.sn/PromptLibrary) is a community-driven hub for ServiceNow professionals to gather Generative AI prompts that we use to make our lives easier. Now you can submit prompts directly from GitHub!
 
 ## Have a ServiceNow app you want to open to collaboration?
 
