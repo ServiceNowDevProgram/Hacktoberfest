@@ -189,21 +189,21 @@ DanielMadsenDK.
 Dhruvyadav2000.
 isaac-vicentini.
 koratalas.
+Jahnavi-Solanki.
 riya-misra-1.
 RahmanM.
 ronaldkarim.
 Shreedevisnow.
 Beeram12.
-pradeepthipani.
 
 **Other contributors:**
+pradeepthipani.
 shraddhakadam301298.
 tejasathalye.
 anurags10.
 ChndrshP.
 DhanushNehru.
 ezratkim.
-Jahnavi-Solanki.
 MGOPW.
 msdfib.
 naveenraw25.
@@ -524,6 +524,7 @@ MiroslawBuszek.
 pandeysumit-now.
 patrickpaterlini.
 bhavyajain511.
+Jahnavi-Solanki.
 LucasRocha2308.
 Mahesh-Krishnan1.
 maialithar.
@@ -583,7 +584,6 @@ hmadhsan.
 iamvpbhaskar.
 igrzhukovich.
 j4rodm.
-Jahnavi-Solanki.
 jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
