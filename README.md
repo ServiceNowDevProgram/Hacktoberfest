@@ -169,6 +169,7 @@ unbirthdays.
 Praiseto.
 shridk.
 at8807602.
+SrijanPatwa.
 vermaamit1664.
 ariyadmir.
 MartinStoyanoff.
@@ -178,7 +179,6 @@ eriemer1.
 abhrajyotikanrar.
 chetnadev.
 dadhich-ashish.
-SrijanPatwa.
 
 **Top 50% contributors:**
 Vishnu-rvk.
@@ -376,6 +376,7 @@ mohitchauhan-dev.
 mr-swann.
 aswamy93.
 bkb68.
+SrijanPatwa.
 TRIGGEREDcoder.
 Danmax.
 hafsa-asif.
@@ -387,7 +388,6 @@ gowdah.
 lakshmikanthgupta.
 ronaldkarim.
 sravankadudhuri.
-SrijanPatwa.
 danr2c2.
 Litwilly.
 MRSinghRajat.
