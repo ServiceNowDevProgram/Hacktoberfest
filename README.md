@@ -179,9 +179,9 @@ abhrajyotikanrar.
 eriemer1.
 ronaldkarim.
 chetnadev.
+dadhich-ashish.
 
 **Top 50% contributors:**
-dadhich-ashish.
 Vishnu-rvk.
 DanielMadsenDK.
 S-w-a-p-n-i-l-22.
@@ -198,9 +198,9 @@ SNProductOwner.
 Paulsylo25.
 Piyushsahu99.
 Shreedevisnow.
+Beeram12.
 
 **Other contributors:**
-Beeram12.
 pradeepthipani.
 shraddhakadam301298.
 tejasathalye.
@@ -296,6 +296,7 @@ saarimshaikh.
 sagarbhadke08.
 SaiSankar1309.
 sharsha315.
+shashwatmishraog.
 simt0m.
 SKYsnaX.
 sohailkhilji.
@@ -503,9 +504,9 @@ markroethof.
 S-w-a-p-n-i-l-22.
 Saileshlanka.
 anguspalmer.
+Badal2k23.
 
 **Top 50% contributors:**
-Badal2k23.
 NBaker137.
 revantKulkarni.
 trade12.
@@ -600,9 +601,9 @@ Jahnavi-Solanki.
 jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
+jordanrogus.
 
 **Other contributors:**
-jordanrogus.
 Juusoee.
 KartikeSingh.
 kaushalbharade.
@@ -1179,6 +1180,7 @@ shakysnake.
 ShanClayton.
 shaoservicenow.
 sharsha315.
+shashwatmishraog.
 sherief-io.
 SherylThompson.
 shreyverma03.
