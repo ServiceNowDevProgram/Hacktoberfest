@@ -190,15 +190,16 @@ Dhruvyadav2000.
 isaac-vicentini.
 koratalas.
 priyasnexpert.
+naveenraw25.
 riya-misra-1.
 RahmanM.
 ronaldkarim.
 Paulsylo25.
 Piyushsahu99.
 Shreedevisnow.
-Beeram12.
 
 **Other contributors:**
+Beeram12.
 pradeepthipani.
 shraddhakadam301298.
 tejasathalye.
@@ -210,7 +211,6 @@ ezratkim.
 Jahnavi-Solanki.
 MGOPW.
 msdfib.
-naveenraw25.
 Nikil-D-Gr8.
 phr-nk.
 praisetoyt.
@@ -534,6 +534,7 @@ LucasRocha2308.
 Mahesh-Krishnan1.
 maialithar.
 MihirRathod.
+naveenraw25.
 preshitd.
 tanu-profile.
 TheTreyKyle.
@@ -596,9 +597,9 @@ jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
 jordanrogus.
-Juusoee.
 
 **Other contributors:**
+Juusoee.
 KartikeSingh.
 kaushalbharade.
 lakshyatyagi24.
@@ -609,7 +610,6 @@ mikeroosa.
 moshjahan.
 msdfib.
 mwchiao.
-naveenraw25.
 Nikil-D-Gr8.
 pavankumar-4.
 physi.
