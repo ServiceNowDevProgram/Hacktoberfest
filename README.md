@@ -177,14 +177,14 @@ captainbraddles.
 mohitchauhan-dev.
 abhrajyotikanrar.
 eriemer1.
+ronaldkarim.
 chetnadev.
-dadhich-ashish.
 
 **Top 50% contributors:**
+dadhich-ashish.
 Vishnu-rvk.
 DanielMadsenDK.
 S-w-a-p-n-i-l-22.
-ronaldkarim.
 Rampriya-S.
 mo-dahir.
 isaac-vicentini.
@@ -368,6 +368,7 @@ iar42.
 kmxo.
 mlemartien.
 riya-misra-1.
+ronaldkarim.
 selvarun-umass.
 hentonjd.
 23Thom.
@@ -377,7 +378,6 @@ salmaniqbal92.
 csharpie.
 mohitchauhan-dev.
 mr-swann.
-ronaldkarim.
 bkb68.
 SrijanPatwa.
 TRIGGEREDcoder.
