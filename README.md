@@ -167,6 +167,7 @@ ashoo-jindal.
 bird-03.
 unbirthdays.
 Praiseto.
+ariyadmir.
 MartinStoyanoff.
 captainbraddles.
 mohitchauhan-dev.
@@ -176,7 +177,6 @@ at8807602.
 chetnadev.
 dadhich-ashish.
 Vishnu-rvk.
-ariyadmir.
 
 **Top 50% contributors:**
 vermaamit1664.
@@ -450,6 +450,7 @@ dalestubblefield.
 danielliaus.
 JonSandoval.
 sauravsumankumar.
+ariyadmir.
 ashuprince121.
 hrichiksite.
 Iuliak.
@@ -480,7 +481,6 @@ src107.
 fn20200323.
 pratyushasndev.
 Vishnu-rvk.
-ariyadmir.
 homealone07.
 Iamsant.
 jeremyrubio27.
