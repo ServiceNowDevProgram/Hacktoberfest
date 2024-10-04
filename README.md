@@ -155,8 +155,8 @@ snamjosh.
 **Top 10% contributors:**
 kmxo.
 bkb68.
-selvarun-umass.
 SapphicFire.
+selvarun-umass.
 sravankadudhuri.
 aswamy93.
 templetontsai.
