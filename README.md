@@ -182,6 +182,7 @@ chetnadev.
 **Top 50% contributors:**
 dadhich-ashish.
 Vishnu-rvk.
+priyasnexpert.
 Rampriya-S.
 SrijanPatwa.
 mo-dahir.
@@ -189,7 +190,6 @@ DanielMadsenDK.
 Dhruvyadav2000.
 isaac-vicentini.
 koratalas.
-priyasnexpert.
 riya-misra-1.
 RahmanM.
 ronaldkarim.
@@ -495,11 +495,12 @@ wiresgit.
 yourepicservices.
 ChecksumFailed.
 markroethof.
+priyasnexpert.
 Saileshlanka.
 anguspalmer.
-Badal2k23.
 
 **Top 50% contributors:**
+Badal2k23.
 NBaker137.
 revantKulkarni.
 trade12.
@@ -526,7 +527,6 @@ miracc.
 MiroslawBuszek.
 pandeysumit-now.
 patrickpaterlini.
-priyasnexpert.
 bhavyajain511.
 LucasRocha2308.
 Mahesh-Krishnan1.
