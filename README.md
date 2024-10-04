@@ -178,9 +178,9 @@ eriemer1.
 abhrajyotikanrar.
 chetnadev.
 dadhich-ashish.
+SrijanPatwa.
 
 **Top 50% contributors:**
-SrijanPatwa.
 Vishnu-rvk.
 S-w-a-p-n-i-l-22.
 Rampriya-S.
@@ -196,9 +196,9 @@ ronaldkarim.
 Paulsylo25.
 Piyushsahu99.
 Shreedevisnow.
+Beeram12.
 
 **Other contributors:**
-Beeram12.
 pradeepthipani.
 shraddhakadam301298.
 tejasathalye.
@@ -262,6 +262,7 @@ ersureshbe.
 gauravghodinde.
 GittyHarsha.
 herambchaudhari4121.
+himanshu7895.
 jefflintel.
 jekinz-tagline.
 john9006.
@@ -595,9 +596,9 @@ jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
 jordanrogus.
+Juusoee.
 
 **Other contributors:**
-Juusoee.
 KartikeSingh.
 kaushalbharade.
 lakshyatyagi24.
@@ -934,6 +935,7 @@ Hemant-Goldar.
 Hemant9993.
 herambchaudhari4121.
 himahk04.
+himanshu7895.
 himavamsi-spec.
 himavamsi8.
 hockdiherdo.
