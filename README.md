@@ -192,9 +192,9 @@ RahmanM.
 ronaldkarim.
 Shreedevisnow.
 Beeram12.
+pradeepthipani.
 
 **Other contributors:**
-pradeepthipani.
 shraddhakadam301298.
 tejasathalye.
 anurags10.
@@ -258,6 +258,7 @@ Jahnavi-Solanki.
 jefflintel.
 jekinz-tagline.
 john9006.
+Karthi6559.
 katsiarynasoshyna.
 KedarisettiSreeVamsi.
 KiwiPelago.
@@ -971,6 +972,7 @@ Karan-p-singh.
 Karanyadav7.
 KarelMusa.
 KarelSyrovatka.
+Karthi6559.
 Karthick986.
 karthiga8881.
 katsiarynasoshyna.
