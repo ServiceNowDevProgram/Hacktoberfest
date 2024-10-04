@@ -175,12 +175,12 @@ mohitchauhan-dev.
 S-w-a-p-n-i-l-22.
 eriemer1.
 shridk.
+abhrajyotikanrar.
 at8807602.
 chetnadev.
-dadhich-ashish.
 
 **Top 50% contributors:**
-abhrajyotikanrar.
+dadhich-ashish.
 Vishnu-rvk.
 Rampriya-S.
 SrijanPatwa.
@@ -352,11 +352,11 @@ Irston.
 404paige.
 
 **Top 10% contributors:**
+abhrajyotikanrar.
 ashoo-jindal.
 litwi1rm.
 mak1A4.
 shivamTodwal.
-abhrajyotikanrar.
 iar42.
 mlemartien.
 riya-misra-1.
