@@ -180,6 +180,7 @@ unbirthdays.
 **Top 50% contributors:**
 vermaamit1664.
 abhrajyotikanrar.
+chetnadev.
 Rampriya-S.
 mo-dahir.
 DanielMadsenDK.
@@ -187,7 +188,6 @@ Dhruvyadav2000.
 isaac-vicentini.
 koratalas.
 riya-misra-1.
-chetnadev.
 RahmanM.
 ronaldkarim.
 Shreedevisnow.
@@ -330,6 +330,7 @@ stevezero.
 sychi77.
 azeezgaa.
 deepak-64742.
+chetnadev.
 rafzk.
 anillande90.
 ayleeandersen.
@@ -339,7 +340,6 @@ BadalHub.
 MrChrisE.
 vandna07.
 at8807602.
-chetnadev.
 PranavBhagat18.
 ankitshu.
 Irston.
