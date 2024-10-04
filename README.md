@@ -173,15 +173,15 @@ captainbraddles.
 mohitchauhan-dev.
 S-w-a-p-n-i-l-22.
 eriemer1.
+shridk.
 at8807602.
 chetnadev.
 dadhich-ashish.
-Vishnu-rvk.
 
 **Top 50% contributors:**
+Vishnu-rvk.
 vermaamit1664.
 abhrajyotikanrar.
-shridk.
 Rampriya-S.
 mo-dahir.
 DanielMadsenDK.
@@ -407,6 +407,7 @@ harishankert.
 mady22070.
 mjonssonme.
 nthumma.
+shridk.
 SrijanPatwa.
 templetontsai.
 b1naryst0rm.
@@ -436,7 +437,6 @@ HarneetSital.
 jacebenson.
 ReginaldFawcett.
 sheikhafsarzap.
-shridk.
 thorn91.
 Himanshu-skb-oo7.
 Praiseto.
