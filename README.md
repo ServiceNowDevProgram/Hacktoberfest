@@ -273,6 +273,7 @@ Mikerniker.
 Narasimha677.
 Nikil-D-Gr8.
 nooras.
+NowRishi.
 osc99.
 pandeysameer.
 Piyushsahu99.
@@ -591,9 +592,9 @@ KartikeSingh.
 kaushalbharade.
 lakshyatyagi24.
 loudigi.
+ManobhavSachan.
 
 **Other contributors:**
-ManobhavSachan.
 mevops.
 mikeroosa.
 moshjahan.
@@ -1070,6 +1071,7 @@ Nexarsysllc.
 Nikil-D-Gr8.
 NoelJarling.
 nooras.
+NowRishi.
 NowZilla.
 noyzmaker.
 ns-servicenow.
