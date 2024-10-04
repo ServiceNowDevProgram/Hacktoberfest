@@ -191,11 +191,12 @@ riya-misra-1.
 shridk.
 RahmanM.
 ronaldkarim.
+SrijanPatwa.
 Shreedevisnow.
 Beeram12.
-pradeepthipani.
 
 **Other contributors:**
+pradeepthipani.
 shraddhakadam301298.
 tejasathalye.
 anurags10.
@@ -219,7 +220,6 @@ ultralegendary.
 aykmrgit.
 dcord1x.
 kalyan120694.
-SrijanPatwa.
 chelming.
 bgrk005.
 bhavyajain511.
@@ -407,6 +407,7 @@ harishankert.
 mady22070.
 mjonssonme.
 nthumma.
+SrijanPatwa.
 templetontsai.
 b1naryst0rm.
 maheshkhatal27.
@@ -435,7 +436,6 @@ HarneetSital.
 jacebenson.
 ReginaldFawcett.
 sheikhafsarzap.
-SrijanPatwa.
 thorn91.
 Himanshu-skb-oo7.
 Praiseto.
