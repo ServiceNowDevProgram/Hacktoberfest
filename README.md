@@ -206,6 +206,7 @@ shraddhakadam301298.
 tejasathalye.
 anurags10.
 Atul-LNG.
+Charanjet.
 ChndrshP.
 DhanushNehru.
 ezratkim.
@@ -222,7 +223,6 @@ soham-shee.
 Sravanik12.
 ultralegendary.
 aykmrgit.
-Charanjet.
 chelming.
 kalyan120694.
 kmohit2809.
@@ -586,6 +586,7 @@ ashleysnyder.
 Atul-LNG.
 Avinash238.
 brichards99.
+Charanjet.
 ChndrshP.
 Chouffy.
 Coder0131.
@@ -603,9 +604,9 @@ j4rodm.
 Jahnavi-Solanki.
 jamesfoot.
 JBscriptsNow.
-JingAlanzhixin.
 
 **Other contributors:**
+JingAlanzhixin.
 jordanrogus.
 Juusoee.
 KartikeSingh.
@@ -648,7 +649,6 @@ ultralegendary.
 workpurposeusername.
 zaidongy.
 bgrk005.
-Charanjet.
 jon-lind-sn.
 kalyan120694.
 manoj424.
