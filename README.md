@@ -190,7 +190,6 @@ mo-dahir.
 isaac-vicentini.
 Dhruvyadav2000.
 koratalas.
-priyasnexpert.
 SNProductOwner.
 naveenraw25.
 riya-misra-1.
@@ -198,6 +197,7 @@ Paulsylo25.
 Shreedevisnow.
 Beeram12.
 pradeepthipani.
+priyasnexpert.
 shraddhakadam301298.
 
 **Other contributors:**
@@ -532,7 +532,6 @@ miracc.
 MiroslawBuszek.
 pandeysumit-now.
 patrickpaterlini.
-priyasnexpert.
 SNProductOwner.
 bhavyajain511.
 LucasRocha2308.
@@ -564,6 +563,7 @@ crooks-s.
 Jaskaran-Techno.
 Mexiprince.
 pradeepthipani.
+priyasnexpert.
 RagaChitraMankala.
 shraddhakadam301298.
 stwinkle.
