@@ -183,8 +183,8 @@ chetnadev.
 
 **Top 50% contributors:**
 Vishnu-rvk.
-S-w-a-p-n-i-l-22.
 shridk.
+S-w-a-p-n-i-l-22.
 dadhich-ashish.
 Rampriya-S.
 mo-dahir.
@@ -436,6 +436,7 @@ debendu-das.
 Vish-X07.
 Jayden-Chiu.
 OrgovanGeza.
+shridk.
 arhaan2019.
 designitsecure.
 girishnagaraj09.
@@ -451,7 +452,6 @@ HarneetSital.
 jacebenson.
 ReginaldFawcett.
 sheikhafsarzap.
-shridk.
 thorn91.
 Himanshu-skb-oo7.
 Praiseto.
