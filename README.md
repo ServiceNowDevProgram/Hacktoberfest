@@ -199,9 +199,9 @@ Paulsylo25.
 Shreedevisnow.
 Beeram12.
 pradeepthipani.
+priyasnexpert.
 
 **Other contributors:**
-priyasnexpert.
 shraddhakadam301298.
 tejasathalye.
 anurags10.
@@ -226,6 +226,7 @@ chelming.
 kalyan120694.
 kmohit2809.
 RahmanM.
+sandeepd26.
 wiz0floyd.
 bgrk005.
 bhavyajain511.
@@ -543,6 +544,7 @@ maialithar.
 MihirRathod.
 naveenraw25.
 preshitd.
+sandeepd26.
 tanu-profile.
 TheTreyKyle.
 thisnameissoclever.
@@ -602,9 +604,9 @@ Jahnavi-Solanki.
 jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
-jordanrogus.
 
 **Other contributors:**
+jordanrogus.
 Juusoee.
 KartikeSingh.
 kaushalbharade.
@@ -633,7 +635,6 @@ Saiprethaa.
 saitarun2499.
 samwinchet.
 sanchit-varshney.
-sandeepd26.
 sanju009.
 Shambu-K.
 soham-shee.
