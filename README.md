@@ -215,7 +215,6 @@ MGOPW.
 msdfib.
 phr-nk.
 praisetoyt.
-ravichandra1998g.
 sachinggsingh.
 Saileshlanka.
 Saiprethaa.
@@ -294,6 +293,7 @@ pranavkhurana2011.
 pranjalisr.
 prashantmrshine.
 PraveenM1132.
+ravichandra1998g.
 robertbeeman.
 rohantjoshi.
 rohi-v.
@@ -417,7 +417,6 @@ MarcMouries.
 **Top 25% contributors:**
 sn-ajb.
 DavidMarcial.
-ravichandra1998g.
 techYESlogyXplorer.
 alyaanbasha.
 gregorwmail.
@@ -436,6 +435,7 @@ debendu-das.
 Vish-X07.
 Jayden-Chiu.
 OrgovanGeza.
+ravichandra1998g.
 shridk.
 arhaan2019.
 designitsecure.
