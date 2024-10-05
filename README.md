@@ -196,12 +196,11 @@ naveenraw25.
 riya-misra-1.
 RahmanM.
 Paulsylo25.
-Piyushsahu99.
 Shreedevisnow.
 Beeram12.
+pradeepthipani.
 
 **Other contributors:**
-pradeepthipani.
 shraddhakadam301298.
 tejasathalye.
 anurags10.
@@ -231,6 +230,7 @@ wiz0floyd.
 bgrk005.
 bhavyajain511.
 mvkassak.
+Piyushsahu99.
 ashu759.
 d7ianielsimonP.
 DennisRutherford.
@@ -554,7 +554,6 @@ Alprez.
 chris-canto-11.
 ewatch.
 NayeemKaka.
-Piyushsahu99.
 puneet94.
 Shreedevisnow.
 sisco0.
@@ -602,9 +601,9 @@ Jahnavi-Solanki.
 jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
+jordanrogus.
 
 **Other contributors:**
-jordanrogus.
 Juusoee.
 KartikeSingh.
 kaushalbharade.
@@ -672,6 +671,7 @@ mohdzeeshan96.
 mvkassak.
 nancystodd.
 outlivo.
+Piyushsahu99.
 sagarbhadke08.
 SweetPoodle.
 varunharih.
