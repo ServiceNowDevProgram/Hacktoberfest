@@ -192,15 +192,16 @@ dcord1x.
 Dhruvyadav2000.
 koratalas.
 SNProductOwner.
+Mexiprince.
 naveenraw25.
 riya-misra-1.
 Paulsylo25.
 Shreedevisnow.
 Beeram12.
 pradeepthipani.
-priyasnexpert.
 
 **Other contributors:**
+priyasnexpert.
 shraddhakadam301298.
 tejasathalye.
 anurags10.
@@ -209,7 +210,6 @@ ChndrshP.
 DhanushNehru.
 ezratkim.
 Jahnavi-Solanki.
-Mexiprince.
 MGOPW.
 msdfib.
 phr-nk.
@@ -529,6 +529,7 @@ Dhruvyadav2000.
 jesalynrose.
 koratalas.
 Ladirinia.
+Mexiprince.
 miracc.
 MiroslawBuszek.
 pandeysumit-now.
@@ -562,7 +563,6 @@ ashaw7697.
 Beeram12.
 crooks-s.
 Jaskaran-Techno.
-Mexiprince.
 pradeepthipani.
 priyasnexpert.
 RagaChitraMankala.
