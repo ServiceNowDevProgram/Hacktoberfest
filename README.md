@@ -177,13 +177,13 @@ DanielMadsenDK.
 mohitchauhan-dev.
 abhrajyotikanrar.
 eriemer1.
+Mexiprince.
 ronaldkarim.
 chetnadev.
-Vishnu-rvk.
 
 **Top 50% contributors:**
+Vishnu-rvk.
 S-w-a-p-n-i-l-22.
-Mexiprince.
 shridk.
 dadhich-ashish.
 Rampriya-S.
@@ -479,6 +479,7 @@ DanielMadsenDK.
 goranlundqvist.
 harisnad.
 ivan-betev.
+Mexiprince.
 riya-vermaa.
 allenandreas.
 anubhav-ritolia.
@@ -501,7 +502,6 @@ wiresgit.
 yourepicservices.
 ChecksumFailed.
 markroethof.
-Mexiprince.
 S-w-a-p-n-i-l-22.
 Saileshlanka.
 anguspalmer.
