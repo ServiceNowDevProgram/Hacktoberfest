@@ -192,8 +192,8 @@ isaac-vicentini.
 SNProductOwner.
 dcord1x.
 Dhruvyadav2000.
-koratalas.
 himanshu7895.
+koratalas.
 naveenraw25.
 riya-misra-1.
 VaishnaviLathkar98.
@@ -536,6 +536,7 @@ allam1234.
 Decoder-Paul.
 DhanushNehru.
 Dhruvyadav2000.
+himanshu7895.
 jesalynrose.
 koratalas.
 Ladirinia.
@@ -544,7 +545,6 @@ MiroslawBuszek.
 pandeysumit-now.
 patrickpaterlini.
 bhavyajain511.
-himanshu7895.
 LucasRocha2308.
 Mahesh-Krishnan1.
 maialithar.
