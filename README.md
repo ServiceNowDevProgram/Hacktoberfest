@@ -179,11 +179,11 @@ mohitchauhan-dev.
 abhrajyotikanrar.
 eriemer1.
 ronaldkarim.
-chetnadev.
+Vishnu-rvk.
 
 **Top 50% contributors:**
-Vishnu-rvk.
 S-w-a-p-n-i-l-22.
+chetnadev.
 dadhich-ashish.
 Rampriya-S.
 mo-dahir.
@@ -341,12 +341,12 @@ urspvs.
 ankitshu.
 Radhe-Manasa.
 aykmrgit.
-chetnadev.
 stevezero.
 sychi77.
 azeezgaa.
 deepak-64742.
 at8807602.
+chetnadev.
 rafzk.
 anillande90.
 ayleeandersen.
