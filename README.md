@@ -183,6 +183,7 @@ chetnadev.
 Vishnu-rvk.
 
 **Top 50% contributors:**
+isaac-vicentini.
 shridk.
 koratalas.
 S-w-a-p-n-i-l-22.
@@ -190,7 +191,6 @@ naveenraw25.
 dadhich-ashish.
 Rampriya-S.
 mo-dahir.
-isaac-vicentini.
 SNProductOwner.
 dcord1x.
 Dhruvyadav2000.
@@ -508,6 +508,7 @@ VaishnaviLathkar98.
 Vishnu-rvk.
 homealone07.
 Iamsant.
+isaac-vicentini.
 jeremyrubio27.
 Sagar-agarwal.
 sandeepd26.
@@ -517,9 +518,9 @@ ChecksumFailed.
 koratalas.
 markroethof.
 S-w-a-p-n-i-l-22.
-Saileshlanka.
 
 **Top 50% contributors:**
+Saileshlanka.
 anguspalmer.
 Badal2k23.
 naveenraw25.
@@ -534,7 +535,6 @@ mo-dahir.
 dcord1x.
 djunaid.
 Haile-08.
-isaac-vicentini.
 SNProductOwner.
 sonamtiwari8.
 Adiana3308.
