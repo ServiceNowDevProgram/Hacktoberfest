@@ -196,11 +196,12 @@ koratalas.
 himanshu7895.
 naveenraw25.
 riya-misra-1.
+VaishnaviLathkar98.
 Paulsylo25.
 Shreedevisnow.
-Beeram12.
 
 **Other contributors:**
+Beeram12.
 Charanjet.
 pradeepthipani.
 priyasnexpert.
@@ -228,7 +229,6 @@ kalyan120694.
 kmohit2809.
 RahmanM.
 sandeepd26.
-VaishnaviLathkar98.
 wiz0floyd.
 bgrk005.
 bhavyajain511.
@@ -500,6 +500,7 @@ rmedved84.
 src107.
 fn20200323.
 pratyushasndev.
+VaishnaviLathkar98.
 Vishnu-rvk.
 homealone07.
 Iamsant.
@@ -512,9 +513,9 @@ markroethof.
 S-w-a-p-n-i-l-22.
 Saileshlanka.
 anguspalmer.
-Badal2k23.
 
 **Top 50% contributors:**
+Badal2k23.
 NBaker137.
 revantKulkarni.
 trade12.
@@ -523,7 +524,6 @@ ttoter.
 AlphaEagle.
 JWITSM.
 mo-dahir.
-VaishnaviLathkar98.
 dcord1x.
 djunaid.
 Haile-08.
