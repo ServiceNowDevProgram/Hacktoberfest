@@ -178,16 +178,16 @@ mohitchauhan-dev.
 abhrajyotikanrar.
 eriemer1.
 Mexiprince.
+naveenraw25.
 ronaldkarim.
 chetnadev.
 Vishnu-rvk.
-isaac-vicentini.
 
 **Top 50% contributors:**
+isaac-vicentini.
 shridk.
 koratalas.
 S-w-a-p-n-i-l-22.
-naveenraw25.
 dadhich-ashish.
 Rampriya-S.
 mo-dahir.
@@ -498,6 +498,7 @@ anubhav-ritolia.
 apple9000.
 briangodfreydev.
 GauthamBellamkonda.
+naveenraw25.
 odinsride.
 piyusalunke123.
 rene-el.
@@ -518,14 +519,13 @@ yourepicservices.
 ChecksumFailed.
 koratalas.
 markroethof.
-S-w-a-p-n-i-l-22.
 
 **Top 50% contributors:**
+S-w-a-p-n-i-l-22.
 Saileshlanka.
 anguspalmer.
 Badal2k23.
 bhavyajain511.
-naveenraw25.
 NBaker137.
 revantKulkarni.
 trade12.
