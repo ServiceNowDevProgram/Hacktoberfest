@@ -191,6 +191,7 @@ isaac-vicentini.
 Dhruvyadav2000.
 koratalas.
 SNProductOwner.
+dcord1x.
 naveenraw25.
 riya-misra-1.
 Paulsylo25.
@@ -198,14 +199,13 @@ Shreedevisnow.
 Beeram12.
 pradeepthipani.
 priyasnexpert.
-shraddhakadam301298.
 
 **Other contributors:**
+shraddhakadam301298.
 tejasathalye.
 anurags10.
 Atul-LNG.
 ChndrshP.
-dcord1x.
 DhanushNehru.
 ezratkim.
 Jahnavi-Solanki.
@@ -522,6 +522,7 @@ sonamtiwari8.
 Adiana3308.
 akhoshnood.
 allam1234.
+dcord1x.
 Decoder-Paul.
 DhanushNehru.
 Dhruvyadav2000.
@@ -560,7 +561,6 @@ yuvraj1107thapa.
 ashaw7697.
 Beeram12.
 crooks-s.
-dcord1x.
 Jaskaran-Techno.
 Mexiprince.
 pradeepthipani.
