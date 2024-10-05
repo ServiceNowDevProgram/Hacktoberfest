@@ -196,12 +196,13 @@ himanshu7895.
 koratalas.
 naveenraw25.
 riya-misra-1.
+sandeepd26.
 VaishnaviLathkar98.
 Paulsylo25.
 Shreedevisnow.
-Beeram12.
 
 **Other contributors:**
+Beeram12.
 Charanjet.
 pradeepthipani.
 priyasnexpert.
@@ -221,7 +222,6 @@ sachinggsingh.
 Saileshlanka.
 Saiprethaa.
 saitarun2499.
-sandeepd26.
 Sravanik12.
 ultralegendary.
 YadlaMani.
@@ -513,9 +513,10 @@ ChecksumFailed.
 markroethof.
 S-w-a-p-n-i-l-22.
 Saileshlanka.
-anguspalmer.
+sandeepd26.
 
 **Top 50% contributors:**
+anguspalmer.
 Badal2k23.
 NBaker137.
 revantKulkarni.
@@ -545,7 +546,6 @@ miracc.
 MiroslawBuszek.
 pandeysumit-now.
 patrickpaterlini.
-sandeepd26.
 bhavyajain511.
 LucasRocha2308.
 Mahesh-Krishnan1.
