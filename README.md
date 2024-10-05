@@ -144,8 +144,8 @@ Meet the Hacktoberfest crew who will be maintaining your projects:
 ## Leaderboard (this year):
 
 **Top 5% contributors:**
-Lacah.
 earlduque.
+Lacah.
 ankitshu.
 niamccash.
 snamjosh.
@@ -185,7 +185,6 @@ Vishnu-rvk.
 **Top 50% contributors:**
 shridk.
 S-w-a-p-n-i-l-22.
-sandeepd26.
 dadhich-ashish.
 Rampriya-S.
 mo-dahir.
@@ -195,6 +194,7 @@ dcord1x.
 Dhruvyadav2000.
 himanshu7895.
 koratalas.
+sandeepd26.
 naveenraw25.
 riya-misra-1.
 VaishnaviLathkar98.
@@ -479,7 +479,6 @@ Iuliak.
 mmaraj1.
 Munnisona.
 RaunakScarlet.
-sandeepd26.
 TVani5.
 adarshsingh0205.
 annaydas.
@@ -508,6 +507,7 @@ homealone07.
 Iamsant.
 jeremyrubio27.
 Sagar-agarwal.
+sandeepd26.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
