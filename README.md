@@ -300,6 +300,7 @@ Ronilpatil22.
 saarimshaikh.
 sagarbhadke08.
 SaiSankar1309.
+sanuj21.
 sharsha315.
 shashwatmishraog.
 simt0m.
@@ -509,9 +510,9 @@ markroethof.
 S-w-a-p-n-i-l-22.
 Saileshlanka.
 anguspalmer.
+Badal2k23.
 
 **Top 50% contributors:**
-Badal2k23.
 NBaker137.
 revantKulkarni.
 trade12.
@@ -607,9 +608,9 @@ Jahnavi-Solanki.
 jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
+jordanrogus.
 
 **Other contributors:**
-jordanrogus.
 Juusoee.
 KartikeSingh.
 kaushalbharade.
@@ -1172,6 +1173,7 @@ sanathan-git.
 sankar-coder.
 SanketJ29.
 Santosh-kumar01.
+sanuj21.
 sarath-patoju.
 Sarita3012.
 sasukepatel.
