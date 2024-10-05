@@ -210,6 +210,7 @@ Atul-LNG.
 ChndrshP.
 DhanushNehru.
 ezratkim.
+himanshu7895.
 Jahnavi-Solanki.
 MGOPW.
 msdfib.
@@ -266,7 +267,6 @@ ersureshbe.
 gauravghodinde.
 GittyHarsha.
 herambchaudhari4121.
-himanshu7895.
 jahnaviT2003.
 jefflintel.
 jekinz-tagline.
@@ -602,6 +602,7 @@ dhruvii-powershell.
 dorsy99.
 ezratkim.
 HarshMN2345.
+himanshu7895.
 hmadhsan.
 iamvpbhaskar.
 igrzhukovich.
@@ -610,9 +611,9 @@ Jahnavi-Solanki.
 jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
-jordanrogus.
 
 **Other contributors:**
+jordanrogus.
 Juusoee.
 KartikeSingh.
 kaushalbharade.
@@ -947,7 +948,6 @@ Hemant-Goldar.
 Hemant9993.
 herambchaudhari4121.
 himahk04.
-himanshu7895.
 himavamsi-spec.
 himavamsi8.
 hockdiherdo.
