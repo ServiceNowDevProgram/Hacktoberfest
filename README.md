@@ -180,9 +180,9 @@ eriemer1.
 Mexiprince.
 ronaldkarim.
 chetnadev.
+Vishnu-rvk.
 
 **Top 50% contributors:**
-Vishnu-rvk.
 shridk.
 S-w-a-p-n-i-l-22.
 dadhich-ashish.
@@ -199,9 +199,9 @@ riya-misra-1.
 VaishnaviLathkar98.
 Paulsylo25.
 Shreedevisnow.
+Beeram12.
 
 **Other contributors:**
-Beeram12.
 Charanjet.
 pradeepthipani.
 priyasnexpert.
@@ -314,6 +314,7 @@ TracyCurry96.
 ujjwalgupta2021.
 vijaytechy.
 xjfdzn.
+YadlaMani.
 YDdraigGoch70.
 
 ## Leaderboard (all time):
@@ -415,9 +416,9 @@ shakeel-sheikh.
 vjtknn.
 Yokesh0811.
 MarcMouries.
+sn-ajb.
 
 **Top 25% contributors:**
-sn-ajb.
 DavidMarcial.
 techYESlogyXplorer.
 alyaanbasha.
@@ -1271,6 +1272,7 @@ williambhadley.
 wkbroxton.
 xdisplay.
 xjfdzn.
+YadlaMani.
 yay-jake.
 YDdraigGoch70.
 youthinkasido.
