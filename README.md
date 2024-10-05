@@ -193,14 +193,15 @@ SNProductOwner.
 dcord1x.
 Dhruvyadav2000.
 koratalas.
+himanshu7895.
 naveenraw25.
 riya-misra-1.
 Paulsylo25.
 Shreedevisnow.
 Beeram12.
-Charanjet.
 
 **Other contributors:**
+Charanjet.
 pradeepthipani.
 priyasnexpert.
 shraddhakadam301298.
@@ -210,7 +211,6 @@ Atul-LNG.
 ChndrshP.
 DhanushNehru.
 ezratkim.
-himanshu7895.
 Jahnavi-Solanki.
 MGOPW.
 msdfib.
@@ -544,6 +544,7 @@ MiroslawBuszek.
 pandeysumit-now.
 patrickpaterlini.
 bhavyajain511.
+himanshu7895.
 LucasRocha2308.
 Mahesh-Krishnan1.
 maialithar.
@@ -602,7 +603,6 @@ dhruvii-powershell.
 dorsy99.
 ezratkim.
 HarshMN2345.
-himanshu7895.
 hmadhsan.
 iamvpbhaskar.
 igrzhukovich.
