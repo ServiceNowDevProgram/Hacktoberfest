@@ -198,15 +198,15 @@ riya-misra-1.
 Paulsylo25.
 Shreedevisnow.
 Beeram12.
+Charanjet.
 pradeepthipani.
-priyasnexpert.
 
 **Other contributors:**
+priyasnexpert.
 shraddhakadam301298.
 tejasathalye.
 anurags10.
 Atul-LNG.
-Charanjet.
 ChndrshP.
 DhanushNehru.
 ezratkim.
@@ -564,6 +564,7 @@ sisco0.
 yuvraj1107thapa.
 ashaw7697.
 Beeram12.
+Charanjet.
 crooks-s.
 Jaskaran-Techno.
 pradeepthipani.
@@ -586,7 +587,6 @@ ashleysnyder.
 Atul-LNG.
 Avinash238.
 brichards99.
-Charanjet.
 ChndrshP.
 Chouffy.
 Coder0131.
