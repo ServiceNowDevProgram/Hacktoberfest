@@ -204,6 +204,7 @@ Beeram12.
 
 **Other contributors:**
 Charanjet.
+KedarisettiSreeVamsi.
 pradeepthipani.
 priyasnexpert.
 shraddhakadam301298.
@@ -241,7 +242,6 @@ d7ianielsimonP.
 DennisRutherford.
 Gowthamsai29.
 Itsreema.
-KedarisettiSreeVamsi.
 manrick.
 marcos-michalski.
 mebeingmustaq.
@@ -577,6 +577,7 @@ Beeram12.
 Charanjet.
 crooks-s.
 Jaskaran-Techno.
+KedarisettiSreeVamsi.
 pradeepthipani.
 priyasnexpert.
 RagaChitraMankala.
@@ -615,9 +616,9 @@ Jahnavi-Solanki.
 jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
-jordanrogus.
 
 **Other contributors:**
+jordanrogus.
 Juusoee.
 KartikeSingh.
 kaushalbharade.
@@ -722,7 +723,6 @@ javiervillarreal.
 jaz1gdev.
 JCofman.
 kcimpulse.
-KedarisettiSreeVamsi.
 kfrencher.
 kkbrains1.
 Kswierk.
