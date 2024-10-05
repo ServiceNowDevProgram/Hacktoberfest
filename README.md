@@ -184,6 +184,7 @@ Vishnu-rvk.
 
 **Top 50% contributors:**
 shridk.
+koratalas.
 S-w-a-p-n-i-l-22.
 dadhich-ashish.
 Rampriya-S.
@@ -193,7 +194,6 @@ SNProductOwner.
 dcord1x.
 Dhruvyadav2000.
 himanshu7895.
-koratalas.
 sandeepd26.
 naveenraw25.
 riya-misra-1.
@@ -511,11 +511,12 @@ sandeepd26.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
+koratalas.
 markroethof.
 S-w-a-p-n-i-l-22.
-Saileshlanka.
 
 **Top 50% contributors:**
+Saileshlanka.
 anguspalmer.
 Badal2k23.
 NBaker137.
@@ -540,7 +541,6 @@ DhanushNehru.
 Dhruvyadav2000.
 himanshu7895.
 jesalynrose.
-koratalas.
 Ladirinia.
 miracc.
 MiroslawBuszek.
