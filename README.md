@@ -183,6 +183,7 @@ Vishnu-rvk.
 
 **Top 50% contributors:**
 S-w-a-p-n-i-l-22.
+Mexiprince.
 shridk.
 dadhich-ashish.
 Rampriya-S.
@@ -192,7 +193,6 @@ dcord1x.
 Dhruvyadav2000.
 koratalas.
 SNProductOwner.
-Mexiprince.
 naveenraw25.
 riya-misra-1.
 Paulsylo25.
@@ -501,12 +501,13 @@ wiresgit.
 yourepicservices.
 ChecksumFailed.
 markroethof.
+Mexiprince.
 S-w-a-p-n-i-l-22.
 Saileshlanka.
 anguspalmer.
-Badal2k23.
 
 **Top 50% contributors:**
+Badal2k23.
 NBaker137.
 revantKulkarni.
 trade12.
@@ -529,7 +530,6 @@ Dhruvyadav2000.
 jesalynrose.
 koratalas.
 Ladirinia.
-Mexiprince.
 miracc.
 MiroslawBuszek.
 pandeysumit-now.
