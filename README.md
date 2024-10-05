@@ -198,9 +198,9 @@ riya-misra-1.
 Paulsylo25.
 Shreedevisnow.
 Beeram12.
+Charanjet.
 
 **Other contributors:**
-Charanjet.
 pradeepthipani.
 priyasnexpert.
 shraddhakadam301298.
@@ -228,6 +228,7 @@ kalyan120694.
 kmohit2809.
 RahmanM.
 sandeepd26.
+VaishnaviLathkar98.
 wiz0floyd.
 bgrk005.
 bhavyajain511.
@@ -521,6 +522,7 @@ ttoter.
 AlphaEagle.
 JWITSM.
 mo-dahir.
+VaishnaviLathkar98.
 dcord1x.
 djunaid.
 Haile-08.
@@ -554,7 +556,6 @@ thisnameissoclever.
 ujjwalprem.
 mockspeed.
 rohantjoshi.
-VaishnaviLathkar98.
 1shabby.
 abhilash264.
 Alprez.
