@@ -181,9 +181,9 @@ Mexiprince.
 ronaldkarim.
 chetnadev.
 Vishnu-rvk.
+isaac-vicentini.
 
 **Top 50% contributors:**
-isaac-vicentini.
 shridk.
 koratalas.
 S-w-a-p-n-i-l-22.
@@ -201,9 +201,9 @@ VaishnaviLathkar98.
 Paulsylo25.
 Shreedevisnow.
 Beeram12.
+Charanjet.
 
 **Other contributors:**
-Charanjet.
 KedarisettiSreeVamsi.
 pradeepthipani.
 priyasnexpert.
@@ -309,6 +309,7 @@ sanuj21.
 sharsha315.
 shashwatmishraog.
 simt0m.
+singhaditya73.
 SKYsnaX.
 steveuncg.
 stwinkle.
@@ -616,9 +617,9 @@ Jahnavi-Solanki.
 jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
+jordanrogus.
 
 **Other contributors:**
-jordanrogus.
 Juusoee.
 KartikeSingh.
 kaushalbharade.
@@ -1206,6 +1207,7 @@ shreyverma03.
 shubham-snc.
 Shubham2227.
 simt0m.
+singhaditya73.
 SinNaveen.
 sivangbagri.
 sixstatdad.
