@@ -165,6 +165,7 @@ ashoo-jindal.
 bird-03.
 
 **Top 25% contributors:**
+shridk.
 unbirthdays.
 Praiseto.
 ronaldkarim.
@@ -173,7 +174,6 @@ SrijanPatwa.
 vermaamit1664.
 ariyadmir.
 MartinStoyanoff.
-shridk.
 captainbraddles.
 DanielMadsenDK.
 mohitchauhan-dev.
@@ -414,6 +414,7 @@ jiteshmalik.
 jonahpiascik.
 soerenmaucher.
 avssrikanth.
+shridk.
 davidkwhuang.
 zahidask.
 DynamiteC.
@@ -422,11 +423,10 @@ shakeel-sheikh.
 vjtknn.
 Yokesh0811.
 MarcMouries.
-sn-ajb.
 
 **Top 25% contributors:**
+sn-ajb.
 DavidMarcial.
-shridk.
 techYESlogyXplorer.
 alyaanbasha.
 gregorwmail.
