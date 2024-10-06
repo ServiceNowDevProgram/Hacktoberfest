@@ -173,6 +173,7 @@ SrijanPatwa.
 vermaamit1664.
 ariyadmir.
 MartinStoyanoff.
+shridk.
 captainbraddles.
 DanielMadsenDK.
 mohitchauhan-dev.
@@ -181,11 +182,10 @@ eriemer1.
 Mexiprince.
 naveenraw25.
 chetnadev.
-Vishnu-rvk.
 
 **Top 50% contributors:**
+Vishnu-rvk.
 isaac-vicentini.
-shridk.
 dcord1x.
 koratalas.
 S-w-a-p-n-i-l-22.
@@ -426,6 +426,7 @@ sn-ajb.
 
 **Top 25% contributors:**
 DavidMarcial.
+shridk.
 techYESlogyXplorer.
 alyaanbasha.
 gregorwmail.
@@ -445,7 +446,6 @@ Vish-X07.
 Jayden-Chiu.
 OrgovanGeza.
 ravichandra1998g.
-shridk.
 arhaan2019.
 designitsecure.
 girishnagaraj09.
