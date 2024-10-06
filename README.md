@@ -187,8 +187,8 @@ dcord1x.
 
 **Top 50% contributors:**
 koratalas.
-S-w-a-p-n-i-l-22.
 mandeepkaran.
+S-w-a-p-n-i-l-22.
 naveenraw25.
 Saileshlanka.
 dadhich-ashish.
@@ -528,14 +528,14 @@ wiresgit.
 yourepicservices.
 ChecksumFailed.
 koratalas.
-markroethof.
+mandeepkaran.
 
 **Top 50% contributors:**
+markroethof.
 S-w-a-p-n-i-l-22.
 anguspalmer.
 Badal2k23.
 bhavyajain511.
-mandeepkaran.
 naveenraw25.
 NBaker137.
 revantKulkarni.
