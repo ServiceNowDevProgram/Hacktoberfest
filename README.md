@@ -199,13 +199,14 @@ Dhruvyadav2000.
 himanshu7895.
 kylburns89.
 sandeepd26.
+mandeepkaran.
 riya-misra-1.
 VaishnaviLathkar98.
 bhavyajain511.
 Paulsylo25.
-Shreedevisnow.
 
 **Other contributors:**
+Shreedevisnow.
 ANIKETSURWASE.
 Beeram12.
 Charanjet.
@@ -219,7 +220,6 @@ Atul-LNG.
 ChndrshP.
 DhanushNehru.
 ezratkim.
-mandeepkaran.
 MGOPW.
 msdfib.
 NilotpalMaitra.
@@ -563,6 +563,7 @@ patrickpaterlini.
 LucasRocha2308.
 Mahesh-Krishnan1.
 maialithar.
+mandeepkaran.
 MihirRathod.
 preshitd.
 tanu-profile.
@@ -623,9 +624,9 @@ iamvpbhaskar.
 igrzhukovich.
 j4rodm.
 jamesfoot.
-JBscriptsNow.
 
 **Other contributors:**
+JBscriptsNow.
 JingAlanzhixin.
 jordanrogus.
 Juusoee.
@@ -633,7 +634,6 @@ KartikeSingh.
 kaushalbharade.
 lakshyatyagi24.
 loudigi.
-mandeepkaran.
 ManobhavSachan.
 mevops.
 mikeroosa.
