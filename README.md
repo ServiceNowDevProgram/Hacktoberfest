@@ -207,7 +207,6 @@ pradeepthipani.
 Shreedevisnow.
 
 **Other contributors:**
-ANIKETSURWASE.
 Beeram12.
 Charanjet.
 KedarisettiSreeVamsi.
@@ -241,6 +240,7 @@ wiz0floyd.
 bgrk005.
 mvkassak.
 Piyushsahu99.
+ANIKETSURWASE.
 ashu759.
 d7ianielsimonP.
 DennisRutherford.
@@ -585,7 +585,6 @@ puneet94.
 Shreedevisnow.
 sisco0.
 yuvraj1107thapa.
-ANIKETSURWASE.
 ashaw7697.
 Beeram12.
 Charanjet.
@@ -627,9 +626,9 @@ iamvpbhaskar.
 igrzhukovich.
 j4rodm.
 jamesfoot.
+JBscriptsNow.
 
 **Other contributors:**
-JBscriptsNow.
 JingAlanzhixin.
 jordanrogus.
 Juusoee.
@@ -709,6 +708,7 @@ varunharih.
 ab7289.
 abhishek-kumar-91.
 andersonvale78.
+ANIKETSURWASE.
 anilvaranasi.
 anirudhkumarm.
 APraestegaard.
