@@ -424,15 +424,16 @@ soerenmaucher.
 avssrikanth.
 shridk.
 davidkwhuang.
+maheshkhatal27.
 zahidask.
 DynamiteC.
 phr-nk.
 shakeel-sheikh.
 vjtknn.
 Yokesh0811.
-MarcMouries.
 
 **Top 25% contributors:**
+MarcMouries.
 sn-ajb.
 DavidMarcial.
 techYESlogyXplorer.
@@ -440,7 +441,6 @@ alyaanbasha.
 gregorwmail.
 harishankert.
 mady22070.
-maheshkhatal27.
 mjonssonme.
 nthumma.
 Paulsylo25.
