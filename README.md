@@ -175,6 +175,7 @@ ariyadmir.
 MartinStoyanoff.
 captainbraddles.
 DanielMadsenDK.
+koratalas.
 mandeepkaran.
 mohitchauhan-dev.
 abhrajyotikanrar.
@@ -183,10 +184,9 @@ Mexiprince.
 at8807602.
 chetnadev.
 Vishnu-rvk.
-isaac-vicentini.
 
 **Top 50% contributors:**
-koratalas.
+isaac-vicentini.
 S-w-a-p-n-i-l-22.
 naveenraw25.
 Saileshlanka.
@@ -501,6 +501,7 @@ DanielMadsenDK.
 goranlundqvist.
 harisnad.
 ivan-betev.
+koratalas.
 mandeepkaran.
 Mexiprince.
 riya-vermaa.
@@ -527,7 +528,6 @@ sandeepd26.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
-koratalas.
 markroethof.
 
 **Top 50% contributors:**
