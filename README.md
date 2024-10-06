@@ -201,13 +201,13 @@ riya-misra-1.
 VaishnaviLathkar98.
 bhavyajain511.
 Paulsylo25.
-Shreedevisnow.
+pradeepthipani.
 
 **Other contributors:**
+Shreedevisnow.
 Beeram12.
 Charanjet.
 KedarisettiSreeVamsi.
-pradeepthipani.
 priyasnexpert.
 shraddhakadam301298.
 soham-shee.
@@ -572,6 +572,7 @@ Alprez.
 chris-canto-11.
 ewatch.
 NayeemKaka.
+pradeepthipani.
 puneet94.
 Shreedevisnow.
 sisco0.
@@ -582,7 +583,6 @@ Charanjet.
 crooks-s.
 Jaskaran-Techno.
 KedarisettiSreeVamsi.
-pradeepthipani.
 priyasnexpert.
 RagaChitraMankala.
 shraddhakadam301298.
