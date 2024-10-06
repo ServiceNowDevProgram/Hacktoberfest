@@ -183,9 +183,9 @@ Mexiprince.
 naveenraw25.
 chetnadev.
 Vishnu-rvk.
+isaac-vicentini.
 
 **Top 50% contributors:**
-isaac-vicentini.
 dcord1x.
 koratalas.
 S-w-a-p-n-i-l-22.
@@ -204,9 +204,9 @@ riya-misra-1.
 VaishnaviLathkar98.
 bhavyajain511.
 Paulsylo25.
+Shreedevisnow.
 
 **Other contributors:**
-Shreedevisnow.
 ANIKETSURWASE.
 Beeram12.
 Charanjet.
@@ -261,6 +261,7 @@ umangkedia92.
 A-Vishnupriya.
 acashkr.
 AdibaNaushad.
+ahamadunnisa-md.
 alkaChaudhary73.
 Anusrita-Karmakar.
 aravindbarla22.
@@ -793,6 +794,7 @@ adarshsingh7470.
 AdibaNaushad.
 Adil404.
 afejzic.
+ahamadunnisa-md.
 Ahkonn.
 ajbuono.
 ajithaju15.
