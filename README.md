@@ -205,9 +205,9 @@ Saileshlanka.
 VaishnaviLathkar98.
 bhavyajain511.
 Paulsylo25.
+pradeepthipani.
 
 **Other contributors:**
-pradeepthipani.
 Shreedevisnow.
 Beeram12.
 Charanjet.
@@ -300,6 +300,7 @@ Narasimha677.
 Nikil-D-Gr8.
 nooras.
 NowRishi.
+omkar2508.
 osc99.
 pandeysameer.
 pranavkhurana2011.
@@ -627,9 +628,9 @@ igrzhukovich.
 j4rodm.
 jamesfoot.
 JBscriptsNow.
+JingAlanzhixin.
 
 **Other contributors:**
-JingAlanzhixin.
 jordanrogus.
 Juusoee.
 KartikeSingh.
@@ -1128,6 +1129,7 @@ nvprav.
 ocl-gustavo.
 Ogre86.
 OllyIB.
+omkar2508.
 omkarvasekar.
 oskadoskaposka.
 OsvaldoCabral.
