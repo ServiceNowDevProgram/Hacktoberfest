@@ -327,6 +327,7 @@ steveuncg.
 stwinkle.
 sumedhx.
 swaroop-surampalli.
+techLrd.
 TracyCurry96.
 ujjwalgupta2021.
 vijaytechy.
@@ -532,9 +533,9 @@ Sagar-agarwal.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
+himanshu7895.
 
 **Top 50% contributors:**
-himanshu7895.
 markroethof.
 S-w-a-p-n-i-l-22.
 anguspalmer.
@@ -631,9 +632,9 @@ igrzhukovich.
 j4rodm.
 jamesfoot.
 JBscriptsNow.
+JingAlanzhixin.
 
 **Other contributors:**
-JingAlanzhixin.
 jordanrogus.
 Juusoee.
 KartikeSingh.
@@ -1260,6 +1261,7 @@ SwarnadeepNandy.
 swaroop-surampalli.
 TamByrd.
 tapishsh.
+techLrd.
 techspark77.
 tedante.
 telbir.
