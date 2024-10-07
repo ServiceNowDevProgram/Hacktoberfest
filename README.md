@@ -166,6 +166,7 @@ Praiseto.
 templetontsai.
 
 **Top 25% contributors:**
+koratalas.
 ronaldkarim.
 shridk.
 unbirthdays.
@@ -173,7 +174,6 @@ SrijanPatwa.
 vermaamit1664.
 pradeepthipani.
 ariyadmir.
-koratalas.
 MartinStoyanoff.
 abhrajyotikanrar.
 Atul-LNG.
@@ -470,6 +470,7 @@ OrgovanGeza.
 ravichandra1998g.
 arhaan2019.
 designitsecure.
+koratalas.
 llipovsky.
 seviceN.
 tejudhoran95.
@@ -504,7 +505,6 @@ ariyadmir.
 ashuprince121.
 hrichiksite.
 Iuliak.
-koratalas.
 Munnisona.
 RaunakScarlet.
 TVani5.
