@@ -183,11 +183,11 @@ eriemer1.
 Mexiprince.
 at8807602.
 chetnadev.
-Vishnu-rvk.
+pradeepthipani.
 
 **Top 50% contributors:**
+Vishnu-rvk.
 isaac-vicentini.
-pradeepthipani.
 S-w-a-p-n-i-l-22.
 naveenraw25.
 dadhich-ashish.
@@ -520,13 +520,13 @@ src107.
 fn20200323.
 pratyushasndev.
 VaishnaviLathkar98.
+pradeepthipani.
 sandeepd26.
 Vishnu-rvk.
 homealone07.
 Iamsant.
 isaac-vicentini.
 jeremyrubio27.
-pradeepthipani.
 Sagar-agarwal.
 wiresgit.
 yourepicservices.
