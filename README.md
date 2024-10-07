@@ -200,12 +200,13 @@ SNProductOwner.
 dcord1x.
 Dhruvyadav2000.
 kylburns89.
+priyasnexpert.
 shraddhakadam301298.
 debendu-das.
 riya-misra-1.
-Saileshlanka.
 
 **Other contributors:**
+Saileshlanka.
 bhavyajain511.
 Paulsylo25.
 Shreedevisnow.
@@ -213,7 +214,6 @@ Atul-LNG.
 Beeram12.
 Charanjet.
 KedarisettiSreeVamsi.
-priyasnexpert.
 soham-shee.
 tejasathalye.
 anurags10.
@@ -568,6 +568,7 @@ miracc.
 MiroslawBuszek.
 pandeysumit-now.
 patrickpaterlini.
+priyasnexpert.
 shraddhakadam301298.
 LucasRocha2308.
 Mahesh-Krishnan1.
@@ -598,7 +599,6 @@ crooks-s.
 Jaskaran-Techno.
 KedarisettiSreeVamsi.
 osc99.
-priyasnexpert.
 RagaChitraMankala.
 soham-shee.
 stwinkle.
