@@ -210,6 +210,7 @@ Saileshlanka.
 Paulsylo25.
 
 **Other contributors:**
+RahmanM.
 bhavyajain511.
 Shreedevisnow.
 Beeram12.
@@ -240,7 +241,6 @@ aykmrgit.
 chelming.
 kalyan120694.
 kmohit2809.
-RahmanM.
 wiz0floyd.
 sndevs-slacker-issue-reporter[bot].
 ashu759.
@@ -367,10 +367,10 @@ amigujarathi.
 ajcooper72.
 chelming.
 hrobarikt.
+RahmanM.
 sumanthdosapati.
 smartcarleen.
 ankitshu.
-RahmanM.
 urspvs.
 Radhe-Manasa.
 kmxo.
