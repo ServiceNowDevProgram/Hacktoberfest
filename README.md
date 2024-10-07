@@ -162,13 +162,13 @@ ashoo-jindal.
 sravankadudhuri.
 maheshkhatal27.
 bird-03.
+Praiseto.
 templetontsai.
-ronaldkarim.
 
 **Top 25% contributors:**
+ronaldkarim.
 shridk.
 unbirthdays.
-Praiseto.
 SrijanPatwa.
 vermaamit1664.
 pradeepthipani.
@@ -454,6 +454,7 @@ harishankert.
 mady22070.
 mjonssonme.
 nthumma.
+Praiseto.
 templetontsai.
 b1naryst0rm.
 sdgrube2.
@@ -477,7 +478,6 @@ dean-croaker.
 domuserk.
 HarneetSital.
 jacebenson.
-Praiseto.
 ReginaldFawcett.
 sheikhafsarzap.
 thorn91.
