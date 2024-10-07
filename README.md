@@ -323,6 +323,7 @@ shashwatmishraog.
 simt0m.
 singhaditya73.
 SKYsnaX.
+spnegi.
 Srikanth1306.
 steveuncg.
 stwinkle.
@@ -634,9 +635,9 @@ j4rodm.
 jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
+jordanrogus.
 
 **Other contributors:**
-jordanrogus.
 Juusoee.
 KartikeSingh.
 kaushalbharade.
@@ -1244,6 +1245,7 @@ somusekher.
 Sookeyy-12.
 Soulpancake000.
 Souradeephazra123.
+spnegi.
 Srikanth1306.
 srirampusuluri1.
 Srutip04.
