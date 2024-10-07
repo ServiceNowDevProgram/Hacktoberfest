@@ -187,8 +187,8 @@ chetnadev.
 
 **Top 50% contributors:**
 Vishnu-rvk.
-isaac-vicentini.
 himanshu7895.
+isaac-vicentini.
 priyasnexpert.
 S-w-a-p-n-i-l-22.
 naveenraw25.
@@ -525,6 +525,7 @@ src107.
 fn20200323.
 pratyushasndev.
 Vishnu-rvk.
+himanshu7895.
 homealone07.
 Iamsant.
 isaac-vicentini.
@@ -533,7 +534,6 @@ Sagar-agarwal.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
-himanshu7895.
 
 **Top 50% contributors:**
 markroethof.
