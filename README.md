@@ -192,6 +192,7 @@ naveenraw25.
 dadhich-ashish.
 Rampriya-S.
 mo-dahir.
+pradeepthipani.
 SNProductOwner.
 dcord1x.
 Dhruvyadav2000.
@@ -205,7 +206,6 @@ Saileshlanka.
 VaishnaviLathkar98.
 bhavyajain511.
 Paulsylo25.
-pradeepthipani.
 
 **Other contributors:**
 Shreedevisnow.
@@ -548,6 +548,7 @@ mo-dahir.
 dcord1x.
 djunaid.
 Haile-08.
+pradeepthipani.
 SNProductOwner.
 sonamtiwari8.
 Adiana3308.
@@ -582,7 +583,6 @@ Alprez.
 chris-canto-11.
 ewatch.
 NayeemKaka.
-pradeepthipani.
 puneet94.
 Shreedevisnow.
 sisco0.
