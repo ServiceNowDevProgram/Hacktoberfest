@@ -242,6 +242,7 @@ kalyan120694.
 kmohit2809.
 RahmanM.
 wiz0floyd.
+sndevs-slacker-issue-reporter[bot].
 ashu759.
 bgrk005.
 mmaraj1.
@@ -263,7 +264,6 @@ mucho243.
 prashantmrshine.
 pviglianti.
 Shriramjoshi86.
-sndevs-slacker-issue-reporter[bot].
 sohailkhilji.
 spnegi.
 SujathaSuj.
@@ -701,6 +701,7 @@ fauverism.
 KonvalinkaCodes.
 Marll22.
 Nikuuuuu.
+sndevs-slacker-issue-reporter[bot].
 adamnewhall.
 brumam.
 cenzo85.
@@ -782,7 +783,6 @@ rohi-v.
 ron-karim.
 Shriramjoshi86.
 sivajyo0803.
-sndevs-slacker-issue-reporter[bot].
 snowritik.
 spnegi.
 SruthiSivarajan.
