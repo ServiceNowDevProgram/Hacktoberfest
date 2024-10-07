@@ -189,6 +189,7 @@ chetnadev.
 Vishnu-rvk.
 isaac-vicentini.
 himanshu7895.
+priyasnexpert.
 S-w-a-p-n-i-l-22.
 naveenraw25.
 VaishnaviLathkar98.
@@ -200,7 +201,6 @@ SNProductOwner.
 dcord1x.
 Dhruvyadav2000.
 kylburns89.
-priyasnexpert.
 shraddhakadam301298.
 debendu-das.
 riya-misra-1.
@@ -537,6 +537,7 @@ himanshu7895.
 
 **Top 50% contributors:**
 markroethof.
+priyasnexpert.
 S-w-a-p-n-i-l-22.
 anguspalmer.
 Badal2k23.
@@ -568,7 +569,6 @@ miracc.
 MiroslawBuszek.
 pandeysumit-now.
 patrickpaterlini.
-priyasnexpert.
 shraddhakadam301298.
 LucasRocha2308.
 Mahesh-Krishnan1.
