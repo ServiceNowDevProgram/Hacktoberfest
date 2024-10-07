@@ -335,6 +335,7 @@ sumanth1710.
 sumedhx.
 swaroop-surampalli.
 techLrd.
+TheRashRash.
 TracyCurry96.
 ujjwalgupta2021.
 vijaytechy.
@@ -442,9 +443,9 @@ phr-nk.
 shakeel-sheikh.
 vjtknn.
 Yokesh0811.
+MarcMouries.
 
 **Top 25% contributors:**
-MarcMouries.
 sn-ajb.
 DavidMarcial.
 Paulsylo25.
@@ -1279,6 +1280,7 @@ tedante.
 telbir.
 TheoCantor.
 theotherdebs.
+TheRashRash.
 thesnowguy.
 thomas-seiberl.
 Timi-2023.
