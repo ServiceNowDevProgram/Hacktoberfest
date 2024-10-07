@@ -187,12 +187,12 @@ Vishnu-rvk.
 
 **Top 50% contributors:**
 isaac-vicentini.
+pradeepthipani.
 S-w-a-p-n-i-l-22.
 naveenraw25.
 dadhich-ashish.
 Rampriya-S.
 mo-dahir.
-pradeepthipani.
 SNProductOwner.
 dcord1x.
 Dhruvyadav2000.
@@ -524,14 +524,15 @@ homealone07.
 Iamsant.
 isaac-vicentini.
 jeremyrubio27.
+pradeepthipani.
 Sagar-agarwal.
 sandeepd26.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
-markroethof.
 
 **Top 50% contributors:**
+markroethof.
 S-w-a-p-n-i-l-22.
 anguspalmer.
 Badal2k23.
@@ -548,7 +549,6 @@ mo-dahir.
 dcord1x.
 djunaid.
 Haile-08.
-pradeepthipani.
 SNProductOwner.
 sonamtiwari8.
 Adiana3308.
