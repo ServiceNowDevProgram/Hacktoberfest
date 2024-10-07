@@ -217,6 +217,7 @@ Charanjet.
 KedarisettiSreeVamsi.
 soham-shee.
 tejasathalye.
+umangkedia92.
 anurags10.
 ChndrshP.
 DhanushNehru.
@@ -265,7 +266,6 @@ sndevs-slacker-issue-reporter[bot].
 sohailkhilji.
 SujathaSuj.
 TanushreeBorase.
-umangkedia92.
 A-Vishnupriya.
 acashkr.
 AdibaNaushad.
@@ -613,6 +613,7 @@ stwinkle.
 tejasathalye.
 thameemskings.
 Thrizvi.
+umangkedia92.
 vk-cloud.
 4bode.
 abhay625.
@@ -641,9 +642,9 @@ j4rodm.
 jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
-jordanrogus.
 
 **Other contributors:**
+jordanrogus.
 Juusoee.
 KartikeSingh.
 kaushalbharade.
@@ -790,7 +791,6 @@ TheSethRose.
 thoffman210.
 TonySerN.
 TracyCurry96.
-umangkedia92.
 VarAti.
 varunasuresh92.
 vishalbirajdar0712.
