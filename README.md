@@ -227,6 +227,7 @@ NilotpalMaitra.
 osc99.
 phr-nk.
 praisetoyt.
+QI-XING.
 sachinggsingh.
 Saiprethaa.
 saitarun2499.
@@ -310,7 +311,6 @@ pandeysameer.
 pranavkhurana2011.
 pranjalisr.
 PraveenM1132.
-QI-XING.
 ravichandra1998g.
 robertbeeman.
 rohantjoshi.
@@ -526,6 +526,7 @@ briangodfreydev.
 GauthamBellamkonda.
 odinsride.
 piyusalunke123.
+QI-XING.
 rene-el.
 rmedved84.
 src107.
@@ -538,9 +539,9 @@ Iamsant.
 isaac-vicentini.
 jeremyrubio27.
 Sagar-agarwal.
-wiresgit.
 
 **Top 50% contributors:**
+wiresgit.
 yourepicservices.
 ChecksumFailed.
 markroethof.
@@ -551,7 +552,6 @@ Badal2k23.
 bhavyajain511.
 naveenraw25.
 NBaker137.
-QI-XING.
 revantKulkarni.
 trade12.
 ttoter.
