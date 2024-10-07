@@ -160,9 +160,9 @@ selvarun-umass.
 bkb68.
 sravankadudhuri.
 maheshkhatal27.
+ashoo-jindal.
 bird-03.
 templetontsai.
-ashoo-jindal.
 ronaldkarim.
 
 **Top 25% contributors:**
@@ -380,14 +380,14 @@ BadalHub.
 MrChrisE.
 ronaldkarim.
 vandna07.
+ashoo-jindal.
 at8807602.
 PranavBhagat18.
 abhrajyotikanrar.
-Irston.
 
 **Top 10% contributors:**
+Irston.
 404paige.
-ashoo-jindal.
 aswamy93.
 litwi1rm.
 mak1A4.
