@@ -184,9 +184,9 @@ eriemer1.
 Mexiprince.
 at8807602.
 chetnadev.
+Vishnu-rvk.
 
 **Top 50% contributors:**
-Vishnu-rvk.
 himanshu7895.
 isaac-vicentini.
 jahnaviT2003.
@@ -205,9 +205,9 @@ Dhruvyadav2000.
 kylburns89.
 shraddhakadam301298.
 debendu-das.
+riya-misra-1.
 
 **Other contributors:**
-riya-misra-1.
 Saileshlanka.
 bhavyajain511.
 Paulsylo25.
@@ -283,6 +283,7 @@ ersureshbe.
 gauravghodinde.
 girishnagaraj09.
 GittyHarsha.
+GP-UOB.
 herambchaudhari4121.
 Jahnavi-Solanki.
 jefflintel.
@@ -962,6 +963,7 @@ GLaDOS2199.
 golu833.
 GouthamSG.
 Gowthammadhusuthanan067.
+GP-UOB.
 greenc123.
 greencarlos.
 GTKsnow.
