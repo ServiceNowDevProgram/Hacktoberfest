@@ -185,9 +185,9 @@ mohitchauhan-dev.
 eriemer1.
 Mexiprince.
 at8807602.
+chetnadev.
 
 **Top 50% contributors:**
-chetnadev.
 dadhich-ashish.
 Vishnu-rvk.
 himanshu7895.
@@ -207,9 +207,9 @@ kylburns89.
 debendu-das.
 riya-misra-1.
 Saileshlanka.
+Paulsylo25.
 
 **Other contributors:**
-Paulsylo25.
 bhavyajain511.
 Shreedevisnow.
 Beeram12.
@@ -299,6 +299,7 @@ lokeshwar777.
 loordjay.
 mahamed-rashid.
 manoj424.
+MidhaShrey.
 Mihir008.
 Mikerniker.
 Narasimha677.
@@ -1102,6 +1103,7 @@ mbartkowiak.
 mdirshadaelum.
 mgcnent.
 mhendershott.
+MidhaShrey.
 Mihir008.
 Mikerniker.
 mishraca.
