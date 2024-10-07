@@ -265,6 +265,7 @@ pviglianti.
 Shriramjoshi86.
 sndevs-slacker-issue-reporter[bot].
 sohailkhilji.
+spnegi.
 SujathaSuj.
 TanushreeBorase.
 A-Vishnupriya.
@@ -328,7 +329,6 @@ shashwatmishraog.
 simt0m.
 singhaditya73.
 SKYsnaX.
-spnegi.
 Srikanth1306.
 steveuncg.
 stwinkle.
@@ -784,6 +784,7 @@ Shriramjoshi86.
 sivajyo0803.
 sndevs-slacker-issue-reporter[bot].
 snowritik.
+spnegi.
 SruthiSivarajan.
 sudhanshu-77.
 SujathaSuj.
@@ -1254,7 +1255,6 @@ somusekher.
 Sookeyy-12.
 Soulpancake000.
 Souradeephazra123.
-spnegi.
 Srikanth1306.
 srirampusuluri1.
 Srutip04.
