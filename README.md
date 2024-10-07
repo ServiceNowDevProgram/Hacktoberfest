@@ -200,20 +200,20 @@ mo-dahir.
 SNProductOwner.
 dcord1x.
 Dhruvyadav2000.
+jahnaviT2003.
 kylburns89.
 shraddhakadam301298.
 debendu-das.
 riya-misra-1.
-Saileshlanka.
 
 **Other contributors:**
+Saileshlanka.
 bhavyajain511.
 Paulsylo25.
 Shreedevisnow.
 Atul-LNG.
 Beeram12.
 Charanjet.
-jahnaviT2003.
 KedarisettiSreeVamsi.
 soham-shee.
 tejasathalye.
@@ -564,6 +564,7 @@ allam1234.
 Decoder-Paul.
 DhanushNehru.
 Dhruvyadav2000.
+jahnaviT2003.
 jesalynrose.
 kylburns89.
 Ladirinia.
@@ -598,7 +599,6 @@ Atul-LNG.
 Beeram12.
 Charanjet.
 crooks-s.
-jahnaviT2003.
 Jaskaran-Techno.
 KedarisettiSreeVamsi.
 osc99.
