@@ -217,6 +217,7 @@ Beeram12.
 Charanjet.
 KedarisettiSreeVamsi.
 soham-shee.
+spnegi.
 tejasathalye.
 umangkedia92.
 anurags10.
@@ -270,7 +271,6 @@ pviglianti.
 rohi-v.
 Shriramjoshi86.
 sohailkhilji.
-spnegi.
 SujathaSuj.
 TanushreeBorase.
 A-Vishnupriya.
@@ -615,6 +615,7 @@ KedarisettiSreeVamsi.
 osc99.
 RagaChitraMankala.
 soham-shee.
+spnegi.
 stwinkle.
 tejasathalye.
 thameemskings.
@@ -648,9 +649,9 @@ igrzhukovich.
 j4rodm.
 jamesfoot.
 JBscriptsNow.
-JingAlanzhixin.
 
 **Other contributors:**
+JingAlanzhixin.
 jordanrogus.
 Juusoee.
 KartikeSingh.
@@ -792,7 +793,6 @@ ron-karim.
 Shriramjoshi86.
 sivajyo0803.
 snowritik.
-spnegi.
 SruthiSivarajan.
 sudhanshu-77.
 SujathaSuj.
