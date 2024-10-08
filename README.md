@@ -184,17 +184,17 @@ mandeepkaran.
 mohitchauhan-dev.
 eriemer1.
 Mexiprince.
+sandeepd26.
 at8807602.
-chetnadev.
 
 **Top 50% contributors:**
+chetnadev.
 dadhich-ashish.
 Vishnu-rvk.
 isaac-vicentini.
 priyasnexpert.
 S-w-a-p-n-i-l-22.
 naveenraw25.
-sandeepd26.
 Rampriya-S.
 mo-dahir.
 himanshu7895.
@@ -482,6 +482,7 @@ domuserk.
 HarneetSital.
 jacebenson.
 ReginaldFawcett.
+sandeepd26.
 sheikhafsarzap.
 thorn91.
 Himanshu-skb-oo7.
@@ -520,7 +521,6 @@ mandeepkaran.
 Mexiprince.
 riya-vermaa.
 Saileshlanka.
-sandeepd26.
 allenandreas.
 anubhav-ritolia.
 apple9000.
