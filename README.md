@@ -181,19 +181,19 @@ MartinStoyanoff.
 abhrajyotikanrar.
 captainbraddles.
 DanielMadsenDK.
-jahnaviT2003.
 mandeepkaran.
 mohitchauhan-dev.
 eriemer1.
 Mexiprince.
 sandeepd26.
+at8807602.
 
 **Top 50% contributors:**
-at8807602.
 chetnadev.
 dadhich-ashish.
 Vishnu-rvk.
 isaac-vicentini.
+jahnaviT2003.
 priyasnexpert.
 S-w-a-p-n-i-l-22.
 naveenraw25.
@@ -523,7 +523,6 @@ DanielMadsenDK.
 goranlundqvist.
 harisnad.
 ivan-betev.
-jahnaviT2003.
 mandeepkaran.
 Mexiprince.
 riya-vermaa.
@@ -549,9 +548,10 @@ jeremyrubio27.
 Sagar-agarwal.
 wiresgit.
 yourepicservices.
+ChecksumFailed.
 
 **Top 50% contributors:**
-ChecksumFailed.
+jahnaviT2003.
 markroethof.
 priyasnexpert.
 S-w-a-p-n-i-l-22.
