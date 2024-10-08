@@ -184,13 +184,12 @@ mandeepkaran.
 mohitchauhan-dev.
 VaishnaviLathkar98.
 debendu-das.
-Mexiprince.
 sandeepd26.
 at8807602.
 chetnadev.
+dadhich-ashish.
 
 **Top 50% contributors:**
-dadhich-ashish.
 pradeepthipani.
 Vishnu-rvk.
 isaac-vicentini.
@@ -198,6 +197,7 @@ priyasnexpert.
 S-w-a-p-n-i-l-22.
 spnegi.
 anveshmupparaju.
+Mexiprince.
 naveenraw25.
 Rampriya-S.
 mo-dahir.
@@ -391,9 +391,9 @@ deepak-64742.
 rafzk.
 anillande90.
 ayleeandersen.
+ronaldkarim.
 Abhishekchowdarapu.
 alikuttyka.
-ronaldkarim.
 BadalHub.
 MrChrisE.
 vandna07.
@@ -525,7 +525,6 @@ goranlundqvist.
 harisnad.
 ivan-betev.
 mandeepkaran.
-Mexiprince.
 riya-vermaa.
 Saileshlanka.
 allenandreas.
@@ -551,9 +550,10 @@ Sagar-agarwal.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
+markroethof.
 
 **Top 50% contributors:**
-markroethof.
+Mexiprince.
 priyasnexpert.
 S-w-a-p-n-i-l-22.
 spnegi.
