@@ -174,6 +174,7 @@ SrijanPatwa.
 vermaamit1664.
 pradeepthipani.
 ariyadmir.
+himanshu7895.
 MartinStoyanoff.
 abhrajyotikanrar.
 Atul-LNG.
@@ -185,13 +186,12 @@ mohitchauhan-dev.
 eriemer1.
 Mexiprince.
 sandeepd26.
-at8807602.
 
 **Top 50% contributors:**
+at8807602.
 chetnadev.
 dadhich-ashish.
 Vishnu-rvk.
-himanshu7895.
 isaac-vicentini.
 priyasnexpert.
 S-w-a-p-n-i-l-22.
@@ -503,6 +503,7 @@ pradeepthipani.
 sauravsumankumar.
 ariyadmir.
 ashuprince121.
+himanshu7895.
 hrichiksite.
 Iuliak.
 Munnisona.
@@ -536,7 +537,6 @@ fn20200323.
 pratyushasndev.
 VaishnaviLathkar98.
 Vishnu-rvk.
-himanshu7895.
 homealone07.
 Iamsant.
 isaac-vicentini.
