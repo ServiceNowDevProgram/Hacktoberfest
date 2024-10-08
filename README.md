@@ -187,9 +187,9 @@ VaishnaviLathkar98.
 Mexiprince.
 sandeepd26.
 at8807602.
+chetnadev.
 
 **Top 50% contributors:**
-chetnadev.
 dadhich-ashish.
 Vishnu-rvk.
 isaac-vicentini.
@@ -210,9 +210,9 @@ riya-misra-1.
 Saileshlanka.
 Paulsylo25.
 RahmanM.
+chelming.
 
 **Other contributors:**
-chelming.
 bhavyajain511.
 Shreedevisnow.
 Beeram12.
@@ -324,6 +324,7 @@ ravichandra1998g.
 robertbeeman.
 rohantjoshi.
 Ronilpatil22.
+Ruchi-here.
 saarimshaikh.
 sagarbhadke08.
 SaiSankar1309.
@@ -1212,6 +1213,7 @@ RooshanSalim.
 RosaAtCoding.
 RoseKonvalinka.
 rtalreja1997.
+Ruchi-here.
 rupam870.
 rverrips.
 rwhittaker.
