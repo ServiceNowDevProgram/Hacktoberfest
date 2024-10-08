@@ -233,6 +233,7 @@ QI-XING.
 sachinggsingh.
 Saiprethaa.
 saitarun2499.
+sndevs-slacker-issue-reporter[bot].
 Sravanik12.
 TheRashRash.
 ultralegendary.
@@ -242,7 +243,6 @@ aykmrgit.
 chelming.
 kalyan120694.
 kmohit2809.
-sndevs-slacker-issue-reporter[bot].
 ashu759.
 bgrk005.
 mmaraj1.
@@ -677,6 +677,7 @@ samwinchet.
 sanchit-varshney.
 sanju009.
 Shambu-K.
+sndevs-slacker-issue-reporter[bot].
 speedy18.
 Sravanik12.
 Subhraneel77.
@@ -701,7 +702,6 @@ fauverism.
 KonvalinkaCodes.
 Marll22.
 Nikuuuuu.
-sndevs-slacker-issue-reporter[bot].
 adamnewhall.
 brumam.
 cenzo85.
