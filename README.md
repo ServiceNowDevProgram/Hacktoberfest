@@ -283,6 +283,7 @@ BhageshChavan.
 blindaks.
 cschmidt82.
 davidehira.
+devalcodes.
 dwilso1018.
 erlingvt.
 ersureshbe.
@@ -544,9 +545,9 @@ isaac-vicentini.
 jeremyrubio27.
 Sagar-agarwal.
 wiresgit.
+yourepicservices.
 
 **Top 50% contributors:**
-yourepicservices.
 ChecksumFailed.
 markroethof.
 priyasnexpert.
@@ -644,9 +645,9 @@ j4rodm.
 jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
+jordanrogus.
 
 **Other contributors:**
-jordanrogus.
 Juusoee.
 KartikeSingh.
 kaushalbharade.
@@ -922,6 +923,7 @@ davidehira.
 dchavez434.
 denmant.
 derHundOida.
+devalcodes.
 developmentpark.
 devendra175151.
 DFanso.
