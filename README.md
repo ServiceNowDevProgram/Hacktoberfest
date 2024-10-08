@@ -230,7 +230,6 @@ ezratkim.
 MGOPW.
 msdfib.
 NilotpalMaitra.
-osc99.
 OsvaldoCabral.
 phr-nk.
 praisetoyt.
@@ -315,6 +314,7 @@ Nikil-D-Gr8.
 nooras.
 NowRishi.
 omkar2508.
+osc99.
 pandeysameer.
 pranavkhurana2011.
 pranjalisr.
@@ -615,7 +615,6 @@ crooks-s.
 jahnaviT2003.
 Jaskaran-Techno.
 KedarisettiSreeVamsi.
-osc99.
 OsvaldoCabral.
 RagaChitraMankala.
 soham-shee.
@@ -652,9 +651,9 @@ igrzhukovich.
 j4rodm.
 jamesfoot.
 JBscriptsNow.
+JingAlanzhixin.
 
 **Other contributors:**
-JingAlanzhixin.
 jordanrogus.
 Juusoee.
 KartikeSingh.
@@ -787,6 +786,7 @@ NicoxNall.
 NK-01.
 noviicee.
 NowSharif.
+osc99.
 Pavandileep.
 ppalaskar.
 pviglianti.
