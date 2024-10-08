@@ -184,19 +184,19 @@ DanielMadsenDK.
 mandeepkaran.
 mohitchauhan-dev.
 VaishnaviLathkar98.
+debendu-das.
 Mexiprince.
 sandeepd26.
 at8807602.
-chetnadev.
 
 **Top 50% contributors:**
+chetnadev.
 dadhich-ashish.
 Vishnu-rvk.
 isaac-vicentini.
 priyasnexpert.
 S-w-a-p-n-i-l-22.
 anveshmupparaju.
-debendu-das.
 naveenraw25.
 Rampriya-S.
 mo-dahir.
@@ -416,13 +416,13 @@ hentonjd.
 23Thom.
 aatrey882.
 captainbraddles.
+debendu-das.
 salmaniqbal92.
 csharpie.
 mohitchauhan-dev.
 mr-swann.
 bkb68.
 SrijanPatwa.
-debendu-das.
 TRIGGEREDcoder.
 Danmax.
 hafsa-asif.
