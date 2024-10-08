@@ -176,7 +176,6 @@ shridk.
 unbirthdays.
 SrijanPatwa.
 vermaamit1664.
-pradeepthipani.
 abhrajyotikanrar.
 MartinStoyanoff.
 captainbraddles.
@@ -188,10 +187,11 @@ debendu-das.
 Mexiprince.
 sandeepd26.
 at8807602.
+chetnadev.
 
 **Top 50% contributors:**
-chetnadev.
 dadhich-ashish.
+pradeepthipani.
 Vishnu-rvk.
 isaac-vicentini.
 priyasnexpert.
@@ -244,11 +244,11 @@ TheRashRash.
 ultralegendary.
 wiz0floyd.
 YadlaMani.
+ashu759.
 aykmrgit.
 kalyan120694.
 kmohit2809.
 abhishekchavan-git.
-ashu759.
 bgrk005.
 mmaraj1.
 mvkassak.
@@ -498,11 +498,11 @@ ReginaldFawcett.
 sandeepd26.
 sheikhafsarzap.
 thorn91.
+ashu759.
 Himanshu-skb-oo7.
 mmaraj1.
 sanjivmeher.
 aman2519.
-ashu759.
 manrick.
 namrataghorpade.
 vermaamit1664.
@@ -511,7 +511,6 @@ brenduh.
 dalestubblefield.
 danielliaus.
 JonSandoval.
-pradeepthipani.
 sauravsumankumar.
 ashuprince121.
 hrichiksite.
@@ -542,6 +541,7 @@ rmedved84.
 src107.
 fn20200323.
 pratyushasndev.
+pradeepthipani.
 Vishnu-rvk.
 homealone07.
 Iamsant.
