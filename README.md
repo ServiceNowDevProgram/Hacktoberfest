@@ -346,6 +346,7 @@ ujjwalgupta2021.
 vijaytechy.
 xjfdzn.
 YDdraigGoch70.
+yrozo28.
 
 ## Leaderboard (all time):
 
@@ -649,9 +650,9 @@ igrzhukovich.
 j4rodm.
 jamesfoot.
 JBscriptsNow.
+JingAlanzhixin.
 
 **Other contributors:**
-JingAlanzhixin.
 jordanrogus.
 Juusoee.
 KartikeSingh.
@@ -1329,5 +1330,6 @@ xjfdzn.
 yay-jake.
 YDdraigGoch70.
 youthinkasido.
+yrozo28.
 zerus83.
 zomsik.
