@@ -146,9 +146,9 @@ Meet the Hacktoberfest crew who will be maintaining your projects:
 **Top 5% contributors:**
 Lacah.
 earlduque.
-ynr-ram.
 ankitshu.
 SapphicFire.
+ynr-ram.
 kmxo.
 niamccash.
 snamjosh.
@@ -353,9 +353,9 @@ niamccash.
 Rampriya-S.
 wiz0floyd.
 johndahl-now.
-ynr-ram.
 kmohit2809.
 paigesndev.
+ynr-ram.
 snamjosh.
 mgopw.
 ishaanshoor.
