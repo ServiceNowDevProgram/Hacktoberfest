@@ -212,6 +212,7 @@ RahmanM.
 bhavyajain511.
 
 **Other contributors:**
+chelming.
 Shreedevisnow.
 Beeram12.
 Charanjet.
@@ -242,7 +243,6 @@ ultralegendary.
 wiz0floyd.
 YadlaMani.
 aykmrgit.
-chelming.
 kalyan120694.
 kmohit2809.
 abhishekchavan-git.
