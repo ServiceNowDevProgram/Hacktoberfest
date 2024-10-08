@@ -149,8 +149,8 @@ Lacah.
 SapphicFire.
 ynr-ram.
 ankitshu.
-kmxo.
 niamccash.
+kmxo.
 snamjosh.
 404paige.
 
@@ -205,19 +205,19 @@ shraddhakadam301298.
 SNProductOwner.
 dcord1x.
 Dhruvyadav2000.
-jahnaviT2003.
 kylburns89.
 riya-misra-1.
 Saileshlanka.
 Paulsylo25.
 RahmanM.
+chelming.
 
 **Other contributors:**
-chelming.
 bhavyajain511.
 Shreedevisnow.
 Beeram12.
 Charanjet.
+jahnaviT2003.
 KedarisettiSreeVamsi.
 soham-shee.
 tejasathalye.
@@ -580,7 +580,6 @@ allam1234.
 Decoder-Paul.
 DhanushNehru.
 Dhruvyadav2000.
-jahnaviT2003.
 jesalynrose.
 kylburns89.
 Ladirinia.
@@ -613,6 +612,7 @@ ashaw7697.
 Beeram12.
 Charanjet.
 crooks-s.
+jahnaviT2003.
 Jaskaran-Techno.
 KedarisettiSreeVamsi.
 osc99.
