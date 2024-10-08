@@ -206,20 +206,20 @@ dcord1x.
 Dhruvyadav2000.
 jahnaviT2003.
 kylburns89.
+spnegi.
 riya-misra-1.
 Saileshlanka.
 Paulsylo25.
 RahmanM.
-chelming.
 
 **Other contributors:**
+chelming.
 bhavyajain511.
 Shreedevisnow.
 Beeram12.
 Charanjet.
 KedarisettiSreeVamsi.
 soham-shee.
-spnegi.
 tejasathalye.
 umangkedia92.
 anurags10.
@@ -587,6 +587,7 @@ miracc.
 MiroslawBuszek.
 pandeysumit-now.
 patrickpaterlini.
+spnegi.
 LucasRocha2308.
 Mahesh-Krishnan1.
 maialithar.
@@ -618,7 +619,6 @@ osc99.
 OsvaldoCabral.
 RagaChitraMankala.
 soham-shee.
-spnegi.
 stwinkle.
 tejasathalye.
 thameemskings.
