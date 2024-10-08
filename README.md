@@ -164,15 +164,15 @@ himanshu7895.
 maheshkhatal27.
 bird-03.
 Praiseto.
-templetontsai.
+Atul-LNG.
 
 **Top 25% contributors:**
+templetontsai.
 ariyadmir.
 koratalas.
 ronaldkarim.
 shridk.
 unbirthdays.
-Atul-LNG.
 VaishnaviLathkar98.
 SrijanPatwa.
 vermaamit1664.
@@ -462,6 +462,7 @@ gregorwmail.
 harishankert.
 mady22070.
 Praiseto.
+Atul-LNG.
 mjonssonme.
 nthumma.
 templetontsai.
@@ -485,7 +486,6 @@ tejudhoran95.
 unbirthdays.
 vasantharaja-natarajan.
 am-shakeel.
-Atul-LNG.
 dean-croaker.
 domuserk.
 HarneetSital.
