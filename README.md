@@ -144,8 +144,8 @@ Meet the Hacktoberfest crew who will be maintaining your projects:
 ## Leaderboard (this year):
 
 **Top 5% contributors:**
-Lacah.
 earlduque.
+Lacah.
 SapphicFire.
 ynr-ram.
 ankitshu.
