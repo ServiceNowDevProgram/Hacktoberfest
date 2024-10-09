@@ -214,10 +214,10 @@ Saileshlanka.
 Paulsylo25.
 
 **Other contributors:**
+sndevs-slacker-issue-reporter[bot].
 chelming.
 bhavyajain511.
 Shreedevisnow.
-sndevs-slacker-issue-reporter[bot].
 Beeram12.
 Charanjet.
 jahnaviT2003.
@@ -601,6 +601,7 @@ TheTreyKyle.
 thisnameissoclever.
 ujjwalprem.
 mockspeed.
+sndevs-slacker-issue-reporter[bot].
 rohantjoshi.
 1shabby.
 abhilash264.
@@ -611,7 +612,6 @@ NayeemKaka.
 puneet94.
 Shreedevisnow.
 sisco0.
-sndevs-slacker-issue-reporter[bot].
 yuvraj1107thapa.
 ashaw7697.
 Beeram12.
