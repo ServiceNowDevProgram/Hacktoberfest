@@ -153,9 +153,9 @@ ankitshu.
 snamjosh.
 ynr-ram.
 aswamy93.
+404paige.
 
 **Top 10% contributors:**
-404paige.
 selvarun-umass.
 ashoo-jindal.
 bkb68.
@@ -165,9 +165,9 @@ sravankadudhuri.
 koratalas.
 maheshkhatal27.
 bird-03.
+eriemer1.
 
 **Top 25% contributors:**
-eriemer1.
 himanshu7895.
 Praiseto.
 Atul-LNG.
@@ -210,10 +210,10 @@ Dhruvyadav2000.
 QI-XING.
 soham-shee.
 riya-misra-1.
-Saileshlanka.
-Paulsylo25.
 
 **Other contributors:**
+Saileshlanka.
+Paulsylo25.
 sndevs-slacker-issue-reporter[bot].
 chelming.
 bhavyajain511.
@@ -347,6 +347,7 @@ techLrd.
 TracyCurry96.
 ujjwalgupta2021.
 vijaytechy.
+vivaan01.
 watrick.
 xjfdzn.
 YDdraigGoch70.
@@ -656,9 +657,9 @@ jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
 jordanrogus.
+Juusoee.
 
 **Other contributors:**
-Juusoee.
 KartikeSingh.
 kaushalbharade.
 lakshyatyagi24.
@@ -1320,6 +1321,7 @@ vigneshmc.
 vijay1379.
 vijayshankar485.
 vijaytechy.
+vivaan01.
 Vivek-KP.
 vivekmunda1609.
 vkambhammettu.
