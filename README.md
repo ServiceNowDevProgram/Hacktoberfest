@@ -217,6 +217,7 @@ Paulsylo25.
 chelming.
 bhavyajain511.
 Shreedevisnow.
+sndevs-slacker-issue-reporter[bot].
 Beeram12.
 Charanjet.
 jahnaviT2003.
@@ -237,7 +238,6 @@ ravichandra1998g.
 sachinggsingh.
 Saiprethaa.
 saitarun2499.
-sndevs-slacker-issue-reporter[bot].
 Sravanik12.
 TheRashRash.
 ultralegendary.
@@ -611,6 +611,7 @@ NayeemKaka.
 puneet94.
 Shreedevisnow.
 sisco0.
+sndevs-slacker-issue-reporter[bot].
 yuvraj1107thapa.
 ashaw7697.
 Beeram12.
@@ -655,9 +656,9 @@ jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
 jordanrogus.
-Juusoee.
 
 **Other contributors:**
+Juusoee.
 KartikeSingh.
 kaushalbharade.
 lakshyatyagi24.
@@ -688,7 +689,6 @@ samwinchet.
 sanchit-varshney.
 sanju009.
 Shambu-K.
-sndevs-slacker-issue-reporter[bot].
 speedy18.
 Sravanik12.
 Subhraneel77.
