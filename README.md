@@ -163,15 +163,15 @@ sravankadudhuri.
 himanshu7895.
 maheshkhatal27.
 bird-03.
+koratalas.
 Praiseto.
-Atul-LNG.
 
 **Top 25% contributors:**
+Atul-LNG.
 templetontsai.
 eriemer1.
 ronaldkarim.
 ariyadmir.
-koratalas.
 shridk.
 unbirthdays.
 RahmanM.
@@ -463,6 +463,7 @@ techYESlogyXplorer.
 alyaanbasha.
 gregorwmail.
 harishankert.
+koratalas.
 mady22070.
 Praiseto.
 Atul-LNG.
@@ -483,7 +484,6 @@ OrgovanGeza.
 arhaan2019.
 ariyadmir.
 designitsecure.
-koratalas.
 llipovsky.
 seviceN.
 tejudhoran95.
