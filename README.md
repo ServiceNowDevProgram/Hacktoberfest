@@ -163,14 +163,14 @@ sravankadudhuri.
 himanshu7895.
 maheshkhatal27.
 bird-03.
+Mexiprince.
 koratalas.
-Praiseto.
 
 **Top 25% contributors:**
+Praiseto.
 Atul-LNG.
 templetontsai.
 eriemer1.
-Mexiprince.
 ronaldkarim.
 ariyadmir.
 shridk.
@@ -446,13 +446,14 @@ anveshmupparaju.
 himanshu7895.
 davidkwhuang.
 maheshkhatal27.
+Mexiprince.
 zahidask.
 DynamiteC.
 phr-nk.
 shakeel-sheikh.
-vjtknn.
 
 **Top 25% contributors:**
+vjtknn.
 Yokesh0811.
 MarcMouries.
 sn-ajb.
@@ -467,7 +468,6 @@ koratalas.
 mady22070.
 Praiseto.
 Atul-LNG.
-Mexiprince.
 mjonssonme.
 nthumma.
 templetontsai.
