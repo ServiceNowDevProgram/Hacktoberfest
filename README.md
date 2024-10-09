@@ -155,8 +155,8 @@ snamjosh.
 aswamy93.
 
 **Top 10% contributors:**
-selvarun-umass.
 404paige.
+selvarun-umass.
 ashoo-jindal.
 bkb68.
 Mexiprince.
@@ -401,10 +401,9 @@ BadalHub.
 MrChrisE.
 vandna07.
 at8807602.
-selvarun-umass.
+abhrajyotikanrar.
 
 **Top 10% contributors:**
-abhrajyotikanrar.
 PranavBhagat18.
 Irston.
 404paige.
@@ -414,6 +413,7 @@ shivamTodwal.
 iar42.
 mlemartien.
 riya-misra-1.
+selvarun-umass.
 hentonjd.
 23Thom.
 aatrey882.
