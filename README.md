@@ -148,15 +148,15 @@ earlduque.
 Lacah.
 SapphicFire.
 niamccash.
-ankitshu.
 kmxo.
+ankitshu.
 snamjosh.
 ynr-ram.
 aswamy93.
 
 **Top 10% contributors:**
-selvarun-umass.
 404paige.
+selvarun-umass.
 ashoo-jindal.
 bkb68.
 Mexiprince.
@@ -381,8 +381,8 @@ hrobarikt.
 sumanthdosapati.
 smartcarleen.
 urspvs.
-ankitshu.
 kmxo.
+ankitshu.
 ashoo-jindal.
 Radhe-Manasa.
 aykmrgit.
@@ -402,15 +402,15 @@ BadalHub.
 MrChrisE.
 vandna07.
 at8807602.
-selvarun-umass.
+abhrajyotikanrar.
 
 **Top 10% contributors:**
-abhrajyotikanrar.
 PranavBhagat18.
 Irston.
 404paige.
 litwi1rm.
 mak1A4.
+selvarun-umass.
 shivamTodwal.
 iar42.
 mlemartien.
