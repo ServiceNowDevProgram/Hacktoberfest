@@ -169,13 +169,13 @@ koratalas.
 **Top 25% contributors:**
 Praiseto.
 Atul-LNG.
+spnegi.
 templetontsai.
 eriemer1.
 ronaldkarim.
 ariyadmir.
 shridk.
 unbirthdays.
-spnegi.
 RahmanM.
 SrijanPatwa.
 vermaamit1664.
@@ -470,6 +470,7 @@ Praiseto.
 Atul-LNG.
 mjonssonme.
 nthumma.
+spnegi.
 templetontsai.
 b1naryst0rm.
 sdgrube2.
@@ -499,7 +500,6 @@ jacebenson.
 QI-XING.
 ReginaldFawcett.
 sheikhafsarzap.
-spnegi.
 thorn91.
 ashu759.
 Himanshu-skb-oo7.
