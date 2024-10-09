@@ -177,6 +177,7 @@ ronaldkarim.
 ariyadmir.
 shridk.
 unbirthdays.
+anveshmupparaju.
 RahmanM.
 SrijanPatwa.
 vermaamit1664.
@@ -187,12 +188,11 @@ captainbraddles.
 DanielMadsenDK.
 kylburns89.
 mandeepkaran.
-mohitchauhan-dev.
 
 **Top 50% contributors:**
+mohitchauhan-dev.
 priyasnexpert.
 VaishnaviLathkar98.
-anveshmupparaju.
 debendu-das.
 at8807602.
 chetnadev.
@@ -422,13 +422,13 @@ salmaniqbal92.
 csharpie.
 mohitchauhan-dev.
 mr-swann.
+anveshmupparaju.
 bkb68.
 SrijanPatwa.
 TRIGGEREDcoder.
 Danmax.
 hafsa-asif.
 ovarn.
-anveshmupparaju.
 devinvalencia.
 Jaspalsinghchot.
 mskoddow.
