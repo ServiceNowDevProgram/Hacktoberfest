@@ -190,6 +190,7 @@ chetnadev.
 dadhich-ashish.
 
 **Top 50% contributors:**
+Rampriya-S.
 pradeepthipani.
 Vishnu-rvk.
 isaac-vicentini.
@@ -201,7 +202,6 @@ spnegi.
 anveshmupparaju.
 Mexiprince.
 naveenraw25.
-Rampriya-S.
 mo-dahir.
 shraddhakadam301298.
 SNProductOwner.
