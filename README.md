@@ -278,6 +278,7 @@ TanushreeBorase.
 A-Vishnupriya.
 acashkr.
 ahamadunnisa-md.
+Akshay-sri0001.
 alkaChaudhary73.
 Anusrita-Karmakar.
 aravindbarla22.
@@ -551,9 +552,9 @@ homealone07.
 Iamsant.
 isaac-vicentini.
 jeremyrubio27.
+Sagar-agarwal.
 
 **Top 50% contributors:**
-Sagar-agarwal.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
@@ -652,9 +653,9 @@ jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
 jordanrogus.
+Juusoee.
 
 **Other contributors:**
-Juusoee.
 KartikeSingh.
 kaushalbharade.
 lakshyatyagi24.
@@ -831,6 +832,7 @@ ajithaju15.
 akchowdam.
 akmittal.
 akoolarni.
+Akshay-sri0001.
 alexcasper.
 aliceapps.
 alkaChaudhary73.
