@@ -190,6 +190,7 @@ VaishnaviLathkar98.
 debendu-das.
 
 **Top 50% contributors:**
+Mexiprince.
 at8807602.
 chetnadev.
 dadhich-ashish.
@@ -201,7 +202,6 @@ S-w-a-p-n-i-l-22.
 soham-shee.
 spnegi.
 anveshmupparaju.
-Mexiprince.
 naveenraw25.
 Rampriya-S.
 mo-dahir.
@@ -527,6 +527,7 @@ harisnad.
 ivan-betev.
 kylburns89.
 mandeepkaran.
+Mexiprince.
 priyasnexpert.
 riya-vermaa.
 Saileshlanka.
@@ -550,13 +551,12 @@ Iamsant.
 isaac-vicentini.
 jeremyrubio27.
 Sagar-agarwal.
-wiresgit.
 
 **Top 50% contributors:**
+wiresgit.
 yourepicservices.
 ChecksumFailed.
 markroethof.
-Mexiprince.
 S-w-a-p-n-i-l-22.
 soham-shee.
 spnegi.
