@@ -174,6 +174,7 @@ ariyadmir.
 koratalas.
 shridk.
 unbirthdays.
+Rampriya-S.
 SrijanPatwa.
 vermaamit1664.
 abhrajyotikanrar.
@@ -187,10 +188,9 @@ debendu-das.
 sandeepd26.
 at8807602.
 chetnadev.
-dadhich-ashish.
 
 **Top 50% contributors:**
-Rampriya-S.
+dadhich-ashish.
 pradeepthipani.
 Vishnu-rvk.
 isaac-vicentini.
