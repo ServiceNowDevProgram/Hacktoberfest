@@ -167,11 +167,11 @@ himanshu7895.
 maheshkhatal27.
 
 **Top 25% contributors:**
-spnegi.
 bird-03.
 eriemer1.
 Praiseto.
 Atul-LNG.
+spnegi.
 templetontsai.
 ronaldkarim.
 ariyadmir.
@@ -452,11 +452,10 @@ shridk.
 himanshu7895.
 davidkwhuang.
 maheshkhatal27.
-spnegi.
 zahidask.
+DynamiteC.
 
 **Top 25% contributors:**
-DynamiteC.
 phr-nk.
 shakeel-sheikh.
 vjtknn.
@@ -475,6 +474,7 @@ Praiseto.
 Atul-LNG.
 mjonssonme.
 nthumma.
+spnegi.
 templetontsai.
 b1naryst0rm.
 sdgrube2.
