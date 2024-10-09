@@ -174,25 +174,25 @@ ariyadmir.
 koratalas.
 shridk.
 unbirthdays.
-Rampriya-S.
 SrijanPatwa.
 vermaamit1664.
 abhrajyotikanrar.
 MartinStoyanoff.
+sandeepd26.
 captainbraddles.
 DanielMadsenDK.
 kylburns89.
 mandeepkaran.
 mohitchauhan-dev.
-sandeepd26.
 VaishnaviLathkar98.
 debendu-das.
 at8807602.
+chetnadev.
 
 **Top 50% contributors:**
-chetnadev.
 dadhich-ashish.
 RahmanM.
+Rampriya-S.
 pradeepthipani.
 Vishnu-rvk.
 isaac-vicentini.
@@ -479,12 +479,12 @@ girishnagaraj09.
 Jayden-Chiu.
 OrgovanGeza.
 ravichandra1998g.
+sandeepd26.
 arhaan2019.
 ariyadmir.
 designitsecure.
 koratalas.
 llipovsky.
-sandeepd26.
 seviceN.
 tejudhoran95.
 unbirthdays.
