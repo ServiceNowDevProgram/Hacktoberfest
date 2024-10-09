@@ -174,6 +174,7 @@ ariyadmir.
 koratalas.
 shridk.
 unbirthdays.
+RahmanM.
 SrijanPatwa.
 vermaamit1664.
 sandeepd26.
@@ -187,11 +188,10 @@ mohitchauhan-dev.
 VaishnaviLathkar98.
 debendu-das.
 at8807602.
-chetnadev.
 
 **Top 50% contributors:**
+chetnadev.
 dadhich-ashish.
-RahmanM.
 pradeepthipani.
 Vishnu-rvk.
 isaac-vicentini.
@@ -369,11 +369,11 @@ eriemer1.
 MartinStoyanoff.
 bird-03.
 DavidArthurCole.
+RahmanM.
 R3J3NT.
 amigujarathi.
 ajcooper72.
 chelming.
-RahmanM.
 hrobarikt.
 sumanthdosapati.
 smartcarleen.
