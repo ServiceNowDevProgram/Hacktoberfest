@@ -181,21 +181,21 @@ abhrajyotikanrar.
 MartinStoyanoff.
 captainbraddles.
 DanielMadsenDK.
+kylburns89.
 mandeepkaran.
 mohitchauhan-dev.
 VaishnaviLathkar98.
 debendu-das.
 sandeepd26.
 at8807602.
-chetnadev.
 
 **Top 50% contributors:**
+chetnadev.
 dadhich-ashish.
 RahmanM.
 pradeepthipani.
 Vishnu-rvk.
 isaac-vicentini.
-kylburns89.
 priyasnexpert.
 S-w-a-p-n-i-l-22.
 soham-shee.
@@ -524,6 +524,7 @@ DanielMadsenDK.
 goranlundqvist.
 harisnad.
 ivan-betev.
+kylburns89.
 mandeepkaran.
 riya-vermaa.
 Saileshlanka.
@@ -550,7 +551,6 @@ Sagar-agarwal.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
-kylburns89.
 
 **Top 50% contributors:**
 markroethof.
