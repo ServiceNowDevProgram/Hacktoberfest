@@ -161,13 +161,13 @@ ashoo-jindal.
 bkb68.
 Mexiprince.
 shraddhakadam301298.
-spnegi.
 sravankadudhuri.
 koratalas.
 himanshu7895.
+maheshkhatal27.
 
 **Top 25% contributors:**
-maheshkhatal27.
+spnegi.
 bird-03.
 eriemer1.
 Praiseto.
@@ -438,7 +438,6 @@ Jaspalsinghchot.
 mskoddow.
 gowdah.
 lakshmikanthgupta.
-spnegi.
 sravankadudhuri.
 danr2c2.
 Litwilly.
@@ -453,6 +452,7 @@ shridk.
 himanshu7895.
 davidkwhuang.
 maheshkhatal27.
+spnegi.
 zahidask.
 
 **Top 25% contributors:**
