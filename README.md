@@ -207,20 +207,20 @@ mo-dahir.
 SNProductOwner.
 dcord1x.
 Dhruvyadav2000.
-QI-XING.
 soham-shee.
 riya-misra-1.
 Saileshlanka.
 Paulsylo25.
+chelming.
 
 **Other contributors:**
-chelming.
 bhavyajain511.
 Shreedevisnow.
 Beeram12.
 Charanjet.
 jahnaviT2003.
 KedarisettiSreeVamsi.
+QI-XING.
 tejasathalye.
 umangkedia92.
 anurags10.
@@ -500,7 +500,6 @@ domuserk.
 HarneetSital.
 hoederath.
 jacebenson.
-QI-XING.
 ReginaldFawcett.
 sheikhafsarzap.
 thorn91.
@@ -533,6 +532,7 @@ ivan-betev.
 kylburns89.
 mandeepkaran.
 priyasnexpert.
+QI-XING.
 riya-vermaa.
 Saileshlanka.
 allenandreas.
