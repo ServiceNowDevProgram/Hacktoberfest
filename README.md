@@ -158,10 +158,10 @@ aswamy93.
 **Top 10% contributors:**
 selvarun-umass.
 ashoo-jindal.
-shraddhakadam301298.
 himanshu7895.
 bkb68.
 Mexiprince.
+shraddhakadam301298.
 sravankadudhuri.
 koratalas.
 Praiseto.
@@ -200,8 +200,8 @@ pradeepthipani.
 Vishnu-rvk.
 isaac-vicentini.
 S-w-a-p-n-i-l-22.
-naveenraw25.
 wiz0floyd.
+naveenraw25.
 mo-dahir.
 sndevs-slacker-issue-reporter[bot].
 QI-XING.
@@ -426,7 +426,6 @@ salmaniqbal92.
 csharpie.
 mohitchauhan-dev.
 mr-swann.
-shraddhakadam301298.
 anveshmupparaju.
 himanshu7895.
 bkb68.
@@ -436,6 +435,7 @@ TRIGGEREDcoder.
 Danmax.
 hafsa-asif.
 ovarn.
+shraddhakadam301298.
 devinvalencia.
 Jaspalsinghchot.
 mskoddow.
