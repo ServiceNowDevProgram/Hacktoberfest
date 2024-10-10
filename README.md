@@ -169,11 +169,11 @@ bird-03.
 
 **Top 25% contributors:**
 eriemer1.
-sandeepd26.
 himanshu7895.
 Atul-LNG.
 templetontsai.
 ronaldkarim.
+sandeepd26.
 ariyadmir.
 shridk.
 unbirthdays.
@@ -447,7 +447,6 @@ debendu-das.
 Litwilly.
 MRSinghRajat.
 oasif.
-sandeepd26.
 jiteshmalik.
 jonahpiascik.
 soerenmaucher.
@@ -458,9 +457,10 @@ davidkwhuang.
 maheshkhatal27.
 zahidask.
 DynamiteC.
+phr-nk.
 
 **Top 25% contributors:**
-phr-nk.
+sandeepd26.
 shakeel-sheikh.
 vjtknn.
 Yokesh0811.
