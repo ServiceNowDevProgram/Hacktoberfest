@@ -160,11 +160,11 @@ selvarun-umass.
 ashoo-jindal.
 bkb68.
 shraddhakadam301298.
+Praiseto.
 sravankadudhuri.
 Mexiprince.
 koratalas.
 himanshu7895.
-Praiseto.
 maheshkhatal27.
 
 **Top 25% contributors:**
@@ -437,6 +437,7 @@ shraddhakadam301298.
 devinvalencia.
 Jaspalsinghchot.
 mskoddow.
+Praiseto.
 gowdah.
 lakshmikanthgupta.
 Mexiprince.
@@ -454,7 +455,6 @@ avssrikanth.
 koratalas.
 shridk.
 himanshu7895.
-Praiseto.
 davidkwhuang.
 maheshkhatal27.
 zahidask.
