@@ -203,20 +203,20 @@ S-w-a-p-n-i-l-22.
 VaishnaviLathkar98.
 naveenraw25.
 Rampriya-S.
+wiz0floyd.
 mo-dahir.
 sndevs-slacker-issue-reporter[bot].
 QI-XING.
 SNProductOwner.
 dcord1x.
 Dhruvyadav2000.
-soham-shee.
 
 **Other contributors:**
+soham-shee.
 watrick.
 riya-misra-1.
 Saileshlanka.
 Paulsylo25.
-wiz0floyd.
 chelming.
 bhavyajain511.
 Shreedevisnow.
@@ -360,8 +360,8 @@ earlduque.
 Lacah.
 SapphicFire.
 niamccash.
-Rampriya-S.
 wiz0floyd.
+Rampriya-S.
 johndahl-now.
 snamjosh.
 kmohit2809.
