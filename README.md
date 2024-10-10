@@ -192,7 +192,6 @@ kylburns89.
 **Top 50% contributors:**
 mohitchauhan-dev.
 priyasnexpert.
-VaishnaviLathkar98.
 at8807602.
 dadhich-ashish.
 RahmanM.
@@ -200,6 +199,7 @@ pradeepthipani.
 Vishnu-rvk.
 isaac-vicentini.
 S-w-a-p-n-i-l-22.
+VaishnaviLathkar98.
 wiz0floyd.
 naveenraw25.
 sndevs-slacker-issue-reporter[bot].
@@ -481,7 +481,6 @@ spnegi.
 templetontsai.
 b1naryst0rm.
 sdgrube2.
-VaishnaviLathkar98.
 AdilBasha1SAP.
 bradtiltonnow.
 Vish-X07.
@@ -514,6 +513,7 @@ Himanshu-skb-oo7.
 mmaraj1.
 namrataghorpade.
 sanjivmeher.
+VaishnaviLathkar98.
 aman2519.
 manrick.
 vermaamit1664.
