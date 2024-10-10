@@ -158,12 +158,12 @@ aswamy93.
 **Top 10% contributors:**
 selvarun-umass.
 ashoo-jindal.
+Praiseto.
 bkb68.
+Mexiprince.
 koratalas.
 shraddhakadam301298.
-Praiseto.
 sravankadudhuri.
-Mexiprince.
 maheshkhatal27.
 bird-03.
 
@@ -427,7 +427,9 @@ csharpie.
 mohitchauhan-dev.
 mr-swann.
 anveshmupparaju.
+Praiseto.
 bkb68.
+Mexiprince.
 SrijanPatwa.
 TRIGGEREDcoder.
 Danmax.
@@ -438,10 +440,8 @@ shraddhakadam301298.
 devinvalencia.
 Jaspalsinghchot.
 mskoddow.
-Praiseto.
 gowdah.
 lakshmikanthgupta.
-Mexiprince.
 sravankadudhuri.
 danr2c2.
 debendu-das.
