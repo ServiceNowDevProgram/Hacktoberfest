@@ -212,6 +212,7 @@ QI-XING.
 soham-shee.
 
 **Other contributors:**
+watrick.
 riya-misra-1.
 Saileshlanka.
 Paulsylo25.
@@ -226,7 +227,6 @@ KedarisettiSreeVamsi.
 MGOPW.
 tejasathalye.
 umangkedia92.
-watrick.
 anurags10.
 ChndrshP.
 devalcodes.
@@ -593,6 +593,7 @@ MiroslawBuszek.
 pandeysumit-now.
 patrickpaterlini.
 soham-shee.
+watrick.
 LucasRocha2308.
 Mahesh-Krishnan1.
 maialithar.
@@ -628,7 +629,6 @@ thameemskings.
 Thrizvi.
 umangkedia92.
 vk-cloud.
-watrick.
 4bode.
 abhay625.
 ananthsridhar.
