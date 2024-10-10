@@ -182,20 +182,20 @@ mandeepkaran.
 VaishnaviLathkar98.
 anveshmupparaju.
 chetnadev.
-RahmanM.
 SrijanPatwa.
 vermaamit1664.
 abhrajyotikanrar.
 MartinStoyanoff.
 captainbraddles.
+DanielMadsenDK.
 
 **Top 50% contributors:**
-DanielMadsenDK.
 kylburns89.
 mohitchauhan-dev.
 priyasnexpert.
 at8807602.
 dadhich-ashish.
+RahmanM.
 pradeepthipani.
 Vishnu-rvk.
 isaac-vicentini.
@@ -375,11 +375,11 @@ ishaanshoor.
 MartinStoyanoff.
 bird-03.
 DavidArthurCole.
-RahmanM.
 R3J3NT.
 amigujarathi.
 ajcooper72.
 chelming.
+RahmanM.
 hrobarikt.
 kmxo.
 sumanthdosapati.
