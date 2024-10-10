@@ -178,7 +178,6 @@ ariyadmir.
 shridk.
 unbirthdays.
 mandeepkaran.
-spnegi.
 anveshmupparaju.
 chetnadev.
 SrijanPatwa.
@@ -188,10 +187,11 @@ MartinStoyanoff.
 captainbraddles.
 DanielMadsenDK.
 kylburns89.
+mohitchauhan-dev.
 
 **Top 50% contributors:**
-mohitchauhan-dev.
 priyasnexpert.
+spnegi.
 at8807602.
 dadhich-ashish.
 RahmanM.
@@ -506,7 +506,6 @@ jacebenson.
 mandeepkaran.
 ReginaldFawcett.
 sheikhafsarzap.
-spnegi.
 thorn91.
 ashu759.
 Himanshu-skb-oo7.
@@ -539,6 +538,7 @@ kylburns89.
 priyasnexpert.
 riya-vermaa.
 Saileshlanka.
+spnegi.
 allenandreas.
 anubhav-ritolia.
 apple9000.
