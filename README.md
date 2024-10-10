@@ -210,9 +210,9 @@ dcord1x.
 Dhruvyadav2000.
 soham-shee.
 debendu-das.
+riya-misra-1.
 
 **Other contributors:**
-riya-misra-1.
 Saileshlanka.
 Paulsylo25.
 Rampriya-S.
@@ -298,6 +298,7 @@ girishnagaraj09.
 GittyHarsha.
 GP-UOB.
 herambchaudhari4121.
+JayShukla8.
 jekinz-tagline.
 john9006.
 Karthi6559.
@@ -405,9 +406,9 @@ MrChrisE.
 vandna07.
 at8807602.
 abhrajyotikanrar.
+PranavBhagat18.
 
 **Top 10% contributors:**
-PranavBhagat18.
 Irston.
 404paige.
 litwi1rm.
@@ -456,9 +457,9 @@ shridk.
 Praiseto.
 davidkwhuang.
 maheshkhatal27.
+zahidask.
 
 **Top 25% contributors:**
-zahidask.
 DynamiteC.
 phr-nk.
 shakeel-sheikh.
@@ -657,10 +658,10 @@ igrzhukovich.
 j4rodm.
 jamesfoot.
 JBscriptsNow.
-JingAlanzhixin.
-jordanrogus.
 
 **Other contributors:**
+JingAlanzhixin.
+jordanrogus.
 Juusoee.
 KartikeSingh.
 kaushalbharade.
@@ -1028,6 +1029,7 @@ jambo969.
 jamiestroud.
 jayeshyadav252.
 jaypalmr.
+JayShukla8.
 jc73uk.
 jdsingh206.
 jee10der.
