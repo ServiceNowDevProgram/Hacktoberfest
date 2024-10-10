@@ -202,8 +202,8 @@ isaac-vicentini.
 S-w-a-p-n-i-l-22.
 wiz0floyd.
 naveenraw25.
-mo-dahir.
 sndevs-slacker-issue-reporter[bot].
+mo-dahir.
 QI-XING.
 SNProductOwner.
 dcord1x.
@@ -571,12 +571,12 @@ bhavyajain511.
 naveenraw25.
 NBaker137.
 revantKulkarni.
+sndevs-slacker-issue-reporter[bot].
 trade12.
 ttoter.
 AlphaEagle.
 JWITSM.
 mo-dahir.
-sndevs-slacker-issue-reporter[bot].
 dcord1x.
 djunaid.
 Haile-08.
