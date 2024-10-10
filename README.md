@@ -158,9 +158,9 @@ aswamy93.
 **Top 10% contributors:**
 selvarun-umass.
 ashoo-jindal.
+Praiseto.
 bkb68.
 shraddhakadam301298.
-Praiseto.
 sravankadudhuri.
 Mexiprince.
 koratalas.
@@ -427,6 +427,7 @@ csharpie.
 mohitchauhan-dev.
 mr-swann.
 anveshmupparaju.
+Praiseto.
 bkb68.
 SrijanPatwa.
 TRIGGEREDcoder.
@@ -437,7 +438,6 @@ shraddhakadam301298.
 devinvalencia.
 Jaspalsinghchot.
 mskoddow.
-Praiseto.
 gowdah.
 lakshmikanthgupta.
 Mexiprince.
