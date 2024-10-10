@@ -152,19 +152,19 @@ kmxo.
 snamjosh.
 ankitshu.
 ynr-ram.
-aswamy93.
 404paige.
+aswamy93.
 
 **Top 10% contributors:**
 selvarun-umass.
 ashoo-jindal.
 Praiseto.
 bkb68.
-Mexiprince.
 koratalas.
 shraddhakadam301298.
 sravankadudhuri.
 eriemer1.
+Mexiprince.
 maheshkhatal27.
 
 **Top 25% contributors:**
@@ -400,11 +400,11 @@ ronaldkarim.
 ayleeandersen.
 Abhishekchowdarapu.
 alikuttyka.
+404paige.
 aswamy93.
 BadalHub.
 MrChrisE.
 vandna07.
-404paige.
 at8807602.
 abhrajyotikanrar.
 
@@ -429,7 +429,6 @@ mr-swann.
 anveshmupparaju.
 Praiseto.
 bkb68.
-Mexiprince.
 SrijanPatwa.
 TRIGGEREDcoder.
 Danmax.
@@ -442,6 +441,7 @@ Jaspalsinghchot.
 mskoddow.
 gowdah.
 lakshmikanthgupta.
+Mexiprince.
 sravankadudhuri.
 danr2c2.
 debendu-das.
