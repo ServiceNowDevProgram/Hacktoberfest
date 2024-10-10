@@ -192,6 +192,7 @@ mohitchauhan-dev.
 **Top 50% contributors:**
 priyasnexpert.
 spnegi.
+wiz0floyd.
 at8807602.
 dadhich-ashish.
 RahmanM.
@@ -200,7 +201,6 @@ Vishnu-rvk.
 isaac-vicentini.
 S-w-a-p-n-i-l-22.
 VaishnaviLathkar98.
-wiz0floyd.
 naveenraw25.
 sndevs-slacker-issue-reporter[bot].
 mo-dahir.
