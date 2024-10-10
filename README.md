@@ -174,10 +174,10 @@ Atul-LNG.
 templetontsai.
 ronaldkarim.
 ariyadmir.
+sandeepd26.
 shridk.
 unbirthdays.
 mandeepkaran.
-sandeepd26.
 spnegi.
 anveshmupparaju.
 RahmanM.
@@ -212,7 +212,6 @@ Dhruvyadav2000.
 soham-shee.
 
 **Other contributors:**
-watrick.
 riya-misra-1.
 Saileshlanka.
 Paulsylo25.
@@ -227,6 +226,7 @@ KedarisettiSreeVamsi.
 MGOPW.
 tejasathalye.
 umangkedia92.
+watrick.
 anurags10.
 ChndrshP.
 devalcodes.
@@ -464,6 +464,7 @@ MarcMouries.
 sn-ajb.
 DavidMarcial.
 Paulsylo25.
+sandeepd26.
 techYESlogyXplorer.
 alyaanbasha.
 gregorwmail.
@@ -471,7 +472,6 @@ harishankert.
 himanshu7895.
 mady22070.
 Praiseto.
-sandeepd26.
 Atul-LNG.
 mjonssonme.
 nthumma.
@@ -593,7 +593,6 @@ MiroslawBuszek.
 pandeysumit-now.
 patrickpaterlini.
 soham-shee.
-watrick.
 LucasRocha2308.
 Mahesh-Krishnan1.
 maialithar.
@@ -629,6 +628,7 @@ thameemskings.
 Thrizvi.
 umangkedia92.
 vk-cloud.
+watrick.
 4bode.
 abhay625.
 ananthsridhar.
