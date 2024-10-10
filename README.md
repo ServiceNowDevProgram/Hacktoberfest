@@ -208,13 +208,13 @@ SNProductOwner.
 dcord1x.
 Dhruvyadav2000.
 QI-XING.
+sndevs-slacker-issue-reporter[bot].
 soham-shee.
-riya-misra-1.
 
 **Other contributors:**
+riya-misra-1.
 Saileshlanka.
 Paulsylo25.
-sndevs-slacker-issue-reporter[bot].
 chelming.
 bhavyajain511.
 Shreedevisnow.
@@ -591,6 +591,7 @@ miracc.
 MiroslawBuszek.
 pandeysumit-now.
 patrickpaterlini.
+sndevs-slacker-issue-reporter[bot].
 soham-shee.
 LucasRocha2308.
 Mahesh-Krishnan1.
@@ -602,7 +603,6 @@ TheTreyKyle.
 thisnameissoclever.
 ujjwalprem.
 mockspeed.
-sndevs-slacker-issue-reporter[bot].
 rohantjoshi.
 1shabby.
 abhilash264.
