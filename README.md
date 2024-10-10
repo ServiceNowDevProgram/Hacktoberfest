@@ -205,10 +205,10 @@ naveenraw25.
 Rampriya-S.
 mo-dahir.
 sndevs-slacker-issue-reporter[bot].
+QI-XING.
 SNProductOwner.
 dcord1x.
 Dhruvyadav2000.
-QI-XING.
 soham-shee.
 
 **Other contributors:**
@@ -490,6 +490,7 @@ arhaan2019.
 ariyadmir.
 designitsecure.
 llipovsky.
+QI-XING.
 seviceN.
 tejudhoran95.
 unbirthdays.
@@ -501,7 +502,6 @@ HarneetSital.
 hoederath.
 jacebenson.
 mandeepkaran.
-QI-XING.
 ReginaldFawcett.
 sheikhafsarzap.
 spnegi.
