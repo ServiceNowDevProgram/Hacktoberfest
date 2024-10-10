@@ -181,20 +181,20 @@ unbirthdays.
 mandeepkaran.
 VaishnaviLathkar98.
 anveshmupparaju.
+chetnadev.
 RahmanM.
 SrijanPatwa.
 vermaamit1664.
 abhrajyotikanrar.
 MartinStoyanoff.
 captainbraddles.
-DanielMadsenDK.
 
 **Top 50% contributors:**
+DanielMadsenDK.
 kylburns89.
 mohitchauhan-dev.
 priyasnexpert.
 at8807602.
-chetnadev.
 dadhich-ashish.
 pradeepthipani.
 Vishnu-rvk.
@@ -387,9 +387,9 @@ smartcarleen.
 urspvs.
 ankitshu.
 ashoo-jindal.
+chetnadev.
 Radhe-Manasa.
 aykmrgit.
-chetnadev.
 stevezero.
 sychi77.
 azeezgaa.
