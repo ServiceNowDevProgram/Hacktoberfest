@@ -199,11 +199,11 @@ Jaspalsinghchot.
 pradeepthipani.
 Vishnu-rvk.
 isaac-vicentini.
+sndevs-slacker-issue-reporter[bot].
 S-w-a-p-n-i-l-22.
 VaishnaviLathkar98.
 debendu-das.
 naveenraw25.
-sndevs-slacker-issue-reporter[bot].
 mo-dahir.
 QI-XING.
 SNProductOwner.
@@ -564,10 +564,11 @@ Iamsant.
 isaac-vicentini.
 jeremyrubio27.
 Sagar-agarwal.
+sndevs-slacker-issue-reporter[bot].
 wiresgit.
-yourepicservices.
 
 **Top 50% contributors:**
+yourepicservices.
 ChecksumFailed.
 markroethof.
 S-w-a-p-n-i-l-22.
@@ -577,7 +578,6 @@ bhavyajain511.
 naveenraw25.
 NBaker137.
 revantKulkarni.
-sndevs-slacker-issue-reporter[bot].
 trade12.
 ttoter.
 AlphaEagle.
