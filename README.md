@@ -224,6 +224,7 @@ Charanjet.
 katsiarynasoshyna.
 KedarisettiSreeVamsi.
 MGOPW.
+stefanintech.
 tejasathalye.
 umangkedia92.
 anurags10.
@@ -241,7 +242,6 @@ sachinggsingh.
 Saiprethaa.
 saitarun2499.
 Sravanik12.
-stefanintech.
 TheRashRash.
 ultralegendary.
 YadlaMani.
@@ -628,6 +628,7 @@ katsiarynasoshyna.
 KedarisettiSreeVamsi.
 Mexiprince.
 RagaChitraMankala.
+stefanintech.
 stwinkle.
 tejasathalye.
 thameemskings.
@@ -661,9 +662,9 @@ igrzhukovich.
 j4rodm.
 jamesfoot.
 JBscriptsNow.
-JingAlanzhixin.
 
 **Other contributors:**
+JingAlanzhixin.
 jordanrogus.
 Juusoee.
 KartikeSingh.
@@ -698,7 +699,6 @@ sanju009.
 Shambu-K.
 speedy18.
 Sravanik12.
-stefanintech.
 Subhraneel77.
 TheRashRash.
 thomasvogh.
