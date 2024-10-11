@@ -188,9 +188,9 @@ wiz0floyd.
 captainbraddles.
 DanielMadsenDK.
 kylburns89.
+mohitchauhan-dev.
 
 **Top 50% contributors:**
-mohitchauhan-dev.
 priyasnexpert.
 spnegi.
 at8807602.
@@ -211,9 +211,9 @@ jahnaviT2003.
 soham-shee.
 debendu-das.
 riya-misra-1.
+Saileshlanka.
 
 **Other contributors:**
-Saileshlanka.
 Paulsylo25.
 Rampriya-S.
 chelming.
@@ -348,6 +348,7 @@ sumanth1710.
 sumedhx.
 swaroop-surampalli.
 techLrd.
+TechnoDeba.
 TracyCurry96.
 ujjwalgupta2021.
 vijaytechy.
@@ -1298,6 +1299,7 @@ swaroop-surampalli.
 TamByrd.
 tapishsh.
 techLrd.
+TechnoDeba.
 techspark77.
 tedante.
 telbir.
