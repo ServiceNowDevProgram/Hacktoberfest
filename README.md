@@ -286,6 +286,7 @@ ahmadwhet.
 AKASHDHARDUBEY.
 Akshay-sri0001.
 alkaChaudhary73.
+amoore-coder.
 Anusrita-Karmakar.
 aravindbarla22.
 artemis15.
@@ -567,9 +568,9 @@ jeremyrubio27.
 Sagar-agarwal.
 sndevs-slacker-issue-reporter[bot].
 wiresgit.
+yourepicservices.
 
 **Top 50% contributors:**
-yourepicservices.
 ChecksumFailed.
 markroethof.
 S-w-a-p-n-i-l-22.
@@ -669,9 +670,9 @@ igrzhukovich.
 j4rodm.
 jamesfoot.
 JBscriptsNow.
+JingAlanzhixin.
 
 **Other contributors:**
-JingAlanzhixin.
 jordanrogus.
 Juusoee.
 KartikeSingh.
@@ -860,6 +861,7 @@ AlphieKiu.
 aman-kumar-004.
 amdhavalikar.
 Amitanand0123.
+amoore-coder.
 amrita06-max.
 Anantharaman91.
 andreneris.
