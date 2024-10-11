@@ -203,6 +203,7 @@ VaishnaviLathkar98.
 debendu-das.
 naveenraw25.
 sndevs-slacker-issue-reporter[bot].
+Jaspalsinghchot.
 mo-dahir.
 QI-XING.
 SNProductOwner.
@@ -212,11 +213,10 @@ jahnaviT2003.
 katsiarynasoshyna.
 soham-shee.
 watrick.
-riya-misra-1.
 
 **Other contributors:**
+riya-misra-1.
 Saileshlanka.
-Jaspalsinghchot.
 Paulsylo25.
 Rampriya-S.
 chelming.
@@ -411,9 +411,10 @@ BadalHub.
 MrChrisE.
 vandna07.
 at8807602.
-abhrajyotikanrar.
+Jaspalsinghchot.
 
 **Top 10% contributors:**
+abhrajyotikanrar.
 PranavBhagat18.
 Irston.
 litwi1rm.
@@ -421,7 +422,6 @@ mak1A4.
 selvarun-umass.
 shivamTodwal.
 iar42.
-Jaspalsinghchot.
 mlemartien.
 riya-misra-1.
 hentonjd.
