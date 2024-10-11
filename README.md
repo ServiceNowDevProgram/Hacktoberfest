@@ -227,6 +227,7 @@ MGOPW.
 stefanintech.
 tejasathalye.
 umangkedia92.
+watrick.
 anurags10.
 ashu759.
 ChndrshP.
@@ -276,7 +277,6 @@ Shriramjoshi86.
 sohailkhilji.
 SujathaSuj.
 TanushreeBorase.
-watrick.
 A-Vishnupriya.
 acashkr.
 ahamadunnisa-md.
@@ -635,6 +635,7 @@ thameemskings.
 Thrizvi.
 umangkedia92.
 vk-cloud.
+watrick.
 4bode.
 abhay625.
 ananthsridhar.
@@ -661,9 +662,9 @@ iamvpbhaskar.
 igrzhukovich.
 j4rodm.
 jamesfoot.
-JBscriptsNow.
 
 **Other contributors:**
+JBscriptsNow.
 JingAlanzhixin.
 jordanrogus.
 Juusoee.
@@ -820,7 +821,6 @@ VarAti.
 varunasuresh92.
 vishalbirajdar0712.
 vivekverma18.
-watrick.
 Zephyre195.
 0x3developer.
 1-23-smy.
