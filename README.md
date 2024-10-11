@@ -166,9 +166,9 @@ eriemer1.
 shraddhakadam301298.
 bird-03.
 ariyadmir.
-himanshu7895.
 
 **Top 25% contributors:**
+himanshu7895.
 Atul-LNG.
 maheshkhatal27.
 templetontsai.
@@ -249,7 +249,6 @@ TheRashRash.
 ultralegendary.
 YadlaMani.
 aykmrgit.
-Jaspalsinghchot.
 kalyan120694.
 kmohit2809.
 abhishekchavan-git.
@@ -435,7 +434,6 @@ csharpie.
 mohitchauhan-dev.
 mr-swann.
 anveshmupparaju.
-Jaspalsinghchot.
 Praiseto.
 bkb68.
 SrijanPatwa.
@@ -446,6 +444,7 @@ hafsa-asif.
 koratalas.
 ovarn.
 devinvalencia.
+Jaspalsinghchot.
 mskoddow.
 gowdah.
 lakshmikanthgupta.
