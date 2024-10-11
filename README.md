@@ -348,6 +348,7 @@ shashwatmishraog.
 simt0m.
 singhaditya73.
 SKYsnaX.
+SMS2612.
 Srikanth1306.
 steveuncg.
 stwinkle.
@@ -468,9 +469,9 @@ DynamiteC.
 phr-nk.
 sandeepd26.
 shakeel-sheikh.
+vjtknn.
 
 **Top 25% contributors:**
-vjtknn.
 Yokesh0811.
 MarcMouries.
 sn-ajb.
@@ -1286,6 +1287,7 @@ sixstatdad.
 sjmeissner.
 SKYsnaX.
 smoothwood.
+SMS2612.
 snehauj.
 SNOWMac75.
 somjyotisinha.
