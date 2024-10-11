@@ -216,7 +216,6 @@ riya-misra-1.
 Saileshlanka.
 
 **Other contributors:**
-Jaspalsinghchot.
 Paulsylo25.
 Rampriya-S.
 chelming.
@@ -250,6 +249,7 @@ TheRashRash.
 ultralegendary.
 YadlaMani.
 aykmrgit.
+Jaspalsinghchot.
 kalyan120694.
 kmohit2809.
 abhishekchavan-git.
@@ -424,7 +424,6 @@ mak1A4.
 selvarun-umass.
 shivamTodwal.
 iar42.
-Jaspalsinghchot.
 mlemartien.
 riya-misra-1.
 hentonjd.
@@ -436,6 +435,7 @@ csharpie.
 mohitchauhan-dev.
 mr-swann.
 anveshmupparaju.
+Jaspalsinghchot.
 Praiseto.
 bkb68.
 SrijanPatwa.
