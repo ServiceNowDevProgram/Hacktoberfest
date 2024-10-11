@@ -212,9 +212,9 @@ jahnaviT2003.
 katsiarynasoshyna.
 soham-shee.
 watrick.
+riya-misra-1.
 
 **Other contributors:**
-riya-misra-1.
 Saileshlanka.
 Paulsylo25.
 Rampriya-S.
@@ -335,6 +335,7 @@ Ruchi-here.
 saarimshaikh.
 sagarbhadke08.
 SaiSankar1309.
+samusahatpure.
 sanuj21.
 seemaPatl.
 sharsha315.
@@ -1238,6 +1239,7 @@ Sakshi29G.
 salem769.
 sam16vis.
 samgoodecc.
+samusahatpure.
 sanathan-git.
 sankar-coder.
 SanketJ29.
