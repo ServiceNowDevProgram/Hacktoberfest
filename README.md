@@ -178,7 +178,6 @@ shridk.
 unbirthdays.
 mandeepkaran.
 anveshmupparaju.
-Mexiprince.
 chetnadev.
 SrijanPatwa.
 vermaamit1664.
@@ -188,11 +187,12 @@ wiz0floyd.
 captainbraddles.
 DanielMadsenDK.
 kylburns89.
+mohitchauhan-dev.
 
 **Top 50% contributors:**
-mohitchauhan-dev.
 priyasnexpert.
 spnegi.
+Mexiprince.
 at8807602.
 dadhich-ashish.
 RahmanM.
@@ -393,8 +393,8 @@ aykmrgit.
 stevezero.
 sychi77.
 azeezgaa.
-deepak-64742.
 404paige.
+deepak-64742.
 rafzk.
 anillande90.
 ronaldkarim.
@@ -504,7 +504,6 @@ HarneetSital.
 hoederath.
 jacebenson.
 mandeepkaran.
-Mexiprince.
 ReginaldFawcett.
 sheikhafsarzap.
 thorn91.
@@ -535,6 +534,7 @@ goranlundqvist.
 harisnad.
 ivan-betev.
 kylburns89.
+Mexiprince.
 priyasnexpert.
 riya-vermaa.
 Saileshlanka.
