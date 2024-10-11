@@ -247,6 +247,7 @@ TheRashRash.
 ultralegendary.
 YadlaMani.
 aykmrgit.
+Jaspalsinghchot.
 kalyan120694.
 kmohit2809.
 abhishekchavan-git.
@@ -431,6 +432,7 @@ csharpie.
 mohitchauhan-dev.
 mr-swann.
 anveshmupparaju.
+Jaspalsinghchot.
 Praiseto.
 bkb68.
 SrijanPatwa.
@@ -441,7 +443,6 @@ hafsa-asif.
 koratalas.
 ovarn.
 devinvalencia.
-Jaspalsinghchot.
 mskoddow.
 gowdah.
 lakshmikanthgupta.
