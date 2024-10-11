@@ -207,12 +207,12 @@ naveenraw25.
 mo-dahir.
 QI-XING.
 SNProductOwner.
+watrick.
 dcord1x.
 Dhruvyadav2000.
 jahnaviT2003.
 katsiarynasoshyna.
 soham-shee.
-watrick.
 riya-misra-1.
 
 **Other contributors:**
@@ -591,6 +591,7 @@ djunaid.
 Haile-08.
 SNProductOwner.
 sonamtiwari8.
+watrick.
 Adiana3308.
 akhoshnood.
 allam1234.
@@ -606,7 +607,6 @@ MiroslawBuszek.
 pandeysumit-now.
 patrickpaterlini.
 soham-shee.
-watrick.
 LucasRocha2308.
 Mahesh-Krishnan1.
 maialithar.
