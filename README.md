@@ -189,9 +189,9 @@ wiz0floyd.
 captainbraddles.
 DanielMadsenDK.
 kylburns89.
+mohitchauhan-dev.
 
 **Top 50% contributors:**
-mohitchauhan-dev.
 priyasnexpert.
 at8807602.
 dadhich-ashish.
@@ -213,9 +213,9 @@ jahnaviT2003.
 katsiarynasoshyna.
 soham-shee.
 watrick.
+riya-misra-1.
 
 **Other contributors:**
-riya-misra-1.
 Saileshlanka.
 Paulsylo25.
 Rampriya-S.
@@ -341,6 +341,7 @@ sanuj21.
 seemaPatl.
 sharsha315.
 shashwatmishraog.
+shreyawani98.
 simt0m.
 singhaditya73.
 SKYsnaX.
@@ -563,9 +564,9 @@ isaac-vicentini.
 jeremyrubio27.
 Sagar-agarwal.
 wiresgit.
+yourepicservices.
 
 **Top 50% contributors:**
-yourepicservices.
 ChecksumFailed.
 markroethof.
 S-w-a-p-n-i-l-22.
@@ -664,9 +665,9 @@ iamvpbhaskar.
 igrzhukovich.
 j4rodm.
 jamesfoot.
+JBscriptsNow.
 
 **Other contributors:**
-JBscriptsNow.
 JingAlanzhixin.
 jordanrogus.
 Juusoee.
@@ -1265,6 +1266,7 @@ sharsha315.
 shashwatmishraog.
 sherief-io.
 SherylThompson.
+shreyawani98.
 shreyverma03.
 shubham-snc.
 Shubham2227.
