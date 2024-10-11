@@ -195,7 +195,6 @@ mohitchauhan-dev.
 priyasnexpert.
 at8807602.
 dadhich-ashish.
-Jaspalsinghchot.
 pradeepthipani.
 Vishnu-rvk.
 isaac-vicentini.
@@ -204,6 +203,7 @@ S-w-a-p-n-i-l-22.
 VaishnaviLathkar98.
 debendu-das.
 naveenraw25.
+Jaspalsinghchot.
 mo-dahir.
 QI-XING.
 SNProductOwner.
@@ -405,7 +405,6 @@ azeezgaa.
 deepak-64742.
 rafzk.
 anillande90.
-Jaspalsinghchot.
 ronaldkarim.
 ayleeandersen.
 Abhishekchowdarapu.
@@ -415,6 +414,7 @@ BadalHub.
 MrChrisE.
 vandna07.
 at8807602.
+Jaspalsinghchot.
 
 **Top 10% contributors:**
 abhrajyotikanrar.
