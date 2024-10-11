@@ -203,7 +203,6 @@ S-w-a-p-n-i-l-22.
 VaishnaviLathkar98.
 debendu-das.
 naveenraw25.
-Jaspalsinghchot.
 mo-dahir.
 QI-XING.
 SNProductOwner.
@@ -214,9 +213,10 @@ katsiarynasoshyna.
 soham-shee.
 watrick.
 riya-misra-1.
+Saileshlanka.
 
 **Other contributors:**
-Saileshlanka.
+Jaspalsinghchot.
 Paulsylo25.
 Rampriya-S.
 chelming.
@@ -414,10 +414,9 @@ BadalHub.
 MrChrisE.
 vandna07.
 at8807602.
-Jaspalsinghchot.
+abhrajyotikanrar.
 
 **Top 10% contributors:**
-abhrajyotikanrar.
 PranavBhagat18.
 Irston.
 litwi1rm.
@@ -425,6 +424,7 @@ mak1A4.
 selvarun-umass.
 shivamTodwal.
 iar42.
+Jaspalsinghchot.
 mlemartien.
 riya-misra-1.
 hentonjd.
