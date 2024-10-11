@@ -342,6 +342,7 @@ simt0m.
 singhaditya73.
 SKYsnaX.
 Srikanth1306.
+stefanintech.
 steveuncg.
 stwinkle.
 sumanth1710.
@@ -660,9 +661,9 @@ igrzhukovich.
 j4rodm.
 jamesfoot.
 JBscriptsNow.
+JingAlanzhixin.
 
 **Other contributors:**
-JingAlanzhixin.
 jordanrogus.
 Juusoee.
 KartikeSingh.
@@ -1281,6 +1282,7 @@ Souradeephazra123.
 Srikanth1306.
 srirampusuluri1.
 Srutip04.
+stefanintech.
 Stevay3.
 SteveMunsell.
 steveuncg.
