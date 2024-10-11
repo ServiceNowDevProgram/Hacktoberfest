@@ -151,8 +151,8 @@ niamccash.
 kmxo.
 snamjosh.
 ankitshu.
-ynr-ram.
 404paige.
+ynr-ram.
 aswamy93.
 
 **Top 10% contributors:**
@@ -200,7 +200,6 @@ Vishnu-rvk.
 isaac-vicentini.
 S-w-a-p-n-i-l-22.
 VaishnaviLathkar98.
-Mexiprince.
 naveenraw25.
 sndevs-slacker-issue-reporter[bot].
 mo-dahir.
@@ -211,6 +210,7 @@ Dhruvyadav2000.
 jahnaviT2003.
 soham-shee.
 debendu-das.
+Mexiprince.
 
 **Other contributors:**
 riya-misra-1.
@@ -563,7 +563,6 @@ wiresgit.
 yourepicservices.
 ChecksumFailed.
 markroethof.
-Mexiprince.
 S-w-a-p-n-i-l-22.
 anguspalmer.
 Badal2k23.
@@ -591,6 +590,7 @@ Dhruvyadav2000.
 jahnaviT2003.
 jesalynrose.
 Ladirinia.
+Mexiprince.
 miracc.
 MiroslawBuszek.
 pandeysumit-now.
