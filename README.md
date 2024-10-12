@@ -215,9 +215,9 @@ Mexiprince.
 riya-misra-1.
 Saileshlanka.
 Paulsylo25.
+Rampriya-S.
 
 **Other contributors:**
-Rampriya-S.
 chelming.
 bhavyajain511.
 Shreedevisnow.
@@ -312,6 +312,7 @@ Karthi6559.
 KiwiPelago.
 kriwani.
 kvdev29.
+lakshmikanthgupta.
 lokeshwar777.
 loordjay.
 mahamed-rashid.
@@ -450,9 +451,9 @@ koratalas.
 ovarn.
 devinvalencia.
 Jaspalsinghchot.
+lakshmikanthgupta.
 mskoddow.
 gowdah.
-lakshmikanthgupta.
 sravankadudhuri.
 danr2c2.
 Litwilly.
