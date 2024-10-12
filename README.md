@@ -199,6 +199,7 @@ pradeepthipani.
 Vishnu-rvk.
 isaac-vicentini.
 sndevs-slacker-issue-reporter[bot].
+YTejaswini18.
 S-w-a-p-n-i-l-22.
 VaishnaviLathkar98.
 debendu-das.
@@ -207,7 +208,6 @@ watrick.
 mo-dahir.
 QI-XING.
 SNProductOwner.
-YTejaswini18.
 dcord1x.
 Dhruvyadav2000.
 jahnaviT2003.
@@ -574,6 +574,7 @@ wiresgit.
 yourepicservices.
 
 **Top 50% contributors:**
+YTejaswini18.
 ChecksumFailed.
 markroethof.
 S-w-a-p-n-i-l-22.
@@ -594,7 +595,6 @@ djunaid.
 Haile-08.
 SNProductOwner.
 sonamtiwari8.
-YTejaswini18.
 Adiana3308.
 akhoshnood.
 allam1234.
