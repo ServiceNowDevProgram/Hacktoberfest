@@ -147,8 +147,8 @@ Meet the Hacktoberfest crew who will be maintaining your projects:
 earlduque.
 Lacah.
 SapphicFire.
-niamccash.
 kmxo.
+niamccash.
 ankitshu.
 snamjosh.
 404paige.
@@ -159,10 +159,10 @@ aswamy93.
 selvarun-umass.
 ashoo-jindal.
 koratalas.
-Atul-LNG.
 Praiseto.
 bkb68.
 sandeepd26.
+Atul-LNG.
 sravankadudhuri.
 eriemer1.
 shraddhakadam301298.
@@ -395,8 +395,8 @@ R3J3NT.
 amigujarathi.
 ajcooper72.
 chelming.
-hrobarikt.
 kmxo.
+hrobarikt.
 sumanthdosapati.
 smartcarleen.
 urspvs.
@@ -444,7 +444,6 @@ mr-swann.
 sandeepd26.
 koratalas.
 anveshmupparaju.
-Atul-LNG.
 Jaspalsinghchot.
 lakshmikanthgupta.
 Praiseto.
@@ -455,6 +454,7 @@ TRIGGEREDcoder.
 Danmax.
 hafsa-asif.
 ovarn.
+Atul-LNG.
 devinvalencia.
 mskoddow.
 gowdah.
