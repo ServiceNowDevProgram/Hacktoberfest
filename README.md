@@ -158,9 +158,9 @@ aswamy93.
 **Top 10% contributors:**
 selvarun-umass.
 ashoo-jindal.
+koratalas.
 Praiseto.
 bkb68.
-koratalas.
 sandeepd26.
 sravankadudhuri.
 eriemer1.
@@ -439,6 +439,7 @@ csharpie.
 mohitchauhan-dev.
 mr-swann.
 sandeepd26.
+koratalas.
 anveshmupparaju.
 Praiseto.
 bkb68.
@@ -447,7 +448,6 @@ debendu-das.
 TRIGGEREDcoder.
 Danmax.
 hafsa-asif.
-koratalas.
 ovarn.
 devinvalencia.
 Jaspalsinghchot.
