@@ -211,20 +211,20 @@ SNProductOwner.
 dcord1x.
 Dhruvyadav2000.
 jahnaviT2003.
+katsiarynasoshyna.
 soham-shee.
 Mexiprince.
 riya-misra-1.
 Saileshlanka.
-Paulsylo25.
 
 **Other contributors:**
+Paulsylo25.
 Rampriya-S.
 chelming.
 bhavyajain511.
 Shreedevisnow.
 Beeram12.
 Charanjet.
-katsiarynasoshyna.
 KedarisettiSreeVamsi.
 MGOPW.
 shreyawani98.
@@ -604,6 +604,7 @@ DhanushNehru.
 Dhruvyadav2000.
 jahnaviT2003.
 jesalynrose.
+katsiarynasoshyna.
 Ladirinia.
 Mexiprince.
 miracc.
@@ -637,7 +638,6 @@ Beeram12.
 Charanjet.
 crooks-s.
 Jaskaran-Techno.
-katsiarynasoshyna.
 KedarisettiSreeVamsi.
 RagaChitraMankala.
 shreyawani98.
