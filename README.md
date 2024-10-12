@@ -248,6 +248,7 @@ Sravanik12.
 TheRashRash.
 ultralegendary.
 YadlaMani.
+YTejaswini18.
 aykmrgit.
 kalyan120694.
 kmohit2809.
@@ -364,7 +365,6 @@ vivaan01.
 xjfdzn.
 YDdraigGoch70.
 yrozo28.
-YTejaswini18.
 
 ## Leaderboard (all time):
 
@@ -717,6 +717,7 @@ trishitapingolia.
 ultralegendary.
 workpurposeusername.
 YadlaMani.
+YTejaswini18.
 zaidongy.
 bgrk005.
 jon-lind-sn.
@@ -1364,6 +1365,5 @@ yay-jake.
 YDdraigGoch70.
 youthinkasido.
 yrozo28.
-YTejaswini18.
 zerus83.
 zomsik.
