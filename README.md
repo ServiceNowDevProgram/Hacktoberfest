@@ -202,7 +202,6 @@ sndevs-slacker-issue-reporter[bot].
 S-w-a-p-n-i-l-22.
 VaishnaviLathkar98.
 debendu-das.
-Mexiprince.
 naveenraw25.
 watrick.
 mo-dahir.
@@ -212,6 +211,7 @@ dcord1x.
 Dhruvyadav2000.
 jahnaviT2003.
 soham-shee.
+Mexiprince.
 riya-misra-1.
 Saileshlanka.
 Paulsylo25.
@@ -452,12 +452,12 @@ Jaspalsinghchot.
 mskoddow.
 gowdah.
 lakshmikanthgupta.
+sandeepd26.
 sravankadudhuri.
 danr2c2.
 Litwilly.
 MRSinghRajat.
 oasif.
-sandeepd26.
 jiteshmalik.
 jonahpiascik.
 soerenmaucher.
@@ -575,7 +575,6 @@ yourepicservices.
 **Top 50% contributors:**
 ChecksumFailed.
 markroethof.
-Mexiprince.
 S-w-a-p-n-i-l-22.
 anguspalmer.
 Badal2k23.
@@ -603,6 +602,7 @@ Dhruvyadav2000.
 jahnaviT2003.
 jesalynrose.
 Ladirinia.
+Mexiprince.
 miracc.
 MiroslawBuszek.
 pandeysumit-now.
