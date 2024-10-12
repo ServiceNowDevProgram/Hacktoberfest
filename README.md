@@ -193,7 +193,6 @@ mohitchauhan-dev.
 priyasnexpert.
 
 **Top 50% contributors:**
-Mexiprince.
 at8807602.
 dadhich-ashish.
 pradeepthipani.
@@ -203,6 +202,7 @@ sndevs-slacker-issue-reporter[bot].
 S-w-a-p-n-i-l-22.
 VaishnaviLathkar98.
 debendu-das.
+Mexiprince.
 naveenraw25.
 watrick.
 mo-dahir.
@@ -457,9 +457,9 @@ danr2c2.
 Litwilly.
 MRSinghRajat.
 oasif.
+sandeepd26.
 jiteshmalik.
 jonahpiascik.
-sandeepd26.
 soerenmaucher.
 avssrikanth.
 shraddhakadam301298.
@@ -546,7 +546,6 @@ goranlundqvist.
 harisnad.
 ivan-betev.
 kylburns89.
-Mexiprince.
 priyasnexpert.
 riya-vermaa.
 Saileshlanka.
@@ -571,11 +570,12 @@ jeremyrubio27.
 Sagar-agarwal.
 sndevs-slacker-issue-reporter[bot].
 wiresgit.
+yourepicservices.
 
 **Top 50% contributors:**
-yourepicservices.
 ChecksumFailed.
 markroethof.
+Mexiprince.
 S-w-a-p-n-i-l-22.
 anguspalmer.
 Badal2k23.
