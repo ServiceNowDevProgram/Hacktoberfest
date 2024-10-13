@@ -193,9 +193,9 @@ abhrajyotikanrar.
 MartinStoyanoff.
 captainbraddles.
 DanielMadsenDK.
+mohitchauhan-dev.
 
 **Top 50% contributors:**
-mohitchauhan-dev.
 sheikhafsarzap.
 at8807602.
 dadhich-ashish.
@@ -219,9 +219,9 @@ katsiarynasoshyna.
 soham-shee.
 riya-misra-1.
 Saileshlanka.
+Paulsylo25.
 
 **Other contributors:**
-Paulsylo25.
 Rampriya-S.
 chelming.
 bhavyajain511.
@@ -292,6 +292,7 @@ SujathaSuj.
 TanushreeBorase.
 A-Vishnupriya.
 acashkr.
+aftab-mirza.
 ahamadunnisa-md.
 ahmadwhet.
 AKASHDHARDUBEY.
@@ -865,6 +866,7 @@ acdigitalclarity.
 adarshsingh7470.
 Adil404.
 afejzic.
+aftab-mirza.
 ahamadunnisa-md.
 Ahkonn.
 ahmadwhet.
