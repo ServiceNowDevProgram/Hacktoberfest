@@ -182,6 +182,7 @@ unbirthdays.
 mandeepkaran.
 spnegi.
 anveshmupparaju.
+ivan-betev.
 chetnadev.
 RahmanM.
 SrijanPatwa.
@@ -191,10 +192,9 @@ abhrajyotikanrar.
 MartinStoyanoff.
 captainbraddles.
 DanielMadsenDK.
-mohitchauhan-dev.
 
 **Top 50% contributors:**
-ivan-betev.
+mohitchauhan-dev.
 at8807602.
 dadhich-ashish.
 pradeepthipani.
@@ -450,6 +450,7 @@ mohitchauhan-dev.
 mr-swann.
 sandeepd26.
 anveshmupparaju.
+ivan-betev.
 Jaspalsinghchot.
 lakshmikanthgupta.
 Praiseto.
@@ -461,7 +462,6 @@ Danmax.
 hafsa-asif.
 ovarn.
 devinvalencia.
-ivan-betev.
 mskoddow.
 gowdah.
 sravankadudhuri.
