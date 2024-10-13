@@ -235,6 +235,7 @@ shreyawani98.
 stefanintech.
 tejasathalye.
 umangkedia92.
+aftab-mirza.
 anurags10.
 ashu759.
 ChndrshP.
@@ -293,7 +294,6 @@ SujathaSuj.
 TanushreeBorase.
 A-Vishnupriya.
 acashkr.
-aftab-mirza.
 ahamadunnisa-md.
 ahmadwhet.
 AKASHDHARDUBEY.
@@ -666,6 +666,7 @@ umangkedia92.
 vk-cloud.
 4bode.
 abhay625.
+aftab-mirza.
 ananthsridhar.
 ankitshaw625.
 anurags10.
@@ -692,9 +693,9 @@ j4rodm.
 jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
-jordanrogus.
 
 **Other contributors:**
+jordanrogus.
 Juusoee.
 KartikeSingh.
 kaushalbharade.
@@ -868,7 +869,6 @@ acdigitalclarity.
 adarshsingh7470.
 Adil404.
 afejzic.
-aftab-mirza.
 ahamadunnisa-md.
 Ahkonn.
 ahmadwhet.
