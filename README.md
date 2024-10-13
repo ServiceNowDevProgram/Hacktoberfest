@@ -301,6 +301,7 @@ BH0LL.
 BhageshChavan.
 blindaks.
 ChandBasha-code.
+cmanik.
 cschmidt82.
 daviddw2022.
 davidehira.
@@ -581,9 +582,9 @@ Sagar-agarwal.
 sndevs-slacker-issue-reporter[bot].
 wiresgit.
 yourepicservices.
+ChecksumFailed.
 
 **Top 50% contributors:**
-ChecksumFailed.
 markroethof.
 Mexiprince.
 S-w-a-p-n-i-l-22.
@@ -684,9 +685,9 @@ j4rodm.
 jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
+jordanrogus.
 
 **Other contributors:**
-jordanrogus.
 Juusoee.
 KartikeSingh.
 kaushalbharade.
@@ -939,6 +940,7 @@ ChocolateTilt.
 ChristineMayfield.
 ChrRepou.
 Cioraz.
+cmanik.
 cnavr.
 CObsidien.
 coderdude207.
