@@ -188,18 +188,18 @@ SrijanPatwa.
 vermaamit1664.
 abhrajyotikanrar.
 MartinStoyanoff.
+QI-XING.
 captainbraddles.
 DanielMadsenDK.
 mohitchauhan-dev.
-priyasnexpert.
 
 **Top 50% contributors:**
+priyasnexpert.
 at8807602.
 dadhich-ashish.
 pradeepthipani.
 Vishnu-rvk.
 isaac-vicentini.
-QI-XING.
 sndevs-slacker-issue-reporter[bot].
 S-w-a-p-n-i-l-22.
 soham-shee.
@@ -473,13 +473,14 @@ soerenmaucher.
 avssrikanth.
 shraddhakadam301298.
 shridk.
+QI-XING.
 davidkwhuang.
 zahidask.
 DynamiteC.
 phr-nk.
-shakeel-sheikh.
 
 **Top 25% contributors:**
+shakeel-sheikh.
 vjtknn.
 Yokesh0811.
 MarcMouries.
@@ -495,7 +496,6 @@ harishankert.
 himanshu7895.
 ivan-betev.
 mady22070.
-QI-XING.
 hoederath.
 kylburns89.
 maheshkhatal27.
