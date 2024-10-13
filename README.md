@@ -192,9 +192,9 @@ abhrajyotikanrar.
 MartinStoyanoff.
 captainbraddles.
 DanielMadsenDK.
+mohitchauhan-dev.
 
 **Top 50% contributors:**
-mohitchauhan-dev.
 at8807602.
 dadhich-ashish.
 pradeepthipani.
@@ -217,9 +217,9 @@ jahnaviT2003.
 katsiarynasoshyna.
 vhudlikar.
 riya-misra-1.
+Saileshlanka.
 
 **Other contributors:**
-Saileshlanka.
 Paulsylo25.
 Rampriya-S.
 chelming.
@@ -308,6 +308,7 @@ davidehira.
 dwilso1018.
 erlingvt.
 ersureshbe.
+furquan5.
 gauravghodinde.
 girishnagaraj09.
 GittyHarsha.
@@ -1012,6 +1013,7 @@ fisikos.
 flab-io.
 Flashdevp95.
 fredosborne.
+furquan5.
 gauravghodinde.
 Gayathrichennaioutlook.
 Geraldf.
