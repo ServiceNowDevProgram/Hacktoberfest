@@ -202,9 +202,9 @@ Vishnu-rvk.
 isaac-vicentini.
 QI-XING.
 sndevs-slacker-issue-reporter[bot].
+vhudlikar.
 S-w-a-p-n-i-l-22.
 VaishnaviLathkar98.
-vhudlikar.
 debendu-das.
 Mexiprince.
 naveenraw25.
@@ -583,15 +583,15 @@ isaac-vicentini.
 jeremyrubio27.
 Sagar-agarwal.
 sndevs-slacker-issue-reporter[bot].
+vhudlikar.
 wiresgit.
 yourepicservices.
-ChecksumFailed.
 
 **Top 50% contributors:**
+ChecksumFailed.
 markroethof.
 Mexiprince.
 S-w-a-p-n-i-l-22.
-vhudlikar.
 anguspalmer.
 Badal2k23.
 bhavyajain511.
