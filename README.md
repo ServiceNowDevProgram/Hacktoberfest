@@ -218,9 +218,9 @@ soham-shee.
 vhudlikar.
 riya-misra-1.
 Saileshlanka.
+Paulsylo25.
 
 **Other contributors:**
-Paulsylo25.
 Rampriya-S.
 chelming.
 bhavyajain511.
@@ -344,6 +344,7 @@ pandeysameer.
 pranavkhurana2011.
 pranjalisr.
 PraveenM1132.
+prithvibalakka.
 rajfauzdar.
 Ramesh-hub007.
 robertbeeman.
@@ -1226,6 +1227,7 @@ prevostr.
 PrimeDemonic.
 princeofnubia.
 princeofwales88.
+prithvibalakka.
 PromoFaux.
 psyherin.
 ptupe.
