@@ -187,19 +187,19 @@ SrijanPatwa.
 vermaamit1664.
 abhrajyotikanrar.
 MartinStoyanoff.
+YTejaswini18.
 captainbraddles.
 DanielMadsenDK.
 mohitchauhan-dev.
 priyasnexpert.
-at8807602.
 
 **Top 50% contributors:**
+at8807602.
 dadhich-ashish.
 pradeepthipani.
 Vishnu-rvk.
 isaac-vicentini.
 sndevs-slacker-issue-reporter[bot].
-YTejaswini18.
 S-w-a-p-n-i-l-22.
 soham-shee.
 VaishnaviLathkar98.
@@ -548,6 +548,7 @@ Iuliak.
 Munnisona.
 RaunakScarlet.
 TVani5.
+YTejaswini18.
 adarshsingh0205.
 annaydas.
 DanielMadsenDK.
@@ -578,7 +579,6 @@ Sagar-agarwal.
 sndevs-slacker-issue-reporter[bot].
 wiresgit.
 yourepicservices.
-YTejaswini18.
 
 **Top 50% contributors:**
 ChecksumFailed.
