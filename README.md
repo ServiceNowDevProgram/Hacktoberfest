@@ -180,6 +180,7 @@ YTejaswini18.
 shridk.
 unbirthdays.
 mandeepkaran.
+priyasnexpert.
 spnegi.
 anveshmupparaju.
 chetnadev.
@@ -191,11 +192,10 @@ abhrajyotikanrar.
 MartinStoyanoff.
 QI-XING.
 captainbraddles.
-DanielMadsenDK.
 
 **Top 50% contributors:**
+DanielMadsenDK.
 mohitchauhan-dev.
-priyasnexpert.
 ivan-betev.
 at8807602.
 dadhich-ashish.
@@ -529,6 +529,7 @@ domuserk.
 HarneetSital.
 jacebenson.
 mandeepkaran.
+priyasnexpert.
 ReginaldFawcett.
 spnegi.
 thorn91.
@@ -557,7 +558,6 @@ annaydas.
 DanielMadsenDK.
 goranlundqvist.
 harisnad.
-priyasnexpert.
 riya-vermaa.
 Saileshlanka.
 allenandreas.
