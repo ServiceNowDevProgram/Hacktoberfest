@@ -357,6 +357,7 @@ SaiSankar1309.
 samusahatpure.
 sanuj21.
 seemaPatl.
+ShakthiSn.
 sharsha315.
 shashwatmishraog.
 simt0m.
@@ -431,9 +432,9 @@ MrChrisE.
 vandna07.
 at8807602.
 abhrajyotikanrar.
+PranavBhagat18.
 
 **Top 10% contributors:**
-PranavBhagat18.
 Irston.
 litwi1rm.
 mak1A4.
@@ -483,9 +484,9 @@ Atul-LNG.
 davidkwhuang.
 zahidask.
 DynamiteC.
+phr-nk.
 
 **Top 25% contributors:**
-phr-nk.
 shakeel-sheikh.
 vjtknn.
 Yokesh0811.
@@ -688,10 +689,10 @@ j4rodm.
 jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
-jordanrogus.
-Juusoee.
 
 **Other contributors:**
+jordanrogus.
+Juusoee.
 KartikeSingh.
 kaushalbharade.
 lakshyatyagi24.
@@ -1292,6 +1293,7 @@ sekhar398.
 sergelouie6.
 ServiceNowDevProgram.
 SG-SN.
+ShakthiSn.
 shakysnake.
 ShanClayton.
 shaoservicenow.
