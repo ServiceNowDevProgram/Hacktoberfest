@@ -199,6 +199,7 @@ dadhich-ashish.
 pradeepthipani.
 Vishnu-rvk.
 isaac-vicentini.
+QI-XING.
 sndevs-slacker-issue-reporter[bot].
 S-w-a-p-n-i-l-22.
 soham-shee.
@@ -208,7 +209,6 @@ Mexiprince.
 naveenraw25.
 watrick.
 mo-dahir.
-QI-XING.
 SNProductOwner.
 dcord1x.
 Dhruvyadav2000.
@@ -495,6 +495,7 @@ harishankert.
 himanshu7895.
 ivan-betev.
 mady22070.
+QI-XING.
 hoederath.
 kylburns89.
 maheshkhatal27.
@@ -515,7 +516,6 @@ YTejaswini18.
 arhaan2019.
 designitsecure.
 llipovsky.
-QI-XING.
 seviceN.
 sheikhafsarzap.
 tejudhoran95.
