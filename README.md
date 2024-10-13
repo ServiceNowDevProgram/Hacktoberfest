@@ -168,9 +168,9 @@ shraddhakadam301298.
 Atul-LNG.
 bird-03.
 ronaldkarim.
+YTejaswini18.
 
 **Top 25% contributors:**
-YTejaswini18.
 ariyadmir.
 himanshu7895.
 kylburns89.
@@ -338,6 +338,7 @@ Mihir008.
 Mikerniker.
 Narasimha677.
 Nikil-D-Gr8.
+nikkvijay.
 nooras.
 NowRishi.
 omkar2508.
@@ -691,9 +692,9 @@ j4rodm.
 jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
+jordanrogus.
 
 **Other contributors:**
-jordanrogus.
 Juusoee.
 KartikeSingh.
 kaushalbharade.
@@ -1197,6 +1198,7 @@ Nerdcode.
 newl92.
 Nexarsysllc.
 Nikil-D-Gr8.
+nikkvijay.
 NoelJarling.
 nooras.
 NowRishi.
