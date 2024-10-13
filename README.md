@@ -212,6 +212,7 @@ naveenraw25.
 watrick.
 mo-dahir.
 SNProductOwner.
+aftab-mirza.
 dcord1x.
 Dhruvyadav2000.
 jahnaviT2003.
@@ -219,14 +220,13 @@ katsiarynasoshyna.
 soham-shee.
 riya-misra-1.
 Saileshlanka.
-Paulsylo25.
 
 **Other contributors:**
+Paulsylo25.
 Rampriya-S.
 chelming.
 bhavyajain511.
 Shreedevisnow.
-aftab-mirza.
 Beeram12.
 Charanjet.
 hoederath.
@@ -614,6 +614,7 @@ Haile-08.
 SNProductOwner.
 sonamtiwari8.
 Adiana3308.
+aftab-mirza.
 akhoshnood.
 allam1234.
 Decoder-Paul.
@@ -649,7 +650,6 @@ puneet94.
 Shreedevisnow.
 sisco0.
 yuvraj1107thapa.
-aftab-mirza.
 ashaw7697.
 Beeram12.
 Charanjet.
