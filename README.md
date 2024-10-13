@@ -201,7 +201,6 @@ sheikhafsarzap.
 at8807602.
 dadhich-ashish.
 Vishnu-rvk.
-aftab-mirza.
 isaac-vicentini.
 QI-XING.
 sndevs-slacker-issue-reporter[bot].
@@ -212,6 +211,7 @@ Mexiprince.
 naveenraw25.
 watrick.
 mo-dahir.
+aftab-mirza.
 SNProductOwner.
 dcord1x.
 Dhruvyadav2000.
@@ -583,7 +583,6 @@ src107.
 fn20200323.
 pratyushasndev.
 Vishnu-rvk.
-aftab-mirza.
 homealone07.
 Iamsant.
 isaac-vicentini.
@@ -591,9 +590,9 @@ jeremyrubio27.
 Sagar-agarwal.
 sndevs-slacker-issue-reporter[bot].
 wiresgit.
+yourepicservices.
 
 **Top 50% contributors:**
-yourepicservices.
 ChecksumFailed.
 markroethof.
 Mexiprince.
@@ -610,6 +609,7 @@ watrick.
 AlphaEagle.
 JWITSM.
 mo-dahir.
+aftab-mirza.
 dcord1x.
 djunaid.
 Haile-08.
