@@ -154,10 +154,10 @@ snamjosh.
 404paige.
 ynr-ram.
 aswamy93.
-koratalas.
+selvarun-umass.
 
 **Top 10% contributors:**
-selvarun-umass.
+koratalas.
 ashoo-jindal.
 Praiseto.
 bkb68.
@@ -430,7 +430,6 @@ abhrajyotikanrar.
 
 **Top 10% contributors:**
 PranavBhagat18.
-koratalas.
 Irston.
 litwi1rm.
 mak1A4.
@@ -443,6 +442,7 @@ hentonjd.
 23Thom.
 aatrey882.
 captainbraddles.
+koratalas.
 salmaniqbal92.
 csharpie.
 mohitchauhan-dev.
