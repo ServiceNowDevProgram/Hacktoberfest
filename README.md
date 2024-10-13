@@ -186,18 +186,18 @@ chetnadev.
 RahmanM.
 SrijanPatwa.
 vermaamit1664.
+pradeepthipani.
 abhrajyotikanrar.
 MartinStoyanoff.
 QI-XING.
 captainbraddles.
 DanielMadsenDK.
-mohitchauhan-dev.
 
 **Top 50% contributors:**
+mohitchauhan-dev.
 priyasnexpert.
 at8807602.
 dadhich-ashish.
-pradeepthipani.
 Vishnu-rvk.
 isaac-vicentini.
 sndevs-slacker-issue-reporter[bot].
@@ -544,6 +544,7 @@ brenduh.
 dalestubblefield.
 danielliaus.
 JonSandoval.
+pradeepthipani.
 sauravsumankumar.
 ashuprince121.
 hrichiksite.
@@ -571,7 +572,6 @@ rmedved84.
 src107.
 fn20200323.
 pratyushasndev.
-pradeepthipani.
 Vishnu-rvk.
 homealone07.
 Iamsant.
