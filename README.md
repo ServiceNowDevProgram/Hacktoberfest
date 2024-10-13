@@ -154,9 +154,9 @@ snamjosh.
 404paige.
 ynr-ram.
 aswamy93.
+selvarun-umass.
 
 **Top 10% contributors:**
-selvarun-umass.
 ashoo-jindal.
 koratalas.
 Praiseto.
@@ -167,9 +167,9 @@ sravankadudhuri.
 eriemer1.
 shraddhakadam301298.
 bird-03.
+ronaldkarim.
 
 **Top 25% contributors:**
-ronaldkarim.
 ariyadmir.
 himanshu7895.
 kylburns89.
@@ -216,10 +216,10 @@ jahnaviT2003.
 katsiarynasoshyna.
 ivan-betev.
 riya-misra-1.
-Saileshlanka.
-Paulsylo25.
 
 **Other contributors:**
+Saileshlanka.
+Paulsylo25.
 Rampriya-S.
 chelming.
 bhavyajain511.
@@ -300,6 +300,7 @@ artemis15.
 BH0LL.
 BhageshChavan.
 blindaks.
+ChandBasha-code.
 cschmidt82.
 daviddw2022.
 davidehira.
@@ -680,9 +681,9 @@ igrzhukovich.
 j4rodm.
 jamesfoot.
 JBscriptsNow.
+JingAlanzhixin.
 
 **Other contributors:**
-JingAlanzhixin.
 jordanrogus.
 Juusoee.
 KartikeSingh.
@@ -927,6 +928,7 @@ celsiogil.
 chaitanyagummadavelly.
 ChaitanyaKiran14.
 chalamalamahesh.
+ChandBasha-code.
 chandumishra21.
 CharanjeetSi.
 Charlesemesobum.
