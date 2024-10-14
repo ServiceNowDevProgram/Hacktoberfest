@@ -213,7 +213,6 @@ debendu-das.
 naveenraw25.
 watrick.
 mo-dahir.
-aftab-mirza.
 SNProductOwner.
 amoore-coder.
 dcord1x.
@@ -224,11 +223,12 @@ riya-misra-1.
 Saileshlanka.
 sheikhafsarzap.
 Paulsylo25.
+Rampriya-S.
 
 **Other contributors:**
-Rampriya-S.
 alkaChaudhary73.
 chelming.
+aftab-mirza.
 bhavyajain511.
 Shreedevisnow.
 Beeram12.
@@ -619,7 +619,6 @@ watrick.
 AlphaEagle.
 JWITSM.
 mo-dahir.
-aftab-mirza.
 dcord1x.
 djunaid.
 Haile-08.
@@ -654,6 +653,7 @@ alkaChaudhary73.
 rohantjoshi.
 1shabby.
 abhilash264.
+aftab-mirza.
 Alprez.
 chris-canto-11.
 ewatch.
