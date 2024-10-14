@@ -189,22 +189,22 @@ ivan-betev.
 nowitsvashu.
 chetnadev.
 RahmanM.
-Rampriya-S.
 SrijanPatwa.
 vermaamit1664.
 alkaChaudhary73.
 abhrajyotikanrar.
 captainbraddles.
 DanielMadsenDK.
+mohitchauhan-dev.
 
 **Top 50% contributors:**
-mohitchauhan-dev.
 VaishnaviLathkar98.
 Mexiprince.
 ravichandra1998g.
 sheikhafsarzap.
 at8807602.
 dadhich-ashish.
+Rampriya-S.
 Vishnu-rvk.
 isaac-vicentini.
 jahnaviT2003.
