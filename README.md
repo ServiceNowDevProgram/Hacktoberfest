@@ -215,22 +215,22 @@ debendu-das.
 naveenraw25.
 watrick.
 mo-dahir.
+Harshuu870.
 SNProductOwner.
 amoore-coder.
 dcord1x.
 Dhruvyadav2000.
 soham-shee.
 riya-misra-1.
-Saileshlanka.
 
 **Other contributors:**
+Saileshlanka.
 sheikhafsarzap.
 Paulsylo25.
 alkaChaudhary73.
 chelming.
 aftab-mirza.
 bhavyajain511.
-Harshuu870.
 Shreedevisnow.
 Beeram12.
 Charanjet.
@@ -625,6 +625,7 @@ mo-dahir.
 dcord1x.
 djunaid.
 Haile-08.
+Harshuu870.
 SNProductOwner.
 sonamtiwari8.
 Adiana3308.
@@ -659,7 +660,6 @@ aftab-mirza.
 Alprez.
 chris-canto-11.
 ewatch.
-Harshuu870.
 NayeemKaka.
 puneet94.
 Shreedevisnow.
