@@ -198,6 +198,7 @@ mohitchauhan-dev.
 Mexiprince.
 
 **Top 50% contributors:**
+ravichandra1998g.
 at8807602.
 dadhich-ashish.
 Vishnu-rvk.
@@ -210,7 +211,6 @@ VaishnaviLathkar98.
 debendu-das.
 naveenraw25.
 nowitsvashu.
-ravichandra1998g.
 watrick.
 mo-dahir.
 aftab-mirza.
@@ -462,6 +462,7 @@ salmaniqbal92.
 csharpie.
 mohitchauhan-dev.
 mr-swann.
+ravichandra1998g.
 YTejaswini18.
 anveshmupparaju.
 ivan-betev.
@@ -475,7 +476,6 @@ TRIGGEREDcoder.
 Danmax.
 hafsa-asif.
 ovarn.
-ravichandra1998g.
 devinvalencia.
 mskoddow.
 gowdah.
