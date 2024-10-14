@@ -196,9 +196,9 @@ alkaChaudhary73.
 abhrajyotikanrar.
 captainbraddles.
 DanielMadsenDK.
+mohitchauhan-dev.
 
 **Top 50% contributors:**
-mohitchauhan-dev.
 VaishnaviLathkar98.
 Mexiprince.
 ravichandra1998g.
@@ -223,9 +223,9 @@ dcord1x.
 Dhruvyadav2000.
 soham-shee.
 riya-misra-1.
+sheikhafsarzap.
 
 **Other contributors:**
-sheikhafsarzap.
 Paulsylo25.
 chelming.
 aftab-mirza.
@@ -331,6 +331,7 @@ GP-UOB.
 herambchaudhari4121.
 ishaanshoor.
 JayShukla8.
+jaz1gdev.
 jekinz-tagline.
 john9006.
 Karthi6559.
@@ -780,6 +781,7 @@ cmanik.
 CreatorWorkflowsNow.
 DennisRutherford.
 djharshit.
+jaz1gdev.
 joshuatechie.
 Krishnakant-iv.
 Litaflom.
@@ -827,7 +829,6 @@ ishanjain18.
 Itsreema.
 Jahnavi-Solanki.
 javiervillarreal.
-jaz1gdev.
 JCofman.
 jefflintel.
 kcimpulse.
