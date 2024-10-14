@@ -195,9 +195,10 @@ abhrajyotikanrar.
 captainbraddles.
 DanielMadsenDK.
 mohitchauhan-dev.
-Mexiprince.
+VaishnaviLathkar98.
 
 **Top 50% contributors:**
+Mexiprince.
 ravichandra1998g.
 at8807602.
 dadhich-ashish.
@@ -210,7 +211,6 @@ sndevs-slacker-issue-reporter[bot].
 vhudlikar.
 katsiarynasoshyna.
 S-w-a-p-n-i-l-22.
-VaishnaviLathkar98.
 debendu-das.
 naveenraw25.
 watrick.
@@ -529,6 +529,7 @@ templetontsai.
 b1naryst0rm.
 namrataghorpade.
 sdgrube2.
+VaishnaviLathkar98.
 AdilBasha1SAP.
 bradtiltonnow.
 pradeepthipani.
@@ -557,7 +558,6 @@ Himanshu-skb-oo7.
 mmaraj1.
 nowitsvashu.
 sanjivmeher.
-VaishnaviLathkar98.
 aman2519.
 manrick.
 vermaamit1664.
