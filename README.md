@@ -216,18 +216,18 @@ S-w-a-p-n-i-l-22.
 debendu-das.
 naveenraw25.
 watrick.
+alkaChaudhary73.
 mo-dahir.
 Harshuu870.
 SNProductOwner.
 amoore-coder.
 dcord1x.
 Dhruvyadav2000.
-soham-shee.
 
 **Other contributors:**
+soham-shee.
 riya-misra-1.
 Paulsylo25.
-alkaChaudhary73.
 chelming.
 aftab-mirza.
 bhavyajain511.
@@ -621,6 +621,7 @@ revantKulkarni.
 trade12.
 ttoter.
 watrick.
+alkaChaudhary73.
 AlphaEagle.
 JWITSM.
 mo-dahir.
@@ -654,7 +655,6 @@ TheTreyKyle.
 thisnameissoclever.
 ujjwalprem.
 mockspeed.
-alkaChaudhary73.
 ewatch.
 rohantjoshi.
 1shabby.
