@@ -189,19 +189,19 @@ VaishnaviLathkar98.
 anveshmupparaju.
 ivan-betev.
 nowitsvashu.
+Saileshlanka.
 chetnadev.
 RahmanM.
 SrijanPatwa.
 vermaamit1664.
 abhrajyotikanrar.
 captainbraddles.
-DanielMadsenDK.
 
 **Top 50% contributors:**
+DanielMadsenDK.
 mohitchauhan-dev.
 Mexiprince.
 ravichandra1998g.
-Saileshlanka.
 sheikhafsarzap.
 at8807602.
 dadhich-ashish.
@@ -501,9 +501,10 @@ shraddhakadam301298.
 shridk.
 Atul-LNG.
 davidkwhuang.
-spnegi.
+Saileshlanka.
 
 **Top 25% contributors:**
+spnegi.
 zahidask.
 DynamiteC.
 phr-nk.
@@ -528,7 +529,6 @@ maheshkhatal27.
 mjonssonme.
 nthumma.
 priyasnexpert.
-Saileshlanka.
 templetontsai.
 b1naryst0rm.
 namrataghorpade.
