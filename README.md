@@ -216,7 +216,6 @@ mo-dahir.
 aftab-mirza.
 SNProductOwner.
 amoore-coder.
-Charanjet.
 dcord1x.
 Dhruvyadav2000.
 jahnaviT2003.
@@ -224,15 +223,16 @@ soham-shee.
 riya-misra-1.
 Saileshlanka.
 sheikhafsarzap.
+Paulsylo25.
 
 **Other contributors:**
-Paulsylo25.
 Rampriya-S.
 alkaChaudhary73.
 chelming.
 bhavyajain511.
 Shreedevisnow.
 Beeram12.
+Charanjet.
 hoederath.
 KedarisettiSreeVamsi.
 MGOPW.
@@ -629,7 +629,6 @@ Adiana3308.
 akhoshnood.
 allam1234.
 amoore-coder.
-Charanjet.
 Decoder-Paul.
 DhanushNehru.
 Dhruvyadav2000.
@@ -665,6 +664,7 @@ sisco0.
 yuvraj1107thapa.
 ashaw7697.
 Beeram12.
+Charanjet.
 crooks-s.
 Jaskaran-Techno.
 KedarisettiSreeVamsi.
