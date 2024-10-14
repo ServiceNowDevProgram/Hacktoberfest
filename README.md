@@ -154,10 +154,10 @@ snamjosh.
 404paige.
 ynr-ram.
 aswamy93.
-selvarun-umass.
+sandeepd26.
 
 **Top 10% contributors:**
-sandeepd26.
+selvarun-umass.
 koratalas.
 ashoo-jindal.
 Praiseto.
@@ -211,7 +211,6 @@ naveenraw25.
 watrick.
 mo-dahir.
 aftab-mirza.
-alkaChaudhary73.
 SNProductOwner.
 dcord1x.
 Dhruvyadav2000.
@@ -221,11 +220,12 @@ soham-shee.
 riya-misra-1.
 Saileshlanka.
 sheikhafsarzap.
+Paulsylo25.
 
 **Other contributors:**
-Paulsylo25.
 Rampriya-S.
 chelming.
+alkaChaudhary73.
 bhavyajain511.
 Shreedevisnow.
 Beeram12.
@@ -434,9 +434,9 @@ alikuttyka.
 aswamy93.
 BadalHub.
 MrChrisE.
+sandeepd26.
 vandna07.
 at8807602.
-sandeepd26.
 abhrajyotikanrar.
 
 **Top 10% contributors:**
@@ -611,7 +611,6 @@ AlphaEagle.
 JWITSM.
 mo-dahir.
 aftab-mirza.
-alkaChaudhary73.
 dcord1x.
 djunaid.
 Haile-08.
@@ -645,6 +644,7 @@ mockspeed.
 rohantjoshi.
 1shabby.
 abhilash264.
+alkaChaudhary73.
 Alprez.
 chris-canto-11.
 ewatch.
