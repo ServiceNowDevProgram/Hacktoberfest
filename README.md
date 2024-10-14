@@ -198,6 +198,7 @@ mohitchauhan-dev.
 Mexiprince.
 
 **Top 50% contributors:**
+nowitsvashu.
 ravichandra1998g.
 at8807602.
 dadhich-ashish.
@@ -210,7 +211,6 @@ S-w-a-p-n-i-l-22.
 VaishnaviLathkar98.
 debendu-das.
 naveenraw25.
-nowitsvashu.
 watrick.
 mo-dahir.
 aftab-mirza.
@@ -581,6 +581,7 @@ anubhav-ritolia.
 apple9000.
 briangodfreydev.
 GauthamBellamkonda.
+nowitsvashu.
 odinsride.
 piyusalunke123.
 rene-el.
@@ -596,9 +597,9 @@ jeremyrubio27.
 Sagar-agarwal.
 sndevs-slacker-issue-reporter[bot].
 wiresgit.
-yourepicservices.
 
 **Top 50% contributors:**
+yourepicservices.
 ChecksumFailed.
 katsiarynasoshyna.
 markroethof.
@@ -608,7 +609,6 @@ Badal2k23.
 bhavyajain511.
 naveenraw25.
 NBaker137.
-nowitsvashu.
 revantKulkarni.
 trade12.
 ttoter.
