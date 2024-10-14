@@ -187,6 +187,7 @@ mandeepkaran.
 anveshmupparaju.
 ivan-betev.
 Mexiprince.
+nowitsvashu.
 chetnadev.
 RahmanM.
 SrijanPatwa.
@@ -195,10 +196,9 @@ abhrajyotikanrar.
 vhudlikar.
 captainbraddles.
 DanielMadsenDK.
-mohitchauhan-dev.
 
 **Top 50% contributors:**
-nowitsvashu.
+mohitchauhan-dev.
 ravichandra1998g.
 at8807602.
 dadhich-ashish.
@@ -554,6 +554,7 @@ ReginaldFawcett.
 thorn91.
 Himanshu-skb-oo7.
 mmaraj1.
+nowitsvashu.
 sanjivmeher.
 VaishnaviLathkar98.
 aman2519.
@@ -584,7 +585,6 @@ anubhav-ritolia.
 apple9000.
 briangodfreydev.
 GauthamBellamkonda.
-nowitsvashu.
 odinsride.
 piyusalunke123.
 rene-el.
