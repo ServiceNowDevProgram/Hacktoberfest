@@ -222,9 +222,9 @@ amoore-coder.
 dcord1x.
 Dhruvyadav2000.
 soham-shee.
+riya-misra-1.
 
 **Other contributors:**
-riya-misra-1.
 Saileshlanka.
 Paulsylo25.
 alkaChaudhary73.
@@ -321,6 +321,7 @@ davidehira.
 dwilso1018.
 erlingvt.
 ersureshbe.
+ewatch.
 gauravghodinde.
 girishnagaraj09.
 Git-Snow-dev.
@@ -653,13 +654,13 @@ thisnameissoclever.
 ujjwalprem.
 mockspeed.
 alkaChaudhary73.
+ewatch.
 rohantjoshi.
 1shabby.
 abhilash264.
 aftab-mirza.
 Alprez.
 chris-canto-11.
-ewatch.
 NayeemKaka.
 puneet94.
 Shreedevisnow.
