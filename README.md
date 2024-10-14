@@ -211,6 +211,7 @@ jahnaviT2003.
 QI-XING.
 sndevs-slacker-issue-reporter[bot].
 vhudlikar.
+amoore-coder.
 katsiarynasoshyna.
 S-w-a-p-n-i-l-22.
 debendu-das.
@@ -220,7 +221,6 @@ alkaChaudhary73.
 mo-dahir.
 Harshuu870.
 SNProductOwner.
-amoore-coder.
 dcord1x.
 Dhruvyadav2000.
 
@@ -608,6 +608,7 @@ wiresgit.
 yourepicservices.
 
 **Top 50% contributors:**
+amoore-coder.
 ChecksumFailed.
 katsiarynasoshyna.
 markroethof.
@@ -634,7 +635,6 @@ sonamtiwari8.
 Adiana3308.
 akhoshnood.
 allam1234.
-amoore-coder.
 Decoder-Paul.
 DhanushNehru.
 Dhruvyadav2000.
