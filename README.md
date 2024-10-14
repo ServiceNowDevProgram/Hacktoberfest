@@ -155,11 +155,11 @@ ankitshu.
 ynr-ram.
 koratalas.
 aswamy93.
-sandeepd26.
+YTejaswini18.
 
 **Top 10% contributors:**
+sandeepd26.
 selvarun-umass.
-YTejaswini18.
 ashoo-jindal.
 MartinStoyanoff.
 Praiseto.
@@ -450,6 +450,7 @@ vandna07.
 at8807602.
 
 **Top 10% contributors:**
+YTejaswini18.
 abhrajyotikanrar.
 PranavBhagat18.
 Irston.
@@ -457,7 +458,6 @@ litwi1rm.
 mak1A4.
 selvarun-umass.
 shivamTodwal.
-YTejaswini18.
 iar42.
 mlemartien.
 riya-misra-1.
