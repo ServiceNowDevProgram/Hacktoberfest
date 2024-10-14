@@ -211,6 +211,7 @@ naveenraw25.
 watrick.
 mo-dahir.
 aftab-mirza.
+alkaChaudhary73.
 SNProductOwner.
 dcord1x.
 Dhruvyadav2000.
@@ -220,13 +221,12 @@ soham-shee.
 nowitsvashu.
 riya-misra-1.
 Saileshlanka.
-sheikhafsarzap.
 
 **Other contributors:**
+sheikhafsarzap.
 Paulsylo25.
 Rampriya-S.
 chelming.
-alkaChaudhary73.
 bhavyajain511.
 Shreedevisnow.
 Beeram12.
@@ -612,6 +612,7 @@ AlphaEagle.
 JWITSM.
 mo-dahir.
 aftab-mirza.
+alkaChaudhary73.
 dcord1x.
 djunaid.
 Haile-08.
@@ -647,7 +648,6 @@ mockspeed.
 rohantjoshi.
 1shabby.
 abhilash264.
-alkaChaudhary73.
 Alprez.
 chris-canto-11.
 ewatch.
