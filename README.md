@@ -186,7 +186,6 @@ unbirthdays.
 mandeepkaran.
 anveshmupparaju.
 ivan-betev.
-Mexiprince.
 nowitsvashu.
 chetnadev.
 RahmanM.
@@ -196,6 +195,7 @@ abhrajyotikanrar.
 captainbraddles.
 DanielMadsenDK.
 mohitchauhan-dev.
+Mexiprince.
 
 **Top 50% contributors:**
 ravichandra1998g.
@@ -549,7 +549,6 @@ domuserk.
 HarneetSital.
 jacebenson.
 mandeepkaran.
-Mexiprince.
 ReginaldFawcett.
 thorn91.
 Himanshu-skb-oo7.
@@ -577,6 +576,7 @@ annaydas.
 DanielMadsenDK.
 goranlundqvist.
 harisnad.
+Mexiprince.
 riya-vermaa.
 Saileshlanka.
 allenandreas.
