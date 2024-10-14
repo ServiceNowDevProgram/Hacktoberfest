@@ -185,7 +185,6 @@ Rampriya-S.
 shridk.
 unbirthdays.
 mandeepkaran.
-VaishnaviLathkar98.
 anveshmupparaju.
 ivan-betev.
 nowitsvashu.
@@ -196,10 +195,11 @@ SrijanPatwa.
 vermaamit1664.
 abhrajyotikanrar.
 captainbraddles.
+DanielMadsenDK.
 
 **Top 50% contributors:**
-DanielMadsenDK.
 mohitchauhan-dev.
+VaishnaviLathkar98.
 Mexiprince.
 ravichandra1998g.
 sheikhafsarzap.
@@ -509,7 +509,6 @@ zahidask.
 DynamiteC.
 phr-nk.
 shakeel-sheikh.
-VaishnaviLathkar98.
 vjtknn.
 Yokesh0811.
 MarcMouries.
@@ -533,6 +532,7 @@ templetontsai.
 b1naryst0rm.
 namrataghorpade.
 sdgrube2.
+VaishnaviLathkar98.
 AdilBasha1SAP.
 bradtiltonnow.
 pradeepthipani.
