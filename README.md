@@ -193,11 +193,12 @@ chetnadev.
 RahmanM.
 SrijanPatwa.
 vermaamit1664.
+alkaChaudhary73.
 abhrajyotikanrar.
 captainbraddles.
-DanielMadsenDK.
 
 **Top 50% contributors:**
+DanielMadsenDK.
 mohitchauhan-dev.
 VaishnaviLathkar98.
 Mexiprince.
@@ -205,7 +206,6 @@ ravichandra1998g.
 sheikhafsarzap.
 at8807602.
 dadhich-ashish.
-alkaChaudhary73.
 Vishnu-rvk.
 isaac-vicentini.
 jahnaviT2003.
@@ -564,6 +564,7 @@ sanjivmeher.
 aman2519.
 manrick.
 vermaamit1664.
+alkaChaudhary73.
 almajam.
 brenduh.
 dalestubblefield.
@@ -595,7 +596,6 @@ rmedved84.
 src107.
 fn20200323.
 pratyushasndev.
-alkaChaudhary73.
 Vishnu-rvk.
 homealone07.
 Iamsant.
