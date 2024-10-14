@@ -160,8 +160,8 @@ selvarun-umass.
 koratalas.
 ashoo-jindal.
 Praiseto.
-bkb68.
 sandeepd26.
+bkb68.
 sravankadudhuri.
 eriemer1.
 shraddhakadam301298.
@@ -197,7 +197,6 @@ DanielMadsenDK.
 
 **Top 50% contributors:**
 mohitchauhan-dev.
-sheikhafsarzap.
 at8807602.
 dadhich-ashish.
 Vishnu-rvk.
@@ -209,6 +208,7 @@ VaishnaviLathkar98.
 debendu-das.
 Mexiprince.
 naveenraw25.
+sheikhafsarzap.
 watrick.
 mo-dahir.
 aftab-mirza.
@@ -442,12 +442,12 @@ PranavBhagat18.
 Irston.
 litwi1rm.
 mak1A4.
+sandeepd26.
 selvarun-umass.
 shivamTodwal.
 iar42.
 mlemartien.
 riya-misra-1.
-sandeepd26.
 hentonjd.
 23Thom.
 aatrey882.
@@ -462,7 +462,6 @@ ivan-betev.
 Jaspalsinghchot.
 lakshmikanthgupta.
 Praiseto.
-sheikhafsarzap.
 bkb68.
 SrijanPatwa.
 debendu-das.
@@ -472,6 +471,7 @@ hafsa-asif.
 ovarn.
 devinvalencia.
 mskoddow.
+sheikhafsarzap.
 gowdah.
 jiteshmalik.
 sravankadudhuri.
