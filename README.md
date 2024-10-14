@@ -203,6 +203,7 @@ Vishnu-rvk.
 isaac-vicentini.
 QI-XING.
 sndevs-slacker-issue-reporter[bot].
+katsiarynasoshyna.
 S-w-a-p-n-i-l-22.
 VaishnaviLathkar98.
 debendu-das.
@@ -216,7 +217,6 @@ SNProductOwner.
 dcord1x.
 Dhruvyadav2000.
 jahnaviT2003.
-katsiarynasoshyna.
 soham-shee.
 ravichandra1998g.
 riya-misra-1.
@@ -597,6 +597,7 @@ yourepicservices.
 ChecksumFailed.
 
 **Top 50% contributors:**
+katsiarynasoshyna.
 markroethof.
 Mexiprince.
 S-w-a-p-n-i-l-22.
@@ -627,7 +628,6 @@ DhanushNehru.
 Dhruvyadav2000.
 jahnaviT2003.
 jesalynrose.
-katsiarynasoshyna.
 Ladirinia.
 miracc.
 MiroslawBuszek.
