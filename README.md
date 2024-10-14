@@ -159,8 +159,8 @@ selvarun-umass.
 **Top 10% contributors:**
 koratalas.
 ashoo-jindal.
-Praiseto.
 sandeepd26.
+Praiseto.
 bkb68.
 sravankadudhuri.
 eriemer1.
@@ -440,9 +440,9 @@ PranavBhagat18.
 
 **Top 10% contributors:**
 Irston.
+sandeepd26.
 litwi1rm.
 mak1A4.
-sandeepd26.
 selvarun-umass.
 shivamTodwal.
 iar42.
