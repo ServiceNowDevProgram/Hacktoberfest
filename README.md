@@ -266,6 +266,7 @@ Jaspalsinghchot.
 kalyan120694.
 kmohit2809.
 abhishekchavan-git.
+prashantmrshine.
 bgrk005.
 cmanik.
 DennisRutherford.
@@ -287,7 +288,6 @@ mebeingmustaq.
 MillerYadira.
 monica9703.
 mucho243.
-prashantmrshine.
 pviglianti.
 rohi-v.
 Shriramjoshi86.
@@ -668,6 +668,7 @@ Charanjet.
 crooks-s.
 Jaskaran-Techno.
 KedarisettiSreeVamsi.
+prashantmrshine.
 RagaChitraMankala.
 shreyawani98.
 stefanintech.
@@ -704,9 +705,9 @@ iamvpbhaskar.
 igrzhukovich.
 j4rodm.
 jamesfoot.
-JBscriptsNow.
 
 **Other contributors:**
+JBscriptsNow.
 JingAlanzhixin.
 jordanrogus.
 Juusoee.
@@ -757,7 +758,6 @@ ChilloutSenthil.
 jon-lind-sn.
 kalyan120694.
 manoj424.
-prashantmrshine.
 ToosinDada.
 abhishekchavan-git.
 bendouglass.
