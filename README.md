@@ -223,9 +223,9 @@ riya-misra-1.
 Saileshlanka.
 sheikhafsarzap.
 Jaspalsinghchot.
+Paulsylo25.
 
 **Other contributors:**
-Paulsylo25.
 Rampriya-S.
 alkaChaudhary73.
 chelming.
@@ -320,6 +320,7 @@ ersureshbe.
 furquan5.
 gauravghodinde.
 girishnagaraj09.
+Git-Snow-dev.
 GittyHarsha.
 GP-UOB.
 herambchaudhari4121.
@@ -598,9 +599,9 @@ jeremyrubio27.
 Sagar-agarwal.
 sndevs-slacker-issue-reporter[bot].
 wiresgit.
+yourepicservices.
 
 **Top 50% contributors:**
-yourepicservices.
 ChecksumFailed.
 katsiarynasoshyna.
 markroethof.
@@ -702,9 +703,9 @@ j4rodm.
 jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
+jordanrogus.
 
 **Other contributors:**
-jordanrogus.
 Juusoee.
 KartikeSingh.
 kaushalbharade.
@@ -1038,6 +1039,7 @@ Geraldf.
 gh0stxplt.
 GiovanniPeretti.
 git-rep0.
+Git-Snow-dev.
 GittyHarsha.
 GLaDOS2199.
 golu833.
