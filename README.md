@@ -208,7 +208,6 @@ VaishnaviLathkar98.
 debendu-das.
 Mexiprince.
 naveenraw25.
-sheikhafsarzap.
 watrick.
 mo-dahir.
 aftab-mirza.
@@ -220,6 +219,7 @@ katsiarynasoshyna.
 soham-shee.
 riya-misra-1.
 Saileshlanka.
+sheikhafsarzap.
 
 **Other contributors:**
 Paulsylo25.
@@ -439,8 +439,8 @@ abhrajyotikanrar.
 PranavBhagat18.
 
 **Top 10% contributors:**
-Irston.
 sandeepd26.
+Irston.
 litwi1rm.
 mak1A4.
 selvarun-umass.
@@ -471,7 +471,6 @@ hafsa-asif.
 ovarn.
 devinvalencia.
 mskoddow.
-sheikhafsarzap.
 gowdah.
 jiteshmalik.
 sravankadudhuri.
@@ -485,6 +484,7 @@ avssrikanth.
 shraddhakadam301298.
 shridk.
 Atul-LNG.
+sheikhafsarzap.
 davidkwhuang.
 zahidask.
 DynamiteC.
