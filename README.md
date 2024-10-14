@@ -215,6 +215,7 @@ watrick.
 mo-dahir.
 aftab-mirza.
 SNProductOwner.
+amoore-coder.
 Charanjet.
 dcord1x.
 Dhruvyadav2000.
@@ -223,15 +224,14 @@ soham-shee.
 riya-misra-1.
 Saileshlanka.
 sheikhafsarzap.
-Paulsylo25.
 
 **Other contributors:**
+Paulsylo25.
 Rampriya-S.
 alkaChaudhary73.
 chelming.
 bhavyajain511.
 Shreedevisnow.
-amoore-coder.
 Beeram12.
 hoederath.
 KedarisettiSreeVamsi.
@@ -628,6 +628,7 @@ sonamtiwari8.
 Adiana3308.
 akhoshnood.
 allam1234.
+amoore-coder.
 Charanjet.
 Decoder-Paul.
 DhanushNehru.
@@ -662,7 +663,6 @@ puneet94.
 Shreedevisnow.
 sisco0.
 yuvraj1107thapa.
-amoore-coder.
 ashaw7697.
 Beeram12.
 crooks-s.
