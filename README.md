@@ -223,10 +223,9 @@ soham-shee.
 riya-misra-1.
 Saileshlanka.
 sheikhafsarzap.
-Jaspalsinghchot.
+Paulsylo25.
 
 **Other contributors:**
-Paulsylo25.
 Rampriya-S.
 alkaChaudhary73.
 chelming.
@@ -263,6 +262,7 @@ ultralegendary.
 valaparlasalmonraj.
 YadlaMani.
 aykmrgit.
+Jaspalsinghchot.
 kalyan120694.
 kmohit2809.
 abhishekchavan-git.
@@ -455,7 +455,6 @@ mak1A4.
 selvarun-umass.
 shivamTodwal.
 iar42.
-Jaspalsinghchot.
 mlemartien.
 riya-misra-1.
 hentonjd.
@@ -470,6 +469,7 @@ ravichandra1998g.
 YTejaswini18.
 anveshmupparaju.
 ivan-betev.
+Jaspalsinghchot.
 lakshmikanthgupta.
 Praiseto.
 bkb68.
