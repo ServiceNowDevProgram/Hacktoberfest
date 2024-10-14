@@ -210,7 +210,6 @@ Mexiprince.
 naveenraw25.
 nowitsvashu.
 watrick.
-alkaChaudhary73.
 mo-dahir.
 aftab-mirza.
 SNProductOwner.
@@ -221,12 +220,13 @@ katsiarynasoshyna.
 soham-shee.
 ravichandra1998g.
 riya-misra-1.
+Saileshlanka.
 
 **Other contributors:**
-Saileshlanka.
 sheikhafsarzap.
 Paulsylo25.
 Rampriya-S.
+alkaChaudhary73.
 chelming.
 bhavyajain511.
 Shreedevisnow.
@@ -432,10 +432,10 @@ anillande90.
 ayleeandersen.
 Abhishekchowdarapu.
 alikuttyka.
+sandeepd26.
 aswamy93.
 BadalHub.
 MrChrisE.
-sandeepd26.
 vandna07.
 at8807602.
 abhrajyotikanrar.
@@ -609,7 +609,6 @@ revantKulkarni.
 trade12.
 ttoter.
 watrick.
-alkaChaudhary73.
 AlphaEagle.
 JWITSM.
 mo-dahir.
@@ -645,6 +644,7 @@ thisnameissoclever.
 ujjwalprem.
 ChilloutSenthil.
 mockspeed.
+alkaChaudhary73.
 rohantjoshi.
 1shabby.
 abhilash264.
