@@ -205,6 +205,7 @@ ravichandra1998g.
 sheikhafsarzap.
 at8807602.
 dadhich-ashish.
+alkaChaudhary73.
 Vishnu-rvk.
 isaac-vicentini.
 jahnaviT2003.
@@ -217,7 +218,6 @@ S-w-a-p-n-i-l-22.
 debendu-das.
 naveenraw25.
 watrick.
-alkaChaudhary73.
 mo-dahir.
 Harshuu870.
 SNProductOwner.
@@ -595,6 +595,7 @@ rmedved84.
 src107.
 fn20200323.
 pratyushasndev.
+alkaChaudhary73.
 Vishnu-rvk.
 homealone07.
 Iamsant.
@@ -605,9 +606,9 @@ Sagar-agarwal.
 sndevs-slacker-issue-reporter[bot].
 vhudlikar.
 wiresgit.
-yourepicservices.
 
 **Top 50% contributors:**
+yourepicservices.
 amoore-coder.
 ChecksumFailed.
 katsiarynasoshyna.
@@ -622,7 +623,6 @@ revantKulkarni.
 trade12.
 ttoter.
 watrick.
-alkaChaudhary73.
 AlphaEagle.
 JWITSM.
 mo-dahir.
