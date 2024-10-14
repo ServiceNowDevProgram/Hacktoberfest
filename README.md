@@ -154,10 +154,10 @@ snamjosh.
 404paige.
 ynr-ram.
 aswamy93.
-koratalas.
+sandeepd26.
 
 **Top 10% contributors:**
-sandeepd26.
+koratalas.
 selvarun-umass.
 ashoo-jindal.
 MartinStoyanoff.
@@ -241,7 +241,6 @@ tejasathalye.
 umangkedia92.
 anurags10.
 ashu759.
-ChilloutSenthil.
 ChndrshP.
 devalcodes.
 DhanushNehru.
@@ -311,6 +310,7 @@ BH0LL.
 BhageshChavan.
 blindaks.
 ChandBasha-code.
+ChilloutSenthil.
 cschmidt82.
 daviddw2022.
 davidehira.
@@ -432,8 +432,8 @@ azeezgaa.
 deepak-64742.
 rafzk.
 anillande90.
-ayleeandersen.
 sandeepd26.
+ayleeandersen.
 Abhishekchowdarapu.
 alikuttyka.
 aswamy93.
@@ -645,7 +645,6 @@ tanu-profile.
 TheTreyKyle.
 thisnameissoclever.
 ujjwalprem.
-ChilloutSenthil.
 mockspeed.
 alkaChaudhary73.
 rohantjoshi.
@@ -701,9 +700,9 @@ igrzhukovich.
 j4rodm.
 jamesfoot.
 JBscriptsNow.
+JingAlanzhixin.
 
 **Other contributors:**
-JingAlanzhixin.
 jordanrogus.
 Juusoee.
 KartikeSingh.
@@ -749,6 +748,7 @@ workpurposeusername.
 YadlaMani.
 zaidongy.
 bgrk005.
+ChilloutSenthil.
 jon-lind-sn.
 kalyan120694.
 manoj424.
