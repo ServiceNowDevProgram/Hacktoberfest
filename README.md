@@ -187,7 +187,6 @@ Rampriya-S.
 shridk.
 unbirthdays.
 anveshmupparaju.
-captainbraddles.
 mandeepkaran.
 ivan-betev.
 nowitsvashu.
@@ -197,6 +196,7 @@ SrijanPatwa.
 vermaamit1664.
 abhrajyotikanrar.
 QI-XING.
+captainbraddles.
 
 **Top 50% contributors:**
 DanielMadsenDK.
@@ -428,8 +428,8 @@ ajcooper72.
 chelming.
 hrobarikt.
 sumanthdosapati.
-smartcarleen.
 sandeepd26.
+smartcarleen.
 ashoo-jindal.
 urspvs.
 ankitshu.
@@ -459,7 +459,6 @@ at8807602.
 Jaspalsinghchot.
 abhrajyotikanrar.
 PranavBhagat18.
-captainbraddles.
 Irston.
 litwi1rm.
 mak1A4.
@@ -471,6 +470,7 @@ riya-misra-1.
 hentonjd.
 23Thom.
 aatrey882.
+captainbraddles.
 salmaniqbal92.
 csharpie.
 mohitchauhan-dev.
