@@ -160,8 +160,8 @@ YTejaswini18.
 **Top 10% contributors:**
 aswamy93.
 ashoo-jindal.
-selvarun-umass.
 Praiseto.
+selvarun-umass.
 MartinStoyanoff.
 bkb68.
 alkaChaudhary73.
@@ -462,11 +462,11 @@ PranavBhagat18.
 Irston.
 litwi1rm.
 mak1A4.
+Praiseto.
 selvarun-umass.
 shivamTodwal.
 iar42.
 mlemartien.
-Praiseto.
 riya-misra-1.
 hentonjd.
 23Thom.
