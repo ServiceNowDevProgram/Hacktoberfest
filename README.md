@@ -195,10 +195,11 @@ RahmanM.
 SrijanPatwa.
 vermaamit1664.
 abhrajyotikanrar.
+QI-XING.
 DanielMadsenDK.
-mohitchauhan-dev.
 
 **Top 50% contributors:**
+mohitchauhan-dev.
 Mexiprince.
 ravichandra1998g.
 at8807602.
@@ -206,7 +207,6 @@ dadhich-ashish.
 Vishnu-rvk.
 isaac-vicentini.
 jahnaviT2003.
-QI-XING.
 sndevs-slacker-issue-reporter[bot].
 vhudlikar.
 amoore-coder.
@@ -501,12 +501,13 @@ avssrikanth.
 shraddhakadam301298.
 shridk.
 Atul-LNG.
+QI-XING.
 sheikhafsarzap.
 davidkwhuang.
 zahidask.
-DynamiteC.
 
 **Top 25% contributors:**
+DynamiteC.
 phr-nk.
 shakeel-sheikh.
 vjtknn.
@@ -522,7 +523,6 @@ gregorwmail.
 harishankert.
 himanshu7895.
 mady22070.
-QI-XING.
 hoederath.
 kylburns89.
 maheshkhatal27.
