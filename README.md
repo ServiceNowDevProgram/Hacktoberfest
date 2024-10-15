@@ -184,7 +184,6 @@ templetontsai.
 wiz0floyd.
 pradeepthipani.
 Rampriya-S.
-Harshuu870.
 shridk.
 unbirthdays.
 anveshmupparaju.
@@ -196,6 +195,7 @@ RahmanM.
 SrijanPatwa.
 vermaamit1664.
 abhrajyotikanrar.
+Harshuu870.
 QI-XING.
 
 **Top 50% contributors:**
@@ -547,7 +547,6 @@ Jayden-Chiu.
 OrgovanGeza.
 arhaan2019.
 designitsecure.
-Harshuu870.
 llipovsky.
 seviceN.
 tejudhoran95.
@@ -578,6 +577,7 @@ danielliaus.
 JonSandoval.
 sauravsumankumar.
 ashuprince121.
+Harshuu870.
 hrichiksite.
 Iuliak.
 Munnisona.
