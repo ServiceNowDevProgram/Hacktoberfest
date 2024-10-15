@@ -172,7 +172,6 @@ Atul-LNG.
 bird-03.
 
 **Top 25% contributors:**
-spnegi.
 Mexiprince.
 ronaldkarim.
 ariyadmir.
@@ -180,6 +179,7 @@ himanshu7895.
 kylburns89.
 maheshkhatal27.
 priyasnexpert.
+spnegi.
 templetontsai.
 wiz0floyd.
 pradeepthipani.
@@ -510,7 +510,6 @@ sheikhafsarzap.
 **Top 25% contributors:**
 davidkwhuang.
 Mexiprince.
-spnegi.
 zahidask.
 DynamiteC.
 phr-nk.
@@ -533,6 +532,7 @@ maheshkhatal27.
 mjonssonme.
 nthumma.
 priyasnexpert.
+spnegi.
 templetontsai.
 b1naryst0rm.
 namrataghorpade.
