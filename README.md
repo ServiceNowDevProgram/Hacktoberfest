@@ -195,10 +195,11 @@ RahmanM.
 SrijanPatwa.
 vermaamit1664.
 abhrajyotikanrar.
+Harshuu870.
 QI-XING.
-captainbraddles.
 
 **Top 50% contributors:**
+captainbraddles.
 DanielMadsenDK.
 katsiarynasoshyna.
 mohitchauhan-dev.
@@ -206,7 +207,6 @@ ravichandra1998g.
 at8807602.
 dadhich-ashish.
 Vishnu-rvk.
-Harshuu870.
 isaac-vicentini.
 jahnaviT2003.
 sndevs-slacker-issue-reporter[bot].
@@ -577,6 +577,7 @@ danielliaus.
 JonSandoval.
 sauravsumankumar.
 ashuprince121.
+Harshuu870.
 hrichiksite.
 Iuliak.
 Munnisona.
@@ -602,7 +603,6 @@ src107.
 fn20200323.
 pratyushasndev.
 Vishnu-rvk.
-Harshuu870.
 homealone07.
 Iamsant.
 isaac-vicentini.
