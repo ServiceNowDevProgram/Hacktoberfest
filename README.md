@@ -224,11 +224,10 @@ mo-dahir.
 dcord1x.
 SaiSankar1309.
 soham-shee.
-UTSAVS26.
 riya-misra-1.
+sheikhafsarzap.
 
 **Other contributors:**
-sheikhafsarzap.
 Paulsylo25.
 chelming.
 aftab-mirza.
@@ -246,6 +245,7 @@ shreyawani98.
 stefanintech.
 tejasathalye.
 umangkedia92.
+UTSAVS26.
 animeshdasgit.
 anurags10.
 ashu759.
@@ -651,7 +651,6 @@ patrickpaterlini.
 SaiSankar1309.
 soham-shee.
 Thrizvi.
-UTSAVS26.
 LucasRocha2308.
 Mahesh-Krishnan1.
 maialithar.
@@ -691,6 +690,7 @@ stwinkle.
 tejasathalye.
 thameemskings.
 umangkedia92.
+UTSAVS26.
 vk-cloud.
 4bode.
 abhay625.
