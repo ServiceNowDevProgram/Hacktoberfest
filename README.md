@@ -158,8 +158,8 @@ YTejaswini18.
 aswamy93.
 
 **Top 10% contributors:**
-selvarun-umass.
 sandeepd26.
+selvarun-umass.
 ashoo-jindal.
 MartinStoyanoff.
 Praiseto.
@@ -439,8 +439,8 @@ sychi77.
 ronaldkarim.
 azeezgaa.
 deepak-64742.
-rafzk.
 sandeepd26.
+rafzk.
 anillande90.
 koratalas.
 ayleeandersen.
