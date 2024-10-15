@@ -219,16 +219,16 @@ debendu-das.
 naveenraw25.
 Saileshlanka.
 Jaspalsinghchot.
+Paulsylo25.
 watrick.
 mo-dahir.
 dcord1x.
 SaiSankar1309.
 soham-shee.
-riya-misra-1.
 
 **Other contributors:**
+riya-misra-1.
 sheikhafsarzap.
-Paulsylo25.
 chelming.
 aftab-mirza.
 bhavyajain511.
@@ -500,14 +500,15 @@ oasif.
 jonahpiascik.
 soerenmaucher.
 avssrikanth.
+Paulsylo25.
 shraddhakadam301298.
 shridk.
 Atul-LNG.
 QI-XING.
 sheikhafsarzap.
-davidkwhuang.
 
 **Top 25% contributors:**
+davidkwhuang.
 Mexiprince.
 spnegi.
 zahidask.
@@ -519,7 +520,6 @@ Yokesh0811.
 MarcMouries.
 sn-ajb.
 DavidMarcial.
-Paulsylo25.
 techYESlogyXplorer.
 alyaanbasha.
 ariyadmir.
