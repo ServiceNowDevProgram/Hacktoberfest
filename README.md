@@ -173,6 +173,7 @@ bird-03.
 
 **Top 25% contributors:**
 spnegi.
+Mexiprince.
 ronaldkarim.
 ariyadmir.
 himanshu7895.
@@ -180,7 +181,6 @@ kylburns89.
 maheshkhatal27.
 priyasnexpert.
 templetontsai.
-Mexiprince.
 wiz0floyd.
 pradeepthipani.
 Rampriya-S.
@@ -509,6 +509,7 @@ sheikhafsarzap.
 davidkwhuang.
 
 **Top 25% contributors:**
+Mexiprince.
 spnegi.
 zahidask.
 DynamiteC.
@@ -530,7 +531,6 @@ mady22070.
 hoederath.
 kylburns89.
 maheshkhatal27.
-Mexiprince.
 mjonssonme.
 nthumma.
 priyasnexpert.
