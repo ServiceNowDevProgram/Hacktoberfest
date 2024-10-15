@@ -219,18 +219,18 @@ naveenraw25.
 Saileshlanka.
 watrick.
 mo-dahir.
+Harshuu870.
 dcord1x.
 Dhruvyadav2000.
 soham-shee.
 riya-misra-1.
 sheikhafsarzap.
-Paulsylo25.
 
 **Other contributors:**
+Paulsylo25.
 chelming.
 aftab-mirza.
 bhavyajain511.
-Harshuu870.
 Shreedevisnow.
 Beeram12.
 Charanjet.
@@ -633,6 +633,7 @@ mo-dahir.
 dcord1x.
 djunaid.
 Haile-08.
+Harshuu870.
 sonamtiwari8.
 Adiana3308.
 akhoshnood.
@@ -664,7 +665,6 @@ abhilash264.
 aftab-mirza.
 Alprez.
 chris-canto-11.
-Harshuu870.
 NayeemKaka.
 puneet94.
 Shreedevisnow.
