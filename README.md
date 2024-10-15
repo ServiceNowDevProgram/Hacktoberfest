@@ -217,6 +217,7 @@ VaishnaviLathkar98.
 debendu-das.
 naveenraw25.
 Saileshlanka.
+Jaspalsinghchot.
 watrick.
 mo-dahir.
 Harshuu870.
@@ -224,11 +225,10 @@ dcord1x.
 Dhruvyadav2000.
 soham-shee.
 UTSAVS26.
-riya-misra-1.
 
 **Other contributors:**
+riya-misra-1.
 sheikhafsarzap.
-Jaspalsinghchot.
 Paulsylo25.
 chelming.
 aftab-mirza.
@@ -456,6 +456,7 @@ vandna07.
 
 **Top 10% contributors:**
 at8807602.
+Jaspalsinghchot.
 abhrajyotikanrar.
 PranavBhagat18.
 captainbraddles.
@@ -465,7 +466,6 @@ mak1A4.
 selvarun-umass.
 shivamTodwal.
 iar42.
-Jaspalsinghchot.
 mlemartien.
 riya-misra-1.
 hentonjd.
