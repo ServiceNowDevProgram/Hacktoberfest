@@ -194,11 +194,12 @@ chetnadev.
 RahmanM.
 SrijanPatwa.
 vermaamit1664.
+isaac-vicentini.
 sndevs-slacker-issue-reporter[bot].
 abhrajyotikanrar.
-Harshuu870.
 
 **Top 50% contributors:**
+Harshuu870.
 QI-XING.
 captainbraddles.
 DanielMadsenDK.
@@ -207,7 +208,6 @@ mohitchauhan-dev.
 ravichandra1998g.
 at8807602.
 dadhich-ashish.
-isaac-vicentini.
 Vishnu-rvk.
 jahnaviT2003.
 vhudlikar.
@@ -574,6 +574,7 @@ almajam.
 brenduh.
 dalestubblefield.
 danielliaus.
+isaac-vicentini.
 JonSandoval.
 sauravsumankumar.
 sndevs-slacker-issue-reporter[bot].
@@ -603,7 +604,6 @@ rmedved84.
 src107.
 fn20200323.
 pratyushasndev.
-isaac-vicentini.
 Vishnu-rvk.
 homealone07.
 Iamsant.
