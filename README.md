@@ -153,8 +153,8 @@ snamjosh.
 sandeepd26.
 ankitshu.
 404paige.
-ynr-ram.
 koratalas.
+ynr-ram.
 YTejaswini18.
 
 **Top 10% contributors:**
@@ -440,12 +440,12 @@ Radhe-Manasa.
 aykmrgit.
 stevezero.
 sychi77.
+koratalas.
 ronaldkarim.
 azeezgaa.
 deepak-64742.
 rafzk.
 anillande90.
-koratalas.
 ayleeandersen.
 Abhishekchowdarapu.
 alikuttyka.
