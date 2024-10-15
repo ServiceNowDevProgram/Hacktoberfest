@@ -154,11 +154,11 @@ ankitshu.
 404paige.
 ynr-ram.
 koratalas.
+sandeepd26.
 YTejaswini18.
-aswamy93.
 
 **Top 10% contributors:**
-sandeepd26.
+aswamy93.
 selvarun-umass.
 ashoo-jindal.
 MartinStoyanoff.
@@ -249,7 +249,6 @@ ChndrshP.
 devalcodes.
 DhanushNehru.
 ezratkim.
-furquan5.
 lakshmikanthgupta.
 msdfib.
 namrataghorpade.
@@ -324,6 +323,7 @@ dwilso1018.
 erlingvt.
 ersureshbe.
 ewatch.
+furquan5.
 gauravghodinde.
 girishnagaraj09.
 Git-Snow-dev.
@@ -438,8 +438,8 @@ stevezero.
 sychi77.
 ronaldkarim.
 azeezgaa.
-deepak-64742.
 sandeepd26.
+deepak-64742.
 rafzk.
 anillande90.
 koratalas.
@@ -707,14 +707,13 @@ devalcodes.
 dhruvii-powershell.
 dorsy99.
 ezratkim.
-furquan5.
 HarshMN2345.
 hmadhsan.
 iamvpbhaskar.
 igrzhukovich.
+j4rodm.
 
 **Other contributors:**
-j4rodm.
 jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
@@ -1045,6 +1044,7 @@ fisikos.
 flab-io.
 Flashdevp95.
 fredosborne.
+furquan5.
 gauravghodinde.
 Gayathrichennaioutlook.
 Geraldf.
