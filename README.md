@@ -191,20 +191,20 @@ ivan-betev.
 nowitsvashu.
 chetnadev.
 RahmanM.
+Rampriya-S.
 SrijanPatwa.
 vermaamit1664.
 abhrajyotikanrar.
 QI-XING.
 captainbraddles.
-DanielMadsenDK.
 
 **Top 50% contributors:**
+DanielMadsenDK.
 katsiarynasoshyna.
 mohitchauhan-dev.
 ravichandra1998g.
 at8807602.
 dadhich-ashish.
-Rampriya-S.
 Vishnu-rvk.
 isaac-vicentini.
 jahnaviT2003.
