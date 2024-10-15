@@ -189,6 +189,7 @@ anveshmupparaju.
 captainbraddles.
 mandeepkaran.
 ivan-betev.
+Mexiprince.
 nowitsvashu.
 chetnadev.
 RahmanM.
@@ -197,10 +198,9 @@ vermaamit1664.
 abhrajyotikanrar.
 QI-XING.
 DanielMadsenDK.
-mohitchauhan-dev.
 
 **Top 50% contributors:**
-Mexiprince.
+mohitchauhan-dev.
 ravichandra1998g.
 at8807602.
 dadhich-ashish.
@@ -559,6 +559,7 @@ domuserk.
 HarneetSital.
 jacebenson.
 mandeepkaran.
+Mexiprince.
 ReginaldFawcett.
 Saileshlanka.
 thorn91.
@@ -587,7 +588,6 @@ annaydas.
 DanielMadsenDK.
 goranlundqvist.
 harisnad.
-Mexiprince.
 riya-vermaa.
 allenandreas.
 anubhav-ritolia.
