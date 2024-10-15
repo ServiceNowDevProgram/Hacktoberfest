@@ -230,6 +230,7 @@ riya-misra-1.
 **Other contributors:**
 sheikhafsarzap.
 Paulsylo25.
+Thrizvi.
 chelming.
 aftab-mirza.
 bhavyajain511.
@@ -272,7 +273,6 @@ YadlaMani.
 aykmrgit.
 kalyan120694.
 kmohit2809.
-Thrizvi.
 abhishekchavan-git.
 prashantmrshine.
 bgrk005.
@@ -620,6 +620,7 @@ katsiarynasoshyna.
 markroethof.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
+Thrizvi.
 anguspalmer.
 Badal2k23.
 bhavyajain511.
@@ -650,7 +651,6 @@ MiroslawBuszek.
 pandeysumit-now.
 patrickpaterlini.
 soham-shee.
-Thrizvi.
 UTSAVS26.
 LucasRocha2308.
 Mahesh-Krishnan1.
