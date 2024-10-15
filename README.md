@@ -200,6 +200,7 @@ captainbraddles.
 DanielMadsenDK.
 
 **Top 50% contributors:**
+katsiarynasoshyna.
 mohitchauhan-dev.
 ravichandra1998g.
 at8807602.
@@ -210,7 +211,6 @@ jahnaviT2003.
 sndevs-slacker-issue-reporter[bot].
 vhudlikar.
 amoore-coder.
-katsiarynasoshyna.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
 VaishnaviLathkar98.
@@ -588,6 +588,7 @@ annaydas.
 DanielMadsenDK.
 goranlundqvist.
 harisnad.
+katsiarynasoshyna.
 riya-vermaa.
 allenandreas.
 anubhav-ritolia.
@@ -610,13 +611,12 @@ jeremyrubio27.
 Sagar-agarwal.
 sndevs-slacker-issue-reporter[bot].
 vhudlikar.
-wiresgit.
 
 **Top 50% contributors:**
+wiresgit.
 yourepicservices.
 amoore-coder.
 ChecksumFailed.
-katsiarynasoshyna.
 markroethof.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
