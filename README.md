@@ -203,10 +203,10 @@ captainbraddles.
 DanielMadsenDK.
 katsiarynasoshyna.
 mohitchauhan-dev.
+sndevs-slacker-issue-reporter[bot].
 ravichandra1998g.
 at8807602.
 dadhich-ashish.
-sndevs-slacker-issue-reporter[bot].
 Vishnu-rvk.
 isaac-vicentini.
 jahnaviT2003.
@@ -590,6 +590,7 @@ goranlundqvist.
 harisnad.
 katsiarynasoshyna.
 riya-vermaa.
+sndevs-slacker-issue-reporter[bot].
 allenandreas.
 anubhav-ritolia.
 apple9000.
@@ -602,7 +603,6 @@ rmedved84.
 src107.
 fn20200323.
 pratyushasndev.
-sndevs-slacker-issue-reporter[bot].
 Vishnu-rvk.
 homealone07.
 Iamsant.
