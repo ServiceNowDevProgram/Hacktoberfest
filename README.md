@@ -206,10 +206,10 @@ mohitchauhan-dev.
 ravichandra1998g.
 at8807602.
 dadhich-ashish.
+sndevs-slacker-issue-reporter[bot].
 Vishnu-rvk.
 isaac-vicentini.
 jahnaviT2003.
-sndevs-slacker-issue-reporter[bot].
 vhudlikar.
 amoore-coder.
 Dhruvyadav2000.
@@ -602,6 +602,7 @@ rmedved84.
 src107.
 fn20200323.
 pratyushasndev.
+sndevs-slacker-issue-reporter[bot].
 Vishnu-rvk.
 homealone07.
 Iamsant.
@@ -609,7 +610,6 @@ isaac-vicentini.
 jahnaviT2003.
 jeremyrubio27.
 Sagar-agarwal.
-sndevs-slacker-issue-reporter[bot].
 
 **Top 50% contributors:**
 vhudlikar.
