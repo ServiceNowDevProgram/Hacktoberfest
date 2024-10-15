@@ -204,6 +204,7 @@ mohitchauhan-dev.
 ravichandra1998g.
 at8807602.
 dadhich-ashish.
+Thrizvi.
 Vishnu-rvk.
 isaac-vicentini.
 jahnaviT2003.
@@ -218,7 +219,6 @@ debendu-das.
 naveenraw25.
 Saileshlanka.
 Jaspalsinghchot.
-Thrizvi.
 watrick.
 mo-dahir.
 Harshuu870.
@@ -563,6 +563,7 @@ Mexiprince.
 ReginaldFawcett.
 Saileshlanka.
 thorn91.
+Thrizvi.
 Himanshu-skb-oo7.
 mmaraj1.
 nowitsvashu.
@@ -589,7 +590,6 @@ DanielMadsenDK.
 goranlundqvist.
 harisnad.
 riya-vermaa.
-Thrizvi.
 allenandreas.
 anubhav-ritolia.
 apple9000.
