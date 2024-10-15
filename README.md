@@ -227,6 +227,7 @@ SaiSankar1309.
 soham-shee.
 
 **Other contributors:**
+prithvibalakka.
 riya-misra-1.
 sheikhafsarzap.
 chelming.
@@ -259,7 +260,6 @@ msdfib.
 namrataghorpade.
 NilotpalMaitra.
 phr-nk.
-prithvibalakka.
 sachinggsingh.
 Saiprethaa.
 saitarun2499.
@@ -654,6 +654,7 @@ Mahesh-Krishnan1.
 maialithar.
 MihirRathod.
 preshitd.
+prithvibalakka.
 tanu-profile.
 TheTreyKyle.
 thisnameissoclever.
@@ -714,9 +715,9 @@ dorsy99.
 ezratkim.
 furquan5.
 HarshMN2345.
-hmadhsan.
 
 **Other contributors:**
+hmadhsan.
 iamvpbhaskar.
 igrzhukovich.
 j4rodm.
@@ -740,7 +741,6 @@ pavankumar-4.
 physi.
 pratyushmp.
 PreyumKr.
-prithvibalakka.
 RajputUsman.
 Ratheshan03.
 rawnaldduck.
