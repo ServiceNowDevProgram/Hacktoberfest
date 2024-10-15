@@ -197,9 +197,9 @@ SrijanPatwa.
 vermaamit1664.
 abhrajyotikanrar.
 QI-XING.
-DanielMadsenDK.
 
 **Top 50% contributors:**
+DanielMadsenDK.
 mohitchauhan-dev.
 ravichandra1998g.
 at8807602.
@@ -225,9 +225,9 @@ Dhruvyadav2000.
 soham-shee.
 UTSAVS26.
 riya-misra-1.
-sheikhafsarzap.
 
 **Other contributors:**
+sheikhafsarzap.
 Paulsylo25.
 chelming.
 aftab-mirza.
@@ -272,7 +272,6 @@ YadlaMani.
 aykmrgit.
 kalyan120694.
 kmohit2809.
-Thrizvi.
 abhishekchavan-git.
 prashantmrshine.
 bgrk005.
@@ -649,7 +648,6 @@ MiroslawBuszek.
 pandeysumit-now.
 patrickpaterlini.
 soham-shee.
-Thrizvi.
 UTSAVS26.
 LucasRocha2308.
 Mahesh-Krishnan1.
@@ -690,6 +688,7 @@ stefanintech.
 stwinkle.
 tejasathalye.
 thameemskings.
+Thrizvi.
 umangkedia92.
 vk-cloud.
 4bode.
