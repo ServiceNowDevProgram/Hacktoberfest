@@ -249,6 +249,7 @@ ChndrshP.
 devalcodes.
 DhanushNehru.
 ezratkim.
+furquan5.
 lakshmikanthgupta.
 msdfib.
 namrataghorpade.
@@ -326,7 +327,6 @@ dwilso1018.
 erlingvt.
 ersureshbe.
 ewatch.
-furquan5.
 gauravghodinde.
 girishnagaraj09.
 Git-Snow-dev.
@@ -708,14 +708,15 @@ devalcodes.
 dhruvii-powershell.
 dorsy99.
 ezratkim.
+furquan5.
 HarshMN2345.
 hmadhsan.
 iamvpbhaskar.
 igrzhukovich.
 j4rodm.
-jamesfoot.
 
 **Other contributors:**
+jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
 jordanrogus.
@@ -1048,7 +1049,6 @@ fisikos.
 flab-io.
 Flashdevp95.
 fredosborne.
-furquan5.
 gauravghodinde.
 Gayathrichennaioutlook.
 Geraldf.
