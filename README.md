@@ -220,20 +220,20 @@ Saileshlanka.
 Jaspalsinghchot.
 watrick.
 mo-dahir.
-Harshuu870.
 dcord1x.
 Dhruvyadav2000.
 soham-shee.
 UTSAVS26.
 riya-misra-1.
+sheikhafsarzap.
 
 **Other contributors:**
-sheikhafsarzap.
 Paulsylo25.
 chelming.
 aftab-mirza.
 bhavyajain511.
 Dwarkilal-Monetapp.
+Harshuu870.
 Shreedevisnow.
 Beeram12.
 Charanjet.
@@ -430,8 +430,8 @@ chelming.
 hrobarikt.
 sumanthdosapati.
 smartcarleen.
-ashoo-jindal.
 sandeepd26.
+ashoo-jindal.
 urspvs.
 ankitshu.
 chetnadev.
@@ -635,7 +635,6 @@ mo-dahir.
 dcord1x.
 djunaid.
 Haile-08.
-Harshuu870.
 sonamtiwari8.
 Adiana3308.
 akhoshnood.
@@ -670,6 +669,7 @@ aftab-mirza.
 Alprez.
 chris-canto-11.
 Dwarkilal-Monetapp.
+Harshuu870.
 NayeemKaka.
 puneet94.
 Shreedevisnow.
