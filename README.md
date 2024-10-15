@@ -159,8 +159,8 @@ YTejaswini18.
 
 **Top 10% contributors:**
 aswamy93.
-ashoo-jindal.
 Praiseto.
+ashoo-jindal.
 selvarun-umass.
 MartinStoyanoff.
 bkb68.
@@ -459,8 +459,8 @@ at8807602.
 Jaspalsinghchot.
 abhrajyotikanrar.
 PranavBhagat18.
-Irston.
 Praiseto.
+Irston.
 litwi1rm.
 mak1A4.
 selvarun-umass.
