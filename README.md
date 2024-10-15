@@ -153,8 +153,8 @@ snamjosh.
 ankitshu.
 404paige.
 ynr-ram.
-koratalas.
 sandeepd26.
+koratalas.
 YTejaswini18.
 
 **Top 10% contributors:**
@@ -199,7 +199,6 @@ DanielMadsenDK.
 mohitchauhan-dev.
 
 **Top 50% contributors:**
-VaishnaviLathkar98.
 Mexiprince.
 ravichandra1998g.
 at8807602.
@@ -214,6 +213,7 @@ amoore-coder.
 katsiarynasoshyna.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
+VaishnaviLathkar98.
 debendu-das.
 naveenraw25.
 Saileshlanka.
@@ -533,7 +533,6 @@ templetontsai.
 b1naryst0rm.
 namrataghorpade.
 sdgrube2.
-VaishnaviLathkar98.
 AdilBasha1SAP.
 bradtiltonnow.
 pradeepthipani.
@@ -564,6 +563,7 @@ Himanshu-skb-oo7.
 mmaraj1.
 nowitsvashu.
 sanjivmeher.
+VaishnaviLathkar98.
 aman2519.
 manrick.
 vermaamit1664.
