@@ -218,6 +218,7 @@ debendu-das.
 naveenraw25.
 Saileshlanka.
 Jaspalsinghchot.
+Thrizvi.
 watrick.
 mo-dahir.
 Harshuu870.
@@ -225,12 +226,11 @@ dcord1x.
 Dhruvyadav2000.
 soham-shee.
 UTSAVS26.
-riya-misra-1.
 
 **Other contributors:**
+riya-misra-1.
 sheikhafsarzap.
 Paulsylo25.
-Thrizvi.
 chelming.
 aftab-mirza.
 bhavyajain511.
@@ -589,6 +589,7 @@ DanielMadsenDK.
 goranlundqvist.
 harisnad.
 riya-vermaa.
+Thrizvi.
 allenandreas.
 anubhav-ritolia.
 apple9000.
@@ -610,9 +611,9 @@ jeremyrubio27.
 Sagar-agarwal.
 sndevs-slacker-issue-reporter[bot].
 vhudlikar.
-wiresgit.
 
 **Top 50% contributors:**
+wiresgit.
 yourepicservices.
 amoore-coder.
 ChecksumFailed.
@@ -620,7 +621,6 @@ katsiarynasoshyna.
 markroethof.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
-Thrizvi.
 anguspalmer.
 Badal2k23.
 bhavyajain511.
