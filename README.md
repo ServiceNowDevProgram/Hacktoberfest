@@ -224,9 +224,9 @@ Dhruvyadav2000.
 soham-shee.
 riya-misra-1.
 sheikhafsarzap.
+Paulsylo25.
 
 **Other contributors:**
-Paulsylo25.
 chelming.
 aftab-mirza.
 bhavyajain511.
@@ -320,6 +320,7 @@ ChilloutSenthil.
 cschmidt82.
 daviddw2022.
 davidehira.
+Dwarkilal-Monetapp.
 dwilso1018.
 erlingvt.
 ersureshbe.
@@ -712,9 +713,9 @@ hmadhsan.
 iamvpbhaskar.
 igrzhukovich.
 j4rodm.
+jamesfoot.
 
 **Other contributors:**
-jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
 jordanrogus.
@@ -1023,6 +1024,7 @@ drc.
 DRDeep7.
 drizzlt.
 DudeDrew.
+Dwarkilal-Monetapp.
 dwilso1018.
 eduard-nitoi.
 EduardoUG.
