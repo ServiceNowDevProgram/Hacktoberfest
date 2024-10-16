@@ -248,7 +248,6 @@ Ramesh-hub007.
 SaiSankar1309.
 shreyawani98.
 tejasathalye.
-thejasr110.
 umangkedia92.
 UTSAVS26.
 animeshdasgit.
@@ -306,6 +305,7 @@ Shriramjoshi86.
 sohailkhilji.
 SujathaSuj.
 TanushreeBorase.
+thejasr110.
 A-Vishnupriya.
 acashkr.
 ahamadunnisa-md.
@@ -696,7 +696,6 @@ shreyawani98.
 stwinkle.
 tejasathalye.
 thameemskings.
-thejasr110.
 Thrizvi.
 umangkedia92.
 UTSAVS26.
@@ -720,9 +719,9 @@ deathkraiser.
 demetris7.
 devalcodes.
 dhruvii-powershell.
+dorsy99.
 
 **Other contributors:**
-dorsy99.
 ezratkim.
 HarshMN2345.
 hmadhsan.
@@ -882,6 +881,7 @@ sudhanshu-77.
 SujathaSuj.
 swathinagamahanti.
 TanushreeBorase.
+thejasr110.
 TheSethRose.
 thoffman210.
 TonySerN.
