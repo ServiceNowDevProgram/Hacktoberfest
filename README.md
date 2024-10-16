@@ -230,8 +230,8 @@ mo-dahir.
 **Other contributors:**
 stefanintech.
 dcord1x.
-soham-shee.
 furquan5.
+soham-shee.
 prithvibalakka.
 riya-misra-1.
 sheikhafsarzap.
@@ -650,6 +650,7 @@ akhoshnood.
 allam1234.
 Decoder-Paul.
 DhanushNehru.
+furquan5.
 jesalynrose.
 Ladirinia.
 miracc.
@@ -657,7 +658,6 @@ MiroslawBuszek.
 pandeysumit-now.
 patrickpaterlini.
 soham-shee.
-furquan5.
 LucasRocha2308.
 Mahesh-Krishnan1.
 maialithar.
