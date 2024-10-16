@@ -229,9 +229,9 @@ mo-dahir.
 furquan5.
 stefanintech.
 dcord1x.
+soham-shee.
 
 **Other contributors:**
-soham-shee.
 prithvibalakka.
 riya-misra-1.
 sheikhafsarzap.
@@ -377,6 +377,7 @@ pranjalisr.
 PraveenM1132.
 RahulJamdhade.
 rajfauzdar.
+Ravindranath2511.
 robertbeeman.
 rohantjoshi.
 Ronilpatil22.
@@ -1301,6 +1302,7 @@ rajpootrajs.
 rajubhojane.
 raphaelcrv.
 Ravenon.
+Ravindranath2511.
 razerbackh.
 Razzzial.
 ReapredatoR.
