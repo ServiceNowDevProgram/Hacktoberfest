@@ -201,6 +201,7 @@ Harshuu870.
 
 **Top 50% contributors:**
 QI-XING.
+amoore-coder.
 captainbraddles.
 DanielMadsenDK.
 katsiarynasoshyna.
@@ -211,7 +212,6 @@ dadhich-ashish.
 Vishnu-rvk.
 jahnaviT2003.
 vhudlikar.
-amoore-coder.
 Dhruvyadav2000.
 Paulsylo25.
 S-w-a-p-n-i-l-22.
@@ -587,6 +587,7 @@ Munnisona.
 RaunakScarlet.
 TVani5.
 adarshsingh0205.
+amoore-coder.
 annaydas.
 DanielMadsenDK.
 goranlundqvist.
@@ -611,12 +612,11 @@ Iamsant.
 jahnaviT2003.
 jeremyrubio27.
 Sagar-agarwal.
-vhudlikar.
 
 **Top 50% contributors:**
+vhudlikar.
 wiresgit.
 yourepicservices.
-amoore-coder.
 ChecksumFailed.
 Dhruvyadav2000.
 markroethof.
