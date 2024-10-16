@@ -267,6 +267,7 @@ phr-nk.
 sachinggsingh.
 Saiprethaa.
 saitarun2499.
+sankar-coder.
 Sravanik12.
 TheRashRash.
 ultralegendary.
@@ -381,7 +382,6 @@ Ruchi-here.
 saarimshaikh.
 sagarbhadke08.
 samusahatpure.
-sankar-coder.
 sanuj21.
 seemaPatl.
 sharsha315.
@@ -695,6 +695,7 @@ prashantmrshine.
 RagaChitraMankala.
 Ramesh-hub007.
 SaiSankar1309.
+sankar-coder.
 ShakthiSn.
 shreyawani98.
 stwinkle.
@@ -722,9 +723,9 @@ Coder0131.
 DaleD-SN.
 deathkraiser.
 demetris7.
-devalcodes.
 
 **Other contributors:**
+devalcodes.
 dhruvii-powershell.
 dorsy99.
 ezratkim.
@@ -879,7 +880,6 @@ pviglianti.
 ranjithsit.
 rickylarsson.
 ron-karim.
-sankar-coder.
 Shriramjoshi86.
 sivajyo0803.
 snowritik.
