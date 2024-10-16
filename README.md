@@ -223,9 +223,9 @@ naveenraw25.
 Saileshlanka.
 Jaspalsinghchot.
 mo-dahir.
+stefanintech.
 dcord1x.
 soham-shee.
-stefanintech.
 
 **Other contributors:**
 prithvibalakka.
@@ -638,6 +638,7 @@ dcord1x.
 djunaid.
 Haile-08.
 sonamtiwari8.
+stefanintech.
 Adiana3308.
 akhoshnood.
 allam1234.
@@ -650,7 +651,6 @@ MiroslawBuszek.
 pandeysumit-now.
 patrickpaterlini.
 soham-shee.
-stefanintech.
 LucasRocha2308.
 Mahesh-Krishnan1.
 maialithar.
