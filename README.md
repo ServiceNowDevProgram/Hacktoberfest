@@ -228,11 +228,11 @@ Saileshlanka.
 mo-dahir.
 furquan5.
 stefanintech.
+thejasr110.
 dcord1x.
-soham-shee.
 
 **Other contributors:**
-thejasr110.
+soham-shee.
 prithvibalakka.
 riya-misra-1.
 sheikhafsarzap.
@@ -653,6 +653,7 @@ furquan5.
 Haile-08.
 sonamtiwari8.
 stefanintech.
+thejasr110.
 Adiana3308.
 akhoshnood.
 allam1234.
@@ -665,7 +666,6 @@ MiroslawBuszek.
 pandeysumit-now.
 patrickpaterlini.
 soham-shee.
-thejasr110.
 LucasRocha2308.
 Mahesh-Krishnan1.
 maialithar.
