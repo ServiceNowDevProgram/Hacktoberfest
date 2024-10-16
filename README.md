@@ -224,10 +224,11 @@ Saileshlanka.
 Jaspalsinghchot.
 mo-dahir.
 stefanintech.
+Charanjet.
 dcord1x.
-soham-shee.
 
 **Other contributors:**
+soham-shee.
 prithvibalakka.
 riya-misra-1.
 sheikhafsarzap.
@@ -236,7 +237,6 @@ aftab-mirza.
 bhavyajain511.
 Shreedevisnow.
 Beeram12.
-Charanjet.
 hoederath.
 KedarisettiSreeVamsi.
 MGOPW.
@@ -642,6 +642,7 @@ stefanintech.
 Adiana3308.
 akhoshnood.
 allam1234.
+Charanjet.
 Decoder-Paul.
 DhanushNehru.
 jesalynrose.
@@ -676,7 +677,6 @@ sisco0.
 yuvraj1107thapa.
 ashaw7697.
 Beeram12.
-Charanjet.
 crooks-s.
 Jaskaran-Techno.
 KedarisettiSreeVamsi.
