@@ -273,7 +273,6 @@ YadlaMani.
 aykmrgit.
 kalyan120694.
 kmohit2809.
-Thrizvi.
 abhishekchavan-git.
 prashantmrshine.
 bgrk005.
@@ -660,7 +659,6 @@ MiroslawBuszek.
 pandeysumit-now.
 patrickpaterlini.
 soham-shee.
-Thrizvi.
 LucasRocha2308.
 Mahesh-Krishnan1.
 maialithar.
@@ -698,6 +696,7 @@ stwinkle.
 tejasathalye.
 thameemskings.
 thejasr110.
+Thrizvi.
 umangkedia92.
 UTSAVS26.
 vk-cloud.
