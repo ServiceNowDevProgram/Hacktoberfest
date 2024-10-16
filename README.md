@@ -213,6 +213,7 @@ mohitchauhan-dev.
 ravichandra1998g.
 at8807602.
 dadhich-ashish.
+Jaspalsinghchot.
 Vishnu-rvk.
 Paulsylo25.
 vhudlikar.
@@ -223,7 +224,6 @@ VaishnaviLathkar98.
 debendu-das.
 naveenraw25.
 Saileshlanka.
-Jaspalsinghchot.
 mo-dahir.
 furquan5.
 stefanintech.
@@ -452,6 +452,7 @@ azeezgaa.
 deepak-64742.
 rafzk.
 anillande90.
+Jaspalsinghchot.
 ayleeandersen.
 Abhishekchowdarapu.
 alikuttyka.
@@ -460,10 +461,9 @@ aswamy93.
 BadalHub.
 MrChrisE.
 vandna07.
-at8807602.
 
 **Top 10% contributors:**
-Jaspalsinghchot.
+at8807602.
 Praiseto.
 abhrajyotikanrar.
 alkaChaudhary73.
