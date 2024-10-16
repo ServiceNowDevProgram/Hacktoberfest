@@ -165,16 +165,16 @@ alkaChaudhary73.
 selvarun-umass.
 MartinStoyanoff.
 bkb68.
+spnegi.
 sravankadudhuri.
 eriemer1.
 Rampriya-S.
 shraddhakadam301298.
 Atul-LNG.
-bird-03.
 
 **Top 25% contributors:**
+bird-03.
 kylburns89.
-spnegi.
 Mexiprince.
 ronaldkarim.
 ariyadmir.
@@ -501,6 +501,7 @@ mskoddow.
 gowdah.
 jiteshmalik.
 Paulsylo25.
+spnegi.
 sravankadudhuri.
 danr2c2.
 Litwilly.
@@ -514,12 +515,11 @@ shridk.
 Atul-LNG.
 QI-XING.
 sheikhafsarzap.
-davidkwhuang.
 
 **Top 25% contributors:**
+davidkwhuang.
 kylburns89.
 Mexiprince.
-spnegi.
 zahidask.
 DynamiteC.
 phr-nk.
