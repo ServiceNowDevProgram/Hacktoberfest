@@ -197,10 +197,9 @@ vermaamit1664.
 isaac-vicentini.
 sndevs-slacker-issue-reporter[bot].
 abhrajyotikanrar.
-Harshuu870.
+QI-XING.
 
 **Top 50% contributors:**
-QI-XING.
 amoore-coder.
 captainbraddles.
 DanielMadsenDK.
@@ -210,6 +209,7 @@ ravichandra1998g.
 at8807602.
 dadhich-ashish.
 Vishnu-rvk.
+Harshuu870.
 jahnaviT2003.
 vhudlikar.
 Dhruvyadav2000.
@@ -580,7 +580,6 @@ JonSandoval.
 sauravsumankumar.
 sndevs-slacker-issue-reporter[bot].
 ashuprince121.
-Harshuu870.
 hrichiksite.
 Iuliak.
 Munnisona.
@@ -607,6 +606,7 @@ src107.
 fn20200323.
 pratyushasndev.
 Vishnu-rvk.
+Harshuu870.
 homealone07.
 Iamsant.
 jahnaviT2003.
