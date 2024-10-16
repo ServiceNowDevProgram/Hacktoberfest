@@ -232,6 +232,7 @@ dcord1x.
 soham-shee.
 
 **Other contributors:**
+thejasr110.
 prithvibalakka.
 riya-misra-1.
 sheikhafsarzap.
@@ -249,7 +250,6 @@ SaiSankar1309.
 ShakthiSn.
 shreyawani98.
 tejasathalye.
-thejasr110.
 umangkedia92.
 UTSAVS26.
 animeshdasgit.
@@ -665,6 +665,7 @@ MiroslawBuszek.
 pandeysumit-now.
 patrickpaterlini.
 soham-shee.
+thejasr110.
 LucasRocha2308.
 Mahesh-Krishnan1.
 maialithar.
@@ -702,7 +703,6 @@ shreyawani98.
 stwinkle.
 tejasathalye.
 thameemskings.
-thejasr110.
 Thrizvi.
 umangkedia92.
 UTSAVS26.
