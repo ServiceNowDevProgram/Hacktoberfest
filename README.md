@@ -214,7 +214,6 @@ ravichandra1998g.
 at8807602.
 dadhich-ashish.
 Vishnu-rvk.
-furquan5.
 Paulsylo25.
 vhudlikar.
 Dhruvyadav2000.
@@ -226,6 +225,7 @@ naveenraw25.
 Saileshlanka.
 Jaspalsinghchot.
 mo-dahir.
+furquan5.
 stefanintech.
 
 **Other contributors:**
@@ -615,10 +615,9 @@ src107.
 fn20200323.
 pratyushasndev.
 Vishnu-rvk.
-furquan5.
+homealone07.
 
 **Top 50% contributors:**
-homealone07.
 Iamsant.
 jeremyrubio27.
 Sagar-agarwal.
@@ -643,6 +642,7 @@ JWITSM.
 mo-dahir.
 dcord1x.
 djunaid.
+furquan5.
 Haile-08.
 sonamtiwari8.
 stefanintech.
