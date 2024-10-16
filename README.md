@@ -228,6 +228,7 @@ stefanintech.
 dcord1x.
 
 **Other contributors:**
+KedarisettiSreeVamsi.
 soham-shee.
 HarshLMP870.
 prithvibalakka.
@@ -239,7 +240,6 @@ bhavyajain511.
 Shreedevisnow.
 Beeram12.
 hoederath.
-KedarisettiSreeVamsi.
 MGOPW.
 praisetoyt.
 Ramesh-hub007.
@@ -649,6 +649,7 @@ allam1234.
 Decoder-Paul.
 DhanushNehru.
 jesalynrose.
+KedarisettiSreeVamsi.
 Ladirinia.
 miracc.
 MiroslawBuszek.
@@ -683,7 +684,6 @@ ashaw7697.
 Beeram12.
 crooks-s.
 Jaskaran-Techno.
-KedarisettiSreeVamsi.
 praisetoyt.
 prashantmrshine.
 RagaChitraMankala.
