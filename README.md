@@ -184,6 +184,7 @@ priyasnexpert.
 templetontsai.
 wiz0floyd.
 pradeepthipani.
+QI-XING.
 shridk.
 unbirthdays.
 amoore-coder.
@@ -199,13 +200,12 @@ vermaamit1664.
 watrick.
 isaac-vicentini.
 Paulsylo25.
-sndevs-slacker-issue-reporter[bot].
 
 **Top 50% contributors:**
+sndevs-slacker-issue-reporter[bot].
 abhrajyotikanrar.
 Harshuu870.
 jahnaviT2003.
-QI-XING.
 captainbraddles.
 Charanjet.
 DanielMadsenDK.
@@ -501,6 +501,7 @@ hafsa-asif.
 ovarn.
 devinvalencia.
 mskoddow.
+QI-XING.
 gowdah.
 jiteshmalik.
 spnegi.
@@ -515,7 +516,6 @@ avssrikanth.
 shraddhakadam301298.
 shridk.
 Atul-LNG.
-QI-XING.
 sheikhafsarzap.
 
 **Top 25% contributors:**
