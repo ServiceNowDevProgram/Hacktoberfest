@@ -149,8 +149,8 @@ earlduque.
 Lacah.
 kmxo.
 niamccash.
-snamjosh.
 sandeepd26.
+snamjosh.
 ankitshu.
 404paige.
 koratalas.
@@ -239,7 +239,6 @@ chelming.
 aftab-mirza.
 bhavyajain511.
 Shreedevisnow.
-ANISHAGHOSHAL.
 Beeram12.
 hoederath.
 MGOPW.
@@ -286,6 +285,7 @@ saketh-22.
 Srikanth1306.
 AdibaNaushad.
 ANIKETSURWASE.
+ANISHAGHOSHAL.
 d7ianielsimonP.
 Gowthamsai29.
 Itsreema.
@@ -428,8 +428,8 @@ DavidArthurCole.
 kmxo.
 RahmanM.
 R3J3NT.
-amigujarathi.
 sandeepd26.
+amigujarathi.
 ajcooper72.
 chelming.
 hrobarikt.
@@ -676,7 +676,6 @@ rohantjoshi.
 abhilash264.
 aftab-mirza.
 Alprez.
-ANISHAGHOSHAL.
 chris-canto-11.
 NayeemKaka.
 puneet94.
@@ -720,9 +719,9 @@ demetris7.
 devalcodes.
 dhruvii-powershell.
 dorsy99.
+ezratkim.
 
 **Other contributors:**
-ezratkim.
 HarshMN2345.
 hmadhsan.
 iamvpbhaskar.
@@ -788,6 +787,7 @@ KonvalinkaCodes.
 Marll22.
 Nikuuuuu.
 adamnewhall.
+ANISHAGHOSHAL.
 brumam.
 cenzo85.
 cmanik.
