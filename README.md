@@ -257,6 +257,7 @@ devalcodes.
 DhanushNehru.
 ezratkim.
 lakshmikanthgupta.
+madhu1256.
 msdfib.
 namrataghorpade.
 NilotpalMaitra.
@@ -350,7 +351,6 @@ kriwani.
 kvdev29.
 lokeshwar777.
 loordjay.
-madhu1256.
 mahamed-rashid.
 manoj424.
 mevipinmaurya.
@@ -687,6 +687,7 @@ ashaw7697.
 Beeram12.
 crooks-s.
 Jaskaran-Techno.
+madhu1256.
 praisetoyt.
 prashantmrshine.
 RagaChitraMankala.
@@ -720,9 +721,9 @@ demetris7.
 devalcodes.
 dhruvii-powershell.
 dorsy99.
-ezratkim.
 
 **Other contributors:**
+ezratkim.
 HarshMN2345.
 hmadhsan.
 iamvpbhaskar.
@@ -854,7 +855,6 @@ LakshmiPrasanna96.
 lucas-especta.
 Lxn12.
 MaChenChen1211.
-madhu1256.
 marcos-michalski.
 mebeingmustaq.
 MillerYadira.
