@@ -194,12 +194,12 @@ HarshLMP870.
 ivan-betev.
 nowitsvashu.
 chetnadev.
+Paulsylo25.
 RahmanM.
 SrijanPatwa.
 vermaamit1664.
 watrick.
 isaac-vicentini.
-Paulsylo25.
 
 **Top 50% contributors:**
 sndevs-slacker-issue-reporter[bot].
@@ -488,10 +488,10 @@ csharpie.
 mohitchauhan-dev.
 mr-swann.
 anveshmupparaju.
+Paulsylo25.
 ravichandra1998g.
 ivan-betev.
 lakshmikanthgupta.
-Paulsylo25.
 QI-XING.
 bkb68.
 SrijanPatwa.
