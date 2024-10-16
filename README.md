@@ -255,6 +255,7 @@ devalcodes.
 DhanushNehru.
 ezratkim.
 furquan5.
+HarshLMP870.
 lakshmikanthgupta.
 msdfib.
 namrataghorpade.
@@ -334,7 +335,6 @@ girishnagaraj09.
 Git-Snow-dev.
 GittyHarsha.
 GP-UOB.
-HarshLMP870.
 herambchaudhari4121.
 ishaanshoor.
 JayShukla8.
@@ -718,11 +718,12 @@ dhruvii-powershell.
 dorsy99.
 ezratkim.
 furquan5.
+HarshLMP870.
 HarshMN2345.
 hmadhsan.
-iamvpbhaskar.
 
 **Other contributors:**
+iamvpbhaskar.
 igrzhukovich.
 j4rodm.
 jamesfoot.
@@ -1079,7 +1080,6 @@ han-le.
 Hanan-Ashraf.
 HannaGilbertson.
 hardikvyasji.
-HarshLMP870.
 Harshthakur1825.
 Hasanul-Banna-Himel.
 haupx9.
