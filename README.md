@@ -217,7 +217,6 @@ jahnaviT2003.
 Paulsylo25.
 vhudlikar.
 Dhruvyadav2000.
-KedarisettiSreeVamsi.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
 VaishnaviLathkar98.
@@ -226,9 +225,10 @@ naveenraw25.
 Saileshlanka.
 mo-dahir.
 stefanintech.
+dcord1x.
 
 **Other contributors:**
-dcord1x.
+KedarisettiSreeVamsi.
 soham-shee.
 prithvibalakka.
 riya-misra-1.
@@ -624,7 +624,6 @@ wiresgit.
 yourepicservices.
 ChecksumFailed.
 Dhruvyadav2000.
-KedarisettiSreeVamsi.
 markroethof.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
@@ -650,6 +649,7 @@ allam1234.
 Decoder-Paul.
 DhanushNehru.
 jesalynrose.
+KedarisettiSreeVamsi.
 Ladirinia.
 miracc.
 MiroslawBuszek.
