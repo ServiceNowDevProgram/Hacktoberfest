@@ -229,6 +229,7 @@ dcord1x.
 
 **Other contributors:**
 soham-shee.
+HarshLMP870.
 prithvibalakka.
 riya-misra-1.
 sheikhafsarzap.
@@ -255,7 +256,6 @@ devalcodes.
 DhanushNehru.
 ezratkim.
 furquan5.
-HarshLMP870.
 lakshmikanthgupta.
 msdfib.
 namrataghorpade.
@@ -655,6 +655,7 @@ MiroslawBuszek.
 pandeysumit-now.
 patrickpaterlini.
 soham-shee.
+HarshLMP870.
 LucasRocha2308.
 Mahesh-Krishnan1.
 maialithar.
@@ -718,7 +719,6 @@ dhruvii-powershell.
 dorsy99.
 ezratkim.
 furquan5.
-HarshLMP870.
 HarshMN2345.
 hmadhsan.
 
