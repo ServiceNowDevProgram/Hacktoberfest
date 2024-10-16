@@ -225,9 +225,10 @@ watrick.
 mo-dahir.
 dcord1x.
 soham-shee.
-prithvibalakka.
+stefanintech.
 
 **Other contributors:**
+prithvibalakka.
 riya-misra-1.
 sheikhafsarzap.
 chelming.
@@ -243,7 +244,6 @@ praisetoyt.
 Ramesh-hub007.
 SaiSankar1309.
 shreyawani98.
-stefanintech.
 tejasathalye.
 umangkedia92.
 UTSAVS26.
@@ -650,6 +650,7 @@ MiroslawBuszek.
 pandeysumit-now.
 patrickpaterlini.
 soham-shee.
+stefanintech.
 LucasRocha2308.
 Mahesh-Krishnan1.
 maialithar.
@@ -685,7 +686,6 @@ RagaChitraMankala.
 Ramesh-hub007.
 SaiSankar1309.
 shreyawani98.
-stefanintech.
 stwinkle.
 tejasathalye.
 thameemskings.
