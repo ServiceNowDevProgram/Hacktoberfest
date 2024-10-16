@@ -202,6 +202,7 @@ abhrajyotikanrar.
 **Top 50% contributors:**
 furquan5.
 Harshuu870.
+jahnaviT2003.
 QI-XING.
 amoore-coder.
 captainbraddles.
@@ -215,7 +216,6 @@ at8807602.
 dadhich-ashish.
 Jaspalsinghchot.
 Vishnu-rvk.
-jahnaviT2003.
 Paulsylo25.
 vhudlikar.
 Dhruvyadav2000.
@@ -588,6 +588,7 @@ furquan5.
 Harshuu870.
 hrichiksite.
 Iuliak.
+jahnaviT2003.
 Munnisona.
 RaunakScarlet.
 TVani5.
@@ -614,11 +615,10 @@ src107.
 fn20200323.
 pratyushasndev.
 Vishnu-rvk.
-homealone07.
 
 **Top 50% contributors:**
+homealone07.
 Iamsant.
-jahnaviT2003.
 jeremyrubio27.
 Sagar-agarwal.
 vhudlikar.
