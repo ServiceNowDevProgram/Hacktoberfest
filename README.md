@@ -210,6 +210,7 @@ captainbraddles.
 Charanjet.
 DanielMadsenDK.
 katsiarynasoshyna.
+KedarisettiSreeVamsi.
 mohitchauhan-dev.
 ravichandra1998g.
 at8807602.
@@ -218,7 +219,6 @@ Paulsylo25.
 Vishnu-rvk.
 vhudlikar.
 Dhruvyadav2000.
-KedarisettiSreeVamsi.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
 VaishnaviLathkar98.
@@ -606,6 +606,7 @@ DanielMadsenDK.
 goranlundqvist.
 harisnad.
 katsiarynasoshyna.
+KedarisettiSreeVamsi.
 riya-vermaa.
 allenandreas.
 anubhav-ritolia.
@@ -620,9 +621,9 @@ src107.
 fn20200323.
 pratyushasndev.
 Vishnu-rvk.
-homealone07.
 
 **Top 50% contributors:**
+homealone07.
 Iamsant.
 jeremyrubio27.
 Sagar-agarwal.
@@ -631,7 +632,6 @@ wiresgit.
 yourepicservices.
 ChecksumFailed.
 Dhruvyadav2000.
-KedarisettiSreeVamsi.
 markroethof.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
