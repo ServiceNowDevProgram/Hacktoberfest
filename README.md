@@ -227,9 +227,9 @@ Jaspalsinghchot.
 mo-dahir.
 furquan5.
 stefanintech.
+dcord1x.
 
 **Other contributors:**
-dcord1x.
 KedarisettiSreeVamsi.
 soham-shee.
 prithvibalakka.
@@ -346,6 +346,7 @@ john9006.
 Karthi6559.
 Khushi799.
 KiwiPelago.
+Koustav-coder.
 kriwani.
 kvdev29.
 lokeshwar777.
@@ -1164,6 +1165,7 @@ KiwiPelago.
 KokilaAbeysinghe.
 kolomu.
 konikalily.
+Koustav-coder.
 krishna1369.
 KritiDwivedi.
 kriwani.
