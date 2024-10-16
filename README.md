@@ -203,7 +203,6 @@ abhrajyotikanrar.
 
 **Top 50% contributors:**
 Harshuu870.
-jahnaviT2003.
 QI-XING.
 captainbraddles.
 Charanjet.
@@ -217,6 +216,7 @@ dadhich-ashish.
 Jaspalsinghchot.
 Paulsylo25.
 Vishnu-rvk.
+jahnaviT2003.
 vhudlikar.
 Dhruvyadav2000.
 S-w-a-p-n-i-l-22.
@@ -237,9 +237,9 @@ riya-misra-1.
 sheikhafsarzap.
 chelming.
 aftab-mirza.
+ashu759.
 bhavyajain511.
 Shreedevisnow.
-ashu759.
 Beeram12.
 hoederath.
 MGOPW.
@@ -551,12 +551,12 @@ AdilBasha1SAP.
 bradtiltonnow.
 pradeepthipani.
 Vish-X07.
+ashu759.
 dadhich-ashish.
 girishnagaraj09.
 Jayden-Chiu.
 OrgovanGeza.
 arhaan2019.
-ashu759.
 designitsecure.
 llipovsky.
 seviceN.
@@ -595,7 +595,6 @@ ashuprince121.
 Harshuu870.
 hrichiksite.
 Iuliak.
-jahnaviT2003.
 Munnisona.
 RaunakScarlet.
 TVani5.
@@ -621,10 +620,11 @@ src107.
 fn20200323.
 pratyushasndev.
 Vishnu-rvk.
+homealone07.
 
 **Top 50% contributors:**
-homealone07.
 Iamsant.
+jahnaviT2003.
 jeremyrubio27.
 Sagar-agarwal.
 vhudlikar.
