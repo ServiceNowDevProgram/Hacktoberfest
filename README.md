@@ -197,9 +197,9 @@ vermaamit1664.
 isaac-vicentini.
 sndevs-slacker-issue-reporter[bot].
 abhrajyotikanrar.
+Harshuu870.
 
 **Top 50% contributors:**
-Harshuu870.
 QI-XING.
 captainbraddles.
 DanielMadsenDK.
@@ -225,9 +225,9 @@ watrick.
 mo-dahir.
 dcord1x.
 soham-shee.
+prithvibalakka.
 
 **Other contributors:**
-prithvibalakka.
 riya-misra-1.
 sheikhafsarzap.
 chelming.
@@ -382,6 +382,7 @@ shashwatmishraog.
 simt0m.
 singhaditya73.
 SKYsnaX.
+slwb.
 SMS2612.
 steveuncg.
 stwinkle.
@@ -610,9 +611,9 @@ Iamsant.
 jahnaviT2003.
 jeremyrubio27.
 Sagar-agarwal.
+vhudlikar.
 
 **Top 50% contributors:**
-vhudlikar.
 wiresgit.
 yourepicservices.
 amoore-coder.
@@ -715,9 +716,9 @@ dorsy99.
 ezratkim.
 furquan5.
 HarshMN2345.
+hmadhsan.
 
 **Other contributors:**
-hmadhsan.
 iamvpbhaskar.
 igrzhukovich.
 j4rodm.
@@ -1345,6 +1346,7 @@ sivangbagri.
 sixstatdad.
 sjmeissner.
 SKYsnaX.
+slwb.
 smoothwood.
 SMS2612.
 snehauj.
