@@ -208,6 +208,7 @@ mohitchauhan-dev.
 ravichandra1998g.
 at8807602.
 dadhich-ashish.
+watrick.
 Vishnu-rvk.
 Harshuu870.
 jahnaviT2003.
@@ -221,7 +222,6 @@ debendu-das.
 naveenraw25.
 Saileshlanka.
 Jaspalsinghchot.
-watrick.
 mo-dahir.
 dcord1x.
 soham-shee.
@@ -605,15 +605,16 @@ rmedved84.
 src107.
 fn20200323.
 pratyushasndev.
+watrick.
 Vishnu-rvk.
 Harshuu870.
 homealone07.
 Iamsant.
 jahnaviT2003.
 jeremyrubio27.
-Sagar-agarwal.
 
 **Top 50% contributors:**
+Sagar-agarwal.
 vhudlikar.
 wiresgit.
 yourepicservices.
@@ -630,7 +631,6 @@ NBaker137.
 revantKulkarni.
 trade12.
 ttoter.
-watrick.
 AlphaEagle.
 JWITSM.
 mo-dahir.
