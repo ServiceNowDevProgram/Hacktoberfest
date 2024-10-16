@@ -188,6 +188,7 @@ shridk.
 unbirthdays.
 anveshmupparaju.
 mandeepkaran.
+HarshLMP870.
 ivan-betev.
 nowitsvashu.
 chetnadev.
@@ -198,9 +199,9 @@ watrick.
 isaac-vicentini.
 sndevs-slacker-issue-reporter[bot].
 abhrajyotikanrar.
-Harshuu870.
 
 **Top 50% contributors:**
+Harshuu870.
 jahnaviT2003.
 QI-XING.
 amoore-coder.
@@ -209,7 +210,6 @@ Charanjet.
 DanielMadsenDK.
 katsiarynasoshyna.
 mohitchauhan-dev.
-HarshLMP870.
 ravichandra1998g.
 at8807602.
 dadhich-ashish.
@@ -568,6 +568,7 @@ mandeepkaran.
 ReginaldFawcett.
 Saileshlanka.
 thorn91.
+HarshLMP870.
 Himanshu-skb-oo7.
 mmaraj1.
 nowitsvashu.
@@ -607,7 +608,6 @@ anubhav-ritolia.
 apple9000.
 briangodfreydev.
 GauthamBellamkonda.
-HarshLMP870.
 odinsride.
 piyusalunke123.
 rene-el.
