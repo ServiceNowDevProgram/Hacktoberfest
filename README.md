@@ -204,6 +204,7 @@ Harshuu870.
 QI-XING.
 amoore-coder.
 captainbraddles.
+Charanjet.
 DanielMadsenDK.
 katsiarynasoshyna.
 mohitchauhan-dev.
@@ -214,7 +215,6 @@ Vishnu-rvk.
 jahnaviT2003.
 Paulsylo25.
 vhudlikar.
-Charanjet.
 Dhruvyadav2000.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
@@ -591,6 +591,7 @@ TVani5.
 adarshsingh0205.
 amoore-coder.
 annaydas.
+Charanjet.
 DanielMadsenDK.
 goranlundqvist.
 harisnad.
@@ -612,14 +613,13 @@ Vishnu-rvk.
 homealone07.
 Iamsant.
 jahnaviT2003.
-jeremyrubio27.
 
 **Top 50% contributors:**
+jeremyrubio27.
 Sagar-agarwal.
 vhudlikar.
 wiresgit.
 yourepicservices.
-Charanjet.
 ChecksumFailed.
 Dhruvyadav2000.
 markroethof.
