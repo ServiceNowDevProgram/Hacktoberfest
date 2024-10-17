@@ -195,12 +195,12 @@ HarshLMP870.
 ivan-betev.
 nowitsvashu.
 chetnadev.
+isaac-vicentini.
 RahmanM.
 SrijanPatwa.
 vermaamit1664.
 watrick.
 captainbraddles.
-isaac-vicentini.
 
 **Top 50% contributors:**
 sndevs-slacker-issue-reporter[bot].
@@ -590,6 +590,7 @@ nowitsvashu.
 sanjivmeher.
 VaishnaviLathkar98.
 aman2519.
+isaac-vicentini.
 manrick.
 vermaamit1664.
 watrick.
@@ -597,7 +598,6 @@ almajam.
 brenduh.
 dalestubblefield.
 danielliaus.
-isaac-vicentini.
 JonSandoval.
 sauravsumankumar.
 sndevs-slacker-issue-reporter[bot].
