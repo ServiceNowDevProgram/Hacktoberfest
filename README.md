@@ -171,12 +171,12 @@ sravankadudhuri.
 eriemer1.
 shraddhakadam301298.
 Atul-LNG.
-bird-03.
+Paulsylo25.
 
 **Top 25% contributors:**
+bird-03.
 kylburns89.
 Mexiprince.
-Paulsylo25.
 ronaldkarim.
 wiz0floyd.
 ariyadmir.
@@ -466,13 +466,13 @@ deepak-64742.
 rafzk.
 anillande90.
 ayleeandersen.
+Paulsylo25.
 Abhishekchowdarapu.
 alikuttyka.
 YTejaswini18.
 aswamy93.
 BadalHub.
 MrChrisE.
-Paulsylo25.
 
 **Top 10% contributors:**
 vandna07.
