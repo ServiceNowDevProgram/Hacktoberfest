@@ -216,8 +216,8 @@ ravichandra1998g.
 at8807602.
 dadhich-ashish.
 Jaspalsinghchot.
-Vishnu-rvk.
 stefanintech.
+Vishnu-rvk.
 vhudlikar.
 Dhruvyadav2000.
 S-w-a-p-n-i-l-22.
@@ -623,14 +623,14 @@ rmedved84.
 src107.
 fn20200323.
 pratyushasndev.
+stefanintech.
 Vishnu-rvk.
-homealone07.
 
 **Top 50% contributors:**
+homealone07.
 Iamsant.
 jeremyrubio27.
 Sagar-agarwal.
-stefanintech.
 vhudlikar.
 wiresgit.
 yourepicservices.
