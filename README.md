@@ -225,17 +225,17 @@ VaishnaviLathkar98.
 debendu-das.
 naveenraw25.
 Saileshlanka.
-bgrk005.
 mo-dahir.
 furquan5.
+stefanintech.
 
 **Other contributors:**
-stefanintech.
 dcord1x.
 soham-shee.
 prithvibalakka.
 riya-misra-1.
 sheikhafsarzap.
+bgrk005.
 chelming.
 aftab-mirza.
 ashu759.
@@ -633,7 +633,6 @@ Sagar-agarwal.
 vhudlikar.
 wiresgit.
 yourepicservices.
-bgrk005.
 ChecksumFailed.
 Dhruvyadav2000.
 markroethof.
@@ -659,6 +658,7 @@ stefanintech.
 Adiana3308.
 akhoshnood.
 allam1234.
+bgrk005.
 Decoder-Paul.
 DhanushNehru.
 jesalynrose.
