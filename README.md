@@ -232,6 +232,7 @@ furquan5.
 **Other contributors:**
 dcord1x.
 soham-shee.
+animeshdasgit.
 prithvibalakka.
 riya-misra-1.
 sheikhafsarzap.
@@ -253,7 +254,6 @@ shreyawani98.
 tejasathalye.
 umangkedia92.
 UTSAVS26.
-animeshdasgit.
 anurags10.
 ChndrshP.
 devalcodes.
@@ -668,6 +668,7 @@ MiroslawBuszek.
 pandeysumit-now.
 patrickpaterlini.
 soham-shee.
+animeshdasgit.
 LucasRocha2308.
 Mahesh-Krishnan1.
 maialithar.
@@ -713,7 +714,6 @@ vk-cloud.
 4bode.
 abhay625.
 ananthsridhar.
-animeshdasgit.
 ankitshaw625.
 anurags10.
 Arpan-InGen.
