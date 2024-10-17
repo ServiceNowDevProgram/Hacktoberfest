@@ -274,8 +274,8 @@ YadlaMani.
 aykmrgit.
 kalyan120694.
 abhishekchavan-git.
-prashantmrshine.
 bgrk005.
+prashantmrshine.
 cmanik.
 DennisRutherford.
 Dwarkilal-Monetapp.
@@ -718,6 +718,7 @@ Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
+bgrk005.
 brichards99.
 ChndrshP.
 Chouffy.
@@ -728,9 +729,9 @@ demetris7.
 devalcodes.
 dhruvii-powershell.
 dorsy99.
-ezratkim.
 
 **Other contributors:**
+ezratkim.
 HarshMN2345.
 hmadhsan.
 iamvpbhaskar.
@@ -781,7 +782,6 @@ ultralegendary.
 workpurposeusername.
 YadlaMani.
 zaidongy.
-bgrk005.
 ChilloutSenthil.
 jon-lind-sn.
 kalyan120694.
