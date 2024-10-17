@@ -202,12 +202,12 @@ vermaamit1664.
 watrick.
 
 **Top 50% contributors:**
+captainbraddles.
 isaac-vicentini.
 sndevs-slacker-issue-reporter[bot].
 abhrajyotikanrar.
 Harshuu870.
 jahnaviT2003.
-captainbraddles.
 Charanjet.
 DanielMadsenDK.
 katsiarynasoshyna.
@@ -483,13 +483,13 @@ litwi1rm.
 mak1A4.
 selvarun-umass.
 shivamTodwal.
+captainbraddles.
 iar42.
 mlemartien.
 riya-misra-1.
 hentonjd.
 23Thom.
 aatrey882.
-captainbraddles.
 salmaniqbal92.
 csharpie.
 mohitchauhan-dev.
