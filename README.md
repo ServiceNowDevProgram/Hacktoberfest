@@ -216,6 +216,7 @@ animeshdasgit.
 ravichandra1998g.
 thejasr110.
 at8807602.
+bgrk005.
 dadhich-ashish.
 Jaspalsinghchot.
 stefanintech.
@@ -228,7 +229,6 @@ VaishnaviLathkar98.
 debendu-das.
 naveenraw25.
 Saileshlanka.
-bgrk005.
 mo-dahir.
 dcord1x.
 
@@ -611,6 +611,7 @@ RaunakScarlet.
 TVani5.
 adarshsingh0205.
 annaydas.
+bgrk005.
 Charanjet.
 DanielMadsenDK.
 goranlundqvist.
@@ -632,9 +633,9 @@ src107.
 thejasr110.
 fn20200323.
 pratyushasndev.
-stefanintech.
 
 **Top 50% contributors:**
+stefanintech.
 Vishnu-rvk.
 homealone07.
 Iamsant.
@@ -643,7 +644,6 @@ Sagar-agarwal.
 vhudlikar.
 wiresgit.
 yourepicservices.
-bgrk005.
 ChecksumFailed.
 Dhruvyadav2000.
 markroethof.
