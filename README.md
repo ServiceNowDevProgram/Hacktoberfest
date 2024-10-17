@@ -405,6 +405,7 @@ swaroop-surampalli.
 techLrd.
 TechnoDeba.
 TracyCurry96.
+uditjainstjis.
 ujjwalgupta2021.
 valaparlasalmonraj.
 vijaytechy.
@@ -730,9 +731,9 @@ demetris7.
 devalcodes.
 dhruvii-powershell.
 dorsy99.
+ezratkim.
 
 **Other contributors:**
-ezratkim.
 HarshMN2345.
 hmadhsan.
 iamvpbhaskar.
@@ -1416,6 +1417,7 @@ troat9824.
 tsicot.
 Turbo-Javax.
 tylerteter.
+uditjainstjis.
 ujjwalgupta2021.
 umd-dit-servicenow.
 utk1725.
