@@ -269,6 +269,7 @@ sachinggsingh.
 Saiprethaa.
 saitarun2499.
 Sravanik12.
+techTrekwithAJ.
 TheRashRash.
 ultralegendary.
 YadlaMani.
@@ -406,7 +407,6 @@ sumedhx.
 swaroop-surampalli.
 techLrd.
 TechnoDeba.
-techTrekwithAJ.
 TracyCurry96.
 uditjainstjis.
 ujjwalgupta2021.
@@ -779,6 +779,7 @@ Shambu-K.
 speedy18.
 Sravanik12.
 Subhraneel77.
+techTrekwithAJ.
 TheRashRash.
 thomasvogh.
 tomlozano.
@@ -1406,7 +1407,6 @@ tapishsh.
 techLrd.
 TechnoDeba.
 techspark77.
-techTrekwithAJ.
 tedante.
 telbir.
 TheoCantor.
