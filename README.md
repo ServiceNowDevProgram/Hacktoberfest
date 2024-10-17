@@ -230,9 +230,9 @@ mo-dahir.
 thejasr110.
 dcord1x.
 SaiSankar1309.
+soham-shee.
 
 **Other contributors:**
-soham-shee.
 UTSAVS26.
 animeshdasgit.
 prithvibalakka.
@@ -374,6 +374,7 @@ Nikil-D-Gr8.
 nikkvijay.
 nooras.
 NowRishi.
+Olaxtian.
 omkar2508.
 osc99.
 OsvaldoCabral.
@@ -525,9 +526,9 @@ shraddhakadam301298.
 shridk.
 Atul-LNG.
 sheikhafsarzap.
+davidkwhuang.
 
 **Top 25% contributors:**
-davidkwhuang.
 kylburns89.
 Mexiprince.
 zahidask.
@@ -1272,6 +1273,7 @@ nuwan94.
 nvprav.
 ocl-gustavo.
 Ogre86.
+Olaxtian.
 OllyIB.
 omkar2508.
 omkarvasekar.
