@@ -228,9 +228,10 @@ naveenraw25.
 Saileshlanka.
 mo-dahir.
 furquan5.
-dcord1x.
+thejasr110.
 
 **Other contributors:**
+dcord1x.
 soham-shee.
 UTSAVS26.
 animeshdasgit.
@@ -243,7 +244,6 @@ aftab-mirza.
 ashu759.
 bhavyajain511.
 Shreedevisnow.
-thejasr110.
 Beeram12.
 hoederath.
 MGOPW.
@@ -657,6 +657,7 @@ djunaid.
 furquan5.
 Haile-08.
 sonamtiwari8.
+thejasr110.
 Adiana3308.
 akhoshnood.
 allam1234.
@@ -694,7 +695,6 @@ NayeemKaka.
 puneet94.
 Shreedevisnow.
 sisco0.
-thejasr110.
 yuvraj1107thapa.
 ashaw7697.
 Beeram12.
