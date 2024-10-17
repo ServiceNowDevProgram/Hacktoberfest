@@ -212,6 +212,7 @@ DanielMadsenDK.
 katsiarynasoshyna.
 KedarisettiSreeVamsi.
 mohitchauhan-dev.
+animeshdasgit.
 ravichandra1998g.
 thejasr110.
 at8807602.
@@ -224,7 +225,6 @@ Dhruvyadav2000.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
 VaishnaviLathkar98.
-animeshdasgit.
 debendu-das.
 naveenraw25.
 Saileshlanka.
@@ -619,6 +619,7 @@ katsiarynasoshyna.
 KedarisettiSreeVamsi.
 riya-vermaa.
 allenandreas.
+animeshdasgit.
 anubhav-ritolia.
 apple9000.
 briangodfreydev.
@@ -632,9 +633,9 @@ thejasr110.
 fn20200323.
 pratyushasndev.
 stefanintech.
-Vishnu-rvk.
 
 **Top 50% contributors:**
+Vishnu-rvk.
 homealone07.
 Iamsant.
 jeremyrubio27.
@@ -649,7 +650,6 @@ markroethof.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
 anguspalmer.
-animeshdasgit.
 Badal2k23.
 bhavyajain511.
 naveenraw25.
