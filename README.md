@@ -228,9 +228,9 @@ naveenraw25.
 Saileshlanka.
 mo-dahir.
 furquan5.
+dcord1x.
 
 **Other contributors:**
-dcord1x.
 soham-shee.
 animeshdasgit.
 prithvibalakka.
@@ -313,6 +313,7 @@ TheShashank13.
 vpeinado.
 A-Vishnupriya.
 acashkr.
+Adil404.
 ahamadunnisa-md.
 ahmadwhet.
 AKASHDHARDUBEY.
@@ -829,6 +830,7 @@ vpeinado.
 ab7289.
 abhishek-kumar-91.
 AdibaNaushad.
+Adil404.
 andersonvale78.
 ANIKETSURWASE.
 anilvaranasi.
@@ -919,7 +921,6 @@ abuhaidar61.
 acashkr.
 acdigitalclarity.
 adarshsingh7470.
-Adil404.
 afejzic.
 ahamadunnisa-md.
 Ahkonn.
