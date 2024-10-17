@@ -176,6 +176,7 @@ bird-03.
 **Top 25% contributors:**
 kylburns89.
 Mexiprince.
+Paulsylo25.
 ronaldkarim.
 ariyadmir.
 himanshu7895.
@@ -183,7 +184,6 @@ maheshkhatal27.
 priyasnexpert.
 templetontsai.
 wiz0floyd.
-Paulsylo25.
 pradeepthipani.
 QI-XING.
 shridk.
@@ -466,16 +466,16 @@ YTejaswini18.
 aswamy93.
 BadalHub.
 MrChrisE.
-vandna07.
+Paulsylo25.
 
 **Top 10% contributors:**
+vandna07.
 at8807602.
 Praiseto.
 abhrajyotikanrar.
 alkaChaudhary73.
 PranavBhagat18.
 Irston.
-Paulsylo25.
 litwi1rm.
 mak1A4.
 selvarun-umass.
