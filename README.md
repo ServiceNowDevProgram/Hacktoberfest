@@ -156,9 +156,9 @@ ankitshu.
 koratalas.
 ynr-ram.
 YTejaswini18.
+ashoo-jindal.
 
 **Top 10% contributors:**
-ashoo-jindal.
 aswamy93.
 Praiseto.
 alkaChaudhary73.
@@ -171,9 +171,9 @@ sravankadudhuri.
 eriemer1.
 shraddhakadam301298.
 Atul-LNG.
+bird-03.
 
 **Top 25% contributors:**
-bird-03.
 kylburns89.
 Mexiprince.
 ronaldkarim.
@@ -228,10 +228,10 @@ Saileshlanka.
 bgrk005.
 mo-dahir.
 furquan5.
-stefanintech.
-dcord1x.
 
 **Other contributors:**
+stefanintech.
+dcord1x.
 soham-shee.
 prithvibalakka.
 riya-misra-1.
@@ -321,6 +321,7 @@ Anson-Mathew.
 Anuraj4.
 Anusrita-Karmakar.
 aravindbarla22.
+Arinakathayat.
 armandhaugerud.
 artemis15.
 BH0LL.
@@ -949,6 +950,7 @@ Anusrita-Karmakar.
 apbuhssc.
 aravindbarla22.
 Archita-2023.
+Arinakathayat.
 Arit-Su.
 AritraSadhu.
 armandhaugerud.
