@@ -228,8 +228,8 @@ debendu-das.
 naveenraw25.
 Saileshlanka.
 bgrk005.
-mo-dahir.
 thejasr110.
+mo-dahir.
 dcord1x.
 
 **Other contributors:**
@@ -655,6 +655,7 @@ naveenraw25.
 NBaker137.
 revantKulkarni.
 trade12.
+thejasr110.
 ttoter.
 AlphaEagle.
 JWITSM.
@@ -663,7 +664,6 @@ dcord1x.
 djunaid.
 Haile-08.
 sonamtiwari8.
-thejasr110.
 Adiana3308.
 akhoshnood.
 allam1234.
