@@ -240,6 +240,7 @@ riya-misra-1.
 sheikhafsarzap.
 bgrk005.
 chelming.
+pranavkhurana2011.
 aftab-mirza.
 ashu759.
 bhavyajain511.
@@ -278,7 +279,6 @@ YadlaMani.
 aykmrgit.
 kalyan120694.
 abhishekchavan-git.
-pranavkhurana2011.
 prashantmrshine.
 cmanik.
 DennisRutherford.
@@ -689,6 +689,7 @@ thisnameissoclever.
 ujjwalprem.
 mockspeed.
 ewatch.
+pranavkhurana2011.
 rohantjoshi.
 1shabby.
 abhilash264.
@@ -737,9 +738,9 @@ deathkraiser.
 demetris7.
 devalcodes.
 dhruvii-powershell.
-dorsy99.
 
 **Other contributors:**
+dorsy99.
 ezratkim.
 HarshMN2345.
 hmadhsan.
@@ -804,7 +805,6 @@ fauverism.
 KonvalinkaCodes.
 Marll22.
 Nikuuuuu.
-pranavkhurana2011.
 adamnewhall.
 ANISHAGHOSHAL.
 brumam.
