@@ -192,6 +192,7 @@ shridk.
 unbirthdays.
 amoore-coder.
 anveshmupparaju.
+katsiarynasoshyna.
 mandeepkaran.
 HarshLMP870.
 ivan-betev.
@@ -202,15 +203,14 @@ RahmanM.
 SrijanPatwa.
 vermaamit1664.
 watrick.
-sndevs-slacker-issue-reporter[bot].
 
 **Top 50% contributors:**
+sndevs-slacker-issue-reporter[bot].
 abhrajyotikanrar.
 Harshuu870.
 jahnaviT2003.
 Charanjet.
 DanielMadsenDK.
-katsiarynasoshyna.
 KedarisettiSreeVamsi.
 mohitchauhan-dev.
 VaishnaviLathkar98.
@@ -588,6 +588,7 @@ dean-croaker.
 domuserk.
 HarneetSital.
 jacebenson.
+katsiarynasoshyna.
 mandeepkaran.
 ReginaldFawcett.
 Saileshlanka.
@@ -624,7 +625,6 @@ Charanjet.
 DanielMadsenDK.
 goranlundqvist.
 harisnad.
-katsiarynasoshyna.
 KedarisettiSreeVamsi.
 riya-vermaa.
 allenandreas.
