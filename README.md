@@ -246,6 +246,7 @@ aftab-mirza.
 ashu759.
 bhavyajain511.
 furquan5.
+Pradeep567iaf.
 Shreedevisnow.
 Beeram12.
 dvn-lazywinner.
@@ -288,7 +289,6 @@ Dwarkilal-Monetapp.
 mmaraj1.
 mvkassak.
 Piyushsahu99.
-Pradeep567iaf.
 saketh-22.
 Srikanth1306.
 AdibaNaushad.
@@ -703,6 +703,7 @@ Alprez.
 chris-canto-11.
 furquan5.
 NayeemKaka.
+Pradeep567iaf.
 puneet94.
 Shreedevisnow.
 sisco0.
@@ -744,9 +745,9 @@ demetris7.
 devalcodes.
 dhruvii-powershell.
 dorsy99.
-ezratkim.
 
 **Other contributors:**
+ezratkim.
 HarshMN2345.
 hmadhsan.
 iamvpbhaskar.
@@ -831,7 +832,6 @@ mvkassak.
 nancystodd.
 outlivo.
 Piyushsahu99.
-Pradeep567iaf.
 rohi-v.
 sagarbhadke08.
 saketh-22.
