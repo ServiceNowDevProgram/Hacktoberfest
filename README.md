@@ -218,6 +218,7 @@ VaishnaviLathkar98.
 99Saurabh19.
 animeshdasgit.
 ravichandra1998g.
+thejasr110.
 at8807602.
 bgrk005.
 dadhich-ashish.
@@ -231,7 +232,6 @@ debendu-das.
 kmohit2809.
 naveenraw25.
 Saileshlanka.
-thejasr110.
 mo-dahir.
 dcord1x.
 SaiSankar1309.
@@ -642,11 +642,12 @@ piyusalunke123.
 rene-el.
 rmedved84.
 src107.
+thejasr110.
 fn20200323.
 pratyushasndev.
-stefanintech.
 
 **Top 50% contributors:**
+stefanintech.
 Vishnu-rvk.
 homealone07.
 Iamsant.
@@ -666,7 +667,6 @@ bhavyajain511.
 naveenraw25.
 NBaker137.
 revantKulkarni.
-thejasr110.
 trade12.
 ttoter.
 AlphaEagle.
