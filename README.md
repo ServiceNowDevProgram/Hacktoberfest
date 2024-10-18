@@ -421,6 +421,7 @@ TracyCurry96.
 uditjainstjis.
 ujjwalgupta2021.
 valaparlasalmonraj.
+vamsi0777.
 vijaytechy.
 vino3110.
 vivaan01.
@@ -483,9 +484,9 @@ YTejaswini18.
 aswamy93.
 BadalHub.
 MrChrisE.
+vandna07.
 
 **Top 10% contributors:**
-vandna07.
 at8807602.
 captainbraddles.
 Praiseto.
@@ -537,9 +538,9 @@ shridk.
 Atul-LNG.
 sheikhafsarzap.
 davidkwhuang.
+kylburns89.
 
 **Top 25% contributors:**
-kylburns89.
 Mexiprince.
 zahidask.
 DynamiteC.
@@ -750,10 +751,10 @@ Coder0131.
 DaleD-SN.
 deathkraiser.
 demetris7.
-devalcodes.
-dhruvii-powershell.
 
 **Other contributors:**
+devalcodes.
+dhruvii-powershell.
 dorsy99.
 ezratkim.
 HarshMN2345.
@@ -1451,6 +1452,7 @@ v-agnihotri.
 Vaibhav91one.
 vaishakbkj-ml.
 valaparlasalmonraj.
+vamsi0777.
 VanWeapon.
 venkat-244.
 VictorAlbergaria.
