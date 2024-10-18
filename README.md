@@ -185,6 +185,7 @@ maheshkhatal27.
 priyasnexpert.
 templetontsai.
 pradeepthipani.
+captainbraddles.
 QI-XING.
 shridk.
 unbirthdays.
@@ -200,7 +201,6 @@ RahmanM.
 SrijanPatwa.
 vermaamit1664.
 watrick.
-captainbraddles.
 
 **Top 50% contributors:**
 sndevs-slacker-issue-reporter[bot].
@@ -478,6 +478,7 @@ MrChrisE.
 **Top 10% contributors:**
 vandna07.
 at8807602.
+captainbraddles.
 Praiseto.
 abhrajyotikanrar.
 alkaChaudhary73.
@@ -487,7 +488,6 @@ litwi1rm.
 mak1A4.
 selvarun-umass.
 shivamTodwal.
-captainbraddles.
 iar42.
 mlemartien.
 riya-misra-1.
