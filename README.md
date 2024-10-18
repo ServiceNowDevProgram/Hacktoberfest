@@ -208,6 +208,7 @@ abhrajyotikanrar.
 **Top 50% contributors:**
 Harshuu870.
 jahnaviT2003.
+Adil404.
 Charanjet.
 DanielMadsenDK.
 katsiarynasoshyna.
@@ -223,7 +224,6 @@ dadhich-ashish.
 stefanintech.
 Vishnu-rvk.
 vhudlikar.
-Adil404.
 Dhruvyadav2000.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
@@ -611,6 +611,7 @@ dalestubblefield.
 danielliaus.
 JonSandoval.
 sauravsumankumar.
+Adil404.
 ashuprince121.
 Harshuu870.
 hrichiksite.
@@ -644,10 +645,9 @@ src107.
 fn20200323.
 pratyushasndev.
 stefanintech.
-Vishnu-rvk.
 
 **Top 50% contributors:**
-Adil404.
+Vishnu-rvk.
 homealone07.
 Iamsant.
 jeremyrubio27.
