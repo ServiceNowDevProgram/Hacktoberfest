@@ -202,9 +202,9 @@ isaac-vicentini.
 RahmanM.
 SrijanPatwa.
 vermaamit1664.
+watrick.
 
 **Top 50% contributors:**
-watrick.
 sndevs-slacker-issue-reporter[bot].
 abhrajyotikanrar.
 Harshuu870.
@@ -232,9 +232,9 @@ Saileshlanka.
 mo-dahir.
 dcord1x.
 SaiSankar1309.
+soham-shee.
 
 **Other contributors:**
-soham-shee.
 UTSAVS26.
 99Saurabh19.
 kmohit2809.
@@ -359,6 +359,7 @@ JayShukla8.
 jaz1gdev.
 jekinz-tagline.
 john9006.
+JScoder4005.
 Karthi6559.
 Khushi799.
 KiwiPelago.
@@ -1163,6 +1164,7 @@ Josh767676.
 joshuaprakashg.
 JosielMalaquias.
 jschuller.
+JScoder4005.
 jsmayo.
 JStuempert.
 JulietteM81.
