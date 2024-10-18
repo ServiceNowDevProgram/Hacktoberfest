@@ -226,6 +226,7 @@ Dhruvyadav2000.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
 99Saurabh19.
+Adil404.
 debendu-das.
 naveenraw25.
 Saileshlanka.
@@ -233,12 +234,11 @@ thejasr110.
 mo-dahir.
 dcord1x.
 SaiSankar1309.
-soham-shee.
 
 **Other contributors:**
+soham-shee.
 techTrekwithAJ.
 UTSAVS26.
-Adil404.
 kmohit2809.
 prithvibalakka.
 riya-misra-1.
@@ -651,6 +651,7 @@ Sagar-agarwal.
 vhudlikar.
 wiresgit.
 yourepicservices.
+Adil404.
 ChecksumFailed.
 Dhruvyadav2000.
 markroethof.
@@ -674,7 +675,6 @@ djunaid.
 Haile-08.
 sonamtiwari8.
 Adiana3308.
-Adil404.
 akhoshnood.
 allam1234.
 Decoder-Paul.
