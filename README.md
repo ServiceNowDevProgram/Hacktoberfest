@@ -342,6 +342,7 @@ BhavishyaA516.
 blindaks.
 ChandBasha-code.
 ChilloutSenthil.
+danieltayal07.
 daviddw2022.
 davidehira.
 dwilso1018.
@@ -749,9 +750,9 @@ deathkraiser.
 demetris7.
 devalcodes.
 dhruvii-powershell.
+dorsy99.
 
 **Other contributors:**
-dorsy99.
 ezratkim.
 HarshMN2345.
 hmadhsan.
@@ -1046,6 +1047,7 @@ Dan-Bladorn-Trimedx.
 dan-tracey.
 danclausen.
 DangerousNights.
+danieltayal07.
 danybr0.
 Daoist-Ye.
 Darrkshade.
