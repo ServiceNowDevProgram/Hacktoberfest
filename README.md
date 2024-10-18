@@ -185,6 +185,7 @@ himanshu7895.
 maheshkhatal27.
 priyasnexpert.
 templetontsai.
+chetnadev.
 pradeepthipani.
 captainbraddles.
 QI-XING.
@@ -198,7 +199,6 @@ HarshLMP870.
 ivan-betev.
 nowitsvashu.
 sndevs-slacker-issue-reporter[bot].
-chetnadev.
 isaac-vicentini.
 RahmanM.
 SrijanPatwa.
@@ -459,10 +459,10 @@ hrobarikt.
 ashoo-jindal.
 sumanthdosapati.
 smartcarleen.
+chetnadev.
 Jaspalsinghchot.
 urspvs.
 ankitshu.
-chetnadev.
 Radhe-Manasa.
 404paige.
 aykmrgit.
