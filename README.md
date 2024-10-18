@@ -238,6 +238,7 @@ soham-shee.
 **Other contributors:**
 techTrekwithAJ.
 UTSAVS26.
+Adil404.
 kmohit2809.
 prithvibalakka.
 riya-misra-1.
@@ -261,7 +262,6 @@ ShakthiSn.
 shreyawani98.
 tejasathalye.
 umangkedia92.
-Adil404.
 anurags10.
 ChndrshP.
 devalcodes.
@@ -674,6 +674,7 @@ djunaid.
 Haile-08.
 sonamtiwari8.
 Adiana3308.
+Adil404.
 akhoshnood.
 allam1234.
 Decoder-Paul.
@@ -714,7 +715,6 @@ puneet94.
 Shreedevisnow.
 sisco0.
 yuvraj1107thapa.
-Adil404.
 ashaw7697.
 Beeram12.
 crooks-s.
