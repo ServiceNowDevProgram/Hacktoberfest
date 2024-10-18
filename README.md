@@ -148,8 +148,8 @@ SapphicFire.
 Lacah.
 earlduque.
 kmxo.
-niamccash.
 sandeepd26.
+niamccash.
 snamjosh.
 ankitshu.
 404paige.
@@ -223,7 +223,6 @@ dadhich-ashish.
 stefanintech.
 Vishnu-rvk.
 vhudlikar.
-Adil404.
 Dhruvyadav2000.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
@@ -233,6 +232,7 @@ naveenraw25.
 Saileshlanka.
 thejasr110.
 mo-dahir.
+Adil404.
 dcord1x.
 
 **Other contributors:**
@@ -645,7 +645,6 @@ stefanintech.
 Vishnu-rvk.
 
 **Top 50% contributors:**
-Adil404.
 homealone07.
 Iamsant.
 jeremyrubio27.
@@ -670,6 +669,7 @@ ttoter.
 AlphaEagle.
 JWITSM.
 mo-dahir.
+Adil404.
 dcord1x.
 djunaid.
 Haile-08.
