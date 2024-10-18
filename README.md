@@ -208,6 +208,7 @@ abhrajyotikanrar.
 **Top 50% contributors:**
 Harshuu870.
 jahnaviT2003.
+thejasr110.
 Adil404.
 Charanjet.
 DanielMadsenDK.
@@ -218,7 +219,6 @@ VaishnaviLathkar98.
 99Saurabh19.
 animeshdasgit.
 ravichandra1998g.
-thejasr110.
 at8807602.
 bgrk005.
 dadhich-ashish.
@@ -619,6 +619,7 @@ Iuliak.
 jahnaviT2003.
 Munnisona.
 RaunakScarlet.
+thejasr110.
 TVani5.
 adarshsingh0205.
 annaydas.
@@ -642,7 +643,6 @@ piyusalunke123.
 rene-el.
 rmedved84.
 src107.
-thejasr110.
 fn20200323.
 pratyushasndev.
 
