@@ -223,10 +223,10 @@ dadhich-ashish.
 stefanintech.
 Vishnu-rvk.
 vhudlikar.
+Adil404.
 Dhruvyadav2000.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
-Adil404.
 debendu-das.
 kmohit2809.
 naveenraw25.
@@ -645,6 +645,7 @@ stefanintech.
 Vishnu-rvk.
 
 **Top 50% contributors:**
+Adil404.
 homealone07.
 Iamsant.
 jeremyrubio27.
@@ -652,7 +653,6 @@ Sagar-agarwal.
 vhudlikar.
 wiresgit.
 yourepicservices.
-Adil404.
 ChecksumFailed.
 Dhruvyadav2000.
 markroethof.
