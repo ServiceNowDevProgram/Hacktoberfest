@@ -400,6 +400,7 @@ sagarbhadke08.
 samusahatpure.
 sankar-coder.
 sanuj21.
+saswata-panda.
 seemaPatl.
 sharsha315.
 shashwatmishraog.
@@ -639,9 +640,9 @@ thejasr110.
 fn20200323.
 pratyushasndev.
 stefanintech.
+Vishnu-rvk.
 
 **Top 50% contributors:**
-Vishnu-rvk.
 homealone07.
 Iamsant.
 jeremyrubio27.
@@ -746,9 +747,9 @@ deathkraiser.
 demetris7.
 devalcodes.
 dhruvii-powershell.
+dorsy99.
 
 **Other contributors:**
-dorsy99.
 ezratkim.
 HarshMN2345.
 hmadhsan.
@@ -1364,6 +1365,7 @@ sanuj21.
 sarath-patoju.
 Sarita3012.
 sasukepatel.
+saswata-panda.
 Saumyaup11.
 scervv.
 scschroc.
