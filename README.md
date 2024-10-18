@@ -201,9 +201,9 @@ RahmanM.
 SrijanPatwa.
 vermaamit1664.
 watrick.
+sndevs-slacker-issue-reporter[bot].
 
 **Top 50% contributors:**
-sndevs-slacker-issue-reporter[bot].
 abhrajyotikanrar.
 Harshuu870.
 jahnaviT2003.
@@ -231,9 +231,9 @@ naveenraw25.
 Saileshlanka.
 mo-dahir.
 dcord1x.
+SaiSankar1309.
 
 **Other contributors:**
-SaiSankar1309.
 soham-shee.
 UTSAVS26.
 kmohit2809.
@@ -416,6 +416,7 @@ ujjwalgupta2021.
 valaparlasalmonraj.
 vijaytechy.
 vivaan01.
+wave-inguane.
 xjfdzn.
 YDdraigGoch70.
 yrozo28.
@@ -633,9 +634,9 @@ src107.
 thejasr110.
 fn20200323.
 pratyushasndev.
+stefanintech.
 
 **Top 50% contributors:**
-stefanintech.
 Vishnu-rvk.
 homealone07.
 Iamsant.
@@ -739,9 +740,9 @@ demetris7.
 devalcodes.
 dhruvii-powershell.
 dorsy99.
+ezratkim.
 
 **Other contributors:**
-ezratkim.
 HarshMN2345.
 hmadhsan.
 iamvpbhaskar.
@@ -1450,6 +1451,7 @@ vkambhammettu.
 VNAGULA117.
 vvijaya19.
 Watermark-ServiceNow.
+wave-inguane.
 wcarroll.
 wggibson.
 williambhadley.
