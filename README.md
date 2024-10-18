@@ -172,9 +172,9 @@ spnegi.
 eriemer1.
 shraddhakadam301298.
 Atul-LNG.
+bird-03.
 
 **Top 25% contributors:**
-bird-03.
 kylburns89.
 Mexiprince.
 ronaldkarim.
@@ -341,6 +341,7 @@ ChandBasha-code.
 ChilloutSenthil.
 daviddw2022.
 davidehira.
+dvn-lazywinner.
 dwilso1018.
 erlingvt.
 ersureshbe.
@@ -1068,6 +1069,7 @@ drc.
 DRDeep7.
 drizzlt.
 DudeDrew.
+dvn-lazywinner.
 dwilso1018.
 eduard-nitoi.
 EduardoUG.
