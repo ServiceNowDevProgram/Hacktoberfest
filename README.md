@@ -216,7 +216,6 @@ mohitchauhan-dev.
 VaishnaviLathkar98.
 animeshdasgit.
 ravichandra1998g.
-thejasr110.
 at8807602.
 bgrk005.
 dadhich-ashish.
@@ -230,6 +229,7 @@ SNProductOwner.
 debendu-das.
 naveenraw25.
 Saileshlanka.
+thejasr110.
 mo-dahir.
 dcord1x.
 SaiSankar1309.
@@ -638,14 +638,13 @@ piyusalunke123.
 rene-el.
 rmedved84.
 src107.
-thejasr110.
 fn20200323.
 pratyushasndev.
 stefanintech.
 Vishnu-rvk.
+homealone07.
 
 **Top 50% contributors:**
-homealone07.
 Iamsant.
 jeremyrubio27.
 Sagar-agarwal.
@@ -664,6 +663,7 @@ bhavyajain511.
 naveenraw25.
 NBaker137.
 revantKulkarni.
+thejasr110.
 trade12.
 ttoter.
 AlphaEagle.
