@@ -233,9 +233,10 @@ mo-dahir.
 dcord1x.
 SaiSankar1309.
 soham-shee.
-UTSAVS26.
+techTrekwithAJ.
 
 **Other contributors:**
+UTSAVS26.
 99Saurabh19.
 kmohit2809.
 prithvibalakka.
@@ -258,7 +259,6 @@ praisetoyt.
 Ramesh-hub007.
 ShakthiSn.
 shreyawani98.
-techTrekwithAJ.
 tejasathalye.
 umangkedia92.
 anurags10.
@@ -684,6 +684,7 @@ pandeysumit-now.
 patrickpaterlini.
 SaiSankar1309.
 soham-shee.
+techTrekwithAJ.
 UTSAVS26.
 99Saurabh19.
 LucasRocha2308.
@@ -725,7 +726,6 @@ Ramesh-hub007.
 ShakthiSn.
 shreyawani98.
 stwinkle.
-techTrekwithAJ.
 tejasathalye.
 thameemskings.
 Thrizvi.
