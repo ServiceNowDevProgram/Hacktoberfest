@@ -258,6 +258,7 @@ praisetoyt.
 Ramesh-hub007.
 ShakthiSn.
 shreyawani98.
+techTrekwithAJ.
 tejasathalye.
 umangkedia92.
 anurags10.
@@ -276,7 +277,6 @@ Saiprethaa.
 saitarun2499.
 Sravanik12.
 sumanth1710.
-techTrekwithAJ.
 TheRashRash.
 ultralegendary.
 YadlaMani.
@@ -725,6 +725,7 @@ Ramesh-hub007.
 ShakthiSn.
 shreyawani98.
 stwinkle.
+techTrekwithAJ.
 tejasathalye.
 thameemskings.
 Thrizvi.
@@ -748,9 +749,9 @@ deathkraiser.
 demetris7.
 devalcodes.
 dhruvii-powershell.
-dorsy99.
 
 **Other contributors:**
+dorsy99.
 ezratkim.
 HarshMN2345.
 hmadhsan.
@@ -796,7 +797,6 @@ speedy18.
 Sravanik12.
 Subhraneel77.
 sumanth1710.
-techTrekwithAJ.
 TheRashRash.
 thomasvogh.
 tomlozano.
