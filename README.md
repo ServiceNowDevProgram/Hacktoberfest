@@ -203,9 +203,9 @@ isaac-vicentini.
 RahmanM.
 SrijanPatwa.
 vermaamit1664.
+watrick.
 
 **Top 50% contributors:**
-watrick.
 abhrajyotikanrar.
 Harshuu870.
 jahnaviT2003.
@@ -234,9 +234,9 @@ thejasr110.
 mo-dahir.
 dcord1x.
 SaiSankar1309.
+soham-shee.
 
 **Other contributors:**
-soham-shee.
 techTrekwithAJ.
 UTSAVS26.
 prithvibalakka.
@@ -342,6 +342,7 @@ BhavishyaA516.
 blindaks.
 ChandBasha-code.
 ChilloutSenthil.
+Code-mantle.
 danieltayal07.
 daviddw2022.
 davidehira.
@@ -1031,6 +1032,7 @@ ChrRepou.
 Cioraz.
 cnavr.
 CObsidien.
+Code-mantle.
 coderdude207.
 codexpert247.
 Codjam.
