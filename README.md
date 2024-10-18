@@ -198,12 +198,13 @@ ivan-betev.
 nowitsvashu.
 chetnadev.
 isaac-vicentini.
+Jaspalsinghchot.
 RahmanM.
 SrijanPatwa.
 vermaamit1664.
-watrick.
 
 **Top 50% contributors:**
+watrick.
 sndevs-slacker-issue-reporter[bot].
 abhrajyotikanrar.
 Harshuu870.
@@ -219,7 +220,6 @@ thejasr110.
 at8807602.
 bgrk005.
 dadhich-ashish.
-Jaspalsinghchot.
 stefanintech.
 Vishnu-rvk.
 vhudlikar.
@@ -463,13 +463,13 @@ aykmrgit.
 Paulsylo25.
 stevezero.
 sychi77.
+Jaspalsinghchot.
 koratalas.
 ronaldkarim.
 azeezgaa.
 deepak-64742.
 rafzk.
 anillande90.
-Jaspalsinghchot.
 ayleeandersen.
 Abhishekchowdarapu.
 alikuttyka.
