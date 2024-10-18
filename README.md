@@ -248,6 +248,7 @@ bhavyajain511.
 furquan5.
 Shreedevisnow.
 Beeram12.
+dvn-lazywinner.
 hoederath.
 MGOPW.
 NowRishi.
@@ -295,7 +296,6 @@ ANIKETSURWASE.
 ANISHAGHOSHAL.
 cschmidt82.
 d7ianielsimonP.
-dvn-lazywinner.
 Gowthamsai29.
 Itsreema.
 Jahnavi-Solanki.
@@ -709,6 +709,7 @@ yuvraj1107thapa.
 ashaw7697.
 Beeram12.
 crooks-s.
+dvn-lazywinner.
 Jaskaran-Techno.
 NowRishi.
 praisetoyt.
@@ -742,9 +743,9 @@ demetris7.
 devalcodes.
 dhruvii-powershell.
 dorsy99.
-ezratkim.
 
 **Other contributors:**
+ezratkim.
 HarshMN2345.
 hmadhsan.
 iamvpbhaskar.
@@ -860,7 +861,6 @@ d7ianielsimonP.
 DaiTranIT.
 dh3bp.
 drk1rd.
-dvn-lazywinner.
 garyditsch.
 GK884.
 gkiratkar1.
