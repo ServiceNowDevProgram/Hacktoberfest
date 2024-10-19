@@ -233,10 +233,9 @@ kmohit2809.
 naveenraw25.
 Saileshlanka.
 mo-dahir.
-MYaswanth28.
+dcord1x.
 
 **Other contributors:**
-dcord1x.
 SaiSankar1309.
 soham-shee.
 techTrekwithAJ.
@@ -250,6 +249,7 @@ aftab-mirza.
 ashu759.
 bhavyajain511.
 furquan5.
+MYaswanth28.
 Pradeep567iaf.
 Shreedevisnow.
 Beeram12.
@@ -678,7 +678,6 @@ mo-dahir.
 dcord1x.
 djunaid.
 Haile-08.
-MYaswanth28.
 sonamtiwari8.
 Adiana3308.
 akhoshnood.
@@ -715,6 +714,7 @@ aftab-mirza.
 Alprez.
 chris-canto-11.
 furquan5.
+MYaswanth28.
 NayeemKaka.
 Pradeep567iaf.
 puneet94.
