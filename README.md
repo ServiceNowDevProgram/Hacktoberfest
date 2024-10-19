@@ -234,8 +234,8 @@ kmohit2809.
 naveenraw25.
 Saileshlanka.
 MYaswanth28.
-mo-dahir.
 am-shakeel.
+mo-dahir.
 
 **Other contributors:**
 dcord1x.
@@ -534,11 +534,11 @@ sravankadudhuri.
 gowdah.
 jiteshmalik.
 spnegi.
+am-shakeel.
 danr2c2.
 Litwilly.
 MRSinghRajat.
 oasif.
-am-shakeel.
 jonahpiascik.
 soerenmaucher.
 Adil404.
