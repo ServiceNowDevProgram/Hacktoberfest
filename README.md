@@ -203,15 +203,15 @@ RahmanM.
 SrijanPatwa.
 vermaamit1664.
 watrick.
-abhrajyotikanrar.
+DanielMadsenDK.
 
 **Top 50% contributors:**
+abhrajyotikanrar.
 Harshuu870.
 jahnaviT2003.
 thejasr110.
 Adil404.
 Charanjet.
-DanielMadsenDK.
 katsiarynasoshyna.
 KedarisettiSreeVamsi.
 mohitchauhan-dev.
@@ -610,6 +610,7 @@ almajam.
 brenduh.
 dalestubblefield.
 danielliaus.
+DanielMadsenDK.
 JonSandoval.
 sauravsumankumar.
 Adil404.
@@ -626,7 +627,6 @@ adarshsingh0205.
 annaydas.
 bgrk005.
 Charanjet.
-DanielMadsenDK.
 goranlundqvist.
 harisnad.
 katsiarynasoshyna.
