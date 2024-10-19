@@ -202,10 +202,11 @@ nowitsvashu.
 sndevs-slacker-issue-reporter[bot].
 bgrk005.
 isaac-vicentini.
+Munnisona.
 RahmanM.
-SrijanPatwa.
 
 **Top 50% contributors:**
+SrijanPatwa.
 vermaamit1664.
 watrick.
 abhrajyotikanrar.
@@ -222,7 +223,6 @@ animeshdasgit.
 ravichandra1998g.
 at8807602.
 dadhich-ashish.
-Munnisona.
 MYaswanth28.
 stefanintech.
 Vishnu-rvk.
@@ -517,6 +517,7 @@ anveshmupparaju.
 ravichandra1998g.
 ivan-betev.
 lakshmikanthgupta.
+Munnisona.
 bkb68.
 SrijanPatwa.
 debendu-das.
@@ -526,7 +527,6 @@ hafsa-asif.
 ovarn.
 devinvalencia.
 mskoddow.
-Munnisona.
 QI-XING.
 sravankadudhuri.
 gowdah.
