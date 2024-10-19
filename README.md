@@ -234,9 +234,9 @@ naveenraw25.
 Saileshlanka.
 mo-dahir.
 MYaswanth28.
+dcord1x.
 
 **Other contributors:**
-dcord1x.
 SaiSankar1309.
 soham-shee.
 techTrekwithAJ.
@@ -433,6 +433,7 @@ wave-inguane.
 xjfdzn.
 YDdraigGoch70.
 yrozo28.
+yuvraj1107thapa.
 
 ## Leaderboard (all time):
 
@@ -710,6 +711,7 @@ mockspeed.
 ewatch.
 pranavkhurana2011.
 rohantjoshi.
+yuvraj1107thapa.
 1shabby.
 abhilash264.
 aftab-mirza.
@@ -721,7 +723,6 @@ Pradeep567iaf.
 puneet94.
 Shreedevisnow.
 sisco0.
-yuvraj1107thapa.
 ashaw7697.
 Beeram12.
 crooks-s.
