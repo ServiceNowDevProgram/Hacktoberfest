@@ -192,7 +192,6 @@ captainbraddles.
 QI-XING.
 shridk.
 unbirthdays.
-Adil404.
 amoore-coder.
 anveshmupparaju.
 mandeepkaran.
@@ -204,15 +203,16 @@ sndevs-slacker-issue-reporter[bot].
 bgrk005.
 isaac-vicentini.
 RahmanM.
+SrijanPatwa.
 
 **Top 50% contributors:**
-SrijanPatwa.
 vermaamit1664.
 watrick.
 abhrajyotikanrar.
 Harshuu870.
 jahnaviT2003.
 thejasr110.
+Adil404.
 Charanjet.
 katsiarynasoshyna.
 KedarisettiSreeVamsi.
@@ -584,7 +584,6 @@ dadhich-ashish.
 girishnagaraj09.
 Jayden-Chiu.
 OrgovanGeza.
-Adil404.
 arhaan2019.
 designitsecure.
 llipovsky.
@@ -620,6 +619,7 @@ dalestubblefield.
 danielliaus.
 JonSandoval.
 sauravsumankumar.
+Adil404.
 ashuprince121.
 Harshuu870.
 hrichiksite.
