@@ -186,6 +186,7 @@ priyasnexpert.
 templetontsai.
 chetnadev.
 Jaspalsinghchot.
+Munnisona.
 pradeepthipani.
 captainbraddles.
 QI-XING.
@@ -202,7 +203,6 @@ nowitsvashu.
 sndevs-slacker-issue-reporter[bot].
 bgrk005.
 isaac-vicentini.
-Munnisona.
 RahmanM.
 
 **Top 50% contributors:**
@@ -505,6 +505,7 @@ selvarun-umass.
 shivamTodwal.
 iar42.
 mlemartien.
+Munnisona.
 riya-misra-1.
 hentonjd.
 23Thom.
@@ -517,7 +518,6 @@ anveshmupparaju.
 ravichandra1998g.
 ivan-betev.
 lakshmikanthgupta.
-Munnisona.
 bkb68.
 SrijanPatwa.
 debendu-das.
