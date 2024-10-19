@@ -194,6 +194,7 @@ unbirthdays.
 amoore-coder.
 anveshmupparaju.
 mandeepkaran.
+DanielMadsenDK.
 HarshLMP870.
 ivan-betev.
 nowitsvashu.
@@ -203,7 +204,6 @@ RahmanM.
 SrijanPatwa.
 vermaamit1664.
 watrick.
-DanielMadsenDK.
 
 **Top 50% contributors:**
 abhrajyotikanrar.
@@ -595,6 +595,7 @@ mandeepkaran.
 ReginaldFawcett.
 Saileshlanka.
 thorn91.
+DanielMadsenDK.
 HarshLMP870.
 Himanshu-skb-oo7.
 mmaraj1.
@@ -610,7 +611,6 @@ almajam.
 brenduh.
 dalestubblefield.
 danielliaus.
-DanielMadsenDK.
 JonSandoval.
 sauravsumankumar.
 Adil404.
