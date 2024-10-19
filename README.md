@@ -361,6 +361,7 @@ Git-Snow-dev.
 GittyHarsha.
 GP-UOB.
 herambchaudhari4121.
+Imsurajr.
 ishaanshoor.
 JayShukla8.
 jaz1gdev.
@@ -650,9 +651,9 @@ rmedved84.
 src107.
 fn20200323.
 pratyushasndev.
+stefanintech.
 
 **Top 50% contributors:**
-stefanintech.
 Vishnu-rvk.
 homealone07.
 Iamsant.
@@ -757,9 +758,9 @@ Coder0131.
 DaleD-SN.
 deathkraiser.
 demetris7.
+devalcodes.
 
 **Other contributors:**
-devalcodes.
 dhruvii-powershell.
 dorsy99.
 ezratkim.
@@ -1151,6 +1152,7 @@ iamcreed.
 iDeepDev8.
 iks1.
 imaxdvd.
+Imsurajr.
 ishanpatil35.
 ishwarighule.
 IslamMari.
