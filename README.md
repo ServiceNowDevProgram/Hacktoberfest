@@ -265,6 +265,7 @@ ShakthiSn.
 shreyawani98.
 tejasathalye.
 umangkedia92.
+AnithaA09.
 anurags10.
 ChndrshP.
 devalcodes.
@@ -335,7 +336,6 @@ ahmadwhet.
 AKASHDHARDUBEY.
 Akshay-sri0001.
 Ananya54321.
-AnithaA09.
 Anson-Mathew.
 Anuraj4.
 Anusrita-Karmakar.
@@ -746,6 +746,7 @@ vk-cloud.
 4bode.
 abhay625.
 ananthsridhar.
+AnithaA09.
 ankitshaw625.
 anurags10.
 Arpan-InGen.
@@ -759,9 +760,9 @@ Coder0131.
 DaleD-SN.
 deathkraiser.
 demetris7.
-devalcodes.
 
 **Other contributors:**
+devalcodes.
 dhruvii-powershell.
 dorsy99.
 ezratkim.
@@ -981,7 +982,6 @@ Ananya54321.
 andreneris.
 andy1717.
 andyops.
-AnithaA09.
 Anks-26.
 AnnaGould.
 Anson-Mathew.
