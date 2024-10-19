@@ -222,6 +222,7 @@ ravichandra1998g.
 at8807602.
 bgrk005.
 dadhich-ashish.
+MYaswanth28.
 stefanintech.
 Vishnu-rvk.
 vhudlikar.
@@ -232,7 +233,6 @@ debendu-das.
 kmohit2809.
 naveenraw25.
 Saileshlanka.
-MYaswanth28.
 mo-dahir.
 dcord1x.
 
@@ -649,9 +649,10 @@ rene-el.
 rmedved84.
 src107.
 fn20200323.
-pratyushasndev.
+MYaswanth28.
 
 **Top 50% contributors:**
+pratyushasndev.
 stefanintech.
 Vishnu-rvk.
 homealone07.
@@ -673,7 +674,6 @@ naveenraw25.
 NBaker137.
 revantKulkarni.
 trade12.
-MYaswanth28.
 ttoter.
 AlphaEagle.
 JWITSM.
