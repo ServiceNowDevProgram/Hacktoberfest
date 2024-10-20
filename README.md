@@ -171,16 +171,16 @@ sravankadudhuri.
 spnegi.
 eriemer1.
 wiz0floyd.
+Jaspalsinghchot.
 shraddhakadam301298.
 Atul-LNG.
-bird-03.
 
 **Top 25% contributors:**
+bird-03.
 kylburns89.
 Mexiprince.
 ronaldkarim.
 chetnadev.
-Jaspalsinghchot.
 Adil404.
 ariyadmir.
 himanshu7895.
@@ -467,9 +467,9 @@ chelming.
 hrobarikt.
 ashoo-jindal.
 chetnadev.
+Jaspalsinghchot.
 sumanthdosapati.
 smartcarleen.
-Jaspalsinghchot.
 urspvs.
 ankitshu.
 koratalas.
