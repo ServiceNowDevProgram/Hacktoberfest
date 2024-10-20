@@ -493,12 +493,12 @@ YTejaswini18.
 aswamy93.
 BadalHub.
 MrChrisE.
-vandna07.
+Praiseto.
 
 **Top 10% contributors:**
+vandna07.
 at8807602.
 captainbraddles.
-Praiseto.
 abhrajyotikanrar.
 alkaChaudhary73.
 PranavBhagat18.
