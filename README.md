@@ -225,9 +225,9 @@ at8807602.
 dadhich-ashish.
 stefanintech.
 Vishnu-rvk.
+am-shakeel.
 techTrekwithAJ.
 vhudlikar.
-am-shakeel.
 Dhruvyadav2000.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
@@ -256,7 +256,6 @@ furquan5.
 Pradeep567iaf.
 Shreedevisnow.
 Beeram12.
-Code-mantle.
 hoederath.
 MGOPW.
 NowRishi.
@@ -300,6 +299,7 @@ Srikanth1306.
 AdibaNaushad.
 ANIKETSURWASE.
 ANISHAGHOSHAL.
+Code-mantle.
 cschmidt82.
 d7ianielsimonP.
 dvn-lazywinner.
@@ -525,8 +525,8 @@ bkb68.
 SrijanPatwa.
 debendu-das.
 TRIGGEREDcoder.
-Danmax.
 am-shakeel.
+Danmax.
 hafsa-asif.
 ovarn.
 devinvalencia.
@@ -728,7 +728,6 @@ Shreedevisnow.
 sisco0.
 ashaw7697.
 Beeram12.
-Code-mantle.
 crooks-s.
 Jaskaran-Techno.
 NowRishi.
@@ -762,9 +761,9 @@ DaleD-SN.
 deathkraiser.
 demetris7.
 devalcodes.
+dhruvii-powershell.
 
 **Other contributors:**
-dhruvii-powershell.
 dorsy99.
 ezratkim.
 HarshMN2345.
@@ -874,6 +873,7 @@ BadalKhojare.
 beingfluid.
 BeniRaja.
 cmurley.
+Code-mantle.
 cschmidt82.
 d7ianielsimonP.
 DaiTranIT.
