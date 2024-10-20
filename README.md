@@ -269,6 +269,7 @@ umangkedia92.
 AnithaA09.
 anurags10.
 ChndrshP.
+DChotaliya.
 devalcodes.
 DhanushNehru.
 ezratkim.
@@ -352,7 +353,6 @@ ChilloutSenthil.
 danieltayal07.
 daviddw2022.
 davidehira.
-DChotaliya.
 dwilso1018.
 erlingvt.
 ersureshbe.
@@ -759,12 +759,13 @@ ChndrshP.
 Chouffy.
 Coder0131.
 DaleD-SN.
+DChotaliya.
 deathkraiser.
 demetris7.
 devalcodes.
-dhruvii-powershell.
 
 **Other contributors:**
+dhruvii-powershell.
 dorsy99.
 ezratkim.
 HarshMN2345.
@@ -1074,7 +1075,6 @@ davewburns.
 daviddw2022.
 davidehira.
 dchavez434.
-DChotaliya.
 denmant.
 derHundOida.
 developmentpark.
