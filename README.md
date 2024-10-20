@@ -236,9 +236,9 @@ kmohit2809.
 naveenraw25.
 Saileshlanka.
 MYaswanth28.
+mo-dahir.
 
 **Other contributors:**
-mo-dahir.
 dcord1x.
 Ramesh-hub007.
 SaiSankar1309.
@@ -352,6 +352,7 @@ ChilloutSenthil.
 danieltayal07.
 daviddw2022.
 davidehira.
+DChotaliya.
 dwilso1018.
 erlingvt.
 ersureshbe.
@@ -1073,6 +1074,7 @@ davewburns.
 daviddw2022.
 davidehira.
 dchavez434.
+DChotaliya.
 denmant.
 derHundOida.
 developmentpark.
