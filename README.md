@@ -198,11 +198,11 @@ unbirthdays.
 amoore-coder.
 anveshmupparaju.
 mandeepkaran.
+am-shakeel.
 HarshLMP870.
 ivan-betev.
 nowitsvashu.
 sndevs-slacker-issue-reporter[bot].
-am-shakeel.
 bgrk005.
 isaac-vicentini.
 
@@ -240,7 +240,6 @@ mo-dahir.
 
 **Other contributors:**
 dcord1x.
-Ramesh-hub007.
 SaiSankar1309.
 soham-shee.
 UTSAVS26.
@@ -264,6 +263,7 @@ hoederath.
 MGOPW.
 NowRishi.
 praisetoyt.
+Ramesh-hub007.
 ShakthiSn.
 shreyawani98.
 tejasathalye.
@@ -507,12 +507,12 @@ litwi1rm.
 mak1A4.
 selvarun-umass.
 shivamTodwal.
+am-shakeel.
 iar42.
 lakshmikanthgupta.
 mlemartien.
 Munnisona.
 riya-misra-1.
-am-shakeel.
 hentonjd.
 23Thom.
 aatrey882.
@@ -699,7 +699,6 @@ MiroslawBuszek.
 pandeysumit-now.
 patrickpaterlini.
 prashantmrshine.
-Ramesh-hub007.
 SaiSankar1309.
 soham-shee.
 UTSAVS26.
@@ -737,6 +736,7 @@ Jaskaran-Techno.
 NowRishi.
 praisetoyt.
 RagaChitraMankala.
+Ramesh-hub007.
 ShakthiSn.
 shreyawani98.
 stwinkle.
