@@ -155,12 +155,12 @@ ankitshu.
 404paige.
 koratalas.
 ynr-ram.
+Praiseto.
 YTejaswini18.
 ashoo-jindal.
-aswamy93.
 
 **Top 10% contributors:**
-Praiseto.
+aswamy93.
 alkaChaudhary73.
 Rampriya-S.
 selvarun-umass.
@@ -484,6 +484,7 @@ sychi77.
 ronaldkarim.
 azeezgaa.
 deepak-64742.
+Praiseto.
 rafzk.
 anillande90.
 ayleeandersen.
@@ -493,7 +494,6 @@ YTejaswini18.
 aswamy93.
 BadalHub.
 MrChrisE.
-Praiseto.
 
 **Top 10% contributors:**
 vandna07.
