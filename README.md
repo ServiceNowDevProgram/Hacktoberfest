@@ -223,10 +223,9 @@ animeshdasgit.
 ravichandra1998g.
 at8807602.
 dadhich-ashish.
+am-shakeel.
 stefanintech.
 Vishnu-rvk.
-am-shakeel.
-techTrekwithAJ.
 vhudlikar.
 Dhruvyadav2000.
 S-w-a-p-n-i-l-22.
@@ -236,9 +235,10 @@ kmohit2809.
 naveenraw25.
 Saileshlanka.
 MYaswanth28.
+mo-dahir.
 
 **Other contributors:**
-mo-dahir.
+techTrekwithAJ.
 dcord1x.
 SaiSankar1309.
 soham-shee.
@@ -523,9 +523,9 @@ ravichandra1998g.
 ivan-betev.
 bkb68.
 SrijanPatwa.
+am-shakeel.
 debendu-das.
 TRIGGEREDcoder.
-am-shakeel.
 Danmax.
 hafsa-asif.
 ovarn.
@@ -661,7 +661,6 @@ homealone07.
 Iamsant.
 jeremyrubio27.
 Sagar-agarwal.
-techTrekwithAJ.
 vhudlikar.
 wiresgit.
 yourepicservices.
@@ -686,6 +685,7 @@ dcord1x.
 djunaid.
 Haile-08.
 sonamtiwari8.
+techTrekwithAJ.
 Adiana3308.
 akhoshnood.
 allam1234.
