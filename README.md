@@ -202,15 +202,15 @@ HarshLMP870.
 ivan-betev.
 nowitsvashu.
 sndevs-slacker-issue-reporter[bot].
+am-shakeel.
 bgrk005.
 isaac-vicentini.
-RahmanM.
 
 **Top 50% contributors:**
+RahmanM.
 SrijanPatwa.
 vermaamit1664.
 watrick.
-am-shakeel.
 abhrajyotikanrar.
 Harshuu870.
 jahnaviT2003.
@@ -239,7 +239,6 @@ MYaswanth28.
 mo-dahir.
 
 **Other contributors:**
-prashantmrshine.
 dcord1x.
 Ramesh-hub007.
 SaiSankar1309.
@@ -252,6 +251,7 @@ sheikhafsarzap.
 aykmrgit.
 chelming.
 pranavkhurana2011.
+prashantmrshine.
 aftab-mirza.
 ashu759.
 bhavyajain511.
@@ -512,10 +512,10 @@ lakshmikanthgupta.
 mlemartien.
 Munnisona.
 riya-misra-1.
+am-shakeel.
 hentonjd.
 23Thom.
 aatrey882.
-am-shakeel.
 salmaniqbal92.
 csharpie.
 mohitchauhan-dev.
@@ -669,7 +669,6 @@ yourepicservices.
 ChecksumFailed.
 Dhruvyadav2000.
 markroethof.
-prashantmrshine.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
 anguspalmer.
@@ -699,6 +698,7 @@ miracc.
 MiroslawBuszek.
 pandeysumit-now.
 patrickpaterlini.
+prashantmrshine.
 Ramesh-hub007.
 SaiSankar1309.
 soham-shee.
