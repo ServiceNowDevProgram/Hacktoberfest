@@ -238,10 +238,10 @@ MYaswanth28.
 mo-dahir.
 
 **Other contributors:**
+techTrekwithAJ.
 dcord1x.
 SaiSankar1309.
 soham-shee.
-techTrekwithAJ.
 UTSAVS26.
 prithvibalakka.
 riya-misra-1.
@@ -685,6 +685,7 @@ dcord1x.
 djunaid.
 Haile-08.
 sonamtiwari8.
+techTrekwithAJ.
 Adiana3308.
 akhoshnood.
 allam1234.
@@ -698,7 +699,6 @@ pandeysumit-now.
 patrickpaterlini.
 SaiSankar1309.
 soham-shee.
-techTrekwithAJ.
 UTSAVS26.
 LucasRocha2308.
 Mahesh-Krishnan1.
