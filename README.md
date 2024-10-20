@@ -387,6 +387,7 @@ Mikerniker.
 mohan-ServiceNow.
 MohanKumarAmbati.
 MS-54.
+Mstr-Creta.
 Narasimha677.
 Nikil-D-Gr8.
 nikkvijay.
@@ -760,9 +761,9 @@ DaleD-SN.
 deathkraiser.
 demetris7.
 devalcodes.
+dhruvii-powershell.
 
 **Other contributors:**
-dhruvii-powershell.
 dorsy99.
 ezratkim.
 HarshMN2345.
@@ -1278,6 +1279,7 @@ mrical.
 MS-54.
 MS4X4.
 Msiva19.
+Mstr-Creta.
 mtharjo.
 mugiwaramenon.
 Muhammad-Rebaal.
