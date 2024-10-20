@@ -225,6 +225,7 @@ at8807602.
 dadhich-ashish.
 stefanintech.
 Vishnu-rvk.
+techTrekwithAJ.
 vhudlikar.
 am-shakeel.
 Dhruvyadav2000.
@@ -235,10 +236,9 @@ kmohit2809.
 naveenraw25.
 Saileshlanka.
 MYaswanth28.
-mo-dahir.
 
 **Other contributors:**
-techTrekwithAJ.
+mo-dahir.
 dcord1x.
 SaiSankar1309.
 soham-shee.
@@ -661,6 +661,7 @@ homealone07.
 Iamsant.
 jeremyrubio27.
 Sagar-agarwal.
+techTrekwithAJ.
 vhudlikar.
 wiresgit.
 yourepicservices.
@@ -685,7 +686,6 @@ dcord1x.
 djunaid.
 Haile-08.
 sonamtiwari8.
-techTrekwithAJ.
 Adiana3308.
 akhoshnood.
 allam1234.
