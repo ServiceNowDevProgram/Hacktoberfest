@@ -205,10 +205,11 @@ HarshLMP870.
 ivan-betev.
 nowitsvashu.
 sndevs-slacker-issue-reporter[bot].
+aykmrgit.
 bgrk005.
-isaac-vicentini.
 
 **Top 50% contributors:**
+isaac-vicentini.
 RahmanM.
 SrijanPatwa.
 vermaamit1664.
@@ -226,7 +227,6 @@ animeshdasgit.
 ravichandra1998g.
 sumanth1710.
 at8807602.
-aykmrgit.
 dadhich-ashish.
 gowdah.
 prashantmrshine.
@@ -474,8 +474,8 @@ R3J3NT.
 amigujarathi.
 ajcooper72.
 chelming.
-hrobarikt.
 aykmrgit.
+hrobarikt.
 ashoo-jindal.
 sumanthdosapati.
 smartcarleen.
