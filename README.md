@@ -199,15 +199,16 @@ amoore-coder.
 anveshmupparaju.
 Charanjet.
 mandeepkaran.
+VaishnaviLathkar98.
 HarshLMP870.
 ivan-betev.
 nowitsvashu.
 sndevs-slacker-issue-reporter[bot].
 bgrk005.
 isaac-vicentini.
-RahmanM.
 
 **Top 50% contributors:**
+RahmanM.
 SrijanPatwa.
 vermaamit1664.
 watrick.
@@ -219,7 +220,6 @@ thejasr110.
 katsiarynasoshyna.
 KedarisettiSreeVamsi.
 mohitchauhan-dev.
-VaishnaviLathkar98.
 99Saurabh19.
 animeshdasgit.
 ravichandra1998g.
@@ -289,6 +289,7 @@ sumanth1710.
 TheRashRash.
 ultralegendary.
 YadlaMani.
+yuvraj1107thapa.
 kalyan120694.
 abhishekchavan-git.
 cmanik.
@@ -441,7 +442,6 @@ wave-inguane.
 xjfdzn.
 YDdraigGoch70.
 yrozo28.
-yuvraj1107thapa.
 
 ## Leaderboard (all time):
 
@@ -564,6 +564,7 @@ zahidask.
 DynamiteC.
 phr-nk.
 shakeel-sheikh.
+VaishnaviLathkar98.
 vjtknn.
 Yokesh0811.
 MarcMouries.
@@ -584,7 +585,6 @@ templetontsai.
 b1naryst0rm.
 namrataghorpade.
 sdgrube2.
-VaishnaviLathkar98.
 AdilBasha1SAP.
 bradtiltonnow.
 pradeepthipani.
@@ -688,6 +688,7 @@ ttoter.
 AlphaEagle.
 JWITSM.
 mo-dahir.
+yuvraj1107thapa.
 dcord1x.
 djunaid.
 Haile-08.
@@ -721,7 +722,6 @@ mockspeed.
 ewatch.
 pranavkhurana2011.
 rohantjoshi.
-yuvraj1107thapa.
 1shabby.
 abhilash264.
 aftab-mirza.
