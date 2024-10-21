@@ -226,6 +226,7 @@ ravichandra1998g.
 at8807602.
 dadhich-ashish.
 gowdah.
+prashantmrshine.
 stefanintech.
 Vishnu-rvk.
 vhudlikar.
@@ -237,10 +238,9 @@ kmohit2809.
 naveenraw25.
 Saileshlanka.
 MYaswanth28.
-mo-dahir.
 
 **Other contributors:**
-prashantmrshine.
+mo-dahir.
 dcord1x.
 SaiSankar1309.
 soham-shee.
@@ -644,6 +644,7 @@ goranlundqvist.
 harisnad.
 katsiarynasoshyna.
 KedarisettiSreeVamsi.
+prashantmrshine.
 riya-vermaa.
 99Saurabh19.
 allenandreas.
@@ -659,9 +660,9 @@ rmedved84.
 src107.
 fn20200323.
 pratyushasndev.
-stefanintech.
 
 **Top 50% contributors:**
+stefanintech.
 Vishnu-rvk.
 yuvraj1107thapa.
 homealone07.
@@ -674,7 +675,6 @@ yourepicservices.
 ChecksumFailed.
 Dhruvyadav2000.
 markroethof.
-prashantmrshine.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
 anguspalmer.
