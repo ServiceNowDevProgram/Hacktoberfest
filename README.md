@@ -162,10 +162,10 @@ ashoo-jindal.
 **Top 10% contributors:**
 aswamy93.
 Rampriya-S.
+maheshkhatal27.
 alkaChaudhary73.
 Jaspalsinghchot.
 selvarun-umass.
-maheshkhatal27.
 MartinStoyanoff.
 chetnadev.
 himanshu7895.
@@ -506,6 +506,7 @@ MrChrisE.
 vandna07.
 at8807602.
 captainbraddles.
+maheshkhatal27.
 abhrajyotikanrar.
 alkaChaudhary73.
 csharpie.
@@ -517,7 +518,6 @@ selvarun-umass.
 shivamTodwal.
 iar42.
 lakshmikanthgupta.
-maheshkhatal27.
 mlemartien.
 Munnisona.
 riya-misra-1.
