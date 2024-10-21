@@ -163,9 +163,9 @@ ashoo-jindal.
 aswamy93.
 Rampriya-S.
 alkaChaudhary73.
+Jaspalsinghchot.
 selvarun-umass.
 MartinStoyanoff.
-Jaspalsinghchot.
 himanshu7895.
 maheshkhatal27.
 bkb68.
@@ -250,6 +250,7 @@ lakshmikanthgupta.
 prithvibalakka.
 riya-misra-1.
 sheikhafsarzap.
+yuvraj1107thapa.
 aykmrgit.
 chelming.
 pranavkhurana2011.
@@ -289,7 +290,6 @@ sumanth1710.
 TheRashRash.
 ultralegendary.
 YadlaMani.
-yuvraj1107thapa.
 kalyan120694.
 abhishekchavan-git.
 cmanik.
@@ -465,13 +465,13 @@ sandeepd26.
 bird-03.
 DavidArthurCole.
 kmxo.
+Jaspalsinghchot.
 RahmanM.
 R3J3NT.
 amigujarathi.
 chetnadev.
 ajcooper72.
 chelming.
-Jaspalsinghchot.
 hrobarikt.
 ashoo-jindal.
 sumanthdosapati.
@@ -663,6 +663,7 @@ stefanintech.
 
 **Top 50% contributors:**
 Vishnu-rvk.
+yuvraj1107thapa.
 homealone07.
 Iamsant.
 jeremyrubio27.
@@ -688,7 +689,6 @@ ttoter.
 AlphaEagle.
 JWITSM.
 mo-dahir.
-yuvraj1107thapa.
 dcord1x.
 djunaid.
 Haile-08.
