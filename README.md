@@ -241,7 +241,6 @@ Saileshlanka.
 
 **Other contributors:**
 yuvraj1107thapa.
-MYaswanth28.
 mo-dahir.
 dcord1x.
 Ramesh-hub007.
@@ -254,6 +253,7 @@ prithvibalakka.
 riya-misra-1.
 sheikhafsarzap.
 aykmrgit.
+MYaswanth28.
 chelming.
 pranavkhurana2011.
 aftab-mirza.
@@ -686,7 +686,6 @@ naveenraw25.
 NBaker137.
 revantKulkarni.
 trade12.
-MYaswanth28.
 ttoter.
 AlphaEagle.
 JWITSM.
@@ -722,6 +721,7 @@ TheTreyKyle.
 thisnameissoclever.
 ujjwalprem.
 mockspeed.
+MYaswanth28.
 ewatch.
 pranavkhurana2011.
 rohantjoshi.
