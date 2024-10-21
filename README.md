@@ -176,13 +176,13 @@ chetnadev.
 shraddhakadam301298.
 
 **Top 25% contributors:**
+Adil404.
 Atul-LNG.
 maheshkhatal27.
 bird-03.
 kylburns89.
 Mexiprince.
 ronaldkarim.
-Adil404.
 ariyadmir.
 DanielMadsenDK.
 himanshu7895.
@@ -546,13 +546,14 @@ MRSinghRajat.
 oasif.
 jonahpiascik.
 soerenmaucher.
+Adil404.
 avssrikanth.
 shraddhakadam301298.
 shridk.
 Atul-LNG.
-maheshkhatal27.
 
 **Top 25% contributors:**
+maheshkhatal27.
 sheikhafsarzap.
 davidkwhuang.
 kylburns89.
@@ -565,7 +566,6 @@ vjtknn.
 Yokesh0811.
 MarcMouries.
 sn-ajb.
-Adil404.
 DavidMarcial.
 techYESlogyXplorer.
 alyaanbasha.
