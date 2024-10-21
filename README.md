@@ -154,9 +154,9 @@ niamccash.
 ankitshu.
 koratalas.
 404paige.
+chetnadev.
 Praiseto.
 ynr-ram.
-chetnadev.
 YTejaswini18.
 
 **Top 10% contributors:**
@@ -463,9 +463,9 @@ ynr-ram.
 mgopw.
 ishaanshoor.
 sandeepd26.
+chetnadev.
 bird-03.
 DavidArthurCole.
-chetnadev.
 kmxo.
 Jaspalsinghchot.
 RahmanM.
