@@ -195,6 +195,7 @@ captainbraddles.
 Charanjet.
 QI-XING.
 shridk.
+thejasr110.
 unbirthdays.
 amoore-coder.
 anveshmupparaju.
@@ -205,9 +206,9 @@ ivan-betev.
 nowitsvashu.
 sndevs-slacker-issue-reporter[bot].
 bgrk005.
-isaac-vicentini.
 
 **Top 50% contributors:**
+isaac-vicentini.
 RahmanM.
 SrijanPatwa.
 vermaamit1664.
@@ -216,7 +217,6 @@ abhrajyotikanrar.
 Harshuu870.
 jahnaviT2003.
 techTrekwithAJ.
-thejasr110.
 katsiarynasoshyna.
 KedarisettiSreeVamsi.
 mohitchauhan-dev.
@@ -601,6 +601,7 @@ designitsecure.
 llipovsky.
 seviceN.
 tejudhoran95.
+thejasr110.
 unbirthdays.
 vasantharaja-natarajan.
 amoore-coder.
@@ -638,7 +639,6 @@ Iuliak.
 jahnaviT2003.
 RaunakScarlet.
 techTrekwithAJ.
-thejasr110.
 TVani5.
 adarshsingh0205.
 annaydas.
