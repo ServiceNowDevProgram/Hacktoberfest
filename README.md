@@ -174,9 +174,9 @@ spnegi.
 eriemer1.
 chetnadev.
 shraddhakadam301298.
+Adil404.
 
 **Top 25% contributors:**
-Adil404.
 Atul-LNG.
 maheshkhatal27.
 bird-03.
@@ -373,6 +373,7 @@ jekinz-tagline.
 john9006.
 JScoder4005.
 Karthi6559.
+Kawshal29.
 Khushi799.
 KiwiPelago.
 kriwani.
@@ -1208,6 +1209,7 @@ KarelSyrovatka.
 Karthi6559.
 Karthick986.
 karthiga8881.
+Kawshal29.
 KayakDK.
 kdinesh26.
 Keagnn.
