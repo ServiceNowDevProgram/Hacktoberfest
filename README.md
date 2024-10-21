@@ -237,9 +237,10 @@ debendu-das.
 kmohit2809.
 naveenraw25.
 Saileshlanka.
-MYaswanth28.
+yuvraj1107thapa.
 
 **Other contributors:**
+MYaswanth28.
 mo-dahir.
 dcord1x.
 SaiSankar1309.
@@ -250,7 +251,6 @@ lakshmikanthgupta.
 prithvibalakka.
 riya-misra-1.
 sheikhafsarzap.
-yuvraj1107thapa.
 aykmrgit.
 chelming.
 pranavkhurana2011.
@@ -629,6 +629,7 @@ dalestubblefield.
 danielliaus.
 JonSandoval.
 sauravsumankumar.
+yuvraj1107thapa.
 ashuprince121.
 Harshuu870.
 hrichiksite.
@@ -659,12 +660,11 @@ rene-el.
 rmedved84.
 src107.
 fn20200323.
-pratyushasndev.
 
 **Top 50% contributors:**
+pratyushasndev.
 stefanintech.
 Vishnu-rvk.
-yuvraj1107thapa.
 homealone07.
 Iamsant.
 jeremyrubio27.
