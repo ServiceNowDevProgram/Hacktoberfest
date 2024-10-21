@@ -223,6 +223,7 @@ mohitchauhan-dev.
 99Saurabh19.
 animeshdasgit.
 ravichandra1998g.
+sumanth1710.
 at8807602.
 dadhich-ashish.
 gowdah.
@@ -237,7 +238,6 @@ debendu-das.
 kmohit2809.
 naveenraw25.
 Saileshlanka.
-sumanth1710.
 
 **Other contributors:**
 yuvraj1107thapa.
@@ -660,9 +660,10 @@ piyusalunke123.
 rene-el.
 rmedved84.
 src107.
-fn20200323.
+sumanth1710.
 
 **Top 50% contributors:**
+fn20200323.
 pratyushasndev.
 stefanintech.
 Vishnu-rvk.
@@ -684,7 +685,6 @@ bhavyajain511.
 naveenraw25.
 NBaker137.
 revantKulkarni.
-sumanth1710.
 trade12.
 MYaswanth28.
 ttoter.
