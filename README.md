@@ -225,7 +225,6 @@ animeshdasgit.
 ravichandra1998g.
 at8807602.
 dadhich-ashish.
-gowdah.
 stefanintech.
 Vishnu-rvk.
 vhudlikar.
@@ -236,6 +235,7 @@ debendu-das.
 kmohit2809.
 naveenraw25.
 Saileshlanka.
+gowdah.
 MYaswanth28.
 mo-dahir.
 
@@ -492,21 +492,21 @@ Praiseto.
 rafzk.
 anillande90.
 ayleeandersen.
-gowdah.
 Abhishekchowdarapu.
 alikuttyka.
 YTejaswini18.
 aswamy93.
 BadalHub.
+MrChrisE.
 
 **Top 10% contributors:**
-MrChrisE.
 vandna07.
 am-shakeel.
 at8807602.
 captainbraddles.
 abhrajyotikanrar.
 alkaChaudhary73.
+gowdah.
 PranavBhagat18.
 Irston.
 litwi1rm.
