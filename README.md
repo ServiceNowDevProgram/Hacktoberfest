@@ -157,15 +157,15 @@ koratalas.
 chetnadev.
 Praiseto.
 ynr-ram.
-Rampriya-S.
+YTejaswini18.
 
 **Top 10% contributors:**
-YTejaswini18.
 ashoo-jindal.
 aswamy93.
 maheshkhatal27.
 alkaChaudhary73.
 Jaspalsinghchot.
+Rampriya-S.
 selvarun-umass.
 MartinStoyanoff.
 himanshu7895.
