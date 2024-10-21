@@ -213,6 +213,7 @@ RahmanM.
 SrijanPatwa.
 vermaamit1664.
 watrick.
+Vishnu-rvk.
 abhrajyotikanrar.
 Harshuu870.
 jahnaviT2003.
@@ -229,7 +230,6 @@ dadhich-ashish.
 gowdah.
 prashantmrshine.
 stefanintech.
-Vishnu-rvk.
 vhudlikar.
 Dhruvyadav2000.
 S-w-a-p-n-i-l-22.
@@ -632,6 +632,7 @@ dalestubblefield.
 danielliaus.
 JonSandoval.
 sauravsumankumar.
+Vishnu-rvk.
 yuvraj1107thapa.
 ashuprince121.
 Harshuu870.
@@ -661,13 +662,12 @@ piyusalunke123.
 rene-el.
 rmedved84.
 src107.
-sumanth1710.
 
 **Top 50% contributors:**
+sumanth1710.
 fn20200323.
 pratyushasndev.
 stefanintech.
-Vishnu-rvk.
 homealone07.
 Iamsant.
 jeremyrubio27.
