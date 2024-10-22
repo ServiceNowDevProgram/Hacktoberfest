@@ -193,6 +193,7 @@ templetontsai.
 Munnisona.
 pradeepthipani.
 captainbraddles.
+prashantmrshine.
 Charanjet.
 QI-XING.
 shridk.
@@ -206,15 +207,14 @@ ivan-betev.
 nowitsvashu.
 sndevs-slacker-issue-reporter[bot].
 aykmrgit.
-bgrk005.
 
 **Top 50% contributors:**
+bgrk005.
 isaac-vicentini.
 RahmanM.
 SrijanPatwa.
 vermaamit1664.
 watrick.
-prashantmrshine.
 abhrajyotikanrar.
 Harshuu870.
 jahnaviT2003.
@@ -583,6 +583,7 @@ thejasr110.
 hoederath.
 mjonssonme.
 nthumma.
+prashantmrshine.
 priyasnexpert.
 templetontsai.
 b1naryst0rm.
@@ -612,7 +613,6 @@ domuserk.
 HarneetSital.
 jacebenson.
 mandeepkaran.
-prashantmrshine.
 ReginaldFawcett.
 Saileshlanka.
 thorn91.
