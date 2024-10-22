@@ -231,6 +231,7 @@ dadhich-ashish.
 gowdah.
 stefanintech.
 Vishnu-rvk.
+Srikanth1306.
 vhudlikar.
 Dhruvyadav2000.
 S-w-a-p-n-i-l-22.
@@ -238,12 +239,11 @@ SNProductOwner.
 debendu-das.
 kmohit2809.
 naveenraw25.
-Saileshlanka.
 
 **Other contributors:**
+Saileshlanka.
 yuvraj1107thapa.
 mo-dahir.
-Srikanth1306.
 dcord1x.
 Ramesh-hub007.
 SaiSankar1309.
@@ -672,6 +672,7 @@ homealone07.
 Iamsant.
 jeremyrubio27.
 Sagar-agarwal.
+Srikanth1306.
 vhudlikar.
 wiresgit.
 yourepicservices.
@@ -695,7 +696,6 @@ dcord1x.
 djunaid.
 Haile-08.
 sonamtiwari8.
-Srikanth1306.
 Adiana3308.
 akhoshnood.
 allam1234.
