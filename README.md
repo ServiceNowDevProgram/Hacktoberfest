@@ -178,7 +178,6 @@ spnegi.
 
 **Top 25% contributors:**
 eriemer1.
-prashantmrshine.
 shraddhakadam301298.
 Adil404.
 Atul-LNG.
@@ -187,6 +186,7 @@ kylburns89.
 Mexiprince.
 ronaldkarim.
 bgrk005.
+prashantmrshine.
 ariyadmir.
 DanielMadsenDK.
 thejasr110.
@@ -232,8 +232,8 @@ gowdah.
 stefanintech.
 Vishnu-rvk.
 Dhruvyadav2000.
-vhudlikar.
 kmohit2809.
+vhudlikar.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
 debendu-das.
@@ -546,7 +546,6 @@ mskoddow.
 QI-XING.
 sravankadudhuri.
 jiteshmalik.
-prashantmrshine.
 spnegi.
 danr2c2.
 Litwilly.
@@ -557,15 +556,16 @@ soerenmaucher.
 Adil404.
 avssrikanth.
 shraddhakadam301298.
+shridk.
 
 **Top 25% contributors:**
-shridk.
 Atul-LNG.
 sheikhafsarzap.
 bgrk005.
 davidkwhuang.
 kylburns89.
 Mexiprince.
+prashantmrshine.
 zahidask.
 DynamiteC.
 phr-nk.
