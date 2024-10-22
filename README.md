@@ -407,6 +407,7 @@ pandeysameer.
 paulbaranouski.
 pranjalisr.
 PraveenM1132.
+PyansiSuman.
 RadoEhlenov.
 RahulJamdhade.
 rajfauzdar.
@@ -775,9 +776,9 @@ Chouffy.
 Coder0131.
 DaleD-SN.
 deathkraiser.
+demetris7.
 
 **Other contributors:**
-demetris7.
 devalcodes.
 dhruvii-powershell.
 dorsy99.
@@ -1354,6 +1355,7 @@ ptupe.
 pujitakonjety.
 pupchenko.
 purplemanchris.
+PyansiSuman.
 pysanders.
 r1990v.
 RadoEhlenov.
