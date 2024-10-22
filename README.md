@@ -210,7 +210,6 @@ nowitsvashu.
 
 **Top 50% contributors:**
 sndevs-slacker-issue-reporter[bot].
-aykmrgit.
 isaac-vicentini.
 RahmanM.
 SrijanPatwa.
@@ -227,6 +226,7 @@ mohitchauhan-dev.
 animeshdasgit.
 ravichandra1998g.
 at8807602.
+aykmrgit.
 dadhich-ashish.
 gowdah.
 stefanintech.
@@ -476,8 +476,8 @@ R3J3NT.
 amigujarathi.
 ajcooper72.
 chelming.
-aykmrgit.
 hrobarikt.
+aykmrgit.
 ashoo-jindal.
 sumanthdosapati.
 smartcarleen.
