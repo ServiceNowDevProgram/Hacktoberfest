@@ -432,6 +432,7 @@ stwinkle.
 Suman-Kumar-Mogilicherla.
 sumedhx.
 swaroop-surampalli.
+syprien.
 techLrd.
 TechnoDeba.
 TracyCurry96.
@@ -664,9 +665,9 @@ odinsride.
 piyusalunke123.
 rene-el.
 rmedved84.
+src107.
 
 **Top 50% contributors:**
-src107.
 fn20200323.
 pratyushasndev.
 stefanintech.
@@ -772,9 +773,9 @@ ChndrshP.
 Chouffy.
 Coder0131.
 DaleD-SN.
+deathkraiser.
 
 **Other contributors:**
-deathkraiser.
 demetris7.
 devalcodes.
 dhruvii-powershell.
@@ -1453,6 +1454,7 @@ suryakantshoor.
 sushil-now.
 SwarnadeepNandy.
 swaroop-surampalli.
+syprien.
 TamByrd.
 tapishsh.
 techLrd.
