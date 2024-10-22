@@ -239,9 +239,9 @@ S-w-a-p-n-i-l-22.
 SNProductOwner.
 debendu-das.
 kmohit2809.
+naveenraw25.
 
 **Other contributors:**
-naveenraw25.
 Saileshlanka.
 yuvraj1107thapa.
 mo-dahir.
@@ -292,6 +292,7 @@ TheRashRash.
 ultralegendary.
 YadlaMani.
 kalyan120694.
+Ratheshan03.
 abhishekchavan-git.
 cmanik.
 DennisRutherford.
@@ -719,6 +720,7 @@ maialithar.
 MihirRathod.
 preshitd.
 prithvibalakka.
+Ratheshan03.
 tanu-profile.
 TheTreyKyle.
 thisnameissoclever.
@@ -770,9 +772,9 @@ ChndrshP.
 Chouffy.
 Coder0131.
 DaleD-SN.
-deathkraiser.
 
 **Other contributors:**
+deathkraiser.
 demetris7.
 devalcodes.
 dhruvii-powershell.
@@ -804,7 +806,6 @@ physi.
 pratyushmp.
 PreyumKr.
 RajputUsman.
-Ratheshan03.
 rawnaldduck.
 renuka-rajpuria.
 S-SuryaPrakash.
