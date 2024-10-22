@@ -244,6 +244,7 @@ sumanth1710.
 **Other contributors:**
 yuvraj1107thapa.
 mo-dahir.
+Pradeep567iaf.
 dcord1x.
 Ramesh-hub007.
 SaiSankar1309.
@@ -257,7 +258,6 @@ sheikhafsarzap.
 MYaswanth28.
 Ratheshan03.
 chelming.
-Pradeep567iaf.
 pranavkhurana2011.
 aftab-mirza.
 ashu759.
@@ -695,6 +695,7 @@ ttoter.
 AlphaEagle.
 JWITSM.
 mo-dahir.
+Pradeep567iaf.
 dcord1x.
 djunaid.
 Haile-08.
@@ -728,7 +729,6 @@ ujjwalprem.
 mockspeed.
 MYaswanth28.
 ewatch.
-Pradeep567iaf.
 pranavkhurana2011.
 rohantjoshi.
 1shabby.
