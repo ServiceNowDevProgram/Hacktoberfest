@@ -202,13 +202,14 @@ shridk.
 unbirthdays.
 amoore-coder.
 anveshmupparaju.
+katsiarynasoshyna.
 mandeepkaran.
 VaishnaviLathkar98.
 HarshLMP870.
 ivan-betev.
-nowitsvashu.
 
 **Top 50% contributors:**
+nowitsvashu.
 sndevs-slacker-issue-reporter[bot].
 aykmrgit.
 isaac-vicentini.
@@ -221,7 +222,6 @@ Harshuu870.
 jahnaviT2003.
 Srikanth1306.
 techTrekwithAJ.
-katsiarynasoshyna.
 KedarisettiSreeVamsi.
 mohitchauhan-dev.
 99Saurabh19.
@@ -615,6 +615,7 @@ dean-croaker.
 domuserk.
 HarneetSital.
 jacebenson.
+katsiarynasoshyna.
 mandeepkaran.
 ReginaldFawcett.
 Saileshlanka.
@@ -650,7 +651,6 @@ adarshsingh0205.
 annaydas.
 goranlundqvist.
 harisnad.
-katsiarynasoshyna.
 KedarisettiSreeVamsi.
 riya-vermaa.
 99Saurabh19.
