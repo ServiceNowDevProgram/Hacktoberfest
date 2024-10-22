@@ -192,7 +192,6 @@ DanielMadsenDK.
 thejasr110.
 priyasnexpert.
 templetontsai.
-sumanth1710.
 Munnisona.
 pradeepthipani.
 captainbraddles.
@@ -207,10 +206,11 @@ mandeepkaran.
 VaishnaviLathkar98.
 HarshLMP870.
 ivan-betev.
+nowitsvashu.
 
 **Top 50% contributors:**
-nowitsvashu.
 sndevs-slacker-issue-reporter[bot].
+sumanth1710.
 aykmrgit.
 isaac-vicentini.
 RahmanM.
@@ -592,7 +592,6 @@ templetontsai.
 b1naryst0rm.
 namrataghorpade.
 sdgrube2.
-sumanth1710.
 AdilBasha1SAP.
 bradtiltonnow.
 pradeepthipani.
@@ -626,6 +625,7 @@ mmaraj1.
 nowitsvashu.
 sanjivmeher.
 sndevs-slacker-issue-reporter[bot].
+sumanth1710.
 aman2519.
 isaac-vicentini.
 manrick.
