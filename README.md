@@ -173,14 +173,14 @@ bkb68.
 wiz0floyd.
 Paulsylo25.
 am-shakeel.
-Adil404.
 sravankadudhuri.
+spnegi.
 
 **Top 25% contributors:**
-spnegi.
 eriemer1.
 prashantmrshine.
 shraddhakadam301298.
+Adil404.
 Atul-LNG.
 bird-03.
 kylburns89.
@@ -539,7 +539,6 @@ SrijanPatwa.
 TRIGGEREDcoder.
 debendu-das.
 Danmax.
-Adil404.
 hafsa-asif.
 ovarn.
 devinvalencia.
@@ -555,6 +554,7 @@ MRSinghRajat.
 oasif.
 jonahpiascik.
 soerenmaucher.
+Adil404.
 avssrikanth.
 shraddhakadam301298.
 
