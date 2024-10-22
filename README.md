@@ -241,9 +241,9 @@ naveenraw25.
 Saileshlanka.
 sumanth1710.
 yuvraj1107thapa.
+mo-dahir.
 
 **Other contributors:**
-mo-dahir.
 Pradeep567iaf.
 dcord1x.
 Ramesh-hub007.
@@ -292,6 +292,7 @@ Sravanik12.
 TheRashRash.
 ultralegendary.
 YadlaMani.
+Danmax.
 kalyan120694.
 abhishekchavan-git.
 cmanik.
@@ -532,6 +533,7 @@ hentonjd.
 aatrey882.
 salmaniqbal92.
 VaishnaviLathkar98.
+Danmax.
 mohitchauhan-dev.
 mr-swann.
 anveshmupparaju.
@@ -542,7 +544,6 @@ bkb68.
 SrijanPatwa.
 TRIGGEREDcoder.
 debendu-das.
-Danmax.
 hafsa-asif.
 ovarn.
 devinvalencia.
