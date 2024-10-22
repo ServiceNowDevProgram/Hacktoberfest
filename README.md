@@ -154,9 +154,9 @@ niamccash.
 chetnadev.
 Praiseto.
 ankitshu.
+Jaspalsinghchot.
 koratalas.
 404paige.
-Jaspalsinghchot.
 ynr-ram.
 
 **Top 10% contributors:**
@@ -468,8 +468,8 @@ sandeepd26.
 ishaanshoor.
 chetnadev.
 bird-03.
-DavidArthurCole.
 Jaspalsinghchot.
+DavidArthurCole.
 kmxo.
 RahmanM.
 R3J3NT.
