@@ -157,13 +157,13 @@ koratalas.
 chetnadev.
 Praiseto.
 ynr-ram.
-maheshkhatal27.
+YTejaswini18.
 
 **Top 10% contributors:**
-YTejaswini18.
 ashoo-jindal.
 aswamy93.
 Rampriya-S.
+maheshkhatal27.
 alkaChaudhary73.
 Jaspalsinghchot.
 selvarun-umass.
@@ -494,7 +494,6 @@ sychi77.
 ronaldkarim.
 azeezgaa.
 deepak-64742.
-maheshkhatal27.
 rafzk.
 anillande90.
 ayleeandersen.
@@ -502,13 +501,14 @@ gowdah.
 Abhishekchowdarapu.
 alikuttyka.
 YTejaswini18.
+aswamy93.
 
 **Top 10% contributors:**
-aswamy93.
 BadalHub.
 MrChrisE.
 vandna07.
 at8807602.
+maheshkhatal27.
 captainbraddles.
 abhrajyotikanrar.
 alkaChaudhary73.
