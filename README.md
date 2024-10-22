@@ -192,6 +192,7 @@ thejasr110.
 priyasnexpert.
 templetontsai.
 sumanth1710.
+bgrk005.
 Munnisona.
 pradeepthipani.
 captainbraddles.
@@ -206,11 +207,10 @@ VaishnaviLathkar98.
 HarshLMP870.
 ivan-betev.
 nowitsvashu.
-sndevs-slacker-issue-reporter[bot].
 
 **Top 50% contributors:**
+sndevs-slacker-issue-reporter[bot].
 aykmrgit.
-bgrk005.
 isaac-vicentini.
 RahmanM.
 SrijanPatwa.
@@ -581,6 +581,7 @@ gregorwmail.
 harishankert.
 mady22070.
 thejasr110.
+bgrk005.
 hoederath.
 mjonssonme.
 nthumma.
@@ -608,7 +609,6 @@ tejudhoran95.
 unbirthdays.
 vasantharaja-natarajan.
 amoore-coder.
-bgrk005.
 dean-croaker.
 domuserk.
 HarneetSital.
