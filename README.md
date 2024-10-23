@@ -243,8 +243,8 @@ sumanth1710.
 
 **Other contributors:**
 yuvraj1107thapa.
-mo-dahir.
 Pradeep567iaf.
+mo-dahir.
 dcord1x.
 Ramesh-hub007.
 SaiSankar1309.
@@ -697,11 +697,11 @@ NBaker137.
 revantKulkarni.
 sumanth1710.
 trade12.
+Pradeep567iaf.
 ttoter.
 AlphaEagle.
 JWITSM.
 mo-dahir.
-Pradeep567iaf.
 dcord1x.
 djunaid.
 Haile-08.
