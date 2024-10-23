@@ -196,6 +196,7 @@ templetontsai.
 Munnisona.
 pradeepthipani.
 captainbraddles.
+Vishnu-rvk.
 Charanjet.
 QI-XING.
 shridk.
@@ -207,15 +208,14 @@ mandeepkaran.
 HarshLMP870.
 ivan-betev.
 nowitsvashu.
-sndevs-slacker-issue-reporter[bot].
 
 **Top 50% contributors:**
+sndevs-slacker-issue-reporter[bot].
 isaac-vicentini.
 RahmanM.
 SrijanPatwa.
 vermaamit1664.
 watrick.
-Vishnu-rvk.
 abhrajyotikanrar.
 Dhruvyadav2000.
 Harshuu870.
@@ -605,6 +605,7 @@ dadhich-ashish.
 girishnagaraj09.
 Jayden-Chiu.
 OrgovanGeza.
+Vishnu-rvk.
 arhaan2019.
 Charanjet.
 designitsecure.
@@ -640,7 +641,6 @@ dalestubblefield.
 danielliaus.
 JonSandoval.
 sauravsumankumar.
-Vishnu-rvk.
 yuvraj1107thapa.
 ashuprince121.
 Dhruvyadav2000.
