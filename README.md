@@ -166,8 +166,8 @@ ashoo-jindal.
 aswamy93.
 Rampriya-S.
 alkaChaudhary73.
-selvarun-umass.
 wiz0floyd.
+selvarun-umass.
 MartinStoyanoff.
 himanshu7895.
 bkb68.
@@ -180,7 +180,6 @@ spnegi.
 VaishnaviLathkar98.
 eriemer1.
 shraddhakadam301298.
-Adil404.
 Atul-LNG.
 bird-03.
 kylburns89.
@@ -188,6 +187,7 @@ Mexiprince.
 ronaldkarim.
 bgrk005.
 prashantmrshine.
+Adil404.
 ariyadmir.
 DanielMadsenDK.
 thejasr110.
@@ -558,12 +558,11 @@ MRSinghRajat.
 oasif.
 jonahpiascik.
 soerenmaucher.
-Adil404.
 avssrikanth.
 shraddhakadam301298.
+shridk.
 
 **Top 25% contributors:**
-shridk.
 Atul-LNG.
 sheikhafsarzap.
 bgrk005.
@@ -579,6 +578,7 @@ vjtknn.
 Yokesh0811.
 MarcMouries.
 sn-ajb.
+Adil404.
 DavidMarcial.
 techYESlogyXplorer.
 alyaanbasha.
