@@ -200,6 +200,7 @@ Vishnu-rvk.
 Charanjet.
 QI-XING.
 shridk.
+sndevs-slacker-issue-reporter[bot].
 unbirthdays.
 amoore-coder.
 anveshmupparaju.
@@ -207,10 +208,9 @@ katsiarynasoshyna.
 mandeepkaran.
 HarshLMP870.
 ivan-betev.
-nowitsvashu.
 
 **Top 50% contributors:**
-sndevs-slacker-issue-reporter[bot].
+nowitsvashu.
 isaac-vicentini.
 RahmanM.
 SrijanPatwa.
@@ -614,6 +614,7 @@ Charanjet.
 designitsecure.
 llipovsky.
 seviceN.
+sndevs-slacker-issue-reporter[bot].
 tejudhoran95.
 unbirthdays.
 vasantharaja-natarajan.
@@ -632,7 +633,6 @@ Himanshu-skb-oo7.
 mmaraj1.
 nowitsvashu.
 sanjivmeher.
-sndevs-slacker-issue-reporter[bot].
 aman2519.
 isaac-vicentini.
 manrick.
