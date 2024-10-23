@@ -271,6 +271,7 @@ csharpie.
 hoederath.
 MGOPW.
 NowRishi.
+rohi-v.
 ShakthiSn.
 shreyawani98.
 tejasathalye.
@@ -328,7 +329,6 @@ mucho243.
 pviglianti.
 RasoolBux123.
 Ravindranath2511.
-rohi-v.
 Shriramjoshi86.
 SKYsnaX.
 sohailkhilji.
@@ -751,6 +751,7 @@ furquan5.
 NayeemKaka.
 praisetoyt.
 puneet94.
+rohi-v.
 Shreedevisnow.
 sisco0.
 ashaw7697.
@@ -785,9 +786,9 @@ Coder0131.
 DaleD-SN.
 deathkraiser.
 demetris7.
-devalcodes.
 
 **Other contributors:**
+devalcodes.
 dhruvii-powershell.
 dorsy99.
 ezratkim.
@@ -872,7 +873,6 @@ mvkassak.
 nancystodd.
 outlivo.
 Piyushsahu99.
-rohi-v.
 sagarbhadke08.
 saketh-22.
 sohailkhilji.
