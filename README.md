@@ -195,12 +195,12 @@ templetontsai.
 bgrk005.
 Munnisona.
 pradeepthipani.
+sndevs-slacker-issue-reporter[bot].
 captainbraddles.
 Vishnu-rvk.
 Charanjet.
 QI-XING.
 shridk.
-sndevs-slacker-issue-reporter[bot].
 unbirthdays.
 amoore-coder.
 anveshmupparaju.
@@ -605,6 +605,7 @@ sdgrube2.
 AdilBasha1SAP.
 bradtiltonnow.
 pradeepthipani.
+sndevs-slacker-issue-reporter[bot].
 Vish-X07.
 ashu759.
 dadhich-ashish.
@@ -617,7 +618,6 @@ Charanjet.
 designitsecure.
 llipovsky.
 seviceN.
-sndevs-slacker-issue-reporter[bot].
 tejudhoran95.
 unbirthdays.
 vasantharaja-natarajan.
