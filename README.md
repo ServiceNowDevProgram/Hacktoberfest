@@ -191,11 +191,11 @@ ariyadmir.
 DanielMadsenDK.
 thejasr110.
 priyasnexpert.
+sndevs-slacker-issue-reporter[bot].
 templetontsai.
 bgrk005.
 Munnisona.
 pradeepthipani.
-sndevs-slacker-issue-reporter[bot].
 captainbraddles.
 Vishnu-rvk.
 Charanjet.
@@ -598,6 +598,7 @@ hoederath.
 mjonssonme.
 nthumma.
 priyasnexpert.
+sndevs-slacker-issue-reporter[bot].
 templetontsai.
 b1naryst0rm.
 namrataghorpade.
@@ -605,7 +606,6 @@ sdgrube2.
 AdilBasha1SAP.
 bradtiltonnow.
 pradeepthipani.
-sndevs-slacker-issue-reporter[bot].
 Vish-X07.
 ashu759.
 dadhich-ashish.
