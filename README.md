@@ -211,13 +211,13 @@ ivan-betev.
 nowitsvashu.
 
 **Top 50% contributors:**
+Dhruvyadav2000.
 isaac-vicentini.
 RahmanM.
 SrijanPatwa.
 vermaamit1664.
 watrick.
 abhrajyotikanrar.
-Dhruvyadav2000.
 Harshuu870.
 jahnaviT2003.
 Srikanth1306.
@@ -638,6 +638,7 @@ mmaraj1.
 nowitsvashu.
 sanjivmeher.
 aman2519.
+Dhruvyadav2000.
 isaac-vicentini.
 manrick.
 vermaamit1664.
@@ -650,7 +651,6 @@ JonSandoval.
 sauravsumankumar.
 yuvraj1107thapa.
 ashuprince121.
-Dhruvyadav2000.
 Harshuu870.
 hrichiksite.
 Iuliak.
