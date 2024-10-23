@@ -208,9 +208,9 @@ katsiarynasoshyna.
 mandeepkaran.
 HarshLMP870.
 ivan-betev.
+nowitsvashu.
 
 **Top 50% contributors:**
-nowitsvashu.
 isaac-vicentini.
 RahmanM.
 SrijanPatwa.
@@ -241,9 +241,9 @@ naveenraw25.
 Saileshlanka.
 sumanth1710.
 yuvraj1107thapa.
+Pradeep567iaf.
 
 **Other contributors:**
-Pradeep567iaf.
 mo-dahir.
 dcord1x.
 Ramesh-hub007.
@@ -370,6 +370,7 @@ GittyHarsha.
 GP-UOB.
 GTKsnow.
 Hamritha0506.
+harditsingh88.
 herambchaudhari4121.
 Imsurajr.
 JayShukla8.
@@ -1158,6 +1159,7 @@ han-le.
 Hanan-Ashraf.
 HannaGilbertson.
 hardikvyasji.
+harditsingh88.
 Harshthakur1825.
 Hasanul-Banna-Himel.
 haupx9.
