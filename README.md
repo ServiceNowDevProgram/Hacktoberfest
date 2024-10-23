@@ -382,6 +382,7 @@ JScoder4005.
 Karthi6559.
 Kawshal29.
 Khushi799.
+khushii-hub.
 KiwiPelago.
 kmahesh18.
 kriwani.
@@ -512,9 +513,9 @@ gowdah.
 Abhishekchowdarapu.
 alikuttyka.
 YTejaswini18.
+aswamy93.
 
 **Top 10% contributors:**
-aswamy93.
 BadalHub.
 MrChrisE.
 vandna07.
@@ -567,9 +568,9 @@ jonahpiascik.
 soerenmaucher.
 avssrikanth.
 shraddhakadam301298.
+shridk.
 
 **Top 25% contributors:**
-shridk.
 Atul-LNG.
 sheikhafsarzap.
 davidkwhuang.
@@ -784,10 +785,10 @@ ChndrshP.
 Chouffy.
 Coder0131.
 DaleD-SN.
-deathkraiser.
-demetris7.
 
 **Other contributors:**
+deathkraiser.
+demetris7.
 devalcodes.
 dhruvii-powershell.
 dorsy99.
@@ -1236,6 +1237,7 @@ khawajaazfar2000.
 khoilu-1512.
 KholoodS.
 Khushi799.
+khushii-hub.
 kieo-on.
 KishoreGitRepo.
 kit-t.
