@@ -283,6 +283,7 @@ ezratkim.
 msdfib.
 namrataghorpade.
 NilotpalMaitra.
+osc99.
 phr-nk.
 sachinggsingh.
 Saiprethaa.
@@ -403,7 +404,6 @@ nikkvijay.
 nooras.
 Olaxtian.
 omkar2508.
-osc99.
 OsvaldoCabral.
 pandeysameer.
 paulbaranouski.
@@ -754,6 +754,7 @@ crooks-s.
 cschmidt82.
 Jaskaran-Techno.
 NowRishi.
+osc99.
 RagaChitraMankala.
 ShakthiSn.
 shreyawani98.
@@ -780,9 +781,9 @@ Coder0131.
 DaleD-SN.
 deathkraiser.
 demetris7.
-devalcodes.
 
 **Other contributors:**
+devalcodes.
 dhruvii-powershell.
 dorsy99.
 ezratkim.
@@ -932,7 +933,6 @@ NicoxNall.
 NK-01.
 noviicee.
 NowSharif.
-osc99.
 OsvaldoCabral.
 Pavandileep.
 ppalaskar.
