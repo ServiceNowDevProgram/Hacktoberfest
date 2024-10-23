@@ -240,9 +240,9 @@ debendu-das.
 naveenraw25.
 Saileshlanka.
 sumanth1710.
+yuvraj1107thapa.
 
 **Other contributors:**
-yuvraj1107thapa.
 Pradeep567iaf.
 mo-dahir.
 dcord1x.
@@ -374,6 +374,7 @@ Imsurajr.
 JayShukla8.
 jaz1gdev.
 jekinz-tagline.
+jgr1ffin.
 john9006.
 JScoder4005.
 Karthi6559.
@@ -782,9 +783,9 @@ Coder0131.
 DaleD-SN.
 deathkraiser.
 demetris7.
+devalcodes.
 
 **Other contributors:**
-devalcodes.
 dhruvii-powershell.
 dorsy99.
 ezratkim.
@@ -1189,6 +1190,7 @@ jdsingh206.
 jee10der.
 jekinz-tagline.
 Jennylou777.
+jgr1ffin.
 JiyaGupta-cs.
 jj073110.
 jkbdtadvisory.
