@@ -186,12 +186,12 @@ kylburns89.
 VaishnaviLathkar98.
 Mexiprince.
 ronaldkarim.
+sndevs-slacker-issue-reporter[bot].
 Adil404.
 ariyadmir.
 DanielMadsenDK.
 thejasr110.
 priyasnexpert.
-sndevs-slacker-issue-reporter[bot].
 templetontsai.
 bgrk005.
 Munnisona.
@@ -585,6 +585,7 @@ MarcMouries.
 sn-ajb.
 Adil404.
 DavidMarcial.
+sndevs-slacker-issue-reporter[bot].
 techYESlogyXplorer.
 alyaanbasha.
 ariyadmir.
@@ -598,7 +599,6 @@ hoederath.
 mjonssonme.
 nthumma.
 priyasnexpert.
-sndevs-slacker-issue-reporter[bot].
 templetontsai.
 b1naryst0rm.
 namrataghorpade.
