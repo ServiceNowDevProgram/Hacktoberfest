@@ -273,6 +273,7 @@ cschmidt82.
 csharpie.
 hoederath.
 MGOPW.
+mioyokohama.
 NowRishi.
 rohi-v.
 ShakthiSn.
@@ -284,7 +285,6 @@ ChndrshP.
 devalcodes.
 DhanushNehru.
 ezratkim.
-mioyokohama.
 msdfib.
 namrataghorpade.
 NilotpalMaitra.
@@ -767,6 +767,7 @@ Beeram12.
 crooks-s.
 cschmidt82.
 Jaskaran-Techno.
+mioyokohama.
 NowRishi.
 RagaChitraMankala.
 ShakthiSn.
@@ -791,9 +792,9 @@ ChndrshP.
 Chouffy.
 Coder0131.
 DaleD-SN.
-deathkraiser.
 
 **Other contributors:**
+deathkraiser.
 demetris7.
 devalcodes.
 dhruvii-powershell.
@@ -816,7 +817,6 @@ loudigi.
 ManobhavSachan.
 mevops.
 mikeroosa.
-mioyokohama.
 moshjahan.
 msdfib.
 mwchiao.
