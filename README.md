@@ -210,15 +210,15 @@ mandeepkaran.
 HarshLMP870.
 ivan-betev.
 nowitsvashu.
-Dhruvyadav2000.
+animeshdasgit.
 
 **Top 50% contributors:**
+Dhruvyadav2000.
 isaac-vicentini.
 RahmanM.
 SrijanPatwa.
 vermaamit1664.
 watrick.
-animeshdasgit.
 abhrajyotikanrar.
 Harshuu870.
 jahnaviT2003.
@@ -647,13 +647,13 @@ mmaraj1.
 nowitsvashu.
 sanjivmeher.
 aman2519.
+animeshdasgit.
 Dhruvyadav2000.
 isaac-vicentini.
 manrick.
 vermaamit1664.
 watrick.
 almajam.
-animeshdasgit.
 brenduh.
 dalestubblefield.
 danielliaus.
