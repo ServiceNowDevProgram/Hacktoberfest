@@ -207,10 +207,10 @@ amoore-coder.
 anveshmupparaju.
 katsiarynasoshyna.
 mandeepkaran.
+animeshdasgit.
 HarshLMP870.
 ivan-betev.
 nowitsvashu.
-animeshdasgit.
 
 **Top 50% contributors:**
 Dhruvyadav2000.
@@ -641,13 +641,13 @@ mandeepkaran.
 ReginaldFawcett.
 Saileshlanka.
 thorn91.
+animeshdasgit.
 HarshLMP870.
 Himanshu-skb-oo7.
 mmaraj1.
 nowitsvashu.
 sanjivmeher.
 aman2519.
-animeshdasgit.
 Dhruvyadav2000.
 isaac-vicentini.
 manrick.
