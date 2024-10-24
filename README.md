@@ -247,6 +247,7 @@ Pradeep567iaf.
 mo-dahir.
 
 **Other contributors:**
+prynacshrma.
 dcord1x.
 Ramesh-hub007.
 SaiSankar1309.
@@ -268,7 +269,6 @@ bhavyajain511.
 furquan5.
 harditsingh88.
 praisetoyt.
-prynacshrma.
 Shreedevisnow.
 Beeram12.
 cschmidt82.
@@ -719,6 +719,7 @@ mo-dahir.
 dcord1x.
 djunaid.
 Haile-08.
+prynacshrma.
 sonamtiwari8.
 Adiana3308.
 akhoshnood.
@@ -762,7 +763,6 @@ furquan5.
 harditsingh88.
 NayeemKaka.
 praisetoyt.
-prynacshrma.
 puneet94.
 rohi-v.
 Shreedevisnow.
