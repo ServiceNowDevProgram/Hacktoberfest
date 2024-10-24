@@ -276,6 +276,7 @@ hoederath.
 mebeingmustaq.
 MGOPW.
 NowRishi.
+prynacshrma.
 rohi-v.
 ShakthiSn.
 shreyawani98.
@@ -290,7 +291,6 @@ msdfib.
 namrataghorpade.
 NilotpalMaitra.
 phr-nk.
-prynacshrma.
 sachinggsingh.
 Saiprethaa.
 saitarun2499.
@@ -772,6 +772,7 @@ cschmidt82.
 Jaskaran-Techno.
 mebeingmustaq.
 NowRishi.
+prynacshrma.
 RagaChitraMankala.
 ShakthiSn.
 shreyawani98.
@@ -794,9 +795,9 @@ brichards99.
 ChndrshP.
 Chouffy.
 Coder0131.
-DaleD-SN.
 
 **Other contributors:**
+DaleD-SN.
 deathkraiser.
 demetris7.
 devalcodes.
@@ -828,7 +829,6 @@ pavankumar-4.
 physi.
 pratyushmp.
 PreyumKr.
-prynacshrma.
 RajputUsman.
 rawnaldduck.
 renuka-rajpuria.
