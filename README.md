@@ -246,8 +246,8 @@ Pradeep567iaf.
 mo-dahir.
 
 **Other contributors:**
-dcord1x.
 harditsingh88.
+dcord1x.
 Ramesh-hub007.
 SaiSankar1309.
 soham-shee.
@@ -713,13 +713,13 @@ mo-dahir.
 dcord1x.
 djunaid.
 Haile-08.
+harditsingh88.
 sonamtiwari8.
 Adiana3308.
 akhoshnood.
 allam1234.
 Decoder-Paul.
 DhanushNehru.
-harditsingh88.
 jesalynrose.
 Ladirinia.
 miracc.
