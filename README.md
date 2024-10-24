@@ -234,7 +234,6 @@ dadhich-ashish.
 gowdah.
 kmohit2809.
 stefanintech.
-harditsingh88.
 vhudlikar.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
@@ -244,9 +243,10 @@ Saileshlanka.
 sumanth1710.
 yuvraj1107thapa.
 Pradeep567iaf.
+mo-dahir.
 
 **Other contributors:**
-mo-dahir.
+harditsingh88.
 dcord1x.
 Ramesh-hub007.
 SaiSankar1309.
@@ -687,7 +687,6 @@ src107.
 fn20200323.
 pratyushasndev.
 stefanintech.
-harditsingh88.
 homealone07.
 Iamsant.
 jeremyrubio27.
@@ -715,6 +714,7 @@ mo-dahir.
 dcord1x.
 djunaid.
 Haile-08.
+harditsingh88.
 sonamtiwari8.
 Adiana3308.
 akhoshnood.
