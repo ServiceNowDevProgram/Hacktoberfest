@@ -270,6 +270,7 @@ Shreedevisnow.
 Beeram12.
 cschmidt82.
 csharpie.
+harditsingh88.
 hoederath.
 MGOPW.
 NowRishi.
@@ -283,7 +284,6 @@ ChndrshP.
 devalcodes.
 DhanushNehru.
 ezratkim.
-harditsingh88.
 msdfib.
 namrataghorpade.
 NilotpalMaitra.
@@ -762,6 +762,7 @@ ashaw7697.
 Beeram12.
 crooks-s.
 cschmidt82.
+harditsingh88.
 Jaskaran-Techno.
 NowRishi.
 RagaChitraMankala.
@@ -786,16 +787,15 @@ brichards99.
 ChndrshP.
 Chouffy.
 Coder0131.
-DaleD-SN.
 
 **Other contributors:**
+DaleD-SN.
 deathkraiser.
 demetris7.
 devalcodes.
 dhruvii-powershell.
 dorsy99.
 ezratkim.
-harditsingh88.
 HarshMN2345.
 hmadhsan.
 iamvpbhaskar.
