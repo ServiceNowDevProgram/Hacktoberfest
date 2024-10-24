@@ -199,6 +199,7 @@ pradeepthipani.
 captainbraddles.
 Vishnu-rvk.
 Charanjet.
+mioyokohama.
 QI-XING.
 shridk.
 unbirthdays.
@@ -210,9 +211,9 @@ HarshLMP870.
 ivan-betev.
 nowitsvashu.
 Dhruvyadav2000.
-isaac-vicentini.
 
 **Top 50% contributors:**
+isaac-vicentini.
 RahmanM.
 SrijanPatwa.
 vermaamit1664.
@@ -220,7 +221,6 @@ watrick.
 abhrajyotikanrar.
 Harshuu870.
 jahnaviT2003.
-mioyokohama.
 Srikanth1306.
 techTrekwithAJ.
 KedarisettiSreeVamsi.
@@ -625,6 +625,7 @@ arhaan2019.
 Charanjet.
 designitsecure.
 llipovsky.
+mioyokohama.
 seviceN.
 tejudhoran95.
 unbirthdays.
@@ -662,7 +663,6 @@ Harshuu870.
 hrichiksite.
 Iuliak.
 jahnaviT2003.
-mioyokohama.
 RaunakScarlet.
 Srikanth1306.
 techTrekwithAJ.
