@@ -246,7 +246,6 @@ Pradeep567iaf.
 mo-dahir.
 
 **Other contributors:**
-harditsingh88.
 dcord1x.
 Ramesh-hub007.
 SaiSankar1309.
@@ -266,6 +265,7 @@ aftab-mirza.
 ashu759.
 bhavyajain511.
 furquan5.
+harditsingh88.
 praisetoyt.
 Shreedevisnow.
 Beeram12.
@@ -715,7 +715,6 @@ mo-dahir.
 dcord1x.
 djunaid.
 Haile-08.
-harditsingh88.
 sonamtiwari8.
 Adiana3308.
 akhoshnood.
@@ -756,6 +755,7 @@ aftab-mirza.
 Alprez.
 chris-canto-11.
 furquan5.
+harditsingh88.
 NayeemKaka.
 praisetoyt.
 puneet94.
