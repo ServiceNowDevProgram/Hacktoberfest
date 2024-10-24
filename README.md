@@ -241,11 +241,12 @@ debendu-das.
 naveenraw25.
 Saileshlanka.
 sumanth1710.
+TRIGGEREDcoder.
 yuvraj1107thapa.
 Pradeep567iaf.
-mo-dahir.
 
 **Other contributors:**
+mo-dahir.
 dcord1x.
 Ramesh-hub007.
 SaiSankar1309.
@@ -258,7 +259,6 @@ osc99.
 prithvibalakka.
 riya-misra-1.
 sheikhafsarzap.
-TRIGGEREDcoder.
 MYaswanth28.
 pranavkhurana2011.
 aftab-mirza.
@@ -513,12 +513,13 @@ rafzk.
 anillande90.
 ayleeandersen.
 gowdah.
+TRIGGEREDcoder.
 Abhishekchowdarapu.
 alikuttyka.
 YTejaswini18.
-aswamy93.
 
 **Top 10% contributors:**
+aswamy93.
 BadalHub.
 MrChrisE.
 vandna07.
@@ -528,7 +529,6 @@ abhrajyotikanrar.
 alkaChaudhary73.
 csharpie.
 PranavBhagat18.
-TRIGGEREDcoder.
 Irston.
 litwi1rm.
 mak1A4.
