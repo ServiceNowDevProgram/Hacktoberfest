@@ -209,9 +209,9 @@ mandeepkaran.
 HarshLMP870.
 ivan-betev.
 nowitsvashu.
+Dhruvyadav2000.
 
 **Top 50% contributors:**
-Dhruvyadav2000.
 isaac-vicentini.
 RahmanM.
 SrijanPatwa.
@@ -243,9 +243,9 @@ Saileshlanka.
 sumanth1710.
 TRIGGEREDcoder.
 yuvraj1107thapa.
+Pradeep567iaf.
 
 **Other contributors:**
-Pradeep567iaf.
 mo-dahir.
 dcord1x.
 Ramesh-hub007.
@@ -450,6 +450,7 @@ Tsegagedefaw.
 TummalaDivyaReddy.
 uditjainstjis.
 ujjwalgupta2021.
+usamamohammed.
 valaparlasalmonraj.
 vedika0109.
 vijaytechy.
@@ -787,9 +788,9 @@ brichards99.
 ChndrshP.
 Chouffy.
 Coder0131.
+DaleD-SN.
 
 **Other contributors:**
-DaleD-SN.
 deathkraiser.
 demetris7.
 devalcodes.
@@ -1498,6 +1499,7 @@ tylerteter.
 uditjainstjis.
 ujjwalgupta2021.
 umd-dit-servicenow.
+usamamohammed.
 utk1725.
 v-agnihotri.
 Vaibhav91one.
