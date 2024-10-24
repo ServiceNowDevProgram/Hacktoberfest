@@ -247,6 +247,7 @@ mo-dahir.
 
 **Other contributors:**
 dcord1x.
+harditsingh88.
 Ramesh-hub007.
 SaiSankar1309.
 soham-shee.
@@ -271,7 +272,6 @@ Shreedevisnow.
 Beeram12.
 cschmidt82.
 csharpie.
-harditsingh88.
 hoederath.
 MGOPW.
 NowRishi.
@@ -719,6 +719,7 @@ akhoshnood.
 allam1234.
 Decoder-Paul.
 DhanushNehru.
+harditsingh88.
 jesalynrose.
 Ladirinia.
 miracc.
@@ -764,7 +765,6 @@ ashaw7697.
 Beeram12.
 crooks-s.
 cschmidt82.
-harditsingh88.
 Jaskaran-Techno.
 NowRishi.
 RagaChitraMankala.
