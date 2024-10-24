@@ -154,10 +154,10 @@ niamccash.
 chetnadev.
 Praiseto.
 Jaspalsinghchot.
-maheshkhatal27.
 ankitshu.
 koratalas.
 am-shakeel.
+maheshkhatal27.
 404paige.
 
 **Top 10% contributors:**
@@ -500,10 +500,10 @@ ashoo-jindal.
 sumanthdosapati.
 smartcarleen.
 urspvs.
-maheshkhatal27.
 ankitshu.
 koratalas.
 Radhe-Manasa.
+maheshkhatal27.
 404paige.
 Paulsylo25.
 stevezero.
