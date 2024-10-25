@@ -326,6 +326,7 @@ d7ianielsimonP.
 dvn-lazywinner.
 Gowthamsai29.
 GTKsnow.
+hacktoberfestservicenow.
 ishaanshoor.
 Itsreema.
 Jahnavi-Solanki.
@@ -381,7 +382,6 @@ girishnagaraj09.
 Git-Snow-dev.
 GittyHarsha.
 GP-UOB.
-hacktoberfestservicenow.
 Hamritha0506.
 herambchaudhari4121.
 Imsurajr.
@@ -931,6 +931,7 @@ GK884.
 gkiratkar1.
 Gowthamsai29.
 gurudev-7.
+hacktoberfestservicenow.
 HariniSnow.
 himanisinghal.
 ishanjain18.
@@ -1177,7 +1178,6 @@ greencarlos.
 guidugli.
 GuisseMaabo.
 HackoDev1530.
-hacktoberfestservicenow.
 Hamritha0506.
 han-le.
 Hanan-Ashraf.
