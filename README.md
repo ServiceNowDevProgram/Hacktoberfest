@@ -248,6 +248,7 @@ Pradeep567iaf.
 mo-dahir.
 
 **Other contributors:**
+TheShashank13.
 prynacshrma.
 chelming.
 dcord1x.
@@ -263,7 +264,6 @@ sheikhafsarzap.
 amigujarathi.
 MYaswanth28.
 pranavkhurana2011.
-TheShashank13.
 aftab-mirza.
 ashu759.
 bhavyajain511.
@@ -718,6 +718,7 @@ ttoter.
 AlphaEagle.
 JWITSM.
 mo-dahir.
+TheShashank13.
 dcord1x.
 djunaid.
 Haile-08.
@@ -756,7 +757,6 @@ MYaswanth28.
 ewatch.
 pranavkhurana2011.
 rohantjoshi.
-TheShashank13.
 1shabby.
 abhilash264.
 aftab-mirza.
