@@ -159,10 +159,10 @@ maheshkhatal27.
 ankitshu.
 koratalas.
 404paige.
-ynr-ram.
+wiz0floyd.
 
 **Top 10% contributors:**
-wiz0floyd.
+ynr-ram.
 YTejaswini18.
 ashoo-jindal.
 aswamy93.
@@ -234,7 +234,6 @@ at8807602.
 aykmrgit.
 dadhich-ashish.
 gowdah.
-TheShashank13.
 kmohit2809.
 stefanintech.
 vhudlikar.
@@ -246,6 +245,7 @@ Saileshlanka.
 sumanth1710.
 yuvraj1107thapa.
 Pradeep567iaf.
+TheShashank13.
 
 **Other contributors:**
 mo-dahir.
@@ -698,7 +698,6 @@ fn20200323.
 
 **Top 50% contributors:**
 pratyushasndev.
-TheShashank13.
 stefanintech.
 homealone07.
 Iamsant.
@@ -720,6 +719,7 @@ revantKulkarni.
 sumanth1710.
 trade12.
 Pradeep567iaf.
+TheShashank13.
 ttoter.
 AlphaEagle.
 JWITSM.
