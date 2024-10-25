@@ -211,9 +211,9 @@ katsiarynasoshyna.
 mandeepkaran.
 HarshLMP870.
 ivan-betev.
+nowitsvashu.
 
 **Top 50% contributors:**
-nowitsvashu.
 Dhruvyadav2000.
 isaac-vicentini.
 RahmanM.
@@ -246,9 +246,9 @@ naveenraw25.
 Saileshlanka.
 sumanth1710.
 yuvraj1107thapa.
+Pradeep567iaf.
 
 **Other contributors:**
-Pradeep567iaf.
 mo-dahir.
 prynacshrma.
 chelming.
@@ -391,6 +391,7 @@ john9006.
 JScoder4005.
 Karthi6559.
 Kawshal29.
+kaylin-lee.
 Khushi799.
 khushii-hub.
 KiwiPelago.
@@ -579,9 +580,9 @@ jonahpiascik.
 sndevs-slacker-issue-reporter[bot].
 soerenmaucher.
 avssrikanth.
+shraddhakadam301298.
 
 **Top 25% contributors:**
-shraddhakadam301298.
 shridk.
 Atul-LNG.
 sheikhafsarzap.
@@ -1245,6 +1246,7 @@ Karthick986.
 karthiga8881.
 Kawshal29.
 KayakDK.
+kaylin-lee.
 kdinesh26.
 Keagnn.
 kenish12.
