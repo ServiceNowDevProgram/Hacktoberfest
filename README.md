@@ -186,6 +186,7 @@ kylburns89.
 VaishnaviLathkar98.
 Mexiprince.
 ronaldkarim.
+bgrk005.
 sndevs-slacker-issue-reporter[bot].
 Adil404.
 ariyadmir.
@@ -193,7 +194,6 @@ DanielMadsenDK.
 thejasr110.
 priyasnexpert.
 templetontsai.
-bgrk005.
 Munnisona.
 pradeepthipani.
 animeshdasgit.
@@ -581,6 +581,7 @@ shridk.
 **Top 25% contributors:**
 Atul-LNG.
 sheikhafsarzap.
+bgrk005.
 davidkwhuang.
 kylburns89.
 Mexiprince.
@@ -603,7 +604,6 @@ gregorwmail.
 harishankert.
 mady22070.
 thejasr110.
-bgrk005.
 hoederath.
 mjonssonme.
 nthumma.
