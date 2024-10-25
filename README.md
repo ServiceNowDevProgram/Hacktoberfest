@@ -173,8 +173,8 @@ MartinStoyanoff.
 himanshu7895.
 bkb68.
 Paulsylo25.
-sravankadudhuri.
 sndevs-slacker-issue-reporter[bot].
+sravankadudhuri.
 spnegi.
 eriemer1.
 
@@ -567,6 +567,7 @@ debendu-das.
 VaishnaviLathkar98.
 hafsa-asif.
 ovarn.
+sndevs-slacker-issue-reporter[bot].
 devinvalencia.
 mskoddow.
 QI-XING.
@@ -574,7 +575,6 @@ sravankadudhuri.
 bgrk005.
 jiteshmalik.
 prashantmrshine.
-sndevs-slacker-issue-reporter[bot].
 spnegi.
 danr2c2.
 Litwilly.
