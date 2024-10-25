@@ -280,6 +280,7 @@ rohi-v.
 ShakthiSn.
 shreyawani98.
 tejasathalye.
+TheShashank13.
 umangkedia92.
 anurags10.
 ChndrshP.
@@ -344,7 +345,6 @@ sohailkhilji.
 SujathaSuj.
 TanushreeBorase.
 techLrd.
-TheShashank13.
 usamamohammed.
 vamsi0777.
 vpeinado.
@@ -780,6 +780,7 @@ shreyawani98.
 stwinkle.
 tejasathalye.
 thameemskings.
+TheShashank13.
 Thrizvi.
 umangkedia92.
 vk-cloud.
@@ -795,9 +796,9 @@ Avinash238.
 brichards99.
 ChndrshP.
 Chouffy.
-Coder0131.
 
 **Other contributors:**
+Coder0131.
 DaleD-SN.
 deathkraiser.
 demetris7.
@@ -974,7 +975,6 @@ swathinagamahanti.
 TanushreeBorase.
 techLrd.
 TheSethRose.
-TheShashank13.
 thoffman210.
 TonySerN.
 TracyCurry96.
