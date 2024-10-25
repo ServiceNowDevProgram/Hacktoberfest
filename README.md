@@ -218,6 +218,7 @@ Dhruvyadav2000.
 isaac-vicentini.
 RahmanM.
 SrijanPatwa.
+TheShashank13.
 vermaamit1664.
 watrick.
 abhrajyotikanrar.
@@ -234,7 +235,6 @@ at8807602.
 aykmrgit.
 dadhich-ashish.
 gowdah.
-TheShashank13.
 kmohit2809.
 stefanintech.
 vhudlikar.
@@ -658,6 +658,7 @@ aman2519.
 Dhruvyadav2000.
 isaac-vicentini.
 manrick.
+TheShashank13.
 vermaamit1664.
 watrick.
 almajam.
@@ -694,11 +695,10 @@ piyusalunke123.
 rene-el.
 rmedved84.
 src107.
-fn20200323.
 
 **Top 50% contributors:**
+fn20200323.
 pratyushasndev.
-TheShashank13.
 stefanintech.
 homealone07.
 Iamsant.
