@@ -247,9 +247,9 @@ yuvraj1107thapa.
 Pradeep567iaf.
 TheShashank13.
 mo-dahir.
+prynacshrma.
 
 **Other contributors:**
-prynacshrma.
 chelming.
 dcord1x.
 Ramesh-hub007.
@@ -381,6 +381,7 @@ girishnagaraj09.
 Git-Snow-dev.
 GittyHarsha.
 GP-UOB.
+hacktoberfestservicenow.
 Hamritha0506.
 herambchaudhari4121.
 Imsurajr.
@@ -691,9 +692,9 @@ piyusalunke123.
 rene-el.
 rmedved84.
 src107.
+fn20200323.
 
 **Top 50% contributors:**
-fn20200323.
 pratyushasndev.
 stefanintech.
 homealone07.
@@ -801,9 +802,9 @@ brichards99.
 ChndrshP.
 Chouffy.
 Coder0131.
+DaleD-SN.
 
 **Other contributors:**
-DaleD-SN.
 deathkraiser.
 demetris7.
 devalcodes.
@@ -1176,6 +1177,7 @@ greencarlos.
 guidugli.
 GuisseMaabo.
 HackoDev1530.
+hacktoberfestservicenow.
 Hamritha0506.
 han-le.
 Hanan-Ashraf.
