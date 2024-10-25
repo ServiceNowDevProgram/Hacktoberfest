@@ -196,7 +196,6 @@ thejasr110.
 mioyokohama.
 priyasnexpert.
 templetontsai.
-TRIGGEREDcoder.
 Munnisona.
 pradeepthipani.
 animeshdasgit.
@@ -211,9 +210,10 @@ katsiarynasoshyna.
 mandeepkaran.
 HarshLMP870.
 ivan-betev.
+nowitsvashu.
 
 **Top 50% contributors:**
-nowitsvashu.
+TRIGGEREDcoder.
 Dhruvyadav2000.
 isaac-vicentini.
 RahmanM.
@@ -504,12 +504,12 @@ aykmrgit.
 ashoo-jindal.
 sumanthdosapati.
 smartcarleen.
-TRIGGEREDcoder.
 urspvs.
 maheshkhatal27.
 ankitshu.
 koratalas.
 Radhe-Manasa.
+TRIGGEREDcoder.
 404paige.
 Paulsylo25.
 stevezero.
