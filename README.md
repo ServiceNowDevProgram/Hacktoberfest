@@ -213,6 +213,7 @@ ivan-betev.
 nowitsvashu.
 
 **Top 50% contributors:**
+TRIGGEREDcoder.
 Dhruvyadav2000.
 isaac-vicentini.
 RahmanM.
@@ -229,7 +230,6 @@ mohitchauhan-dev.
 99Saurabh19.
 AnithaA09.
 ravichandra1998g.
-TRIGGEREDcoder.
 at8807602.
 aykmrgit.
 dadhich-ashish.
@@ -507,13 +507,13 @@ maheshkhatal27.
 ankitshu.
 koratalas.
 Radhe-Manasa.
+TRIGGEREDcoder.
 404paige.
 Paulsylo25.
 stevezero.
 sychi77.
 ronaldkarim.
 azeezgaa.
-TRIGGEREDcoder.
 deepak-64742.
 rafzk.
 anillande90.
