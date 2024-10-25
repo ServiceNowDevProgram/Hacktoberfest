@@ -249,7 +249,6 @@ TheShashank13.
 mo-dahir.
 
 **Other contributors:**
-furquan5.
 prynacshrma.
 chelming.
 dcord1x.
@@ -268,6 +267,7 @@ pranavkhurana2011.
 aftab-mirza.
 ashu759.
 bhavyajain511.
+furquan5.
 harditsingh88.
 praisetoyt.
 Shreedevisnow.
@@ -722,7 +722,6 @@ JWITSM.
 mo-dahir.
 dcord1x.
 djunaid.
-furquan5.
 Haile-08.
 prynacshrma.
 sonamtiwari8.
@@ -764,6 +763,7 @@ abhilash264.
 aftab-mirza.
 Alprez.
 chris-canto-11.
+furquan5.
 harditsingh88.
 NayeemKaka.
 praisetoyt.
