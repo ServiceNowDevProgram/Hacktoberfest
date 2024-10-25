@@ -182,12 +182,12 @@ bgrk005.
 prashantmrshine.
 shraddhakadam301298.
 Atul-LNG.
+sndevs-slacker-issue-reporter[bot].
 bird-03.
 kylburns89.
 VaishnaviLathkar98.
 Mexiprince.
 ronaldkarim.
-sndevs-slacker-issue-reporter[bot].
 Vishnu-rvk.
 Adil404.
 ariyadmir.
@@ -584,6 +584,7 @@ shraddhakadam301298.
 shridk.
 Atul-LNG.
 sheikhafsarzap.
+sndevs-slacker-issue-reporter[bot].
 davidkwhuang.
 kylburns89.
 Mexiprince.
@@ -591,7 +592,6 @@ zahidask.
 DynamiteC.
 phr-nk.
 shakeel-sheikh.
-sndevs-slacker-issue-reporter[bot].
 vjtknn.
 Yokesh0811.
 MarcMouries.
