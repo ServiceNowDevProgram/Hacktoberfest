@@ -191,7 +191,6 @@ sndevs-slacker-issue-reporter[bot].
 Vishnu-rvk.
 Adil404.
 ariyadmir.
-Charanjet.
 DanielMadsenDK.
 thejasr110.
 priyasnexpert.
@@ -201,6 +200,7 @@ Munnisona.
 pradeepthipani.
 animeshdasgit.
 captainbraddles.
+Charanjet.
 mioyokohama.
 QI-XING.
 shridk.
@@ -600,7 +600,6 @@ techYESlogyXplorer.
 Vishnu-rvk.
 alyaanbasha.
 ariyadmir.
-Charanjet.
 DanielMadsenDK.
 gregorwmail.
 harishankert.
@@ -625,6 +624,7 @@ girishnagaraj09.
 Jayden-Chiu.
 OrgovanGeza.
 arhaan2019.
+Charanjet.
 designitsecure.
 llipovsky.
 mioyokohama.
