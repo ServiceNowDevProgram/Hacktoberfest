@@ -174,12 +174,12 @@ himanshu7895.
 bkb68.
 Paulsylo25.
 sravankadudhuri.
+sndevs-slacker-issue-reporter[bot].
 spnegi.
 eriemer1.
-bgrk005.
 
 **Top 25% contributors:**
-sndevs-slacker-issue-reporter[bot].
+bgrk005.
 prashantmrshine.
 shraddhakadam301298.
 Atul-LNG.
@@ -574,13 +574,13 @@ sravankadudhuri.
 bgrk005.
 jiteshmalik.
 prashantmrshine.
+sndevs-slacker-issue-reporter[bot].
 spnegi.
 danr2c2.
 Litwilly.
 MRSinghRajat.
 oasif.
 jonahpiascik.
-sndevs-slacker-issue-reporter[bot].
 soerenmaucher.
 avssrikanth.
 shraddhakadam301298.
