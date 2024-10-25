@@ -249,12 +249,12 @@ Pradeep567iaf.
 
 **Other contributors:**
 mo-dahir.
+chelming.
 dcord1x.
 Ramesh-hub007.
 SaiSankar1309.
 soham-shee.
 UTSAVS26.
-chelming.
 DChotaliya.
 lakshmikanthgupta.
 prithvibalakka.
@@ -496,8 +496,8 @@ kmxo.
 amigujarathi.
 Praiseto.
 RahmanM.
-R3J3NT.
 chelming.
+R3J3NT.
 ajcooper72.
 hrobarikt.
 aykmrgit.
