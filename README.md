@@ -159,9 +159,9 @@ maheshkhatal27.
 ankitshu.
 koratalas.
 404paige.
+ynr-ram.
 
 **Top 10% contributors:**
-ynr-ram.
 wiz0floyd.
 YTejaswini18.
 ashoo-jindal.
@@ -177,9 +177,9 @@ sndevs-slacker-issue-reporter[bot].
 sravankadudhuri.
 spnegi.
 eriemer1.
+bgrk005.
 
 **Top 25% contributors:**
-bgrk005.
 prashantmrshine.
 shraddhakadam301298.
 Atul-LNG.
@@ -246,10 +246,10 @@ Saileshlanka.
 sumanth1710.
 yuvraj1107thapa.
 Pradeep567iaf.
-mo-dahir.
-prynacshrma.
 
 **Other contributors:**
+mo-dahir.
+prynacshrma.
 chelming.
 dcord1x.
 Ramesh-hub007.
@@ -457,6 +457,7 @@ sumedhx.
 swaroop-surampalli.
 syprien.
 TechnoDeba.
+TechnologistTim.
 TracyCurry96.
 Tsegagedefaw.
 TummalaDivyaReddy.
@@ -804,9 +805,9 @@ ChndrshP.
 Chouffy.
 Coder0131.
 DaleD-SN.
+deathkraiser.
 
 **Other contributors:**
-deathkraiser.
 demetris7.
 devalcodes.
 dhruvii-powershell.
@@ -1501,6 +1502,7 @@ syprien.
 TamByrd.
 tapishsh.
 TechnoDeba.
+TechnologistTim.
 techspark77.
 tedante.
 telbir.
