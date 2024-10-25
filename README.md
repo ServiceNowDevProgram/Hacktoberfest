@@ -234,7 +234,6 @@ at8807602.
 aykmrgit.
 dadhich-ashish.
 gowdah.
-TheShashank13.
 kmohit2809.
 stefanintech.
 furquan5.
@@ -247,6 +246,7 @@ Saileshlanka.
 sumanth1710.
 yuvraj1107thapa.
 Pradeep567iaf.
+TheShashank13.
 
 **Other contributors:**
 mo-dahir.
@@ -694,7 +694,6 @@ src107.
 **Top 50% contributors:**
 fn20200323.
 pratyushasndev.
-TheShashank13.
 stefanintech.
 furquan5.
 homealone07.
@@ -717,6 +716,7 @@ revantKulkarni.
 sumanth1710.
 trade12.
 Pradeep567iaf.
+TheShashank13.
 ttoter.
 AlphaEagle.
 JWITSM.
