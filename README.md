@@ -467,6 +467,7 @@ TechnologistTim.
 TracyCurry96.
 Tsegagedefaw.
 TummalaDivyaReddy.
+Tushnik-cyber.
 uditjainstjis.
 ujjwalgupta2021.
 valaparlasalmonraj.
@@ -535,9 +536,9 @@ gowdah.
 Abhishekchowdarapu.
 alikuttyka.
 YTejaswini18.
+aswamy93.
 
 **Top 10% contributors:**
-aswamy93.
 BadalHub.
 MrChrisE.
 vandna07.
@@ -591,9 +592,9 @@ oasif.
 jonahpiascik.
 manrick.
 soerenmaucher.
+avssrikanth.
 
 **Top 25% contributors:**
-avssrikanth.
 shraddhakadam301298.
 shridk.
 Atul-LNG.
@@ -812,10 +813,10 @@ ChndrshP.
 Chouffy.
 Coder0131.
 DaleD-SN.
-deathkraiser.
-demetris7.
 
 **Other contributors:**
+deathkraiser.
+demetris7.
 devalcodes.
 dhruvii-powershell.
 dorsy99.
@@ -1531,6 +1532,7 @@ Tsegagedefaw.
 tsicot.
 TummalaDivyaReddy.
 Turbo-Javax.
+Tushnik-cyber.
 tylerteter.
 uditjainstjis.
 ujjwalgupta2021.
