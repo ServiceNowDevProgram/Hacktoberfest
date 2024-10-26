@@ -271,6 +271,7 @@ pranavkhurana2011.
 aftab-mirza.
 ashu759.
 bhavyajain511.
+dvn-lazywinner.
 furquan5.
 harditsingh88.
 praisetoyt.
@@ -311,7 +312,6 @@ Ratheshan03.
 abhishekchavan-git.
 cmanik.
 DennisRutherford.
-dvn-lazywinner.
 Dwarkilal-Monetapp.
 ersureshbe.
 mmaraj1.
@@ -778,6 +778,7 @@ abhilash264.
 aftab-mirza.
 Alprez.
 chris-canto-11.
+dvn-lazywinner.
 furquan5.
 harditsingh88.
 NayeemKaka.
@@ -813,9 +814,9 @@ brichards99.
 ChndrshP.
 Chouffy.
 Coder0131.
-DaleD-SN.
 
 **Other contributors:**
+DaleD-SN.
 deathkraiser.
 demetris7.
 devalcodes.
@@ -893,7 +894,6 @@ cmanik.
 CreatorWorkflowsNow.
 DennisRutherford.
 djharshit.
-dvn-lazywinner.
 Dwarkilal-Monetapp.
 ersureshbe.
 GTKsnow.
