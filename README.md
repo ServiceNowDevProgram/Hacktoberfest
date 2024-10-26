@@ -278,6 +278,7 @@ Beeram12.
 cschmidt82.
 csharpie.
 hoederath.
+manrick.
 MGOPW.
 NowRishi.
 rohi-v.
@@ -335,7 +336,6 @@ Jahnavi-Solanki.
 jefflintel.
 jiteshmalik.
 Koustav-coder.
-manrick.
 marcos-michalski.
 MillerYadira.
 monica9703.
@@ -631,6 +631,7 @@ sdgrube2.
 AdilBasha1SAP.
 bradtiltonnow.
 isaac-vicentini.
+manrick.
 pradeepthipani.
 Vish-X07.
 animeshdasgit.
@@ -664,7 +665,6 @@ mmaraj1.
 nowitsvashu.
 sanjivmeher.
 aman2519.
-manrick.
 vermaamit1664.
 watrick.
 almajam.
