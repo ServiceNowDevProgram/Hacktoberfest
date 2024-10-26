@@ -245,13 +245,14 @@ shreyawani98.
 SNProductOwner.
 debendu-das.
 naveenraw25.
+prithvibalakka.
 Saileshlanka.
 sumanth1710.
 yuvraj1107thapa.
 mo-dahir.
-Soumyadeep10.
 
 **Other contributors:**
+Soumyadeep10.
 chelming.
 dcord1x.
 Ramesh-hub007.
@@ -260,7 +261,6 @@ soham-shee.
 UTSAVS26.
 DChotaliya.
 lakshmikanthgupta.
-prithvibalakka.
 riya-misra-1.
 sheikhafsarzap.
 amigujarathi.
@@ -726,6 +726,7 @@ Badal2k23.
 bhavyajain511.
 naveenraw25.
 NBaker137.
+prithvibalakka.
 revantKulkarni.
 sumanth1710.
 trade12.
@@ -760,7 +761,6 @@ Mahesh-Krishnan1.
 maialithar.
 MihirRathod.
 preshitd.
-prithvibalakka.
 Ratheshan03.
 tanu-profile.
 TheTreyKyle.
