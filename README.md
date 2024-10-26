@@ -177,11 +177,11 @@ prashantmrshine.
 sndevs-slacker-issue-reporter[bot].
 sravankadudhuri.
 spnegi.
-eriemer1.
+Dhruvyadav2000.
 
 **Top 25% contributors:**
+eriemer1.
 bgrk005.
-Dhruvyadav2000.
 shraddhakadam301298.
 Atul-LNG.
 bird-03.
@@ -584,10 +584,10 @@ bgrk005.
 jiteshmalik.
 spnegi.
 danr2c2.
+Dhruvyadav2000.
 Litwilly.
 MRSinghRajat.
 oasif.
-Dhruvyadav2000.
 jonahpiascik.
 soerenmaucher.
 avssrikanth.
