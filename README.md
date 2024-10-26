@@ -251,6 +251,7 @@ TheShashank13.
 mo-dahir.
 
 **Other contributors:**
+Soumyadeep10.
 chelming.
 dcord1x.
 Ramesh-hub007.
@@ -273,7 +274,6 @@ furquan5.
 harditsingh88.
 praisetoyt.
 Shreedevisnow.
-Soumyadeep10.
 Beeram12.
 cschmidt82.
 csharpie.
@@ -736,6 +736,7 @@ dcord1x.
 djunaid.
 Haile-08.
 sonamtiwari8.
+Soumyadeep10.
 Adiana3308.
 akhoshnood.
 allam1234.
@@ -783,7 +784,6 @@ puneet94.
 rohi-v.
 Shreedevisnow.
 sisco0.
-Soumyadeep10.
 ashaw7697.
 Beeram12.
 crooks-s.
