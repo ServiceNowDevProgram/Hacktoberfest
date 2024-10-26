@@ -311,6 +311,7 @@ Ratheshan03.
 abhishekchavan-git.
 cmanik.
 DennisRutherford.
+dvn-lazywinner.
 Dwarkilal-Monetapp.
 ersureshbe.
 mmaraj1.
@@ -326,7 +327,6 @@ ANISHAGHOSHAL.
 ChandBasha-code.
 Code-mantle.
 d7ianielsimonP.
-dvn-lazywinner.
 Gowthamsai29.
 GTKsnow.
 hacktoberfestservicenow.
@@ -893,6 +893,7 @@ cmanik.
 CreatorWorkflowsNow.
 DennisRutherford.
 djharshit.
+dvn-lazywinner.
 Dwarkilal-Monetapp.
 ersureshbe.
 GTKsnow.
@@ -937,7 +938,6 @@ d7ianielsimonP.
 DaiTranIT.
 dh3bp.
 drk1rd.
-dvn-lazywinner.
 garyditsch.
 GK884.
 gkiratkar1.
