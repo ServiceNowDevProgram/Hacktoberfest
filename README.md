@@ -223,7 +223,6 @@ watrick.
 abhrajyotikanrar.
 Harshuu870.
 jahnaviT2003.
-Soumyadeep10.
 Srikanth1306.
 techTrekwithAJ.
 KedarisettiSreeVamsi.
@@ -239,6 +238,7 @@ gowdah.
 kmohit2809.
 stefanintech.
 prynacshrma.
+Soumyadeep10.
 vhudlikar.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
@@ -493,8 +493,8 @@ kmohit2809.
 johndahl-now.
 MartinStoyanoff.
 chetnadev.
-paigesndev.
 am-shakeel.
+paigesndev.
 sandeepd26.
 eriemer1.
 ynr-ram.
@@ -679,7 +679,6 @@ hrichiksite.
 Iuliak.
 jahnaviT2003.
 RaunakScarlet.
-Soumyadeep10.
 Srikanth1306.
 techTrekwithAJ.
 TVani5.
@@ -702,9 +701,9 @@ piyusalunke123.
 rene-el.
 rmedved84.
 src107.
+fn20200323.
 
 **Top 50% contributors:**
-fn20200323.
 pratyushasndev.
 stefanintech.
 homealone07.
@@ -712,6 +711,7 @@ Iamsant.
 jeremyrubio27.
 prynacshrma.
 Sagar-agarwal.
+Soumyadeep10.
 vhudlikar.
 wiresgit.
 yourepicservices.
