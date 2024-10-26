@@ -213,9 +213,9 @@ anveshmupparaju.
 katsiarynasoshyna.
 mandeepkaran.
 mebeingmustaq.
+HarshLMP870.
 
 **Top 50% contributors:**
-HarshLMP870.
 ivan-betev.
 nowitsvashu.
 RahmanM.
@@ -249,9 +249,9 @@ Saileshlanka.
 sumanth1710.
 yuvraj1107thapa.
 mo-dahir.
+Soumyadeep10.
 
 **Other contributors:**
-Soumyadeep10.
 chelming.
 dcord1x.
 Ramesh-hub007.
@@ -465,6 +465,7 @@ swaroop-surampalli.
 syprien.
 TechnoDeba.
 TechnologistTim.
+tewariap.
 TracyCurry96.
 Tsegagedefaw.
 TummalaDivyaReddy.
@@ -1519,6 +1520,7 @@ TechnologistTim.
 techspark77.
 tedante.
 telbir.
+tewariap.
 TheoCantor.
 theotherdebs.
 thesnowguy.
