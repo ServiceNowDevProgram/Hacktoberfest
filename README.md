@@ -237,7 +237,6 @@ dadhich-ashish.
 gowdah.
 kmohit2809.
 stefanintech.
-prynacshrma.
 vhudlikar.
 S-w-a-p-n-i-l-22.
 shreyawani98.
@@ -249,9 +248,10 @@ sumanth1710.
 yuvraj1107thapa.
 Pradeep567iaf.
 TheShashank13.
+mo-dahir.
 
 **Other contributors:**
-mo-dahir.
+prynacshrma.
 Soumyadeep10.
 chelming.
 dcord1x.
@@ -709,7 +709,6 @@ stefanintech.
 homealone07.
 Iamsant.
 jeremyrubio27.
-prynacshrma.
 Sagar-agarwal.
 vhudlikar.
 wiresgit.
@@ -736,6 +735,7 @@ mo-dahir.
 dcord1x.
 djunaid.
 Haile-08.
+prynacshrma.
 sonamtiwari8.
 Soumyadeep10.
 Adiana3308.
