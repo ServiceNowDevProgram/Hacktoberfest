@@ -281,6 +281,7 @@ NowRishi.
 rohi-v.
 ShakthiSn.
 shreyawani98.
+Soumyadeep10.
 tejasathalye.
 umangkedia92.
 anurags10.
@@ -297,7 +298,6 @@ prash5595.
 sachinggsingh.
 Saiprethaa.
 saitarun2499.
-Soumyadeep10.
 Sravanik12.
 stwinkle.
 TheRashRash.
@@ -788,6 +788,7 @@ osc99.
 RagaChitraMankala.
 ShakthiSn.
 shreyawani98.
+Soumyadeep10.
 tejasathalye.
 thameemskings.
 Thrizvi.
@@ -808,9 +809,9 @@ Chouffy.
 Coder0131.
 DaleD-SN.
 deathkraiser.
-demetris7.
 
 **Other contributors:**
+demetris7.
 devalcodes.
 dhruvii-powershell.
 dorsy99.
@@ -854,7 +855,6 @@ samwinchet.
 sanchit-varshney.
 sanju009.
 Shambu-K.
-Soumyadeep10.
 speedy18.
 Sravanik12.
 Subhraneel77.
