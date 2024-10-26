@@ -197,6 +197,7 @@ mioyokohama.
 priyasnexpert.
 templetontsai.
 TRIGGEREDcoder.
+Dhruvyadav2000.
 isaac-vicentini.
 Munnisona.
 pradeepthipani.
@@ -211,11 +212,10 @@ anveshmupparaju.
 katsiarynasoshyna.
 mandeepkaran.
 HarshLMP870.
-ivan-betev.
 
 **Top 50% contributors:**
+ivan-betev.
 nowitsvashu.
-Dhruvyadav2000.
 RahmanM.
 SrijanPatwa.
 vermaamit1664.
@@ -625,6 +625,7 @@ namrataghorpade.
 sdgrube2.
 AdilBasha1SAP.
 bradtiltonnow.
+Dhruvyadav2000.
 isaac-vicentini.
 pradeepthipani.
 Vish-X07.
@@ -658,7 +659,6 @@ mmaraj1.
 nowitsvashu.
 sanjivmeher.
 aman2519.
-Dhruvyadav2000.
 manrick.
 vermaamit1664.
 watrick.
