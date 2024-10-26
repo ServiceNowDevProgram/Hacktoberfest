@@ -246,12 +246,11 @@ naveenraw25.
 Saileshlanka.
 sumanth1710.
 yuvraj1107thapa.
-Pradeep567iaf.
 TheShashank13.
 mo-dahir.
+prynacshrma.
 
 **Other contributors:**
-prynacshrma.
 Soumyadeep10.
 chelming.
 dcord1x.
@@ -266,6 +265,7 @@ riya-misra-1.
 sheikhafsarzap.
 amigujarathi.
 MYaswanth28.
+Pradeep567iaf.
 pranavkhurana2011.
 aftab-mirza.
 ashu759.
@@ -726,7 +726,6 @@ NBaker137.
 revantKulkarni.
 sumanth1710.
 trade12.
-Pradeep567iaf.
 TheShashank13.
 ttoter.
 AlphaEagle.
@@ -768,6 +767,7 @@ thisnameissoclever.
 ujjwalprem.
 mockspeed.
 MYaswanth28.
+Pradeep567iaf.
 ewatch.
 pranavkhurana2011.
 rohantjoshi.
