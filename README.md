@@ -173,14 +173,14 @@ MartinStoyanoff.
 himanshu7895.
 bkb68.
 Paulsylo25.
+prashantmrshine.
 sndevs-slacker-issue-reporter[bot].
 sravankadudhuri.
 spnegi.
 eriemer1.
-bgrk005.
 
 **Top 25% contributors:**
-prashantmrshine.
+bgrk005.
 shraddhakadam301298.
 Atul-LNG.
 bird-03.
@@ -566,6 +566,7 @@ ravichandra1998g.
 himanshu7895.
 ivan-betev.
 bkb68.
+prashantmrshine.
 SrijanPatwa.
 debendu-das.
 VaishnaviLathkar98.
@@ -578,7 +579,6 @@ QI-XING.
 sravankadudhuri.
 bgrk005.
 jiteshmalik.
-prashantmrshine.
 spnegi.
 danr2c2.
 Litwilly.
