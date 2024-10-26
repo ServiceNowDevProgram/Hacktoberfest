@@ -248,9 +248,9 @@ Saileshlanka.
 sumanth1710.
 yuvraj1107thapa.
 Pradeep567iaf.
+TheShashank13.
 
 **Other contributors:**
-TheShashank13.
 mo-dahir.
 chelming.
 dcord1x.
@@ -305,6 +305,7 @@ ultralegendary.
 YadlaMani.
 Danmax.
 kalyan120694.
+nvprav.
 Ratheshan03.
 abhishekchavan-git.
 cmanik.
@@ -840,6 +841,7 @@ moshjahan.
 msdfib.
 mwchiao.
 NilotpalMaitra.
+nvprav.
 pavankumar-4.
 physi.
 prash5595.
@@ -1367,7 +1369,6 @@ NowZilla.
 noyzmaker.
 ns-servicenow.
 nuwan94.
-nvprav.
 ocl-gustavo.
 Ogre86.
 Olaxtian.
