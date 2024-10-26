@@ -204,6 +204,7 @@ pradeepthipani.
 animeshdasgit.
 captainbraddles.
 Charanjet.
+prynacshrma.
 QI-XING.
 shridk.
 unbirthdays.
@@ -212,9 +213,9 @@ anveshmupparaju.
 katsiarynasoshyna.
 mandeepkaran.
 mebeingmustaq.
-HarshLMP870.
 
 **Top 50% contributors:**
+HarshLMP870.
 ivan-betev.
 nowitsvashu.
 RahmanM.
@@ -224,7 +225,6 @@ watrick.
 abhrajyotikanrar.
 Harshuu870.
 jahnaviT2003.
-prynacshrma.
 Srikanth1306.
 techTrekwithAJ.
 KedarisettiSreeVamsi.
@@ -644,6 +644,7 @@ arhaan2019.
 Charanjet.
 designitsecure.
 llipovsky.
+prynacshrma.
 seviceN.
 tejudhoran95.
 unbirthdays.
@@ -679,7 +680,6 @@ Harshuu870.
 hrichiksite.
 Iuliak.
 jahnaviT2003.
-prynacshrma.
 RaunakScarlet.
 Srikanth1306.
 techTrekwithAJ.
