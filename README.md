@@ -158,8 +158,8 @@ Jaspalsinghchot.
 maheshkhatal27.
 ankitshu.
 koratalas.
-404paige.
 wiz0floyd.
+404paige.
 
 **Top 10% contributors:**
 ynr-ram.
@@ -246,12 +246,11 @@ naveenraw25.
 Saileshlanka.
 sumanth1710.
 yuvraj1107thapa.
-TheShashank13.
 mo-dahir.
 prynacshrma.
+Soumyadeep10.
 
 **Other contributors:**
-Soumyadeep10.
 chelming.
 dcord1x.
 manrick.
@@ -267,6 +266,7 @@ sheikhafsarzap.
 amigujarathi.
 MYaswanth28.
 Pradeep567iaf.
+TheShashank13.
 pranavkhurana2011.
 aftab-mirza.
 ashu759.
@@ -726,7 +726,6 @@ NBaker137.
 revantKulkarni.
 sumanth1710.
 trade12.
-TheShashank13.
 ttoter.
 AlphaEagle.
 JWITSM.
@@ -768,6 +767,7 @@ ujjwalprem.
 mockspeed.
 MYaswanth28.
 Pradeep567iaf.
+TheShashank13.
 ewatch.
 pranavkhurana2011.
 rohantjoshi.
