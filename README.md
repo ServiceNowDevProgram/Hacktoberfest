@@ -238,7 +238,6 @@ gowdah.
 kmohit2809.
 stefanintech.
 prynacshrma.
-Soumyadeep10.
 vhudlikar.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
@@ -249,9 +248,10 @@ sumanth1710.
 yuvraj1107thapa.
 Pradeep567iaf.
 TheShashank13.
+mo-dahir.
 
 **Other contributors:**
-mo-dahir.
+Soumyadeep10.
 chelming.
 dcord1x.
 Ramesh-hub007.
@@ -711,7 +711,6 @@ Iamsant.
 jeremyrubio27.
 prynacshrma.
 Sagar-agarwal.
-Soumyadeep10.
 vhudlikar.
 wiresgit.
 yourepicservices.
@@ -737,6 +736,7 @@ dcord1x.
 djunaid.
 Haile-08.
 sonamtiwari8.
+Soumyadeep10.
 Adiana3308.
 akhoshnood.
 allam1234.
