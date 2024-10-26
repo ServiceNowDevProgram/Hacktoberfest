@@ -212,9 +212,9 @@ anveshmupparaju.
 katsiarynasoshyna.
 mandeepkaran.
 HarshLMP870.
+ivan-betev.
 
 **Top 50% contributors:**
-ivan-betev.
 nowitsvashu.
 RahmanM.
 SrijanPatwa.
@@ -247,9 +247,9 @@ yuvraj1107thapa.
 Pradeep567iaf.
 TheShashank13.
 mo-dahir.
+prynacshrma.
 
 **Other contributors:**
-prynacshrma.
 chelming.
 dcord1x.
 mebeingmustaq.
@@ -372,6 +372,7 @@ BH0LL.
 BhageshChavan.
 BhavishyaA516.
 blindaks.
+chaitaliKundu.
 ChilloutSenthil.
 danieltayal07.
 daviddw2022.
@@ -810,9 +811,9 @@ Chouffy.
 Coder0131.
 DaleD-SN.
 deathkraiser.
+demetris7.
 
 **Other contributors:**
-demetris7.
 devalcodes.
 dhruvii-powershell.
 dorsy99.
@@ -1086,6 +1087,7 @@ Bsprogrammer28.
 but69.
 callmeishmael-sn.
 celsiogil.
+chaitaliKundu.
 chaitanyagummadavelly.
 ChaitanyaKiran14.
 chalamalamahesh.
