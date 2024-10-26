@@ -270,7 +270,6 @@ bhavyajain511.
 furquan5.
 harditsingh88.
 praisetoyt.
-salma-93.
 Shreedevisnow.
 Beeram12.
 cschmidt82.
@@ -315,6 +314,7 @@ mmaraj1.
 mvkassak.
 Piyushsahu99.
 saketh-22.
+salma-93.
 abiramiyohesh.
 AdibaNaushad.
 ADITYATIWARI342005.
@@ -773,7 +773,6 @@ NayeemKaka.
 praisetoyt.
 puneet94.
 rohi-v.
-salma-93.
 Shreedevisnow.
 sisco0.
 ashaw7697.
@@ -806,9 +805,9 @@ ChndrshP.
 Chouffy.
 Coder0131.
 DaleD-SN.
+deathkraiser.
 
 **Other contributors:**
-deathkraiser.
 demetris7.
 devalcodes.
 dhruvii-powershell.
@@ -899,6 +898,7 @@ outlivo.
 Piyushsahu99.
 sagarbhadke08.
 saketh-22.
+salma-93.
 sohailkhilji.
 SweetPoodle.
 varunharih.
