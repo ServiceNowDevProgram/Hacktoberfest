@@ -268,6 +268,7 @@ prithvibalakka.
 riya-misra-1.
 sheikhafsarzap.
 stwinkle.
+Thanai14.
 amigujarathi.
 MYaswanth28.
 Pradeep567iaf.
@@ -307,7 +308,6 @@ sachinggsingh.
 Saiprethaa.
 saitarun2499.
 Sravanik12.
-Thanai14.
 TheRashRash.
 ultralegendary.
 YadlaMani.
@@ -773,6 +773,7 @@ preshitd.
 prithvibalakka.
 Ratheshan03.
 tanu-profile.
+Thanai14.
 TheTreyKyle.
 thisnameissoclever.
 ujjwalprem.
@@ -822,9 +823,9 @@ AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
 brichards99.
-ChndrshP.
 
 **Other contributors:**
+ChndrshP.
 Chouffy.
 Coder0131.
 DaleD-SN.
@@ -877,7 +878,6 @@ Shambu-K.
 speedy18.
 Sravanik12.
 Subhraneel77.
-Thanai14.
 TheRashRash.
 thomasvogh.
 tomlozano.
