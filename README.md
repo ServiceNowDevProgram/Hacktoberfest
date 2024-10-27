@@ -250,9 +250,10 @@ Saileshlanka.
 sumanth1710.
 yuvraj1107thapa.
 mo-dahir.
-salma-93.
+Suri123789.
 
 **Other contributors:**
+salma-93.
 Soumyadeep10.
 chelming.
 dcord1x.
@@ -270,7 +271,6 @@ MYaswanth28.
 Pradeep567iaf.
 TheShashank13.
 pranavkhurana2011.
-Suri123789.
 aftab-mirza.
 ashu759.
 bhavyajain511.
@@ -737,6 +737,7 @@ ttoter.
 AlphaEagle.
 JWITSM.
 mo-dahir.
+Suri123789.
 dcord1x.
 djunaid.
 Haile-08.
@@ -779,7 +780,6 @@ TheShashank13.
 ewatch.
 pranavkhurana2011.
 rohantjoshi.
-Suri123789.
 1shabby.
 abhilash264.
 aftab-mirza.
