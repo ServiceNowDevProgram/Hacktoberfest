@@ -292,6 +292,7 @@ umangkedia92.
 Abbas-57.
 anurags10.
 ChndrshP.
+Chraiseto.
 devalcodes.
 DhanushNehru.
 ezratkim.
@@ -378,7 +379,6 @@ BhavishyaA516.
 blindaks.
 chaitaliKundu.
 ChilloutSenthil.
-Chraiseto.
 CReddySurendra.
 danieltayal07.
 daviddw2022.
@@ -825,6 +825,7 @@ ChndrshP.
 Chouffy.
 
 **Other contributors:**
+Chraiseto.
 Coder0131.
 DaleD-SN.
 deathkraiser.
@@ -1110,7 +1111,6 @@ CharanjeetSi.
 Charlesemesobum.
 cheshtapathak.
 ChocolateTilt.
-Chraiseto.
 ChristineMayfield.
 ChrRepou.
 Cioraz.
