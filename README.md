@@ -178,9 +178,9 @@ sndevs-slacker-issue-reporter[bot].
 sravankadudhuri.
 spnegi.
 Dhruvyadav2000.
+eriemer1.
 
 **Top 25% contributors:**
-eriemer1.
 bgrk005.
 shraddhakadam301298.
 Atul-LNG.
@@ -462,6 +462,7 @@ steveuncg.
 Suman-Kumar-Mogilicherla.
 sumanth-sndev.
 sumedhx.
+Suri123789.
 swaroop-surampalli.
 syprien.
 TechnoDeba.
@@ -1509,6 +1510,7 @@ sumanth-sndev.
 sumedhx.
 sumitkandpal3.
 sunnyt107.
+Suri123789.
 suryakantdubalgunde.
 suryakantshoor.
 sushil-now.
