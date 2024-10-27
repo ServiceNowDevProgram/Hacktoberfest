@@ -214,9 +214,9 @@ mandeepkaran.
 mebeingmustaq.
 HarshLMP870.
 ivan-betev.
+nowitsvashu.
 
 **Top 50% contributors:**
-nowitsvashu.
 Munnisona.
 RahmanM.
 SrijanPatwa.
@@ -250,9 +250,9 @@ Saileshlanka.
 sumanth1710.
 yuvraj1107thapa.
 mo-dahir.
+salma-93.
 
 **Other contributors:**
-salma-93.
 Soumyadeep10.
 chelming.
 dcord1x.
@@ -378,6 +378,7 @@ BhavishyaA516.
 blindaks.
 chaitaliKundu.
 ChilloutSenthil.
+CReddySurendra.
 danieltayal07.
 daviddw2022.
 davidehira.
@@ -1120,6 +1121,7 @@ Collosus1.
 Coolaxx.
 Crankzaton.
 CreatorWorkflowSC.
+CReddySurendra.
 cwhits.
 cyberpanda18.
 Daksh-Goel12.
