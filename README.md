@@ -438,6 +438,7 @@ Olaxtian.
 omkar2508.
 OsvaldoCabral.
 pandeysameer.
+patan116.
 paulbaranouski.
 pranjalisr.
 PraveenM1132.
@@ -602,9 +603,9 @@ MRSinghRajat.
 oasif.
 jonahpiascik.
 soerenmaucher.
+avssrikanth.
 
 **Top 25% contributors:**
-avssrikanth.
 shraddhakadam301298.
 shridk.
 Atul-LNG.
@@ -1400,6 +1401,7 @@ pabloferr92.
 pandeysameer.
 parag477.
 parthpanchal123.
+patan116.
 PatriciaMaPe.
 paulbaranouski.
 peteosaz.
