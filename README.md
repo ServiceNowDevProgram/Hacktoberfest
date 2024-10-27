@@ -269,6 +269,7 @@ UTSAVS26.
 akipatil16.
 DChotaliya.
 lakshmikanthgupta.
+patan116.
 prithvibalakka.
 riya-misra-1.
 sheikhafsarzap.
@@ -304,7 +305,6 @@ msdfib.
 namrataghorpade.
 NilotpalMaitra.
 osc99.
-patan116.
 phr-nk.
 prash5595.
 sachinggsingh.
@@ -777,6 +777,7 @@ LucasRocha2308.
 Mahesh-Krishnan1.
 maialithar.
 MihirRathod.
+patan116.
 preshitd.
 prithvibalakka.
 Ratheshan03.
@@ -826,9 +827,9 @@ anurags10.
 Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
-Avinash238.
 
 **Other contributors:**
+Avinash238.
 brichards99.
 ChndrshP.
 Chouffy.
@@ -862,7 +863,6 @@ msdfib.
 mwchiao.
 NilotpalMaitra.
 nvprav.
-patan116.
 pavankumar-4.
 physi.
 prash5595.
