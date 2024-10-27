@@ -175,16 +175,16 @@ bkb68.
 Paulsylo25.
 prashantmrshine.
 sndevs-slacker-issue-reporter[bot].
+Chraiseto.
 sravankadudhuri.
 spnegi.
 Dhruvyadav2000.
-eriemer1.
 
 **Top 25% contributors:**
+eriemer1.
 bgrk005.
 shraddhakadam301298.
 Atul-LNG.
-Chraiseto.
 bird-03.
 kylburns89.
 VaishnaviLathkar98.
@@ -584,6 +584,7 @@ VaishnaviLathkar98.
 hafsa-asif.
 ovarn.
 sndevs-slacker-issue-reporter[bot].
+Chraiseto.
 devinvalencia.
 mskoddow.
 QI-XING.
@@ -599,13 +600,12 @@ MRSinghRajat.
 oasif.
 jonahpiascik.
 soerenmaucher.
-avssrikanth.
 
 **Top 25% contributors:**
+avssrikanth.
 shraddhakadam301298.
 shridk.
 Atul-LNG.
-Chraiseto.
 sheikhafsarzap.
 davidkwhuang.
 kylburns89.
