@@ -253,9 +253,9 @@ debendu-das.
 naveenraw25.
 patan116.
 Saileshlanka.
+sumanth1710.
 
 **Other contributors:**
-sumanth1710.
 yuvraj1107thapa.
 mo-dahir.
 Soumyadeep10.
@@ -406,6 +406,7 @@ jaz1gdev.
 jekinz-tagline.
 jgr1ffin.
 john9006.
+JonSandoval.
 JScoder4005.
 Karthi6559.
 Kawshal29.
@@ -682,13 +683,13 @@ mmaraj1.
 nowitsvashu.
 sanjivmeher.
 aman2519.
+JonSandoval.
 vermaamit1664.
 watrick.
 almajam.
 brenduh.
 dalestubblefield.
 danielliaus.
-JonSandoval.
 sauravsumankumar.
 yuvraj1107thapa.
 ashuprince121.
