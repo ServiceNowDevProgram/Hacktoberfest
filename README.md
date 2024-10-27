@@ -264,6 +264,7 @@ soham-shee.
 Tushnik-cyber.
 UTSAVS26.
 DChotaliya.
+Khasim-63993.
 lakshmikanthgupta.
 prithvibalakka.
 riya-misra-1.
@@ -299,7 +300,6 @@ ChndrshP.
 devalcodes.
 DhanushNehru.
 ezratkim.
-Khasim-63993.
 msdfib.
 namrataghorpade.
 NilotpalMaitra.
@@ -768,6 +768,7 @@ soham-shee.
 Tushnik-cyber.
 UTSAVS26.
 DChotaliya.
+Khasim-63993.
 LucasRocha2308.
 Mahesh-Krishnan1.
 maialithar.
@@ -825,9 +826,9 @@ Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
-brichards99.
 
 **Other contributors:**
+brichards99.
 ChndrshP.
 Chouffy.
 Coder0131.
@@ -850,7 +851,6 @@ jordanrogus.
 Juusoee.
 KartikeSingh.
 kaushalbharade.
-Khasim-63993.
 lakshyatyagi24.
 loudigi.
 ManobhavSachan.
