@@ -468,6 +468,7 @@ syprien.
 TechnoDeba.
 TechnologistTim.
 tewariap.
+Thanai14.
 TracyCurry96.
 Tsegagedefaw.
 TummalaDivyaReddy.
@@ -706,9 +707,9 @@ piyusalunke123.
 rene-el.
 rmedved84.
 src107.
+fn20200323.
 
 **Top 50% contributors:**
-fn20200323.
 pratyushasndev.
 stefanintech.
 homealone07.
@@ -817,9 +818,9 @@ ashleysnyder.
 Avinash238.
 brichards99.
 ChndrshP.
+Chouffy.
 
 **Other contributors:**
-Chouffy.
 Coder0131.
 DaleD-SN.
 deathkraiser.
@@ -1525,6 +1526,7 @@ techspark77.
 tedante.
 telbir.
 tewariap.
+Thanai14.
 TheoCantor.
 theotherdebs.
 thesnowguy.
