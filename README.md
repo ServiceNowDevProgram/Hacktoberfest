@@ -232,6 +232,7 @@ KedarisettiSreeVamsi.
 mohitchauhan-dev.
 99Saurabh19.
 AnithaA09.
+Chraiseto.
 ravichandra1998g.
 at8807602.
 aykmrgit.
@@ -244,7 +245,6 @@ salma-93.
 vhudlikar.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
-Chraiseto.
 debendu-das.
 naveenraw25.
 Saileshlanka.
@@ -705,14 +705,15 @@ AnithaA09.
 anubhav-ritolia.
 apple9000.
 briangodfreydev.
+Chraiseto.
 GauthamBellamkonda.
 odinsride.
 piyusalunke123.
 rene-el.
 rmedved84.
-src107.
 
 **Top 50% contributors:**
+src107.
 fn20200323.
 pratyushasndev.
 stefanintech.
@@ -732,7 +733,6 @@ stwinkle.
 anguspalmer.
 Badal2k23.
 bhavyajain511.
-Chraiseto.
 naveenraw25.
 NBaker137.
 revantKulkarni.
