@@ -244,7 +244,6 @@ vhudlikar.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
 debendu-das.
-lakshmikanthgupta.
 naveenraw25.
 Saileshlanka.
 sumanth1710.
@@ -252,9 +251,9 @@ yuvraj1107thapa.
 mo-dahir.
 salma-93.
 Soumyadeep10.
+chelming.
 
 **Other contributors:**
-chelming.
 dcord1x.
 Ramesh-hub007.
 SaiSankar1309.
@@ -262,6 +261,7 @@ soham-shee.
 Tushnik-cyber.
 UTSAVS26.
 DChotaliya.
+lakshmikanthgupta.
 prithvibalakka.
 riya-misra-1.
 sheikhafsarzap.
@@ -551,7 +551,6 @@ MrChrisE.
 vandna07.
 at8807602.
 captainbraddles.
-lakshmikanthgupta.
 abhrajyotikanrar.
 alkaChaudhary73.
 csharpie.
@@ -562,6 +561,7 @@ mak1A4.
 selvarun-umass.
 shivamTodwal.
 iar42.
+lakshmikanthgupta.
 mlemartien.
 riya-misra-1.
 hentonjd.
