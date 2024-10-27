@@ -354,6 +354,7 @@ usamamohammed.
 vamsi0777.
 vpeinado.
 A-Vishnupriya.
+Abbas-57.
 acashkr.
 ahamadunnisa-md.
 ahmadwhet.
@@ -814,9 +815,9 @@ Avinash238.
 brichards99.
 ChndrshP.
 Chouffy.
+Coder0131.
 
 **Other contributors:**
-Coder0131.
 DaleD-SN.
 deathkraiser.
 demetris7.
@@ -1008,6 +1009,7 @@ Zephyre195.
 1-23-smy.
 A-Vishnupriya.
 aaron-howard.
+Abbas-57.
 abbottj27.
 Abhi132004.
 abhi5hek001.
