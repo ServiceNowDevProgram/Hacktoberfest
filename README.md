@@ -156,8 +156,8 @@ niamccash.
 chetnadev.
 Jaspalsinghchot.
 koratalas.
-maheshkhatal27.
 wiz0floyd.
+maheshkhatal27.
 ankitshu.
 404paige.
 
@@ -200,7 +200,6 @@ mioyokohama.
 priyasnexpert.
 templetontsai.
 isaac-vicentini.
-Munnisona.
 pradeepthipani.
 animeshdasgit.
 captainbraddles.
@@ -214,9 +213,10 @@ mandeepkaran.
 mebeingmustaq.
 HarshLMP870.
 ivan-betev.
+nowitsvashu.
 
 **Top 50% contributors:**
-nowitsvashu.
+Munnisona.
 RahmanM.
 SrijanPatwa.
 vermaamit1664.
@@ -557,7 +557,6 @@ shivamTodwal.
 iar42.
 lakshmikanthgupta.
 mlemartien.
-Munnisona.
 riya-misra-1.
 hentonjd.
 23Thom.
@@ -570,6 +569,7 @@ anveshmupparaju.
 ravichandra1998g.
 himanshu7895.
 ivan-betev.
+Munnisona.
 bkb68.
 prashantmrshine.
 SrijanPatwa.
