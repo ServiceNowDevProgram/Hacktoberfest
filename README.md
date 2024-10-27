@@ -209,11 +209,11 @@ QI-XING.
 shridk.
 amoore-coder.
 anveshmupparaju.
+Chraiseto.
 katsiarynasoshyna.
 mandeepkaran.
 mebeingmustaq.
 shreyawani98.
-Chraiseto.
 HarshLMP870.
 
 **Top 50% contributors:**
@@ -658,6 +658,7 @@ seviceN.
 tejudhoran95.
 vasantharaja-natarajan.
 amoore-coder.
+Chraiseto.
 dean-croaker.
 domuserk.
 HarneetSital.
@@ -669,7 +670,6 @@ ReginaldFawcett.
 Saileshlanka.
 shreyawani98.
 thorn91.
-Chraiseto.
 HarshLMP870.
 Himanshu-skb-oo7.
 mmaraj1.
