@@ -240,6 +240,7 @@ dadhich-ashish.
 gowdah.
 kmohit2809.
 stefanintech.
+Suri123789.
 manrick.
 salma-93.
 vhudlikar.
@@ -251,7 +252,6 @@ Saileshlanka.
 sumanth1710.
 yuvraj1107thapa.
 mo-dahir.
-Suri123789.
 
 **Other contributors:**
 Soumyadeep10.
@@ -718,6 +718,7 @@ src107.
 fn20200323.
 pratyushasndev.
 stefanintech.
+Suri123789.
 homealone07.
 Iamsant.
 jeremyrubio27.
@@ -743,7 +744,6 @@ ttoter.
 AlphaEagle.
 JWITSM.
 mo-dahir.
-Suri123789.
 dcord1x.
 djunaid.
 Haile-08.
