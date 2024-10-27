@@ -363,6 +363,7 @@ acashkr.
 ahamadunnisa-md.
 ahmadwhet.
 AKASHDHARDUBEY.
+akipatil16.
 Akshay-sri0001.
 alekseylee.
 Ananya54321.
@@ -711,9 +712,9 @@ odinsride.
 piyusalunke123.
 rene-el.
 rmedved84.
+src107.
 
 **Top 50% contributors:**
-src107.
 fn20200323.
 pratyushasndev.
 stefanintech.
@@ -823,9 +824,9 @@ AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
 brichards99.
+ChndrshP.
 
 **Other contributors:**
-ChndrshP.
 Chouffy.
 Coder0131.
 DaleD-SN.
@@ -1035,6 +1036,7 @@ ajbuono.
 ajithaju15.
 AKASHDHARDUBEY.
 akchowdam.
+akipatil16.
 akmittal.
 akoolarni.
 Akshay-sri0001.
