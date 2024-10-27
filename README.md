@@ -206,6 +206,7 @@ captainbraddles.
 Charanjet.
 prynacshrma.
 QI-XING.
+salma-93.
 shridk.
 amoore-coder.
 anveshmupparaju.
@@ -214,9 +215,9 @@ mandeepkaran.
 mebeingmustaq.
 shreyawani98.
 HarshLMP870.
-ivan-betev.
 
 **Top 50% contributors:**
+ivan-betev.
 nowitsvashu.
 Munnisona.
 RahmanM.
@@ -226,7 +227,6 @@ watrick.
 abhrajyotikanrar.
 Harshuu870.
 jahnaviT2003.
-salma-93.
 Srikanth1306.
 techTrekwithAJ.
 KedarisettiSreeVamsi.
@@ -654,6 +654,7 @@ Charanjet.
 designitsecure.
 llipovsky.
 prynacshrma.
+salma-93.
 seviceN.
 tejudhoran95.
 vasantharaja-natarajan.
@@ -690,7 +691,6 @@ hrichiksite.
 Iuliak.
 jahnaviT2003.
 RaunakScarlet.
-salma-93.
 Srikanth1306.
 techTrekwithAJ.
 TVani5.
