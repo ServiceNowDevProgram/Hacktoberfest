@@ -213,10 +213,11 @@ katsiarynasoshyna.
 mandeepkaran.
 mebeingmustaq.
 shreyawani98.
+Chraiseto.
 HarshLMP870.
-ivan-betev.
 
 **Top 50% contributors:**
+ivan-betev.
 nowitsvashu.
 Munnisona.
 RahmanM.
@@ -232,7 +233,6 @@ KedarisettiSreeVamsi.
 mohitchauhan-dev.
 99Saurabh19.
 AnithaA09.
-Chraiseto.
 ravichandra1998g.
 at8807602.
 aykmrgit.
@@ -669,6 +669,7 @@ ReginaldFawcett.
 Saileshlanka.
 shreyawani98.
 thorn91.
+Chraiseto.
 HarshLMP870.
 Himanshu-skb-oo7.
 mmaraj1.
@@ -705,7 +706,6 @@ AnithaA09.
 anubhav-ritolia.
 apple9000.
 briangodfreydev.
-Chraiseto.
 GauthamBellamkonda.
 odinsride.
 piyusalunke123.
