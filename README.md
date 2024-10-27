@@ -378,6 +378,7 @@ BhavishyaA516.
 blindaks.
 chaitaliKundu.
 ChilloutSenthil.
+Chraiseto.
 CReddySurendra.
 danieltayal07.
 daviddw2022.
@@ -820,9 +821,9 @@ ashleysnyder.
 Avinash238.
 brichards99.
 ChndrshP.
+Chouffy.
 
 **Other contributors:**
-Chouffy.
 Coder0131.
 DaleD-SN.
 deathkraiser.
@@ -1108,6 +1109,7 @@ CharanjeetSi.
 Charlesemesobum.
 cheshtapathak.
 ChocolateTilt.
+Chraiseto.
 ChristineMayfield.
 ChrRepou.
 Cioraz.
