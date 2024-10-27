@@ -249,9 +249,10 @@ Saileshlanka.
 sumanth1710.
 yuvraj1107thapa.
 mo-dahir.
-Soumyadeep10.
+salma-93.
 
 **Other contributors:**
+Soumyadeep10.
 chelming.
 dcord1x.
 Ramesh-hub007.
@@ -278,7 +279,6 @@ dvn-lazywinner.
 furquan5.
 harditsingh88.
 praisetoyt.
-salma-93.
 Shreedevisnow.
 Beeram12.
 cschmidt82.
@@ -738,6 +738,7 @@ mo-dahir.
 dcord1x.
 djunaid.
 Haile-08.
+salma-93.
 sonamtiwari8.
 Soumyadeep10.
 Adiana3308.
@@ -788,7 +789,6 @@ NayeemKaka.
 praisetoyt.
 puneet94.
 rohi-v.
-salma-93.
 Shreedevisnow.
 sisco0.
 ashaw7697.
