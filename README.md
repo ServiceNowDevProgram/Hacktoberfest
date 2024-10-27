@@ -224,6 +224,7 @@ RahmanM.
 SrijanPatwa.
 vermaamit1664.
 watrick.
+Suri123789.
 abhrajyotikanrar.
 Harshuu870.
 jahnaviT2003.
@@ -240,7 +241,6 @@ dadhich-ashish.
 gowdah.
 kmohit2809.
 stefanintech.
-Suri123789.
 manrick.
 salma-93.
 vhudlikar.
@@ -685,6 +685,7 @@ dalestubblefield.
 danielliaus.
 JonSandoval.
 sauravsumankumar.
+Suri123789.
 yuvraj1107thapa.
 ashuprince121.
 Harshuu870.
@@ -712,13 +713,12 @@ odinsride.
 piyusalunke123.
 rene-el.
 rmedved84.
-src107.
 
 **Top 50% contributors:**
+src107.
 fn20200323.
 pratyushasndev.
 stefanintech.
-Suri123789.
 homealone07.
 Iamsant.
 jeremyrubio27.
