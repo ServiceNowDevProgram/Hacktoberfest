@@ -244,6 +244,7 @@ manrick.
 vhudlikar.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
+Chraiseto.
 debendu-das.
 naveenraw25.
 Saileshlanka.
@@ -251,16 +252,15 @@ sumanth1710.
 yuvraj1107thapa.
 mo-dahir.
 Soumyadeep10.
-chelming.
 
 **Other contributors:**
+chelming.
 dcord1x.
 Ramesh-hub007.
 SaiSankar1309.
 soham-shee.
 Tushnik-cyber.
 UTSAVS26.
-Chraiseto.
 DChotaliya.
 lakshmikanthgupta.
 prithvibalakka.
@@ -732,6 +732,7 @@ stwinkle.
 anguspalmer.
 Badal2k23.
 bhavyajain511.
+Chraiseto.
 naveenraw25.
 NBaker137.
 revantKulkarni.
@@ -762,7 +763,6 @@ SaiSankar1309.
 soham-shee.
 Tushnik-cyber.
 UTSAVS26.
-Chraiseto.
 DChotaliya.
 LucasRocha2308.
 Mahesh-Krishnan1.
