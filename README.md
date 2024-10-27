@@ -251,10 +251,11 @@ debendu-das.
 naveenraw25.
 Saileshlanka.
 sumanth1710.
+Thanai14.
 yuvraj1107thapa.
-mo-dahir.
 
 **Other contributors:**
+mo-dahir.
 Soumyadeep10.
 chelming.
 dcord1x.
@@ -271,7 +272,6 @@ prithvibalakka.
 riya-misra-1.
 sheikhafsarzap.
 stwinkle.
-Thanai14.
 amigujarathi.
 MYaswanth28.
 Pradeep567iaf.
@@ -741,6 +741,7 @@ naveenraw25.
 NBaker137.
 revantKulkarni.
 sumanth1710.
+Thanai14.
 trade12.
 ttoter.
 AlphaEagle.
@@ -778,7 +779,6 @@ preshitd.
 prithvibalakka.
 Ratheshan03.
 tanu-profile.
-Thanai14.
 TheTreyKyle.
 thisnameissoclever.
 ujjwalprem.
