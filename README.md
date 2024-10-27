@@ -287,6 +287,7 @@ MGOPW.
 NowRishi.
 rohi-v.
 ShakthiSn.
+Suri123789.
 tejasathalye.
 umangkedia92.
 Abbas-57.
@@ -305,7 +306,6 @@ sachinggsingh.
 Saiprethaa.
 saitarun2499.
 Sravanik12.
-Suri123789.
 TheRashRash.
 ultralegendary.
 YadlaMani.
@@ -801,6 +801,7 @@ NowRishi.
 osc99.
 RagaChitraMankala.
 ShakthiSn.
+Suri123789.
 tejasathalye.
 thameemskings.
 Thrizvi.
@@ -818,9 +819,9 @@ ashleysnyder.
 Avinash238.
 brichards99.
 ChndrshP.
-Chouffy.
 
 **Other contributors:**
+Chouffy.
 Coder0131.
 DaleD-SN.
 deathkraiser.
@@ -872,7 +873,6 @@ Shambu-K.
 speedy18.
 Sravanik12.
 Subhraneel77.
-Suri123789.
 TheRashRash.
 thomasvogh.
 tomlozano.
