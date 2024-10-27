@@ -215,9 +215,9 @@ anveshmupparaju.
 katsiarynasoshyna.
 mandeepkaran.
 mebeingmustaq.
+HarshLMP870.
 
 **Top 50% contributors:**
-HarshLMP870.
 ivan-betev.
 nowitsvashu.
 Munnisona.
@@ -252,9 +252,9 @@ Saileshlanka.
 sumanth1710.
 yuvraj1107thapa.
 mo-dahir.
+Soumyadeep10.
 
 **Other contributors:**
-Soumyadeep10.
 chelming.
 dcord1x.
 Ramesh-hub007.
@@ -452,6 +452,7 @@ Ruchi-here.
 saarimshaikh.
 sagarbhadke08.
 saidinesh123.
+Sallu77.
 samusahatpure.
 sankar-coder.
 sanuj21.
@@ -1461,6 +1462,7 @@ saidinesh123.
 SainathLRH.
 Sakshi29G.
 salem769.
+Sallu77.
 sam16vis.
 samgoodecc.
 samusahatpure.
