@@ -147,8 +147,8 @@ Meet the Hacktoberfest crew who will be maintaining your projects:
 SapphicFire.
 Lacah.
 earlduque.
-sandeepd26.
 am-shakeel.
+sandeepd26.
 snamjosh.
 kmxo.
 Praiseto.
