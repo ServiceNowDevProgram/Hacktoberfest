@@ -236,6 +236,7 @@ mohitchauhan-dev.
 99Saurabh19.
 AnithaA09.
 ravichandra1998g.
+stwinkle.
 Suri123789.
 at8807602.
 aykmrgit.
@@ -253,7 +254,6 @@ debendu-das.
 naveenraw25.
 patan116.
 Saileshlanka.
-stwinkle.
 
 **Other contributors:**
 sumanth1710.
@@ -680,6 +680,7 @@ mandeepkaran.
 mebeingmustaq.
 ReginaldFawcett.
 Saileshlanka.
+stwinkle.
 thorn91.
 HarshLMP870.
 Himanshu-skb-oo7.
@@ -712,7 +713,6 @@ goranlundqvist.
 harisnad.
 KedarisettiSreeVamsi.
 riya-vermaa.
-stwinkle.
 99Saurabh19.
 allenandreas.
 AnithaA09.
