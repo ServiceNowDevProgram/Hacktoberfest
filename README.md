@@ -256,6 +256,7 @@ sumanth1710.
 **Other contributors:**
 Suri123789.
 yuvraj1107thapa.
+Pradeep567iaf.
 mo-dahir.
 manrick.
 prash5595.
@@ -278,7 +279,6 @@ sheikhafsarzap.
 stwinkle.
 amigujarathi.
 MYaswanth28.
-Pradeep567iaf.
 TheShashank13.
 pranavkhurana2011.
 aftab-mirza.
@@ -750,6 +750,7 @@ revantKulkarni.
 sumanth1710.
 Suri123789.
 trade12.
+Pradeep567iaf.
 ttoter.
 AlphaEagle.
 JWITSM.
@@ -793,7 +794,6 @@ thisnameissoclever.
 ujjwalprem.
 mockspeed.
 MYaswanth28.
-Pradeep567iaf.
 TheShashank13.
 ewatch.
 pranavkhurana2011.
