@@ -215,13 +215,13 @@ anveshmupparaju.
 katsiarynasoshyna.
 mandeepkaran.
 mebeingmustaq.
+chelming.
 HarshLMP870.
 ivan-betev.
-nowitsvashu.
 
 **Top 50% contributors:**
+nowitsvashu.
 Suri123789.
-chelming.
 Munnisona.
 RahmanM.
 SrijanPatwa.
