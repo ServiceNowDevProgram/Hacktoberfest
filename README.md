@@ -288,6 +288,7 @@ harditsingh88.
 praisetoyt.
 Shreedevisnow.
 Beeram12.
+chaitaliKundu.
 cschmidt82.
 csharpie.
 Hamritha0506.
@@ -337,7 +338,6 @@ AdibaNaushad.
 ADITYATIWARI342005.
 ANIKETSURWASE.
 ANISHAGHOSHAL.
-chaitaliKundu.
 ChandBasha-code.
 Code-mantle.
 d7ianielsimonP.
@@ -819,6 +819,7 @@ Shreedevisnow.
 sisco0.
 ashaw7697.
 Beeram12.
+chaitaliKundu.
 crooks-s.
 cschmidt82.
 Hamritha0506.
@@ -841,9 +842,9 @@ anurags10.
 Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
-Avinash238.
 
 **Other contributors:**
+Avinash238.
 brichards99.
 ChndrshP.
 Chouffy.
@@ -963,7 +964,6 @@ ayrotideysarkar.
 BadalKhojare.
 beingfluid.
 BeniRaja.
-chaitaliKundu.
 ChandBasha-code.
 cmurley.
 Code-mantle.
