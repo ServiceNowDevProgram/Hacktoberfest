@@ -291,6 +291,7 @@ Shreedevisnow.
 Beeram12.
 cschmidt82.
 csharpie.
+Hamritha0506.
 hoederath.
 MGOPW.
 NowRishi.
@@ -304,7 +305,6 @@ ChndrshP.
 devalcodes.
 DhanushNehru.
 ezratkim.
-Hamritha0506.
 msdfib.
 namrataghorpade.
 NilotpalMaitra.
@@ -815,6 +815,7 @@ ashaw7697.
 Beeram12.
 crooks-s.
 cschmidt82.
+Hamritha0506.
 Jaskaran-Techno.
 NowRishi.
 RagaChitraMankala.
@@ -831,9 +832,9 @@ ananthsridhar.
 ankitshaw625.
 anurags10.
 Arpan-InGen.
-AryanBarsaiyan.
 
 **Other contributors:**
+AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
 brichards99.
@@ -847,7 +848,6 @@ devalcodes.
 dhruvii-powershell.
 dorsy99.
 ezratkim.
-Hamritha0506.
 HarshMN2345.
 hmadhsan.
 iamvpbhaskar.
