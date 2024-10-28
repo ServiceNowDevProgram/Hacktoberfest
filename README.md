@@ -293,6 +293,7 @@ csharpie.
 hoederath.
 MGOPW.
 NowRishi.
+prash5595.
 rohi-v.
 tejasathalye.
 umangkedia92.
@@ -307,7 +308,6 @@ namrataghorpade.
 NilotpalMaitra.
 osc99.
 phr-nk.
-prash5595.
 sachinggsingh.
 Saiprethaa.
 saitarun2499.
@@ -815,6 +815,7 @@ cschmidt82.
 Jaskaran-Techno.
 NowRishi.
 osc99.
+prash5595.
 RagaChitraMankala.
 tejasathalye.
 thameemskings.
@@ -828,9 +829,9 @@ ananthsridhar.
 ankitshaw625.
 anurags10.
 Arpan-InGen.
-AryanBarsaiyan.
 
 **Other contributors:**
+AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
 brichards99.
@@ -868,7 +869,6 @@ NilotpalMaitra.
 nvprav.
 pavankumar-4.
 physi.
-prash5595.
 pratyushmp.
 PreyumKr.
 RajputUsman.
