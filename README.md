@@ -244,6 +244,7 @@ Pradeep567iaf.
 kmohit2809.
 stefanintech.
 salma-93.
+Soumyadeep10.
 vhudlikar.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
@@ -252,15 +253,14 @@ naveenraw25.
 patan116.
 Saileshlanka.
 stwinkle.
-sumanth1710.
 
 **Other contributors:**
+sumanth1710.
 Thanai14.
 yuvraj1107thapa.
 mo-dahir.
 manrick.
 prash5595.
-Soumyadeep10.
 chelming.
 dcord1x.
 Hamritha0506.
@@ -735,6 +735,7 @@ Iamsant.
 jeremyrubio27.
 Sagar-agarwal.
 salma-93.
+Soumyadeep10.
 vhudlikar.
 wiresgit.
 yourepicservices.
@@ -761,7 +762,6 @@ djunaid.
 Haile-08.
 prash5595.
 sonamtiwari8.
-Soumyadeep10.
 Adiana3308.
 akhoshnood.
 allam1234.
