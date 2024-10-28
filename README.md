@@ -317,6 +317,7 @@ saitarun2499.
 Sravanik12.
 TheRashRash.
 ultralegendary.
+vijaytalupula.
 wendy-ha18.
 YadlaMani.
 Danmax.
@@ -492,7 +493,6 @@ ujjwalgupta2021.
 VaishnaviUbarhande.
 valaparlasalmonraj.
 vedika0109.
-vijaytalupula.
 vijaytechy.
 vino3110.
 vivaan01.
@@ -904,6 +904,7 @@ thomasvogh.
 tomlozano.
 trishitapingolia.
 ultralegendary.
+vijaytalupula.
 wendy-ha18.
 workpurposeusername.
 YadlaMani.
@@ -1588,7 +1589,6 @@ VictorAlbergaria.
 vigneshmc.
 vijay1379.
 vijayshankar485.
-vijaytalupula.
 vijaytechy.
 vino3110.
 vivaan01.
