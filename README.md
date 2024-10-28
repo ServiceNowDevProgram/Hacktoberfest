@@ -404,6 +404,7 @@ girishnagaraj09.
 Git-Snow-dev.
 GittyHarsha.
 GP-UOB.
+Hashir524.
 Hecktoberfest.
 herambchaudhari4121.
 Imsurajr.
@@ -1232,6 +1233,7 @@ HannaGilbertson.
 hardikvyasji.
 Harshthakur1825.
 Hasanul-Banna-Himel.
+Hashir524.
 haupx9.
 HauseMasterZ.
 Hecktoberfest.
