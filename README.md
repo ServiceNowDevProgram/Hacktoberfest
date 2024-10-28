@@ -276,6 +276,7 @@ lakshmikanthgupta.
 osc99.
 prithvibalakka.
 riya-misra-1.
+Sallu77.
 sheikhafsarzap.
 stwinkle.
 amigujarathi.
@@ -313,7 +314,6 @@ phr-nk.
 sachinggsingh.
 Saiprethaa.
 saitarun2499.
-Sallu77.
 Sravanik12.
 TheRashRash.
 ultralegendary.
@@ -791,6 +791,7 @@ MihirRathod.
 preshitd.
 prithvibalakka.
 Ratheshan03.
+Sallu77.
 tanu-profile.
 TheTreyKyle.
 thisnameissoclever.
@@ -834,9 +835,9 @@ AdityaBala2026.
 ananthsridhar.
 ankitshaw625.
 anurags10.
-Arpan-InGen.
 
 **Other contributors:**
+Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
@@ -886,7 +887,6 @@ SagarVijaykumar.
 saikumar-e.
 Saiprethaa.
 saitarun2499.
-Sallu77.
 samwinchet.
 sanchit-varshney.
 sanju009.
