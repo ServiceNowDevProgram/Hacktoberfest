@@ -248,6 +248,7 @@ gowdah.
 Pradeep567iaf.
 kmohit2809.
 stefanintech.
+manrick.
 salma-93.
 vhudlikar.
 S-w-a-p-n-i-l-22.
@@ -255,13 +256,12 @@ SNProductOwner.
 debendu-das.
 naveenraw25.
 patan116.
-Saileshlanka.
 
 **Other contributors:**
+Saileshlanka.
 sumanth1710.
 yuvraj1107thapa.
 mo-dahir.
-manrick.
 dcord1x.
 rohi-v.
 SaiSankar1309.
@@ -609,14 +609,15 @@ spnegi.
 danr2c2.
 Dhruvyadav2000.
 Litwilly.
+manrick.
 MRSinghRajat.
 oasif.
 jonahpiascik.
 soerenmaucher.
 Adil404.
-avssrikanth.
 
 **Top 25% contributors:**
+avssrikanth.
 shraddhakadam301298.
 shridk.
 Atul-LNG.
@@ -628,7 +629,6 @@ MYaswanth28.
 shreyawani98.
 zahidask.
 DynamiteC.
-manrick.
 phr-nk.
 shakeel-sheikh.
 vjtknn.
