@@ -201,7 +201,6 @@ unbirthdays.
 mioyokohama.
 priyasnexpert.
 templetontsai.
-Suri123789.
 isaac-vicentini.
 pradeepthipani.
 animeshdasgit.
@@ -216,12 +215,13 @@ katsiarynasoshyna.
 mandeepkaran.
 mebeingmustaq.
 Abbas-57.
+HarshLMP870.
 
 **Top 50% contributors:**
-HarshLMP870.
 ivan-betev.
 Khasim-63993.
 nowitsvashu.
+Suri123789.
 Munnisona.
 RahmanM.
 SrijanPatwa.
@@ -645,7 +645,6 @@ templetontsai.
 b1naryst0rm.
 namrataghorpade.
 sdgrube2.
-Suri123789.
 AdilBasha1SAP.
 bradtiltonnow.
 isaac-vicentini.
@@ -683,6 +682,7 @@ Khasim-63993.
 mmaraj1.
 nowitsvashu.
 sanjivmeher.
+Suri123789.
 aman2519.
 JonSandoval.
 vermaamit1664.
