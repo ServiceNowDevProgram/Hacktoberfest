@@ -247,6 +247,7 @@ gowdah.
 Pradeep567iaf.
 kmohit2809.
 stefanintech.
+chelming.
 salma-93.
 vhudlikar.
 S-w-a-p-n-i-l-22.
@@ -255,12 +256,11 @@ debendu-das.
 naveenraw25.
 patan116.
 Saileshlanka.
-sumanth1710.
 
 **Other contributors:**
+sumanth1710.
 yuvraj1107thapa.
 mo-dahir.
-chelming.
 manrick.
 dcord1x.
 SaiSankar1309.
@@ -528,8 +528,8 @@ kmxo.
 DavidArthurCole.
 Praiseto.
 amigujarathi.
-RahmanM.
 chelming.
+RahmanM.
 R3J3NT.
 ajcooper72.
 hrobarikt.
