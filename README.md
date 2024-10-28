@@ -220,7 +220,6 @@ Abbas-57.
 **Top 50% contributors:**
 HarshLMP870.
 ivan-betev.
-Khasim-63993.
 nowitsvashu.
 Munnisona.
 RahmanM.
@@ -236,6 +235,7 @@ KedarisettiSreeVamsi.
 mohitchauhan-dev.
 99Saurabh19.
 AnithaA09.
+Khasim-63993.
 ravichandra1998g.
 Suri123789.
 Thanai14.
@@ -504,8 +504,8 @@ SapphicFire.
 Lacah.
 niamccash.
 wiz0floyd.
-Rampriya-S.
 am-shakeel.
+Rampriya-S.
 snamjosh.
 kmohit2809.
 johndahl-now.
@@ -683,7 +683,6 @@ thorn91.
 Abbas-57.
 HarshLMP870.
 Himanshu-skb-oo7.
-Khasim-63993.
 mmaraj1.
 nowitsvashu.
 sanjivmeher.
@@ -719,6 +718,7 @@ anubhav-ritolia.
 apple9000.
 briangodfreydev.
 GauthamBellamkonda.
+Khasim-63993.
 odinsride.
 piyusalunke123.
 rene-el.
