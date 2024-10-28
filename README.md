@@ -221,7 +221,6 @@ HarshLMP870.
 ivan-betev.
 Khasim-63993.
 nowitsvashu.
-Suri123789.
 Munnisona.
 RahmanM.
 SrijanPatwa.
@@ -237,6 +236,7 @@ mohitchauhan-dev.
 99Saurabh19.
 AnithaA09.
 ravichandra1998g.
+Suri123789.
 Thanai14.
 at8807602.
 aykmrgit.
@@ -501,8 +501,8 @@ Lacah.
 niamccash.
 wiz0floyd.
 Rampriya-S.
-snamjosh.
 am-shakeel.
+snamjosh.
 kmohit2809.
 johndahl-now.
 MartinStoyanoff.
@@ -682,7 +682,6 @@ Khasim-63993.
 mmaraj1.
 nowitsvashu.
 sanjivmeher.
-Suri123789.
 aman2519.
 JonSandoval.
 vermaamit1664.
@@ -717,11 +716,12 @@ briangodfreydev.
 GauthamBellamkonda.
 odinsride.
 piyusalunke123.
+rene-el.
 
 **Top 50% contributors:**
-rene-el.
 rmedved84.
 src107.
+Suri123789.
 Thanai14.
 fn20200323.
 pratyushasndev.
