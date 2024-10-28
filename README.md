@@ -240,6 +240,7 @@ at8807602.
 aykmrgit.
 dadhich-ashish.
 gowdah.
+Pradeep567iaf.
 kmohit2809.
 stefanintech.
 salma-93.
@@ -252,10 +253,9 @@ patan116.
 Saileshlanka.
 sumanth1710.
 Thanai14.
-yuvraj1107thapa.
 
 **Other contributors:**
-Pradeep567iaf.
+yuvraj1107thapa.
 mo-dahir.
 manrick.
 prash5595.
@@ -726,6 +726,7 @@ src107.
 **Top 50% contributors:**
 Suri123789.
 fn20200323.
+Pradeep567iaf.
 pratyushasndev.
 stefanintech.
 homealone07.
@@ -751,7 +752,6 @@ revantKulkarni.
 sumanth1710.
 Thanai14.
 trade12.
-Pradeep567iaf.
 ttoter.
 AlphaEagle.
 JWITSM.
