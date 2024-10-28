@@ -220,6 +220,7 @@ ivan-betev.
 
 **Top 50% contributors:**
 nowitsvashu.
+Suri123789.
 Munnisona.
 RahmanM.
 SrijanPatwa.
@@ -237,7 +238,6 @@ mohitchauhan-dev.
 AnithaA09.
 ravichandra1998g.
 stwinkle.
-Suri123789.
 at8807602.
 aykmrgit.
 dadhich-ashish.
@@ -687,6 +687,7 @@ Himanshu-skb-oo7.
 mmaraj1.
 nowitsvashu.
 sanjivmeher.
+Suri123789.
 aman2519.
 JonSandoval.
 vermaamit1664.
@@ -723,11 +724,10 @@ GauthamBellamkonda.
 odinsride.
 piyusalunke123.
 rene-el.
-rmedved84.
 
 **Top 50% contributors:**
+rmedved84.
 src107.
-Suri123789.
 fn20200323.
 Pradeep567iaf.
 pratyushasndev.
