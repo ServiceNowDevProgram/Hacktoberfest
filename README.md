@@ -160,10 +160,10 @@ wiz0floyd.
 maheshkhatal27.
 ankitshu.
 404paige.
-ynr-ram.
+ashoo-jindal.
 
 **Top 10% contributors:**
-ashoo-jindal.
+ynr-ram.
 YTejaswini18.
 aswamy93.
 alkaChaudhary73.
@@ -525,8 +525,8 @@ amigujarathi.
 RahmanM.
 chelming.
 R3J3NT.
-ajcooper72.
 ashoo-jindal.
+ajcooper72.
 hrobarikt.
 aykmrgit.
 koratalas.
