@@ -173,9 +173,9 @@ MartinStoyanoff.
 himanshu7895.
 bkb68.
 Paulsylo25.
+Chraiseto.
 prashantmrshine.
 sndevs-slacker-issue-reporter[bot].
-Chraiseto.
 sravankadudhuri.
 MYaswanth28.
 spnegi.
@@ -591,10 +591,10 @@ prashantmrshine.
 SrijanPatwa.
 debendu-das.
 VaishnaviLathkar98.
+Chraiseto.
 hafsa-asif.
 ovarn.
 sndevs-slacker-issue-reporter[bot].
-Chraiseto.
 devinvalencia.
 mskoddow.
 QI-XING.
