@@ -214,12 +214,11 @@ anveshmupparaju.
 katsiarynasoshyna.
 mandeepkaran.
 mebeingmustaq.
-MYaswanth28.
 HarshLMP870.
 ivan-betev.
+nowitsvashu.
 
 **Top 50% contributors:**
-nowitsvashu.
 Suri123789.
 Munnisona.
 RahmanM.
@@ -234,6 +233,7 @@ Srikanth1306.
 techTrekwithAJ.
 KedarisettiSreeVamsi.
 mohitchauhan-dev.
+MYaswanth28.
 99Saurabh19.
 AnithaA09.
 ravichandra1998g.
@@ -677,7 +677,6 @@ jacebenson.
 katsiarynasoshyna.
 mandeepkaran.
 mebeingmustaq.
-MYaswanth28.
 ReginaldFawcett.
 Saileshlanka.
 stwinkle.
@@ -713,6 +712,7 @@ annaydas.
 goranlundqvist.
 harisnad.
 KedarisettiSreeVamsi.
+MYaswanth28.
 riya-vermaa.
 99Saurabh19.
 allenandreas.
