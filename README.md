@@ -217,9 +217,9 @@ mandeepkaran.
 mebeingmustaq.
 HarshLMP870.
 ivan-betev.
+nowitsvashu.
 
 **Top 50% contributors:**
-nowitsvashu.
 Suri123789.
 Munnisona.
 RahmanM.
@@ -255,9 +255,9 @@ debendu-das.
 naveenraw25.
 patan116.
 Saileshlanka.
+sumanth1710.
 
 **Other contributors:**
-sumanth1710.
 yuvraj1107thapa.
 mo-dahir.
 chelming.
@@ -489,6 +489,7 @@ Tsegagedefaw.
 TummalaDivyaReddy.
 uditjainstjis.
 ujjwalgupta2021.
+VaishnaviUbarhande.
 valaparlasalmonraj.
 vedika0109.
 vijaytalupula.
@@ -1578,6 +1579,7 @@ utk1725.
 v-agnihotri.
 Vaibhav91one.
 vaishakbkj-ml.
+VaishnaviUbarhande.
 valaparlasalmonraj.
 VanWeapon.
 vedika0109.
