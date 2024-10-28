@@ -256,7 +256,6 @@ stwinkle.
 
 **Other contributors:**
 sumanth1710.
-Thanai14.
 yuvraj1107thapa.
 mo-dahir.
 manrick.
@@ -279,6 +278,7 @@ prithvibalakka.
 riya-misra-1.
 Sallu77.
 sheikhafsarzap.
+Thanai14.
 amigujarathi.
 TheShashank13.
 pranavkhurana2011.
@@ -751,7 +751,6 @@ NBaker137.
 patan116.
 revantKulkarni.
 sumanth1710.
-Thanai14.
 trade12.
 ttoter.
 AlphaEagle.
@@ -793,6 +792,7 @@ prithvibalakka.
 Ratheshan03.
 Sallu77.
 tanu-profile.
+Thanai14.
 TheTreyKyle.
 thisnameissoclever.
 ujjwalprem.
