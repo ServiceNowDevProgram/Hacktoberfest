@@ -251,10 +251,11 @@ debendu-das.
 naveenraw25.
 patan116.
 Saileshlanka.
+stwinkle.
 sumanth1710.
-Thanai14.
 
 **Other contributors:**
+Thanai14.
 yuvraj1107thapa.
 mo-dahir.
 manrick.
@@ -278,7 +279,6 @@ prithvibalakka.
 riya-misra-1.
 Sallu77.
 sheikhafsarzap.
-stwinkle.
 amigujarathi.
 TheShashank13.
 pranavkhurana2011.
@@ -710,6 +710,7 @@ goranlundqvist.
 harisnad.
 KedarisettiSreeVamsi.
 riya-vermaa.
+stwinkle.
 99Saurabh19.
 allenandreas.
 AnithaA09.
@@ -721,9 +722,9 @@ odinsride.
 piyusalunke123.
 rene-el.
 rmedved84.
-src107.
 
 **Top 50% contributors:**
+src107.
 Suri123789.
 fn20200323.
 Pradeep567iaf.
@@ -741,7 +742,6 @@ ChecksumFailed.
 markroethof.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
-stwinkle.
 anguspalmer.
 Badal2k23.
 bhavyajain511.
