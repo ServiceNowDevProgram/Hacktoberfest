@@ -163,8 +163,8 @@ ankitshu.
 ynr-ram.
 
 **Top 10% contributors:**
-ashoo-jindal.
 YTejaswini18.
+ashoo-jindal.
 aswamy93.
 alkaChaudhary73.
 Rampriya-S.
@@ -527,9 +527,9 @@ RahmanM.
 chelming.
 R3J3NT.
 ajcooper72.
-ashoo-jindal.
 hrobarikt.
 aykmrgit.
+ashoo-jindal.
 koratalas.
 sumanthdosapati.
 TRIGGEREDcoder.
