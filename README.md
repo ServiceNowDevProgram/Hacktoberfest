@@ -237,7 +237,6 @@ mohitchauhan-dev.
 AnithaA09.
 ravichandra1998g.
 stwinkle.
-Suri123789.
 at8807602.
 aykmrgit.
 dadhich-ashish.
@@ -254,6 +253,7 @@ naveenraw25.
 patan116.
 Saileshlanka.
 sumanth1710.
+Suri123789.
 
 **Other contributors:**
 yuvraj1107thapa.
@@ -727,7 +727,6 @@ rmedved84.
 
 **Top 50% contributors:**
 src107.
-Suri123789.
 fn20200323.
 Pradeep567iaf.
 pratyushasndev.
@@ -752,6 +751,7 @@ NBaker137.
 patan116.
 revantKulkarni.
 sumanth1710.
+Suri123789.
 trade12.
 ttoter.
 AlphaEagle.
