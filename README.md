@@ -234,6 +234,7 @@ Ramesh-hub007.
 abhrajyotikanrar.
 Harshuu870.
 jahnaviT2003.
+manrick.
 prash5595.
 Srikanth1306.
 techTrekwithAJ.
@@ -253,7 +254,6 @@ TheShashank13.
 kmohit2809.
 salma-93.
 stefanintech.
-manrick.
 vhudlikar.
 S-w-a-p-n-i-l-22.
 
@@ -597,6 +597,7 @@ bkb68.
 prashantmrshine.
 SrijanPatwa.
 debendu-das.
+manrick.
 sndevs-slacker-issue-reporter[bot].
 VaishnaviLathkar98.
 hafsa-asif.
@@ -611,7 +612,6 @@ spnegi.
 danr2c2.
 Dhruvyadav2000.
 Litwilly.
-manrick.
 MRSinghRajat.
 oasif.
 jonahpiascik.
