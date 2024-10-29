@@ -180,9 +180,9 @@ sravankadudhuri.
 spnegi.
 Dhruvyadav2000.
 eriemer1.
+bgrk005.
 
 **Top 25% contributors:**
-bgrk005.
 shraddhakadam301298.
 Adil404.
 Atul-LNG.
@@ -411,6 +411,7 @@ Hashir524.
 Hecktoberfest.
 herambchaudhari4121.
 Imsurajr.
+jatin-singh-kushwaha.
 JayShukla8.
 jaz1gdev.
 jekinz-tagline.
@@ -841,9 +842,9 @@ vk-cloud.
 4bode.
 abhay625.
 akipatil16.
+ananthsridhar.
 
 **Other contributors:**
-ananthsridhar.
 ankitshaw625.
 anurags10.
 Arpan-InGen.
@@ -1265,6 +1266,7 @@ j2clow.
 jamalissimo.
 jambo969.
 jamiestroud.
+jatin-singh-kushwaha.
 jayeshyadav252.
 jaypalmr.
 JayShukla8.
