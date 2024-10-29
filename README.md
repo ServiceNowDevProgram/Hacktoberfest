@@ -302,6 +302,7 @@ NowRishi.
 ShakthiSn.
 tejasathalye.
 umangkedia92.
+vamsi0777.
 akipatil16.
 anurags10.
 ChndrshP.
@@ -366,7 +367,6 @@ SujathaSuj.
 TanushreeBorase.
 techLrd.
 usamamohammed.
-vamsi0777.
 vpeinado.
 A-Vishnupriya.
 abhayjoshi201.
@@ -833,6 +833,7 @@ tejasathalye.
 thameemskings.
 Thrizvi.
 umangkedia92.
+vamsi0777.
 vk-cloud.
 4bode.
 abhay625.
@@ -840,9 +841,9 @@ akipatil16.
 ananthsridhar.
 ankitshaw625.
 anurags10.
-Arpan-InGen.
 
 **Other contributors:**
+Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
@@ -1032,7 +1033,6 @@ thoffman210.
 TonySerN.
 TracyCurry96.
 usamamohammed.
-vamsi0777.
 VarAti.
 varunasuresh92.
 vishalbirajdar0712.
