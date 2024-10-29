@@ -240,6 +240,7 @@ KedarisettiSreeVamsi.
 mohitchauhan-dev.
 99Saurabh19.
 AnithaA09.
+Khasim-63993.
 ravichandra1998g.
 at8807602.
 aykmrgit.
@@ -254,10 +255,9 @@ vhudlikar.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
 Tushnik-cyber.
-debendu-das.
 
 **Other contributors:**
-Khasim-63993.
+debendu-das.
 naveenraw25.
 patan116.
 Saileshlanka.
@@ -726,9 +726,10 @@ anubhav-ritolia.
 apple9000.
 briangodfreydev.
 GauthamBellamkonda.
-odinsride.
+Khasim-63993.
 
 **Top 50% contributors:**
+odinsride.
 piyusalunke123.
 rene-el.
 rmedved84.
@@ -753,7 +754,6 @@ Tushnik-cyber.
 anguspalmer.
 Badal2k23.
 bhavyajain511.
-Khasim-63993.
 naveenraw25.
 NBaker137.
 patan116.
