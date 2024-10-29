@@ -198,6 +198,7 @@ Vishnu-rvk.
 ariyadmir.
 Charanjet.
 DanielMadsenDK.
+stwinkle.
 thejasr110.
 unbirthdays.
 mioyokohama.
@@ -211,7 +212,6 @@ prynacshrma.
 QI-XING.
 shridk.
 Soumyadeep10.
-stwinkle.
 amoore-coder.
 anveshmupparaju.
 katsiarynasoshyna.
@@ -622,6 +622,7 @@ avssrikanth.
 **Top 25% contributors:**
 shraddhakadam301298.
 shridk.
+stwinkle.
 Atul-LNG.
 sheikhafsarzap.
 davidkwhuang.
@@ -638,7 +639,6 @@ Yokesh0811.
 MarcMouries.
 sn-ajb.
 DavidMarcial.
-stwinkle.
 techYESlogyXplorer.
 Vishnu-rvk.
 alyaanbasha.
