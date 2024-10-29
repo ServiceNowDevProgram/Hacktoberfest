@@ -259,6 +259,7 @@ naveenraw25.
 **Other contributors:**
 patan116.
 Saileshlanka.
+Sallu77.
 sumanth1710.
 yuvraj1107thapa.
 mo-dahir.
@@ -278,7 +279,6 @@ lakshmikanthgupta.
 osc99.
 prithvibalakka.
 riya-misra-1.
-Sallu77.
 sheikhafsarzap.
 Thanai14.
 wendy-ha18.
@@ -756,6 +756,7 @@ naveenraw25.
 NBaker137.
 patan116.
 revantKulkarni.
+Sallu77.
 sumanth1710.
 trade12.
 ttoter.
@@ -796,7 +797,6 @@ MihirRathod.
 preshitd.
 prithvibalakka.
 Ratheshan03.
-Sallu77.
 tanu-profile.
 Thanai14.
 TheTreyKyle.
