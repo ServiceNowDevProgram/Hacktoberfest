@@ -229,7 +229,6 @@ SrijanPatwa.
 vermaamit1664.
 watrick.
 Ramesh-hub007.
-salma-93.
 abhrajyotikanrar.
 Harshuu870.
 jahnaviT2003.
@@ -248,6 +247,7 @@ dadhich-ashish.
 gowdah.
 Pradeep567iaf.
 kmohit2809.
+salma-93.
 stefanintech.
 manrick.
 stwinkle.
@@ -700,7 +700,6 @@ brenduh.
 dalestubblefield.
 danielliaus.
 Ramesh-hub007.
-salma-93.
 sauravsumankumar.
 stwinkle.
 yuvraj1107thapa.
@@ -727,9 +726,9 @@ anubhav-ritolia.
 apple9000.
 briangodfreydev.
 GauthamBellamkonda.
+Khasim-63993.
 
 **Top 50% contributors:**
-Khasim-63993.
 odinsride.
 piyusalunke123.
 rene-el.
@@ -738,6 +737,7 @@ src107.
 fn20200323.
 Pradeep567iaf.
 pratyushasndev.
+salma-93.
 stefanintech.
 homealone07.
 Iamsant.
