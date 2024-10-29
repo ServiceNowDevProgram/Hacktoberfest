@@ -291,6 +291,7 @@ bhavyajain511.
 dvn-lazywinner.
 furquan5.
 harditsingh88.
+kumarinisha378.
 praisetoyt.
 Shreedevisnow.
 Beeram12.
@@ -330,7 +331,6 @@ abhishekchavan-git.
 cmanik.
 DennisRutherford.
 Dwarkilal-Monetapp.
-kumarinisha378.
 mmaraj1.
 mvkassak.
 Piyushsahu99.
@@ -819,6 +819,7 @@ chris-canto-11.
 dvn-lazywinner.
 furquan5.
 harditsingh88.
+kumarinisha378.
 NayeemKaka.
 praisetoyt.
 puneet94.
@@ -842,9 +843,9 @@ vk-cloud.
 4bode.
 abhay625.
 akipatil16.
-ananthsridhar.
 
 **Other contributors:**
+ananthsridhar.
 ankitshaw625.
 anurags10.
 Arpan-InGen.
@@ -938,7 +939,6 @@ GTKsnow.
 jaz1gdev.
 joshuatechie.
 Krishnakant-iv.
-kumarinisha378.
 Litaflom.
 lverbeke.
 mohdzeeshan96.
