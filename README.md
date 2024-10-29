@@ -259,6 +259,7 @@ S-w-a-p-n-i-l-22.
 
 **Other contributors:**
 SNProductOwner.
+vamsi0777.
 debendu-das.
 naveenraw25.
 osc99.
@@ -273,7 +274,6 @@ rohi-v.
 SaiSankar1309.
 soham-shee.
 UTSAVS26.
-vamsi0777.
 Abbas-57.
 AdityaBala2026.
 DChotaliya.
@@ -758,6 +758,7 @@ markroethof.
 osc99.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
+vamsi0777.
 anguspalmer.
 Badal2k23.
 bhavyajain511.
@@ -791,7 +792,6 @@ patrickpaterlini.
 SaiSankar1309.
 soham-shee.
 UTSAVS26.
-vamsi0777.
 Abbas-57.
 AdityaBala2026.
 DChotaliya.
