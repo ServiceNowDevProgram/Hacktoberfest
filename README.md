@@ -217,9 +217,10 @@ anveshmupparaju.
 katsiarynasoshyna.
 mandeepkaran.
 mebeingmustaq.
-chelming.
+vamsi0777.
 
 **Top 50% contributors:**
+chelming.
 HarshLMP870.
 ivan-betev.
 nowitsvashu.
@@ -241,7 +242,6 @@ techTrekwithAJ.
 KedarisettiSreeVamsi.
 mohitchauhan-dev.
 NowRishi.
-vamsi0777.
 99Saurabh19.
 AnithaA09.
 Khasim-63993.
@@ -690,6 +690,7 @@ mebeingmustaq.
 ReginaldFawcett.
 Saileshlanka.
 thorn91.
+vamsi0777.
 HarshLMP870.
 Himanshu-skb-oo7.
 mmaraj1.
@@ -725,7 +726,6 @@ harisnad.
 KedarisettiSreeVamsi.
 NowRishi.
 riya-vermaa.
-vamsi0777.
 99Saurabh19.
 allenandreas.
 AnithaA09.
