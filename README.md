@@ -242,7 +242,6 @@ mohitchauhan-dev.
 99Saurabh19.
 AnithaA09.
 Khasim-63993.
-osc99.
 ravichandra1998g.
 at8807602.
 aykmrgit.
@@ -256,11 +255,12 @@ vhudlikar.
 NowRishi.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
+Tushnik-cyber.
 
 **Other contributors:**
-Tushnik-cyber.
 debendu-das.
 naveenraw25.
+osc99.
 patan116.
 Saileshlanka.
 sumanth1710.
@@ -722,7 +722,6 @@ annaydas.
 goranlundqvist.
 harisnad.
 KedarisettiSreeVamsi.
-osc99.
 riya-vermaa.
 99Saurabh19.
 allenandreas.
@@ -730,9 +729,9 @@ AnithaA09.
 anubhav-ritolia.
 apple9000.
 briangodfreydev.
+GauthamBellamkonda.
 
 **Top 50% contributors:**
-GauthamBellamkonda.
 Khasim-63993.
 odinsride.
 piyusalunke123.
@@ -753,6 +752,7 @@ yourepicservices.
 ChecksumFailed.
 markroethof.
 NowRishi.
+osc99.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
 Tushnik-cyber.
