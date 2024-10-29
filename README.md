@@ -183,10 +183,10 @@ eriemer1.
 bgrk005.
 
 **Top 25% contributors:**
+DanielMadsenDK.
 shraddhakadam301298.
 Adil404.
 Atul-LNG.
-DanielMadsenDK.
 bird-03.
 kylburns89.
 MYaswanth28.
@@ -614,17 +614,17 @@ Dhruvyadav2000.
 Litwilly.
 MRSinghRajat.
 oasif.
+DanielMadsenDK.
 jonahpiascik.
 soerenmaucher.
 Adil404.
-avssrikanth.
 
 **Top 25% contributors:**
+avssrikanth.
 shraddhakadam301298.
 shridk.
 stwinkle.
 Atul-LNG.
-DanielMadsenDK.
 sheikhafsarzap.
 davidkwhuang.
 kylburns89.
