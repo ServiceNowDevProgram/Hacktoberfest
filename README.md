@@ -253,11 +253,12 @@ salma-93.
 stefanintech.
 manrick.
 vhudlikar.
+NowRishi.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
-Tushnik-cyber.
 
 **Other contributors:**
+Tushnik-cyber.
 debendu-das.
 naveenraw25.
 patan116.
@@ -266,7 +267,6 @@ sumanth1710.
 yuvraj1107thapa.
 mo-dahir.
 dcord1x.
-NowRishi.
 rohi-v.
 SaiSankar1309.
 soham-shee.
@@ -752,6 +752,7 @@ wiresgit.
 yourepicservices.
 ChecksumFailed.
 markroethof.
+NowRishi.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
 Tushnik-cyber.
@@ -782,7 +783,6 @@ jesalynrose.
 Ladirinia.
 miracc.
 MiroslawBuszek.
-NowRishi.
 pandeysumit-now.
 patrickpaterlini.
 SaiSankar1309.
