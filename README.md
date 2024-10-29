@@ -204,6 +204,7 @@ unbirthdays.
 mioyokohama.
 priyasnexpert.
 templetontsai.
+vamsi0777.
 isaac-vicentini.
 pradeepthipani.
 animeshdasgit.
@@ -217,7 +218,6 @@ anveshmupparaju.
 katsiarynasoshyna.
 mandeepkaran.
 mebeingmustaq.
-vamsi0777.
 
 **Top 50% contributors:**
 chelming.
@@ -657,6 +657,7 @@ mjonssonme.
 nthumma.
 priyasnexpert.
 templetontsai.
+vamsi0777.
 b1naryst0rm.
 isaac-vicentini.
 namrataghorpade.
@@ -690,7 +691,6 @@ mebeingmustaq.
 ReginaldFawcett.
 Saileshlanka.
 thorn91.
-vamsi0777.
 HarshLMP870.
 Himanshu-skb-oo7.
 mmaraj1.
