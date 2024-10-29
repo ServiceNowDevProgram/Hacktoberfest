@@ -217,9 +217,9 @@ katsiarynasoshyna.
 mandeepkaran.
 mebeingmustaq.
 chelming.
+HarshLMP870.
 
 **Top 50% contributors:**
-HarshLMP870.
 ivan-betev.
 nowitsvashu.
 Suri123789.
@@ -255,9 +255,9 @@ vhudlikar.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
 Tushnik-cyber.
+debendu-das.
 
 **Other contributors:**
-debendu-das.
 naveenraw25.
 patan116.
 Saileshlanka.
@@ -405,6 +405,7 @@ girishnagaraj09.
 Git-Snow-dev.
 GittyHarsha.
 GP-UOB.
+harishkm6689.
 Hashir524.
 Hecktoberfest.
 herambchaudhari4121.
@@ -557,9 +558,9 @@ Abhishekchowdarapu.
 alikuttyka.
 YTejaswini18.
 aswamy93.
+BadalHub.
 
 **Top 10% contributors:**
-BadalHub.
 MrChrisE.
 vandna07.
 at8807602.
@@ -614,9 +615,9 @@ oasif.
 jonahpiascik.
 soerenmaucher.
 Adil404.
+avssrikanth.
 
 **Top 25% contributors:**
-avssrikanth.
 shraddhakadam301298.
 shridk.
 Atul-LNG.
@@ -839,10 +840,10 @@ vk-cloud.
 4bode.
 abhay625.
 akipatil16.
-ananthsridhar.
-ankitshaw625.
 
 **Other contributors:**
+ananthsridhar.
+ankitshaw625.
 anurags10.
 Arpan-InGen.
 AryanBarsaiyan.
@@ -1234,6 +1235,7 @@ han-le.
 Hanan-Ashraf.
 HannaGilbertson.
 hardikvyasji.
+harishkm6689.
 Harshthakur1825.
 Hasanul-Banna-Himel.
 Hashir524.
