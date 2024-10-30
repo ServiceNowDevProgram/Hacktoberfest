@@ -249,6 +249,7 @@ AnithaA09.
 Khasim-63993.
 ravichandra1998g.
 Tushnik-cyber.
+yansa-reece.
 at8807602.
 aykmrgit.
 dadhich-ashish.
@@ -258,15 +259,14 @@ vhudlikar.
 chaitaliKundu.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
-debendu-das.
 
 **Other contributors:**
+debendu-das.
 naveenraw25.
 patan116.
 Saileshlanka.
 sumanth1710.
 wendy-ha18.
-yansa-reece.
 yuvraj1107thapa.
 mo-dahir.
 dcord1x.
@@ -748,6 +748,7 @@ rene-el.
 rmedved84.
 src107.
 Tushnik-cyber.
+yansa-reece.
 fn20200323.
 pratyushasndev.
 stefanintech.
@@ -773,7 +774,6 @@ revantKulkarni.
 sumanth1710.
 trade12.
 wendy-ha18.
-yansa-reece.
 ttoter.
 AlphaEagle.
 JWITSM.
