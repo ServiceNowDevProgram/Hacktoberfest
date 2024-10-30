@@ -224,6 +224,7 @@ ivan-betev.
 **Top 50% contributors:**
 nowitsvashu.
 Suri123789.
+yansa-reece.
 Munnisona.
 Pradeep567iaf.
 RahmanM.
@@ -250,7 +251,6 @@ AnithaA09.
 Khasim-63993.
 ravichandra1998g.
 Tushnik-cyber.
-yansa-reece.
 at8807602.
 aykmrgit.
 dadhich-ashish.
@@ -702,6 +702,7 @@ mmaraj1.
 nowitsvashu.
 sanjivmeher.
 Suri123789.
+yansa-reece.
 aman2519.
 JonSandoval.
 Pradeep567iaf.
@@ -737,9 +738,9 @@ riya-vermaa.
 allenandreas.
 AnithaA09.
 anubhav-ritolia.
-apple9000.
 
 **Top 50% contributors:**
+apple9000.
 briangodfreydev.
 GauthamBellamkonda.
 Khasim-63993.
@@ -749,7 +750,6 @@ rene-el.
 rmedved84.
 src107.
 Tushnik-cyber.
-yansa-reece.
 fn20200323.
 pratyushasndev.
 stefanintech.
