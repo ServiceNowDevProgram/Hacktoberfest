@@ -308,6 +308,7 @@ hoederath.
 MGOPW.
 ShakthiSn.
 tejasathalye.
+tewariap.
 umangkedia92.
 akipatil16.
 amapal.
@@ -324,7 +325,6 @@ sachinggsingh.
 Saiprethaa.
 saitarun2499.
 Sravanik12.
-tewariap.
 TheRashRash.
 ultralegendary.
 YadlaMani.
@@ -848,14 +848,15 @@ Jaskaran-Techno.
 RagaChitraMankala.
 ShakthiSn.
 tejasathalye.
+tewariap.
 thameemskings.
 Thrizvi.
 umangkedia92.
 vk-cloud.
 4bode.
-abhay625.
 
 **Other contributors:**
+abhay625.
 akipatil16.
 amapal.
 ananthsridhar.
@@ -918,7 +919,6 @@ Shambu-K.
 speedy18.
 Sravanik12.
 Subhraneel77.
-tewariap.
 TheRashRash.
 thomasvogh.
 tomlozano.
