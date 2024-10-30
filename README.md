@@ -285,6 +285,7 @@ prithvibalakka.
 riya-misra-1.
 Sallu77.
 sheikhafsarzap.
+TechnologistTim.
 Thanai14.
 amigujarathi.
 TheShashank13.
@@ -323,7 +324,6 @@ sachinggsingh.
 Saiprethaa.
 saitarun2499.
 Sravanik12.
-TechnologistTim.
 tewariap.
 TheRashRash.
 ultralegendary.
@@ -814,6 +814,7 @@ prithvibalakka.
 Ratheshan03.
 Sallu77.
 tanu-profile.
+TechnologistTim.
 Thanai14.
 TheTreyKyle.
 thisnameissoclever.
@@ -853,9 +854,9 @@ umangkedia92.
 vk-cloud.
 4bode.
 abhay625.
-akipatil16.
 
 **Other contributors:**
+akipatil16.
 amapal.
 ananthsridhar.
 ankitshaw625.
@@ -917,7 +918,6 @@ Shambu-K.
 speedy18.
 Sravanik12.
 Subhraneel77.
-TechnologistTim.
 tewariap.
 TheRashRash.
 thomasvogh.
