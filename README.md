@@ -411,6 +411,7 @@ girishnagaraj09.
 Git-Snow-dev.
 GittyHarsha.
 GP-UOB.
+Halim--1.
 harishkm6689.
 Hashir524.
 Hecktoberfest.
@@ -1245,6 +1246,7 @@ greencarlos.
 guidugli.
 GuisseMaabo.
 HackoDev1530.
+Halim--1.
 han-le.
 Hanan-Ashraf.
 HannaGilbertson.
