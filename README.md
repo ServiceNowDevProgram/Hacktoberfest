@@ -288,6 +288,7 @@ Thanai14.
 amigujarathi.
 TheShashank13.
 pranavkhurana2011.
+vijaytalupula.
 aftab-mirza.
 ashu759.
 bhavyajain511.
@@ -297,7 +298,6 @@ harditsingh88.
 kumarinisha378.
 praisetoyt.
 Shreedevisnow.
-vijaytalupula.
 Beeram12.
 cschmidt82.
 csharpie.
@@ -821,6 +821,7 @@ TheShashank13.
 ewatch.
 pranavkhurana2011.
 rohantjoshi.
+vijaytalupula.
 1shabby.
 abhilash264.
 aftab-mirza.
@@ -835,7 +836,6 @@ praisetoyt.
 puneet94.
 Shreedevisnow.
 sisco0.
-vijaytalupula.
 ashaw7697.
 Beeram12.
 crooks-s.
