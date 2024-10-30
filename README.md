@@ -171,12 +171,12 @@ alkaChaudhary73.
 selvarun-umass.
 MartinStoyanoff.
 Chraiseto.
+Charanjet.
 himanshu7895.
 bkb68.
 Paulsylo25.
 sndevs-slacker-issue-reporter[bot].
 prashantmrshine.
-Charanjet.
 sravankadudhuri.
 spnegi.
 Dhruvyadav2000.
@@ -591,6 +591,7 @@ mohitchauhan-dev.
 mr-swann.
 anveshmupparaju.
 ravichandra1998g.
+Charanjet.
 himanshu7895.
 ivan-betev.
 Munnisona.
@@ -603,7 +604,6 @@ sndevs-slacker-issue-reporter[bot].
 VaishnaviLathkar98.
 hafsa-asif.
 ovarn.
-Charanjet.
 devinvalencia.
 mskoddow.
 QI-XING.
