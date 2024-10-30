@@ -255,12 +255,13 @@ dadhich-ashish.
 gowdah.
 stefanintech.
 vhudlikar.
+chaitaliKundu.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
 debendu-das.
-naveenraw25.
 
 **Other contributors:**
+naveenraw25.
 patan116.
 Saileshlanka.
 sumanth1710.
@@ -268,7 +269,6 @@ wendy-ha18.
 yansa-reece.
 yuvraj1107thapa.
 mo-dahir.
-chaitaliKundu.
 dcord1x.
 rohi-v.
 SaiSankar1309.
@@ -758,6 +758,7 @@ Sagar-agarwal.
 vhudlikar.
 wiresgit.
 yourepicservices.
+chaitaliKundu.
 ChecksumFailed.
 markroethof.
 S-w-a-p-n-i-l-22.
@@ -785,7 +786,6 @@ sonamtiwari8.
 Adiana3308.
 akhoshnood.
 allam1234.
-chaitaliKundu.
 Decoder-Paul.
 DhanushNehru.
 jesalynrose.
