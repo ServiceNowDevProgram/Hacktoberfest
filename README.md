@@ -270,6 +270,7 @@ Saileshlanka.
 sumanth1710.
 yuvraj1107thapa.
 mo-dahir.
+vijaytalupula.
 dcord1x.
 rohi-v.
 SaiSankar1309.
@@ -290,7 +291,6 @@ Thanai14.
 amigujarathi.
 TheShashank13.
 pranavkhurana2011.
-vijaytalupula.
 aftab-mirza.
 ashu759.
 bhavyajain511.
@@ -781,6 +781,7 @@ ttoter.
 AlphaEagle.
 JWITSM.
 mo-dahir.
+vijaytalupula.
 dcord1x.
 djunaid.
 Haile-08.
@@ -824,7 +825,6 @@ TheShashank13.
 ewatch.
 pranavkhurana2011.
 rohantjoshi.
-vijaytalupula.
 1shabby.
 abhilash264.
 aftab-mirza.
