@@ -306,6 +306,7 @@ MGOPW.
 ShakthiSn.
 tejasathalye.
 umangkedia92.
+vijaytalupula.
 akipatil16.
 amapal.
 anurags10.
@@ -323,7 +324,6 @@ saitarun2499.
 Sravanik12.
 TheRashRash.
 ultralegendary.
-vijaytalupula.
 YadlaMani.
 Danmax.
 kalyan120694.
@@ -846,14 +846,15 @@ tejasathalye.
 thameemskings.
 Thrizvi.
 umangkedia92.
+vijaytalupula.
 vk-cloud.
 4bode.
 abhay625.
 akipatil16.
 amapal.
-ananthsridhar.
 
 **Other contributors:**
+ananthsridhar.
 ankitshaw625.
 anurags10.
 Arpan-InGen.
@@ -918,7 +919,6 @@ thomasvogh.
 tomlozano.
 trishitapingolia.
 ultralegendary.
-vijaytalupula.
 workpurposeusername.
 YadlaMani.
 zaidongy.
