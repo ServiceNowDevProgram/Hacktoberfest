@@ -212,6 +212,7 @@ captainbraddles.
 prynacshrma.
 QI-XING.
 shridk.
+stwinkle.
 amoore-coder.
 anveshmupparaju.
 katsiarynasoshyna.
@@ -219,9 +220,9 @@ mandeepkaran.
 mebeingmustaq.
 vamsi0777.
 HarshLMP870.
-ivan-betev.
 
 **Top 50% contributors:**
+ivan-betev.
 nowitsvashu.
 Suri123789.
 yansa-reece.
@@ -239,7 +240,6 @@ jahnaviT2003.
 manrick.
 Soumyadeep10.
 Srikanth1306.
-stwinkle.
 techTrekwithAJ.
 chaitaliKundu.
 KedarisettiSreeVamsi.
@@ -648,6 +648,7 @@ Yokesh0811.
 MarcMouries.
 sn-ajb.
 DavidMarcial.
+stwinkle.
 techYESlogyXplorer.
 alyaanbasha.
 ariyadmir.
@@ -677,7 +678,6 @@ dadhich-ashish.
 girishnagaraj09.
 Jayden-Chiu.
 OrgovanGeza.
-stwinkle.
 arhaan2019.
 designitsecure.
 llipovsky.
