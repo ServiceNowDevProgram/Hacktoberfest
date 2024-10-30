@@ -256,9 +256,10 @@ gowdah.
 kmohit2809.
 stefanintech.
 vhudlikar.
-S-w-a-p-n-i-l-22.
+kumarinisha378.
 
 **Other contributors:**
+S-w-a-p-n-i-l-22.
 SNProductOwner.
 debendu-das.
 naveenraw25.
@@ -271,7 +272,6 @@ yuvraj1107thapa.
 mo-dahir.
 dvn-lazywinner.
 dcord1x.
-kumarinisha378.
 rohi-v.
 SaiSankar1309.
 soham-shee.
@@ -757,6 +757,7 @@ vhudlikar.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
+kumarinisha378.
 markroethof.
 osc99.
 S-w-a-p-n-i-l-22.
@@ -787,7 +788,6 @@ allam1234.
 Decoder-Paul.
 DhanushNehru.
 jesalynrose.
-kumarinisha378.
 Ladirinia.
 miracc.
 MiroslawBuszek.
