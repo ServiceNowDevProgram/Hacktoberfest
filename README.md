@@ -176,15 +176,15 @@ himanshu7895.
 bkb68.
 Paulsylo25.
 sndevs-slacker-issue-reporter[bot].
+DanielMadsenDK.
 prashantmrshine.
 sravankadudhuri.
 spnegi.
 Dhruvyadav2000.
-eriemer1.
 
 **Top 25% contributors:**
+eriemer1.
 bgrk005.
-DanielMadsenDK.
 shraddhakadam301298.
 Adil404.
 Atul-LNG.
@@ -603,6 +603,7 @@ debendu-das.
 manrick.
 sndevs-slacker-issue-reporter[bot].
 VaishnaviLathkar98.
+DanielMadsenDK.
 hafsa-asif.
 ovarn.
 devinvalencia.
@@ -617,7 +618,6 @@ Dhruvyadav2000.
 Litwilly.
 MRSinghRajat.
 oasif.
-DanielMadsenDK.
 jonahpiascik.
 soerenmaucher.
 
