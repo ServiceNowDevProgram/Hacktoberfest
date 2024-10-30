@@ -297,6 +297,7 @@ harditsingh88.
 kumarinisha378.
 praisetoyt.
 Shreedevisnow.
+vijaytalupula.
 Beeram12.
 cschmidt82.
 csharpie.
@@ -306,7 +307,6 @@ MGOPW.
 ShakthiSn.
 tejasathalye.
 umangkedia92.
-vijaytalupula.
 akipatil16.
 amapal.
 anurags10.
@@ -835,6 +835,7 @@ praisetoyt.
 puneet94.
 Shreedevisnow.
 sisco0.
+vijaytalupula.
 ashaw7697.
 Beeram12.
 crooks-s.
@@ -847,7 +848,6 @@ tejasathalye.
 thameemskings.
 Thrizvi.
 umangkedia92.
-vijaytalupula.
 vk-cloud.
 4bode.
 abhay625.
