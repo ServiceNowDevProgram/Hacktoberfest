@@ -306,6 +306,7 @@ ShakthiSn.
 tejasathalye.
 umangkedia92.
 akipatil16.
+amapal.
 anurags10.
 ChndrshP.
 devalcodes.
@@ -379,7 +380,6 @@ ahmadwhet.
 AKASHDHARDUBEY.
 Akshay-sri0001.
 alekseylee.
-amapal.
 Ananya54321.
 Anoop21-oss-a.
 Anson-Mathew.
@@ -849,11 +849,12 @@ vk-cloud.
 4bode.
 abhay625.
 akipatil16.
+amapal.
 ananthsridhar.
 ankitshaw625.
-anurags10.
 
 **Other contributors:**
+anurags10.
 Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
@@ -1080,7 +1081,6 @@ aliceapps.
 allenmxh.
 AlphieKiu.
 aman-kumar-004.
-amapal.
 amdhavalikar.
 Amitanand0123.
 amrita06-max.
