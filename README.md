@@ -254,21 +254,21 @@ at8807602.
 aykmrgit.
 dadhich-ashish.
 gowdah.
+dvn-lazywinner.
 salma-93.
 stefanintech.
 vhudlikar.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
-debendu-das.
 
 **Other contributors:**
+debendu-das.
 naveenraw25.
 patan116.
 Saileshlanka.
 sumanth1710.
 wendy-ha18.
 yuvraj1107thapa.
-dvn-lazywinner.
 mo-dahir.
 dcord1x.
 rohi-v.
@@ -753,6 +753,7 @@ src107.
 Tushnik-cyber.
 fn20200323.
 pratyushasndev.
+dvn-lazywinner.
 salma-93.
 stefanintech.
 homealone07.
@@ -778,7 +779,6 @@ trade12.
 wendy-ha18.
 ttoter.
 AlphaEagle.
-dvn-lazywinner.
 JWITSM.
 mo-dahir.
 dcord1x.
