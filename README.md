@@ -250,6 +250,7 @@ AnithaA09.
 Khasim-63993.
 ravichandra1998g.
 Tushnik-cyber.
+wendy-ha18.
 at8807602.
 aykmrgit.
 dadhich-ashish.
@@ -259,15 +260,14 @@ salma-93.
 stefanintech.
 vhudlikar.
 S-w-a-p-n-i-l-22.
-SNProductOwner.
 
 **Other contributors:**
+SNProductOwner.
 debendu-das.
 naveenraw25.
 patan116.
 Saileshlanka.
 sumanth1710.
-wendy-ha18.
 yuvraj1107thapa.
 mo-dahir.
 dcord1x.
@@ -751,6 +751,7 @@ rene-el.
 rmedved84.
 src107.
 Tushnik-cyber.
+wendy-ha18.
 fn20200323.
 pratyushasndev.
 dvn-lazywinner.
@@ -776,7 +777,6 @@ patan116.
 revantKulkarni.
 sumanth1710.
 trade12.
-wendy-ha18.
 ttoter.
 AlphaEagle.
 JWITSM.
