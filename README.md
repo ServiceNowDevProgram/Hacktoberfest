@@ -218,9 +218,9 @@ amoore-coder.
 anveshmupparaju.
 katsiarynasoshyna.
 mandeepkaran.
+mebeingmustaq.
 
 **Top 50% contributors:**
-mebeingmustaq.
 chelming.
 HarshLMP870.
 ivan-betev.
@@ -256,9 +256,9 @@ gowdah.
 kmohit2809.
 stefanintech.
 vhudlikar.
+S-w-a-p-n-i-l-22.
 
 **Other contributors:**
-S-w-a-p-n-i-l-22.
 SNProductOwner.
 debendu-das.
 naveenraw25.
@@ -391,6 +391,7 @@ BH0LL.
 BhageshChavan.
 BhavishyaA516.
 blindaks.
+chaytarak.
 ChilloutSenthil.
 CReddySurendra.
 danieltayal07.
@@ -731,9 +732,9 @@ riya-vermaa.
 99Saurabh19.
 allenandreas.
 AnithaA09.
+anubhav-ritolia.
 
 **Top 50% contributors:**
-anubhav-ritolia.
 apple9000.
 briangodfreydev.
 GauthamBellamkonda.
@@ -844,9 +845,9 @@ vk-cloud.
 4bode.
 abhay625.
 akipatil16.
+ananthsridhar.
 
 **Other contributors:**
-ananthsridhar.
 ankitshaw625.
 anurags10.
 Arpan-InGen.
@@ -1139,6 +1140,7 @@ chalamalamahesh.
 chandumishra21.
 CharanjeetSi.
 Charlesemesobum.
+chaytarak.
 cheshtapathak.
 ChocolateTilt.
 ChristineMayfield.
