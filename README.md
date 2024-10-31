@@ -249,7 +249,6 @@ KedarisettiSreeVamsi.
 kmohit2809.
 mohitchauhan-dev.
 NowRishi.
-usamamohammed.
 99Saurabh19.
 AnithaA09.
 Khasim-63993.
@@ -260,13 +259,14 @@ aykmrgit.
 dadhich-ashish.
 gowdah.
 stefanintech.
+pallipoina92.
 
 **Other contributors:**
-pallipoina92.
 vhudlikar.
 Hamritha0506.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
+usamamohammed.
 debendu-das.
 naveenraw25.
 patan116.
@@ -745,12 +745,11 @@ harisnad.
 KedarisettiSreeVamsi.
 NowRishi.
 riya-vermaa.
-usamamohammed.
 99Saurabh19.
 allenandreas.
+AnithaA09.
 
 **Top 50% contributors:**
-AnithaA09.
 anubhav-ritolia.
 apple9000.
 briangodfreydev.
@@ -778,6 +777,7 @@ Hamritha0506.
 markroethof.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
+usamamohammed.
 anguspalmer.
 Badal2k23.
 bhavyajain511.
