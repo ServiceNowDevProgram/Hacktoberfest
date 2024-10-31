@@ -241,7 +241,6 @@ abhrajyotikanrar.
 Harshuu870.
 jahnaviT2003.
 manrick.
-pallipoina92.
 Srikanth1306.
 techTrekwithAJ.
 chaitaliKundu.
@@ -259,6 +258,7 @@ aykmrgit.
 dadhich-ashish.
 gowdah.
 stefanintech.
+pallipoina92.
 
 **Other contributors:**
 vhudlikar.
@@ -731,7 +731,6 @@ Harshuu870.
 hrichiksite.
 Iuliak.
 jahnaviT2003.
-pallipoina92.
 RaunakScarlet.
 Srikanth1306.
 techTrekwithAJ.
@@ -746,9 +745,9 @@ NowRishi.
 riya-vermaa.
 99Saurabh19.
 allenandreas.
+AnithaA09.
 
 **Top 50% contributors:**
-AnithaA09.
 anubhav-ritolia.
 apple9000.
 briangodfreydev.
@@ -766,6 +765,7 @@ stefanintech.
 homealone07.
 Iamsant.
 jeremyrubio27.
+pallipoina92.
 Sagar-agarwal.
 vhudlikar.
 wiresgit.
