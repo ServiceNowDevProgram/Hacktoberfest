@@ -263,6 +263,7 @@ gowdah.
 
 **Other contributors:**
 stefanintech.
+vijaytalupula.
 vhudlikar.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
@@ -277,7 +278,6 @@ yuvraj1107thapa.
 dvn-lazywinner.
 mo-dahir.
 nag39g.
-vijaytalupula.
 dcord1x.
 rohi-v.
 SaiSankar1309.
@@ -766,6 +766,7 @@ Tushnik-cyber.
 fn20200323.
 pratyushasndev.
 stefanintech.
+vijaytalupula.
 homealone07.
 Iamsant.
 jeremyrubio27.
@@ -793,7 +794,6 @@ dvn-lazywinner.
 JWITSM.
 mo-dahir.
 nag39g.
-vijaytalupula.
 dcord1x.
 djunaid.
 Haile-08.
