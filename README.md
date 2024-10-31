@@ -257,11 +257,10 @@ at8807602.
 aykmrgit.
 dadhich-ashish.
 gowdah.
-dvn-lazywinner.
 stefanintech.
+vhudlikar.
 
 **Other contributors:**
-vhudlikar.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
 TechnologistTim.
@@ -272,6 +271,7 @@ Saileshlanka.
 Southpaw09.
 sumanth1710.
 yuvraj1107thapa.
+dvn-lazywinner.
 mo-dahir.
 vijaytalupula.
 kumarinisha378.
@@ -761,7 +761,6 @@ src107.
 Tushnik-cyber.
 fn20200323.
 pratyushasndev.
-dvn-lazywinner.
 stefanintech.
 homealone07.
 Iamsant.
@@ -787,6 +786,7 @@ sumanth1710.
 trade12.
 ttoter.
 AlphaEagle.
+dvn-lazywinner.
 JWITSM.
 mo-dahir.
 vijaytalupula.
