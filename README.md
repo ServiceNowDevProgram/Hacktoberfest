@@ -219,10 +219,11 @@ Soumyadeep10.
 amoore-coder.
 anveshmupparaju.
 katsiarynasoshyna.
+kmohit2809.
 mandeepkaran.
-mebeingmustaq.
 
 **Top 50% contributors:**
+mebeingmustaq.
 vamsi0777.
 HarshLMP870.
 ivan-betev.
@@ -248,7 +249,6 @@ techTrekwithAJ.
 chaitaliKundu.
 Hamritha0506.
 KedarisettiSreeVamsi.
-kmohit2809.
 mohitchauhan-dev.
 NowRishi.
 99Saurabh19.
