@@ -258,9 +258,10 @@ dadhich-ashish.
 gowdah.
 dvn-lazywinner.
 stefanintech.
-vhudlikar.
+pallipoina92.
 
 **Other contributors:**
+vhudlikar.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
 TechnologistTim.
@@ -273,7 +274,6 @@ yuvraj1107thapa.
 mo-dahir.
 vijaytalupula.
 kumarinisha378.
-pallipoina92.
 dcord1x.
 rohi-v.
 SaiSankar1309.
@@ -764,6 +764,7 @@ stefanintech.
 homealone07.
 Iamsant.
 jeremyrubio27.
+pallipoina92.
 Sagar-agarwal.
 vhudlikar.
 wiresgit.
@@ -791,7 +792,6 @@ dcord1x.
 djunaid.
 Haile-08.
 kumarinisha378.
-pallipoina92.
 rohi-v.
 sonamtiwari8.
 Adiana3308.
