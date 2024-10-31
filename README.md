@@ -239,6 +239,7 @@ salma-93.
 abhrajyotikanrar.
 Harshuu870.
 jahnaviT2003.
+kumarinisha378.
 manrick.
 pallipoina92.
 Srikanth1306.
@@ -258,7 +259,6 @@ aykmrgit.
 dadhich-ashish.
 gowdah.
 stefanintech.
-kumarinisha378.
 vhudlikar.
 
 **Other contributors:**
@@ -731,6 +731,7 @@ Harshuu870.
 hrichiksite.
 Iuliak.
 jahnaviT2003.
+kumarinisha378.
 pallipoina92.
 RaunakScarlet.
 Srikanth1306.
@@ -747,9 +748,9 @@ riya-vermaa.
 99Saurabh19.
 allenandreas.
 AnithaA09.
-anubhav-ritolia.
 
 **Top 50% contributors:**
+anubhav-ritolia.
 apple9000.
 briangodfreydev.
 GauthamBellamkonda.
@@ -766,7 +767,6 @@ stefanintech.
 homealone07.
 Iamsant.
 jeremyrubio27.
-kumarinisha378.
 Sagar-agarwal.
 vhudlikar.
 wiresgit.
