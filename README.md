@@ -208,6 +208,7 @@ mioyokohama.
 priyasnexpert.
 templetontsai.
 chelming.
+wendy-ha18.
 pradeepthipani.
 animeshdasgit.
 captainbraddles.
@@ -219,15 +220,14 @@ amoore-coder.
 anveshmupparaju.
 katsiarynasoshyna.
 mandeepkaran.
-mebeingmustaq.
 
 **Top 50% contributors:**
+mebeingmustaq.
 vamsi0777.
 HarshLMP870.
 ivan-betev.
 nowitsvashu.
 Suri123789.
-wendy-ha18.
 yansa-reece.
 Munnisona.
 Pradeep567iaf.
@@ -675,6 +675,7 @@ templetontsai.
 b1naryst0rm.
 namrataghorpade.
 sdgrube2.
+wendy-ha18.
 AdilBasha1SAP.
 bradtiltonnow.
 pradeepthipani.
@@ -711,7 +712,6 @@ mmaraj1.
 nowitsvashu.
 sanjivmeher.
 Suri123789.
-wendy-ha18.
 yansa-reece.
 aman2519.
 JonSandoval.
