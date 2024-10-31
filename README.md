@@ -291,7 +291,6 @@ sheikhafsarzap.
 Thanai14.
 amigujarathi.
 TheShashank13.
-abdgeio.
 pranavkhurana2011.
 aftab-mirza.
 ashu759.
@@ -334,6 +333,7 @@ Danmax.
 kalyan120694.
 nvprav.
 Ratheshan03.
+abdgeio.
 abhishekchavan-git.
 chaytarak.
 DennisRutherford.
@@ -828,7 +828,6 @@ thisnameissoclever.
 ujjwalprem.
 mockspeed.
 TheShashank13.
-abdgeio.
 ewatch.
 pranavkhurana2011.
 rohantjoshi.
@@ -861,9 +860,9 @@ Thrizvi.
 umangkedia92.
 vk-cloud.
 4bode.
+abhay625.
 
 **Other contributors:**
-abhay625.
 akipatil16.
 amapal.
 ananthsridhar.
@@ -939,6 +938,7 @@ jon-lind-sn.
 kalyan120694.
 manoj424.
 ToosinDada.
+abdgeio.
 abhishekchavan-git.
 bendouglass.
 Deraged.
