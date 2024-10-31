@@ -164,9 +164,9 @@ ankitshu.
 ynr-ram.
 
 **Top 10% contributors:**
+Chraiseto.
 YTejaswini18.
 aswamy93.
-Chraiseto.
 alkaChaudhary73.
 Rampriya-S.
 selvarun-umass.
@@ -566,6 +566,7 @@ sychi77.
 ronaldkarim.
 azeezgaa.
 deepak-64742.
+Chraiseto.
 rafzk.
 anillande90.
 ayleeandersen.
@@ -574,10 +575,9 @@ Abhishekchowdarapu.
 alikuttyka.
 YTejaswini18.
 aswamy93.
-BadalHub.
 
 **Top 10% contributors:**
-Chraiseto.
+BadalHub.
 MrChrisE.
 vandna07.
 at8807602.
