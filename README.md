@@ -301,7 +301,6 @@ harditsingh88.
 kumarinisha378.
 praisetoyt.
 Shreedevisnow.
-tewariap.
 Beeram12.
 cschmidt82.
 csharpie.
@@ -342,6 +341,7 @@ mmaraj1.
 mvkassak.
 Piyushsahu99.
 saketh-22.
+tewariap.
 abiramiyohesh.
 AdibaNaushad.
 ADITYATIWARI342005.
@@ -845,7 +845,6 @@ praisetoyt.
 puneet94.
 Shreedevisnow.
 sisco0.
-tewariap.
 ashaw7697.
 Beeram12.
 crooks-s.
@@ -861,9 +860,9 @@ Thrizvi.
 umangkedia92.
 vk-cloud.
 4bode.
+abhay625.
 
 **Other contributors:**
-abhay625.
 akipatil16.
 ananthsridhar.
 ankitshaw625.
@@ -970,6 +969,7 @@ sagarbhadke08.
 saketh-22.
 sohailkhilji.
 SweetPoodle.
+tewariap.
 varunharih.
 vpeinado.
 158w5a0532.
