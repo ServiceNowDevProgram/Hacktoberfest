@@ -245,6 +245,7 @@ manrick.
 Srikanth1306.
 techTrekwithAJ.
 chaitaliKundu.
+Hamritha0506.
 KedarisettiSreeVamsi.
 kmohit2809.
 mohitchauhan-dev.
@@ -259,11 +260,10 @@ aykmrgit.
 dadhich-ashish.
 gowdah.
 stefanintech.
-pallipoina92.
 
 **Other contributors:**
+pallipoina92.
 vhudlikar.
-Hamritha0506.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
 debendu-das.
@@ -741,15 +741,16 @@ adarshsingh0205.
 annaydas.
 chaitaliKundu.
 goranlundqvist.
+Hamritha0506.
 harisnad.
 KedarisettiSreeVamsi.
 NowRishi.
 riya-vermaa.
 99Saurabh19.
 allenandreas.
-AnithaA09.
 
 **Top 50% contributors:**
+AnithaA09.
 anubhav-ritolia.
 apple9000.
 briangodfreydev.
@@ -773,7 +774,6 @@ vhudlikar.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
-Hamritha0506.
 markroethof.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
