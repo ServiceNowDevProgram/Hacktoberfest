@@ -226,6 +226,7 @@ vamsi0777.
 HarshLMP870.
 ivan-betev.
 nowitsvashu.
+Southpaw09.
 Suri123789.
 yansa-reece.
 Munnisona.
@@ -253,7 +254,6 @@ NowRishi.
 AnithaA09.
 Khasim-63993.
 ravichandra1998g.
-Southpaw09.
 Tushnik-cyber.
 at8807602.
 aykmrgit.
@@ -711,6 +711,7 @@ Himanshu-skb-oo7.
 mmaraj1.
 nowitsvashu.
 sanjivmeher.
+Southpaw09.
 Suri123789.
 yansa-reece.
 aman2519.
@@ -747,9 +748,9 @@ NowRishi.
 riya-vermaa.
 99Saurabh19.
 allenandreas.
-AnithaA09.
 
 **Top 50% contributors:**
+AnithaA09.
 anubhav-ritolia.
 apple9000.
 briangodfreydev.
@@ -759,7 +760,6 @@ odinsride.
 piyusalunke123.
 rene-el.
 rmedved84.
-Southpaw09.
 src107.
 Tushnik-cyber.
 fn20200323.
