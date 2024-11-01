@@ -263,6 +263,7 @@ aykmrgit.
 
 **Other contributors:**
 dadhich-ashish.
+dvn-lazywinner.
 gowdah.
 stefanintech.
 vhudlikar.
@@ -275,7 +276,6 @@ Saileshlanka.
 sheikhafsarzap.
 sumanth1710.
 yuvraj1107thapa.
-dvn-lazywinner.
 mo-dahir.
 nag39g.
 kumarinisha378.
@@ -765,6 +765,7 @@ rene-el.
 rmedved84.
 src107.
 Tushnik-cyber.
+dvn-lazywinner.
 fn20200323.
 pratyushasndev.
 stefanintech.
@@ -788,7 +789,6 @@ patan116.
 revantKulkarni.
 sumanth1710.
 trade12.
-dvn-lazywinner.
 ttoter.
 AlphaEagle.
 JWITSM.
