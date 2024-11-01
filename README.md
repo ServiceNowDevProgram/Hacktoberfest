@@ -198,6 +198,7 @@ VaishnaviLathkar98.
 Mexiprince.
 ronaldkarim.
 TRIGGEREDcoder.
+vijaytalupula.
 ariyadmir.
 prash5595.
 stwinkle.
@@ -214,7 +215,6 @@ wendy-ha18.
 pradeepthipani.
 animeshdasgit.
 captainbraddles.
-vijaytalupula.
 prynacshrma.
 QI-XING.
 shridk.
@@ -658,6 +658,7 @@ MarcMouries.
 sn-ajb.
 DavidMarcial.
 techYESlogyXplorer.
+vijaytalupula.
 alyaanbasha.
 ariyadmir.
 gregorwmail.
@@ -688,7 +689,6 @@ dadhich-ashish.
 girishnagaraj09.
 Jayden-Chiu.
 OrgovanGeza.
-vijaytalupula.
 arhaan2019.
 designitsecure.
 llipovsky.
