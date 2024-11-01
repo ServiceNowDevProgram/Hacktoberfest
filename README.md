@@ -174,11 +174,11 @@ MartinStoyanoff.
 DanielMadsenDK.
 Charanjet.
 himanshu7895.
+pallipoina92.
 bkb68.
 Paulsylo25.
 sndevs-slacker-issue-reporter[bot].
 prashantmrshine.
-pallipoina92.
 sravankadudhuri.
 spnegi.
 Dhruvyadav2000.
@@ -609,6 +609,7 @@ Charanjet.
 himanshu7895.
 ivan-betev.
 Munnisona.
+pallipoina92.
 bkb68.
 prashantmrshine.
 SrijanPatwa.
@@ -620,7 +621,6 @@ hafsa-asif.
 ovarn.
 devinvalencia.
 mskoddow.
-pallipoina92.
 QI-XING.
 sheikhafsarzap.
 sravankadudhuri.
