@@ -233,7 +233,6 @@ nowitsvashu.
 Southpaw09.
 Suri123789.
 yansa-reece.
-dvn-lazywinner.
 Munnisona.
 Pradeep567iaf.
 RahmanM.
@@ -260,10 +259,11 @@ Khasim-63993.
 ravichandra1998g.
 Tushnik-cyber.
 at8807602.
+aykmrgit.
 
 **Other contributors:**
-aykmrgit.
 dadhich-ashish.
+dvn-lazywinner.
 gowdah.
 nag39g.
 stefanintech.
@@ -718,7 +718,6 @@ Southpaw09.
 Suri123789.
 yansa-reece.
 aman2519.
-dvn-lazywinner.
 JonSandoval.
 Pradeep567iaf.
 vermaamit1664.
@@ -748,9 +747,9 @@ Hamritha0506.
 harisnad.
 KedarisettiSreeVamsi.
 NowRishi.
+riya-vermaa.
 
 **Top 50% contributors:**
-riya-vermaa.
 TechnologistTim.
 99Saurabh19.
 allenandreas.
@@ -766,6 +765,7 @@ rene-el.
 rmedved84.
 src107.
 Tushnik-cyber.
+dvn-lazywinner.
 fn20200323.
 pratyushasndev.
 nag39g.
