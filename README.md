@@ -207,6 +207,7 @@ isaac-vicentini.
 kmohit2809.
 mioyokohama.
 priyasnexpert.
+TechnologistTim.
 templetontsai.
 chelming.
 wendy-ha18.
@@ -220,12 +221,11 @@ Soumyadeep10.
 AdityaBala2026.
 amoore-coder.
 anveshmupparaju.
-katsiarynasoshyna.
 
 **Top 50% contributors:**
+katsiarynasoshyna.
 mandeepkaran.
 mebeingmustaq.
-TechnologistTim.
 vamsi0777.
 HarshLMP870.
 ivan-betev.
@@ -672,6 +672,7 @@ mioyokohama.
 mjonssonme.
 nthumma.
 priyasnexpert.
+TechnologistTim.
 templetontsai.
 b1naryst0rm.
 namrataghorpade.
@@ -706,7 +707,6 @@ mandeepkaran.
 mebeingmustaq.
 ReginaldFawcett.
 Saileshlanka.
-TechnologistTim.
 thorn91.
 vamsi0777.
 HarshLMP870.
