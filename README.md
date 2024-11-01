@@ -264,7 +264,6 @@ aykmrgit.
 **Other contributors:**
 dadhich-ashish.
 gowdah.
-nag39g.
 stefanintech.
 kumarinisha378.
 vhudlikar.
@@ -279,6 +278,7 @@ sumanth1710.
 yuvraj1107thapa.
 dvn-lazywinner.
 mo-dahir.
+nag39g.
 dcord1x.
 rohi-v.
 SaiSankar1309.
@@ -767,7 +767,6 @@ src107.
 Tushnik-cyber.
 fn20200323.
 pratyushasndev.
-nag39g.
 stefanintech.
 homealone07.
 Iamsant.
@@ -795,6 +794,7 @@ AlphaEagle.
 dvn-lazywinner.
 JWITSM.
 mo-dahir.
+nag39g.
 dcord1x.
 djunaid.
 Haile-08.
