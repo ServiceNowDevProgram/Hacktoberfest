@@ -266,6 +266,7 @@ dadhich-ashish.
 gowdah.
 nag39g.
 stefanintech.
+vijaytalupula.
 vhudlikar.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
@@ -278,7 +279,6 @@ sumanth1710.
 yuvraj1107thapa.
 dvn-lazywinner.
 mo-dahir.
-vijaytalupula.
 dcord1x.
 rohi-v.
 SaiSankar1309.
@@ -769,6 +769,7 @@ fn20200323.
 pratyushasndev.
 nag39g.
 stefanintech.
+vijaytalupula.
 homealone07.
 Iamsant.
 jeremyrubio27.
@@ -794,7 +795,6 @@ AlphaEagle.
 dvn-lazywinner.
 JWITSM.
 mo-dahir.
-vijaytalupula.
 dcord1x.
 djunaid.
 Haile-08.
