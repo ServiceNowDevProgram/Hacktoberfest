@@ -256,15 +256,15 @@ NowRishi.
 TechnologistTim.
 99Saurabh19.
 AnithaA09.
+dvn-lazywinner.
 Khasim-63993.
 ravichandra1998g.
 Tushnik-cyber.
-at8807602.
 
 **Other contributors:**
+at8807602.
 aykmrgit.
 dadhich-ashish.
-dvn-lazywinner.
 gowdah.
 nag39g.
 stefanintech.
@@ -758,6 +758,7 @@ AnithaA09.
 anubhav-ritolia.
 apple9000.
 briangodfreydev.
+dvn-lazywinner.
 GauthamBellamkonda.
 Khasim-63993.
 odinsride.
@@ -766,7 +767,6 @@ rene-el.
 rmedved84.
 src107.
 Tushnik-cyber.
-dvn-lazywinner.
 fn20200323.
 pratyushasndev.
 nag39g.
