@@ -252,6 +252,7 @@ Hamritha0506.
 KedarisettiSreeVamsi.
 mohitchauhan-dev.
 NowRishi.
+TechnologistTim.
 99Saurabh19.
 AnithaA09.
 Khasim-63993.
@@ -259,16 +260,15 @@ ravichandra1998g.
 Tushnik-cyber.
 at8807602.
 aykmrgit.
-dadhich-ashish.
 
 **Other contributors:**
+dadhich-ashish.
 gowdah.
 nag39g.
 stefanintech.
 vhudlikar.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
-TechnologistTim.
 debendu-das.
 naveenraw25.
 patan116.
@@ -750,6 +750,7 @@ NowRishi.
 riya-vermaa.
 
 **Top 50% contributors:**
+TechnologistTim.
 99Saurabh19.
 allenandreas.
 AnithaA09.
@@ -779,7 +780,6 @@ ChecksumFailed.
 markroethof.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
-TechnologistTim.
 anguspalmer.
 Badal2k23.
 bhavyajain511.
