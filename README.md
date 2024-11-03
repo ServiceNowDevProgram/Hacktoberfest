@@ -516,6 +516,7 @@ wave-inguane.
 xjfdzn.
 YDdraigGoch70.
 yrozo28.
+zailugao.
 
 ## Leaderboard (all time):
 
@@ -1642,5 +1643,6 @@ yay-jake.
 YDdraigGoch70.
 youthinkasido.
 yrozo28.
+zailugao.
 zerus83.
 zomsik.
