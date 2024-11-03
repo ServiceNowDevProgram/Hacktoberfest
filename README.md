@@ -181,9 +181,10 @@ pallipoina92.
 sravankadudhuri.
 kylburns89.
 spnegi.
-Dhruvyadav2000.
+chelming.
 
 **Top 25% contributors:**
+Dhruvyadav2000.
 eriemer1.
 bgrk005.
 shraddhakadam301298.
@@ -195,7 +196,6 @@ bird-03.
 MYaswanth28.
 shreyawani98.
 VaishnaviLathkar98.
-chelming.
 Mexiprince.
 ronaldkarim.
 TRIGGEREDcoder.
@@ -538,8 +538,8 @@ eriemer1.
 ynr-ram.
 ishaanshoor.
 mgopw.
-Jaspalsinghchot.
 chelming.
+Jaspalsinghchot.
 bird-03.
 kmxo.
 DavidArthurCole.
