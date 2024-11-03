@@ -176,12 +176,12 @@ himanshu7895.
 bkb68.
 Paulsylo25.
 sndevs-slacker-issue-reporter[bot].
+chelming.
 prashantmrshine.
 pallipoina92.
 sravankadudhuri.
 kylburns89.
 spnegi.
-chelming.
 
 **Top 25% contributors:**
 Dhruvyadav2000.
