@@ -171,8 +171,8 @@ aswamy93.
 alkaChaudhary73.
 selvarun-umass.
 MartinStoyanoff.
-DanielMadsenDK.
 chelming.
+DanielMadsenDK.
 himanshu7895.
 sndevs-slacker-issue-reporter[bot].
 bkb68.
