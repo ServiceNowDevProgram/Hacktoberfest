@@ -172,11 +172,11 @@ alkaChaudhary73.
 selvarun-umass.
 MartinStoyanoff.
 DanielMadsenDK.
+chelming.
 himanshu7895.
 sndevs-slacker-issue-reporter[bot].
 bkb68.
 Paulsylo25.
-chelming.
 prashantmrshine.
 pallipoina92.
 sravankadudhuri.
