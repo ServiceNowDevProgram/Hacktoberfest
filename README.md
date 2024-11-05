@@ -166,8 +166,8 @@ Rampriya-S.
 **Top 10% contributors:**
 404paige.
 ynr-ram.
-YTejaswini18.
 aswamy93.
+YTejaswini18.
 alkaChaudhary73.
 chelming.
 selvarun-umass.
@@ -574,8 +574,8 @@ ayleeandersen.
 gowdah.
 Abhishekchowdarapu.
 alikuttyka.
-YTejaswini18.
 aswamy93.
+YTejaswini18.
 
 **Top 10% contributors:**
 BadalHub.
