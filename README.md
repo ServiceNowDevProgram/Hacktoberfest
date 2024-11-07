@@ -173,8 +173,8 @@ chelming.
 selvarun-umass.
 MartinStoyanoff.
 DanielMadsenDK.
-himanshu7895.
 sndevs-slacker-issue-reporter[bot].
+himanshu7895.
 bkb68.
 Paulsylo25.
 prashantmrshine.
@@ -605,12 +605,12 @@ DanielMadsenDK.
 Danmax.
 mohitchauhan-dev.
 mr-swann.
+sndevs-slacker-issue-reporter[bot].
 anveshmupparaju.
 ravichandra1998g.
 himanshu7895.
 ivan-betev.
 Munnisona.
-sndevs-slacker-issue-reporter[bot].
 bkb68.
 prashantmrshine.
 SrijanPatwa.
