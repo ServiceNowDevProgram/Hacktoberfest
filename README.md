@@ -166,9 +166,9 @@ Rampriya-S.
 **Top 10% contributors:**
 404paige.
 ynr-ram.
+chelming.
 aswamy93.
 YTejaswini18.
-chelming.
 alkaChaudhary73.
 selvarun-umass.
 sndevs-slacker-issue-reporter[bot].
