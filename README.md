@@ -171,9 +171,9 @@ YTejaswini18.
 alkaChaudhary73.
 chelming.
 selvarun-umass.
+sndevs-slacker-issue-reporter[bot].
 MartinStoyanoff.
 DanielMadsenDK.
-sndevs-slacker-issue-reporter[bot].
 himanshu7895.
 bkb68.
 Paulsylo25.
@@ -599,6 +599,7 @@ lakshmikanthgupta.
 mlemartien.
 riya-misra-1.
 hentonjd.
+sndevs-slacker-issue-reporter[bot].
 23Thom.
 aatrey882.
 salmaniqbal92.
@@ -606,7 +607,6 @@ DanielMadsenDK.
 Danmax.
 mohitchauhan-dev.
 mr-swann.
-sndevs-slacker-issue-reporter[bot].
 anveshmupparaju.
 ravichandra1998g.
 himanshu7895.
