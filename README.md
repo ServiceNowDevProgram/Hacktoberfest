@@ -168,8 +168,8 @@ Rampriya-S.
 ynr-ram.
 aswamy93.
 YTejaswini18.
-alkaChaudhary73.
 chelming.
+alkaChaudhary73.
 selvarun-umass.
 sndevs-slacker-issue-reporter[bot].
 MartinStoyanoff.
@@ -537,9 +537,9 @@ johndahl-now.
 MartinStoyanoff.
 chetnadev.
 paigesndev.
+chelming.
 eriemer1.
 ynr-ram.
-chelming.
 ishaanshoor.
 mgopw.
 Jaspalsinghchot.
