@@ -595,12 +595,12 @@ litwi1rm.
 mak1A4.
 selvarun-umass.
 shivamTodwal.
+sndevs-slacker-issue-reporter[bot].
 iar42.
 lakshmikanthgupta.
 mlemartien.
 riya-misra-1.
 hentonjd.
-sndevs-slacker-issue-reporter[bot].
 23Thom.
 aatrey882.
 salmaniqbal92.
