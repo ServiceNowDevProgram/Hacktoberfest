@@ -170,8 +170,8 @@ chelming.
 aswamy93.
 YTejaswini18.
 alkaChaudhary73.
-selvarun-umass.
 sndevs-slacker-issue-reporter[bot].
+selvarun-umass.
 MartinStoyanoff.
 DanielMadsenDK.
 himanshu7895.
@@ -592,12 +592,12 @@ abhrajyotikanrar.
 alkaChaudhary73.
 csharpie.
 PranavBhagat18.
+sndevs-slacker-issue-reporter[bot].
 Irston.
 litwi1rm.
 mak1A4.
 selvarun-umass.
 shivamTodwal.
-sndevs-slacker-issue-reporter[bot].
 iar42.
 lakshmikanthgupta.
 mlemartien.
