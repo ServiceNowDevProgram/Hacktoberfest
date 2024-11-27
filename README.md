@@ -222,9 +222,9 @@ AdityaBala2026.
 amoore-coder.
 anveshmupparaju.
 katsiarynasoshyna.
+mandeepkaran.
 
 **Top 50% contributors:**
-mandeepkaran.
 mebeingmustaq.
 vamsi0777.
 HarshLMP870.
@@ -262,9 +262,9 @@ ravichandra1998g.
 Tushnik-cyber.
 at8807602.
 aykmrgit.
+dadhich-ashish.
 
 **Other contributors:**
-dadhich-ashish.
 gowdah.
 nag39g.
 stefanintech.
@@ -476,6 +476,7 @@ OsvaldoCabral.
 pandeysameer.
 paulbaranouski.
 pranjalisr.
+praveenabhra.
 PraveenM1132.
 psharma0202.
 PyansiSuman.
@@ -755,9 +756,9 @@ Hamritha0506.
 harisnad.
 KedarisettiSreeVamsi.
 NowRishi.
+riya-vermaa.
 
 **Top 50% contributors:**
-riya-vermaa.
 TechnologistTim.
 99Saurabh19.
 allenandreas.
@@ -870,9 +871,9 @@ Thrizvi.
 umangkedia92.
 vk-cloud.
 4bode.
+abhay625.
 
 **Other contributors:**
-abhay625.
 akipatil16.
 ananthsridhar.
 ankitshaw625.
@@ -1480,6 +1481,7 @@ Pooja123667.
 pranjalisr.
 Prasannalakshmik.
 Pratyusha418.
+praveenabhra.
 PraveenM1132.
 prerna120.
 prevostr.
