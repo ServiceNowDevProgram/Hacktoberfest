@@ -873,9 +873,9 @@ umangkedia92.
 vk-cloud.
 4bode.
 abhay625.
+akipatil16.
 
 **Other contributors:**
-akipatil16.
 ananthsridhar.
 ankitshaw625.
 anurags10.
@@ -1414,6 +1414,7 @@ martinkohler.
 maxigrali.
 mbartkowiak.
 mdirshadaelum.
+Megalomac.
 mevipinmaurya.
 mgcnent.
 mhendershott.
