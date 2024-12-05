@@ -758,9 +758,9 @@ harisnad.
 KedarisettiSreeVamsi.
 NowRishi.
 riya-vermaa.
+TechnologistTim.
 
 **Top 50% contributors:**
-TechnologistTim.
 99Saurabh19.
 allenandreas.
 AnithaA09.
@@ -874,9 +874,9 @@ vk-cloud.
 4bode.
 abhay625.
 akipatil16.
+ananthsridhar.
 
 **Other contributors:**
-ananthsridhar.
 ankitshaw625.
 anurags10.
 Arpan-InGen.
@@ -1638,6 +1638,7 @@ VanWeapon.
 vedika0109.
 venkat-244.
 VictorAlbergaria.
+vieraruben.
 vigneshmc.
 vijay1379.
 vijayshankar485.
