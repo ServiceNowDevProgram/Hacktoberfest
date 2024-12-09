@@ -643,9 +643,9 @@ MRSinghRajat.
 oasif.
 jonahpiascik.
 soerenmaucher.
+Adil404.
 
 **Top 25% contributors:**
-Adil404.
 avssrikanth.
 shraddhakadam301298.
 shridk.
@@ -1385,6 +1385,7 @@ Lamquocminhhuy.
 LarsAssen.
 Lathasuv.
 LaviniaChiburte.
+le-burger.
 LekiaAnonim.
 lianskaya.
 lidmaylid.
