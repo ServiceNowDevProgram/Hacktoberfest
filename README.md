@@ -591,11 +591,11 @@ MrChrisE.
 vandna07.
 at8807602.
 captainbraddles.
+sndevs-slacker-issue-reporter[bot].
 abhrajyotikanrar.
 alkaChaudhary73.
 csharpie.
 PranavBhagat18.
-sndevs-slacker-issue-reporter[bot].
 Irston.
 litwi1rm.
 mak1A4.
