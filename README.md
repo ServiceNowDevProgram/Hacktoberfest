@@ -483,6 +483,7 @@ Beeram12.
 crooks-s.
 cschmidt82.
 Jaskaran-Techno.
+pviglianti.
 RagaChitraMankala.
 ShakthiSn.
 tejasathalye.
@@ -495,9 +496,9 @@ abhay625.
 akipatil16.
 ananthsridhar.
 ankitshaw625.
-anurags10.
 
 **Other contributors:**
+anurags10.
 Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
@@ -670,7 +671,6 @@ OsvaldoCabral.
 Pavandileep.
 ppalaskar.
 Prachi-BKulkarni.
-pviglianti.
 RajNish1210.
 ranjithsit.
 RasoolBux123.
