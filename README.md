@@ -631,6 +631,7 @@ d7ianielsimonP.
 DaiTranIT.
 dh3bp.
 drk1rd.
+DVJ101.
 garyditsch.
 gh0stxplt.
 GK884.
@@ -855,7 +856,6 @@ drc.
 DRDeep7.
 drizzlt.
 DudeDrew.
-DVJ101.
 dwilso1018.
 eduard-nitoi.
 EduardoUG.
