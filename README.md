@@ -379,9 +379,9 @@ NowRishi.
 riya-vermaa.
 TechnologistTim.
 99Saurabh19.
+allenandreas.
 
 **Top 50% contributors:**
-allenandreas.
 AnithaA09.
 anubhav-ritolia.
 apple9000.
@@ -496,9 +496,9 @@ abhay625.
 akipatil16.
 ananthsridhar.
 ankitshaw625.
+anurags10.
 
 **Other contributors:**
-anurags10.
 Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
@@ -855,6 +855,7 @@ drc.
 DRDeep7.
 drizzlt.
 DudeDrew.
+DVJ101.
 dwilso1018.
 eduard-nitoi.
 EduardoUG.
