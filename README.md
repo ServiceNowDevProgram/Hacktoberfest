@@ -496,9 +496,9 @@ abhay625.
 akipatil16.
 ananthsridhar.
 ankitshaw625.
+anurags10.
 
 **Other contributors:**
-anurags10.
 Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
@@ -1113,6 +1113,7 @@ pimvet.
 Pooja123667.
 pranjalisr.
 Prasannalakshmik.
+pratiksha2717.
 Pratyusha418.
 praveenabhra.
 PraveenM1132.
