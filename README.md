@@ -380,9 +380,9 @@ riya-vermaa.
 TechnologistTim.
 99Saurabh19.
 allenandreas.
+AnithaA09.
 
 **Top 50% contributors:**
-AnithaA09.
 anubhav-ritolia.
 apple9000.
 briangodfreydev.
@@ -497,9 +497,9 @@ akipatil16.
 ananthsridhar.
 ankitshaw625.
 anurags10.
+Arpan-InGen.
 
 **Other contributors:**
-Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
@@ -1253,6 +1253,7 @@ TreasuryDigitalApps.
 triciac4.
 troat9824.
 Tsegagedefaw.
+Tsheens.
 tsicot.
 TummalaDivyaReddy.
 Turbo-Javax.
