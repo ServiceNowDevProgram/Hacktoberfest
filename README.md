@@ -207,10 +207,10 @@ BadalHub.
 MrChrisE.
 
 **Top 10% contributors:**
+sndevs-slacker-issue-reporter[bot].
 vandna07.
 at8807602.
 captainbraddles.
-sndevs-slacker-issue-reporter[bot].
 abhrajyotikanrar.
 alkaChaudhary73.
 csharpie.
