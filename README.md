@@ -498,9 +498,9 @@ ananthsridhar.
 ankitshaw625.
 anurags10.
 Arpan-InGen.
+AryanBarsaiyan.
 
 **Other contributors:**
-AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
 brichards99.
@@ -785,6 +785,7 @@ bgrk.
 BH0LL.
 BhageshChavan.
 bhanucvbmg.
+bharakm.
 Bharat123rox.
 bharatr21.
 BhavishyaA516.
