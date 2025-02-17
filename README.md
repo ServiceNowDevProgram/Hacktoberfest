@@ -199,15 +199,15 @@ rafzk.
 anillande90.
 ayleeandersen.
 gowdah.
+sndevs-slacker-issue-reporter[bot].
 Abhishekchowdarapu.
 alikuttyka.
 aswamy93.
 YTejaswini18.
 BadalHub.
-MrChrisE.
 
 **Top 10% contributors:**
-sndevs-slacker-issue-reporter[bot].
+MrChrisE.
 vandna07.
 at8807602.
 captainbraddles.
