@@ -381,9 +381,9 @@ TechnologistTim.
 99Saurabh19.
 allenandreas.
 AnithaA09.
+anubhav-ritolia.
 
 **Top 50% contributors:**
-anubhav-ritolia.
 apple9000.
 briangodfreydev.
 dvn-lazywinner.
@@ -499,9 +499,9 @@ ankitshaw625.
 anurags10.
 Arpan-InGen.
 AryanBarsaiyan.
+ashleysnyder.
 
 **Other contributors:**
-ashleysnyder.
 Avinash238.
 brichards99.
 ChndrshP.
@@ -1032,6 +1032,7 @@ m2santiago.
 macias-daniel.
 Mady1947.
 mahamed-rashid.
+mahithak17.
 Maithani-ji.
 makesh-ind.
 Mallikarjuna900.
