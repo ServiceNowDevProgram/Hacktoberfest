@@ -382,9 +382,9 @@ TechnologistTim.
 allenandreas.
 AnithaA09.
 anubhav-ritolia.
+apple9000.
 
 **Top 50% contributors:**
-apple9000.
 briangodfreydev.
 dvn-lazywinner.
 GauthamBellamkonda.
@@ -500,9 +500,9 @@ anurags10.
 Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
+Avinash238.
 
 **Other contributors:**
-Avinash238.
 brichards99.
 ChndrshP.
 Chouffy.
@@ -766,6 +766,7 @@ ashish310188.
 askarthik.
 Athens0111.
 atipisova.
+ATOSA422878.
 attilaandrade.
 AudreyLin.
 AutumLeaf.
