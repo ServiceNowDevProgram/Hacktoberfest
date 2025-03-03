@@ -501,9 +501,9 @@ Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
+brichards99.
 
 **Other contributors:**
-brichards99.
 ChndrshP.
 Chouffy.
 Coder0131.
@@ -1069,6 +1069,7 @@ mrdavidgrant.
 mrical.
 MS-54.
 MS4X4.
+msaxton99.
 Msiva19.
 Mstr-Creta.
 mtharjo.
