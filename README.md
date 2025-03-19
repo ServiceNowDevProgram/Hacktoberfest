@@ -503,9 +503,9 @@ ashleysnyder.
 Avinash238.
 brichards99.
 ChndrshP.
+Chouffy.
 
 **Other contributors:**
-Chouffy.
 Coder0131.
 DaleD-SN.
 deathkraiser.
@@ -940,6 +940,7 @@ Imsurajr.
 ishanpatil35.
 ishwarighule.
 IslamMari.
+IvanStojanov.
 j-infinger.
 j2clow.
 jamalissimo.
