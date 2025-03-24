@@ -205,9 +205,9 @@ alikuttyka.
 aswamy93.
 YTejaswini18.
 BadalHub.
+MrChrisE.
 
 **Top 10% contributors:**
-MrChrisE.
 vandna07.
 at8807602.
 captainbraddles.
@@ -265,9 +265,9 @@ soerenmaucher.
 Adil404.
 avssrikanth.
 shraddhakadam301298.
+shridk.
 
 **Top 25% contributors:**
-shridk.
 stwinkle.
 Vishnu-rvk.
 Atul-LNG.
@@ -502,10 +502,10 @@ AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
 brichards99.
-ChndrshP.
-Chouffy.
 
 **Other contributors:**
+ChndrshP.
+Chouffy.
 Coder0131.
 DaleD-SN.
 deathkraiser.
@@ -902,6 +902,7 @@ git-rep0.
 Git-Snow-dev.
 GittyHarsha.
 GLaDOS2199.
+GokulkumarV.
 golu833.
 GouthamSG.
 Gowthammadhusuthanan067.
