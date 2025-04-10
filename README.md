@@ -502,9 +502,9 @@ AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
 brichards99.
+ChndrshP.
 
 **Other contributors:**
-ChndrshP.
 Chouffy.
 Coder0131.
 DaleD-SN.
@@ -933,6 +933,7 @@ himavamsi-spec.
 himavamsi8.
 hockdiherdo.
 horizody.
+Hratakh.
 iamcreed.
 iDeepDev8.
 iks1.
