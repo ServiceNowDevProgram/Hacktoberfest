@@ -384,9 +384,9 @@ AnithaA09.
 anubhav-ritolia.
 apple9000.
 briangodfreydev.
+dvn-lazywinner.
 
 **Top 50% contributors:**
-dvn-lazywinner.
 GauthamBellamkonda.
 Khasim-63993.
 odinsride.
@@ -503,9 +503,9 @@ ashleysnyder.
 Avinash238.
 brichards99.
 ChndrshP.
+Chouffy.
 
 **Other contributors:**
-Chouffy.
 Coder0131.
 DaleD-SN.
 deathkraiser.
@@ -886,6 +886,7 @@ evanrichardfpl.
 EvTheJavaScriptDev.
 ewhite1.
 extinctsion.
+eyawson.
 farihatabassum9130.
 fisikos.
 flab-io.
