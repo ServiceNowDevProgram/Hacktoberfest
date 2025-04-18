@@ -504,9 +504,9 @@ Avinash238.
 brichards99.
 ChndrshP.
 Chouffy.
+Coder0131.
 
 **Other contributors:**
-Coder0131.
 DaleD-SN.
 deathkraiser.
 demetris7.
@@ -1253,6 +1253,7 @@ suryakantshoor.
 sushil-now.
 SwarnadeepNandy.
 swaroop-surampalli.
+syntax-syndicate.
 syprien.
 TamByrd.
 tapishsh.
