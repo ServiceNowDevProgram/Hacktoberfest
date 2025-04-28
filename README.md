@@ -385,9 +385,9 @@ anubhav-ritolia.
 apple9000.
 briangodfreydev.
 dvn-lazywinner.
+GauthamBellamkonda.
 
 **Top 50% contributors:**
-GauthamBellamkonda.
 Khasim-63993.
 odinsride.
 piyusalunke123.
@@ -505,9 +505,9 @@ brichards99.
 ChndrshP.
 Chouffy.
 Coder0131.
+DaleD-SN.
 
 **Other contributors:**
-DaleD-SN.
 deathkraiser.
 demetris7.
 devalcodes.
@@ -1293,6 +1293,7 @@ valaparlasalmonraj.
 VanWeapon.
 vedika0109.
 venkat-244.
+venni-makarainen.
 VictorAlbergaria.
 vieraruben.
 vigneshmc.
