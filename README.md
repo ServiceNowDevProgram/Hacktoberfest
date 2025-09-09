@@ -111,6 +111,7 @@ brunoasantos.
 
 **Other contributors:**
 earlduque.
+priyasnexpert.
 
 ## Leaderboard (all time):
 
@@ -261,6 +262,7 @@ gregorwmail.
 harishankert.
 mady22070.
 prash5595.
+priyasnexpert.
 thejasr110.
 unbirthdays.
 hoederath.
@@ -268,7 +270,6 @@ isaac-vicentini.
 mioyokohama.
 mjonssonme.
 nthumma.
-priyasnexpert.
 templetontsai.
 b1naryst0rm.
 namrataghorpade.
