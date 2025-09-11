@@ -106,12 +106,15 @@ Meet the volunteer team who will be maintaining the Hacktoberfest projects:
 
 ## Leaderboard (this year):
 
-**Top 50% contributors:**
+**Top 25% contributors:**
 brunoasantos.
 
-**Other contributors:**
+**Top 50% contributors:**
 earlduque.
+
+**Other contributors:**
 priyasnexpert.
+richirichard7789-svg.
 
 ## Leaderboard (all time):
 
@@ -1169,6 +1172,7 @@ remi-servicenow.
 remkarthick.
 renjithragil.
 retrokaj.
+richirichard7789-svg.
 ricksclick.
 rishabhbaranwal0.
 RitheshGit.
