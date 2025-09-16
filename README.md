@@ -160,9 +160,9 @@ urspvs.
 maheshkhatal27.
 ankitshu.
 Radhe-Manasa.
+sndevs-slacker-issue-reporter[bot].
 Paulsylo25.
 404paige.
-sndevs-slacker-issue-reporter[bot].
 stevezero.
 sychi77.
 ronaldkarim.
