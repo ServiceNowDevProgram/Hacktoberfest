@@ -501,7 +501,6 @@ JingAlanzhixin.
 
 **Other contributors:**
 jordanrogus.
-juhikumarimodi6.
 Juusoee.
 KartikeSingh.
 kaushalbharade.
@@ -976,6 +975,7 @@ JScoder4005.
 jsmayo.
 JStuempert.
 jtudhope.
+juhikumarimodi6.
 JulietteM81.
 JustinLoftas.
 justSNaccount.
