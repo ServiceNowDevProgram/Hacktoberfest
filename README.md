@@ -113,10 +113,10 @@ Meet the volunteer team who will be maintaining the Hacktoberfest projects:
 ## Leaderboard (this year):
 
 **Top 25% contributors:**
-sndevs-slacker-issue-reporter[bot].
+earlduque.
 
 **Top 50% contributors:**
-earlduque.
+sndevs-slacker-issue-reporter[bot].
 
 **Other contributors:**
 brunoasantos.
