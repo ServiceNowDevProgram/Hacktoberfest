@@ -355,7 +355,6 @@ harisnad.
 KedarisettiSreeVamsi.
 NowRishi.
 riya-vermaa.
-TechnologistTim.
 99Saurabh19.
 allenandreas.
 AnithaA09.
@@ -373,9 +372,9 @@ src107.
 Tushnik-cyber.
 fn20200323.
 pratyushasndev.
+nag39g.
 
 **Top 50% contributors:**
-nag39g.
 stefanintech.
 homealone07.
 Iamsant.
@@ -388,6 +387,7 @@ ChecksumFailed.
 markroethof.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
+TechnologistTim.
 anguspalmer.
 Badal2k23.
 bhavyajain511.
