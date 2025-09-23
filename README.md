@@ -117,9 +117,10 @@ earlduque.
 
 **Top 50% contributors:**
 sndevs-slacker-issue-reporter[bot].
+brunoasantos.
 
 **Other contributors:**
-brunoasantos.
+natemac47.
 priyasnexpert.
 richirichard7789-svg.
 
@@ -373,9 +374,9 @@ Tushnik-cyber.
 fn20200323.
 pratyushasndev.
 nag39g.
+stefanintech.
 
 **Top 50% contributors:**
-stefanintech.
 homealone07.
 Iamsant.
 jeremyrubio27.
@@ -498,9 +499,9 @@ j4rodm.
 jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
+jordanrogus.
 
 **Other contributors:**
-jordanrogus.
 Juusoee.
 KartikeSingh.
 kaushalbharade.
@@ -1100,6 +1101,7 @@ mybpdi.
 napul205.
 Narasimha677.
 natefern.
+natemac47.
 nayeemwajid97.
 neenaSharma1.
 neerajs296.
