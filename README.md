@@ -123,6 +123,7 @@ brunoasantos.
 **Other contributors:**
 natemac47.
 priyasnexpert.
+razorblack.
 richirichard7789-svg.
 SUMEDHFORTES.
 
@@ -502,9 +503,9 @@ jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
 jordanrogus.
+Juusoee.
 
 **Other contributors:**
-Juusoee.
 KartikeSingh.
 kaushalbharade.
 lakshyatyagi24.
@@ -1177,6 +1178,7 @@ rajubhojane.
 raphaelcrv.
 Ravenon.
 razerbackh.
+razorblack.
 Razzzial.
 ReapredatoR.
 remi-servicenow.
