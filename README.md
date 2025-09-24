@@ -123,6 +123,7 @@ brunoasantos.
 natemac47.
 priyasnexpert.
 richirichard7789-svg.
+SUMEDHFORTES.
 
 ## Leaderboard (all time):
 
@@ -1266,6 +1267,7 @@ sudnep.
 Suman-coder967.
 Suman-Kumar-Mogilicherla.
 sumanth-sndev.
+SUMEDHFORTES.
 sumedhx.
 sumitkandpal3.
 SunilShetty29.
