@@ -112,8 +112,10 @@ Meet the volunteer team who will be maintaining the Hacktoberfest projects:
 
 ## Leaderboard (this year):
 
-**Top 25% contributors:**
+**Top 10% contributors:**
 earlduque.
+
+**Top 25% contributors:**
 Lacah.
 
 **Top 50% contributors:**
@@ -122,6 +124,7 @@ brunoasantos.
 
 **Other contributors:**
 natemac47.
+prataps135.
 priyasnexpert.
 razorblack.
 richirichard7789-svg.
@@ -1147,6 +1150,7 @@ pimvet.
 Pooja123667.
 pranjalisr.
 Prasannalakshmik.
+prataps135.
 pratiksha2717.
 Pratyusha418.
 praveenabhra.
