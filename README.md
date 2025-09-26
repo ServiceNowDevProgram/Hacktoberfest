@@ -122,6 +122,7 @@ sndevs-slacker-issue-reporter[bot].
 **Top 50% contributors:**
 D-GAJ.
 brunoasantos.
+Manish0621.
 
 **Other contributors:**
 natemac47.
@@ -508,9 +509,9 @@ j4rodm.
 jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
+jordanrogus.
 
 **Other contributors:**
-jordanrogus.
 Juusoee.
 KartikeSingh.
 kaushalbharade.
@@ -1065,6 +1066,7 @@ Maithani-ji.
 makesh-ind.
 makroset.
 manichin1998.
+Manish0621.
 Manishak798.
 ManjuRichi.
 manjuyb.
