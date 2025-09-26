@@ -121,9 +121,10 @@ sndevs-slacker-issue-reporter[bot].
 
 **Top 50% contributors:**
 brunoasantos.
-natemac47.
+D-GAJ.
 
 **Other contributors:**
+natemac47.
 prataps135.
 priyasnexpert.
 razorblack.
@@ -830,6 +831,7 @@ CreatorWorkflowSC.
 CReddySurendra.
 cwhits.
 cyberpanda18.
+D-GAJ.
 d-oderbolz.
 Daksh-Goel12.
 Damilare1212.
