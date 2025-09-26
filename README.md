@@ -120,8 +120,8 @@ Lacah.
 sndevs-slacker-issue-reporter[bot].
 
 **Top 50% contributors:**
-brunoasantos.
 D-GAJ.
+brunoasantos.
 
 **Other contributors:**
 natemac47.
@@ -620,6 +620,7 @@ Brian-Rowland.
 ChandBasha-code.
 cmurley.
 Code-mantle.
+D-GAJ.
 d7ianielsimonP.
 DaiTranIT.
 dh3bp.
@@ -831,7 +832,6 @@ CreatorWorkflowSC.
 CReddySurendra.
 cwhits.
 cyberpanda18.
-D-GAJ.
 d-oderbolz.
 Daksh-Goel12.
 Damilare1212.
