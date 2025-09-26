@@ -117,19 +117,20 @@ earlduque.
 
 **Top 25% contributors:**
 Lacah.
+sndevs-slacker-issue-reporter[bot].
 
 **Top 50% contributors:**
-sndevs-slacker-issue-reporter[bot].
 brunoasantos.
+natemac47.
 
 **Other contributors:**
-natemac47.
 prataps135.
 priyasnexpert.
 razorblack.
 richirichard7789-svg.
 SavedByTheVine.
 SUMEDHFORTES.
+wmathor.
 
 ## Leaderboard (all time):
 
@@ -194,9 +195,9 @@ BadalHub.
 MrChrisE.
 vandna07.
 at8807602.
+captainbraddles.
 
 **Top 10% contributors:**
-captainbraddles.
 abhrajyotikanrar.
 alkaChaudhary73.
 csharpie.
@@ -257,9 +258,9 @@ Vishnu-rvk.
 Atul-LNG.
 Charanjet.
 davidkwhuang.
+Mexiprince.
 
 **Top 25% contributors:**
-Mexiprince.
 MYaswanth28.
 shreyawani98.
 zahidask.
@@ -506,10 +507,10 @@ j4rodm.
 jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
-jordanrogus.
-Juusoee.
 
 **Other contributors:**
+jordanrogus.
+Juusoee.
 KartikeSingh.
 kaushalbharade.
 lakshyatyagi24.
@@ -1352,6 +1353,7 @@ wclimatwork.
 wggibson.
 williambhadley.
 wkbroxton.
+wmathor.
 xdisplay.
 xjfdzn.
 yay-jake.
