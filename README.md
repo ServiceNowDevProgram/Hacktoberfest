@@ -45,8 +45,8 @@ That's it! More detailed contribution instructions will be available on each pro
 
 We will have multiple projects available for participation. To finish your Hacktoberfest goal:  
 
-- You must make four approved pull-requests between October 1 and October 31.  
-- These four pull-requests can be spread out across multiple projects or can all be for one project.
+- You must make six approved pull-requests between October 1 and October 31.  
+- These six pull-requests can be spread out across multiple projects or can all be for one project.
 
 To finish your _ServiceNow_ Hacktoberfest goals (as mentioned on the blog post linked above):
 
