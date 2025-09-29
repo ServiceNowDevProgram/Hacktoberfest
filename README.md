@@ -132,6 +132,7 @@ razorblack.
 richirichard7789-svg.
 SavedByTheVine.
 SUMEDHFORTES.
+wiz0floyd.
 wmathor.
 
 ## Leaderboard (all time):
