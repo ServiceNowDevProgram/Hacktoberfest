@@ -67,7 +67,7 @@ Stay tuned for the official project announcements!
 
 ## Have a ServiceNow app you want to open to collaboration?
 
-Reach out to Earl Duque, László Ball, or Astrid Sapphire and we'll get your repo officially hosted.
+Reach out to Earl Duque, László Balla, or Astrid Sapphire and we'll get your repo officially hosted.
 
 # <br><a name="points" href="#points">![points](/images/4points2025.png)</a>
 
