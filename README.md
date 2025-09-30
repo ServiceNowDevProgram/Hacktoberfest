@@ -118,18 +118,19 @@ earlduque.
 **Top 25% contributors:**
 Lacah.
 sndevs-slacker-issue-reporter[bot].
+D-GAJ.
 
 **Top 50% contributors:**
-D-GAJ.
 brunoasantos.
 Manish0621.
+natemac47.
 
 **Other contributors:**
-natemac47.
 prataps135.
 priyasnexpert.
 razorblack.
 richirichard7789-svg.
+SapphicFire.
 SavedByTheVine.
 SUMEDHFORTES.
 wiz0floyd.
