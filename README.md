@@ -135,18 +135,18 @@ sndevs-slacker-issue-reporter[bot].
 
 **Top 50% contributors:**
 D-GAJ.
+stefanintech.
 brunoasantos.
 Manish0621.
-natemac47.
 
 **Other contributors:**
+natemac47.
 prataps135.
 priyasnexpert.
 razorblack.
 richirichard7789-svg.
 rohi-v.
 SavedByTheVine.
-stefanintech.
 SUMEDHFORTES.
 udaysiddapur.
 wiz0floyd.
@@ -398,10 +398,10 @@ piyusalunke123.
 rene-el.
 rmedved84.
 src107.
+stefanintech.
 Tushnik-cyber.
 fn20200323.
 pratyushasndev.
-stefanintech.
 nag39g.
 
 **Top 50% contributors:**
