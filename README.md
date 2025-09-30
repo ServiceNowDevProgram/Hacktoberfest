@@ -130,12 +130,12 @@ earlduque.
 
 **Top 10% contributors:**
 SapphicFire.
-Lacah.
+niamccash.
 
 **Top 25% contributors:**
+Lacah.
 chelming.
 sndevs-slacker-issue-reporter[bot].
-niamccash.
 rohi-v.
 
 **Top 50% contributors:**
