@@ -146,6 +146,7 @@ brunoasantos.
 GokulkumarV.
 Manish0621.
 natemac47.
+pankajrj.
 prataps135.
 priyasnexpert.
 razorblack.
@@ -536,9 +537,9 @@ JBscriptsNow.
 JingAlanzhixin.
 jordanrogus.
 Juusoee.
+KartikeSingh.
 
 **Other contributors:**
-KartikeSingh.
 kaushalbharade.
 lakshyatyagi24.
 loudigi.
@@ -1172,6 +1173,7 @@ ousswx-wx.
 pabloferr92.
 Pakoola.
 pandeysameer.
+pankajrj.
 parag477.
 parthpanchal123.
 PatriciaMaPe.
