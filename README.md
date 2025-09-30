@@ -116,8 +116,8 @@ Meet the volunteer team who will be maintaining the Hacktoberfest projects:
 earlduque.
 
 **Top 25% contributors:**
-Lacah.
 SapphicFire.
+Lacah.
 sndevs-slacker-issue-reporter[bot].
 
 **Top 50% contributors:**
