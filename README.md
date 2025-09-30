@@ -134,9 +134,9 @@ niamccash.
 
 **Top 25% contributors:**
 Lacah.
+rohi-v.
 chelming.
 sndevs-slacker-issue-reporter[bot].
-rohi-v.
 snamjosh.
 
 **Top 50% contributors:**
@@ -418,6 +418,7 @@ odinsride.
 piyusalunke123.
 rene-el.
 rmedved84.
+rohi-v.
 src107.
 stefanintech.
 Tushnik-cyber.
@@ -426,9 +427,9 @@ pratyushasndev.
 nag39g.
 homealone07.
 Iamsant.
-jeremyrubio27.
 
 **Top 50% contributors:**
+jeremyrubio27.
 Sagar-agarwal.
 vhudlikar.
 wiresgit.
@@ -445,7 +446,6 @@ naveenraw25.
 NBaker137.
 patan116.
 revantKulkarni.
-rohi-v.
 sumanth1710.
 trade12.
 ttoter.
