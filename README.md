@@ -134,14 +134,14 @@ SapphicFire.
 **Top 25% contributors:**
 Lacah.
 sndevs-slacker-issue-reporter[bot].
+D-GAJ.
 
 **Top 50% contributors:**
-D-GAJ.
 niamccash.
 stefanintech.
+Bharathkogilamane274.
 
 **Other contributors:**
-Bharathkogilamane274.
 brunoasantos.
 GokulkumarV.
 Manish0621.
@@ -157,6 +157,7 @@ udaysiddapur.
 Uma20-dev.
 wiz0floyd.
 wmathor.
+zstromsodt.
 
 ## Leaderboard (all time):
 
@@ -1392,4 +1393,5 @@ youthinkasido.
 yrozo28.
 zerus83.
 zomsik.
+zstromsodt.
 zubayrali.
