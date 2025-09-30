@@ -131,11 +131,11 @@ SapphicFire.
 
 **Top 10% contributors:**
 niamccash.
-Lacah.
+brenduh.
 
 **Top 25% contributors:**
+Lacah.
 chelming.
-brenduh.
 sndevs-slacker-issue-reporter[bot].
 rohi-v.
 
@@ -314,6 +314,7 @@ phr-nk.
 shakeel-sheikh.
 vjtknn.
 Yokesh0811.
+brenduh.
 MarcMouries.
 sn-ajb.
 DavidMarcial.
@@ -340,7 +341,6 @@ sdgrube2.
 wendy-ha18.
 AdilBasha1SAP.
 bradtiltonnow.
-brenduh.
 pradeepthipani.
 Vish-X07.
 animeshdasgit.
