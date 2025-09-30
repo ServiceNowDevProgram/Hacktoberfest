@@ -150,6 +150,7 @@ stefanintech.
 am-shakeel.
 Bharathkogilamane274.
 brunoasantos.
+debugwithshubham.
 GokulkumarV.
 lstrallo.
 Manish0621.
@@ -422,9 +423,9 @@ pratyushasndev.
 nag39g.
 homealone07.
 Iamsant.
+jeremyrubio27.
 
 **Top 50% contributors:**
-jeremyrubio27.
 Sagar-agarwal.
 vhudlikar.
 wiresgit.
@@ -548,9 +549,9 @@ jordanrogus.
 Juusoee.
 KartikeSingh.
 kaushalbharade.
+lakshyatyagi24.
 
 **Other contributors:**
-lakshyatyagi24.
 loudigi.
 ManobhavSachan.
 mevops.
@@ -892,6 +893,7 @@ daviddw2022.
 davidehira.
 davidjcarey.
 dchavez434.
+debugwithshubham.
 denmant.
 derHundOida.
 developmentpark.
