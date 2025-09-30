@@ -137,13 +137,14 @@ sndevs-slacker-issue-reporter[bot].
 D-GAJ.
 brunoasantos.
 Manish0621.
+natemac47.
 
 **Other contributors:**
-natemac47.
 prataps135.
 priyasnexpert.
 razorblack.
 richirichard7789-svg.
+rohi-v.
 SavedByTheVine.
 SUMEDHFORTES.
 udaysiddapur.
@@ -428,10 +429,10 @@ ttoter.
 AlphaEagle.
 JWITSM.
 mo-dahir.
+rohi-v.
 dcord1x.
 djunaid.
 Haile-08.
-rohi-v.
 sonamtiwari8.
 Adiana3308.
 akhoshnood.
