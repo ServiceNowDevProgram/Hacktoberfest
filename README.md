@@ -135,17 +135,17 @@ Lacah.
 **Top 25% contributors:**
 chelming.
 sndevs-slacker-issue-reporter[bot].
-snamjosh.
+rohi-v.
 
 **Top 50% contributors:**
+snamjosh.
 Uma20-dev.
 D-GAJ.
 eriemer1.
-niamccash.
 
 **Other contributors:**
+niamccash.
 pankajrj.
-rohi-v.
 stefanintech.
 am-shakeel.
 Bharathkogilamane274.
@@ -438,9 +438,9 @@ naveenraw25.
 NBaker137.
 patan116.
 revantKulkarni.
+rohi-v.
 sumanth1710.
 trade12.
-rohi-v.
 ttoter.
 AlphaEagle.
 JWITSM.
