@@ -140,11 +140,12 @@ Uma20-dev.
 D-GAJ.
 niamccash.
 pankajrj.
+stefanintech.
 
 **Other contributors:**
-stefanintech.
 Bharathkogilamane274.
 brunoasantos.
+eriemer1.
 GokulkumarV.
 Manish0621.
 natemac47.
