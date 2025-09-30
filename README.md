@@ -144,9 +144,10 @@ snamjosh.
 Uma20-dev.
 D-GAJ.
 eriemer1.
-pankajrj.
+kmxo.
 
 **Other contributors:**
+pankajrj.
 SachinNarayanasamy.
 stefanintech.
 ABHINAVGUPTA02.
@@ -156,7 +157,6 @@ brunoasantos.
 debugwithshubham.
 GokulkumarV.
 hidipen.
-kmxo.
 lstrallo.
 Manish0621.
 natemac47.
