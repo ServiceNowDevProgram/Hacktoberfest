@@ -137,21 +137,22 @@ Lacah.
 chelming.
 sndevs-slacker-issue-reporter[bot].
 rohi-v.
+snamjosh.
 
 **Top 50% contributors:**
-snamjosh.
 Uma20-dev.
 D-GAJ.
 eriemer1.
 pankajrj.
+stefanintech.
 
 **Other contributors:**
-stefanintech.
 am-shakeel.
 Bharathkogilamane274.
 brunoasantos.
 debugwithshubham.
 GokulkumarV.
+hidipen.
 lstrallo.
 Manish0621.
 natemac47.
@@ -979,6 +980,7 @@ Hemant-Goldar.
 Hemant9993.
 hendrikengler.
 herambchaudhari4121.
+hidipen.
 himahk04.
 himavamsi-spec.
 himavamsi8.
