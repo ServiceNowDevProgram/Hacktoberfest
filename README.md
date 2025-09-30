@@ -138,14 +138,14 @@ Uma20-dev.
 
 **Top 50% contributors:**
 D-GAJ.
+eriemer1.
 niamccash.
 pankajrj.
-stefanintech.
 
 **Other contributors:**
+stefanintech.
 Bharathkogilamane274.
 brunoasantos.
-eriemer1.
 GokulkumarV.
 Manish0621.
 natemac47.
