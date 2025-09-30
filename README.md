@@ -134,9 +134,9 @@ niamccash.
 
 **Top 25% contributors:**
 Lacah.
-rohi-v.
 chelming.
 sndevs-slacker-issue-reporter[bot].
+rohi-v.
 snamjosh.
 
 **Top 50% contributors:**
@@ -159,6 +159,7 @@ Manish0621.
 natemac47.
 navyamasapu98.
 No-gui.
+Paulsylo25.
 prataps135.
 priyasnexpert.
 razorblack.
@@ -215,9 +216,9 @@ smartcarleen.
 urspvs.
 maheshkhatal27.
 ankitshu.
+Paulsylo25.
 Radhe-Manasa.
 sndevs-slacker-issue-reporter[bot].
-Paulsylo25.
 404paige.
 stevezero.
 sychi77.
@@ -418,7 +419,6 @@ odinsride.
 piyusalunke123.
 rene-el.
 rmedved84.
-rohi-v.
 src107.
 stefanintech.
 Tushnik-cyber.
@@ -427,9 +427,9 @@ pratyushasndev.
 nag39g.
 homealone07.
 Iamsant.
+jeremyrubio27.
 
 **Top 50% contributors:**
-jeremyrubio27.
 Sagar-agarwal.
 vhudlikar.
 wiresgit.
@@ -446,6 +446,7 @@ naveenraw25.
 NBaker137.
 patan116.
 revantKulkarni.
+rohi-v.
 sumanth1710.
 trade12.
 ttoter.
