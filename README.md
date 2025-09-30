@@ -160,6 +160,7 @@ prataps135.
 priyasnexpert.
 razorblack.
 richirichard7789-svg.
+RudraSathwara.
 SavedByTheVine.
 SUMEDHFORTES.
 udaysiddapur.
@@ -294,9 +295,9 @@ Atul-LNG.
 Charanjet.
 davidkwhuang.
 Mexiprince.
+MYaswanth28.
 
 **Top 25% contributors:**
-MYaswanth28.
 shreyawani98.
 zahidask.
 DynamiteC.
@@ -1249,6 +1250,7 @@ RosaAtCoding.
 RoseKonvalinka.
 rtalreja1997.
 Ruchi-here.
+RudraSathwara.
 rupam870.
 rverrips.
 rwhittaker.
