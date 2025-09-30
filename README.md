@@ -133,8 +133,8 @@ SapphicFire.
 niamccash.
 
 **Top 25% contributors:**
-chelming.
 Lacah.
+chelming.
 sndevs-slacker-issue-reporter[bot].
 rohi-v.
 snamjosh.
