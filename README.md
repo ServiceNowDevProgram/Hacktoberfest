@@ -136,15 +136,15 @@ Lacah.
 chelming.
 sndevs-slacker-issue-reporter[bot].
 rohi-v.
+snamjosh.
 
 **Top 50% contributors:**
-snamjosh.
 Uma20-dev.
 D-GAJ.
 eriemer1.
+niamccash.
 
 **Other contributors:**
-niamccash.
 pankajrj.
 stefanintech.
 am-shakeel.
@@ -160,6 +160,7 @@ priyasnexpert.
 razorblack.
 richirichard7789-svg.
 SavedByTheVine.
+Smoothengineer.
 SUMEDHFORTES.
 udaysiddapur.
 wiz0floyd.
@@ -1296,6 +1297,7 @@ sixstatdad.
 sjmeissner.
 slwb.
 smkylecribbs.
+Smoothengineer.
 smoothwood.
 SMS2612.
 snehauj.
