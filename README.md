@@ -143,9 +143,9 @@ snamjosh.
 Uma20-dev.
 D-GAJ.
 eriemer1.
+pankajrj.
 
 **Other contributors:**
-pankajrj.
 stefanintech.
 am-shakeel.
 Bharathkogilamane274.
@@ -154,6 +154,7 @@ GokulkumarV.
 lstrallo.
 Manish0621.
 natemac47.
+navyamasapu98.
 No-gui.
 prataps135.
 priyasnexpert.
@@ -1154,6 +1155,7 @@ napul205.
 Narasimha677.
 natefern.
 natemac47.
+navyamasapu98.
 nayeemwajid97.
 neenaSharma1.
 neerajs296.
