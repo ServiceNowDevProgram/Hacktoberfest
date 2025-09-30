@@ -144,6 +144,7 @@ pankajrj.
 rohi-v.
 
 **Other contributors:**
+snamjosh.
 stefanintech.
 am-shakeel.
 Bharathkogilamane274.
@@ -158,7 +159,6 @@ priyasnexpert.
 razorblack.
 richirichard7789-svg.
 SavedByTheVine.
-snamjosh.
 SUMEDHFORTES.
 udaysiddapur.
 wiz0floyd.
