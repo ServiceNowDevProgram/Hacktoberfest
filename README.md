@@ -117,8 +117,8 @@ earlduque.
 
 **Top 25% contributors:**
 Lacah.
-sndevs-slacker-issue-reporter[bot].
 SapphicFire.
+sndevs-slacker-issue-reporter[bot].
 
 **Top 50% contributors:**
 D-GAJ.
