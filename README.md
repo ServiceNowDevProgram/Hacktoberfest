@@ -142,6 +142,7 @@ pankajrj.
 stefanintech.
 
 **Other contributors:**
+Uma20-dev.
 Bharathkogilamane274.
 brunoasantos.
 GokulkumarV.
@@ -155,7 +156,6 @@ rohi-v.
 SavedByTheVine.
 SUMEDHFORTES.
 udaysiddapur.
-Uma20-dev.
 wiz0floyd.
 wmathor.
 zstromsodt.
@@ -727,6 +727,7 @@ thoffman210.
 TonySerN.
 TracyCurry96.
 udaysiddapur.
+Uma20-dev.
 usamamohammed.
 VarAti.
 varunasuresh92.
@@ -1351,7 +1352,6 @@ Turbo-Javax.
 tylerteter.
 uditjainstjis.
 ujjwalgupta2021.
-Uma20-dev.
 umd-dit-servicenow.
 utk1725.
 v-agnihotri.
