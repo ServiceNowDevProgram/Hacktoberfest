@@ -134,17 +134,18 @@ Lacah.
 
 **Top 25% contributors:**
 chelming.
+Smoothengineer.
 sndevs-slacker-issue-reporter[bot].
 rohi-v.
-snamjosh.
 
 **Top 50% contributors:**
+snamjosh.
 Uma20-dev.
 D-GAJ.
 eriemer1.
-niamccash.
 
 **Other contributors:**
+niamccash.
 pankajrj.
 stefanintech.
 am-shakeel.
@@ -160,7 +161,6 @@ priyasnexpert.
 razorblack.
 richirichard7789-svg.
 SavedByTheVine.
-Smoothengineer.
 SUMEDHFORTES.
 udaysiddapur.
 wiz0floyd.
@@ -575,6 +575,7 @@ samwinchet.
 sanchit-varshney.
 sanju009.
 Shambu-K.
+Smoothengineer.
 speedy18.
 Sravanik12.
 Subhraneel77.
@@ -1297,7 +1298,6 @@ sixstatdad.
 sjmeissner.
 slwb.
 smkylecribbs.
-Smoothengineer.
 smoothwood.
 SMS2612.
 snehauj.
