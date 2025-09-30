@@ -135,20 +135,22 @@ SapphicFire.
 Lacah.
 sndevs-slacker-issue-reporter[bot].
 Uma20-dev.
+D-GAJ.
 
 **Top 50% contributors:**
-D-GAJ.
 eriemer1.
 niamccash.
 pankajrj.
+stefanintech.
 
 **Other contributors:**
-stefanintech.
+am-shakeel.
 Bharathkogilamane274.
 brunoasantos.
 GokulkumarV.
 Manish0621.
 natemac47.
+No-gui.
 prataps135.
 priyasnexpert.
 razorblack.
@@ -1158,6 +1160,7 @@ NikkiJWebDevOps.
 nikkvijay.
 NiteeshL.
 nitya2701.
+No-gui.
 NoelJarling.
 nooras.
 NowZilla.
