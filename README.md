@@ -138,15 +138,15 @@ D-GAJ.
 
 **Top 50% contributors:**
 niamccash.
+pankajrj.
 stefanintech.
-Bharathkogilamane274.
 
 **Other contributors:**
+Bharathkogilamane274.
 brunoasantos.
 GokulkumarV.
 Manish0621.
 natemac47.
-pankajrj.
 prataps135.
 priyasnexpert.
 razorblack.
@@ -693,6 +693,7 @@ NK-01.
 noviicee.
 NowSharif.
 OsvaldoCabral.
+pankajrj.
 Pavandileep.
 pedromadidc.
 ppalaskar.
@@ -1173,7 +1174,6 @@ ousswx-wx.
 pabloferr92.
 Pakoola.
 pandeysameer.
-pankajrj.
 parag477.
 parthpanchal123.
 PatriciaMaPe.
