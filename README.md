@@ -152,6 +152,7 @@ rohi-v.
 SavedByTheVine.
 SUMEDHFORTES.
 udaysiddapur.
+Uma20-dev.
 wiz0floyd.
 wmathor.
 
@@ -406,9 +407,9 @@ Tushnik-cyber.
 fn20200323.
 pratyushasndev.
 nag39g.
+homealone07.
 
 **Top 50% contributors:**
-homealone07.
 Iamsant.
 jeremyrubio27.
 Sagar-agarwal.
@@ -531,9 +532,9 @@ jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
 jordanrogus.
+Juusoee.
 
 **Other contributors:**
-Juusoee.
 KartikeSingh.
 kaushalbharade.
 lakshyatyagi24.
@@ -1345,6 +1346,7 @@ Turbo-Javax.
 tylerteter.
 uditjainstjis.
 ujjwalgupta2021.
+Uma20-dev.
 umd-dit-servicenow.
 utk1725.
 v-agnihotri.
