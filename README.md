@@ -130,9 +130,9 @@ earlduque.
 
 **Top 10% contributors:**
 SapphicFire.
+Lacah.
 
 **Top 25% contributors:**
-Lacah.
 sndevs-slacker-issue-reporter[bot].
 Uma20-dev.
 D-GAJ.
@@ -148,6 +148,7 @@ am-shakeel.
 Bharathkogilamane274.
 brunoasantos.
 GokulkumarV.
+lstrallo.
 Manish0621.
 natemac47.
 No-gui.
@@ -416,9 +417,9 @@ fn20200323.
 pratyushasndev.
 nag39g.
 homealone07.
+Iamsant.
 
 **Top 50% contributors:**
-Iamsant.
 jeremyrubio27.
 Sagar-agarwal.
 vhudlikar.
@@ -542,9 +543,9 @@ JingAlanzhixin.
 jordanrogus.
 Juusoee.
 KartikeSingh.
+kaushalbharade.
 
 **Other contributors:**
-kaushalbharade.
 lakshyatyagi24.
 loudigi.
 ManobhavSachan.
@@ -1088,6 +1089,7 @@ loganpoynter.
 LoicSanchez.
 lokeshwar777.
 loordjay.
+lstrallo.
 Luci-git.
 luffy3298.
 LuisSepulveda21.
