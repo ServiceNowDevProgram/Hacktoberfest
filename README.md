@@ -133,17 +133,18 @@ SapphicFire.
 Lacah.
 
 **Top 25% contributors:**
+chelming.
 sndevs-slacker-issue-reporter[bot].
 Uma20-dev.
-D-GAJ.
 
 **Top 50% contributors:**
+D-GAJ.
 eriemer1.
 niamccash.
 pankajrj.
-rohi-v.
 
 **Other contributors:**
+rohi-v.
 snamjosh.
 stefanintech.
 am-shakeel.
