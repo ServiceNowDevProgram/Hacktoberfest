@@ -138,10 +138,11 @@ sndevs-slacker-issue-reporter[bot].
 **Top 50% contributors:**
 D-GAJ.
 stefanintech.
+Bharathkogilamane274.
 
 **Other contributors:**
-Bharathkogilamane274.
 brunoasantos.
+GokulkumarV.
 Manish0621.
 natemac47.
 prataps135.
@@ -653,6 +654,7 @@ garyditsch.
 gh0stxplt.
 GK884.
 gkiratkar1.
+GokulkumarV.
 Gowthamsai29.
 gurudev-7.
 hacktoberfestservicenow.
@@ -937,7 +939,6 @@ git-rep0.
 Git-Snow-dev.
 GittyHarsha.
 GLaDOS2199.
-GokulkumarV.
 golu833.
 GouthamSG.
 Gowthammadhusuthanan067.
