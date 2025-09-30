@@ -134,15 +134,15 @@ SapphicFire.
 **Top 25% contributors:**
 Lacah.
 sndevs-slacker-issue-reporter[bot].
-D-GAJ.
+Uma20-dev.
 
 **Top 50% contributors:**
+D-GAJ.
 niamccash.
 pankajrj.
-stefanintech.
 
 **Other contributors:**
-Uma20-dev.
+stefanintech.
 Bharathkogilamane274.
 brunoasantos.
 GokulkumarV.
@@ -623,6 +623,7 @@ saketh-22.
 sohailkhilji.
 SweetPoodle.
 tewariap.
+Uma20-dev.
 varunharih.
 vpeinado.
 ZaberMohd.
@@ -727,7 +728,6 @@ thoffman210.
 TonySerN.
 TracyCurry96.
 udaysiddapur.
-Uma20-dev.
 usamamohammed.
 VarAti.
 varunasuresh92.
