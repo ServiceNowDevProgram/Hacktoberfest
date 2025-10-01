@@ -138,16 +138,16 @@ Lacah.
 chelming.
 anveshmupparaju.
 kmxo.
+sndevs-slacker-issue-reporter[bot].
 
 **Top 50% contributors:**
-sndevs-slacker-issue-reporter[bot].
 rohi-v.
 snamjosh.
 Uma20-dev.
 D-GAJ.
+eriemer1.
 
 **Other contributors:**
-eriemer1.
 pankajrj.
 SachinNarayanasamy.
 stefanintech.
@@ -166,6 +166,7 @@ No-gui.
 Paulsylo25.
 prataps135.
 priyasnexpert.
+ravichandra1998g.
 razorblack.
 richirichard7789-svg.
 RudraSathwara.
