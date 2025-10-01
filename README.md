@@ -158,9 +158,9 @@ sndevs-slacker-issue-reporter[bot].
 ivan-betev.
 Uma20-dev.
 am-shakeel.
+Atul-LNG.
 
 **Other contributors:**
-Atul-LNG.
 aykmrgit.
 bkb68.
 cjuleff.
@@ -198,6 +198,7 @@ navyamasapu98.
 No-gui.
 poojithavalli22.
 Pram0dh-Kumar.
+praveen8808.
 priyasnexpert.
 ramkrishna-behera.
 razorblack.
@@ -609,9 +610,9 @@ ManobhavSachan.
 mevops.
 mikeroosa.
 moshjahan.
+msdfib.
 
 **Other contributors:**
-msdfib.
 mwchiao.
 NilotpalMaitra.
 nvprav.
@@ -1276,6 +1277,7 @@ pranjalisr.
 Prasannalakshmik.
 pratiksha2717.
 Pratyusha418.
+praveen8808.
 praveenabhra.
 PraveenM1132.
 prerna120.
