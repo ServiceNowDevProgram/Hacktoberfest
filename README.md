@@ -139,22 +139,22 @@ Lacah.
 **Top 25% contributors:**
 niamccash.
 brenduh.
+snamjosh.
 chelming.
 naveensnow.
 pankajrj.
 stefanintech.
 wiz0floyd.
 at8807602.
-kmxo.
 
 **Top 50% contributors:**
+kmxo.
 koratalas.
 ravichandra1998g.
 prataps135.
 sndevs-slacker-issue-reporter[bot].
 ivan-betev.
 Paulsylo25.
-snamjosh.
 Uma20-dev.
 am-shakeel.
 
