@@ -155,6 +155,7 @@ sndevs-slacker-issue-reporter[bot].
 snamjosh.
 Uma20-dev.
 am-shakeel.
+cjuleff.
 D-GAJ.
 eriemer1.
 naveensnow.
@@ -164,7 +165,6 @@ ABHINAVGUPTA02.
 Bharathkogilamane274.
 bhavyaa30.
 brunoasantos.
-cjuleff.
 debugwithshubham.
 DhruvBhatheja.
 GokulkumarV.
@@ -685,6 +685,7 @@ BadalKhojare.
 BeniRaja.
 Brian-Rowland.
 ChandBasha-code.
+cjuleff.
 cmurley.
 Code-mantle.
 D-GAJ.
@@ -893,7 +894,6 @@ ChocolateTilt.
 ChristineMayfield.
 ChrRepou.
 Cioraz.
-cjuleff.
 cnavr.
 CObsidien.
 coderdude207.
