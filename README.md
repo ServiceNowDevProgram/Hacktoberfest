@@ -136,17 +136,18 @@ brenduh.
 **Top 25% contributors:**
 Lacah.
 chelming.
+anveshmupparaju.
 kmxo.
-sndevs-slacker-issue-reporter[bot].
 
 **Top 50% contributors:**
+sndevs-slacker-issue-reporter[bot].
 rohi-v.
 snamjosh.
 Uma20-dev.
 D-GAJ.
-eriemer1.
 
 **Other contributors:**
+eriemer1.
 pankajrj.
 SachinNarayanasamy.
 stefanintech.
@@ -248,6 +249,7 @@ alkaChaudhary73.
 csharpie.
 PranavBhagat18.
 Irston.
+anveshmupparaju.
 litwi1rm.
 mak1A4.
 selvarun-umass.
@@ -264,7 +266,6 @@ DanielMadsenDK.
 Danmax.
 mohitchauhan-dev.
 mr-swann.
-anveshmupparaju.
 ravichandra1998g.
 himanshu7895.
 ivan-betev.
