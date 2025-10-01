@@ -157,10 +157,10 @@ Mexiprince.
 ravichandra1998g.
 prataps135.
 sndevs-slacker-issue-reporter[bot].
+anurampalli.
 ivan-betev.
 Uma20-dev.
 am-shakeel.
-anurampalli.
 
 **Other contributors:**
 Atul-LNG.
@@ -670,6 +670,7 @@ Nikuuuuu.
 prataps135.
 adamnewhall.
 ANISHAGHOSHAL.
+anurampalli.
 brumam.
 cenzo85.
 chaytarak.
@@ -713,7 +714,6 @@ andersonvale78.
 ANIKETSURWASE.
 anilvaranasi.
 anirudhkumarm.
-anurampalli.
 APraestegaard.
 artemis15.
 ayrotideysarkar.
