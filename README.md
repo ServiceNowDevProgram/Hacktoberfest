@@ -149,9 +149,9 @@ kmxo.
 prataps135.
 sndevs-slacker-issue-reporter[bot].
 rohi-v.
+snamjosh.
 
 **Other contributors:**
-snamjosh.
 Uma20-dev.
 am-shakeel.
 D-GAJ.
@@ -170,6 +170,7 @@ Mittalkabir.
 mskoddow.
 natemac47.
 navyamasapu98.
+NavyasreeBolleboyana.
 No-gui.
 Paulsylo25.
 poojithavalli22.
@@ -569,9 +570,9 @@ Juusoee.
 KartikeSingh.
 kaushalbharade.
 lakshyatyagi24.
+loudigi.
 
 **Other contributors:**
-loudigi.
 ManobhavSachan.
 mevops.
 mikeroosa.
@@ -1182,6 +1183,7 @@ Narasimha677.
 natefern.
 natemac47.
 navyamasapu98.
+NavyasreeBolleboyana.
 nayeemwajid97.
 neenaSharma1.
 neerajs296.
