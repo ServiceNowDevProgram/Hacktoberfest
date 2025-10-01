@@ -151,9 +151,9 @@ prataps135.
 ravichandra1998g.
 sndevs-slacker-issue-reporter[bot].
 rohi-v.
+snamjosh.
 
 **Other contributors:**
-snamjosh.
 Uma20-dev.
 am-shakeel.
 D-GAJ.
@@ -181,6 +181,7 @@ priyasnexpert.
 razorblack.
 richirichard7789-svg.
 Riyamisra1.
+robinbishtt.
 RudraSathwara.
 SavedByTheVine.
 servicenowspecialist.
@@ -575,9 +576,9 @@ KartikeSingh.
 kaushalbharade.
 lakshyatyagi24.
 loudigi.
+ManobhavSachan.
 
 **Other contributors:**
-ManobhavSachan.
 mevops.
 mikeroosa.
 moshjahan.
@@ -1278,6 +1279,7 @@ rishabhbaranwal0.
 RitheshGit.
 Riyamisra1.
 robertbeeman.
+robinbishtt.
 Rohitshaun.
 RokasG.
 Ronilpatil22.
