@@ -137,14 +137,14 @@ brenduh.
 Lacah.
 chelming.
 sndevs-slacker-issue-reporter[bot].
-rohi-v.
+kmxo.
 
 **Top 50% contributors:**
+rohi-v.
 snamjosh.
 Uma20-dev.
 D-GAJ.
 eriemer1.
-kmxo.
 
 **Other contributors:**
 pankajrj.
