@@ -195,6 +195,7 @@ servicenowspecialist.
 Shikhar-Shetty.
 Smoothengineer.
 SUMEDHFORTES.
+Sumit6307.
 udaysiddapur.
 WillemZeiler.
 wiz0floyd.
@@ -458,9 +459,9 @@ jeremyrubio27.
 rohi-v.
 Sagar-agarwal.
 vhudlikar.
+wiresgit.
 
 **Top 50% contributors:**
-wiresgit.
 yourepicservices.
 ChecksumFailed.
 markroethof.
@@ -586,9 +587,9 @@ lakshyatyagi24.
 loudigi.
 ManobhavSachan.
 mevops.
+mikeroosa.
 
 **Other contributors:**
-mikeroosa.
 moshjahan.
 msdfib.
 mwchiao.
@@ -1377,6 +1378,7 @@ Suman-Kumar-Mogilicherla.
 sumanth-sndev.
 SUMEDHFORTES.
 sumedhx.
+Sumit6307.
 sumitkandpal3.
 SunilShetty29.
 sunnyt107.
