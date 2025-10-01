@@ -131,8 +131,8 @@ SapphicFire.
 anveshmupparaju.
 
 **Top 10% contributors:**
-niamccash.
 rohi-v.
+niamccash.
 brenduh.
 Lacah.
 
@@ -143,11 +143,10 @@ naveensnow.
 pankajrj.
 stefanintech.
 Aryan-Bhendarkar.
-bhavyaa30.
 at8807602.
+kmxo.
 
 **Top 50% contributors:**
-kmxo.
 koratalas.
 prataps135.
 ravichandra1998g.
@@ -156,9 +155,9 @@ shivamvish160.
 snamjosh.
 Uma20-dev.
 am-shakeel.
+cjuleff.
 
 **Other contributors:**
-cjuleff.
 D-GAJ.
 eriemer1.
 jonahpiascik.
@@ -173,6 +172,7 @@ Sriharsha19.
 ABHINAVGUPTA02.
 Atul-LNG.
 Bharathkogilamane274.
+bhavyaa30.
 brunoasantos.
 debugwithshubham.
 DhruvBhatheja.
@@ -406,6 +406,7 @@ HarshLMP870.
 Himanshu-skb-oo7.
 mmaraj1.
 nowitsvashu.
+rohi-v.
 sanjivmeher.
 Southpaw09.
 stefanintech.
@@ -415,7 +416,6 @@ aman2519.
 dalestubblefield.
 JonSandoval.
 Pradeep567iaf.
-rohi-v.
 vermaamit1664.
 watrick.
 almajam.
@@ -568,7 +568,6 @@ Aryan-Bhendarkar.
 AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
-bhavyaa30.
 brichards99.
 ChndrshP.
 Chouffy.
@@ -597,9 +596,9 @@ loudigi.
 ManobhavSachan.
 mevops.
 mikeroosa.
+moshjahan.
 
 **Other contributors:**
-moshjahan.
 msdfib.
 mwchiao.
 NilotpalMaitra.
@@ -885,6 +884,7 @@ Bharathkogilamane274.
 bharatr21.
 BhavishyaA516.
 bhavishyavelaga.
+bhavyaa30.
 Bidexdablitz.
 Bigshmow.
 billyperkinsukg.
