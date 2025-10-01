@@ -135,22 +135,22 @@ niamccash.
 brenduh.
 
 **Top 25% contributors:**
-at8807602.
 SrijanPatwa.
 Lacah.
 chelming.
 naveensnow.
 pankajrj.
 stefanintech.
+Shikhar-Shetty.
 
 **Top 50% contributors:**
-Shikhar-Shetty.
+at8807602.
 koratalas.
 kmxo.
 prataps135.
 ravichandra1998g.
-sndevs-slacker-issue-reporter[bot].
 rohi-v.
+sndevs-slacker-issue-reporter[bot].
 snamjosh.
 
 **Other contributors:**
@@ -239,12 +239,12 @@ Paulsylo25.
 Radhe-Manasa.
 sndevs-slacker-issue-reporter[bot].
 404paige.
-at8807602.
 stevezero.
 sychi77.
 ronaldkarim.
 azeezgaa.
 deepak-64742.
+at8807602.
 rafzk.
 anillande90.
 ayleeandersen.
@@ -455,6 +455,7 @@ wiresgit.
 yourepicservices.
 ChecksumFailed.
 markroethof.
+rohi-v.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
 TechnologistTim.
@@ -465,7 +466,6 @@ naveenraw25.
 NBaker137.
 patan116.
 revantKulkarni.
-rohi-v.
 sumanth1710.
 trade12.
 ttoter.
