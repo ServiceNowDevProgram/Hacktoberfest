@@ -131,14 +131,14 @@ SapphicFire.
 anveshmupparaju.
 
 **Top 10% contributors:**
+SrijanPatwa.
 rohi-v.
 shivamvish160.
 niamccash.
-brenduh.
 
 **Top 25% contributors:**
+brenduh.
 Lacah.
-SrijanPatwa.
 chelming.
 naveensnow.
 pankajrj.
@@ -268,6 +268,7 @@ rafzk.
 anillande90.
 ayleeandersen.
 gowdah.
+SrijanPatwa.
 Abhishekchowdarapu.
 alikuttyka.
 aswamy93.
@@ -275,14 +276,13 @@ YTejaswini18.
 BadalHub.
 MrChrisE.
 vandna07.
-captainbraddles.
 
 **Top 10% contributors:**
+captainbraddles.
 abhrajyotikanrar.
 alkaChaudhary73.
 csharpie.
 PranavBhagat18.
-SrijanPatwa.
 Irston.
 litwi1rm.
 mak1A4.
