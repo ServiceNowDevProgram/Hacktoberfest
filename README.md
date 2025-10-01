@@ -145,9 +145,9 @@ pankajrj.
 stefanintech.
 Aryan-Bhendarkar.
 at8807602.
+kmxo.
 
 **Top 50% contributors:**
-kmxo.
 koratalas.
 ravichandra1998g.
 prataps135.
@@ -156,9 +156,9 @@ snamjosh.
 Uma20-dev.
 am-shakeel.
 cjuleff.
+D-GAJ.
 
 **Other contributors:**
-D-GAJ.
 eriemer1.
 jonahpiascik.
 mady22070.
@@ -204,6 +204,7 @@ Sireesha-kante.
 Smoothengineer.
 SUMEDHFORTES.
 Sumit6307.
+Taranpreet1407.
 udaysiddapur.
 WillemZeiler.
 wiz0floyd.
@@ -1407,6 +1408,7 @@ TamByrd.
 TamizhNesan.
 tan-delphinus.
 tapishsh.
+Taranpreet1407.
 tdprot.
 TechnoDeba.
 techspark77.
