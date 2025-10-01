@@ -147,9 +147,10 @@ naveensnow.
 pankajrj.
 stefanintech.
 Abhishek2634.
-at8807602.
+becksbyte.
 
 **Top 50% contributors:**
+at8807602.
 kmxo.
 koratalas.
 ravichandra1998g.
@@ -159,9 +160,9 @@ ivan-betev.
 Uma20-dev.
 am-shakeel.
 Atul-LNG.
-aykmrgit.
 
 **Other contributors:**
+aykmrgit.
 bkb68.
 cjuleff.
 D-GAJ.
@@ -181,7 +182,6 @@ ABHINAVGUPTA02.
 Aditya-1208.
 Akshaykomar890.
 Aryan-Bhendarkar.
-becksbyte.
 Bharathkogilamane274.
 bhavyaa30.
 brunoasantos.
@@ -584,6 +584,7 @@ Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
+becksbyte.
 brichards99.
 ChndrshP.
 Chouffy.
@@ -614,9 +615,9 @@ mevops.
 mikeroosa.
 moshjahan.
 msdfib.
-mwchiao.
 
 **Other contributors:**
+mwchiao.
 NilotpalMaitra.
 nvprav.
 pavankumar-4.
@@ -889,7 +890,6 @@ Balamurugan-RR.
 banjofrailer.
 Basha8.
 bcprolive.
-becksbyte.
 beedme.
 belloibrahv.
 ben-vargas.
