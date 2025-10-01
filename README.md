@@ -129,10 +129,10 @@ Meet the volunteer team who will be maintaining the Hacktoberfest projects:
 earlduque.
 SapphicFire.
 Lacah.
-niamccash.
+rohi-v.
 
 **Top 10% contributors:**
-rohi-v.
+niamccash.
 shivamvish160.
 anveshmupparaju.
 SrijanPatwa.
@@ -359,12 +359,12 @@ zahidask.
 **Top 25% contributors:**
 brenduh.
 DynamiteC.
+rohi-v.
 shakeel-sheikh.
 vjtknn.
 Yokesh0811.
 mady22070.
 MarcMouries.
-rohi-v.
 sn-ajb.
 DavidMarcial.
 techYESlogyXplorer.
