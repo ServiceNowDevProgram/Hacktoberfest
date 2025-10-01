@@ -136,8 +136,8 @@ brenduh.
 **Top 25% contributors:**
 Lacah.
 chelming.
-sndevs-slacker-issue-reporter[bot].
 kmxo.
+sndevs-slacker-issue-reporter[bot].
 
 **Top 50% contributors:**
 rohi-v.
