@@ -132,14 +132,14 @@ SapphicFire.
 **Top 10% contributors:**
 niamccash.
 brenduh.
-Lacah.
+at8807602.
 
 **Top 25% contributors:**
+Lacah.
 chelming.
 stefanintech.
 Shikhar-Shetty.
 anveshmupparaju.
-at8807602.
 koratalas.
 
 **Top 50% contributors:**
@@ -234,12 +234,12 @@ Paulsylo25.
 Radhe-Manasa.
 sndevs-slacker-issue-reporter[bot].
 404paige.
+at8807602.
 stevezero.
 sychi77.
 ronaldkarim.
 azeezgaa.
 deepak-64742.
-at8807602.
 rafzk.
 anillande90.
 ayleeandersen.
