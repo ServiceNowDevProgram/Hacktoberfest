@@ -135,16 +135,16 @@ brenduh.
 at8807602.
 
 **Top 25% contributors:**
+SrijanPatwa.
 Lacah.
 chelming.
 pankajrj.
 stefanintech.
 anveshmupparaju.
-Shikhar-Shetty.
 
 **Top 50% contributors:**
+Shikhar-Shetty.
 koratalas.
-SrijanPatwa.
 kmxo.
 prataps135.
 sndevs-slacker-issue-reporter[bot].
@@ -260,6 +260,7 @@ abhrajyotikanrar.
 alkaChaudhary73.
 csharpie.
 PranavBhagat18.
+SrijanPatwa.
 anveshmupparaju.
 Irston.
 litwi1rm.
@@ -272,7 +273,6 @@ mlemartien.
 riya-misra-1.
 hentonjd.
 ravichandra1998g.
-SrijanPatwa.
 23Thom.
 aatrey882.
 salmaniqbal92.
