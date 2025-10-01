@@ -153,18 +153,18 @@ ravichandra1998g.
 wiz0floyd.
 prataps135.
 sndevs-slacker-issue-reporter[bot].
+Paulsylo25.
 snamjosh.
 Uma20-dev.
 am-shakeel.
-cjuleff.
 
 **Other contributors:**
+cjuleff.
 D-GAJ.
 eriemer1.
 jonahpiascik.
 mady22070.
 NavyasreeBolleboyana.
-Paulsylo25.
 phr-nk.
 SachinNarayanasamy.
 SavedByTheVine.
