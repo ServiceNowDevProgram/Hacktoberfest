@@ -138,20 +138,20 @@ Lacah.
 
 **Top 25% contributors:**
 SrijanPatwa.
+shivamvish160.
 chelming.
 naveensnow.
 pankajrj.
 stefanintech.
 Aryan-Bhendarkar.
 at8807602.
-kmxo.
 
 **Top 50% contributors:**
+kmxo.
 koratalas.
 prataps135.
 ravichandra1998g.
 sndevs-slacker-issue-reporter[bot].
-shivamvish160.
 snamjosh.
 Uma20-dev.
 am-shakeel.
@@ -541,6 +541,7 @@ NayeemKaka.
 praisetoyt.
 puneet94.
 pviglianti.
+shivamvish160.
 Shreedevisnow.
 sisco0.
 ashaw7697.
@@ -596,9 +597,9 @@ loudigi.
 ManobhavSachan.
 mevops.
 mikeroosa.
-moshjahan.
 
 **Other contributors:**
+moshjahan.
 msdfib.
 mwchiao.
 NilotpalMaitra.
@@ -674,7 +675,6 @@ Piyushsahu99.
 sagarbhadke08.
 saketh-22.
 SavedByTheVine.
-shivamvish160.
 sohailkhilji.
 SweetPoodle.
 tewariap.
