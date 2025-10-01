@@ -139,6 +139,7 @@ chelming.
 stefanintech.
 anveshmupparaju.
 at8807602.
+SrijanPatwa.
 kmxo.
 
 **Top 50% contributors:**
@@ -267,6 +268,7 @@ lakshmikanthgupta.
 mlemartien.
 riya-misra-1.
 hentonjd.
+SrijanPatwa.
 23Thom.
 aatrey882.
 salmaniqbal92.
@@ -280,7 +282,6 @@ ivan-betev.
 Munnisona.
 bkb68.
 prashantmrshine.
-SrijanPatwa.
 debendu-das.
 Dhruvyadav2000.
 manrick.
