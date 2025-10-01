@@ -133,12 +133,12 @@ rohi-v.
 
 **Top 10% contributors:**
 niamccash.
-shivamvish160.
 snamjosh.
+shivamvish160.
 anveshmupparaju.
-SrijanPatwa.
 
 **Top 25% contributors:**
+SrijanPatwa.
 brenduh.
 wiz0floyd.
 Paulsylo25.
@@ -153,16 +153,15 @@ becksbyte.
 at8807602.
 kmxo.
 koratalas.
-Rampriya-S.
 ravichandra1998g.
 prataps135.
 sndevs-slacker-issue-reporter[bot].
 ivan-betev.
 Uma20-dev.
 am-shakeel.
+Atul-LNG.
 
 **Other contributors:**
-Atul-LNG.
 aykmrgit.
 bkb68.
 cjuleff.
