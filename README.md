@@ -137,25 +137,25 @@ at8807602.
 **Top 25% contributors:**
 Lacah.
 chelming.
+pankajrj.
 stefanintech.
 Shikhar-Shetty.
 anveshmupparaju.
-koratalas.
 
 **Top 50% contributors:**
+koratalas.
 SrijanPatwa.
 kmxo.
 prataps135.
 sndevs-slacker-issue-reporter[bot].
 rohi-v.
-snamjosh.
 
 **Other contributors:**
+snamjosh.
 Uma20-dev.
 am-shakeel.
 D-GAJ.
 eriemer1.
-pankajrj.
 ravichandra1998g.
 SachinNarayanasamy.
 ABHINAVGUPTA02.
@@ -527,6 +527,7 @@ Beeram12.
 crooks-s.
 cschmidt82.
 Jaskaran-Techno.
+pankajrj.
 RagaChitraMankala.
 ShakthiSn.
 tejasathalye.
@@ -568,9 +569,9 @@ Juusoee.
 KartikeSingh.
 kaushalbharade.
 lakshyatyagi24.
-loudigi.
 
 **Other contributors:**
+loudigi.
 ManobhavSachan.
 mevops.
 mikeroosa.
@@ -724,7 +725,6 @@ NK-01.
 noviicee.
 NowSharif.
 OsvaldoCabral.
-pankajrj.
 Pavandileep.
 pedromadidc.
 ppalaskar.
