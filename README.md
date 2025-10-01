@@ -151,11 +151,12 @@ koratalas.
 prataps135.
 ravichandra1998g.
 sndevs-slacker-issue-reporter[bot].
+shivamvish160.
 snamjosh.
 Uma20-dev.
-am-shakeel.
 
 **Other contributors:**
+am-shakeel.
 cjuleff.
 D-GAJ.
 eriemer1.
@@ -165,7 +166,6 @@ NavyasreeBolleboyana.
 Paulsylo25.
 SachinNarayanasamy.
 SavedByTheVine.
-shivamvish160.
 Sriharsha19.
 ABHINAVGUPTA02.
 Atul-LNG.
@@ -671,6 +671,7 @@ Piyushsahu99.
 sagarbhadke08.
 saketh-22.
 SavedByTheVine.
+shivamvish160.
 sohailkhilji.
 SweetPoodle.
 tewariap.
@@ -763,7 +764,6 @@ RoshanSingh04.
 SachinNarayanasamy.
 saidinesh123.
 sankar-coder.
-shivamvish160.
 Shriramjoshi86.
 sivajyo0803.
 skwashim786.
