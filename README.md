@@ -141,18 +141,18 @@ chelming.
 pankajrj.
 stefanintech.
 anveshmupparaju.
+Shikhar-Shetty.
 
 **Top 50% contributors:**
-Shikhar-Shetty.
 koratalas.
 kmxo.
 prataps135.
 ravichandra1998g.
 sndevs-slacker-issue-reporter[bot].
 rohi-v.
+snamjosh.
 
 **Other contributors:**
-snamjosh.
 Uma20-dev.
 am-shakeel.
 D-GAJ.
@@ -171,6 +171,7 @@ Mittalkabir.
 MrRohit2506.
 mskoddow.
 natemac47.
+naveensnow.
 navyamasapu98.
 No-gui.
 Paulsylo25.
@@ -445,9 +446,9 @@ homealone07.
 Iamsant.
 jeremyrubio27.
 Sagar-agarwal.
+vhudlikar.
 
 **Top 50% contributors:**
-vhudlikar.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
@@ -572,9 +573,9 @@ KartikeSingh.
 kaushalbharade.
 lakshyatyagi24.
 loudigi.
+ManobhavSachan.
 
 **Other contributors:**
-ManobhavSachan.
 mevops.
 mikeroosa.
 moshjahan.
@@ -1185,6 +1186,7 @@ napul205.
 Narasimha677.
 natefern.
 natemac47.
+naveensnow.
 navyamasapu98.
 nayeemwajid97.
 neenaSharma1.
