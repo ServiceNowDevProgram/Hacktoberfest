@@ -142,12 +142,12 @@ naveensnow.
 pankajrj.
 stefanintech.
 Aryan-Bhendarkar.
+rohi-v.
 at8807602.
-kmxo.
 
 **Top 50% contributors:**
+kmxo.
 koratalas.
-rohi-v.
 prataps135.
 ravichandra1998g.
 sndevs-slacker-issue-reporter[bot].
@@ -454,10 +454,10 @@ Tushnik-cyber.
 fn20200323.
 pratyushasndev.
 nag39g.
+rohi-v.
 homealone07.
 Iamsant.
 jeremyrubio27.
-rohi-v.
 Sagar-agarwal.
 vhudlikar.
 wiresgit.
