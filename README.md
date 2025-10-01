@@ -134,9 +134,9 @@ niamccash.
 brenduh.
 
 **Top 25% contributors:**
+anveshmupparaju.
 Lacah.
 chelming.
-anveshmupparaju.
 kmxo.
 sndevs-slacker-issue-reporter[bot].
 
@@ -242,16 +242,16 @@ YTejaswini18.
 BadalHub.
 MrChrisE.
 vandna07.
+anveshmupparaju.
 at8807602.
-captainbraddles.
 
 **Top 10% contributors:**
+captainbraddles.
 abhrajyotikanrar.
 alkaChaudhary73.
 csharpie.
 PranavBhagat18.
 Irston.
-anveshmupparaju.
 litwi1rm.
 mak1A4.
 selvarun-umass.
