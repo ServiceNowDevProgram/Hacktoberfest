@@ -136,23 +136,23 @@ brenduh.
 **Top 25% contributors:**
 Lacah.
 chelming.
+stefanintech.
 anveshmupparaju.
 kmxo.
-prataps135.
 
 **Top 50% contributors:**
+prataps135.
 sndevs-slacker-issue-reporter[bot].
 rohi-v.
 snamjosh.
 Uma20-dev.
 am-shakeel.
-D-GAJ.
 
 **Other contributors:**
+D-GAJ.
 eriemer1.
 pankajrj.
 SachinNarayanasamy.
-stefanintech.
 ABHINAVGUPTA02.
 Bharathkogilamane274.
 brunoasantos.
@@ -381,6 +381,7 @@ mmaraj1.
 nowitsvashu.
 sanjivmeher.
 Southpaw09.
+stefanintech.
 Suri123789.
 yansa-reece.
 aman2519.
@@ -428,7 +429,6 @@ piyusalunke123.
 rene-el.
 rmedved84.
 src107.
-stefanintech.
 Tushnik-cyber.
 fn20200323.
 pratyushasndev.
