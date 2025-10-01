@@ -139,18 +139,19 @@ chelming.
 stefanintech.
 anveshmupparaju.
 at8807602.
+koratalas.
 SrijanPatwa.
-kmxo.
 
 **Top 50% contributors:**
+kmxo.
 prataps135.
 sndevs-slacker-issue-reporter[bot].
 rohi-v.
 snamjosh.
 Uma20-dev.
-am-shakeel.
 
 **Other contributors:**
+am-shakeel.
 D-GAJ.
 eriemer1.
 pankajrj.
@@ -218,8 +219,8 @@ ashoo-jindal.
 amigujarathi.
 RahmanM.
 R3J3NT.
-ajcooper72.
 koratalas.
+ajcooper72.
 hrobarikt.
 aykmrgit.
 Chraiseto.
