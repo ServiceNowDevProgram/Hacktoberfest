@@ -148,15 +148,15 @@ SrijanPatwa.
 kmxo.
 prataps135.
 sndevs-slacker-issue-reporter[bot].
+ravichandra1998g.
 rohi-v.
-snamjosh.
 
 **Other contributors:**
+snamjosh.
 Uma20-dev.
 am-shakeel.
 D-GAJ.
 eriemer1.
-ravichandra1998g.
 SachinNarayanasamy.
 ABHINAVGUPTA02.
 Bharathkogilamane274.
@@ -270,10 +270,10 @@ lakshmikanthgupta.
 mlemartien.
 riya-misra-1.
 hentonjd.
+ravichandra1998g.
 SrijanPatwa.
 23Thom.
 aatrey882.
-ravichandra1998g.
 salmaniqbal92.
 DanielMadsenDK.
 Danmax.
