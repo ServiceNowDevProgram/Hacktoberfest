@@ -148,9 +148,9 @@ pankajrj.
 stefanintech.
 Abhishek2634.
 becksbyte.
+at8807602.
 
 **Top 50% contributors:**
-at8807602.
 kmxo.
 koratalas.
 Mexiprince.
@@ -160,9 +160,9 @@ sndevs-slacker-issue-reporter[bot].
 ivan-betev.
 Uma20-dev.
 am-shakeel.
+Atul-LNG.
 
 **Other contributors:**
-Atul-LNG.
 aykmrgit.
 bkb68.
 cjuleff.
@@ -183,6 +183,7 @@ ABHINAVGUPTA02.
 Aditya-1208.
 ahmadibitoye.
 Akshaykomar890.
+anurampalli.
 Aryan-Bhendarkar.
 Bharathkogilamane274.
 bhavyaa30.
@@ -863,6 +864,7 @@ AnnaGould.
 Anoop21-oss-a.
 Anson-Mathew.
 Anuraj4.
+anurampalli.
 Anusrita-Karmakar.
 apbuhssc.
 aravindbarla22.
