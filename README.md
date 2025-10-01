@@ -185,6 +185,7 @@ hidipen.
 ineffable23.
 lstrallo.
 Manish0621.
+mitalizope.
 Mittalkabir.
 MrRohit2506.
 mskoddow.
@@ -276,9 +277,9 @@ YTejaswini18.
 BadalHub.
 MrChrisE.
 vandna07.
+captainbraddles.
 
 **Top 10% contributors:**
-captainbraddles.
 abhrajyotikanrar.
 alkaChaudhary73.
 csharpie.
@@ -341,9 +342,9 @@ davidkwhuang.
 Mexiprince.
 MYaswanth28.
 shreyawani98.
+zahidask.
 
 **Top 25% contributors:**
-zahidask.
 brenduh.
 DynamiteC.
 shakeel-sheikh.
@@ -598,10 +599,10 @@ loudigi.
 ManobhavSachan.
 mevops.
 mikeroosa.
-moshjahan.
-msdfib.
 
 **Other contributors:**
+moshjahan.
+msdfib.
 mwchiao.
 NilotpalMaitra.
 nvprav.
@@ -1190,6 +1191,7 @@ MidhaShrey.
 Mihir008.
 Mikerniker.
 mishraca.
+mitalizope.
 Mittalkabir.
 mohammedusama.
 mohan-ServiceNow.
