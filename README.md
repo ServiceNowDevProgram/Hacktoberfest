@@ -171,6 +171,7 @@ priyasnexpert.
 ravichandra1998g.
 razorblack.
 richirichard7789-svg.
+Riyamisra1.
 RudraSathwara.
 SavedByTheVine.
 servicenowspecialist.
@@ -563,9 +564,9 @@ kaushalbharade.
 lakshyatyagi24.
 loudigi.
 ManobhavSachan.
+mevops.
 
 **Other contributors:**
-mevops.
 mikeroosa.
 moshjahan.
 msdfib.
@@ -1259,6 +1260,7 @@ richirichard7789-svg.
 ricksclick.
 rishabhbaranwal0.
 RitheshGit.
+Riyamisra1.
 robertbeeman.
 Rohitshaun.
 RokasG.
