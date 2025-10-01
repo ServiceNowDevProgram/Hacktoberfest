@@ -138,10 +138,10 @@ anveshmupparaju.
 Lacah.
 chelming.
 kmxo.
-sndevs-slacker-issue-reporter[bot].
+prataps135.
 
 **Top 50% contributors:**
-prataps135.
+sndevs-slacker-issue-reporter[bot].
 rohi-v.
 snamjosh.
 Uma20-dev.
@@ -615,6 +615,7 @@ KonvalinkaCodes.
 Mallikarjuna900.
 Marll22.
 Nikuuuuu.
+prataps135.
 adamnewhall.
 ANISHAGHOSHAL.
 brumam.
@@ -638,7 +639,6 @@ nancystodd.
 outlivo.
 Pari-3.
 Piyushsahu99.
-prataps135.
 sagarbhadke08.
 saketh-22.
 sohailkhilji.
