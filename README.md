@@ -160,9 +160,10 @@ sndevs-slacker-issue-reporter[bot].
 ivan-betev.
 Uma20-dev.
 am-shakeel.
-Atul-LNG.
+anurampalli.
 
 **Other contributors:**
+Atul-LNG.
 aykmrgit.
 bkb68.
 cjuleff.
@@ -183,7 +184,6 @@ ABHINAVGUPTA02.
 Aditya-1208.
 ahmadibitoye.
 Akshaykomar890.
-anurampalli.
 Aryan-Bhendarkar.
 Bharathkogilamane274.
 bhavyaa30.
@@ -713,6 +713,7 @@ andersonvale78.
 ANIKETSURWASE.
 anilvaranasi.
 anirudhkumarm.
+anurampalli.
 APraestegaard.
 artemis15.
 ayrotideysarkar.
@@ -864,7 +865,6 @@ AnnaGould.
 Anoop21-oss-a.
 Anson-Mathew.
 Anuraj4.
-anurampalli.
 Anusrita-Karmakar.
 apbuhssc.
 aravindbarla22.
