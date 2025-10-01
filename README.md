@@ -138,8 +138,8 @@ SrijanPatwa.
 snamjosh.
 
 **Top 25% contributors:**
-brenduh.
 Lacah.
+brenduh.
 wiz0floyd.
 Paulsylo25.
 chelming.
