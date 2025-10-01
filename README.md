@@ -134,9 +134,9 @@ niamccash.
 brenduh.
 
 **Top 25% contributors:**
-anveshmupparaju.
 Lacah.
 chelming.
+anveshmupparaju.
 kmxo.
 prataps135.
 
@@ -146,9 +146,9 @@ rohi-v.
 snamjosh.
 Uma20-dev.
 am-shakeel.
+D-GAJ.
 
 **Other contributors:**
-D-GAJ.
 eriemer1.
 pankajrj.
 SachinNarayanasamy.
@@ -161,6 +161,7 @@ GokulkumarV.
 hidipen.
 lstrallo.
 Manish0621.
+mskoddow.
 natemac47.
 navyamasapu98.
 No-gui.
@@ -242,16 +243,16 @@ YTejaswini18.
 BadalHub.
 MrChrisE.
 vandna07.
-anveshmupparaju.
 at8807602.
+captainbraddles.
 
 **Top 10% contributors:**
-captainbraddles.
 abhrajyotikanrar.
 alkaChaudhary73.
 csharpie.
 PranavBhagat18.
 Irston.
+anveshmupparaju.
 litwi1rm.
 mak1A4.
 selvarun-umass.
@@ -280,9 +281,9 @@ Dhruvyadav2000.
 manrick.
 VaishnaviLathkar98.
 hafsa-asif.
+mskoddow.
 ovarn.
 devinvalencia.
-mskoddow.
 pallipoina92.
 QI-XING.
 sheikhafsarzap.
