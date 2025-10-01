@@ -138,27 +138,27 @@ SrijanPatwa.
 **Top 25% contributors:**
 Lacah.
 chelming.
+naveensnow.
 pankajrj.
 stefanintech.
 at8807602.
-kmxo.
 
 **Top 50% contributors:**
+kmxo.
 koratalas.
 rohi-v.
 prataps135.
 ravichandra1998g.
 sndevs-slacker-issue-reporter[bot].
 snamjosh.
-Uma20-dev.
 
 **Other contributors:**
+Uma20-dev.
 am-shakeel.
 cjuleff.
 D-GAJ.
 eriemer1.
 jonahpiascik.
-naveensnow.
 NavyasreeBolleboyana.
 SachinNarayanasamy.
 ABHINAVGUPTA02.
@@ -537,6 +537,7 @@ Beeram12.
 crooks-s.
 cschmidt82.
 Jaskaran-Techno.
+naveensnow.
 pankajrj.
 RagaChitraMankala.
 ShakthiSn.
@@ -582,9 +583,9 @@ lakshyatyagi24.
 loudigi.
 ManobhavSachan.
 mevops.
-mikeroosa.
 
 **Other contributors:**
+mikeroosa.
 moshjahan.
 msdfib.
 mwchiao.
@@ -730,7 +731,6 @@ monica9703.
 mua35.
 mucho243.
 mvarshney99.
-naveensnow.
 NavyasreeBolleboyana.
 NicoxNall.
 NK-01.
