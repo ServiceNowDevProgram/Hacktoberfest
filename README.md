@@ -149,8 +149,8 @@ at8807602.
 **Top 50% contributors:**
 kmxo.
 koratalas.
-prataps135.
 ravichandra1998g.
+prataps135.
 sndevs-slacker-issue-reporter[bot].
 snamjosh.
 Uma20-dev.
@@ -285,12 +285,12 @@ SrijanPatwa.
 Irston.
 litwi1rm.
 mak1A4.
+ravichandra1998g.
 selvarun-umass.
 shivamTodwal.
 iar42.
 lakshmikanthgupta.
 mlemartien.
-ravichandra1998g.
 riya-misra-1.
 hentonjd.
 23Thom.
