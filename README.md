@@ -138,13 +138,12 @@ niamccash.
 brenduh.
 Lacah.
 chelming.
-naveensnow.
 pankajrj.
 stefanintech.
 Shikhar-Shetty.
+at8807602.
 
 **Top 50% contributors:**
-at8807602.
 kmxo.
 koratalas.
 prataps135.
@@ -152,12 +151,13 @@ ravichandra1998g.
 rohi-v.
 sndevs-slacker-issue-reporter[bot].
 snamjosh.
+Uma20-dev.
 
 **Other contributors:**
-Uma20-dev.
 am-shakeel.
 D-GAJ.
 eriemer1.
+naveensnow.
 NavyasreeBolleboyana.
 SachinNarayanasamy.
 ABHINAVGUPTA02.
@@ -167,6 +167,7 @@ cjuleff.
 debugwithshubham.
 GokulkumarV.
 hidipen.
+ivan-betev.
 lstrallo.
 Manish0621.
 Mittalkabir.
@@ -283,8 +284,8 @@ DanielMadsenDK.
 Danmax.
 mohitchauhan-dev.
 mr-swann.
-himanshu7895.
 ivan-betev.
+himanshu7895.
 Munnisona.
 bkb68.
 prashantmrshine.
@@ -532,7 +533,6 @@ Beeram12.
 crooks-s.
 cschmidt82.
 Jaskaran-Techno.
-naveensnow.
 pankajrj.
 RagaChitraMankala.
 ShakthiSn.
@@ -577,9 +577,9 @@ kaushalbharade.
 lakshyatyagi24.
 loudigi.
 ManobhavSachan.
+mevops.
 
 **Other contributors:**
-mevops.
 mikeroosa.
 moshjahan.
 msdfib.
@@ -726,6 +726,7 @@ monica9703.
 mua35.
 mucho243.
 mvarshney99.
+naveensnow.
 NavyasreeBolleboyana.
 NicoxNall.
 NK-01.
