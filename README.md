@@ -146,9 +146,9 @@ chelming.
 naveensnow.
 pankajrj.
 stefanintech.
+Abhishek2634.
 
 **Top 50% contributors:**
-Abhishek2634.
 at8807602.
 kmxo.
 koratalas.
@@ -157,9 +157,9 @@ prataps135.
 sndevs-slacker-issue-reporter[bot].
 ivan-betev.
 Uma20-dev.
+am-shakeel.
 
 **Other contributors:**
-am-shakeel.
 Atul-LNG.
 aykmrgit.
 bkb68.
@@ -198,6 +198,7 @@ No-gui.
 poojithavalli22.
 Pram0dh-Kumar.
 priyasnexpert.
+ramkrishna-behera.
 razorblack.
 richirichard7789-svg.
 Riyamisra1.
@@ -477,9 +478,9 @@ Iamsant.
 jeremyrubio27.
 Sagar-agarwal.
 wiresgit.
+yourepicservices.
 
 **Top 50% contributors:**
-yourepicservices.
 ChecksumFailed.
 markroethof.
 S-w-a-p-n-i-l-22.
@@ -606,9 +607,9 @@ loudigi.
 ManobhavSachan.
 mevops.
 mikeroosa.
+moshjahan.
 
 **Other contributors:**
-moshjahan.
 msdfib.
 mwchiao.
 NilotpalMaitra.
@@ -1299,6 +1300,7 @@ rajeshkumar-2411.
 rajfauzdar.
 rajpootrajs.
 rajubhojane.
+ramkrishna-behera.
 raphaelcrv.
 Ravenon.
 razerbackh.
