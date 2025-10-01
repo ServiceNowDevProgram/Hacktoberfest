@@ -147,8 +147,8 @@ Shikhar-Shetty.
 koratalas.
 kmxo.
 prataps135.
-sndevs-slacker-issue-reporter[bot].
 ravichandra1998g.
+sndevs-slacker-issue-reporter[bot].
 rohi-v.
 
 **Other contributors:**
@@ -270,9 +270,9 @@ shivamTodwal.
 iar42.
 lakshmikanthgupta.
 mlemartien.
+ravichandra1998g.
 riya-misra-1.
 hentonjd.
-ravichandra1998g.
 23Thom.
 aatrey882.
 salmaniqbal92.
