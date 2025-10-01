@@ -152,16 +152,16 @@ koratalas.
 ravichandra1998g.
 prataps135.
 sndevs-slacker-issue-reporter[bot].
+ivan-betev.
 Paulsylo25.
 snamjosh.
 Uma20-dev.
 am-shakeel.
-cjuleff.
 
 **Other contributors:**
+cjuleff.
 D-GAJ.
 eriemer1.
-ivan-betev.
 jonahpiascik.
 mady22070.
 mariwarl.
@@ -296,10 +296,10 @@ riya-misra-1.
 hentonjd.
 23Thom.
 aatrey882.
+ivan-betev.
 salmaniqbal92.
 DanielMadsenDK.
 Danmax.
-ivan-betev.
 mohitchauhan-dev.
 mr-swann.
 himanshu7895.
