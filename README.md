@@ -136,9 +136,9 @@ niamccash.
 snamjosh.
 shivamvish160.
 anveshmupparaju.
+SrijanPatwa.
 
 **Top 25% contributors:**
-SrijanPatwa.
 brenduh.
 wiz0floyd.
 Paulsylo25.
@@ -153,15 +153,16 @@ becksbyte.
 at8807602.
 kmxo.
 koratalas.
+Mexiprince.
 ravichandra1998g.
 prataps135.
 sndevs-slacker-issue-reporter[bot].
 ivan-betev.
 Uma20-dev.
 am-shakeel.
-Atul-LNG.
 
 **Other contributors:**
+Atul-LNG.
 aykmrgit.
 bkb68.
 cjuleff.
@@ -335,6 +336,7 @@ bgrk005.
 jiteshmalik.
 jonahpiascik.
 kylburns89.
+Mexiprince.
 spnegi.
 danr2c2.
 Litwilly.
@@ -351,7 +353,6 @@ Vishnu-rvk.
 Charanjet.
 phr-nk.
 davidkwhuang.
-Mexiprince.
 MYaswanth28.
 shreyawani98.
 zahidask.
