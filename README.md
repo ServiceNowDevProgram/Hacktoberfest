@@ -154,11 +154,12 @@ prataps135.
 sndevs-slacker-issue-reporter[bot].
 snamjosh.
 Uma20-dev.
+wiz0floyd.
 am-shakeel.
 cjuleff.
-D-GAJ.
 
 **Other contributors:**
+D-GAJ.
 eriemer1.
 jonahpiascik.
 mady22070.
@@ -169,7 +170,6 @@ SachinNarayanasamy.
 SavedByTheVine.
 Siri-007.
 Sriharsha19.
-wiz0floyd.
 ABHINAVGUPTA02.
 Aditya-1208.
 Atul-LNG.
