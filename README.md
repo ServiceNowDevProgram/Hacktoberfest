@@ -141,16 +141,16 @@ kmxo.
 sndevs-slacker-issue-reporter[bot].
 
 **Top 50% contributors:**
+prataps135.
 rohi-v.
 snamjosh.
 Uma20-dev.
 am-shakeel.
-D-GAJ.
 
 **Other contributors:**
+D-GAJ.
 eriemer1.
 pankajrj.
-prataps135.
 SachinNarayanasamy.
 stefanintech.
 ABHINAVGUPTA02.
@@ -638,6 +638,7 @@ nancystodd.
 outlivo.
 Pari-3.
 Piyushsahu99.
+prataps135.
 sagarbhadke08.
 saketh-22.
 sohailkhilji.
@@ -719,7 +720,6 @@ Pavandileep.
 pedromadidc.
 ppalaskar.
 Prachi-BKulkarni.
-prataps135.
 PromoFaux.
 RajNish1210.
 ranjithsit.
