@@ -150,11 +150,11 @@ kmxo.
 **Top 50% contributors:**
 koratalas.
 ravichandra1998g.
+wiz0floyd.
 prataps135.
 sndevs-slacker-issue-reporter[bot].
 snamjosh.
 Uma20-dev.
-wiz0floyd.
 am-shakeel.
 cjuleff.
 
