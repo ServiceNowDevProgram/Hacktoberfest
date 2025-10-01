@@ -156,9 +156,9 @@ koratalas.
 ravichandra1998g.
 prataps135.
 sndevs-slacker-issue-reporter[bot].
+ivan-betev.
 
 **Other contributors:**
-ivan-betev.
 Uma20-dev.
 am-shakeel.
 Atul-LNG.
@@ -212,6 +212,7 @@ SUMEDHFORTES.
 Sumit6307.
 Taranpreet1407.
 udaysiddapur.
+vhudlikar.
 WillemZeiler.
 wmathor.
 zstromsodt.
@@ -469,11 +470,11 @@ fn20200323.
 pratyushasndev.
 nag39g.
 shivamvish160.
+vhudlikar.
 homealone07.
 Iamsant.
 jeremyrubio27.
 Sagar-agarwal.
-vhudlikar.
 wiresgit.
 
 **Top 50% contributors:**
