@@ -139,22 +139,22 @@ SrijanPatwa.
 **Top 25% contributors:**
 brenduh.
 Lacah.
+Paulsylo25.
 snamjosh.
 chelming.
 naveensnow.
 pankajrj.
 stefanintech.
 wiz0floyd.
-at8807602.
 
 **Top 50% contributors:**
+at8807602.
 kmxo.
 koratalas.
 ravichandra1998g.
 prataps135.
 sndevs-slacker-issue-reporter[bot].
 ivan-betev.
-Paulsylo25.
 Uma20-dev.
 am-shakeel.
 Atul-LNG.
@@ -253,10 +253,10 @@ Chraiseto.
 sumanthdosapati.
 TRIGGEREDcoder.
 smartcarleen.
+Paulsylo25.
 urspvs.
 maheshkhatal27.
 ankitshu.
-Paulsylo25.
 Radhe-Manasa.
 sndevs-slacker-issue-reporter[bot].
 404paige.
