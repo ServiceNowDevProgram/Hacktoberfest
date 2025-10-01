@@ -132,9 +132,9 @@ SapphicFire.
 **Top 10% contributors:**
 niamccash.
 brenduh.
+Lacah.
 
 **Top 25% contributors:**
-Lacah.
 chelming.
 stefanintech.
 anveshmupparaju.
@@ -162,6 +162,7 @@ GokulkumarV.
 hidipen.
 lstrallo.
 Manish0621.
+Mittalkabir.
 mskoddow.
 natemac47.
 navyamasapu98.
@@ -248,9 +249,9 @@ BadalHub.
 MrChrisE.
 vandna07.
 captainbraddles.
+abhrajyotikanrar.
 
 **Top 10% contributors:**
-abhrajyotikanrar.
 alkaChaudhary73.
 csharpie.
 PranavBhagat18.
@@ -312,9 +313,9 @@ Charanjet.
 davidkwhuang.
 Mexiprince.
 MYaswanth28.
+shreyawani98.
 
 **Top 25% contributors:**
-shreyawani98.
 zahidask.
 DynamiteC.
 phr-nk.
@@ -565,10 +566,10 @@ KartikeSingh.
 kaushalbharade.
 lakshyatyagi24.
 loudigi.
-ManobhavSachan.
-mevops.
 
 **Other contributors:**
+ManobhavSachan.
+mevops.
 mikeroosa.
 moshjahan.
 msdfib.
@@ -1151,6 +1152,7 @@ MidhaShrey.
 Mihir008.
 Mikerniker.
 mishraca.
+Mittalkabir.
 mohammedusama.
 mohan-ServiceNow.
 MohanKumarAmbati.
