@@ -157,9 +157,9 @@ ivan-betev.
 Paulsylo25.
 Uma20-dev.
 am-shakeel.
+Atul-LNG.
 
 **Other contributors:**
-Atul-LNG.
 cjuleff.
 D-GAJ.
 eriemer1.
@@ -177,6 +177,7 @@ Aditya-1208.
 Aryan-Bhendarkar.
 Bharathkogilamane274.
 bhavyaa30.
+bkb68.
 brunoasantos.
 debugwithshubham.
 DhruvBhatheja.
@@ -303,9 +304,9 @@ DanielMadsenDK.
 Danmax.
 mohitchauhan-dev.
 mr-swann.
+bkb68.
 himanshu7895.
 Munnisona.
-bkb68.
 prashantmrshine.
 debendu-das.
 Dhruvyadav2000.
