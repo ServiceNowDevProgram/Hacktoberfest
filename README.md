@@ -152,9 +152,9 @@ ravichandra1998g.
 sndevs-slacker-issue-reporter[bot].
 snamjosh.
 Uma20-dev.
+am-shakeel.
 
 **Other contributors:**
-am-shakeel.
 cjuleff.
 D-GAJ.
 eriemer1.
@@ -175,6 +175,7 @@ hidipen.
 ivan-betev.
 lstrallo.
 Manish0621.
+mariwarl.
 Mittalkabir.
 MrRohit2506.
 mskoddow.
@@ -1157,6 +1158,7 @@ mansikasera.
 Manveer-Pbx1.
 maralucca.
 marcosdshc.
+mariwarl.
 martineskoooo.
 martinjm27gh.
 martinkohler.
