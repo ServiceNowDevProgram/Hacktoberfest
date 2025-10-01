@@ -155,9 +155,9 @@ sndevs-slacker-issue-reporter[bot].
 shivamvish160.
 snamjosh.
 Uma20-dev.
+am-shakeel.
 
 **Other contributors:**
-am-shakeel.
 cjuleff.
 D-GAJ.
 eriemer1.
@@ -196,6 +196,7 @@ richirichard7789-svg.
 Riyamisra1.
 robinbishtt.
 RudraSathwara.
+Sefali12.
 servicenowspecialist.
 Shikhar-Shetty.
 Sireesha-kante.
@@ -1337,6 +1338,7 @@ scervv.
 scschroc.
 SeaBri.
 seemaPatl.
+Sefali12.
 sekhar398.
 sergelouie6.
 ServiceNow-Tsvetomir-PDI-Lab.
