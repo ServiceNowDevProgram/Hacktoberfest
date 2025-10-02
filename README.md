@@ -138,10 +138,10 @@ anveshmupparaju.
 niamccash.
 at8807602.
 snamjosh.
-shivamvish160.
+wiz0floyd.
 
 **Top 25% contributors:**
-wiz0floyd.
+shivamvish160.
 JonSandoval.
 SrijanPatwa.
 brenduh.
@@ -152,11 +152,10 @@ pankajrj.
 stefanintech.
 Abhishek2634.
 becksbyte.
-Dnyanesh182.
 Rajat32-op.
+Shashank102002.
 
 **Top 50% contributors:**
-Shashank102002.
 Shubham11440.
 am-shakeel.
 kmxo.
@@ -169,9 +168,9 @@ Anudhyan.
 anurampalli.
 ivan-betev.
 Siri-007.
+Uma20-dev.
 
 **Other contributors:**
-Uma20-dev.
 aykmrgit.
 bird-03.
 bkb68.
@@ -204,6 +203,7 @@ debugwithshubham.
 deepanshu4688.
 develo-oper-piyush.
 DhruvBhatheja.
+Dnyanesh182.
 Durgeshpathak-111.
 GHSayak25.
 GokulkumarV.
@@ -622,7 +622,6 @@ deathkraiser.
 demetris7.
 devalcodes.
 dhruvii-powershell.
-Dnyanesh182.
 dorsy99.
 ezratkim.
 HarshMN2345.
@@ -648,9 +647,9 @@ mwchiao.
 NilotpalMaitra.
 nvprav.
 pavankumar-4.
+physi.
 
 **Other contributors:**
-physi.
 pratyushmp.
 PreyumKr.
 Rajat32-op.
@@ -1025,6 +1024,7 @@ DirkRedeker.
 dk0017.
 dk5ax.
 dkrueger0315.
+Dnyanesh182.
 DoColl-Byte.
 dominikhycnar.
 drc.
