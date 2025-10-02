@@ -163,12 +163,12 @@ Abhishek2634.
 becksbyte.
 bird-03.
 CODEBRAKERBOYY.
+sndevs-slacker-issue-reporter[bot].
 am-shakeel.
 kmxo.
 koratalas.
 Mexiprince.
 prataps135.
-sndevs-slacker-issue-reporter[bot].
 Anudhyan.
 anurampalli.
 Siri-007.
@@ -311,8 +311,8 @@ anveshmupparaju.
 maheshkhatal27.
 ankitshu.
 at8807602.
-Radhe-Manasa.
 sndevs-slacker-issue-reporter[bot].
+Radhe-Manasa.
 404paige.
 stevezero.
 sychi77.
