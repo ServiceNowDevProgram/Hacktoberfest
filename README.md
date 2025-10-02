@@ -153,11 +153,11 @@ juhikumarimodi6.
 
 **Top 50% contributors:**
 Rajat32-op.
+ravichandra1998g.
 at8807602.
 kmxo.
 koratalas.
 Mexiprince.
-ravichandra1998g.
 prataps135.
 sndevs-slacker-issue-reporter[bot].
 Anudhyan.
@@ -308,9 +308,9 @@ alkaChaudhary73.
 csharpie.
 PranavBhagat18.
 Irston.
+ravichandra1998g.
 litwi1rm.
 mak1A4.
-ravichandra1998g.
 selvarun-umass.
 shivamTodwal.
 iar42.
