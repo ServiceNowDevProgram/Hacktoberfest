@@ -140,11 +140,11 @@ naveensnow.
 Lacah.
 juhikumarimodi6.
 snamjosh.
-at8807602.
+SrijanPatwa.
 
 **Top 25% contributors:**
-SrijanPatwa.
 JonSandoval.
+at8807602.
 brenduh.
 vhudlikar.
 GHSayak25.
@@ -171,13 +171,13 @@ kmxo.
 koratalas.
 Mexiprince.
 prataps135.
+WillemZeiler.
 Anudhyan.
-anurampalli.
 
 **Other contributors:**
+anurampalli.
 Siri-007.
 Uma20-dev.
-WillemZeiler.
 anushka157.
 aykmrgit.
 bkb68.
@@ -307,12 +307,12 @@ sumanthdosapati.
 TRIGGEREDcoder.
 Paulsylo25.
 smartcarleen.
-at8807602.
 ravichandra1998g.
 urspvs.
 anveshmupparaju.
 maheshkhatal27.
 ankitshu.
+at8807602.
 sndevs-slacker-issue-reporter[bot].
 Radhe-Manasa.
 404paige.
@@ -716,6 +716,7 @@ Mallikarjuna900.
 Marll22.
 Nikuuuuu.
 prataps135.
+WillemZeiler.
 adamnewhall.
 ANISHAGHOSHAL.
 Anudhyan.
@@ -751,7 +752,6 @@ tewariap.
 Uma20-dev.
 varunharih.
 vpeinado.
-WillemZeiler.
 ZaberMohd.
 158w5a0532.
 4yasu6.
