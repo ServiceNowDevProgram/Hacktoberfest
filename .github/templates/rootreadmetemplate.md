@@ -4,7 +4,7 @@
 
 # 🎃 Hacktoberfest 2025 is Live! 🎃
 
-<img src="../../images/quicklinks.png" alt="Code Snippets, Hack4Good, and Action Pack project banner" width="100%" usemap="#hacktoberfest-projects">
+<img src="/images/quicklinks.png" alt="Code Snippets, Hack4Good, and Action Pack project banner" width="100%" usemap="#hacktoberfest-projects">
 
 <map name="hacktoberfest-projects">
   <area shape="rect" coords="0,0,426,250" href="https://github.com/ServiceNowDevProgram/code-snippets" alt="Visit the Code Snippets repository">
@@ -130,3 +130,4 @@ Meet the volunteer team who will be maintaining the Hacktoberfest projects:
 | ![Willem Zeiler](/images/2025eighties/Willem%20Zeiler%20Small.png) | Willem Zeiler | [@WillemZeiler](https://github.com/WillemZeiler) |
 
 # <br><a name="leaders" href="#leaders">![leaders](/images/6leaders2025.png)</a>
+
