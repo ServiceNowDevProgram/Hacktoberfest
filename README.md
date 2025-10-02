@@ -163,11 +163,11 @@ kmxo.
 koratalas.
 Mexiprince.
 SaiSankar1309.
+Atul-LNG.
 prataps135.
 sndevs-slacker-issue-reporter[bot].
 Anudhyan.
 anurampalli.
-Atul-LNG.
 ivan-betev.
 
 **Other contributors:**
@@ -358,6 +358,7 @@ pallipoina92.
 QI-XING.
 sheikhafsarzap.
 sravankadudhuri.
+Atul-LNG.
 bgrk005.
 jiteshmalik.
 jonahpiascik.
@@ -365,7 +366,6 @@ JonSandoval.
 kylburns89.
 Mexiprince.
 spnegi.
-Atul-LNG.
 danr2c2.
 Litwilly.
 MRSinghRajat.
