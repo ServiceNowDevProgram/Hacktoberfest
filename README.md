@@ -155,6 +155,7 @@ Dnyanesh182.
 
 **Top 50% contributors:**
 juhikumarimodi6.
+lauri457.
 Rajat32-op.
 Shashank102002.
 am-shakeel.
@@ -165,9 +166,9 @@ prataps135.
 sndevs-slacker-issue-reporter[bot].
 Anudhyan.
 anurampalli.
-ivan-betev.
 
 **Other contributors:**
+ivan-betev.
 Uma20-dev.
 Atul-LNG.
 aykmrgit.
@@ -205,7 +206,6 @@ GokulkumarV.
 hidipen.
 ineffable23.
 KanavCode.
-lauri457.
 lstrallo.
 Manish0621.
 mirellarc.
@@ -630,6 +630,7 @@ Juusoee.
 KartikeSingh.
 kaushalbharade.
 lakshyatyagi24.
+lauri457.
 loudigi.
 ManobhavSachan.
 mevops.
@@ -637,9 +638,9 @@ mikeroosa.
 moshjahan.
 msdfib.
 mwchiao.
-NilotpalMaitra.
 
 **Other contributors:**
+NilotpalMaitra.
 nvprav.
 pavankumar-4.
 physi.
@@ -1191,7 +1192,6 @@ laherfrit.
 Lamquocminhhuy.
 LarsAssen.
 Lathasuv.
-lauri457.
 LaviniaChiburte.
 le-burger.
 LekiaAnonim.
