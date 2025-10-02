@@ -142,10 +142,10 @@ SrijanPatwa.
 **Top 25% contributors:**
 brenduh.
 JonSandoval.
+naveensnow.
 Mexiprince.
 Paulsylo25.
 chelming.
-naveensnow.
 pankajrj.
 stefanintech.
 Abhishek2634.
@@ -531,6 +531,7 @@ jesalynrose.
 Ladirinia.
 miracc.
 MiroslawBuszek.
+naveensnow.
 osc99.
 pandeysumit-now.
 patrickpaterlini.
@@ -579,7 +580,6 @@ crooks-s.
 cschmidt82.
 Jaskaran-Techno.
 juhikumarimodi6.
-naveensnow.
 pankajrj.
 RagaChitraMankala.
 ShakthiSn.
