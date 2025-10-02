@@ -168,9 +168,9 @@ ivan-betev.
 prataps135.
 sndevs-slacker-issue-reporter[bot].
 Anudhyan.
+anurampalli.
 
 **Other contributors:**
-anurampalli.
 Siri-007.
 Uma20-dev.
 aykmrgit.
@@ -229,6 +229,7 @@ poojithavalli22.
 Pram0dh-Kumar.
 praveen8808.
 priyasnexpert.
+raghavs046.
 ramkrishna-behera.
 richirichard7789-svg.
 Riyamisra1.
@@ -522,9 +523,9 @@ markroethof.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
 TechnologistTim.
+anguspalmer.
 
 **Top 50% contributors:**
-anguspalmer.
 Badal2k23.
 bhavyajain511.
 naveenraw25.
@@ -655,9 +656,9 @@ NilotpalMaitra.
 nvprav.
 pavankumar-4.
 physi.
+pratyushmp.
 
 **Other contributors:**
-pratyushmp.
 PreyumKr.
 Rajat32-op.
 RajputUsman.
@@ -1356,6 +1357,7 @@ r1990v.
 RadoEhlenov.
 rafaelbeckert.
 raghava149.
+raghavs046.
 RAGHUKARTHIKEYAN.
 RahulJamdhade.
 Rahulpawarb.
