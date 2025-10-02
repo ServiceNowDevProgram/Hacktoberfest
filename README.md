@@ -153,11 +153,12 @@ Paulsylo25.
 ivan-betev.
 Atul-LNG.
 chelming.
+mitalizope.
 pankajrj.
 raghavs046.
-Shashank102002.
 
 **Top 50% contributors:**
+Shashank102002.
 stefanintech.
 Abhishek2634.
 becksbyte.
@@ -171,9 +172,9 @@ Mexiprince.
 prataps135.
 Anudhyan.
 anurampalli.
-Siri-007.
 
 **Other contributors:**
+Siri-007.
 Uma20-dev.
 WillemZeiler.
 anushka157.
@@ -188,7 +189,6 @@ eriemer1.
 jonahpiascik.
 mady22070.
 mariwarl.
-mitalizope.
 NavyasreeBolleboyana.
 phr-nk.
 razorblack.
@@ -609,6 +609,7 @@ Beeram12.
 crooks-s.
 cschmidt82.
 Jaskaran-Techno.
+mitalizope.
 pankajrj.
 RagaChitraMankala.
 raghavs046.
@@ -665,9 +666,9 @@ msdfib.
 mwchiao.
 NilotpalMaitra.
 nvprav.
-pavankumar-4.
 
 **Other contributors:**
+pavankumar-4.
 physi.
 pratyushmp.
 PreyumKr.
@@ -813,7 +814,6 @@ madhu1256.
 marcos-michalski.
 mariwarl.
 MillerYadira.
-mitalizope.
 monica9703.
 mua35.
 mucho243.
