@@ -167,9 +167,10 @@ sndevs-slacker-issue-reporter[bot].
 Anudhyan.
 anurampalli.
 ivan-betev.
-Uma20-dev.
+Siri-007.
 
 **Other contributors:**
+Uma20-dev.
 Atul-LNG.
 aykmrgit.
 bird-03.
@@ -185,7 +186,6 @@ phr-nk.
 razorblack.
 SachinNarayanasamy.
 SavedByTheVine.
-Siri-007.
 Sriharsha19.
 TejasSNOW.
 vhudlikar.
@@ -723,6 +723,7 @@ Piyushsahu99.
 sagarbhadke08.
 saketh-22.
 SavedByTheVine.
+Siri-007.
 sohailkhilji.
 SweetPoodle.
 tewariap.
@@ -819,7 +820,6 @@ saidinesh123.
 sankar-coder.
 ServiceNowDevProgram.
 Shriramjoshi86.
-Siri-007.
 sivajyo0803.
 skwashim786.
 SKYsnaX.
