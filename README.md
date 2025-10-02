@@ -154,16 +154,15 @@ at8807602.
 kmxo.
 koratalas.
 Mexiprince.
-Rampriya-S.
 ravichandra1998g.
 prataps135.
 sndevs-slacker-issue-reporter[bot].
 anurampalli.
 ivan-betev.
 Uma20-dev.
+am-shakeel.
 
 **Other contributors:**
-am-shakeel.
 Atul-LNG.
 aykmrgit.
 bkb68.
@@ -357,13 +356,13 @@ Charanjet.
 phr-nk.
 davidkwhuang.
 MYaswanth28.
+rohi-v.
 shreyawani98.
 zahidask.
-brenduh.
 
 **Top 25% contributors:**
+brenduh.
 DynamiteC.
-rohi-v.
 shakeel-sheikh.
 vjtknn.
 Yokesh0811.
