@@ -157,6 +157,7 @@ CODEBRAKERBOYY.
 
 **Top 50% contributors:**
 DhruvBhatheja.
+GHSayak25.
 Rajat32-op.
 Shashank102002.
 am-shakeel.
@@ -168,9 +169,9 @@ Mexiprince.
 ivan-betev.
 prataps135.
 sndevs-slacker-issue-reporter[bot].
-Anudhyan.
 
 **Other contributors:**
+Anudhyan.
 anurampalli.
 Siri-007.
 Uma20-dev.
@@ -206,7 +207,6 @@ deepanshu4688.
 develo-oper-piyush.
 Dnyanesh182.
 Durgeshpathak-111.
-GHSayak25.
 GokulkumarV.
 hidipen.
 ineffable23.
@@ -632,6 +632,7 @@ DhruvBhatheja.
 dhruvii-powershell.
 dorsy99.
 ezratkim.
+GHSayak25.
 HarshMN2345.
 hmadhsan.
 iamvpbhaskar.
@@ -656,9 +657,9 @@ NilotpalMaitra.
 nvprav.
 pavankumar-4.
 physi.
-pratyushmp.
 
 **Other contributors:**
+pratyushmp.
 PreyumKr.
 Rajat32-op.
 RajputUsman.
@@ -1072,7 +1073,6 @@ gauravghodinde.
 Gayathrichennaioutlook.
 Geraldf.
 GerhardDJ.
-GHSayak25.
 GiovanniPeretti.
 git-rep0.
 Git-Snow-dev.
