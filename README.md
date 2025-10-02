@@ -153,15 +153,15 @@ Shashank102002.
 stefanintech.
 vhudlikar.
 Abhishek2634.
-becksbyte.
+Atul-LNG.
 
 **Top 50% contributors:**
+becksbyte.
 CODEBRAKERBOYY.
 DhruvBhatheja.
 GHSayak25.
 Rajat32-op.
 am-shakeel.
-Atul-LNG.
 bird-03.
 kmxo.
 koratalas.
@@ -356,10 +356,10 @@ debendu-das.
 Dhruvyadav2000.
 manrick.
 VaishnaviLathkar98.
+Atul-LNG.
 hafsa-asif.
 mskoddow.
 ovarn.
-Atul-LNG.
 devinvalencia.
 pallipoina92.
 QI-XING.
