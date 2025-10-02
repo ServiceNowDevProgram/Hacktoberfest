@@ -156,21 +156,20 @@ becksbyte.
 chelming.
 mitalizope.
 pankajrj.
-raghavs046.
 
 **Top 50% contributors:**
+raghavs046.
 Shashank102002.
 stefanintech.
 Abhishek2634.
 bird-03.
 CODEBRAKERBOYY.
 sndevs-slacker-issue-reporter[bot].
+WillemZeiler.
 am-shakeel.
 kmxo.
 koratalas.
 Mexiprince.
-Rampriya-S.
-WillemZeiler.
 prataps135.
 Anudhyan.
 
@@ -695,6 +694,7 @@ thomasvogh.
 tomlozano.
 trishitapingolia.
 ultralegendary.
+WillemZeiler.
 workpurposeusername.
 YadlaMani.
 zaidongy.
@@ -703,7 +703,6 @@ jon-lind-sn.
 kalyan120694.
 manoj424.
 ToosinDada.
-WillemZeiler.
 abdgeio.
 abhishekchavan-git.
 annapoornakesha.
