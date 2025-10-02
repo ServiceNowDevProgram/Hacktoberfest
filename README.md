@@ -134,14 +134,14 @@ Lacah.
 
 **Top 10% contributors:**
 niamccash.
+ravichandra1998g.
 snamjosh.
 shivamvish160.
 wiz0floyd.
 anveshmupparaju.
-JonSandoval.
 
 **Top 25% contributors:**
-ravichandra1998g.
+JonSandoval.
 at8807602.
 SrijanPatwa.
 brenduh.
@@ -292,13 +292,13 @@ at8807602.
 Radhe-Manasa.
 sndevs-slacker-issue-reporter[bot].
 404paige.
+ravichandra1998g.
 stevezero.
 sychi77.
 ronaldkarim.
 azeezgaa.
 anveshmupparaju.
 deepak-64742.
-ravichandra1998g.
 rafzk.
 anillande90.
 ayleeandersen.
