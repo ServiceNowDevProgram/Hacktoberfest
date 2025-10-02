@@ -160,13 +160,13 @@ kmxo.
 koratalas.
 prataps135.
 sndevs-slacker-issue-reporter[bot].
+am-shakeel.
 Anudhyan.
 anurampalli.
-ivan-betev.
 
 **Other contributors:**
+ivan-betev.
 Uma20-dev.
-am-shakeel.
 Atul-LNG.
 aykmrgit.
 bkb68.
