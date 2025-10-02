@@ -156,9 +156,9 @@ chelming.
 mitalizope.
 pankajrj.
 raghavs046.
+Shashank102002.
 
 **Top 50% contributors:**
-Shashank102002.
 stefanintech.
 Abhishek2634.
 becksbyte.
@@ -169,6 +169,7 @@ am-shakeel.
 kmxo.
 koratalas.
 Mexiprince.
+Rampriya-S.
 WillemZeiler.
 prataps135.
 Anudhyan.
