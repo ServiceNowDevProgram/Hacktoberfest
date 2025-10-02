@@ -154,15 +154,16 @@ at8807602.
 kmxo.
 koratalas.
 Mexiprince.
+Rampriya-S.
 ravichandra1998g.
 prataps135.
 sndevs-slacker-issue-reporter[bot].
 anurampalli.
 ivan-betev.
 Uma20-dev.
-am-shakeel.
 
 **Other contributors:**
+am-shakeel.
 Atul-LNG.
 aykmrgit.
 bkb68.
