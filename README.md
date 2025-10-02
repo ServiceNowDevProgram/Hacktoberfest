@@ -6,9 +6,9 @@
 
 <table role="presentation">
   <tr>
-    <td><a href="https://github.com/ServiceNowDevProgram/code-snippets"><img src="../../images/skinnymainbanner-code-snippets.png" alt="Visit the Code Snippets repository" width="427" height="250"></a></td>
-    <td><a href="https://github.com/ServiceNowDevProgram/Hack4Good-Idea-Submission"><img src="../../images/skinnymainbanner-hack4good.png" alt="Visit the Hack4Good repository" width="426" height="250"></a></td>
-    <td><a href="https://github.com/ServiceNowDevProgram/ActionPack"><img src="../../images/skinnymainbanner-actionpack.png" alt="Visit the ActionPack repository" width="427" height="250"></a></td>
+    <td><a href="https://github.com/ServiceNowDevProgram/code-snippets"><img src="/images/skinnymainbanner-code-snippets.png" alt="Visit the Code Snippets repository" width="427" height="250"></a></td>
+    <td><a href="https://github.com/ServiceNowDevProgram/Hack4Good-Idea-Submission"><img src="/images/skinnymainbanner-hack4good.png" alt="Visit the Hack4Good repository" width="426" height="250"></a></td>
+    <td><a href="https://github.com/ServiceNowDevProgram/ActionPack"><img src="/images/skinnymainbanner-actionpack.png" alt="Visit the ActionPack repository" width="427" height="250"></a></td>
   </tr>
 </table>
 
