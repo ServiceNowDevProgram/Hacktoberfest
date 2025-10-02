@@ -147,14 +147,14 @@ at8807602.
 Paulsylo25.
 chelming.
 pankajrj.
+ravichandra1998g.
 stefanintech.
 Abhishek2634.
 becksbyte.
-juhikumarimodi6.
 
 **Top 50% contributors:**
+juhikumarimodi6.
 Rajat32-op.
-ravichandra1998g.
 am-shakeel.
 kmxo.
 koratalas.
@@ -311,8 +311,8 @@ abhrajyotikanrar.
 alkaChaudhary73.
 csharpie.
 PranavBhagat18.
-Irston.
 ravichandra1998g.
+Irston.
 litwi1rm.
 mak1A4.
 selvarun-umass.
