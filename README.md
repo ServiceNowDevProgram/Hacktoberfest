@@ -167,9 +167,9 @@ sndevs-slacker-issue-reporter[bot].
 Anudhyan.
 anurampalli.
 ivan-betev.
+Uma20-dev.
 
 **Other contributors:**
-Uma20-dev.
 Atul-LNG.
 aykmrgit.
 bird-03.
@@ -191,6 +191,7 @@ TejasSNOW.
 vhudlikar.
 WillemZeiler.
 aaditya0004.
+abhi10pi.
 ABHINAVGUPTA02.
 Aditya-1208.
 ahmadibitoye.
@@ -512,9 +513,9 @@ yourepicservices.
 ChecksumFailed.
 markroethof.
 S-w-a-p-n-i-l-22.
+SaiSankar1309.
 
 **Top 50% contributors:**
-SaiSankar1309.
 SNProductOwner.
 TechnologistTim.
 anguspalmer.
@@ -644,9 +645,9 @@ msdfib.
 mwchiao.
 NilotpalMaitra.
 nvprav.
+pavankumar-4.
 
 **Other contributors:**
-pavankumar-4.
 physi.
 pratyushmp.
 PreyumKr.
@@ -851,6 +852,7 @@ aaditya0004.
 aaron-howard.
 abbottj27.
 abhayjoshi201.
+abhi10pi.
 Abhi132004.
 abhi5hek001.
 ABHINAVGUPTA02.
