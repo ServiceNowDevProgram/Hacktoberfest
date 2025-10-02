@@ -137,11 +137,11 @@ snamjosh.
 shivamvish160.
 wiz0floyd.
 anveshmupparaju.
-SrijanPatwa.
+JonSandoval.
 
 **Top 25% contributors:**
+SrijanPatwa.
 brenduh.
-JonSandoval.
 naveensnow.
 Mexiprince.
 Paulsylo25.
@@ -349,6 +349,7 @@ sravankadudhuri.
 bgrk005.
 jiteshmalik.
 jonahpiascik.
+JonSandoval.
 kylburns89.
 spnegi.
 danr2c2.
@@ -367,7 +368,6 @@ Charanjet.
 phr-nk.
 rohi-v.
 davidkwhuang.
-JonSandoval.
 MYaswanth28.
 shreyawani98.
 
