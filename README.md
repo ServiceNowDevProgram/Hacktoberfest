@@ -139,12 +139,12 @@ Lacah.
 shivamvish160.
 wiz0floyd.
 snamjosh.
-juhikumarimodi6.
+SrijanPatwa.
 
 **Top 25% contributors:**
+juhikumarimodi6.
 JonSandoval.
 at8807602.
-SrijanPatwa.
 brenduh.
 GHSayak25.
 Rajat32-op.
@@ -315,12 +315,12 @@ stevezero.
 sychi77.
 ronaldkarim.
 azeezgaa.
+SrijanPatwa.
 deepak-64742.
 rafzk.
 anillande90.
 ayleeandersen.
 gowdah.
-SrijanPatwa.
 Abhishekchowdarapu.
 alikuttyka.
 aswamy93.
