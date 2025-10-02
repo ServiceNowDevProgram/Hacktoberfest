@@ -130,13 +130,13 @@ earlduque.
 SapphicFire.
 rohi-v.
 shivamvish160.
+wiz0floyd.
 niamccash.
-ravichandra1998g.
 
 **Top 10% contributors:**
+ravichandra1998g.
 anveshmupparaju.
 naveensnow.
-wiz0floyd.
 Lacah.
 snamjosh.
 SrijanPatwa.
