@@ -148,14 +148,14 @@ brenduh.
 Shashank102002.
 Paulsylo25.
 chelming.
+juhikumarimodi6.
 pankajrj.
 stefanintech.
 Abhishek2634.
 becksbyte.
-Dnyanesh182.
 
 **Top 50% contributors:**
-juhikumarimodi6.
+Dnyanesh182.
 Rajat32-op.
 am-shakeel.
 kmxo.
@@ -581,6 +581,7 @@ Alprez.
 chris-canto-11.
 furquan5.
 harditsingh88.
+juhikumarimodi6.
 NayeemKaka.
 praisetoyt.
 puneet94.
@@ -592,7 +593,6 @@ Beeram12.
 crooks-s.
 cschmidt82.
 Jaskaran-Techno.
-juhikumarimodi6.
 pankajrj.
 RagaChitraMankala.
 ShakthiSn.
