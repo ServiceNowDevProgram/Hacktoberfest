@@ -156,6 +156,7 @@ becksbyte.
 Dnyanesh182.
 juhikumarimodi6.
 Rajat32-op.
+Shashank102002.
 am-shakeel.
 kmxo.
 koratalas.
@@ -164,9 +165,9 @@ prataps135.
 sndevs-slacker-issue-reporter[bot].
 Anudhyan.
 anurampalli.
-ivan-betev.
 
 **Other contributors:**
+ivan-betev.
 Uma20-dev.
 Atul-LNG.
 aykmrgit.
@@ -228,7 +229,6 @@ Saptarshi3456.
 Sefali12.
 ServiceNowDevProgram.
 servicenowspecialist.
-Shashank102002.
 Shikhar-Shetty.
 shubsolos19.
 Sireesha-kante.
@@ -658,6 +658,7 @@ samwinchet.
 sanchit-varshney.
 sanju009.
 Shambu-K.
+Shashank102002.
 speedy18.
 Sravanik12.
 Subhraneel77.
@@ -1404,7 +1405,6 @@ shakysnake.
 ShanClayton.
 shaoservicenow.
 sharsha315.
-Shashank102002.
 shashwatmishraog.
 sherief-io.
 SherylThompson.
