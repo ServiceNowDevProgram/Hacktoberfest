@@ -157,6 +157,7 @@ becksbyte.
 **Top 50% contributors:**
 Dnyanesh182.
 Rajat32-op.
+Shubham11440.
 am-shakeel.
 kmxo.
 koratalas.
@@ -167,9 +168,9 @@ sndevs-slacker-issue-reporter[bot].
 Anudhyan.
 anurampalli.
 ivan-betev.
-Siri-007.
 
 **Other contributors:**
+Siri-007.
 Uma20-dev.
 Atul-LNG.
 aykmrgit.
@@ -237,7 +238,6 @@ Sefali12.
 ServiceNowDevProgram.
 servicenowspecialist.
 Shikhar-Shetty.
-Shubham11440.
 shubsolos19.
 Sireesha-kante.
 Smoothengineer.
@@ -667,6 +667,7 @@ samwinchet.
 sanchit-varshney.
 sanju009.
 Shambu-K.
+Shubham11440.
 speedy18.
 Sravanik12.
 Subhraneel77.
@@ -1424,7 +1425,6 @@ SherylThompson.
 Shikhar-Shetty.
 shreyverma03.
 shubham-snc.
-Shubham11440.
 Shubham2227.
 shubsolos19.
 simt0m.
