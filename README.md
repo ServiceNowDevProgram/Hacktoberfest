@@ -152,16 +152,16 @@ Rajat32-op.
 Paulsylo25.
 ivan-betev.
 Atul-LNG.
+becksbyte.
 chelming.
 mitalizope.
 pankajrj.
 raghavs046.
-Shashank102002.
 
 **Top 50% contributors:**
+Shashank102002.
 stefanintech.
 Abhishek2634.
-becksbyte.
 bird-03.
 CODEBRAKERBOYY.
 sndevs-slacker-issue-reporter[bot].
@@ -607,6 +607,7 @@ pviglianti.
 Shreedevisnow.
 sisco0.
 ashaw7697.
+becksbyte.
 Beeram12.
 crooks-s.
 cschmidt82.
@@ -633,7 +634,6 @@ Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
-becksbyte.
 brichards99.
 ChndrshP.
 Chouffy.
