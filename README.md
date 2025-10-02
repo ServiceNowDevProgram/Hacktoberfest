@@ -197,6 +197,7 @@ GokulkumarV.
 hidipen.
 ineffable23.
 juhikumarimodi6.
+KanavCode.
 lstrallo.
 Manish0621.
 mirellarc.
@@ -623,9 +624,9 @@ mikeroosa.
 moshjahan.
 msdfib.
 mwchiao.
+NilotpalMaitra.
 
 **Other contributors:**
-NilotpalMaitra.
 nvprav.
 pavankumar-4.
 physi.
@@ -1124,6 +1125,7 @@ kainturar.
 Kaluzy.
 kalyans12.
 Kamstrup-ServiceNow.
+KanavCode.
 kanishka-parmar.
 Karan-p-singh.
 Karanyadav7.
