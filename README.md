@@ -158,13 +158,14 @@ Mexiprince.
 ravichandra1998g.
 prataps135.
 sndevs-slacker-issue-reporter[bot].
+Anudhyan.
 anurampalli.
 ivan-betev.
 Uma20-dev.
 am-shakeel.
-Atul-LNG.
 
 **Other contributors:**
+Atul-LNG.
 aykmrgit.
 bkb68.
 cjuleff.
@@ -186,7 +187,6 @@ ABHINAVGUPTA02.
 Aditya-1208.
 ahmadibitoye.
 Akshaykomar890.
-Anudhyan.
 Aryan-Bhendarkar.
 Bharathkogilamane274.
 bhavyaa30.
@@ -674,6 +674,7 @@ Nikuuuuu.
 prataps135.
 adamnewhall.
 ANISHAGHOSHAL.
+Anudhyan.
 anurampalli.
 brumam.
 cenzo85.
@@ -870,7 +871,6 @@ Anks-26.
 AnnaGould.
 Anoop21-oss-a.
 Anson-Mathew.
-Anudhyan.
 Anuraj4.
 Anusrita-Karmakar.
 apbuhssc.
