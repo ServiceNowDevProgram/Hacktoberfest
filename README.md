@@ -165,15 +165,16 @@ WillemZeiler.
 Abhishek2634.
 bird-03.
 CODEBRAKERBOYY.
+GokulkumarV.
 sndevs-slacker-issue-reporter[bot].
 am-shakeel.
 kmxo.
 koratalas.
 Mexiprince.
 prataps135.
-Anudhyan.
 
 **Other contributors:**
+Anudhyan.
 anurampalli.
 Siri-007.
 Uma20-dev.
@@ -215,7 +216,6 @@ DhruvBhatheja.
 Dnyanesh182.
 Durgeshpathak-111.
 FrancisBarla10.
-GokulkumarV.
 hidipen.
 ineffable23.
 KanavCode.
@@ -610,6 +610,7 @@ becksbyte.
 Beeram12.
 crooks-s.
 cschmidt82.
+GokulkumarV.
 Jaskaran-Techno.
 mitalizope.
 pankajrj.
@@ -666,9 +667,9 @@ mikeroosa.
 moshjahan.
 msdfib.
 mwchiao.
-NilotpalMaitra.
 
 **Other contributors:**
+NilotpalMaitra.
 nvprav.
 pavankumar-4.
 physi.
@@ -787,7 +788,6 @@ garyditsch.
 gh0stxplt.
 GK884.
 gkiratkar1.
-GokulkumarV.
 Gowthamsai29.
 gurudev-7.
 hacktoberfestservicenow.
