@@ -163,9 +163,9 @@ anurampalli.
 ivan-betev.
 Uma20-dev.
 am-shakeel.
+Atul-LNG.
 
 **Other contributors:**
-Atul-LNG.
 aykmrgit.
 bkb68.
 cjuleff.
@@ -212,6 +212,7 @@ poojithavalli22.
 Pram0dh-Kumar.
 praveen8808.
 priyasnexpert.
+Rajat32-op.
 ramkrishna-behera.
 razorblack.
 richirichard7789-svg.
@@ -1319,6 +1320,7 @@ raghava149.
 RAGHUKARTHIKEYAN.
 RahulJamdhade.
 Rahulpawarb.
+Rajat32-op.
 rajeshkumar-2411.
 rajfauzdar.
 rajpootrajs.
