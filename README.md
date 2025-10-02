@@ -130,17 +130,17 @@ earlduque.
 SapphicFire.
 Lacah.
 rohi-v.
-niamccash.
+naveensnow.
 
 **Top 10% contributors:**
+niamccash.
 snamjosh.
 shivamvish160.
 wiz0floyd.
 anveshmupparaju.
-JonSandoval.
 
 **Top 25% contributors:**
-naveensnow.
+JonSandoval.
 SrijanPatwa.
 brenduh.
 at8807602.
@@ -473,6 +473,7 @@ goranlundqvist.
 Hamritha0506.
 harisnad.
 KedarisettiSreeVamsi.
+naveensnow.
 NowRishi.
 riya-vermaa.
 99Saurabh19.
@@ -503,7 +504,6 @@ wiresgit.
 yourepicservices.
 ChecksumFailed.
 markroethof.
-naveensnow.
 
 **Top 50% contributors:**
 S-w-a-p-n-i-l-22.
