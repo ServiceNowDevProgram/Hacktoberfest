@@ -141,11 +141,11 @@ anveshmupparaju.
 
 **Top 25% contributors:**
 JonSandoval.
+at8807602.
 ravichandra1998g.
 SrijanPatwa.
 brenduh.
 Shashank102002.
-at8807602.
 Paulsylo25.
 chelming.
 pankajrj.
@@ -286,10 +286,10 @@ Paulsylo25.
 urspvs.
 maheshkhatal27.
 ankitshu.
+at8807602.
 Radhe-Manasa.
 sndevs-slacker-issue-reporter[bot].
 404paige.
-at8807602.
 stevezero.
 sychi77.
 ronaldkarim.
