@@ -165,9 +165,9 @@ ivan-betev.
 Atul-LNG.
 becksbyte.
 chelming.
+mitalizope.
 
 **Top 50% contributors:**
-mitalizope.
 pankajrj.
 raghavs046.
 Shashank102002.
@@ -181,9 +181,9 @@ am-shakeel.
 koratalas.
 Mexiprince.
 prataps135.
+Anudhyan.
 
 **Other contributors:**
-Anudhyan.
 anurampalli.
 Siri-007.
 Uma20-dev.
@@ -225,6 +225,7 @@ DhruvBhatheja.
 Dnyanesh182.
 Durgeshpathak-111.
 FrancisBarla10.
+han-le.
 hidipen.
 ineffable23.
 KanavCode.
@@ -800,6 +801,7 @@ gkiratkar1.
 Gowthamsai29.
 gurudev-7.
 hacktoberfestservicenow.
+han-le.
 HariniSnow.
 himanisinghal.
 ishanjain18.
@@ -1113,7 +1115,6 @@ guidugli.
 GuisseMaabo.
 HackoDev1530.
 Halim--1.
-han-le.
 Hanan-Ashraf.
 HannaGilbertson.
 hardikvyasji.
