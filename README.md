@@ -142,10 +142,10 @@ shivamvish160.
 JonSandoval.
 
 **Top 25% contributors:**
+juhikumarimodi6.
 at8807602.
 SrijanPatwa.
 brenduh.
-juhikumarimodi6.
 Paulsylo25.
 chelming.
 pankajrj.
@@ -515,6 +515,7 @@ shivamvish160.
 homealone07.
 Iamsant.
 jeremyrubio27.
+juhikumarimodi6.
 Sagar-agarwal.
 wiresgit.
 yourepicservices.
@@ -523,9 +524,9 @@ markroethof.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
 TechnologistTim.
-anguspalmer.
 
 **Top 50% contributors:**
+anguspalmer.
 Badal2k23.
 bhavyajain511.
 naveenraw25.
@@ -541,7 +542,6 @@ mo-dahir.
 dcord1x.
 djunaid.
 Haile-08.
-juhikumarimodi6.
 sonamtiwari8.
 Adiana3308.
 akhoshnood.
