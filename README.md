@@ -140,9 +140,9 @@ anveshmupparaju.
 JonSandoval.
 
 **Top 25% contributors:**
+naveensnow.
 SrijanPatwa.
 brenduh.
-naveensnow.
 at8807602.
 ravichandra1998g.
 Paulsylo25.
@@ -503,9 +503,10 @@ wiresgit.
 yourepicservices.
 ChecksumFailed.
 markroethof.
-S-w-a-p-n-i-l-22.
+naveensnow.
 
 **Top 50% contributors:**
+S-w-a-p-n-i-l-22.
 SNProductOwner.
 TechnologistTim.
 anguspalmer.
@@ -534,7 +535,6 @@ jesalynrose.
 Ladirinia.
 miracc.
 MiroslawBuszek.
-naveensnow.
 osc99.
 pandeysumit-now.
 patrickpaterlini.
