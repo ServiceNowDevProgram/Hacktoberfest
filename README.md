@@ -161,6 +161,7 @@ Rajat32-op.
 Shashank102002.
 am-shakeel.
 Atul-LNG.
+bird-03.
 kmxo.
 koratalas.
 Mexiprince.
@@ -168,13 +169,12 @@ ivan-betev.
 prataps135.
 sndevs-slacker-issue-reporter[bot].
 Anudhyan.
-anurampalli.
 
 **Other contributors:**
+anurampalli.
 Siri-007.
 Uma20-dev.
 aykmrgit.
-bird-03.
 bkb68.
 cjuleff.
 D-GAJ.
@@ -279,9 +279,9 @@ paigesndev.
 ynr-ram.
 ishaanshoor.
 MGOPW.
+bird-03.
 Jaspalsinghchot.
 kmxo.
-bird-03.
 DavidArthurCole.
 Praiseto.
 ashoo-jindal.
