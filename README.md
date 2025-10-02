@@ -144,8 +144,8 @@ SrijanPatwa.
 brenduh.
 naveensnow.
 at8807602.
-Paulsylo25.
 ravichandra1998g.
+Paulsylo25.
 chelming.
 pankajrj.
 stefanintech.
@@ -305,13 +305,13 @@ BadalHub.
 MrChrisE.
 vandna07.
 captainbraddles.
-abhrajyotikanrar.
+ravichandra1998g.
 
 **Top 10% contributors:**
+abhrajyotikanrar.
 alkaChaudhary73.
 csharpie.
 PranavBhagat18.
-ravichandra1998g.
 Irston.
 litwi1rm.
 mak1A4.
