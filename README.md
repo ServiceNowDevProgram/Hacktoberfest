@@ -159,16 +159,15 @@ vhudlikar.
 GHSayak25.
 GokulkumarV.
 Rajat32-op.
-kmxo.
 Paulsylo25.
 ivan-betev.
 Atul-LNG.
 becksbyte.
 chelming.
 mitalizope.
+pankajrj.
 
 **Top 50% contributors:**
-pankajrj.
 raghavs046.
 Shashank102002.
 stefanintech.
@@ -178,6 +177,7 @@ bird-03.
 CODEBRAKERBOYY.
 sndevs-slacker-issue-reporter[bot].
 am-shakeel.
+kmxo.
 koratalas.
 Mexiprince.
 prataps135.
@@ -298,9 +298,9 @@ paigesndev.
 ynr-ram.
 ishaanshoor.
 MGOPW.
-kmxo.
 bird-03.
 Jaspalsinghchot.
+kmxo.
 DavidArthurCole.
 Praiseto.
 ashoo-jindal.
