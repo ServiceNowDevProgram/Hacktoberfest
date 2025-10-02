@@ -141,8 +141,8 @@ anveshmupparaju.
 
 **Top 25% contributors:**
 JonSandoval.
-at8807602.
 ravichandra1998g.
+at8807602.
 SrijanPatwa.
 brenduh.
 Shashank102002.
@@ -297,8 +297,8 @@ ronaldkarim.
 azeezgaa.
 anveshmupparaju.
 deepak-64742.
-rafzk.
 ravichandra1998g.
+rafzk.
 anillande90.
 ayleeandersen.
 gowdah.
