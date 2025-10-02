@@ -133,15 +133,15 @@ rohi-v.
 Lacah.
 
 **Top 10% contributors:**
+anveshmupparaju.
 niamccash.
 ravichandra1998g.
 at8807602.
 snamjosh.
 shivamvish160.
-wiz0floyd.
 
 **Top 25% contributors:**
-anveshmupparaju.
+wiz0floyd.
 JonSandoval.
 SrijanPatwa.
 brenduh.
@@ -295,13 +295,13 @@ maheshkhatal27.
 ankitshu.
 Radhe-Manasa.
 sndevs-slacker-issue-reporter[bot].
+anveshmupparaju.
 ravichandra1998g.
 404paige.
 stevezero.
 sychi77.
 ronaldkarim.
 azeezgaa.
-anveshmupparaju.
 deepak-64742.
 rafzk.
 anillande90.
