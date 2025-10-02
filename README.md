@@ -136,11 +136,11 @@ niamccash.
 snamjosh.
 shivamvish160.
 anveshmupparaju.
-SrijanPatwa.
+wiz0floyd.
 
 **Top 25% contributors:**
+SrijanPatwa.
 brenduh.
-wiz0floyd.
 Paulsylo25.
 chelming.
 naveensnow.
@@ -238,8 +238,8 @@ earlduque.
 SapphicFire.
 Lacah.
 niamccash.
-am-shakeel.
 wiz0floyd.
+am-shakeel.
 Rampriya-S.
 snamjosh.
 kmohit2809.
