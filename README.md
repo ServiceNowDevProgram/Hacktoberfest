@@ -141,6 +141,7 @@ anveshmupparaju.
 **Top 25% contributors:**
 SrijanPatwa.
 brenduh.
+JonSandoval.
 Paulsylo25.
 chelming.
 naveensnow.
@@ -148,7 +149,6 @@ pankajrj.
 stefanintech.
 Abhishek2634.
 becksbyte.
-JonSandoval.
 at8807602.
 
 **Top 50% contributors:**
@@ -367,6 +367,7 @@ zahidask.
 **Top 25% contributors:**
 brenduh.
 DynamiteC.
+JonSandoval.
 shakeel-sheikh.
 vjtknn.
 Yokesh0811.
@@ -391,7 +392,6 @@ mjonssonme.
 nthumma.
 templetontsai.
 b1naryst0rm.
-JonSandoval.
 namrataghorpade.
 sdgrube2.
 wendy-ha18.
