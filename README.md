@@ -149,9 +149,9 @@ stefanintech.
 Abhishek2634.
 becksbyte.
 JonSandoval.
+at8807602.
 
 **Top 50% contributors:**
-at8807602.
 kmxo.
 koratalas.
 Mexiprince.
@@ -162,9 +162,9 @@ anurampalli.
 ivan-betev.
 Uma20-dev.
 am-shakeel.
+Atul-LNG.
 
 **Other contributors:**
-Atul-LNG.
 aykmrgit.
 bkb68.
 cjuleff.
@@ -196,6 +196,7 @@ DhruvBhatheja.
 GokulkumarV.
 hidipen.
 ineffable23.
+juhikumarimodi6.
 lstrallo.
 Manish0621.
 mirellarc.
@@ -750,6 +751,7 @@ Jahnavi-Solanki.
 javiervillarreal.
 JCofman.
 jefflintel.
+juhikumarimodi6.
 kcimpulse.
 kfrencher.
 khoilu-1512.
@@ -1113,7 +1115,6 @@ JScoder4005.
 jsmayo.
 JStuempert.
 jtudhope.
-juhikumarimodi6.
 JulietteM81.
 JustinLoftas.
 justSNaccount.
