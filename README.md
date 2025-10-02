@@ -143,19 +143,19 @@ JonSandoval.
 SrijanPatwa.
 brenduh.
 naveensnow.
+at8807602.
 Mexiprince.
 Paulsylo25.
 chelming.
 pankajrj.
 stefanintech.
 Abhishek2634.
-becksbyte.
 
 **Top 50% contributors:**
+becksbyte.
 juhikumarimodi6.
 Rajat32-op.
 ravichandra1998g.
-at8807602.
 kmxo.
 koratalas.
 prataps135.
@@ -284,13 +284,13 @@ ankitshu.
 Radhe-Manasa.
 sndevs-slacker-issue-reporter[bot].
 404paige.
+at8807602.
 stevezero.
 sychi77.
 ronaldkarim.
 azeezgaa.
 anveshmupparaju.
 deepak-64742.
-at8807602.
 rafzk.
 anillande90.
 ayleeandersen.
