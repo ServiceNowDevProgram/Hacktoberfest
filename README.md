@@ -152,9 +152,9 @@ pankajrj.
 stefanintech.
 Abhishek2634.
 becksbyte.
+Dnyanesh182.
 
 **Top 50% contributors:**
-Dnyanesh182.
 juhikumarimodi6.
 lauri457.
 Rajat32-op.
@@ -166,9 +166,9 @@ prataps135.
 sndevs-slacker-issue-reporter[bot].
 Anudhyan.
 anurampalli.
+ivan-betev.
 
 **Other contributors:**
-ivan-betev.
 Uma20-dev.
 Atul-LNG.
 aykmrgit.
@@ -197,6 +197,7 @@ Akshaykomar890.
 Aryan-Bhendarkar.
 Bharathkogilamane274.
 bhavyaa30.
+bird-03.
 brunoasantos.
 debugwithshubham.
 deepanshu4688.
