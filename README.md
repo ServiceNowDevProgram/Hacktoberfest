@@ -150,12 +150,13 @@ chelming.
 juhikumarimodi6.
 pankajrj.
 stefanintech.
+vhudlikar.
 Abhishek2634.
 becksbyte.
 DhruvBhatheja.
-Rajat32-op.
 
 **Top 50% contributors:**
+Rajat32-op.
 Shashank102002.
 am-shakeel.
 kmxo.
@@ -169,9 +170,9 @@ anurampalli.
 ivan-betev.
 Siri-007.
 Uma20-dev.
-aykmrgit.
 
 **Other contributors:**
+aykmrgit.
 bird-03.
 bkb68.
 cjuleff.
@@ -188,7 +189,6 @@ SachinNarayanasamy.
 SavedByTheVine.
 Sriharsha19.
 TejasSNOW.
-vhudlikar.
 WillemZeiler.
 aaditya0004.
 abhi10pi.
@@ -463,6 +463,7 @@ aman2519.
 dalestubblefield.
 Pradeep567iaf.
 vermaamit1664.
+vhudlikar.
 watrick.
 almajam.
 danielliaus.
@@ -506,7 +507,6 @@ src107.
 Tushnik-cyber.
 fn20200323.
 pratyushasndev.
-vhudlikar.
 nag39g.
 shivamvish160.
 homealone07.
