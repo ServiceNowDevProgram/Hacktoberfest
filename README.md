@@ -138,9 +138,9 @@ snamjosh.
 shivamvish160.
 wiz0floyd.
 anveshmupparaju.
+JonSandoval.
 
 **Top 25% contributors:**
-JonSandoval.
 ravichandra1998g.
 at8807602.
 SrijanPatwa.
@@ -202,6 +202,7 @@ debugwithshubham.
 deepanshu4688.
 DhruvBhatheja.
 Durgeshpathak-111.
+GHSayak25.
 GokulkumarV.
 hidipen.
 ineffable23.
@@ -639,9 +640,9 @@ mevops.
 mikeroosa.
 moshjahan.
 msdfib.
+mwchiao.
 
 **Other contributors:**
-mwchiao.
 NilotpalMaitra.
 nvprav.
 pavankumar-4.
@@ -1056,6 +1057,7 @@ gauravghodinde.
 Gayathrichennaioutlook.
 Geraldf.
 GerhardDJ.
+GHSayak25.
 GiovanniPeretti.
 git-rep0.
 Git-Snow-dev.
