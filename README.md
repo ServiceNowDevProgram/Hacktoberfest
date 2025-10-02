@@ -153,9 +153,10 @@ stefanintech.
 vhudlikar.
 Abhishek2634.
 becksbyte.
-DhruvBhatheja.
+CODEBRAKERBOYY.
 
 **Top 50% contributors:**
+DhruvBhatheja.
 Rajat32-op.
 Shashank102002.
 am-shakeel.
@@ -167,9 +168,9 @@ prataps135.
 sndevs-slacker-issue-reporter[bot].
 Anudhyan.
 anurampalli.
-ivan-betev.
 
 **Other contributors:**
+ivan-betev.
 Siri-007.
 Uma20-dev.
 aykmrgit.
@@ -200,7 +201,6 @@ Aryan-Bhendarkar.
 Bharathkogilamane274.
 bhavyaa30.
 brunoasantos.
-CODEBRAKERBOYY.
 debugwithshubham.
 deepanshu4688.
 develo-oper-piyush.
@@ -621,6 +621,7 @@ becksbyte.
 brichards99.
 ChndrshP.
 Chouffy.
+CODEBRAKERBOYY.
 Coder0131.
 DaleD-SN.
 deathkraiser.
@@ -654,9 +655,9 @@ NilotpalMaitra.
 nvprav.
 pavankumar-4.
 physi.
-pratyushmp.
 
 **Other contributors:**
+pratyushmp.
 PreyumKr.
 Rajat32-op.
 RajputUsman.
@@ -978,7 +979,6 @@ ChrRepou.
 Cioraz.
 cnavr.
 CObsidien.
-CODEBRAKERBOYY.
 coderdude207.
 codexpert247.
 Codjam.
