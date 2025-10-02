@@ -162,9 +162,9 @@ prataps135.
 sndevs-slacker-issue-reporter[bot].
 Anudhyan.
 anurampalli.
+ivan-betev.
 
 **Other contributors:**
-ivan-betev.
 Uma20-dev.
 am-shakeel.
 Atul-LNG.
@@ -233,6 +233,7 @@ SUMEDHFORTES.
 Sumit6307.
 Taranpreet1407.
 udaysiddapur.
+Vishnugarg897.
 wmathor.
 zstromsodt.
 
@@ -630,9 +631,9 @@ moshjahan.
 msdfib.
 mwchiao.
 NilotpalMaitra.
+nvprav.
 
 **Other contributors:**
-nvprav.
 pavankumar-4.
 physi.
 pratyushmp.
@@ -1497,6 +1498,7 @@ vijayshankar485.
 vijaytechy.
 vikasphougat.
 vino3110.
+Vishnugarg897.
 vivaan01.
 Vivek-KP.
 vivekmunda1609.
