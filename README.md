@@ -152,6 +152,7 @@ becksbyte.
 juhikumarimodi6.
 
 **Top 50% contributors:**
+Rajat32-op.
 at8807602.
 kmxo.
 koratalas.
@@ -163,9 +164,9 @@ Anudhyan.
 anurampalli.
 ivan-betev.
 Uma20-dev.
-am-shakeel.
 
 **Other contributors:**
+am-shakeel.
 Atul-LNG.
 aykmrgit.
 bkb68.
@@ -212,7 +213,6 @@ poojithavalli22.
 Pram0dh-Kumar.
 praveen8808.
 priyasnexpert.
-Rajat32-op.
 ramkrishna-behera.
 razorblack.
 richirichard7789-svg.
@@ -635,6 +635,7 @@ pavankumar-4.
 physi.
 pratyushmp.
 PreyumKr.
+Rajat32-op.
 RajputUsman.
 rawnaldduck.
 renuka-rajpuria.
@@ -1322,7 +1323,6 @@ raghava149.
 RAGHUKARTHIKEYAN.
 RahulJamdhade.
 Rahulpawarb.
-Rajat32-op.
 rajeshkumar-2411.
 rajfauzdar.
 rajpootrajs.
