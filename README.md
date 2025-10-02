@@ -4,14 +4,13 @@
 
 # 🎃 Hacktoberfest 2025 is Live! 🎃
 
-<img src="/images/quicklinks.png" alt="Code Snippets, Hack4Good, and Action Pack project banner" width="100%" usemap="#hacktoberfest-projects">
-
-<map name="hacktoberfest-projects">
-  <area shape="rect" coords="0,0,426,250" href="https://github.com/ServiceNowDevProgram/code-snippets" alt="Visit the Code Snippets repository">
-  <area shape="rect" coords="427,0,852,250" href="https://github.com/ServiceNowDevProgram/Hack4Good-Idea-Submission" alt="Visit the Hack4Good repository">
-  <area shape="rect" coords="853,0,1280,250" href="https://github.com/ServiceNowDevProgram/ActionPack" alt="Visit the ActionPack repository">
-</map>
-<br>
+<table role="presentation">
+  <tr>
+    <td><a href="https://github.com/ServiceNowDevProgram/code-snippets"><img src="/images/skinnymainbanner-code-snippets.png" alt="Visit the Code Snippets repository" width="427" height="250"></a></td>
+    <td><a href="https://github.com/ServiceNowDevProgram/Hack4Good-Idea-Submission"><img src="/images/skinnymainbanner-hack4good.png" alt="Visit the Hack4Good repository" width="426" height="250"></a></td>
+    <td><a href="https://github.com/ServiceNowDevProgram/ActionPack"><img src="/images/skinnymainbanner-actionpack.png" alt="Visit the ActionPack repository" width="427" height="250"></a></td>
+  </tr>
+</table>
 
 Welcome to ServiceNow's Hacktoberfest community repository, managed by the Developer Program and SNDevs community.
 
