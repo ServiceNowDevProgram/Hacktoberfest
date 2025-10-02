@@ -150,9 +150,9 @@ stefanintech.
 Abhishek2634.
 becksbyte.
 juhikumarimodi6.
+Rajat32-op.
 
 **Top 50% contributors:**
-Rajat32-op.
 ravichandra1998g.
 am-shakeel.
 at8807602.
@@ -163,9 +163,9 @@ prataps135.
 sndevs-slacker-issue-reporter[bot].
 Anudhyan.
 anurampalli.
+ivan-betev.
 
 **Other contributors:**
-ivan-betev.
 Uma20-dev.
 Atul-LNG.
 aykmrgit.
@@ -226,6 +226,7 @@ Saptarshi3456.
 Sefali12.
 ServiceNowDevProgram.
 servicenowspecialist.
+Shashank102002.
 Shikhar-Shetty.
 shubsolos19.
 Sireesha-kante.
@@ -304,9 +305,9 @@ BadalHub.
 MrChrisE.
 vandna07.
 captainbraddles.
+abhrajyotikanrar.
 
 **Top 10% contributors:**
-abhrajyotikanrar.
 alkaChaudhary73.
 csharpie.
 PranavBhagat18.
@@ -370,9 +371,9 @@ rohi-v.
 davidkwhuang.
 MYaswanth28.
 shreyawani98.
+zahidask.
 
 **Top 25% contributors:**
-zahidask.
 brenduh.
 DynamiteC.
 shakeel-sheikh.
@@ -631,10 +632,10 @@ mikeroosa.
 moshjahan.
 msdfib.
 mwchiao.
-NilotpalMaitra.
-nvprav.
 
 **Other contributors:**
+NilotpalMaitra.
+nvprav.
 pavankumar-4.
 physi.
 pratyushmp.
@@ -1398,6 +1399,7 @@ shakysnake.
 ShanClayton.
 shaoservicenow.
 sharsha315.
+Shashank102002.
 shashwatmishraog.
 sherief-io.
 SherylThompson.
