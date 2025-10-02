@@ -6,7 +6,9 @@
 
 Welcome to ServiceNow's Hacktoberfest community repository, managed by the Developer Program and SNDevs community.
 
-Hacktoberfest 2025 is officially underway! Jump into the projects below, connect with the crew, and start collecting contributions today.
+Hacktoberfest 2025 is officially underway! Jump into the projects below, connect with the crew, and start collecting contributions today. Whether you're a seasoned developer or just starting your open-source journey, there's something here for everyone!
+
+✨ **New to Hacktoberfest?** This annual celebration of open source brings together developers worldwide to contribute to meaningful projects and grow their skills.
 
 - A blog post about this year's participation, along with some history and background, and what's in it for participants can be found here: https://devlink.sn/hacktoberfest
 
@@ -33,20 +35,23 @@ Every reviewer/maintainer hangs out on the SNDevs Slack workspace. You can join 
 
 You can contribute by following these steps:
 
-1. Select a project from our list below that interests you
-2. Create a fork of that project's repository (you get a point just by forking!)
-3. Create a new branch on your fork
-4. Add/Update the repo
-5. Submit a pull request!
+1. 🍴 **Fork** - Select a project from our list below that interests you and create a fork of that project's repository (you get a point just by forking!)
+2. 🌿 **Branch** - Create a new branch on your fork with a descriptive name
+3. ✨ **Code** - Add your improvements, fixes, or new features to the repo
+4. 📝 **Document** - Ensure your changes are well-documented and follow the project's coding standards
+5. 🚀 **Submit** - Create a pull request with a clear description of your changes
 
 That's it! More detailed contribution instructions will be available on each project's "CONTRIBUTING.md" file. **Always read a repo's README and CONTRIBUTING files before you participate in a project!**
+
+💡 **Pro tip:** Quality over quantity! Focus on meaningful contributions that add value to the projects.
 
 # <br><a name="projects" href="#projects">![projects](/images/3projects2025.png)</a>
 
 Dive into the projects below to finish your Hacktoberfest goal:
 
-- You must make six approved pull-requests between October 1 and October 31.
-- These six pull-requests can be spread out across multiple projects or can all be for one project.
+- 🎯 You must make **six approved pull-requests** between October 1 and October 31, 2025
+- 🌟 These six pull-requests can be spread out across multiple projects or can all be for one project
+- 🏆 Quality contributions are rewarded - focus on meaningful improvements rather than trivial changes
 
 To finish your _ServiceNow_ Hacktoberfest goals (as mentioned on the blog post linked above):
 
