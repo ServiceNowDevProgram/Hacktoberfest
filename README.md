@@ -146,6 +146,7 @@ juhikumarimodi6.
 JonSandoval.
 at8807602.
 brenduh.
+vhudlikar.
 GHSayak25.
 Rajat32-op.
 Paulsylo25.
@@ -155,10 +156,9 @@ chelming.
 pankajrj.
 raghavs046.
 Shashank102002.
-stefanintech.
 
 **Top 50% contributors:**
-vhudlikar.
+stefanintech.
 Abhishek2634.
 becksbyte.
 bird-03.
@@ -432,6 +432,7 @@ wendy-ha18.
 AdilBasha1SAP.
 bradtiltonnow.
 pradeepthipani.
+vhudlikar.
 Vish-X07.
 animeshdasgit.
 ashu759.
@@ -475,7 +476,6 @@ aman2519.
 dalestubblefield.
 Pradeep567iaf.
 vermaamit1664.
-vhudlikar.
 watrick.
 almajam.
 danielliaus.
