@@ -226,6 +226,7 @@ richirichard7789-svg.
 Riyamisra1.
 robinbishtt.
 RudraSathwara.
+samikshak-web.
 Saptarshi3456.
 Sefali12.
 ServiceNowDevProgram.
@@ -1381,6 +1382,7 @@ Sakshi29G.
 salem769.
 sam16vis.
 samgoodecc.
+samikshak-web.
 samusahatpure.
 sanathan-git.
 SanketJ29.
