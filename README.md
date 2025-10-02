@@ -146,7 +146,6 @@ JonSandoval.
 at8807602.
 SrijanPatwa.
 brenduh.
-Mexiprince.
 Paulsylo25.
 chelming.
 pankajrj.
@@ -154,9 +153,9 @@ Shashank102002.
 stefanintech.
 vhudlikar.
 Abhishek2634.
+Atul-LNG.
 
 **Top 50% contributors:**
-Atul-LNG.
 becksbyte.
 CODEBRAKERBOYY.
 DhruvBhatheja.
@@ -166,6 +165,7 @@ am-shakeel.
 bird-03.
 kmxo.
 koratalas.
+Mexiprince.
 ivan-betev.
 prataps135.
 sndevs-slacker-issue-reporter[bot].
@@ -175,6 +175,7 @@ Anudhyan.
 anurampalli.
 Siri-007.
 Uma20-dev.
+WillemZeiler.
 aykmrgit.
 bkb68.
 cjuleff.
@@ -192,7 +193,6 @@ SachinNarayanasamy.
 SavedByTheVine.
 Sriharsha19.
 TejasSNOW.
-WillemZeiler.
 aaditya0004.
 abhi10pi.
 ABHINAVGUPTA02.
@@ -351,7 +351,6 @@ mr-swann.
 bkb68.
 himanshu7895.
 Munnisona.
-Mexiprince.
 prashantmrshine.
 debendu-das.
 Dhruvyadav2000.
@@ -371,6 +370,7 @@ jiteshmalik.
 jonahpiascik.
 JonSandoval.
 kylburns89.
+Mexiprince.
 spnegi.
 danr2c2.
 Litwilly.
@@ -739,6 +739,7 @@ tewariap.
 Uma20-dev.
 varunharih.
 vpeinado.
+WillemZeiler.
 ZaberMohd.
 158w5a0532.
 4yasu6.
@@ -854,7 +855,6 @@ VarAti.
 varunasuresh92.
 vishalbirajdar0712.
 vivekverma18.
-WillemZeiler.
 Zephyre195.
 0x3developer.
 1-23-smy.
