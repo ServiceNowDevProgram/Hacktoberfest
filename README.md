@@ -164,9 +164,9 @@ sndevs-slacker-issue-reporter[bot].
 Anudhyan.
 anurampalli.
 ivan-betev.
+Uma20-dev.
 
 **Other contributors:**
-Uma20-dev.
 Atul-LNG.
 aykmrgit.
 bkb68.
@@ -196,6 +196,7 @@ brunoasantos.
 debugwithshubham.
 deepanshu4688.
 DhruvBhatheja.
+Dnyanesh182.
 GokulkumarV.
 hidipen.
 ineffable23.
@@ -633,9 +634,9 @@ mikeroosa.
 moshjahan.
 msdfib.
 mwchiao.
+NilotpalMaitra.
 
 **Other contributors:**
-NilotpalMaitra.
 nvprav.
 pavankumar-4.
 physi.
@@ -1007,6 +1008,7 @@ DirkRedeker.
 dk0017.
 dk5ax.
 dkrueger0315.
+Dnyanesh182.
 DoColl-Byte.
 dominikhycnar.
 drc.
