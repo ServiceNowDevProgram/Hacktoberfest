@@ -131,17 +131,17 @@ SapphicFire.
 naveensnow.
 rohi-v.
 Lacah.
+ravichandra1998g.
 
 **Top 10% contributors:**
-ravichandra1998g.
 anveshmupparaju.
 niamccash.
 wiz0floyd.
 snamjosh.
 shivamvish160.
+JonSandoval.
 
 **Top 25% contributors:**
-JonSandoval.
 at8807602.
 SrijanPatwa.
 brenduh.
@@ -168,10 +168,10 @@ sndevs-slacker-issue-reporter[bot].
 Anudhyan.
 anurampalli.
 ivan-betev.
-Siri-007.
-Uma20-dev.
 
 **Other contributors:**
+Siri-007.
+Uma20-dev.
 aykmrgit.
 bird-03.
 bkb68.
@@ -243,6 +243,7 @@ servicenowspecialist.
 Shikhar-Shetty.
 Shubham11440.
 shubsolos19.
+Siddhartha03D.
 Sireesha-kante.
 Smoothengineer.
 SUMEDHFORTES.
@@ -652,9 +653,9 @@ NilotpalMaitra.
 nvprav.
 pavankumar-4.
 physi.
+pratyushmp.
 
 **Other contributors:**
-pratyushmp.
 PreyumKr.
 Rajat32-op.
 RajputUsman.
@@ -1435,6 +1436,7 @@ shubham-snc.
 Shubham11440.
 Shubham2227.
 shubsolos19.
+Siddhartha03D.
 simt0m.
 singhaditya73.
 SinNaveen.
