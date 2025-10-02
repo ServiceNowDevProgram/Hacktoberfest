@@ -148,6 +148,7 @@ at8807602.
 brenduh.
 vhudlikar.
 GHSayak25.
+GokulkumarV.
 Rajat32-op.
 Paulsylo25.
 ivan-betev.
@@ -155,9 +156,9 @@ Atul-LNG.
 becksbyte.
 chelming.
 mitalizope.
-pankajrj.
 
 **Top 50% contributors:**
+pankajrj.
 raghavs046.
 Shashank102002.
 stefanintech.
@@ -165,7 +166,6 @@ WillemZeiler.
 Abhishek2634.
 bird-03.
 CODEBRAKERBOYY.
-GokulkumarV.
 sndevs-slacker-issue-reporter[bot].
 am-shakeel.
 kmxo.
@@ -557,6 +557,7 @@ akhoshnood.
 allam1234.
 Decoder-Paul.
 DhanushNehru.
+GokulkumarV.
 jesalynrose.
 Ladirinia.
 miracc.
@@ -610,7 +611,6 @@ becksbyte.
 Beeram12.
 crooks-s.
 cschmidt82.
-GokulkumarV.
 Jaskaran-Techno.
 mitalizope.
 pankajrj.
