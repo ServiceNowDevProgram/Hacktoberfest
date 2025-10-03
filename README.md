@@ -172,8 +172,8 @@ Paulsylo25.
 Atul-LNG.
 ivan-betev.
 Rampriya-S.
-lauri457.
 WillemZeiler.
+lauri457.
 am-shakeel.
 becksbyte.
 chelming.
@@ -190,7 +190,6 @@ DhruvBhatheja.
 LakshmiChaitanyaReddy.
 sndevs-slacker-issue-reporter[bot].
 koratalas.
-SaiSankar1309.
 prataps135.
 Anudhyan.
 Siri-007.
@@ -551,12 +550,11 @@ yourepicservices.
 ChecksumFailed.
 markroethof.
 S-w-a-p-n-i-l-22.
-SaiSankar1309.
 SNProductOwner.
 TechnologistTim.
+anguspalmer.
 
 **Top 50% contributors:**
-anguspalmer.
 Badal2k23.
 bhavyajain511.
 naveenraw25.
@@ -589,6 +587,7 @@ MiroslawBuszek.
 osc99.
 pandeysumit-now.
 patrickpaterlini.
+SaiSankar1309.
 soham-shee.
 UTSAVS26.
 Abbas-57.
@@ -616,6 +615,7 @@ cmanik.
 ewatch.
 pranavkhurana2011.
 rohantjoshi.
+WillemZeiler.
 1shabby.
 abhilash264.
 aftab-mirza.
@@ -630,7 +630,6 @@ puneet94.
 pviglianti.
 Shreedevisnow.
 sisco0.
-WillemZeiler.
 ashaw7697.
 becksbyte.
 Beeram12.
