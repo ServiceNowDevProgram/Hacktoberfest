@@ -145,11 +145,11 @@ rohi-v.
 
 **Top 10% contributors:**
 naveensnow.
+Thrizvi.
 shivamvish160.
 anveshmupparaju.
 Lacah.
 SrijanPatwa.
-Thrizvi.
 snamjosh.
 
 **Top 25% contributors:**
@@ -416,11 +416,12 @@ phr-nk.
 davidkwhuang.
 MYaswanth28.
 shreyawani98.
+Thrizvi.
 zahidask.
 brenduh.
-DynamiteC.
 
 **Top 25% contributors:**
+DynamiteC.
 shakeel-sheikh.
 vjtknn.
 Yokesh0811.
@@ -446,7 +447,6 @@ mjonssonme.
 naveensnow.
 nthumma.
 templetontsai.
-Thrizvi.
 b1naryst0rm.
 namrataghorpade.
 sdgrube2.
