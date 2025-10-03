@@ -170,6 +170,7 @@ Atul-LNG.
 **Top 50% contributors:**
 becksbyte.
 chelming.
+lauri457.
 mitalizope.
 pankajrj.
 raghavs046.
@@ -178,7 +179,6 @@ WillemZeiler.
 Abhishek2634.
 bird-03.
 CODEBRAKERBOYY.
-lauri457.
 sndevs-slacker-issue-reporter[bot].
 am-shakeel.
 koratalas.
@@ -624,6 +624,7 @@ Beeram12.
 crooks-s.
 cschmidt82.
 Jaskaran-Techno.
+lauri457.
 mitalizope.
 pankajrj.
 RagaChitraMankala.
@@ -672,7 +673,6 @@ Juusoee.
 KartikeSingh.
 kaushalbharade.
 lakshyatyagi24.
-lauri457.
 loudigi.
 ManobhavSachan.
 mevops.
