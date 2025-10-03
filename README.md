@@ -140,11 +140,11 @@ SapphicFire.
 wiz0floyd.
 niamccash.
 rohi-v.
-shivamvish160.
+ravichandra1998g.
 
 **Top 10% contributors:**
+shivamvish160.
 juhikumarimodi6.
-ravichandra1998g.
 anveshmupparaju.
 naveensnow.
 Lacah.
@@ -153,12 +153,12 @@ SrijanPatwa.
 
 **Top 25% contributors:**
 JonSandoval.
-KrishChothani.
 Rajat32-op.
 at8807602.
 Mexiprince.
 anurampalli.
 brenduh.
+KrishChothani.
 stefanintech.
 vhudlikar.
 GHSayak25.
@@ -542,14 +542,13 @@ Sagar-agarwal.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
-KrishChothani.
 markroethof.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
 TechnologistTim.
+anguspalmer.
 
 **Top 50% contributors:**
-anguspalmer.
 Badal2k23.
 bhavyajain511.
 naveenraw25.
@@ -575,6 +574,7 @@ Decoder-Paul.
 DhanushNehru.
 GokulkumarV.
 jesalynrose.
+KrishChothani.
 Ladirinia.
 miracc.
 MiroslawBuszek.
