@@ -181,10 +181,11 @@ raghavs046.
 Shashank102002.
 WillemZeiler.
 Abhishek2634.
+bhavyaa30.
 bird-03.
-CODEBRAKERBOYY.
 
 **Other contributors:**
+CODEBRAKERBOYY.
 LakshmiChaitanyaReddy.
 sndevs-slacker-issue-reporter[bot].
 koratalas.
@@ -223,7 +224,6 @@ Akshaykomar890.
 animeshdasgit.
 Aryan-Bhendarkar.
 Bharathkogilamane274.
-bhavyaa30.
 brunoasantos.
 debugwithshubham.
 deepanshu4688.
@@ -656,6 +656,7 @@ Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
+bhavyaa30.
 brichards99.
 ChndrshP.
 Chouffy.
@@ -686,9 +687,9 @@ loudigi.
 ManobhavSachan.
 mevops.
 mikeroosa.
-moshjahan.
 
 **Other contributors:**
+moshjahan.
 msdfib.
 mwchiao.
 NilotpalMaitra.
@@ -989,7 +990,6 @@ Bharathkogilamane274.
 bharatr21.
 BhavishyaA516.
 bhavishyavelaga.
-bhavyaa30.
 Bidexdablitz.
 Bigshmow.
 billyperkinsukg.
