@@ -183,9 +183,9 @@ raghavs046.
 Shashank102002.
 Abhishek2634.
 bhavyaa30.
+CODEBRAKERBOYY.
 
 **Other contributors:**
-CODEBRAKERBOYY.
 DhruvBhatheja.
 LakshmiChaitanyaReddy.
 sndevs-slacker-issue-reporter[bot].
@@ -227,6 +227,7 @@ animeshdasgit.
 Aryan-Bhendarkar.
 Bharathkogilamane274.
 brunoasantos.
+DanielMadsenDK.
 debugwithshubham.
 deepanshu4688.
 develo-oper-piyush.
@@ -373,8 +374,8 @@ hentonjd.
 Mexiprince.
 23Thom.
 aatrey882.
-salmaniqbal92.
 DanielMadsenDK.
+salmaniqbal92.
 mohitchauhan-dev.
 mr-swann.
 bkb68.
