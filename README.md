@@ -177,13 +177,14 @@ WillemZeiler.
 Abhishek2634.
 bird-03.
 CODEBRAKERBOYY.
+lauri457.
 sndevs-slacker-issue-reporter[bot].
 am-shakeel.
 koratalas.
 prataps135.
-Anudhyan.
 
 **Other contributors:**
+Anudhyan.
 anurampalli.
 Rampriya-S.
 Siri-007.
@@ -232,7 +233,6 @@ ineffable23.
 KanavCode.
 kmohit2809.
 kunalsinghdadhwal.
-lauri457.
 lstrallo.
 Manish0621.
 meetvansjaliya.
@@ -671,15 +671,16 @@ Juusoee.
 KartikeSingh.
 kaushalbharade.
 lakshyatyagi24.
+lauri457.
 loudigi.
 ManobhavSachan.
 mevops.
 mikeroosa.
 moshjahan.
 msdfib.
-mwchiao.
 
 **Other contributors:**
+mwchiao.
 NilotpalMaitra.
 nvprav.
 pavankumar-4.
@@ -1238,7 +1239,6 @@ laherfrit.
 Lamquocminhhuy.
 LarsAssen.
 Lathasuv.
-lauri457.
 LaviniaChiburte.
 le-burger.
 LekiaAnonim.
