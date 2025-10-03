@@ -147,10 +147,10 @@ naveensnow.
 ravichandra1998g.
 rohi-v.
 JonSandoval.
+SrijanPatwa.
 Mexiprince.
 anveshmupparaju.
 Lacah.
-SrijanPatwa.
 
 **Top 25% contributors:**
 raghavs046.
@@ -334,6 +334,7 @@ Paulsylo25.
 sumanthdosapati.
 TRIGGEREDcoder.
 smartcarleen.
+SrijanPatwa.
 urspvs.
 anveshmupparaju.
 maheshkhatal27.
@@ -341,7 +342,6 @@ ankitshu.
 at8807602.
 sndevs-slacker-issue-reporter[bot].
 Radhe-Manasa.
-SrijanPatwa.
 404paige.
 stevezero.
 sychi77.
