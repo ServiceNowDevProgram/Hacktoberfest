@@ -185,6 +185,7 @@ sndevs-slacker-issue-reporter[bot].
 koratalas.
 
 **Other contributors:**
+KrishChothani.
 prataps135.
 Anudhyan.
 Siri-007.
@@ -200,7 +201,6 @@ divyajetti9.
 Ehabpilloor.
 eriemer1.
 jonahpiascik.
-KrishChothani.
 mady22070.
 mariwarl.
 NavyasreeBolleboyana.
@@ -727,6 +727,7 @@ bendouglass.
 Deraged.
 fauverism.
 KonvalinkaCodes.
+KrishChothani.
 Mallikarjuna900.
 Marll22.
 Nikuuuuu.
@@ -821,7 +822,6 @@ khoilu-1512.
 khushii-hub.
 kkbrains1.
 Koustav-coder.
-KrishChothani.
 Kswierk.
 LakshmiPrasanna96.
 lucas-especta.
