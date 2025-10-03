@@ -139,14 +139,14 @@ earlduque.
 SapphicFire.
 wiz0floyd.
 niamccash.
+naveensnow.
 rohi-v.
-ravichandra1998g.
 
 **Top 10% contributors:**
+ravichandra1998g.
 shivamvish160.
 juhikumarimodi6.
 anveshmupparaju.
-naveensnow.
 Lacah.
 snamjosh.
 SrijanPatwa.
@@ -438,6 +438,7 @@ hoederath.
 isaac-vicentini.
 mioyokohama.
 mjonssonme.
+naveensnow.
 nthumma.
 templetontsai.
 b1naryst0rm.
@@ -475,7 +476,6 @@ jacebenson.
 katsiarynasoshyna.
 mandeepkaran.
 mebeingmustaq.
-naveensnow.
 ReginaldFawcett.
 Saileshlanka.
 thorn91.
