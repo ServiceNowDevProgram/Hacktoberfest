@@ -149,12 +149,12 @@ rohi-v.
 anveshmupparaju.
 Lacah.
 SrijanPatwa.
+JonSandoval.
 snamjosh.
-Thrizvi.
 
 **Top 25% contributors:**
+Thrizvi.
 Mexiprince.
-JonSandoval.
 raghavs046.
 Rajat32-op.
 at8807602.
@@ -388,6 +388,7 @@ bkb68.
 himanshu7895.
 mskoddow.
 Munnisona.
+JonSandoval.
 prashantmrshine.
 debendu-das.
 Dhruvyadav2000.
@@ -404,7 +405,6 @@ sravankadudhuri.
 bgrk005.
 jiteshmalik.
 jonahpiascik.
-JonSandoval.
 kylburns89.
 spnegi.
 danr2c2.
