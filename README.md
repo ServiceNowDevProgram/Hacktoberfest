@@ -152,11 +152,11 @@ snamjosh.
 SrijanPatwa.
 
 **Top 25% contributors:**
+Thrizvi.
 JonSandoval.
 Rajat32-op.
 at8807602.
 Mexiprince.
-Thrizvi.
 anurampalli.
 brenduh.
 KrishChothani.
@@ -481,6 +481,7 @@ mebeingmustaq.
 ReginaldFawcett.
 Saileshlanka.
 thorn91.
+Thrizvi.
 vamsi0777.
 HarshLMP870.
 Himanshu-skb-oo7.
@@ -520,7 +521,6 @@ harisnad.
 KedarisettiSreeVamsi.
 NowRishi.
 riya-vermaa.
-Thrizvi.
 99Saurabh19.
 allenandreas.
 AnithaA09.
