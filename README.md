@@ -165,9 +165,10 @@ Rajat32-op.
 Paulsylo25.
 ivan-betev.
 Rampriya-S.
-Atul-LNG.
+anurampalli.
 
 **Top 50% contributors:**
+Atul-LNG.
 becksbyte.
 chelming.
 lauri457.
@@ -182,11 +183,10 @@ CODEBRAKERBOYY.
 sndevs-slacker-issue-reporter[bot].
 am-shakeel.
 koratalas.
-prataps135.
 
 **Other contributors:**
+prataps135.
 Anudhyan.
-anurampalli.
 Siri-007.
 Uma20-dev.
 anushka157.
@@ -609,6 +609,7 @@ rohantjoshi.
 abhilash264.
 aftab-mirza.
 Alprez.
+anurampalli.
 chris-canto-11.
 furquan5.
 harditsingh88.
@@ -678,9 +679,9 @@ ManobhavSachan.
 mevops.
 mikeroosa.
 moshjahan.
-msdfib.
 
 **Other contributors:**
+msdfib.
 mwchiao.
 NilotpalMaitra.
 nvprav.
@@ -732,7 +733,6 @@ prataps135.
 adamnewhall.
 ANISHAGHOSHAL.
 Anudhyan.
-anurampalli.
 brumam.
 cenzo85.
 chaytarak.
