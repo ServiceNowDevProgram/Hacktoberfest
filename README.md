@@ -150,11 +150,11 @@ shivamvish160.
 anveshmupparaju.
 Lacah.
 SrijanPatwa.
-snamjosh.
+Mexiprince.
 
 **Top 25% contributors:**
+snamjosh.
 Thrizvi.
-Mexiprince.
 raghavs046.
 vhudlikar.
 Rajat32-op.
@@ -353,21 +353,21 @@ gowdah.
 Abhishekchowdarapu.
 alikuttyka.
 aswamy93.
+Mexiprince.
 YTejaswini18.
 BadalHub.
 MrChrisE.
 vandna07.
 captainbraddles.
-abhrajyotikanrar.
 
 **Top 10% contributors:**
+abhrajyotikanrar.
 alkaChaudhary73.
 csharpie.
 DanielMadsenDK.
 ivan-betev.
 JonSandoval.
 PranavBhagat18.
-Mexiprince.
 Irston.
 bkb68.
 litwi1rm.
