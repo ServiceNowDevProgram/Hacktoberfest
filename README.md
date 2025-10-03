@@ -156,6 +156,7 @@ JonSandoval.
 Rajat32-op.
 at8807602.
 Mexiprince.
+Thrizvi.
 anurampalli.
 brenduh.
 KrishChothani.
@@ -165,7 +166,6 @@ GHSayak25.
 GokulkumarV.
 kmxo.
 Paulsylo25.
-Thrizvi.
 ivan-betev.
 
 **Top 50% contributors:**
@@ -518,6 +518,7 @@ harisnad.
 KedarisettiSreeVamsi.
 NowRishi.
 riya-vermaa.
+Thrizvi.
 99Saurabh19.
 allenandreas.
 AnithaA09.
@@ -547,7 +548,6 @@ markroethof.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
 TechnologistTim.
-Thrizvi.
 
 **Top 50% contributors:**
 anguspalmer.
