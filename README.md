@@ -178,10 +178,10 @@ raghavs046.
 Shashank102002.
 WillemZeiler.
 Abhishek2634.
+am-shakeel.
 bird-03.
 CODEBRAKERBOYY.
 sndevs-slacker-issue-reporter[bot].
-am-shakeel.
 koratalas.
 
 **Other contributors:**
