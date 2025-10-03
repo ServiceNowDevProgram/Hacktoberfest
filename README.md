@@ -140,10 +140,10 @@ SapphicFire.
 wiz0floyd.
 niamccash.
 naveensnow.
-rohi-v.
+ravichandra1998g.
 
 **Top 10% contributors:**
-ravichandra1998g.
+rohi-v.
 shivamvish160.
 juhikumarimodi6.
 anveshmupparaju.
@@ -152,11 +152,11 @@ snamjosh.
 SrijanPatwa.
 
 **Top 25% contributors:**
-Thrizvi.
 JonSandoval.
 Rajat32-op.
 at8807602.
 Mexiprince.
+Thrizvi.
 anurampalli.
 brenduh.
 KrishChothani.
@@ -322,8 +322,8 @@ Chraiseto.
 sumanthdosapati.
 TRIGGEREDcoder.
 Paulsylo25.
-smartcarleen.
 ravichandra1998g.
+smartcarleen.
 urspvs.
 anveshmupparaju.
 maheshkhatal27.
@@ -482,7 +482,6 @@ mebeingmustaq.
 ReginaldFawcett.
 Saileshlanka.
 thorn91.
-Thrizvi.
 vamsi0777.
 HarshLMP870.
 Himanshu-skb-oo7.
@@ -522,6 +521,7 @@ harisnad.
 KedarisettiSreeVamsi.
 NowRishi.
 riya-vermaa.
+Thrizvi.
 99Saurabh19.
 allenandreas.
 AnithaA09.
