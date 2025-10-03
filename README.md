@@ -162,13 +162,13 @@ Rajat32-op.
 at8807602.
 Atul-LNG.
 anurampalli.
+Paulsylo25.
 brenduh.
 kmxo.
 KrishChothani.
 stefanintech.
 GHSayak25.
 GokulkumarV.
-Paulsylo25.
 ivan-betev.
 
 **Top 50% contributors:**
