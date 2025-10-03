@@ -182,9 +182,9 @@ lauri457.
 sndevs-slacker-issue-reporter[bot].
 am-shakeel.
 koratalas.
+prataps135.
 
 **Other contributors:**
-prataps135.
 Anudhyan.
 anurampalli.
 Siri-007.
@@ -230,6 +230,7 @@ FrancisBarla10.
 han-le.
 hidipen.
 ineffable23.
+jainmridul82.
 KanavCode.
 kmohit2809.
 kunalsinghdadhwal.
@@ -1150,6 +1151,7 @@ IslamMari.
 IvanStojanov.
 j-infinger.
 j2clow.
+jainmridul82.
 jamalissimo.
 jambo969.
 jamiestroud.
