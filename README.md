@@ -181,11 +181,11 @@ WillemZeiler.
 Abhishek2634.
 bird-03.
 CODEBRAKERBOYY.
+KrishChothani.
 sndevs-slacker-issue-reporter[bot].
-koratalas.
 
 **Other contributors:**
-KrishChothani.
+koratalas.
 prataps135.
 Anudhyan.
 Siri-007.
@@ -674,15 +674,16 @@ jordanrogus.
 Juusoee.
 KartikeSingh.
 kaushalbharade.
+KrishChothani.
 lakshyatyagi24.
 loudigi.
 ManobhavSachan.
 mevops.
 mikeroosa.
 moshjahan.
-msdfib.
 
 **Other contributors:**
+msdfib.
 mwchiao.
 NilotpalMaitra.
 nvprav.
@@ -727,7 +728,6 @@ bendouglass.
 Deraged.
 fauverism.
 KonvalinkaCodes.
-KrishChothani.
 Mallikarjuna900.
 Marll22.
 Nikuuuuu.
