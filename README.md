@@ -146,11 +146,11 @@ ravichandra1998g.
 **Top 10% contributors:**
 rohi-v.
 JonSandoval.
+Mexiprince.
 shivamvish160.
 anveshmupparaju.
 Lacah.
 SrijanPatwa.
-Mexiprince.
 
 **Top 25% contributors:**
 snamjosh.
@@ -346,6 +346,7 @@ sychi77.
 ronaldkarim.
 azeezgaa.
 deepak-64742.
+Mexiprince.
 rafzk.
 anillande90.
 ayleeandersen.
@@ -353,7 +354,6 @@ gowdah.
 Abhishekchowdarapu.
 alikuttyka.
 aswamy93.
-Mexiprince.
 YTejaswini18.
 BadalHub.
 MrChrisE.
