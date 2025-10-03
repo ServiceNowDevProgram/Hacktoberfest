@@ -164,10 +164,11 @@ kmxo.
 Rajat32-op.
 Paulsylo25.
 ivan-betev.
+Rampriya-S.
 Atul-LNG.
-becksbyte.
 
 **Top 50% contributors:**
+becksbyte.
 chelming.
 mitalizope.
 pankajrj.
@@ -181,12 +182,11 @@ lauri457.
 sndevs-slacker-issue-reporter[bot].
 am-shakeel.
 koratalas.
-prataps135.
 
 **Other contributors:**
+prataps135.
 Anudhyan.
 anurampalli.
-Rampriya-S.
 Siri-007.
 Uma20-dev.
 anushka157.
