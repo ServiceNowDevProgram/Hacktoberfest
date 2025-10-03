@@ -171,10 +171,10 @@ Paulsylo25.
 **Top 50% contributors:**
 ivan-betev.
 Rampriya-S.
+Atul-LNG.
 lauri457.
 WillemZeiler.
 am-shakeel.
-Atul-LNG.
 becksbyte.
 chelming.
 mitalizope.
@@ -186,7 +186,6 @@ bird-03.
 
 **Other contributors:**
 CODEBRAKERBOYY.
-DhruvBhatheja.
 LakshmiChaitanyaReddy.
 sndevs-slacker-issue-reporter[bot].
 koratalas.
@@ -229,6 +228,7 @@ brunoasantos.
 debugwithshubham.
 deepanshu4688.
 develo-oper-piyush.
+DhruvBhatheja.
 Dnyanesh182.
 Durgeshpathak-111.
 FrancisBarla10.
@@ -380,12 +380,12 @@ bkb68.
 himanshu7895.
 Munnisona.
 prashantmrshine.
+Atul-LNG.
 debendu-das.
 Dhruvyadav2000.
 manrick.
 rohi-v.
 VaishnaviLathkar98.
-Atul-LNG.
 mskoddow.
 hafsa-asif.
 ovarn.
@@ -666,7 +666,6 @@ DaleD-SN.
 deathkraiser.
 demetris7.
 devalcodes.
-DhruvBhatheja.
 dhruvii-powershell.
 dorsy99.
 ezratkim.
@@ -687,9 +686,9 @@ lakshyatyagi24.
 loudigi.
 ManobhavSachan.
 mevops.
+mikeroosa.
 
 **Other contributors:**
-mikeroosa.
 moshjahan.
 msdfib.
 mwchiao.
@@ -1059,6 +1058,7 @@ devendra175151.
 DFanso.
 dhadwal.
 Dhar45.
+DhruvBhatheja.
 dhumalparth.
 diasjp.
 Dimuthu7.
