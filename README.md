@@ -145,11 +145,11 @@ rohi-v.
 
 **Top 10% contributors:**
 naveensnow.
-Thrizvi.
 shivamvish160.
 anveshmupparaju.
 Lacah.
 SrijanPatwa.
+Thrizvi.
 snamjosh.
 
 **Top 25% contributors:**
@@ -190,9 +190,9 @@ DhruvBhatheja.
 LakshmiChaitanyaReddy.
 sndevs-slacker-issue-reporter[bot].
 koratalas.
+mskoddow.
 prataps135.
 Anudhyan.
-mskoddow.
 Siri-007.
 Uma20-dev.
 anushka157.
@@ -380,11 +380,11 @@ bkb68.
 himanshu7895.
 Munnisona.
 Atul-LNG.
+mskoddow.
 prashantmrshine.
 debendu-das.
 Dhruvyadav2000.
 manrick.
-mskoddow.
 rohi-v.
 VaishnaviLathkar98.
 hafsa-asif.
@@ -416,12 +416,11 @@ phr-nk.
 davidkwhuang.
 MYaswanth28.
 shreyawani98.
-Thrizvi.
 zahidask.
 brenduh.
+DynamiteC.
 
 **Top 25% contributors:**
-DynamiteC.
 shakeel-sheikh.
 vjtknn.
 Yokesh0811.
@@ -447,6 +446,7 @@ mjonssonme.
 naveensnow.
 nthumma.
 templetontsai.
+Thrizvi.
 b1naryst0rm.
 namrataghorpade.
 sdgrube2.
