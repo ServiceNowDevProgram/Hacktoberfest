@@ -186,6 +186,7 @@ bird-03.
 
 **Other contributors:**
 CODEBRAKERBOYY.
+DhruvBhatheja.
 LakshmiChaitanyaReddy.
 sndevs-slacker-issue-reporter[bot].
 koratalas.
@@ -228,7 +229,6 @@ brunoasantos.
 debugwithshubham.
 deepanshu4688.
 develo-oper-piyush.
-DhruvBhatheja.
 Dnyanesh182.
 Durgeshpathak-111.
 FrancisBarla10.
@@ -666,6 +666,7 @@ DaleD-SN.
 deathkraiser.
 demetris7.
 devalcodes.
+DhruvBhatheja.
 dhruvii-powershell.
 dorsy99.
 ezratkim.
@@ -686,9 +687,9 @@ lakshyatyagi24.
 loudigi.
 ManobhavSachan.
 mevops.
-mikeroosa.
 
 **Other contributors:**
+mikeroosa.
 moshjahan.
 msdfib.
 mwchiao.
@@ -1058,7 +1059,6 @@ devendra175151.
 DFanso.
 dhadwal.
 Dhar45.
-DhruvBhatheja.
 dhumalparth.
 diasjp.
 Dimuthu7.
