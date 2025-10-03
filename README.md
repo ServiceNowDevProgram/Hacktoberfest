@@ -177,6 +177,7 @@ lauri457.
 am-shakeel.
 becksbyte.
 bird-03.
+bkb68.
 chelming.
 mitalizope.
 pankajrj.
@@ -185,9 +186,9 @@ Abhishek2634.
 bhavyaa30.
 CODEBRAKERBOYY.
 DanielMadsenDK.
-DhruvBhatheja.
 
 **Other contributors:**
+DhruvBhatheja.
 LakshmiChaitanyaReddy.
 sndevs-slacker-issue-reporter[bot].
 HackoDev1530.
@@ -199,7 +200,6 @@ Siri-007.
 Uma20-dev.
 anushka157.
 aykmrgit.
-bkb68.
 cjuleff.
 D-GAJ.
 Danmax.
@@ -369,6 +369,7 @@ PranavBhagat18.
 DanielMadsenDK.
 Mexiprince.
 Irston.
+bkb68.
 litwi1rm.
 mak1A4.
 selvarun-umass.
@@ -385,7 +386,6 @@ aatrey882.
 salmaniqbal92.
 mohitchauhan-dev.
 mr-swann.
-bkb68.
 himanshu7895.
 mskoddow.
 Munnisona.
