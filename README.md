@@ -153,11 +153,11 @@ SrijanPatwa.
 
 **Top 25% contributors:**
 JonSandoval.
+KrishChothani.
 at8807602.
 Mexiprince.
 anurampalli.
 brenduh.
-KrishChothani.
 stefanintech.
 vhudlikar.
 GHSayak25.
@@ -542,13 +542,14 @@ Sagar-agarwal.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
+KrishChothani.
 markroethof.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
 TechnologistTim.
-anguspalmer.
 
 **Top 50% contributors:**
+anguspalmer.
 Badal2k23.
 bhavyajain511.
 naveenraw25.
@@ -573,7 +574,6 @@ Decoder-Paul.
 DhanushNehru.
 GokulkumarV.
 jesalynrose.
-KrishChothani.
 Ladirinia.
 miracc.
 MiroslawBuszek.
