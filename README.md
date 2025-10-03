@@ -157,6 +157,7 @@ at8807602.
 Mexiprince.
 anurampalli.
 brenduh.
+KrishChothani.
 stefanintech.
 vhudlikar.
 GHSayak25.
@@ -165,14 +166,13 @@ kmxo.
 Rajat32-op.
 Paulsylo25.
 ivan-betev.
-Rampriya-S.
 
 **Top 50% contributors:**
+Rampriya-S.
 am-shakeel.
 Atul-LNG.
 becksbyte.
 chelming.
-KrishChothani.
 lauri457.
 mitalizope.
 pankajrj.
@@ -573,6 +573,7 @@ Decoder-Paul.
 DhanushNehru.
 GokulkumarV.
 jesalynrose.
+KrishChothani.
 Ladirinia.
 miracc.
 MiroslawBuszek.
@@ -626,7 +627,6 @@ Beeram12.
 crooks-s.
 cschmidt82.
 Jaskaran-Techno.
-KrishChothani.
 lauri457.
 mitalizope.
 pankajrj.
