@@ -161,6 +161,7 @@ vhudlikar.
 Rajat32-op.
 at8807602.
 Atul-LNG.
+Rampriya-S.
 anurampalli.
 Paulsylo25.
 brenduh.
@@ -169,10 +170,9 @@ KrishChothani.
 stefanintech.
 GHSayak25.
 GokulkumarV.
-ivan-betev.
 
 **Top 50% contributors:**
-Rampriya-S.
+ivan-betev.
 lauri457.
 am-shakeel.
 becksbyte.
