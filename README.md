@@ -184,9 +184,9 @@ Abhishek2634.
 bird-03.
 CODEBRAKERBOYY.
 sndevs-slacker-issue-reporter[bot].
+koratalas.
 
 **Other contributors:**
-koratalas.
 prataps135.
 Anudhyan.
 Siri-007.
@@ -259,6 +259,7 @@ robinbishtt.
 ruchirachaubey.
 RudraSathwara.
 Saahil-Kumaar.
+SachinRajakaruna.
 samikshak-kaulkar-hacktoberfest.
 samikshak-web.
 Saptarshi3456.
@@ -549,9 +550,9 @@ markroethof.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
 TechnologistTim.
+anguspalmer.
 
 **Top 50% contributors:**
-anguspalmer.
 Badal2k23.
 bhavyajain511.
 naveenraw25.
@@ -683,9 +684,9 @@ ManobhavSachan.
 mevops.
 mikeroosa.
 moshjahan.
+msdfib.
 
 **Other contributors:**
-msdfib.
 mwchiao.
 NilotpalMaitra.
 nvprav.
@@ -1430,6 +1431,7 @@ rverrips.
 rwhittaker.
 Saahil-Kumaar.
 saarimshaikh.
+SachinRajakaruna.
 Sahil1607.
 SainathLRH.
 saipataneni.
