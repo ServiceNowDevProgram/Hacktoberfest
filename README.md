@@ -148,8 +148,8 @@ shivamvish160.
 juhikumarimodi6.
 anveshmupparaju.
 Lacah.
-snamjosh.
 SrijanPatwa.
+snamjosh.
 JonSandoval.
 
 **Top 25% contributors:**
@@ -333,12 +333,12 @@ ankitshu.
 at8807602.
 sndevs-slacker-issue-reporter[bot].
 Radhe-Manasa.
+SrijanPatwa.
 404paige.
 stevezero.
 sychi77.
 ronaldkarim.
 azeezgaa.
-SrijanPatwa.
 deepak-64742.
 rafzk.
 anillande90.
