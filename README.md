@@ -151,9 +151,9 @@ anveshmupparaju.
 Lacah.
 SrijanPatwa.
 Mexiprince.
+snamjosh.
 
 **Top 25% contributors:**
-snamjosh.
 WillemZeiler.
 Thrizvi.
 raghavs046.
@@ -227,6 +227,7 @@ ahmadibitoye.
 Akshaykomar890.
 animeshdasgit.
 Aryan-Bhendarkar.
+Ash0807.
 Bharathkogilamane274.
 brunoasantos.
 debugwithshubham.
@@ -563,9 +564,9 @@ raghavs046.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
 TechnologistTim.
+anguspalmer.
 
 **Top 50% contributors:**
-anguspalmer.
 Badal2k23.
 bhavyajain511.
 naveenraw25.
@@ -698,9 +699,9 @@ loudigi.
 ManobhavSachan.
 mevops.
 mikeroosa.
+moshjahan.
 
 **Other contributors:**
-moshjahan.
 msdfib.
 mwchiao.
 NilotpalMaitra.
@@ -968,6 +969,7 @@ arostesri.
 artursnusz.
 arwin1516.
 Aryan-Bhendarkar.
+Ash0807.
 ashish310188.
 askarthik.
 Athens0111.
