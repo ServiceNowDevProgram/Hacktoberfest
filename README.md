@@ -200,6 +200,7 @@ divyajetti9.
 Ehabpilloor.
 eriemer1.
 jonahpiascik.
+KrishChothani.
 mady22070.
 mariwarl.
 NavyasreeBolleboyana.
@@ -679,9 +680,9 @@ ManobhavSachan.
 mevops.
 mikeroosa.
 moshjahan.
+msdfib.
 
 **Other contributors:**
-msdfib.
 mwchiao.
 NilotpalMaitra.
 nvprav.
@@ -820,6 +821,7 @@ khoilu-1512.
 khushii-hub.
 kkbrains1.
 Koustav-coder.
+KrishChothani.
 Kswierk.
 LakshmiPrasanna96.
 lucas-especta.
