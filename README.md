@@ -189,6 +189,7 @@ DhruvBhatheja.
 
 **Other contributors:**
 LakshmiChaitanyaReddy.
+michael-albinson-sn.
 sndevs-slacker-issue-reporter[bot].
 koratalas.
 mskoddow.
@@ -246,7 +247,6 @@ kunalsinghdadhwal.
 lstrallo.
 Manish0621.
 meetvansjaliya.
-michael-albinson-sn.
 mirellarc.
 Mittalkabir.
 MrRohit2506.
@@ -694,9 +694,10 @@ lakshyatyagi24.
 loudigi.
 ManobhavSachan.
 mevops.
-mikeroosa.
+michael-albinson-sn.
 
 **Other contributors:**
+mikeroosa.
 moshjahan.
 msdfib.
 mwchiao.
@@ -1302,7 +1303,6 @@ Megalomac.
 mevipinmaurya.
 mgcnent.
 mhendershott.
-michael-albinson-sn.
 MidhaShrey.
 Mihir008.
 Mikerniker.
