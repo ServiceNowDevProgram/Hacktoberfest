@@ -167,9 +167,9 @@ vhudlikar.
 GHSayak25.
 GokulkumarV.
 kmxo.
+Atul-LNG.
 
 **Top 50% contributors:**
-Atul-LNG.
 Paulsylo25.
 ivan-betev.
 Rampriya-S.
@@ -184,9 +184,9 @@ Shashank102002.
 Abhishek2634.
 bhavyaa30.
 CODEBRAKERBOYY.
+DanielMadsenDK.
 
 **Other contributors:**
-DanielMadsenDK.
 DhruvBhatheja.
 LakshmiChaitanyaReddy.
 sndevs-slacker-issue-reporter[bot].
@@ -232,6 +232,7 @@ brunoasantos.
 debugwithshubham.
 deepanshu4688.
 develo-oper-piyush.
+DevvSaxena17.
 Dnyanesh182.
 Durgeshpathak-111.
 ewatch.
@@ -422,9 +423,9 @@ naveensnow.
 shreyawani98.
 zahidask.
 brenduh.
+DynamiteC.
 
 **Top 25% contributors:**
-DynamiteC.
 shakeel-sheikh.
 vjtknn.
 Yokesh0811.
@@ -1059,6 +1060,7 @@ derHundOida.
 develo-oper-piyush.
 developmentpark.
 devendra175151.
+DevvSaxena17.
 DFanso.
 dhadwal.
 Dhar45.
