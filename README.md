@@ -139,13 +139,13 @@ earlduque.
 SapphicFire.
 wiz0floyd.
 niamccash.
+juhikumarimodi6.
 naveensnow.
-ravichandra1998g.
 
 **Top 10% contributors:**
+ravichandra1998g.
 rohi-v.
 shivamvish160.
-juhikumarimodi6.
 anveshmupparaju.
 Lacah.
 snamjosh.
@@ -426,6 +426,7 @@ mady22070.
 MarcMouries.
 sn-ajb.
 DavidMarcial.
+juhikumarimodi6.
 techYESlogyXplorer.
 vijaytalupula.
 alyaanbasha.
@@ -458,7 +459,6 @@ ashu759.
 dadhich-ashish.
 girishnagaraj09.
 Jayden-Chiu.
-juhikumarimodi6.
 OrgovanGeza.
 shivamvish160.
 arhaan2019.
