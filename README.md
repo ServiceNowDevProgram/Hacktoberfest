@@ -149,8 +149,8 @@ shivamvish160.
 anveshmupparaju.
 Lacah.
 SrijanPatwa.
-Thrizvi.
 snamjosh.
+Thrizvi.
 
 **Top 25% contributors:**
 JonSandoval.
@@ -206,6 +206,7 @@ divyajetti9.
 Ehabpilloor.
 eriemer1.
 jonahpiascik.
+kmohit2809.
 mady22070.
 mariwarl.
 NavyasreeBolleboyana.
@@ -237,7 +238,6 @@ hidipen.
 ineffable23.
 jainmridul82.
 KanavCode.
-kmohit2809.
 kunalsinghdadhwal.
 lstrallo.
 Manish0621.
@@ -446,7 +446,6 @@ mjonssonme.
 naveensnow.
 nthumma.
 templetontsai.
-Thrizvi.
 b1naryst0rm.
 namrataghorpade.
 sdgrube2.
@@ -484,6 +483,7 @@ mebeingmustaq.
 ReginaldFawcett.
 Saileshlanka.
 thorn91.
+Thrizvi.
 vamsi0777.
 HarshLMP870.
 Himanshu-skb-oo7.
