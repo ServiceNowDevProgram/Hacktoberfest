@@ -154,6 +154,7 @@ SrijanPatwa.
 **Top 25% contributors:**
 JonSandoval.
 KrishChothani.
+Rajat32-op.
 at8807602.
 Mexiprince.
 anurampalli.
@@ -163,7 +164,6 @@ vhudlikar.
 GHSayak25.
 GokulkumarV.
 kmxo.
-Rajat32-op.
 Paulsylo25.
 ivan-betev.
 
@@ -555,6 +555,7 @@ bhavyajain511.
 naveenraw25.
 NBaker137.
 patan116.
+Rajat32-op.
 revantKulkarni.
 sumanth1710.
 trade12.
@@ -593,7 +594,6 @@ maialithar.
 MihirRathod.
 preshitd.
 prithvibalakka.
-Rajat32-op.
 Ratheshan03.
 Sallu77.
 tanu-profile.
