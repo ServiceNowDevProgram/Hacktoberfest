@@ -172,6 +172,7 @@ am-shakeel.
 Atul-LNG.
 becksbyte.
 chelming.
+KrishChothani.
 lauri457.
 mitalizope.
 pankajrj.
@@ -181,7 +182,6 @@ WillemZeiler.
 Abhishek2634.
 bird-03.
 CODEBRAKERBOYY.
-KrishChothani.
 sndevs-slacker-issue-reporter[bot].
 
 **Other contributors:**
@@ -626,6 +626,7 @@ Beeram12.
 crooks-s.
 cschmidt82.
 Jaskaran-Techno.
+KrishChothani.
 lauri457.
 mitalizope.
 pankajrj.
@@ -674,7 +675,6 @@ jordanrogus.
 Juusoee.
 KartikeSingh.
 kaushalbharade.
-KrishChothani.
 lakshyatyagi24.
 loudigi.
 ManobhavSachan.
