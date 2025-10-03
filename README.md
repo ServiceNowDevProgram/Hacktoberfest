@@ -154,13 +154,13 @@ SrijanPatwa.
 **Top 25% contributors:**
 JonSandoval.
 at8807602.
+Mexiprince.
 brenduh.
 vhudlikar.
 GHSayak25.
 GokulkumarV.
 kmxo.
 Rajat32-op.
-Mexiprince.
 Paulsylo25.
 ivan-betev.
 Atul-LNG.
@@ -362,6 +362,7 @@ mlemartien.
 riya-misra-1.
 Danmax.
 hentonjd.
+Mexiprince.
 23Thom.
 aatrey882.
 salmaniqbal92.
@@ -371,7 +372,6 @@ mr-swann.
 bkb68.
 himanshu7895.
 Munnisona.
-Mexiprince.
 prashantmrshine.
 debendu-das.
 Dhruvyadav2000.
