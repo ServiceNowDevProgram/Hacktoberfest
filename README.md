@@ -153,8 +153,8 @@ snamjosh.
 Thrizvi.
 
 **Top 25% contributors:**
-JonSandoval.
 Mexiprince.
+JonSandoval.
 raghavs046.
 Rajat32-op.
 at8807602.
@@ -366,10 +366,10 @@ csharpie.
 ivan-betev.
 PranavBhagat18.
 DanielMadsenDK.
+Mexiprince.
 Irston.
 litwi1rm.
 mak1A4.
-Mexiprince.
 selvarun-umass.
 shivamTodwal.
 Atul-LNG.
