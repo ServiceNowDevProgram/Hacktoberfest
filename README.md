@@ -185,6 +185,7 @@ bird-03.
 CODEBRAKERBOYY.
 
 **Other contributors:**
+LakshmiChaitanyaReddy.
 sndevs-slacker-issue-reporter[bot].
 koratalas.
 prataps135.
@@ -238,7 +239,6 @@ jainmridul82.
 KanavCode.
 kmohit2809.
 kunalsinghdadhwal.
-LakshmiChaitanyaReddy.
 lstrallo.
 Manish0621.
 meetvansjaliya.
@@ -680,15 +680,16 @@ jordanrogus.
 Juusoee.
 KartikeSingh.
 kaushalbharade.
+LakshmiChaitanyaReddy.
 lakshyatyagi24.
 loudigi.
 ManobhavSachan.
 mevops.
 mikeroosa.
 moshjahan.
-msdfib.
 
 **Other contributors:**
+msdfib.
 mwchiao.
 NilotpalMaitra.
 nvprav.
@@ -1245,7 +1246,6 @@ kunalsinghdadhwal.
 kurtzettel.
 kvdev29.
 laherfrit.
-LakshmiChaitanyaReddy.
 Lamquocminhhuy.
 LarsAssen.
 Lathasuv.
