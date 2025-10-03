@@ -144,10 +144,10 @@ naveensnow.
 ravichandra1998g.
 
 **Top 10% contributors:**
+Mexiprince.
 rohi-v.
 shivamvish160.
 JonSandoval.
-Mexiprince.
 anveshmupparaju.
 Lacah.
 SrijanPatwa.
@@ -342,13 +342,13 @@ at8807602.
 sndevs-slacker-issue-reporter[bot].
 Radhe-Manasa.
 SrijanPatwa.
+Mexiprince.
 404paige.
 stevezero.
 sychi77.
 ronaldkarim.
 azeezgaa.
 deepak-64742.
-Mexiprince.
 rafzk.
 anillande90.
 ayleeandersen.
