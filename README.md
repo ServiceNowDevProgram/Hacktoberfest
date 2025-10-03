@@ -143,11 +143,11 @@ rohi-v.
 shivamvish160.
 
 **Top 10% contributors:**
+juhikumarimodi6.
 ravichandra1998g.
 anveshmupparaju.
 naveensnow.
 Lacah.
-juhikumarimodi6.
 snamjosh.
 SrijanPatwa.
 
@@ -454,6 +454,7 @@ ashu759.
 dadhich-ashish.
 girishnagaraj09.
 Jayden-Chiu.
+juhikumarimodi6.
 OrgovanGeza.
 shivamvish160.
 arhaan2019.
@@ -493,7 +494,6 @@ vermaamit1664.
 watrick.
 almajam.
 danielliaus.
-juhikumarimodi6.
 Ramesh-hub007.
 salma-93.
 sauravsumankumar.
