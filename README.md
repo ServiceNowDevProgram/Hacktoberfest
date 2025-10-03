@@ -155,6 +155,7 @@ SrijanPatwa.
 JonSandoval.
 at8807602.
 Mexiprince.
+anurampalli.
 brenduh.
 stefanintech.
 vhudlikar.
@@ -165,7 +166,6 @@ Rajat32-op.
 Paulsylo25.
 ivan-betev.
 Rampriya-S.
-anurampalli.
 
 **Top 50% contributors:**
 am-shakeel.
@@ -561,6 +561,7 @@ ttoter.
 AlphaEagle.
 JWITSM.
 mo-dahir.
+anurampalli.
 dcord1x.
 djunaid.
 Haile-08.
@@ -610,7 +611,6 @@ rohantjoshi.
 abhilash264.
 aftab-mirza.
 Alprez.
-anurampalli.
 chris-canto-11.
 furquan5.
 harditsingh88.
