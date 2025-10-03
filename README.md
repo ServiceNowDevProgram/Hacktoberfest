@@ -226,6 +226,7 @@ Aditya-1208.
 ahmadibitoye.
 Akshaykomar890.
 animeshdasgit.
+apatti.
 Aryan-Bhendarkar.
 Ash0807.
 Bharathkogilamane274.
@@ -702,9 +703,9 @@ ManobhavSachan.
 mevops.
 mikeroosa.
 moshjahan.
+msdfib.
 
 **Other contributors:**
-msdfib.
 mwchiao.
 NilotpalMaitra.
 nvprav.
@@ -960,6 +961,7 @@ Anoop21-oss-a.
 Anson-Mathew.
 Anuraj4.
 Anusrita-Karmakar.
+apatti.
 apbuhssc.
 aravindbarla22.
 Archita-2023.
