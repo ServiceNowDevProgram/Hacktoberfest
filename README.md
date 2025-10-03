@@ -139,13 +139,13 @@ earlduque.
 SapphicFire.
 wiz0floyd.
 niamccash.
+Thrizvi.
 juhikumarimodi6.
 ravichandra1998g.
-rohi-v.
 
 **Top 10% contributors:**
+rohi-v.
 naveensnow.
-Thrizvi.
 shivamvish160.
 anveshmupparaju.
 Lacah.
@@ -400,6 +400,7 @@ jonahpiascik.
 JonSandoval.
 kylburns89.
 spnegi.
+Thrizvi.
 danr2c2.
 Litwilly.
 MRSinghRajat.
@@ -416,7 +417,6 @@ phr-nk.
 davidkwhuang.
 MYaswanth28.
 shreyawani98.
-Thrizvi.
 zahidask.
 brenduh.
 
