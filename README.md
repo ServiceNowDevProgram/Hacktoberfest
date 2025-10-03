@@ -169,9 +169,9 @@ stefanintech.
 GHSayak25.
 GokulkumarV.
 Paulsylo25.
+ivan-betev.
 
 **Top 50% contributors:**
-ivan-betev.
 Rampriya-S.
 lauri457.
 am-shakeel.
@@ -187,9 +187,9 @@ Abhishek2634.
 bhavyaa30.
 CODEBRAKERBOYY.
 DhruvBhatheja.
+LakshmiChaitanyaReddy.
 
 **Other contributors:**
-LakshmiChaitanyaReddy.
 sndevs-slacker-issue-reporter[bot].
 HackoDev1530.
 koratalas.
@@ -244,6 +244,7 @@ hidipen.
 ineffable23.
 jainmridul82.
 KanavCode.
+Kolimator.
 kunalsinghdadhwal.
 lstrallo.
 Manish0621.
@@ -1244,6 +1245,7 @@ KiwiPelago.
 KkRainyre.
 kmahesh18.
 KokilaAbeysinghe.
+Kolimator.
 kolomu.
 konikalily.
 kr4uzi.
