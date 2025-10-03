@@ -179,13 +179,13 @@ becksbyte.
 bird-03.
 bkb68.
 chelming.
+DanielMadsenDK.
 mitalizope.
 pankajrj.
 Shashank102002.
 Abhishek2634.
 bhavyaa30.
 CODEBRAKERBOYY.
-DanielMadsenDK.
 
 **Other contributors:**
 DhruvBhatheja.
@@ -363,10 +363,10 @@ abhrajyotikanrar.
 **Top 10% contributors:**
 alkaChaudhary73.
 csharpie.
+DanielMadsenDK.
 ivan-betev.
 JonSandoval.
 PranavBhagat18.
-DanielMadsenDK.
 Mexiprince.
 Irston.
 bkb68.
