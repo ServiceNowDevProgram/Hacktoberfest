@@ -169,11 +169,11 @@ ivan-betev.
 
 **Top 50% contributors:**
 Rampriya-S.
+lauri457.
 am-shakeel.
 Atul-LNG.
 becksbyte.
 chelming.
-lauri457.
 mitalizope.
 pankajrj.
 raghavs046.
@@ -615,6 +615,7 @@ Alprez.
 chris-canto-11.
 furquan5.
 harditsingh88.
+lauri457.
 NayeemKaka.
 praisetoyt.
 puneet94.
@@ -627,7 +628,6 @@ Beeram12.
 crooks-s.
 cschmidt82.
 Jaskaran-Techno.
-lauri457.
 mitalizope.
 pankajrj.
 RagaChitraMankala.
