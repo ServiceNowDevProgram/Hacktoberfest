@@ -157,7 +157,6 @@ raghavs046.
 snamjosh.
 Thrizvi.
 vhudlikar.
-Paulsylo25.
 Rajat32-op.
 WillemZeiler.
 at8807602.
@@ -169,6 +168,7 @@ KrishChothani.
 stefanintech.
 GHSayak25.
 GokulkumarV.
+Paulsylo25.
 
 **Top 50% contributors:**
 ivan-betev.
@@ -327,10 +327,10 @@ R3J3NT.
 koratalas.
 ajcooper72.
 aykmrgit.
-Paulsylo25.
 hrobarikt.
 ravichandra1998g.
 Chraiseto.
+Paulsylo25.
 sumanthdosapati.
 TRIGGEREDcoder.
 smartcarleen.
