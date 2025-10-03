@@ -165,10 +165,11 @@ GHSayak25.
 GokulkumarV.
 kmxo.
 Paulsylo25.
+Thrizvi.
 ivan-betev.
-Rampriya-S.
 
 **Top 50% contributors:**
+Rampriya-S.
 lauri457.
 am-shakeel.
 Atul-LNG.
@@ -183,10 +184,9 @@ Abhishek2634.
 bird-03.
 CODEBRAKERBOYY.
 sndevs-slacker-issue-reporter[bot].
-koratalas.
 
 **Other contributors:**
-Thrizvi.
+koratalas.
 prataps135.
 Anudhyan.
 Siri-007.
@@ -547,9 +547,10 @@ markroethof.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
 TechnologistTim.
-anguspalmer.
+Thrizvi.
 
 **Top 50% contributors:**
+anguspalmer.
 Badal2k23.
 bhavyajain511.
 naveenraw25.
@@ -584,7 +585,6 @@ pandeysumit-now.
 patrickpaterlini.
 SaiSankar1309.
 soham-shee.
-Thrizvi.
 UTSAVS26.
 Abbas-57.
 DChotaliya.
