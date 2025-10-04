@@ -172,9 +172,9 @@ kmxo.
 KrishChothani.
 stefanintech.
 animeshdasgit.
+GHSayak25.
 
 **Top 50% contributors:**
-GHSayak25.
 GokulkumarV.
 koratalas.
 ivan-betev.
@@ -192,6 +192,7 @@ AyanAhmedKhan.
 bhavyaa30.
 CODEBRAKERBOYY.
 DhruvBhatheja.
+harshal045.
 
 **Other contributors:**
 LakshmiChaitanyaReddy.
@@ -249,7 +250,6 @@ FrancisBarla10.
 Gurkunwar-Singh.
 han-le.
 hardik2109.
-harshal045.
 hidipen.
 HimanshuSalunke.
 ineffable23.
@@ -287,6 +287,7 @@ Saahil-Kumaar.
 SachinRajakaruna.
 samikshak-kaulkar-hacktoberfest.
 samikshak-web.
+sanjaykumar3sn.
 Saptarshi3456.
 Sefali12.
 ServiceNowDevProgram.
@@ -448,9 +449,9 @@ MYaswanth28.
 naveensnow.
 shreyawani98.
 zahidask.
+brenduh.
 
 **Top 25% contributors:**
-brenduh.
 DynamiteC.
 shakeel-sheikh.
 vjtknn.
@@ -699,6 +700,7 @@ dhruvii-powershell.
 dorsy99.
 ezratkim.
 HackoDev1530.
+harshal045.
 HarshMN2345.
 hmadhsan.
 iamvpbhaskar.
@@ -719,9 +721,9 @@ mevops.
 mikeroosa.
 moshjahan.
 msdfib.
-mwchiao.
 
 **Other contributors:**
+mwchiao.
 NilotpalMaitra.
 nvprav.
 pavankumar-4.
@@ -1165,7 +1167,6 @@ Hanan-Ashraf.
 HannaGilbertson.
 hardik2109.
 hardikvyasji.
-harshal045.
 Harshthakur1825.
 Hasanul-Banna-Himel.
 Hashir524.
@@ -1490,6 +1491,7 @@ samikshak-kaulkar-hacktoberfest.
 samikshak-web.
 samusahatpure.
 sanathan-git.
+sanjaykumar3sn.
 SanketJ29.
 Santosh-kumar01.
 sanuj21.
