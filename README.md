@@ -178,6 +178,7 @@ GHSayak25.
 **Top 50% contributors:**
 GokulkumarV.
 koratalas.
+RaviGaurav007.
 ivan-betev.
 lauri457.
 bird-03.
@@ -193,11 +194,10 @@ bhavyaa30.
 CODEBRAKERBOYY.
 DhruvBhatheja.
 harshal045.
-LakshmiChaitanyaReddy.
 
 **Other contributors:**
+LakshmiChaitanyaReddy.
 mskoddow.
-RaviGaurav007.
 Siddhartha03D.
 sndevs-slacker-issue-reporter[bot].
 HackoDev1530.
@@ -636,6 +636,7 @@ MihirRathod.
 preshitd.
 prithvibalakka.
 Ratheshan03.
+RaviGaurav007.
 Sallu77.
 tanu-profile.
 Thanai14.
@@ -725,9 +726,9 @@ mevops.
 mikeroosa.
 moshjahan.
 msdfib.
-mwchiao.
 
 **Other contributors:**
+mwchiao.
 NilotpalMaitra.
 nvprav.
 pavankumar-4.
@@ -735,7 +736,6 @@ physi.
 pratyushmp.
 PreyumKr.
 RajputUsman.
-RaviGaurav007.
 rawnaldduck.
 renuka-rajpuria.
 S-SuryaPrakash.
