@@ -145,11 +145,11 @@ juhikumarimodi6.
 naveensnow.
 
 **Top 10% contributors:**
+raghavs046.
 Mexiprince.
 SrijanPatwa.
 shivamvish160.
 JonSandoval.
-raghavs046.
 snamjosh.
 anveshmupparaju.
 vhudlikar.
@@ -444,11 +444,12 @@ phr-nk.
 davidkwhuang.
 MYaswanth28.
 naveensnow.
+raghavs046.
 shreyawani98.
 zahidask.
-brenduh.
 
 **Top 25% contributors:**
+brenduh.
 DynamiteC.
 shakeel-sheikh.
 vjtknn.
@@ -474,7 +475,6 @@ isaac-vicentini.
 mioyokohama.
 mjonssonme.
 nthumma.
-raghavs046.
 templetontsai.
 b1naryst0rm.
 namrataghorpade.
