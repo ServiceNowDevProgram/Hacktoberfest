@@ -195,6 +195,7 @@ LakshmiChaitanyaReddy.
 
 **Other contributors:**
 mskoddow.
+PranavTamada.
 sndevs-slacker-issue-reporter[bot].
 HackoDev1530.
 prataps135.
@@ -271,7 +272,6 @@ nikhilkumar76.
 No-gui.
 poojithavalli22.
 Pram0dh-Kumar.
-PranavTamada.
 praveen8808.
 priyasnexpert.
 ramkrishna-behera.
@@ -725,6 +725,7 @@ NilotpalMaitra.
 nvprav.
 pavankumar-4.
 physi.
+PranavTamada.
 pratyushmp.
 PreyumKr.
 RajputUsman.
@@ -1410,7 +1411,6 @@ pimvet.
 Pooja123667.
 poojithavalli22.
 Pram0dh-Kumar.
-PranavTamada.
 pranjalisr.
 Prasannalakshmik.
 pratiksha2717.
