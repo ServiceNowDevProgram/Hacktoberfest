@@ -157,6 +157,7 @@ SrijanPatwa.
 WillemZeiler.
 Thrizvi.
 Rampriya-S.
+becksbyte.
 raghavs046.
 vhudlikar.
 Rajat32-op.
@@ -164,7 +165,6 @@ at8807602.
 Atul-LNG.
 Paulsylo25.
 anurampalli.
-becksbyte.
 brenduh.
 kmxo.
 KrishChothani.
@@ -562,15 +562,16 @@ kumarinisha378.
 Sagar-agarwal.
 wiresgit.
 yourepicservices.
+becksbyte.
 ChecksumFailed.
 markroethof.
 raghavs046.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
 TechnologistTim.
-anguspalmer.
 
 **Top 50% contributors:**
+anguspalmer.
 Badal2k23.
 bhavyajain511.
 naveenraw25.
@@ -592,7 +593,6 @@ sonamtiwari8.
 Adiana3308.
 akhoshnood.
 allam1234.
-becksbyte.
 Decoder-Paul.
 DhanushNehru.
 GokulkumarV.
