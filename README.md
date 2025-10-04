@@ -174,9 +174,10 @@ Paulsylo25.
 brenduh.
 kmxo.
 KrishChothani.
-stefanintech.
+mitalizope.
 
 **Top 50% contributors:**
+stefanintech.
 GHSayak25.
 GokulkumarV.
 ivan-betev.
@@ -185,7 +186,6 @@ bird-03.
 bkb68.
 chelming.
 DanielMadsenDK.
-mitalizope.
 pankajrj.
 Shashank102002.
 Abhishek2634.
@@ -624,6 +624,7 @@ KrishChothani.
 Ladirinia.
 miracc.
 MiroslawBuszek.
+mitalizope.
 osc99.
 pandeysumit-now.
 patrickpaterlini.
@@ -673,7 +674,6 @@ Beeram12.
 crooks-s.
 cschmidt82.
 Jaskaran-Techno.
-mitalizope.
 pankajrj.
 RagaChitraMankala.
 ShakthiSn.
