@@ -155,8 +155,8 @@ anveshmupparaju.
 vhudlikar.
 
 **Top 25% contributors:**
-Lacah.
 am-shakeel.
+Lacah.
 Jaspalsinghchot.
 WillemZeiler.
 Thrizvi.
