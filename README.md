@@ -243,6 +243,7 @@ Anubhav-developr.
 apatti.
 Aryan-Bhendarkar.
 Ash0807.
+Awesomefp.
 Bharathkogilamane274.
 brunoasantos.
 chaitaliKundu.
@@ -726,9 +727,9 @@ loudigi.
 ManobhavSachan.
 mevops.
 mikeroosa.
+moshjahan.
 
 **Other contributors:**
-moshjahan.
 msdfib.
 mwchiao.
 NilotpalMaitra.
@@ -1013,6 +1014,7 @@ attilaandrade.
 AudreyLin.
 AutumLeaf.
 AvTe.
+Awesomefp.
 aysenuruzunnn.
 ayush06195.
 Ayushi22-coder.
