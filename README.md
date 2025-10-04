@@ -174,10 +174,9 @@ Paulsylo25.
 brenduh.
 kmxo.
 KrishChothani.
-mitalizope.
+stefanintech.
 
 **Top 50% contributors:**
-stefanintech.
 GHSayak25.
 GokulkumarV.
 ivan-betev.
@@ -186,6 +185,7 @@ bird-03.
 bkb68.
 chelming.
 DanielMadsenDK.
+mitalizope.
 pankajrj.
 Shashank102002.
 Abhishek2634.
@@ -522,6 +522,7 @@ Saileshlanka.
 thorn91.
 Thrizvi.
 vamsi0777.
+WillemZeiler.
 HarshLMP870.
 Himanshu-skb-oo7.
 mmaraj1.
@@ -529,7 +530,6 @@ nowitsvashu.
 sanjivmeher.
 Southpaw09.
 Suri123789.
-WillemZeiler.
 yansa-reece.
 aman2519.
 dalestubblefield.
@@ -624,7 +624,6 @@ KrishChothani.
 Ladirinia.
 miracc.
 MiroslawBuszek.
-mitalizope.
 osc99.
 pandeysumit-now.
 patrickpaterlini.
@@ -674,6 +673,7 @@ Beeram12.
 crooks-s.
 cschmidt82.
 Jaskaran-Techno.
+mitalizope.
 pankajrj.
 RagaChitraMankala.
 ShakthiSn.
