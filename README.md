@@ -188,9 +188,9 @@ bhavyaa30.
 CODEBRAKERBOYY.
 DhruvBhatheja.
 koratalas.
+LakshmiChaitanyaReddy.
 
 **Other contributors:**
-LakshmiChaitanyaReddy.
 sndevs-slacker-issue-reporter[bot].
 HackoDev1530.
 mskoddow.
@@ -231,6 +231,7 @@ Aryan-Bhendarkar.
 Ash0807.
 Bharathkogilamane274.
 brunoasantos.
+chaitaliKundu.
 debugwithshubham.
 deepanshu4688.
 develo-oper-piyush.
@@ -517,6 +518,7 @@ salma-93.
 sauravsumankumar.
 yuvraj1107thapa.
 ashuprince121.
+chaitaliKundu.
 Harshuu870.
 hrichiksite.
 Iuliak.
@@ -528,7 +530,6 @@ TVani5.
 WillemZeiler.
 adarshsingh0205.
 annaydas.
-chaitaliKundu.
 goranlundqvist.
 Hamritha0506.
 harisnad.
