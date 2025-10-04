@@ -141,15 +141,15 @@ wiz0floyd.
 rohi-v.
 ravichandra1998g.
 niamccash.
+shivamvish160.
 juhikumarimodi6.
-naveensnow.
 
 **Top 10% contributors:**
+naveensnow.
 raghavs046.
 Mexiprince.
 SrijanPatwa.
 am-shakeel.
-shivamvish160.
 JonSandoval.
 snamjosh.
 vhudlikar.
@@ -442,6 +442,7 @@ soerenmaucher.
 Adil404.
 avssrikanth.
 juhikumarimodi6.
+shivamvish160.
 shraddhakadam301298.
 shridk.
 stwinkle.
@@ -453,9 +454,9 @@ MYaswanth28.
 naveensnow.
 raghavs046.
 shreyawani98.
-zahidask.
 
 **Top 25% contributors:**
+zahidask.
 brenduh.
 DynamiteC.
 shakeel-sheikh.
@@ -465,7 +466,6 @@ mady22070.
 MarcMouries.
 sn-ajb.
 DavidMarcial.
-shivamvish160.
 techYESlogyXplorer.
 vijaytalupula.
 alyaanbasha.
