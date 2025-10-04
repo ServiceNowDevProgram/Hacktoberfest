@@ -166,6 +166,7 @@ Thrizvi.
 anurampalli.
 becksbyte.
 koratalas.
+1shabby.
 animeshdasgit.
 Rajat32-op.
 RaviGaurav007.
@@ -174,11 +175,10 @@ Atul-LNG.
 Paulsylo25.
 brenduh.
 kmxo.
-KrishChothani.
 
 **Top 50% contributors:**
+KrishChothani.
 stefanintech.
-1shabby.
 GHSayak25.
 GokulkumarV.
 ivan-betev.
@@ -537,6 +537,7 @@ aman2519.
 dalestubblefield.
 vermaamit1664.
 watrick.
+1shabby.
 almajam.
 danielliaus.
 Ramesh-hub007.
@@ -579,7 +580,6 @@ Tushnik-cyber.
 fn20200323.
 Pradeep567iaf.
 pratyushasndev.
-1shabby.
 nag39g.
 anurampalli.
 homealone07.
