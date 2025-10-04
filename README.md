@@ -195,7 +195,6 @@ LakshmiChaitanyaReddy.
 
 **Other contributors:**
 mskoddow.
-PranavTamada.
 sndevs-slacker-issue-reporter[bot].
 HackoDev1530.
 prataps135.
@@ -272,6 +271,7 @@ nikhilkumar76.
 No-gui.
 poojithavalli22.
 Pram0dh-Kumar.
+PranavTamada.
 praveen8808.
 priyasnexpert.
 ramkrishna-behera.
@@ -376,8 +376,8 @@ aswamy93.
 YTejaswini18.
 BadalHub.
 MrChrisE.
-vandna07.
 rohi-v.
+vandna07.
 captainbraddles.
 
 **Top 10% contributors:**
@@ -725,7 +725,6 @@ NilotpalMaitra.
 nvprav.
 pavankumar-4.
 physi.
-PranavTamada.
 pratyushmp.
 PreyumKr.
 RajputUsman.
@@ -1411,6 +1410,7 @@ pimvet.
 Pooja123667.
 poojithavalli22.
 Pram0dh-Kumar.
+PranavTamada.
 pranjalisr.
 Prasannalakshmik.
 pratiksha2717.
