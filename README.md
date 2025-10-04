@@ -158,11 +158,11 @@ Lacah.
 Jaspalsinghchot.
 WillemZeiler.
 vhudlikar.
-Rajat32-op.
 Thrizvi.
 am-shakeel.
 Rampriya-S.
 becksbyte.
+Rajat32-op.
 at8807602.
 Atul-LNG.
 Paulsylo25.
@@ -556,7 +556,6 @@ GauthamBellamkonda.
 Khasim-63993.
 odinsride.
 piyusalunke123.
-Rajat32-op.
 rene-el.
 rmedved84.
 src107.
@@ -578,14 +577,15 @@ markroethof.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
 TechnologistTim.
+anguspalmer.
 
 **Top 50% contributors:**
-anguspalmer.
 Badal2k23.
 bhavyajain511.
 naveenraw25.
 NBaker137.
 patan116.
+Rajat32-op.
 revantKulkarni.
 sumanth1710.
 trade12.
