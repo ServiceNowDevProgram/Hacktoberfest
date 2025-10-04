@@ -175,6 +175,7 @@ stefanintech.
 **Top 50% contributors:**
 GHSayak25.
 GokulkumarV.
+koratalas.
 ivan-betev.
 lauri457.
 bird-03.
@@ -188,7 +189,6 @@ Abhishek2634.
 bhavyaa30.
 CODEBRAKERBOYY.
 DhruvBhatheja.
-koratalas.
 LakshmiChaitanyaReddy.
 
 **Other contributors:**
@@ -335,9 +335,9 @@ DavidArthurCole.
 Praiseto.
 ashoo-jindal.
 amigujarathi.
+koratalas.
 RahmanM.
 R3J3NT.
-koratalas.
 ajcooper72.
 ravichandra1998g.
 aykmrgit.
