@@ -187,12 +187,12 @@ Abhishek2634.
 bhavyaa30.
 CODEBRAKERBOYY.
 DhruvBhatheja.
-LakshmiChaitanyaReddy.
+koratalas.
 
 **Other contributors:**
+LakshmiChaitanyaReddy.
 sndevs-slacker-issue-reporter[bot].
 HackoDev1530.
-koratalas.
 mskoddow.
 prataps135.
 Anudhyan.
