@@ -194,9 +194,9 @@ AyanAhmedKhan.
 bhavyaa30.
 CODEBRAKERBOYY.
 DhruvBhatheja.
+harshal045.
 
 **Other contributors:**
-harshal045.
 JohanDC-1999.
 LakshmiChaitanyaReddy.
 mskoddow.
@@ -266,6 +266,7 @@ jainmridul82.
 KanavCode.
 Kolimator.
 kunalsinghdadhwal.
+kushalt112.
 lstrallo.
 Manish0621.
 meetvansjaliya.
@@ -1297,6 +1298,7 @@ kuldeep3143.
 kunal15112001.
 kunalsinghdadhwal.
 kurtzettel.
+kushalt112.
 kvdev29.
 laherfrit.
 Lamquocminhhuy.
