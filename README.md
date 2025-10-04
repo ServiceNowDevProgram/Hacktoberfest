@@ -189,13 +189,14 @@ mitalizope.
 pankajrj.
 Shashank102002.
 Abhishek2634.
+AnandMahajan2799.
 AyanAhmedKhan.
 bhavyaa30.
 CODEBRAKERBOYY.
 DhruvBhatheja.
-harshal045.
 
 **Other contributors:**
+harshal045.
 JohanDC-1999.
 LakshmiChaitanyaReddy.
 mskoddow.
@@ -237,7 +238,6 @@ Aditya-1208.
 ahmadibitoye.
 Akshaykomar890.
 alankritijain2001-dot.
-AnandMahajan2799.
 Anjali655.
 Anubhav-developr.
 apatti.
@@ -682,6 +682,7 @@ vk-cloud.
 abhay625.
 Abhishek2634.
 akipatil16.
+AnandMahajan2799.
 ananthsridhar.
 ankitshaw625.
 anurags10.
@@ -725,9 +726,9 @@ loudigi.
 ManobhavSachan.
 mevops.
 mikeroosa.
-moshjahan.
 
 **Other contributors:**
+moshjahan.
 msdfib.
 mwchiao.
 NilotpalMaitra.
@@ -976,7 +977,6 @@ ambsoerensen.
 amdhavalikar.
 Amitanand0123.
 amrita06-max.
-AnandMahajan2799.
 Anantharaman91.
 Ananya54321.
 andreneris.
