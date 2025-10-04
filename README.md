@@ -163,6 +163,7 @@ Rampriya-S.
 becksbyte.
 at8807602.
 Atul-LNG.
+Jaspalsinghchot.
 Paulsylo25.
 anurampalli.
 brenduh.
@@ -170,11 +171,10 @@ kmxo.
 KrishChothani.
 stefanintech.
 GHSayak25.
-GokulkumarV.
 
 **Top 50% contributors:**
+GokulkumarV.
 am-shakeel.
-Jaspalsinghchot.
 ivan-betev.
 lauri457.
 bird-03.
@@ -322,9 +322,9 @@ chetnadev.
 eriemer1.
 paigesndev.
 ynr-ram.
+Jaspalsinghchot.
 ishaanshoor.
 MGOPW.
-Jaspalsinghchot.
 kmxo.
 bird-03.
 DavidArthurCole.
