@@ -170,9 +170,9 @@ kmxo.
 KrishChothani.
 stefanintech.
 GHSayak25.
+GokulkumarV.
 
 **Top 50% contributors:**
-GokulkumarV.
 ivan-betev.
 am-shakeel.
 lauri457.
@@ -189,9 +189,9 @@ CODEBRAKERBOYY.
 DhruvBhatheja.
 koratalas.
 LakshmiChaitanyaReddy.
+sndevs-slacker-issue-reporter[bot].
 
 **Other contributors:**
-sndevs-slacker-issue-reporter[bot].
 HackoDev1530.
 mskoddow.
 prataps135.
@@ -289,6 +289,7 @@ Sireesha-kante.
 Smoothengineer.
 SUMEDHFORTES.
 Sumit6307.
+SurajK6437.
 Taranpreet1407.
 TarunTheDev.
 tejaswahinduja2.
@@ -367,9 +368,9 @@ BadalHub.
 MrChrisE.
 vandna07.
 captainbraddles.
+abhrajyotikanrar.
 
 **Top 10% contributors:**
-abhrajyotikanrar.
 alkaChaudhary73.
 csharpie.
 DanielMadsenDK.
@@ -435,9 +436,9 @@ naveensnow.
 shreyawani98.
 zahidask.
 brenduh.
+DynamiteC.
 
 **Top 25% contributors:**
-DynamiteC.
 shakeel-sheikh.
 vjtknn.
 Yokesh0811.
@@ -704,10 +705,10 @@ loudigi.
 ManobhavSachan.
 mevops.
 mikeroosa.
-moshjahan.
-msdfib.
 
 **Other contributors:**
+moshjahan.
+msdfib.
 mwchiao.
 NilotpalMaitra.
 nvprav.
@@ -1542,6 +1543,7 @@ Sumit6307.
 sumitkandpal3.
 SunilShetty29.
 sunnyt107.
+SurajK6437.
 suryakantdubalgunde.
 suryakantshoor.
 sushil-now.
