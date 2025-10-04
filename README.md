@@ -170,11 +170,11 @@ brenduh.
 kmxo.
 KrishChothani.
 stefanintech.
-GHSayak25.
+am-shakeel.
 
 **Top 50% contributors:**
+GHSayak25.
 GokulkumarV.
-am-shakeel.
 ivan-betev.
 lauri457.
 bird-03.
