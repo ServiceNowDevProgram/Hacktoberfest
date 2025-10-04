@@ -186,12 +186,13 @@ mitalizope.
 pankajrj.
 Shashank102002.
 Abhishek2634.
+animeshdasgit.
 bhavyaa30.
 CODEBRAKERBOYY.
 DhruvBhatheja.
-LakshmiChaitanyaReddy.
 
 **Other contributors:**
+LakshmiChaitanyaReddy.
 sndevs-slacker-issue-reporter[bot].
 HackoDev1530.
 mskoddow.
@@ -227,7 +228,6 @@ Aditya-1208.
 ahmadibitoye.
 Akshaykomar890.
 alankritijain2001-dot.
-animeshdasgit.
 Anjali655.
 Anubhav-developr.
 apatti.
@@ -449,6 +449,7 @@ DynamiteC.
 shakeel-sheikh.
 vjtknn.
 Yokesh0811.
+animeshdasgit.
 mady22070.
 MarcMouries.
 sn-ajb.
@@ -477,7 +478,6 @@ sdgrube2.
 stefanintech.
 wendy-ha18.
 AdilBasha1SAP.
-animeshdasgit.
 bradtiltonnow.
 pradeepthipani.
 Vish-X07.
