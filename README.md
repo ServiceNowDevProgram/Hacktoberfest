@@ -196,6 +196,7 @@ DhruvBhatheja.
 harshal045.
 
 **Other contributors:**
+JohanDC-1999.
 LakshmiChaitanyaReddy.
 mskoddow.
 Siddhartha03D.
@@ -261,7 +262,6 @@ hidipen.
 HimanshuSalunke.
 ineffable23.
 jainmridul82.
-JohanDC-1999.
 KanavCode.
 Kolimator.
 kunalsinghdadhwal.
@@ -714,6 +714,7 @@ j4rodm.
 jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
+JohanDC-1999.
 jordanrogus.
 Juusoee.
 KartikeSingh.
@@ -725,9 +726,9 @@ ManobhavSachan.
 mevops.
 mikeroosa.
 moshjahan.
-msdfib.
 
 **Other contributors:**
+msdfib.
 mwchiao.
 NilotpalMaitra.
 nvprav.
@@ -1230,7 +1231,6 @@ jmaxwell81.
 jmccormick14.
 jnikita067.
 JoeSDoro.
-JohanDC-1999.
 john9006.
 Jon-Wadsworth.
 JorgeGRC.
