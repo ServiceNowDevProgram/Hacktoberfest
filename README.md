@@ -163,6 +163,7 @@ Thrizvi.
 Rampriya-S.
 anurampalli.
 becksbyte.
+debendu-das.
 koratalas.
 animeshdasgit.
 Rajat32-op.
@@ -171,7 +172,6 @@ at8807602.
 Atul-LNG.
 Paulsylo25.
 brenduh.
-debendu-das.
 kmxo.
 KrishChothani.
 
@@ -378,6 +378,7 @@ gowdah.
 deepak-64742.
 rafzk.
 anillande90.
+debendu-das.
 ayleeandersen.
 Abhishekchowdarapu.
 alikuttyka.
@@ -387,10 +388,9 @@ BadalHub.
 MrChrisE.
 rohi-v.
 vandna07.
-captainbraddles.
 
 **Top 10% contributors:**
-debendu-das.
+captainbraddles.
 abhrajyotikanrar.
 alkaChaudhary73.
 csharpie.
