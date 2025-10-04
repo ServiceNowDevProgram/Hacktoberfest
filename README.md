@@ -166,6 +166,7 @@ becksbyte.
 koratalas.
 animeshdasgit.
 Rajat32-op.
+RaviGaurav007.
 at8807602.
 Atul-LNG.
 Paulsylo25.
@@ -173,12 +174,11 @@ brenduh.
 debendu-das.
 kmxo.
 KrishChothani.
-stefanintech.
 
 **Top 50% contributors:**
+stefanintech.
 GHSayak25.
 GokulkumarV.
-RaviGaurav007.
 ivan-betev.
 lauri457.
 bird-03.
@@ -600,6 +600,7 @@ naveenraw25.
 NBaker137.
 patan116.
 Rajat32-op.
+RaviGaurav007.
 revantKulkarni.
 sumanth1710.
 trade12.
@@ -639,7 +640,6 @@ MihirRathod.
 preshitd.
 prithvibalakka.
 Ratheshan03.
-RaviGaurav007.
 Sallu77.
 tanu-profile.
 Thanai14.
