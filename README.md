@@ -174,8 +174,8 @@ GHSayak25.
 **Top 50% contributors:**
 GokulkumarV.
 ivan-betev.
-lauri457.
 am-shakeel.
+lauri457.
 bird-03.
 bkb68.
 chelming.
