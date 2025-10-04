@@ -188,6 +188,7 @@ DanielMadsenDK.
 mitalizope.
 pankajrj.
 Shashank102002.
+1shabby.
 Abhishek2634.
 AnandMahajan2799.
 AyanAhmedKhan.
@@ -196,9 +197,9 @@ CODEBRAKERBOYY.
 DhruvBhatheja.
 harshal045.
 JohanDC-1999.
-LakshmiChaitanyaReddy.
 
 **Other contributors:**
+LakshmiChaitanyaReddy.
 mskoddow.
 Siddhartha03D.
 sndevs-slacker-issue-reporter[bot].
@@ -231,7 +232,6 @@ Sriharsha19.
 surajnikam111.
 TejasSNOW.
 TRIGGEREDcoder.
-1shabby.
 aaditya0004.
 abhi10pi.
 abhijeetpatil1818.
@@ -608,6 +608,7 @@ revantKulkarni.
 sumanth1710.
 trade12.
 ttoter.
+1shabby.
 AlphaEagle.
 JWITSM.
 mo-dahir.
@@ -653,7 +654,6 @@ zailugao.
 ewatch.
 mockspeed.
 TheShashank13.
-1shabby.
 cmanik.
 pranavkhurana2011.
 rohantjoshi.
