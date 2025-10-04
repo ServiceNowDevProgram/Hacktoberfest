@@ -170,16 +170,16 @@ Rajat32-op.
 RaviGaurav007.
 at8807602.
 Atul-LNG.
+bird-03.
 Paulsylo25.
 brenduh.
 kmxo.
 KrishChothani.
-stefanintech.
 
 **Top 50% contributors:**
+stefanintech.
 GHSayak25.
 GokulkumarV.
-bird-03.
 ivan-betev.
 lauri457.
 bkb68.
@@ -343,8 +343,8 @@ Jaspalsinghchot.
 ynr-ram.
 ishaanshoor.
 MGOPW.
-kmxo.
 bird-03.
+kmxo.
 DavidArthurCole.
 Praiseto.
 ashoo-jindal.
