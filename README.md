@@ -157,15 +157,15 @@ vhudlikar.
 
 **Top 25% contributors:**
 anveshmupparaju.
-Jaspalsinghchot.
 WillemZeiler.
-animeshdasgit.
+Jaspalsinghchot.
 Thrizvi.
 Rampriya-S.
 anurampalli.
 becksbyte.
 debendu-das.
 koratalas.
+animeshdasgit.
 Rajat32-op.
 RaviGaurav007.
 at8807602.
@@ -414,7 +414,6 @@ hentonjd.
 23Thom.
 aatrey882.
 salmaniqbal92.
-animeshdasgit.
 mohitchauhan-dev.
 mr-swann.
 mskoddow.
@@ -425,6 +424,7 @@ Dhruvyadav2000.
 manrick.
 VaishnaviLathkar98.
 vhudlikar.
+animeshdasgit.
 hafsa-asif.
 ovarn.
 devinvalencia.
@@ -528,12 +528,12 @@ nowitsvashu.
 sanjivmeher.
 Southpaw09.
 Suri123789.
+WillemZeiler.
 yansa-reece.
 aman2519.
 dalestubblefield.
 vermaamit1664.
 watrick.
-WillemZeiler.
 almajam.
 danielliaus.
 Ramesh-hub007.
