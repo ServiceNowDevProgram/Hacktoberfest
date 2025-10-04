@@ -140,8 +140,8 @@ SapphicFire.
 wiz0floyd.
 niamccash.
 juhikumarimodi6.
-naveensnow.
 ravichandra1998g.
+naveensnow.
 
 **Top 10% contributors:**
 rohi-v.
@@ -331,8 +331,8 @@ R3J3NT.
 koratalas.
 ajcooper72.
 aykmrgit.
-hrobarikt.
 ravichandra1998g.
+hrobarikt.
 Chraiseto.
 Paulsylo25.
 sumanthdosapati.
