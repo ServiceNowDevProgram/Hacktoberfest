@@ -163,6 +163,7 @@ Thrizvi.
 Rampriya-S.
 anurampalli.
 becksbyte.
+koratalas.
 Rajat32-op.
 at8807602.
 Atul-LNG.
@@ -173,11 +174,10 @@ kmxo.
 KrishChothani.
 stefanintech.
 animeshdasgit.
-GHSayak25.
 
 **Top 50% contributors:**
+GHSayak25.
 GokulkumarV.
-koratalas.
 RaviGaurav007.
 ivan-betev.
 lauri457.
@@ -346,8 +346,8 @@ bird-03.
 DavidArthurCole.
 Praiseto.
 ashoo-jindal.
-amigujarathi.
 koratalas.
+amigujarathi.
 RahmanM.
 R3J3NT.
 ravichandra1998g.
