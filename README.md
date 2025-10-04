@@ -164,18 +164,18 @@ at8807602.
 Atul-LNG.
 Paulsylo25.
 anurampalli.
+becksbyte.
 brenduh.
 kmxo.
 KrishChothani.
 stefanintech.
 GHSayak25.
-GokulkumarV.
 
 **Top 50% contributors:**
+GokulkumarV.
 ivan-betev.
 lauri457.
 am-shakeel.
-becksbyte.
 bird-03.
 bkb68.
 chelming.
@@ -591,6 +591,7 @@ sonamtiwari8.
 Adiana3308.
 akhoshnood.
 allam1234.
+becksbyte.
 Decoder-Paul.
 DhanushNehru.
 GokulkumarV.
@@ -644,7 +645,6 @@ pviglianti.
 Shreedevisnow.
 sisco0.
 ashaw7697.
-becksbyte.
 Beeram12.
 crooks-s.
 cschmidt82.
