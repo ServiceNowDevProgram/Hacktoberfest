@@ -173,7 +173,6 @@ GHSayak25.
 GokulkumarV.
 
 **Top 50% contributors:**
-Jaspalsinghchot.
 am-shakeel.
 ivan-betev.
 lauri457.
@@ -191,9 +190,10 @@ DhruvBhatheja.
 koratalas.
 LakshmiChaitanyaReddy.
 sndevs-slacker-issue-reporter[bot].
+HackoDev1530.
 
 **Other contributors:**
-HackoDev1530.
+Jaspalsinghchot.
 mskoddow.
 prataps135.
 Anudhyan.
@@ -324,8 +324,8 @@ paigesndev.
 ynr-ram.
 ishaanshoor.
 MGOPW.
-Jaspalsinghchot.
 kmxo.
+Jaspalsinghchot.
 bird-03.
 DavidArthurCole.
 Praiseto.
