@@ -155,12 +155,12 @@ SrijanPatwa.
 
 **Top 25% contributors:**
 WillemZeiler.
+vhudlikar.
 Rajat32-op.
 Thrizvi.
 Rampriya-S.
 becksbyte.
 raghavs046.
-vhudlikar.
 at8807602.
 Atul-LNG.
 Paulsylo25.
@@ -421,6 +421,7 @@ Litwilly.
 MRSinghRajat.
 oasif.
 soerenmaucher.
+vhudlikar.
 Adil404.
 avssrikanth.
 juhikumarimodi6.
@@ -436,16 +437,15 @@ naveensnow.
 shreyawani98.
 zahidask.
 brenduh.
-DynamiteC.
 
 **Top 25% contributors:**
+DynamiteC.
 shakeel-sheikh.
 vjtknn.
 Yokesh0811.
 mady22070.
 MarcMouries.
 sn-ajb.
-vhudlikar.
 DavidMarcial.
 shivamvish160.
 techYESlogyXplorer.
