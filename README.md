@@ -158,8 +158,8 @@ WillemZeiler.
 **Top 25% contributors:**
 vhudlikar.
 anveshmupparaju.
-Jaspalsinghchot.
 debendu-das.
+Jaspalsinghchot.
 Thrizvi.
 Rampriya-S.
 anurampalli.
@@ -368,12 +368,12 @@ maheshkhatal27.
 ankitshu.
 at8807602.
 sndevs-slacker-issue-reporter[bot].
+debendu-das.
 Mexiprince.
 Radhe-Manasa.
 404paige.
 stevezero.
 sychi77.
-debendu-das.
 ronaldkarim.
 azeezgaa.
 gowdah.
