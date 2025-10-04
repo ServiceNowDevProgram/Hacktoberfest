@@ -151,14 +151,14 @@ naveensnow.
 raghavs046.
 Mexiprince.
 SrijanPatwa.
-debendu-das.
 JonSandoval.
 snamjosh.
+vhudlikar.
 
 **Top 25% contributors:**
-vhudlikar.
-anveshmupparaju.
 WillemZeiler.
+anveshmupparaju.
+debendu-das.
 Jaspalsinghchot.
 Thrizvi.
 Rampriya-S.
@@ -362,13 +362,13 @@ TRIGGEREDcoder.
 SrijanPatwa.
 sumanthdosapati.
 smartcarleen.
-debendu-das.
 urspvs.
 anveshmupparaju.
 maheshkhatal27.
 ankitshu.
 at8807602.
 sndevs-slacker-issue-reporter[bot].
+debendu-das.
 Mexiprince.
 Radhe-Manasa.
 404paige.
@@ -508,6 +508,7 @@ seviceN.
 Soumyadeep10.
 tejudhoran95.
 vasantharaja-natarajan.
+WillemZeiler.
 AdityaBala2026.
 amoore-coder.
 dean-croaker.
@@ -522,7 +523,6 @@ Saileshlanka.
 thorn91.
 Thrizvi.
 vamsi0777.
-WillemZeiler.
 HarshLMP870.
 Himanshu-skb-oo7.
 mmaraj1.
