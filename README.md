@@ -196,9 +196,9 @@ CODEBRAKERBOYY.
 DhruvBhatheja.
 harshal045.
 JohanDC-1999.
+LakshmiChaitanyaReddy.
 
 **Other contributors:**
-LakshmiChaitanyaReddy.
 mskoddow.
 Siddhartha03D.
 sndevs-slacker-issue-reporter[bot].
@@ -271,6 +271,7 @@ Kolimator.
 kunalsinghdadhwal.
 kushalt112.
 lstrallo.
+madhuri-ch4.
 Manish0621.
 meetvansjaliya.
 michael-albinson-sn.
@@ -595,9 +596,9 @@ SNProductOwner.
 TechnologistTim.
 anguspalmer.
 Badal2k23.
+bhavyajain511.
 
 **Top 50% contributors:**
-bhavyajain511.
 naveenraw25.
 NBaker137.
 patan116.
@@ -732,9 +733,9 @@ ManobhavSachan.
 mevops.
 mikeroosa.
 moshjahan.
+msdfib.
 
 **Other contributors:**
-msdfib.
 mwchiao.
 NilotpalMaitra.
 nvprav.
@@ -1323,6 +1324,7 @@ luffy3298.
 LuisSepulveda21.
 m2santiago.
 macias-daniel.
+madhuri-ch4.
 Mady1947.
 mahamed-rashid.
 mahithak17.
