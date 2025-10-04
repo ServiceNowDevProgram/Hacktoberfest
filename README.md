@@ -161,12 +161,12 @@ vhudlikar.
 am-shakeel.
 Thrizvi.
 Rampriya-S.
+anurampalli.
 becksbyte.
 Rajat32-op.
 at8807602.
 Atul-LNG.
 Paulsylo25.
-anurampalli.
 brenduh.
 kmxo.
 KrishChothani.
@@ -565,6 +565,7 @@ fn20200323.
 Pradeep567iaf.
 pratyushasndev.
 nag39g.
+anurampalli.
 homealone07.
 Iamsant.
 jeremyrubio27.
@@ -578,9 +579,9 @@ markroethof.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
 TechnologistTim.
-anguspalmer.
 
 **Top 50% contributors:**
+anguspalmer.
 Badal2k23.
 bhavyajain511.
 naveenraw25.
@@ -594,7 +595,6 @@ ttoter.
 AlphaEagle.
 JWITSM.
 mo-dahir.
-anurampalli.
 dcord1x.
 djunaid.
 Haile-08.
