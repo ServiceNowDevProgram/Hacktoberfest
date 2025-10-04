@@ -168,13 +168,14 @@ at8807602.
 Atul-LNG.
 Paulsylo25.
 brenduh.
+debendu-das.
 kmxo.
 KrishChothani.
 stefanintech.
 animeshdasgit.
-GHSayak25.
 
 **Top 50% contributors:**
+GHSayak25.
 GokulkumarV.
 koratalas.
 ivan-betev.
@@ -183,7 +184,6 @@ bird-03.
 bkb68.
 chelming.
 DanielMadsenDK.
-debendu-das.
 mitalizope.
 pankajrj.
 Shashank102002.
@@ -384,6 +384,7 @@ vandna07.
 captainbraddles.
 
 **Top 10% contributors:**
+debendu-das.
 abhrajyotikanrar.
 alkaChaudhary73.
 csharpie.
@@ -398,7 +399,6 @@ mak1A4.
 selvarun-umass.
 shivamTodwal.
 Atul-LNG.
-debendu-das.
 iar42.
 lakshmikanthgupta.
 mlemartien.
