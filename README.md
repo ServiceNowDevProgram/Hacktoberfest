@@ -146,10 +146,10 @@ naveensnow.
 
 **Top 10% contributors:**
 Mexiprince.
+SrijanPatwa.
 shivamvish160.
 JonSandoval.
 raghavs046.
-SrijanPatwa.
 snamjosh.
 anveshmupparaju.
 Lacah.
@@ -345,10 +345,10 @@ aykmrgit.
 hrobarikt.
 Chraiseto.
 Paulsylo25.
+SrijanPatwa.
 sumanthdosapati.
 TRIGGEREDcoder.
 smartcarleen.
-SrijanPatwa.
 urspvs.
 anveshmupparaju.
 maheshkhatal27.
