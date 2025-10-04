@@ -183,6 +183,7 @@ bird-03.
 bkb68.
 chelming.
 DanielMadsenDK.
+debendu-das.
 mitalizope.
 pankajrj.
 Shashank102002.
@@ -191,9 +192,9 @@ AyanAhmedKhan.
 bhavyaa30.
 CODEBRAKERBOYY.
 DhruvBhatheja.
-LakshmiChaitanyaReddy.
 
 **Other contributors:**
+LakshmiChaitanyaReddy.
 mskoddow.
 sndevs-slacker-issue-reporter[bot].
 HackoDev1530.
@@ -207,7 +208,6 @@ cjuleff.
 D-GAJ.
 Danmax.
 Das-Suparna.
-debendu-das.
 divyajetti9.
 Ehabpilloor.
 eriemer1.
@@ -395,6 +395,7 @@ mak1A4.
 selvarun-umass.
 shivamTodwal.
 Atul-LNG.
+debendu-das.
 iar42.
 lakshmikanthgupta.
 mlemartien.
@@ -407,7 +408,6 @@ salmaniqbal92.
 mohitchauhan-dev.
 mr-swann.
 mskoddow.
-debendu-das.
 himanshu7895.
 Munnisona.
 prashantmrshine.
