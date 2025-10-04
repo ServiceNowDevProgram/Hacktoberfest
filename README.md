@@ -197,6 +197,7 @@ harshal045.
 **Other contributors:**
 LakshmiChaitanyaReddy.
 mskoddow.
+RaviGaurav007.
 Siddhartha03D.
 sndevs-slacker-issue-reporter[bot].
 HackoDev1530.
@@ -221,6 +222,7 @@ NavyasreeBolleboyana.
 phr-nk.
 razorblack.
 SachinNarayanasamy.
+sanjaykumar3sn.
 SavedByTheVine.
 Sriharsha19.
 surajnikam111.
@@ -277,7 +279,6 @@ PranavTamada.
 praveen8808.
 priyasnexpert.
 ramkrishna-behera.
-RaviGaurav007.
 richirichard7789-svg.
 Riyamisra1.
 rly09.
@@ -289,7 +290,6 @@ Saahil-Kumaar.
 SachinRajakaruna.
 samikshak-kaulkar-hacktoberfest.
 samikshak-web.
-sanjaykumar3sn.
 Saptarshi3456.
 Sefali12.
 ServiceNowDevProgram.
@@ -732,6 +732,7 @@ physi.
 pratyushmp.
 PreyumKr.
 RajputUsman.
+RaviGaurav007.
 rawnaldduck.
 renuka-rajpuria.
 S-SuryaPrakash.
@@ -898,6 +899,7 @@ roshanServiceNow.
 RoshanSingh04.
 SachinNarayanasamy.
 saidinesh123.
+sanjaykumar3sn.
 sankar-coder.
 ServiceNowDevProgram.
 Shriramjoshi86.
@@ -1450,7 +1452,6 @@ rajubhojane.
 ramkrishna-behera.
 raphaelcrv.
 Ravenon.
-RaviGaurav007.
 razerbackh.
 Razzzial.
 ReapredatoR.
@@ -1494,7 +1495,6 @@ samikshak-kaulkar-hacktoberfest.
 samikshak-web.
 samusahatpure.
 sanathan-git.
-sanjaykumar3sn.
 SanketJ29.
 Santosh-kumar01.
 sanuj21.
