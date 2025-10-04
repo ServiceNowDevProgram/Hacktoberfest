@@ -197,6 +197,7 @@ harshal045.
 **Other contributors:**
 LakshmiChaitanyaReddy.
 mskoddow.
+Siddhartha03D.
 sndevs-slacker-issue-reporter[bot].
 HackoDev1530.
 prataps135.
@@ -296,7 +297,6 @@ Shikhar-Shetty.
 shivambitanwar-glitch.
 Shubham11440.
 shubsolos19.
-Siddhartha03D.
 Sireesha-kante.
 Smoothengineer.
 SUMEDHFORTES.
@@ -744,6 +744,7 @@ samwinchet.
 sanchit-varshney.
 sanju009.
 Shambu-K.
+Siddhartha03D.
 speedy18.
 Sravanik12.
 Subhraneel77.
@@ -1527,7 +1528,6 @@ shubham-snc.
 Shubham11440.
 Shubham2227.
 shubsolos19.
-Siddhartha03D.
 simt0m.
 singhaditya73.
 SinNaveen.
