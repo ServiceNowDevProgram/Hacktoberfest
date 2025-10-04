@@ -170,11 +170,10 @@ Paulsylo25.
 brenduh.
 kmxo.
 KrishChothani.
-Shashank102002.
 stefanintech.
+GHSayak25.
 
 **Top 50% contributors:**
-GHSayak25.
 GokulkumarV.
 koratalas.
 ivan-betev.
@@ -185,6 +184,7 @@ chelming.
 DanielMadsenDK.
 mitalizope.
 pankajrj.
+Shashank102002.
 Abhishek2634.
 animeshdasgit.
 AyanAhmedKhan.
@@ -377,8 +377,8 @@ YTejaswini18.
 BadalHub.
 MrChrisE.
 vandna07.
-captainbraddles.
 rohi-v.
+captainbraddles.
 
 **Top 10% contributors:**
 abhrajyotikanrar.
@@ -617,7 +617,6 @@ osc99.
 pandeysumit-now.
 patrickpaterlini.
 SaiSankar1309.
-Shashank102002.
 soham-shee.
 UTSAVS26.
 Abbas-57.
@@ -667,6 +666,7 @@ mitalizope.
 pankajrj.
 RagaChitraMankala.
 ShakthiSn.
+Shashank102002.
 tejasathalye.
 thameemskings.
 umangkedia92.
