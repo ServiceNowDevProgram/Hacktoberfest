@@ -202,6 +202,7 @@ LakshmiChaitanyaReddy.
 mskoddow.
 Siddhartha03D.
 sndevs-slacker-issue-reporter[bot].
+gowdah.
 HackoDev1530.
 prataps135.
 Anudhyan.
@@ -373,11 +374,11 @@ stevezero.
 sychi77.
 ronaldkarim.
 azeezgaa.
+gowdah.
 deepak-64742.
 rafzk.
 anillande90.
 ayleeandersen.
-gowdah.
 Abhishekchowdarapu.
 alikuttyka.
 aswamy93.
