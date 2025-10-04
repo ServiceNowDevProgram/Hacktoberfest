@@ -178,6 +178,7 @@ KrishChothani.
 
 **Top 50% contributors:**
 stefanintech.
+1shabby.
 GHSayak25.
 GokulkumarV.
 ivan-betev.
@@ -188,7 +189,6 @@ DanielMadsenDK.
 mitalizope.
 pankajrj.
 Shashank102002.
-1shabby.
 Abhishek2634.
 AnandMahajan2799.
 AyanAhmedKhan.
@@ -579,6 +579,7 @@ Tushnik-cyber.
 fn20200323.
 Pradeep567iaf.
 pratyushasndev.
+1shabby.
 nag39g.
 anurampalli.
 homealone07.
@@ -596,9 +597,9 @@ SNProductOwner.
 TechnologistTim.
 anguspalmer.
 Badal2k23.
-bhavyajain511.
 
 **Top 50% contributors:**
+bhavyajain511.
 naveenraw25.
 NBaker137.
 patan116.
@@ -608,7 +609,6 @@ revantKulkarni.
 sumanth1710.
 trade12.
 ttoter.
-1shabby.
 AlphaEagle.
 JWITSM.
 mo-dahir.
