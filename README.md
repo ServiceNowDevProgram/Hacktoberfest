@@ -194,9 +194,9 @@ DhruvBhatheja.
 LakshmiChaitanyaReddy.
 
 **Other contributors:**
+mskoddow.
 sndevs-slacker-issue-reporter[bot].
 HackoDev1530.
-mskoddow.
 prataps135.
 Anudhyan.
 Siri-007.
@@ -406,9 +406,9 @@ aatrey882.
 salmaniqbal92.
 mohitchauhan-dev.
 mr-swann.
+mskoddow.
 debendu-das.
 himanshu7895.
-mskoddow.
 Munnisona.
 prashantmrshine.
 Dhruvyadav2000.
