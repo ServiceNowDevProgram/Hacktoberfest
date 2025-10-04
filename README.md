@@ -189,9 +189,9 @@ bhavyaa30.
 CODEBRAKERBOYY.
 DhruvBhatheja.
 koratalas.
+LakshmiChaitanyaReddy.
 
 **Other contributors:**
-LakshmiChaitanyaReddy.
 sndevs-slacker-issue-reporter[bot].
 HackoDev1530.
 mskoddow.
@@ -275,6 +275,7 @@ richirichard7789-svg.
 Riyamisra1.
 rly09.
 robinbishtt.
+RR-Sahoo.
 ruchirachaubey.
 RudraSathwara.
 Saahil-Kumaar.
@@ -1458,6 +1459,7 @@ Ronilpatil22.
 RooshanSalim.
 RosaAtCoding.
 RoseKonvalinka.
+RR-Sahoo.
 rtalreja1997.
 Ruchi-here.
 ruchirachaubey.
