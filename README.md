@@ -190,9 +190,10 @@ DhruvBhatheja.
 koratalas.
 LakshmiChaitanyaReddy.
 sndevs-slacker-issue-reporter[bot].
+HackoDev1530.
 
 **Other contributors:**
-HackoDev1530.
+Jaspalsinghchot.
 mskoddow.
 prataps135.
 Anudhyan.
@@ -324,8 +325,8 @@ ynr-ram.
 ishaanshoor.
 MGOPW.
 kmxo.
-bird-03.
 Jaspalsinghchot.
+bird-03.
 DavidArthurCole.
 Praiseto.
 ashoo-jindal.
