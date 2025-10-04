@@ -174,9 +174,9 @@ Paulsylo25.
 brenduh.
 kmxo.
 KrishChothani.
+stefanintech.
 
 **Top 50% contributors:**
-stefanintech.
 GHSayak25.
 GokulkumarV.
 ivan-betev.
@@ -195,9 +195,9 @@ bhavyaa30.
 CODEBRAKERBOYY.
 DhruvBhatheja.
 harshal045.
+JohanDC-1999.
 
 **Other contributors:**
-JohanDC-1999.
 LakshmiChaitanyaReddy.
 mskoddow.
 Siddhartha03D.
@@ -241,6 +241,7 @@ Akshaykomar890.
 alankritijain2001-dot.
 Anjali655.
 Anubhav-developr.
+Anusrita-Karmakar.
 apatti.
 Aryan-Bhendarkar.
 Ash0807.
@@ -830,6 +831,7 @@ ANIKETSURWASE.
 anilvaranasi.
 anirudhkumarm.
 anushka157.
+Anusrita-Karmakar.
 APraestegaard.
 artemis15.
 ayrotideysarkar.
@@ -993,7 +995,6 @@ Anoop21-oss-a.
 Anson-Mathew.
 Anubhav-developr.
 Anuraj4.
-Anusrita-Karmakar.
 apatti.
 apbuhssc.
 aravindbarla22.
