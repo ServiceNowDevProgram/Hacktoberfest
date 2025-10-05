@@ -155,9 +155,9 @@ sivamuruganandam-coder.
 SrijanPatwa.
 debendu-das.
 JonSandoval.
+WillemZeiler.
 
 **Top 25% contributors:**
-WillemZeiler.
 snamjosh.
 anveshmupparaju.
 Jaspalsinghchot.
@@ -328,6 +328,7 @@ TarunTheDev.
 tejaswahinduja2.
 ToosinDada.
 udaysiddapur.
+VA2707.
 Vishnugarg897.
 weirdwolf-eng.
 wmathor.
@@ -746,9 +747,9 @@ lakshyatyagi24.
 loudigi.
 ManobhavSachan.
 mevops.
+mikeroosa.
 
 **Other contributors:**
-mikeroosa.
 moshjahan.
 msdfib.
 mwchiao.
@@ -1645,6 +1646,7 @@ ujjwalgupta2021.
 umd-dit-servicenow.
 utk1725.
 v-agnihotri.
+VA2707.
 Vaibhav91one.
 vaishakbkj-ml.
 VaishnaviUbarhande.
