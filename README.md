@@ -204,6 +204,7 @@ harshal045.
 JohanDC-1999.
 LakshmiChaitanyaReddy.
 mskoddow.
+PranavTamada.
 Siddhartha03D.
 sndevs-slacker-issue-reporter[bot].
 gowdah.
@@ -288,7 +289,6 @@ nikhilkumar76.
 No-gui.
 poojithavalli22.
 Pram0dh-Kumar.
-PranavTamada.
 praveen8808.
 priyasnexpert.
 ramkrishna-behera.
@@ -748,6 +748,7 @@ NilotpalMaitra.
 nvprav.
 pavankumar-4.
 physi.
+PranavTamada.
 pratyushmp.
 PreyumKr.
 RajputUsman.
@@ -1439,7 +1440,6 @@ pimvet.
 Pooja123667.
 poojithavalli22.
 Pram0dh-Kumar.
-PranavTamada.
 pranjalisr.
 Prasannalakshmik.
 pratiksha2717.
