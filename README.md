@@ -143,11 +143,11 @@ wiz0floyd.
 raghavs046.
 rohi-v.
 Lacah.
-juhikumarimodi6.
+shivamvish160.
 
 **Top 10% contributors:**
+juhikumarimodi6.
 niamccash.
-shivamvish160.
 vhudlikar.
 naveensnow.
 Mexiprince.
@@ -444,6 +444,7 @@ VaishnaviLathkar98.
 hafsa-asif.
 juhikumarimodi6.
 ovarn.
+shivamvish160.
 devinvalencia.
 pallipoina92.
 QI-XING.
@@ -461,7 +462,6 @@ oasif.
 soerenmaucher.
 Adil404.
 avssrikanth.
-shivamvish160.
 shraddhakadam301298.
 shridk.
 stwinkle.
