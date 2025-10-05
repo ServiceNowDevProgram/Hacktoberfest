@@ -205,7 +205,6 @@ AdityaBala2026.
 AnandMahajan2799.
 AyanAhmedKhan.
 CODEBRAKERBOYY.
-DivyanshRajSoni.
 harshal045.
 LakshmiChaitanyaReddy.
 PranavTamada.
@@ -265,6 +264,7 @@ deepanshu4688.
 develo-oper-piyush.
 DevvSaxena17.
 DimpleShaik.
+DivyanshRajSoni.
 Dnyanesh182.
 Durgeshpathak-111.
 Emmynem.
@@ -729,7 +729,6 @@ deathkraiser.
 demetris7.
 devalcodes.
 dhruvii-powershell.
-DivyanshRajSoni.
 dorsy99.
 ezratkim.
 HackoDev1530.
@@ -752,9 +751,9 @@ loudigi.
 ManobhavSachan.
 mevops.
 mikeroosa.
+moshjahan.
 
 **Other contributors:**
-moshjahan.
 msdfib.
 mwchiao.
 NilotpalMaitra.
@@ -1142,6 +1141,7 @@ Dineshk00580.
 DinithiG.
 Diogo-Ramos.
 DirkRedeker.
+DivyanshRajSoni.
 dk0017.
 dk5ax.
 dkrueger0315.
