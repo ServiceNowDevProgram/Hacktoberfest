@@ -176,9 +176,9 @@ at8807602.
 Atul-LNG.
 Paulsylo25.
 brenduh.
+ivan-betev.
 
 **Top 50% contributors:**
-ivan-betev.
 kmxo.
 KrishChothani.
 stefanintech.
@@ -198,9 +198,9 @@ Abhishek2634.
 AdityaBala2026.
 AnandMahajan2799.
 AyanAhmedKhan.
+bhavyaa30.
 
 **Other contributors:**
-bhavyaa30.
 CODEBRAKERBOYY.
 DhruvBhatheja.
 harshal045.
@@ -308,6 +308,7 @@ Saahil-Kumaar.
 SachinRajakaruna.
 samikshak-kaulkar-hacktoberfest.
 samikshak-web.
+sanket665.
 Saptarshi3456.
 Sefali12.
 ServiceNowDevProgram.
@@ -606,9 +607,9 @@ S-w-a-p-n-i-l-22.
 SNProductOwner.
 TechnologistTim.
 anguspalmer.
+Badal2k23.
 
 **Top 50% contributors:**
-Badal2k23.
 bhavyajain511.
 naveenraw25.
 NBaker137.
@@ -743,9 +744,9 @@ lakshyatyagi24.
 loudigi.
 ManobhavSachan.
 mevops.
+mikeroosa.
 
 **Other contributors:**
-mikeroosa.
 moshjahan.
 msdfib.
 mwchiao.
@@ -1525,6 +1526,7 @@ samikshak-kaulkar-hacktoberfest.
 samikshak-web.
 samusahatpure.
 sanathan-git.
+sanket665.
 SanketJ29.
 Santosh-kumar01.
 sanuj21.
