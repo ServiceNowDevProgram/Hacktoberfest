@@ -170,18 +170,18 @@ koratalas.
 animeshdasgit.
 Rajat32-op.
 RaviGaurav007.
+sivamuruganandam-coder.
 at8807602.
 Atul-LNG.
 Paulsylo25.
 brenduh.
-kmxo.
 
 **Top 50% contributors:**
+kmxo.
 KrishChothani.
 stefanintech.
 GHSayak25.
 GokulkumarV.
-sivamuruganandam-coder.
 ivan-betev.
 lauri457.
 bkb68.
@@ -610,6 +610,7 @@ patan116.
 Rajat32-op.
 RaviGaurav007.
 revantKulkarni.
+sivamuruganandam-coder.
 sumanth1710.
 trade12.
 ttoter.
@@ -649,7 +650,6 @@ preshitd.
 prithvibalakka.
 Ratheshan03.
 Sallu77.
-sivamuruganandam-coder.
 tanu-profile.
 Thanai14.
 TheTreyKyle.
