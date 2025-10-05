@@ -182,7 +182,6 @@ ivan-betev.
 kmxo.
 KrishChothani.
 stefanintech.
-bhavyaa30.
 GHSayak25.
 GokulkumarV.
 JohanDC-1999.
@@ -199,9 +198,10 @@ TejasSNOW.
 Abhishek2634.
 AdityaBala2026.
 AnandMahajan2799.
+AyanAhmedKhan.
 
 **Other contributors:**
-AyanAhmedKhan.
+bhavyaa30.
 CODEBRAKERBOYY.
 DhruvBhatheja.
 DivyanshRajSoni.
@@ -647,7 +647,6 @@ SaiSankar1309.
 soham-shee.
 UTSAVS26.
 Abbas-57.
-bhavyaa30.
 DChotaliya.
 ersureshbe.
 GHSayak25.
@@ -714,6 +713,7 @@ AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
 AyanAhmedKhan.
+bhavyaa30.
 brichards99.
 ChndrshP.
 Chouffy.
