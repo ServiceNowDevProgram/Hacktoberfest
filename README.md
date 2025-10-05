@@ -163,13 +163,13 @@ snamjosh.
 anveshmupparaju.
 animeshdasgit.
 Jaspalsinghchot.
+bhavyaa30.
 gowdah.
 Thrizvi.
 anurampalli.
 becksbyte.
 koratalas.
 1shabby.
-bhavyaa30.
 bird-03.
 Rajat32-op.
 RaviGaurav007.
@@ -581,6 +581,7 @@ allenandreas.
 AnithaA09.
 anubhav-ritolia.
 apple9000.
+bhavyaa30.
 briangodfreydev.
 dvn-lazywinner.
 GauthamBellamkonda.
@@ -610,10 +611,9 @@ S-w-a-p-n-i-l-22.
 SNProductOwner.
 TechnologistTim.
 anguspalmer.
-Badal2k23.
 
 **Top 50% contributors:**
-bhavyaa30.
+Badal2k23.
 bhavyajain511.
 naveenraw25.
 NBaker137.
