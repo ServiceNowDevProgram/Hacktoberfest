@@ -175,9 +175,9 @@ at8807602.
 Atul-LNG.
 Paulsylo25.
 brenduh.
+kmxo.
 
 **Top 50% contributors:**
-kmxo.
 KrishChothani.
 stefanintech.
 GHSayak25.
@@ -196,9 +196,9 @@ TejasSNOW.
 Abhishek2634.
 AdityaBala2026.
 AnandMahajan2799.
+AyanAhmedKhan.
 
 **Other contributors:**
-AyanAhmedKhan.
 bhavyaa30.
 CODEBRAKERBOYY.
 DhruvBhatheja.
@@ -312,6 +312,7 @@ Shikhar-Shetty.
 shivambitanwar-glitch.
 Shubham11440.
 shubsolos19.
+SinghCod3r.
 Sireesha-kante.
 Smoothengineer.
 SUMEDHFORTES.
@@ -1554,6 +1555,7 @@ Shubham2227.
 shubsolos19.
 simt0m.
 singhaditya73.
+SinghCod3r.
 SinNaveen.
 Sireesha-kante.
 sivangbagri.
