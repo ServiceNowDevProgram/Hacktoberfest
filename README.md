@@ -178,9 +178,9 @@ Atul-LNG.
 ewatch.
 Paulsylo25.
 brenduh.
+ivan-betev.
 
 **Top 50% contributors:**
-ivan-betev.
 kmxo.
 KrishChothani.
 stefanintech.
@@ -201,9 +201,9 @@ SwapnaAbburi.
 TejasSNOW.
 Abhishek2634.
 AdityaBala2026.
+AnandMahajan2799.
 
 **Other contributors:**
-AnandMahajan2799.
 AyanAhmedKhan.
 CODEBRAKERBOYY.
 harshal045.
@@ -280,6 +280,7 @@ HimanshuSalunke.
 ineffable23.
 jainmridul82.
 KanavCode.
+knshkp.
 Kolimator.
 kunalsinghdadhwal.
 kushalt112.
@@ -1312,6 +1313,7 @@ kit-t.
 KiwiPelago.
 KkRainyre.
 kmahesh18.
+knshkp.
 KokilaAbeysinghe.
 Kolimator.
 kolomu.
