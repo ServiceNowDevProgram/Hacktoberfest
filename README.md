@@ -298,6 +298,7 @@ navyamasapu98.
 nikhilkumar76.
 niladriAdhikari.
 No-gui.
+phegel.
 poojithavalli22.
 Pram0dh-Kumar.
 praveen8808.
@@ -619,9 +620,9 @@ S-w-a-p-n-i-l-22.
 SNProductOwner.
 TechnologistTim.
 anguspalmer.
+Badal2k23.
 
 **Top 50% contributors:**
-Badal2k23.
 bhavyajain511.
 naveenraw25.
 NBaker137.
@@ -757,9 +758,9 @@ ManobhavSachan.
 mevops.
 mikeroosa.
 moshjahan.
+msdfib.
 
 **Other contributors:**
-msdfib.
 mwchiao.
 NilotpalMaitra.
 nvprav.
@@ -1458,6 +1459,7 @@ PaulMice.
 peteosaz.
 petersonferreira.
 PeteSkeet101.
+phegel.
 pimvet.
 Pooja123667.
 poojithavalli22.
