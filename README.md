@@ -262,6 +262,7 @@ Durgeshpathak-111.
 Emmynem.
 ewatch.
 FrancisBarla10.
+Girishbari.
 Gurkunwar-Singh.
 han-le.
 hardik2109.
@@ -395,9 +396,9 @@ BadalHub.
 MrChrisE.
 rohi-v.
 vandna07.
+captainbraddles.
 
 **Top 10% contributors:**
-captainbraddles.
 abhrajyotikanrar.
 alkaChaudhary73.
 csharpie.
@@ -464,9 +465,9 @@ MYaswanth28.
 naveensnow.
 raghavs046.
 shreyawani98.
+zahidask.
 
 **Top 25% contributors:**
-zahidask.
 brenduh.
 DynamiteC.
 shakeel-sheikh.
@@ -737,10 +738,10 @@ lakshyatyagi24.
 loudigi.
 ManobhavSachan.
 mevops.
-mikeroosa.
-moshjahan.
 
 **Other contributors:**
+mikeroosa.
+moshjahan.
 msdfib.
 mwchiao.
 NilotpalMaitra.
@@ -1173,6 +1174,7 @@ Gayathrichennaioutlook.
 Geraldf.
 GerhardDJ.
 GiovanniPeretti.
+Girishbari.
 git-rep0.
 Git-Snow-dev.
 GittyHarsha.
