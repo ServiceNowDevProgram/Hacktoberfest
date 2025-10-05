@@ -189,15 +189,16 @@ DanielMadsenDK.
 mitalizope.
 pankajrj.
 Shashank102002.
+TejasSNOW.
 Abhishek2634.
 AdityaBala2026.
 AnandMahajan2799.
 AyanAhmedKhan.
 bhavyaa30.
 CODEBRAKERBOYY.
-DhruvBhatheja.
 
 **Other contributors:**
+DhruvBhatheja.
 harshal045.
 JohanDC-1999.
 LakshmiChaitanyaReddy.
@@ -232,7 +233,6 @@ SavedByTheVine.
 Sriharsha19.
 surajnikam111.
 SwapnaAbburi.
-TejasSNOW.
 TRIGGEREDcoder.
 aaditya0004.
 abhi10pi.
@@ -685,6 +685,7 @@ RagaChitraMankala.
 ShakthiSn.
 Shashank102002.
 tejasathalye.
+TejasSNOW.
 thameemskings.
 umangkedia92.
 vk-cloud.
@@ -738,9 +739,9 @@ mevops.
 mikeroosa.
 moshjahan.
 msdfib.
-mwchiao.
 
 **Other contributors:**
+mwchiao.
 NilotpalMaitra.
 nvprav.
 pavankumar-4.
@@ -933,7 +934,6 @@ SwapnaAbburi.
 swathinagamahanti.
 TanushreeBorase.
 techLrd.
-TejasSNOW.
 TheSethRose.
 thoffman210.
 TonySerN.
