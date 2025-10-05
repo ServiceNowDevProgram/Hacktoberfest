@@ -175,14 +175,14 @@ at8807602.
 Atul-LNG.
 Paulsylo25.
 brenduh.
-kmxo.
+ivan-betev.
 
 **Top 50% contributors:**
+kmxo.
 KrishChothani.
 stefanintech.
 GHSayak25.
 GokulkumarV.
-ivan-betev.
 gowdah.
 lauri457.
 bkb68.
@@ -395,9 +395,9 @@ alikuttyka.
 aswamy93.
 YTejaswini18.
 BadalHub.
+ivan-betev.
 MrChrisE.
 vandna07.
-ivan-betev.
 
 **Top 10% contributors:**
 captainbraddles.
