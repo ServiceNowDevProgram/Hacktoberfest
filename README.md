@@ -186,7 +186,6 @@ stefanintech.
 GHSayak25.
 GokulkumarV.
 JohanDC-1999.
-chetnadev.
 lauri457.
 bkb68.
 chelming.
@@ -200,9 +199,9 @@ TejasSNOW.
 Abhishek2634.
 AdityaBala2026.
 AnandMahajan2799.
+AyanAhmedKhan.
 
 **Other contributors:**
-AyanAhmedKhan.
 CODEBRAKERBOYY.
 DhruvBhatheja.
 DivyanshRajSoni.
@@ -213,6 +212,7 @@ Siddhartha03D.
 SinghCod3r.
 sndevs-slacker-issue-reporter[bot].
 bhavishyavelaga.
+chetnadev.
 HackoDev1530.
 prataps135.
 Anudhyan.
@@ -349,8 +349,8 @@ Rampriya-S.
 snamjosh.
 kmohit2809.
 chelming.
-chetnadev.
 sandeepd26.
+chetnadev.
 johndahl-now.
 MartinStoyanoff.
 eriemer1.
@@ -395,8 +395,8 @@ ronaldkarim.
 azeezgaa.
 deepak-64742.
 rafzk.
-anillande90.
 rohi-v.
+anillande90.
 ayleeandersen.
 raghavs046.
 Abhishekchowdarapu.
