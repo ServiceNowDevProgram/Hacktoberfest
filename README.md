@@ -158,10 +158,10 @@ debendu-das.
 JonSandoval.
 
 **Top 25% contributors:**
+animeshdasgit.
 Rampriya-S.
 snamjosh.
 anveshmupparaju.
-animeshdasgit.
 gowdah.
 Jaspalsinghchot.
 bhavyaa30.
@@ -406,10 +406,11 @@ Abhishekchowdarapu.
 alikuttyka.
 aswamy93.
 YTejaswini18.
+animeshdasgit.
 BadalHub.
-ivan-betev.
 
 **Top 10% contributors:**
+ivan-betev.
 MrChrisE.
 vandna07.
 captainbraddles.
@@ -419,7 +420,6 @@ csharpie.
 DanielMadsenDK.
 JonSandoval.
 PranavBhagat18.
-animeshdasgit.
 Irston.
 bkb68.
 litwi1rm.
