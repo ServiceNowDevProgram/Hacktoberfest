@@ -137,8 +137,8 @@ Meet the volunteer team who will be maintaining the Hacktoberfest projects:
 **Top 5% contributors:**
 earlduque.
 SapphicFire.
-wiz0floyd.
 ravichandra1998g.
+wiz0floyd.
 am-shakeel.
 rohi-v.
 juhikumarimodi6.
