@@ -151,14 +151,14 @@ shivamvish160.
 naveensnow.
 Mexiprince.
 SrijanPatwa.
+debendu-das.
 JonSandoval.
 WillemZeiler.
 snamjosh.
-vhudlikar.
 
 **Top 25% contributors:**
+vhudlikar.
 anveshmupparaju.
-debendu-das.
 Jaspalsinghchot.
 Rampriya-S.
 animeshdasgit.
@@ -369,13 +369,13 @@ TRIGGEREDcoder.
 SrijanPatwa.
 sumanthdosapati.
 smartcarleen.
+debendu-das.
 urspvs.
 anveshmupparaju.
 maheshkhatal27.
 ankitshu.
 at8807602.
 sndevs-slacker-issue-reporter[bot].
-debendu-das.
 Mexiprince.
 Radhe-Manasa.
 404paige.
