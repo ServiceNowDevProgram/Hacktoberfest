@@ -177,9 +177,10 @@ at8807602.
 Atul-LNG.
 Paulsylo25.
 brenduh.
-ivan-betev.
+ewatch.
 
 **Top 50% contributors:**
+ivan-betev.
 kmxo.
 KrishChothani.
 stefanintech.
@@ -191,7 +192,6 @@ lauri457.
 bkb68.
 chelming.
 DanielMadsenDK.
-ewatch.
 mitalizope.
 mskoddow.
 pankajrj.
@@ -586,6 +586,7 @@ apple9000.
 bhavyaa30.
 briangodfreydev.
 dvn-lazywinner.
+ewatch.
 GauthamBellamkonda.
 Khasim-63993.
 odinsride.
@@ -613,11 +614,10 @@ S-w-a-p-n-i-l-22.
 SNProductOwner.
 TechnologistTim.
 anguspalmer.
-Badal2k23.
 
 **Top 50% contributors:**
+Badal2k23.
 bhavyajain511.
-ewatch.
 naveenraw25.
 NBaker137.
 patan116.
