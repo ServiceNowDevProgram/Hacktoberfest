@@ -193,6 +193,7 @@ lauri457.
 bkb68.
 chelming.
 DanielMadsenDK.
+Danmax.
 mitalizope.
 mskoddow.
 pankajrj.
@@ -201,9 +202,9 @@ SwapnaAbburi.
 TejasSNOW.
 Abhishek2634.
 AdityaBala2026.
-AnandMahajan2799.
 
 **Other contributors:**
+AnandMahajan2799.
 AyanAhmedKhan.
 CODEBRAKERBOYY.
 harshal045.
@@ -224,7 +225,6 @@ anushka157.
 aykmrgit.
 cjuleff.
 D-GAJ.
-Danmax.
 Das-Suparna.
 divyajetti9.
 Ehabpilloor.
@@ -421,6 +421,7 @@ abhrajyotikanrar.
 alkaChaudhary73.
 csharpie.
 DanielMadsenDK.
+Danmax.
 JonSandoval.
 PranavBhagat18.
 Irston.
@@ -434,7 +435,6 @@ iar42.
 lakshmikanthgupta.
 mlemartien.
 riya-misra-1.
-Danmax.
 hentonjd.
 23Thom.
 aatrey882.
