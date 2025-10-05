@@ -173,16 +173,16 @@ Rajat32-op.
 RaviGaurav007.
 at8807602.
 Atul-LNG.
+gowdah.
 Paulsylo25.
 brenduh.
-kmxo.
 
 **Top 50% contributors:**
+kmxo.
 KrishChothani.
 stefanintech.
 GHSayak25.
 GokulkumarV.
-gowdah.
 ivan-betev.
 lauri457.
 bkb68.
@@ -371,6 +371,7 @@ SrijanPatwa.
 sumanthdosapati.
 smartcarleen.
 debendu-das.
+gowdah.
 urspvs.
 anveshmupparaju.
 maheshkhatal27.
@@ -378,7 +379,6 @@ ankitshu.
 at8807602.
 sndevs-slacker-issue-reporter[bot].
 Mexiprince.
-gowdah.
 Radhe-Manasa.
 404paige.
 stevezero.
