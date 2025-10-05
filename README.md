@@ -175,10 +175,11 @@ Rajat32-op.
 RaviGaurav007.
 at8807602.
 Atul-LNG.
+chetnadev.
 Paulsylo25.
-brenduh.
 
 **Top 50% contributors:**
+brenduh.
 ivan-betev.
 kmxo.
 KrishChothani.
@@ -186,7 +187,6 @@ stefanintech.
 GHSayak25.
 GokulkumarV.
 JohanDC-1999.
-chetnadev.
 lauri457.
 bkb68.
 chelming.
