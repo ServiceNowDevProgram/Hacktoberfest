@@ -247,6 +247,7 @@ abhijeetpatil1818.
 ABHINAVGUPTA02.
 Aditya-1208.
 ahmadibitoye.
+Akash-44.
 Akshaykomar890.
 alankritijain2001-dot.
 Anjali655.
@@ -612,9 +613,9 @@ S-w-a-p-n-i-l-22.
 SNProductOwner.
 TechnologistTim.
 anguspalmer.
+Badal2k23.
 
 **Top 50% contributors:**
-Badal2k23.
 bhavyajain511.
 naveenraw25.
 NBaker137.
@@ -750,9 +751,9 @@ lakshyatyagi24.
 loudigi.
 ManobhavSachan.
 mevops.
+mikeroosa.
 
 **Other contributors:**
-mikeroosa.
 moshjahan.
 msdfib.
 mwchiao.
@@ -985,6 +986,7 @@ ahmadibitoye.
 ahmadwhet.
 ajbuono.
 ajithaju15.
+Akash-44.
 AKASHDHARDUBEY.
 AKBKCKDK444.
 akchowdam.
