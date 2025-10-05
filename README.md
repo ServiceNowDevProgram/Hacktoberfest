@@ -208,6 +208,7 @@ LakshmiChaitanyaReddy.
 mskoddow.
 PranavTamada.
 Siddhartha03D.
+SinghCod3r.
 sndevs-slacker-issue-reporter[bot].
 HackoDev1530.
 prataps135.
@@ -312,7 +313,6 @@ Shikhar-Shetty.
 shivambitanwar-glitch.
 Shubham11440.
 shubsolos19.
-SinghCod3r.
 Sireesha-kante.
 Smoothengineer.
 SUMEDHFORTES.
@@ -767,6 +767,7 @@ sanchit-varshney.
 sanju009.
 Shambu-K.
 Siddhartha03D.
+SinghCod3r.
 speedy18.
 Sravanik12.
 Subhraneel77.
@@ -1555,7 +1556,6 @@ Shubham2227.
 shubsolos19.
 simt0m.
 singhaditya73.
-SinghCod3r.
 SinNaveen.
 Sireesha-kante.
 sivangbagri.
