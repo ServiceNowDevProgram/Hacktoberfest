@@ -181,6 +181,7 @@ KrishChothani.
 stefanintech.
 GHSayak25.
 GokulkumarV.
+sivamuruganandam-coder.
 ivan-betev.
 lauri457.
 bkb68.
@@ -195,16 +196,15 @@ AdityaBala2026.
 AnandMahajan2799.
 AyanAhmedKhan.
 bhavyaa30.
-CODEBRAKERBOYY.
 
 **Other contributors:**
+CODEBRAKERBOYY.
 DhruvBhatheja.
 harshal045.
 JohanDC-1999.
 LakshmiChaitanyaReddy.
 mskoddow.
 Siddhartha03D.
-sivamuruganandam-coder.
 sndevs-slacker-issue-reporter[bot].
 gowdah.
 HackoDev1530.
@@ -649,6 +649,7 @@ preshitd.
 prithvibalakka.
 Ratheshan03.
 Sallu77.
+sivamuruganandam-coder.
 tanu-profile.
 Thanai14.
 TheTreyKyle.
@@ -738,9 +739,9 @@ ManobhavSachan.
 mevops.
 mikeroosa.
 moshjahan.
-msdfib.
 
 **Other contributors:**
+msdfib.
 mwchiao.
 NilotpalMaitra.
 nvprav.
@@ -762,7 +763,6 @@ sanchit-varshney.
 sanju009.
 Shambu-K.
 Siddhartha03D.
-sivamuruganandam-coder.
 speedy18.
 Sravanik12.
 Subhraneel77.
