@@ -190,15 +190,16 @@ mitalizope.
 pankajrj.
 Shashank102002.
 Abhishek2634.
+AdityaBala2026.
 AnandMahajan2799.
 AyanAhmedKhan.
 bhavyaa30.
 CODEBRAKERBOYY.
 DhruvBhatheja.
 harshal045.
-JohanDC-1999.
 
 **Other contributors:**
+JohanDC-1999.
 LakshmiChaitanyaReddy.
 mskoddow.
 Siddhartha03D.
@@ -237,7 +238,6 @@ abhi10pi.
 abhijeetpatil1818.
 ABHINAVGUPTA02.
 Aditya-1208.
-AdityaBala2026.
 ahmadibitoye.
 Akshaykomar890.
 alankritijain2001-dot.
@@ -475,6 +475,7 @@ sn-ajb.
 DavidMarcial.
 techYESlogyXplorer.
 vijaytalupula.
+AdityaBala2026.
 alyaanbasha.
 ariyadmir.
 gregorwmail.
@@ -504,7 +505,6 @@ dadhich-ashish.
 girishnagaraj09.
 Jayden-Chiu.
 OrgovanGeza.
-AdityaBala2026.
 arhaan2019.
 designitsecure.
 llipovsky.
