@@ -169,6 +169,7 @@ anurampalli.
 becksbyte.
 koratalas.
 1shabby.
+bhavyaa30.
 bird-03.
 Rajat32-op.
 RaviGaurav007.
@@ -176,13 +177,12 @@ at8807602.
 Atul-LNG.
 Paulsylo25.
 brenduh.
-ivan-betev.
 
 **Top 50% contributors:**
+ivan-betev.
 kmxo.
 KrishChothani.
 stefanintech.
-bhavyaa30.
 GHSayak25.
 GokulkumarV.
 JohanDC-1999.
@@ -613,6 +613,7 @@ anguspalmer.
 Badal2k23.
 
 **Top 50% contributors:**
+bhavyaa30.
 bhavyajain511.
 naveenraw25.
 NBaker137.
@@ -648,7 +649,6 @@ SaiSankar1309.
 soham-shee.
 UTSAVS26.
 Abbas-57.
-bhavyaa30.
 DChotaliya.
 ersureshbe.
 GHSayak25.
