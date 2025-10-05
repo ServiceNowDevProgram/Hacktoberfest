@@ -185,6 +185,7 @@ stefanintech.
 bhavyaa30.
 GHSayak25.
 GokulkumarV.
+JohanDC-1999.
 chetnadev.
 lauri457.
 bkb68.
@@ -198,14 +199,13 @@ TejasSNOW.
 Abhishek2634.
 AdityaBala2026.
 AnandMahajan2799.
-AyanAhmedKhan.
 
 **Other contributors:**
+AyanAhmedKhan.
 CODEBRAKERBOYY.
 DhruvBhatheja.
 DivyanshRajSoni.
 harshal045.
-JohanDC-1999.
 LakshmiChaitanyaReddy.
 mskoddow.
 PranavTamada.
@@ -651,6 +651,7 @@ bhavyaa30.
 DChotaliya.
 ersureshbe.
 GHSayak25.
+JohanDC-1999.
 LucasRocha2308.
 Mahesh-Krishnan1.
 maialithar.
@@ -737,7 +738,6 @@ j4rodm.
 jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
-JohanDC-1999.
 jordanrogus.
 Juusoee.
 KartikeSingh.
