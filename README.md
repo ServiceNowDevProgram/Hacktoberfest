@@ -260,6 +260,7 @@ debugwithshubham.
 deepanshu4688.
 develo-oper-piyush.
 DevvSaxena17.
+DivyanshRajSoni.
 Dnyanesh182.
 Durgeshpathak-111.
 Emmynem.
@@ -1134,6 +1135,7 @@ Dineshk00580.
 DinithiG.
 Diogo-Ramos.
 DirkRedeker.
+DivyanshRajSoni.
 dk0017.
 dk5ax.
 dkrueger0315.
