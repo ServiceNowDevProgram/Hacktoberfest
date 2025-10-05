@@ -197,9 +197,9 @@ Abhishek2634.
 AdityaBala2026.
 AnandMahajan2799.
 AyanAhmedKhan.
+bhavyaa30.
 
 **Other contributors:**
-bhavyaa30.
 CODEBRAKERBOYY.
 DhruvBhatheja.
 harshal045.
@@ -210,6 +210,7 @@ PranavTamada.
 Siddhartha03D.
 SinghCod3r.
 sndevs-slacker-issue-reporter[bot].
+chetnadev.
 HackoDev1530.
 prataps135.
 Anudhyan.
@@ -343,9 +344,9 @@ snamjosh.
 kmohit2809.
 chelming.
 sandeepd26.
+chetnadev.
 johndahl-now.
 MartinStoyanoff.
-chetnadev.
 eriemer1.
 paigesndev.
 Jaspalsinghchot.
