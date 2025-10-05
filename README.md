@@ -190,6 +190,7 @@ lauri457.
 bkb68.
 chelming.
 DanielMadsenDK.
+ewatch.
 mitalizope.
 mskoddow.
 pankajrj.
@@ -199,9 +200,9 @@ TejasSNOW.
 Abhishek2634.
 AdityaBala2026.
 AnandMahajan2799.
-AyanAhmedKhan.
 
 **Other contributors:**
+AyanAhmedKhan.
 CODEBRAKERBOYY.
 DhruvBhatheja.
 DivyanshRajSoni.
@@ -228,7 +229,6 @@ Das-Suparna.
 divyajetti9.
 Ehabpilloor.
 eriemer1.
-ewatch.
 jonahpiascik.
 kmohit2809.
 mady22070.
@@ -617,6 +617,7 @@ Badal2k23.
 
 **Top 50% contributors:**
 bhavyajain511.
+ewatch.
 naveenraw25.
 NBaker137.
 patan116.
@@ -653,7 +654,6 @@ UTSAVS26.
 Abbas-57.
 DChotaliya.
 ersureshbe.
-ewatch.
 GHSayak25.
 JohanDC-1999.
 LucasRocha2308.
