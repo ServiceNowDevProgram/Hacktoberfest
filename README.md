@@ -175,8 +175,8 @@ Rajat32-op.
 RaviGaurav007.
 at8807602.
 Atul-LNG.
-Paulsylo25.
 ewatch.
+Paulsylo25.
 brenduh.
 
 **Top 50% contributors:**
@@ -563,6 +563,7 @@ sauravsumankumar.
 yuvraj1107thapa.
 ashuprince121.
 chaitaliKundu.
+ewatch.
 Harshuu870.
 hrichiksite.
 Iuliak.
@@ -573,7 +574,6 @@ techTrekwithAJ.
 TVani5.
 adarshsingh0205.
 annaydas.
-ewatch.
 goranlundqvist.
 Hamritha0506.
 harisnad.
