@@ -161,7 +161,6 @@ anveshmupparaju.
 Jaspalsinghchot.
 Rampriya-S.
 debendu-das.
-sivamuruganandam-coder.
 bird-03.
 Thrizvi.
 anurampalli.
@@ -171,6 +170,7 @@ koratalas.
 animeshdasgit.
 Rajat32-op.
 RaviGaurav007.
+sivamuruganandam-coder.
 at8807602.
 Atul-LNG.
 Paulsylo25.
@@ -580,7 +580,6 @@ odinsride.
 piyusalunke123.
 rene-el.
 rmedved84.
-sivamuruganandam-coder.
 src107.
 Tushnik-cyber.
 fn20200323.
@@ -602,9 +601,9 @@ S-w-a-p-n-i-l-22.
 SNProductOwner.
 TechnologistTim.
 anguspalmer.
+Badal2k23.
 
 **Top 50% contributors:**
-Badal2k23.
 bhavyajain511.
 naveenraw25.
 NBaker137.
@@ -612,6 +611,7 @@ patan116.
 Rajat32-op.
 RaviGaurav007.
 revantKulkarni.
+sivamuruganandam-coder.
 sumanth1710.
 trade12.
 ttoter.
