@@ -178,9 +178,10 @@ Atul-LNG.
 ewatch.
 Paulsylo25.
 brenduh.
-ivan-betev.
+Danmax.
 
 **Top 50% contributors:**
+ivan-betev.
 kmxo.
 KrishChothani.
 stefanintech.
@@ -193,7 +194,6 @@ lauri457.
 bkb68.
 chelming.
 DanielMadsenDK.
-Danmax.
 mitalizope.
 mskoddow.
 pankajrj.
@@ -406,15 +406,16 @@ rafzk.
 anillande90.
 raghavs046.
 ayleeandersen.
+Danmax.
 vhudlikar.
 Abhishekchowdarapu.
 alikuttyka.
 aswamy93.
 YTejaswini18.
 animeshdasgit.
-BadalHub.
 
 **Top 10% contributors:**
+BadalHub.
 ivan-betev.
 MrChrisE.
 vandna07.
@@ -423,7 +424,6 @@ abhrajyotikanrar.
 alkaChaudhary73.
 csharpie.
 DanielMadsenDK.
-Danmax.
 JonSandoval.
 PranavBhagat18.
 Irston.
