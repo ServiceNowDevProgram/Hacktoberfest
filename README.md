@@ -147,8 +147,8 @@ Lacah.
 
 **Top 10% contributors:**
 juhikumarimodi6.
-niamccash.
 vhudlikar.
+niamccash.
 naveensnow.
 Mexiprince.
 sivamuruganandam-coder.
@@ -402,12 +402,13 @@ raghavs046.
 Abhishekchowdarapu.
 alikuttyka.
 aswamy93.
+vhudlikar.
 YTejaswini18.
 BadalHub.
 ivan-betev.
-MrChrisE.
 
 **Top 10% contributors:**
+MrChrisE.
 vandna07.
 captainbraddles.
 abhrajyotikanrar.
@@ -416,7 +417,6 @@ csharpie.
 DanielMadsenDK.
 JonSandoval.
 PranavBhagat18.
-vhudlikar.
 animeshdasgit.
 Irston.
 bkb68.
