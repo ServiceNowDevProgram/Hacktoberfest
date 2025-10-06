@@ -179,14 +179,14 @@ ewatch.
 Paulsylo25.
 brenduh.
 ChandBasha-code.
-ivan-betev.
+chetnadev.
 
 **Top 50% contributors:**
+ivan-betev.
 kmxo.
 KrishChothani.
 NavyasreeBolleboyana.
 stefanintech.
-chetnadev.
 DhruvBhatheja.
 GHSayak25.
 GokulkumarV.
