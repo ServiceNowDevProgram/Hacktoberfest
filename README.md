@@ -179,11 +179,12 @@ trupti65.
 at8807602.
 ewatch.
 Paulsylo25.
+bkb68.
 brenduh.
 ChandBasha-code.
-chetnadev.
 
 **Top 50% contributors:**
+chetnadev.
 ivan-betev.
 kmxo.
 KrishChothani.
@@ -196,7 +197,6 @@ JohanDC-1999.
 lauri457.
 mskoddow.
 sndevs-slacker-issue-reporter[bot].
-bkb68.
 chelming.
 DanielMadsenDK.
 Danmax.
@@ -430,6 +430,7 @@ ivan-betev.
 **Top 10% contributors:**
 MrChrisE.
 vandna07.
+bkb68.
 captainbraddles.
 abhrajyotikanrar.
 alkaChaudhary73.
@@ -441,7 +442,6 @@ PranavBhagat18.
 vhudlikar.
 Atul-LNG.
 Irston.
-bkb68.
 litwi1rm.
 mak1A4.
 selvarun-umass.
