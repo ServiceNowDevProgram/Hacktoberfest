@@ -151,8 +151,8 @@ niamccash.
 Rampriya-S.
 vhudlikar.
 Mexiprince.
-naveensnow.
 WillemZeiler.
+naveensnow.
 SrijanPatwa.
 debendu-das.
 JonSandoval.
@@ -165,11 +165,11 @@ anurampalli.
 anveshmupparaju.
 gowdah.
 Jaspalsinghchot.
-bhavyaa30.
 Thrizvi.
 becksbyte.
 koratalas.
 1shabby.
+bhavyaa30.
 bird-03.
 Rajat32-op.
 RaviGaurav007.
@@ -480,11 +480,11 @@ stwinkle.
 Vishnu-rvk.
 Charanjet.
 phr-nk.
+WillemZeiler.
 davidkwhuang.
 MYaswanth28.
 naveensnow.
 shreyawani98.
-WillemZeiler.
 zahidask.
 
 **Top 25% contributors:**
@@ -594,7 +594,6 @@ allenandreas.
 AnithaA09.
 anubhav-ritolia.
 apple9000.
-bhavyaa30.
 briangodfreydev.
 dvn-lazywinner.
 GauthamBellamkonda.
@@ -624,6 +623,7 @@ SNProductOwner.
 TechnologistTim.
 anguspalmer.
 Badal2k23.
+bhavyaa30.
 
 **Top 50% contributors:**
 bhavyajain511.
