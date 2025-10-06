@@ -152,12 +152,12 @@ juhikumarimodi6.
 niamccash.
 Rampriya-S.
 Mexiprince.
+JonSandoval.
 naveensnow.
 gowdah.
 snamjosh.
 SrijanPatwa.
 debendu-das.
-JonSandoval.
 animeshdasgit.
 
 **Top 25% contributors:**
@@ -429,14 +429,15 @@ bkb68.
 rafzk.
 anillande90.
 ayleeandersen.
+JonSandoval.
 Abhishekchowdarapu.
 alikuttyka.
 aswamy93.
 YTejaswini18.
 animeshdasgit.
-BadalHub.
 
 **Top 10% contributors:**
+BadalHub.
 ivan-betev.
 MrChrisE.
 vandna07.
@@ -447,7 +448,6 @@ alkaChaudhary73.
 csharpie.
 DanielMadsenDK.
 Danmax.
-JonSandoval.
 PranavBhagat18.
 Irston.
 litwi1rm.
