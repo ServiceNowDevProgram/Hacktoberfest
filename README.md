@@ -204,11 +204,12 @@ maheshkhatal27.
 mitalizope.
 pankajrj.
 Shashank102002.
+Shweyy123.
 SwapnaAbburi.
 TejasSNOW.
-Abhishek2634.
 
 **Other contributors:**
+Abhishek2634.
 AdityaBala2026.
 AnandMahajan2799.
 AyanAhmedKhan.
@@ -249,7 +250,6 @@ SachinNarayanasamy.
 sanjaykumar3sn.
 SavedByTheVine.
 shivambitanwar-glitch.
-Shweyy123.
 Sriharsha19.
 surajnikam111.
 TRIGGEREDcoder.
@@ -723,6 +723,7 @@ pankajrj.
 RagaChitraMankala.
 ShakthiSn.
 Shashank102002.
+Shweyy123.
 SwapnaAbburi.
 tejasathalye.
 TejasSNOW.
@@ -774,9 +775,9 @@ LakshmiChaitanyaReddy.
 lakshyatyagi24.
 loudigi.
 ManobhavSachan.
-mevops.
 
 **Other contributors:**
+mevops.
 mikeroosa.
 moshjahan.
 msdfib.
@@ -964,7 +965,6 @@ sankar-coder.
 ServiceNowDevProgram.
 shivambitanwar-glitch.
 Shriramjoshi86.
-Shweyy123.
 sivajyo0803.
 skwashim786.
 SKYsnaX.
