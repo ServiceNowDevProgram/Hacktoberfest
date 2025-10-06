@@ -172,6 +172,7 @@ Thrizvi.
 becksbyte.
 bkb68.
 chetnadev.
+kmxo.
 koratalas.
 1shabby.
 bhavyaa30.
@@ -182,13 +183,12 @@ Rajat32-op.
 RaviGaurav007.
 at8807602.
 ewatch.
-Paulsylo25.
 
 **Top 50% contributors:**
+Paulsylo25.
 brenduh.
 ChandBasha-code.
 ivan-betev.
-kmxo.
 KrishChothani.
 stefanintech.
 sumanth1710.
@@ -387,8 +387,8 @@ paigesndev.
 ynr-ram.
 ishaanshoor.
 MGOPW.
-bird-03.
 kmxo.
+bird-03.
 ravichandra1998g.
 DavidArthurCole.
 Praiseto.
