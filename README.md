@@ -152,9 +152,9 @@ juhikumarimodi6.
 niamccash.
 Rampriya-S.
 Mexiprince.
+snamjosh.
 JonSandoval.
 naveensnow.
-snamjosh.
 gowdah.
 SrijanPatwa.
 debendu-das.
@@ -172,7 +172,6 @@ Atul-LNG.
 Thrizvi.
 becksbyte.
 bkb68.
-chetnadev.
 kmxo.
 koratalas.
 1shabby.
@@ -183,11 +182,12 @@ Rajat32-op.
 RaviGaurav007.
 at8807602.
 ewatch.
+Paulsylo25.
 
 **Top 50% contributors:**
-Paulsylo25.
 brenduh.
 ChandBasha-code.
+chetnadev.
 ivan-betev.
 KrishChothani.
 stefanintech.
