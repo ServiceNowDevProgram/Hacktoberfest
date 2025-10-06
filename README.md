@@ -141,8 +141,8 @@ SapphicFire.
 raghavs046.
 Lacah.
 am-shakeel.
-wiz0floyd.
 rohi-v.
+wiz0floyd.
 vhudlikar.
 WillemZeiler.
 shivamvish160.
@@ -188,7 +188,6 @@ ewatch.
 Paulsylo25.
 brenduh.
 ChandBasha-code.
-divyajetti9.
 ivan-betev.
 KrishChothani.
 stefanintech.
@@ -201,6 +200,7 @@ sndevs-slacker-issue-reporter[bot].
 chelming.
 DanielMadsenDK.
 Danmax.
+divyajetti9.
 maheshkhatal27.
 mitalizope.
 pankajrj.
@@ -672,7 +672,6 @@ akhoshnood.
 allam1234.
 Decoder-Paul.
 DhanushNehru.
-divyajetti9.
 jesalynrose.
 KrishChothani.
 Ladirinia.
@@ -725,6 +724,7 @@ ashaw7697.
 Beeram12.
 crooks-s.
 cschmidt82.
+divyajetti9.
 Jaskaran-Techno.
 mitalizope.
 pankajrj.
