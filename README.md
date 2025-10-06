@@ -172,6 +172,7 @@ koratalas.
 1shabby.
 bhavyaa30.
 bird-03.
+DhruvBhatheja.
 Rajat32-op.
 RaviGaurav007.
 trupti65.
@@ -181,16 +182,15 @@ Paulsylo25.
 brenduh.
 ChandBasha-code.
 chetnadev.
-ivan-betev.
 
 **Top 50% contributors:**
+ivan-betev.
 kmxo.
 KrishChothani.
 NavyasreeBolleboyana.
 Shweyy123.
 stefanintech.
 sumanth1710.
-DhruvBhatheja.
 GHSayak25.
 GokulkumarV.
 JohanDC-1999.
@@ -638,6 +638,7 @@ bhavyaa30.
 
 **Top 50% contributors:**
 bhavyajain511.
+DhruvBhatheja.
 naveenraw25.
 NBaker137.
 patan116.
@@ -676,7 +677,6 @@ soham-shee.
 UTSAVS26.
 Abbas-57.
 DChotaliya.
-DhruvBhatheja.
 ersureshbe.
 GHSayak25.
 JohanDC-1999.
