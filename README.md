@@ -182,9 +182,9 @@ bkb68.
 brenduh.
 ChandBasha-code.
 chetnadev.
+ivan-betev.
 
 **Top 50% contributors:**
-ivan-betev.
 kmxo.
 KrishChothani.
 NavyasreeBolleboyana.
@@ -207,9 +207,9 @@ Shashank102002.
 Shweyy123.
 SwapnaAbburi.
 TejasSNOW.
+Abhishek2634.
 
 **Other contributors:**
-Abhishek2634.
 AdityaBala2026.
 AnandMahajan2799.
 AyanAhmedKhan.
@@ -300,6 +300,7 @@ kunalsinghdadhwal.
 kushalt112.
 lstrallo.
 madhuri-ch4.
+Mahathiveena.
 Manish0621.
 meetvansjaliya.
 michael-albinson-sn.
@@ -776,9 +777,9 @@ LakshmiChaitanyaReddy.
 lakshyatyagi24.
 loudigi.
 ManobhavSachan.
+mevops.
 
 **Other contributors:**
-mevops.
 mikeroosa.
 moshjahan.
 msdfib.
@@ -1382,6 +1383,7 @@ macias-daniel.
 madhuri-ch4.
 Mady1947.
 mahamed-rashid.
+Mahathiveena.
 mahithak17.
 Maithani-ji.
 makesh-ind.
