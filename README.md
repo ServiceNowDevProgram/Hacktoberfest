@@ -174,15 +174,16 @@ bhavyaa30.
 bird-03.
 Rajat32-op.
 RaviGaurav007.
+trupti65.
 at8807602.
 ewatch.
 Paulsylo25.
 brenduh.
 ChandBasha-code.
 chetnadev.
-ivan-betev.
 
 **Top 50% contributors:**
+ivan-betev.
 kmxo.
 KrishChothani.
 NavyasreeBolleboyana.
@@ -192,7 +193,6 @@ DhruvBhatheja.
 GHSayak25.
 GokulkumarV.
 JohanDC-1999.
-trupti65.
 lauri457.
 mskoddow.
 sndevs-slacker-issue-reporter[bot].
@@ -643,6 +643,7 @@ Rajat32-op.
 RaviGaurav007.
 revantKulkarni.
 trade12.
+trupti65.
 ttoter.
 AlphaEagle.
 ChandBasha-code.
@@ -688,7 +689,6 @@ tanu-profile.
 Thanai14.
 TheTreyKyle.
 thisnameissoclever.
-trupti65.
 ujjwalprem.
 zailugao.
 mockspeed.
