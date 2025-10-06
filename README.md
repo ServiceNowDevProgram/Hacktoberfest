@@ -217,6 +217,7 @@ LakshmiChaitanyaReddy.
 PranavTamada.
 Siddhartha03D.
 SinghCod3r.
+trupti65.
 bhavishyavelaga.
 HackoDev1530.
 prataps135.
@@ -344,7 +345,6 @@ Taranpreet1407.
 TarunTheDev.
 tejaswahinduja2.
 ToosinDada.
-trupti65.
 udaysiddapur.
 VA2707.
 varun1325.
@@ -804,6 +804,7 @@ thomasvogh.
 tomlozano.
 ToosinDada.
 trishitapingolia.
+trupti65.
 ultralegendary.
 workpurposeusername.
 YadlaMani.
@@ -1663,7 +1664,6 @@ Tramblay.
 TreasuryDigitalApps.
 triciac4.
 troat9824.
-trupti65.
 Tsegagedefaw.
 Tsheens.
 tsicot.
