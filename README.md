@@ -137,8 +137,8 @@ Meet the volunteer team who will be maintaining the Hacktoberfest projects:
 **Top 5% contributors:**
 earlduque.
 SapphicFire.
-raghavs046.
 ravichandra1998g.
+raghavs046.
 wiz0floyd.
 Lacah.
 am-shakeel.
@@ -178,10 +178,9 @@ Atul-LNG.
 ewatch.
 Paulsylo25.
 brenduh.
-Danmax.
+ivan-betev.
 
 **Top 50% contributors:**
-ivan-betev.
 kmxo.
 KrishChothani.
 stefanintech.
@@ -196,6 +195,7 @@ sndevs-slacker-issue-reporter[bot].
 bkb68.
 chelming.
 DanielMadsenDK.
+Danmax.
 mitalizope.
 pankajrj.
 Shashank102002.
@@ -407,16 +407,15 @@ rafzk.
 anillande90.
 raghavs046.
 ayleeandersen.
-Danmax.
 vhudlikar.
 Abhishekchowdarapu.
 alikuttyka.
 aswamy93.
 YTejaswini18.
 animeshdasgit.
+BadalHub.
 
 **Top 10% contributors:**
-BadalHub.
 ivan-betev.
 MrChrisE.
 vandna07.
@@ -425,6 +424,7 @@ abhrajyotikanrar.
 alkaChaudhary73.
 csharpie.
 DanielMadsenDK.
+Danmax.
 JonSandoval.
 PranavBhagat18.
 Irston.
