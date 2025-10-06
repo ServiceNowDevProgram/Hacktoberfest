@@ -152,14 +152,14 @@ Rampriya-S.
 vhudlikar.
 Mexiprince.
 naveensnow.
-sivamuruganandam-coder.
 SrijanPatwa.
 WillemZeiler.
 debendu-das.
 JonSandoval.
+animeshdasgit.
 
 **Top 25% contributors:**
-animeshdasgit.
+sivamuruganandam-coder.
 snamjosh.
 anurampalli.
 anveshmupparaju.
@@ -489,7 +489,6 @@ brenduh.
 **Top 25% contributors:**
 DynamiteC.
 shakeel-sheikh.
-sivamuruganandam-coder.
 vjtknn.
 Yokesh0811.
 mady22070.
@@ -517,6 +516,7 @@ templetontsai.
 b1naryst0rm.
 namrataghorpade.
 sdgrube2.
+sivamuruganandam-coder.
 stefanintech.
 wendy-ha18.
 AdilBasha1SAP.
