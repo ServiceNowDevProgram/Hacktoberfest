@@ -184,6 +184,7 @@ ivan-betev.
 **Top 50% contributors:**
 kmxo.
 KrishChothani.
+NavyasreeBolleboyana.
 stefanintech.
 DhruvBhatheja.
 GHSayak25.
@@ -198,7 +199,6 @@ chelming.
 DanielMadsenDK.
 Danmax.
 mitalizope.
-NavyasreeBolleboyana.
 pankajrj.
 Shashank102002.
 SwapnaAbburi.
@@ -657,6 +657,7 @@ KrishChothani.
 Ladirinia.
 miracc.
 MiroslawBuszek.
+NavyasreeBolleboyana.
 osc99.
 pandeysumit-now.
 patrickpaterlini.
@@ -707,7 +708,6 @@ crooks-s.
 cschmidt82.
 Jaskaran-Techno.
 mitalizope.
-NavyasreeBolleboyana.
 pankajrj.
 RagaChitraMankala.
 ShakthiSn.
