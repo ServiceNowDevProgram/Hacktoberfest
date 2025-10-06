@@ -178,9 +178,10 @@ Atul-LNG.
 ewatch.
 Paulsylo25.
 brenduh.
-ivan-betev.
+ChandBasha-code.
 
 **Top 50% contributors:**
+ivan-betev.
 kmxo.
 KrishChothani.
 stefanintech.
@@ -193,7 +194,6 @@ lauri457.
 mskoddow.
 sndevs-slacker-issue-reporter[bot].
 bkb68.
-ChandBasha-code.
 chelming.
 DanielMadsenDK.
 Danmax.
@@ -637,6 +637,7 @@ sumanth1710.
 trade12.
 ttoter.
 AlphaEagle.
+ChandBasha-code.
 JWITSM.
 mo-dahir.
 dcord1x.
@@ -682,7 +683,6 @@ ujjwalprem.
 zailugao.
 mockspeed.
 TheShashank13.
-ChandBasha-code.
 cmanik.
 pranavkhurana2011.
 rohantjoshi.
