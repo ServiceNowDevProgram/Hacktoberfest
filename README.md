@@ -162,10 +162,10 @@ JonSandoval.
 **Top 25% contributors:**
 animeshdasgit.
 sivamuruganandam-coder.
+Jaspalsinghchot.
 anurampalli.
 anveshmupparaju.
 NavyasreeBolleboyana.
-Jaspalsinghchot.
 JohanDC-1999.
 Thrizvi.
 Atul-LNG.
@@ -380,8 +380,8 @@ sandeepd26.
 johndahl-now.
 MartinStoyanoff.
 eriemer1.
-paigesndev.
 Jaspalsinghchot.
+paigesndev.
 ynr-ram.
 ishaanshoor.
 MGOPW.
