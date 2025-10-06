@@ -206,9 +206,9 @@ pankajrj.
 Shashank102002.
 Shweyy123.
 SwapnaAbburi.
+TejasSNOW.
 
 **Other contributors:**
-TejasSNOW.
 Abhishek2634.
 AdityaBala2026.
 AnandMahajan2799.
@@ -268,6 +268,7 @@ apatti.
 Aryan-Bhendarkar.
 Ash0807.
 Awesomefp.
+bgrk005.
 Bharathkogilamane274.
 brunoasantos.
 chaitaliKundu.
@@ -468,13 +469,13 @@ VaishnaviLathkar98.
 hafsa-asif.
 juhikumarimodi6.
 ovarn.
+bgrk005.
 devinvalencia.
 pallipoina92.
 QI-XING.
 sheikhafsarzap.
 spnegi.
 sravankadudhuri.
-bgrk005.
 jiteshmalik.
 jonahpiascik.
 kylburns89.
