@@ -177,14 +177,15 @@ koratalas.
 bhavyaa30.
 bird-03.
 DhruvBhatheja.
+GokulkumarV.
 Rajat32-op.
 RaviGaurav007.
 at8807602.
 ewatch.
 Paulsylo25.
-brenduh.
 
 **Top 50% contributors:**
+brenduh.
 ChandBasha-code.
 ivan-betev.
 kmxo.
@@ -192,7 +193,6 @@ KrishChothani.
 stefanintech.
 sumanth1710.
 GHSayak25.
-GokulkumarV.
 trupti65.
 lauri457.
 mskoddow.
@@ -638,14 +638,15 @@ wiresgit.
 yourepicservices.
 becksbyte.
 ChecksumFailed.
+GokulkumarV.
 markroethof.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
 TechnologistTim.
 anguspalmer.
-Badal2k23.
 
 **Top 50% contributors:**
+Badal2k23.
 bhavyaa30.
 bhavyajain511.
 DhruvBhatheja.
@@ -670,7 +671,6 @@ akhoshnood.
 allam1234.
 Decoder-Paul.
 DhanushNehru.
-GokulkumarV.
 jesalynrose.
 KrishChothani.
 Ladirinia.
