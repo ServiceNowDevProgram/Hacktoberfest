@@ -145,9 +145,9 @@ rohi-v.
 wiz0floyd.
 WillemZeiler.
 shivamvish160.
+vhudlikar.
 
 **Top 10% contributors:**
-vhudlikar.
 juhikumarimodi6.
 niamccash.
 Rampriya-S.
@@ -158,9 +158,9 @@ snamjosh.
 SrijanPatwa.
 debendu-das.
 JonSandoval.
+animeshdasgit.
 
 **Top 25% contributors:**
-animeshdasgit.
 sivamuruganandam-coder.
 Jaspalsinghchot.
 anurampalli.
@@ -207,10 +207,10 @@ Shashank102002.
 shreyawani98.
 SwapnaAbburi.
 TejasSNOW.
-Abhishek2634.
-AdityaBala2026.
 
 **Other contributors:**
+Abhishek2634.
+AdityaBala2026.
 AnandMahajan2799.
 AyanAhmedKhan.
 CODEBRAKERBOYY.
@@ -355,6 +355,7 @@ Taranpreet1407.
 TarunTheDev.
 tejaswahinduja2.
 ToosinDada.
+tylerhermanabm.
 udaysiddapur.
 VA2707.
 varun1325.
@@ -1686,6 +1687,7 @@ Tsheens.
 tsicot.
 TummalaDivyaReddy.
 Turbo-Javax.
+tylerhermanabm.
 tylerteter.
 uditjainstjis.
 ujjwalgupta2021.
