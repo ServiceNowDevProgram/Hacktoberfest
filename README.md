@@ -147,8 +147,8 @@ shivamvish160.
 vhudlikar.
 
 **Top 10% contributors:**
-juhikumarimodi6.
 WillemZeiler.
+juhikumarimodi6.
 niamccash.
 Rampriya-S.
 Mexiprince.
@@ -169,7 +169,6 @@ Thrizvi.
 Atul-LNG.
 becksbyte.
 koratalas.
-NavyasreeBolleboyana.
 1shabby.
 bhavyaa30.
 bird-03.
@@ -183,11 +182,12 @@ bkb68.
 brenduh.
 ChandBasha-code.
 chetnadev.
+ivan-betev.
 
 **Top 50% contributors:**
-ivan-betev.
 kmxo.
 KrishChothani.
+NavyasreeBolleboyana.
 stefanintech.
 sumanth1710.
 GHSayak25.
@@ -471,6 +471,7 @@ VaishnaviLathkar98.
 hafsa-asif.
 juhikumarimodi6.
 ovarn.
+WillemZeiler.
 bgrk005.
 devinvalencia.
 pallipoina92.
@@ -479,7 +480,6 @@ sheikhafsarzap.
 shreyawani98.
 spnegi.
 sravankadudhuri.
-WillemZeiler.
 jiteshmalik.
 jonahpiascik.
 kylburns89.
@@ -633,15 +633,14 @@ yourepicservices.
 becksbyte.
 ChecksumFailed.
 markroethof.
-NavyasreeBolleboyana.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
 TechnologistTim.
 anguspalmer.
 Badal2k23.
+bhavyaa30.
 
 **Top 50% contributors:**
-bhavyaa30.
 bhavyajain511.
 DhruvBhatheja.
 naveenraw25.
@@ -671,6 +670,7 @@ KrishChothani.
 Ladirinia.
 miracc.
 MiroslawBuszek.
+NavyasreeBolleboyana.
 osc99.
 pandeysumit-now.
 patrickpaterlini.
