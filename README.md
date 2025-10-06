@@ -214,6 +214,7 @@ AdityaBala2026.
 AnandMahajan2799.
 AyanAhmedKhan.
 CODEBRAKERBOYY.
+durgeshservicenow-hub.
 harshal045.
 LakshmiChaitanyaReddy.
 PranavTamada.
@@ -277,7 +278,6 @@ DimpleShaik.
 DivyanshRajSoni.
 Dnyanesh182.
 Durgeshpathak-111.
-durgeshservicenow-hub.
 Emmynem.
 FrancisBarla10.
 Girishbari.
@@ -753,6 +753,7 @@ demetris7.
 devalcodes.
 dhruvii-powershell.
 dorsy99.
+durgeshservicenow-hub.
 ezratkim.
 HackoDev1530.
 harshal045.
@@ -774,9 +775,9 @@ loudigi.
 ManobhavSachan.
 mevops.
 mikeroosa.
-moshjahan.
 
 **Other contributors:**
+moshjahan.
 msdfib.
 mwchiao.
 NilotpalMaitra.
@@ -1176,7 +1177,6 @@ DRDeep7.
 drizzlt.
 DudeDrew.
 Durgeshpathak-111.
-durgeshservicenow-hub.
 dwilso1018.
 eduard-nitoi.
 EduardoUG.
