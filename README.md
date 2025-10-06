@@ -258,6 +258,7 @@ abhijeetpatil1818.
 ABHINAVGUPTA02.
 Aditya-1208.
 ahmadibitoye.
+akshaydnetake.
 Akshaykomar890.
 alankritijain2001-dot.
 Anjali655.
@@ -426,9 +427,9 @@ YTejaswini18.
 animeshdasgit.
 BadalHub.
 ivan-betev.
+MrChrisE.
 
 **Top 10% contributors:**
-MrChrisE.
 vandna07.
 bkb68.
 captainbraddles.
@@ -496,9 +497,9 @@ davidkwhuang.
 MYaswanth28.
 naveensnow.
 zahidask.
+brenduh.
 
 **Top 25% contributors:**
-brenduh.
 DynamiteC.
 shakeel-sheikh.
 vjtknn.
@@ -773,10 +774,10 @@ LakshmiChaitanyaReddy.
 lakshyatyagi24.
 loudigi.
 ManobhavSachan.
-mevops.
-mikeroosa.
 
 **Other contributors:**
+mevops.
+mikeroosa.
 moshjahan.
 msdfib.
 mwchiao.
@@ -1017,6 +1018,7 @@ akchowdam.
 akmittal.
 akoolarni.
 Akshay-sri0001.
+akshaydnetake.
 Akshaykomar890.
 alankritijain2001-dot.
 alekseylee.
