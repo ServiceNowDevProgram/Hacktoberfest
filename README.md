@@ -192,6 +192,7 @@ DhruvBhatheja.
 GHSayak25.
 GokulkumarV.
 JohanDC-1999.
+trupti65.
 lauri457.
 mskoddow.
 sndevs-slacker-issue-reporter[bot].
@@ -204,9 +205,9 @@ mitalizope.
 pankajrj.
 Shashank102002.
 SwapnaAbburi.
-TejasSNOW.
 
 **Other contributors:**
+TejasSNOW.
 Abhishek2634.
 AdityaBala2026.
 AnandMahajan2799.
@@ -217,7 +218,6 @@ LakshmiChaitanyaReddy.
 PranavTamada.
 Siddhartha03D.
 SinghCod3r.
-trupti65.
 bhavishyavelaga.
 HackoDev1530.
 prataps135.
@@ -687,6 +687,7 @@ tanu-profile.
 Thanai14.
 TheTreyKyle.
 thisnameissoclever.
+trupti65.
 ujjwalprem.
 zailugao.
 mockspeed.
@@ -770,9 +771,9 @@ ManobhavSachan.
 mevops.
 mikeroosa.
 moshjahan.
-msdfib.
 
 **Other contributors:**
+msdfib.
 mwchiao.
 NilotpalMaitra.
 nvprav.
@@ -804,7 +805,6 @@ thomasvogh.
 tomlozano.
 ToosinDada.
 trishitapingolia.
-trupti65.
 ultralegendary.
 workpurposeusername.
 YadlaMani.
