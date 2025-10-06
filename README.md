@@ -187,6 +187,7 @@ kmxo.
 KrishChothani.
 NavyasreeBolleboyana.
 stefanintech.
+sumanth1710.
 DhruvBhatheja.
 GHSayak25.
 GokulkumarV.
@@ -202,7 +203,6 @@ mitalizope.
 pankajrj.
 Shashank102002.
 Shweyy123.
-sumanth1710.
 
 **Other contributors:**
 SwapnaAbburi.
@@ -539,6 +539,7 @@ llipovsky.
 prynacshrma.
 seviceN.
 Soumyadeep10.
+sumanth1710.
 tejudhoran95.
 vasantharaja-natarajan.
 amoore-coder.
@@ -582,7 +583,6 @@ Iuliak.
 jahnaviT2003.
 RaunakScarlet.
 Srikanth1306.
-sumanth1710.
 techTrekwithAJ.
 TVani5.
 adarshsingh0205.
