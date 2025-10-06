@@ -345,6 +345,7 @@ tejaswahinduja2.
 ToosinDada.
 udaysiddapur.
 VA2707.
+varun1325.
 Vishnugarg897.
 weirdwolf-eng.
 wmathor.
@@ -628,9 +629,9 @@ SNProductOwner.
 TechnologistTim.
 anguspalmer.
 Badal2k23.
+bhavyaa30.
 
 **Top 50% contributors:**
-bhavyaa30.
 bhavyajain511.
 naveenraw25.
 NBaker137.
@@ -767,9 +768,9 @@ loudigi.
 ManobhavSachan.
 mevops.
 mikeroosa.
+moshjahan.
 
 **Other contributors:**
-moshjahan.
 msdfib.
 mwchiao.
 NilotpalMaitra.
@@ -1677,6 +1678,7 @@ vaishakbkj-ml.
 VaishnaviUbarhande.
 valaparlasalmonraj.
 VanWeapon.
+varun1325.
 vedika0109.
 venkat-244.
 VictorAlbergaria.
