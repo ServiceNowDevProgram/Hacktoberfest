@@ -201,10 +201,11 @@ Danmax.
 mitalizope.
 pankajrj.
 Shashank102002.
+sumanth1710.
 SwapnaAbburi.
-TejasSNOW.
 
 **Other contributors:**
+TejasSNOW.
 Abhishek2634.
 AdityaBala2026.
 AnandMahajan2799.
@@ -244,7 +245,6 @@ SachinNarayanasamy.
 sanjaykumar3sn.
 SavedByTheVine.
 Sriharsha19.
-sumanth1710.
 surajnikam111.
 TRIGGEREDcoder.
 aaditya0004.
@@ -581,6 +581,7 @@ Iuliak.
 jahnaviT2003.
 RaunakScarlet.
 Srikanth1306.
+sumanth1710.
 techTrekwithAJ.
 TVani5.
 adarshsingh0205.
@@ -615,7 +616,6 @@ Iamsant.
 jeremyrubio27.
 kumarinisha378.
 Sagar-agarwal.
-sumanth1710.
 wiresgit.
 yourepicservices.
 becksbyte.
