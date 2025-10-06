@@ -193,6 +193,7 @@ lauri457.
 mskoddow.
 sndevs-slacker-issue-reporter[bot].
 bkb68.
+ChandBasha-code.
 chelming.
 DanielMadsenDK.
 Danmax.
@@ -200,9 +201,9 @@ mitalizope.
 pankajrj.
 Shashank102002.
 SwapnaAbburi.
-TejasSNOW.
 
 **Other contributors:**
+TejasSNOW.
 Abhishek2634.
 AdityaBala2026.
 AnandMahajan2799.
@@ -223,7 +224,6 @@ Uma20-dev.
 Akash-44.
 anushka157.
 aykmrgit.
-ChandBasha-code.
 cjuleff.
 D-GAJ.
 Das-Suparna.
@@ -681,6 +681,7 @@ ujjwalprem.
 zailugao.
 mockspeed.
 TheShashank13.
+ChandBasha-code.
 cmanik.
 pranavkhurana2011.
 rohantjoshi.
@@ -760,9 +761,9 @@ ManobhavSachan.
 mevops.
 mikeroosa.
 moshjahan.
-msdfib.
 
 **Other contributors:**
+msdfib.
 mwchiao.
 NilotpalMaitra.
 nvprav.
@@ -807,7 +808,6 @@ abhishekchavan-git.
 annapoornakesha.
 beingfluid.
 bendouglass.
-ChandBasha-code.
 Deraged.
 fauverism.
 KonvalinkaCodes.
