@@ -155,13 +155,13 @@ Rampriya-S.
 Mexiprince.
 JonSandoval.
 naveensnow.
-GokulkumarV.
 gowdah.
 SrijanPatwa.
 debendu-das.
+animeshdasgit.
 
 **Top 25% contributors:**
-animeshdasgit.
+GokulkumarV.
 sivamuruganandam-coder.
 Jaspalsinghchot.
 anurampalli.
@@ -502,13 +502,12 @@ Vishnu-rvk.
 Charanjet.
 phr-nk.
 davidkwhuang.
-GokulkumarV.
 MYaswanth28.
 naveensnow.
 zahidask.
+brenduh.
 
 **Top 25% contributors:**
-brenduh.
 DynamiteC.
 shakeel-sheikh.
 vjtknn.
@@ -528,6 +527,7 @@ prash5595.
 priyasnexpert.
 thejasr110.
 unbirthdays.
+GokulkumarV.
 hoederath.
 isaac-vicentini.
 mioyokohama.
