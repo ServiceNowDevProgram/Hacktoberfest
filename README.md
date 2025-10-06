@@ -282,6 +282,7 @@ FrancisBarla10.
 Girishbari.
 Gurkunwar-Singh.
 Hacker7766.
+hakinadey.
 han-le.
 hardik2109.
 hidipen.
@@ -772,9 +773,9 @@ loudigi.
 ManobhavSachan.
 mevops.
 mikeroosa.
+moshjahan.
 
 **Other contributors:**
-moshjahan.
 msdfib.
 mwchiao.
 NilotpalMaitra.
@@ -1225,6 +1226,7 @@ guidugli.
 GuisseMaabo.
 Gurkunwar-Singh.
 Hacker7766.
+hakinadey.
 Halim--1.
 Hanan-Ashraf.
 HannaGilbertson.
