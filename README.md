@@ -171,6 +171,7 @@ Atul-LNG.
 Thrizvi.
 becksbyte.
 bkb68.
+chetnadev.
 koratalas.
 1shabby.
 bhavyaa30.
@@ -182,10 +183,9 @@ at8807602.
 ewatch.
 Paulsylo25.
 brenduh.
-ChandBasha-code.
 
 **Top 50% contributors:**
-chetnadev.
+ChandBasha-code.
 ivan-betev.
 kmxo.
 KrishChothani.
