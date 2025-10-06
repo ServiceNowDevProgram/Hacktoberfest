@@ -168,6 +168,7 @@ Jaspalsinghchot.
 Thrizvi.
 becksbyte.
 koratalas.
+Shweyy123.
 1shabby.
 bhavyaa30.
 bird-03.
@@ -179,14 +180,13 @@ ewatch.
 Paulsylo25.
 brenduh.
 ChandBasha-code.
-chetnadev.
 
 **Top 50% contributors:**
+chetnadev.
 ivan-betev.
 kmxo.
 KrishChothani.
 NavyasreeBolleboyana.
-Shweyy123.
 stefanintech.
 sumanth1710.
 DhruvBhatheja.
@@ -625,13 +625,14 @@ becksbyte.
 ChecksumFailed.
 markroethof.
 S-w-a-p-n-i-l-22.
+Shweyy123.
 SNProductOwner.
 TechnologistTim.
 anguspalmer.
 Badal2k23.
-bhavyaa30.
 
 **Top 50% contributors:**
+bhavyaa30.
 bhavyajain511.
 naveenraw25.
 NBaker137.
@@ -665,7 +666,6 @@ osc99.
 pandeysumit-now.
 patrickpaterlini.
 SaiSankar1309.
-Shweyy123.
 soham-shee.
 UTSAVS26.
 Abbas-57.
