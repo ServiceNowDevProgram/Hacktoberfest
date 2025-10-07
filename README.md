@@ -184,9 +184,9 @@ RaviGaurav007.
 at8807602.
 ewatch.
 Paulsylo25.
+brenduh.
 
 **Top 50% contributors:**
-brenduh.
 ChandBasha-code.
 chetnadev.
 ivan-betev.
@@ -210,9 +210,9 @@ SwapnaAbburi.
 TejasSNOW.
 Abhishek2634.
 AdityaBala2026.
+AyanAhmedKhan.
 
 **Other contributors:**
-AyanAhmedKhan.
 CODEBRAKERBOYY.
 durgeshservicenow-hub.
 harshal045.
@@ -342,6 +342,7 @@ samikshak-kaulkar-hacktoberfest.
 samikshak-web.
 sanket665.
 Saptarshi3456.
+Sayon008.
 Sefali12.
 ServiceNowDevProgram.
 servicenowspecialist.
@@ -652,9 +653,9 @@ S-w-a-p-n-i-l-22.
 SNProductOwner.
 TechnologistTim.
 anguspalmer.
+Badal2k23.
 
 **Top 50% contributors:**
-Badal2k23.
 bhavyajain511.
 DhruvBhatheja.
 naveenraw25.
@@ -792,9 +793,9 @@ mikeroosa.
 moshjahan.
 msdfib.
 mwchiao.
+NilotpalMaitra.
 
 **Other contributors:**
-NilotpalMaitra.
 nvprav.
 pavankumar-4.
 physi.
@@ -1597,6 +1598,7 @@ sasukepatel.
 saswata-panda.
 Saumyaup11.
 Sauron-Dev.
+Sayon008.
 scervv.
 scschroc.
 SeaBri.
