@@ -198,7 +198,6 @@ lauri457.
 mskoddow.
 sndevs-slacker-issue-reporter[bot].
 chelming.
-D-GAJ.
 DanielMadsenDK.
 Danmax.
 maheshkhatal27.
@@ -209,9 +208,9 @@ shreyawani98.
 SwapnaAbburi.
 TejasSNOW.
 Abhishek2634.
+AdityaBala2026.
 
 **Other contributors:**
-AdityaBala2026.
 AnandMahajan2799.
 AyanAhmedKhan.
 CODEBRAKERBOYY.
@@ -235,6 +234,7 @@ akshaydnetake.
 anushka157.
 aykmrgit.
 cjuleff.
+D-GAJ.
 Das-Suparna.
 divyajetti9.
 Ehabpilloor.
@@ -462,8 +462,8 @@ iar42.
 lakshmikanthgupta.
 mlemartien.
 riya-misra-1.
-hentonjd.
 WillemZeiler.
+hentonjd.
 23Thom.
 aatrey882.
 mskoddow.
@@ -727,7 +727,6 @@ ashaw7697.
 Beeram12.
 crooks-s.
 cschmidt82.
-D-GAJ.
 Jaskaran-Techno.
 mitalizope.
 pankajrj.
@@ -789,9 +788,9 @@ mevops.
 mikeroosa.
 moshjahan.
 msdfib.
+mwchiao.
 
 **Other contributors:**
-mwchiao.
 NilotpalMaitra.
 nvprav.
 pavankumar-4.
@@ -903,6 +902,7 @@ Brian-Rowland.
 cjuleff.
 cmurley.
 Code-mantle.
+D-GAJ.
 d7ianielsimonP.
 DaiTranIT.
 Das-Suparna.
