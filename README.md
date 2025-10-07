@@ -168,6 +168,7 @@ Jaspalsinghchot.
 anveshmupparaju.
 NavyasreeBolleboyana.
 kmxo.
+bhavyaa30.
 JohanDC-1999.
 Atul-LNG.
 Thrizvi.
@@ -176,7 +177,6 @@ bkb68.
 koratalas.
 stefanintech.
 1shabby.
-bhavyaa30.
 bird-03.
 DhruvBhatheja.
 Rajat32-op.
@@ -619,6 +619,7 @@ allenandreas.
 AnithaA09.
 anubhav-ritolia.
 apple9000.
+bhavyaa30.
 briangodfreydev.
 dvn-lazywinner.
 GauthamBellamkonda.
@@ -648,10 +649,9 @@ S-w-a-p-n-i-l-22.
 SNProductOwner.
 TechnologistTim.
 anguspalmer.
-Badal2k23.
 
 **Top 50% contributors:**
-bhavyaa30.
+Badal2k23.
 bhavyajain511.
 DhruvBhatheja.
 naveenraw25.
