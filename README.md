@@ -195,10 +195,10 @@ sumanth1710.
 GHSayak25.
 Soumyadeep10.
 trupti65.
+shreyawani98.
 lauri457.
 mskoddow.
 Shashank102002.
-shreyawani98.
 sndevs-slacker-issue-reporter[bot].
 AnandMahajan2799.
 chelming.
@@ -495,8 +495,8 @@ spnegi.
 prashantmrshine.
 Dhruvyadav2000.
 manrick.
-VaishnaviLathkar98.
 shreyawani98.
+VaishnaviLathkar98.
 hafsa-asif.
 juhikumarimodi6.
 ovarn.
