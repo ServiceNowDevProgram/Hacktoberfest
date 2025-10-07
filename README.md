@@ -155,15 +155,15 @@ niamccash.
 Rampriya-S.
 Mexiprince.
 naveensnow.
+bhavyaa30.
 gowdah.
 sivamuruganandam-coder.
 SrijanPatwa.
-anurampalli.
 
 **Top 25% contributors:**
+anurampalli.
 debendu-das.
 animeshdasgit.
-bhavyaa30.
 GokulkumarV.
 Jaspalsinghchot.
 anveshmupparaju.
@@ -510,10 +510,11 @@ davidkwhuang.
 MYaswanth28.
 naveensnow.
 zahidask.
+bhavyaa30.
 brenduh.
-DynamiteC.
 
 **Top 25% contributors:**
+DynamiteC.
 shakeel-sheikh.
 sivamuruganandam-coder.
 stefanintech.
@@ -543,7 +544,6 @@ mjonssonme.
 nthumma.
 templetontsai.
 b1naryst0rm.
-bhavyaa30.
 namrataghorpade.
 sdgrube2.
 wendy-ha18.
