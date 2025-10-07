@@ -146,10 +146,10 @@ am-shakeel.
 wiz0floyd.
 shivamvish160.
 vhudlikar.
-NavyasreeBolleboyana.
+Rampriya-S.
 
 **Top 10% contributors:**
-Rampriya-S.
+NavyasreeBolleboyana.
 snamjosh.
 JonSandoval.
 juhikumarimodi6.
