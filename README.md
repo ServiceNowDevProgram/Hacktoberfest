@@ -274,6 +274,7 @@ Awesomefp.
 Bharathkogilamane274.
 brunoasantos.
 chaitaliKundu.
+chiemeriechibuzor.
 DavidMarcial.
 debugwithshubham.
 deepanshu4688.
@@ -646,9 +647,9 @@ S-w-a-p-n-i-l-22.
 SNProductOwner.
 TechnologistTim.
 anguspalmer.
+Badal2k23.
 
 **Top 50% contributors:**
-Badal2k23.
 bhavyaa30.
 bhavyajain511.
 DhruvBhatheja.
@@ -786,9 +787,9 @@ ManobhavSachan.
 mevops.
 mikeroosa.
 moshjahan.
+msdfib.
 
 **Other contributors:**
-msdfib.
 mwchiao.
 NilotpalMaitra.
 nvprav.
@@ -1123,6 +1124,7 @@ CharanjeetSi.
 Charlesemesobum.
 chavishcb.
 cheshtapathak.
+chiemeriechibuzor.
 ChocolateTilt.
 ChristineMayfield.
 ChrRepou.
