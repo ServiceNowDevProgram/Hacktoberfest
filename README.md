@@ -195,6 +195,7 @@ KrishChothani.
 sumanth1710.
 GHSayak25.
 shreyawani98.
+ShuGitHub2022.
 Soumyadeep10.
 trupti65.
 HackoDev1530.
@@ -213,9 +214,9 @@ sandeepd26.
 SwapnaAbburi.
 TejasSNOW.
 Abhishek2634.
-AdityaBala2026.
 
 **Other contributors:**
+AdityaBala2026.
 AyanAhmedKhan.
 CODEBRAKERBOYY.
 durgeshservicenow-hub.
@@ -223,7 +224,6 @@ harshal045.
 iamshankha.
 LakshmiChaitanyaReddy.
 PranavTamada.
-ShuGitHub2022.
 Siddhartha03D.
 SinghCod3r.
 spnegi.
@@ -719,6 +719,7 @@ preshitd.
 prithvibalakka.
 Ratheshan03.
 Sallu77.
+ShuGitHub2022.
 tanu-profile.
 Thanai14.
 TheTreyKyle.
@@ -810,9 +811,9 @@ mikeroosa.
 moshjahan.
 msdfib.
 mwchiao.
-NilotpalMaitra.
 
 **Other contributors:**
+NilotpalMaitra.
 nvprav.
 pavankumar-4.
 physi.
@@ -832,7 +833,6 @@ samwinchet.
 sanchit-varshney.
 sanju009.
 Shambu-K.
-ShuGitHub2022.
 Siddhartha03D.
 SinghCod3r.
 speedy18.
