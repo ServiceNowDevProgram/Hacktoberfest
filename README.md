@@ -141,15 +141,15 @@ raghavs046.
 SapphicFire.
 Lacah.
 rohi-v.
-wiz0floyd.
 WillemZeiler.
+wiz0floyd.
 am-shakeel.
 shivamvish160.
 vhudlikar.
 
 **Top 10% contributors:**
-NavyasreeBolleboyana.
 JonSandoval.
+NavyasreeBolleboyana.
 juhikumarimodi6.
 snamjosh.
 niamccash.
@@ -443,15 +443,15 @@ ayleeandersen.
 Abhishekchowdarapu.
 alikuttyka.
 aswamy93.
-YTejaswini18.
+WillemZeiler.
 
 **Top 10% contributors:**
+YTejaswini18.
 animeshdasgit.
 BadalHub.
 ivan-betev.
 MrChrisE.
 vandna07.
-WillemZeiler.
 captainbraddles.
 abhrajyotikanrar.
 alkaChaudhary73.
@@ -470,7 +470,6 @@ lakshmikanthgupta.
 mlemartien.
 riya-misra-1.
 hentonjd.
-NavyasreeBolleboyana.
 23Thom.
 aatrey882.
 mskoddow.
@@ -480,6 +479,7 @@ mr-swann.
 himanshu7895.
 Munnisona.
 spnegi.
+NavyasreeBolleboyana.
 prashantmrshine.
 Dhruvyadav2000.
 manrick.
