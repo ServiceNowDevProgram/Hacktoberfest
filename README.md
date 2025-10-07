@@ -221,6 +221,7 @@ LakshmiChaitanyaReddy.
 PranavTamada.
 Siddhartha03D.
 SinghCod3r.
+spnegi.
 bhavishyavelaga.
 HackoDev1530.
 prataps135.
@@ -351,7 +352,6 @@ Shubham11440.
 shubsolos19.
 Sireesha-kante.
 Smoothengineer.
-spnegi.
 sumanthdosapati.
 SUMEDHFORTES.
 Sumit6307.
@@ -475,6 +475,7 @@ mohitchauhan-dev.
 mr-swann.
 himanshu7895.
 Munnisona.
+spnegi.
 prashantmrshine.
 Dhruvyadav2000.
 manrick.
@@ -488,7 +489,6 @@ bgrk005.
 devinvalencia.
 pallipoina92.
 sheikhafsarzap.
-spnegi.
 sravankadudhuri.
 jiteshmalik.
 jonahpiascik.
