@@ -174,6 +174,7 @@ bkb68.
 JohanDC-1999.
 Thrizvi.
 becksbyte.
+brenduh.
 koratalas.
 stefanintech.
 1shabby.
@@ -184,7 +185,6 @@ RaviGaurav007.
 at8807602.
 ewatch.
 Paulsylo25.
-brenduh.
 ChandBasha-code.
 chetnadev.
 
@@ -508,6 +508,7 @@ sravankadudhuri.
 jiteshmalik.
 jonahpiascik.
 kylburns89.
+brenduh.
 danr2c2.
 Litwilly.
 MRSinghRajat.
@@ -524,10 +525,9 @@ phr-nk.
 davidkwhuang.
 MYaswanth28.
 naveensnow.
-zahidask.
 
 **Top 25% contributors:**
-brenduh.
+zahidask.
 DynamiteC.
 shakeel-sheikh.
 stefanintech.
