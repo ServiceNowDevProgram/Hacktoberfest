@@ -197,6 +197,7 @@ GHSayak25.
 shreyawani98.
 Soumyadeep10.
 trupti65.
+HackoDev1530.
 sndevs-slacker-issue-reporter[bot].
 lauri457.
 mskoddow.
@@ -213,9 +214,9 @@ SwapnaAbburi.
 TejasSNOW.
 Abhishek2634.
 AdityaBala2026.
-AyanAhmedKhan.
 
 **Other contributors:**
+AyanAhmedKhan.
 CODEBRAKERBOYY.
 durgeshservicenow-hub.
 harshal045.
@@ -228,7 +229,6 @@ spnegi.
 zstromsodt.
 bhavishyavelaga.
 dvn-lazywinner.
-HackoDev1530.
 mitkarisunil.
 Vishnu-rvk.
 prataps135.
@@ -710,6 +710,7 @@ Abbas-57.
 DChotaliya.
 ersureshbe.
 GHSayak25.
+HackoDev1530.
 LucasRocha2308.
 Mahesh-Krishnan1.
 maialithar.
@@ -786,7 +787,6 @@ dhruvii-powershell.
 dorsy99.
 durgeshservicenow-hub.
 ezratkim.
-HackoDev1530.
 harshal045.
 HarshMN2345.
 hmadhsan.
