@@ -196,6 +196,7 @@ GHSayak25.
 trupti65.
 lauri457.
 mskoddow.
+Shashank102002.
 sndevs-slacker-issue-reporter[bot].
 AnandMahajan2799.
 chelming.
@@ -204,7 +205,6 @@ Danmax.
 maheshkhatal27.
 mitalizope.
 pankajrj.
-Shashank102002.
 shreyawani98.
 SwapnaAbburi.
 TejasSNOW.
@@ -727,6 +727,7 @@ NayeemKaka.
 praisetoyt.
 puneet94.
 pviglianti.
+Shashank102002.
 Shreedevisnow.
 sisco0.
 AnandMahajan2799.
@@ -739,7 +740,6 @@ mitalizope.
 pankajrj.
 RagaChitraMankala.
 ShakthiSn.
-Shashank102002.
 SwapnaAbburi.
 tejasathalye.
 TejasSNOW.
