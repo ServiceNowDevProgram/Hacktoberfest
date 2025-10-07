@@ -155,11 +155,11 @@ JonSandoval.
 juhikumarimodi6.
 niamccash.
 sivamuruganandam-coder.
+anurampalli.
 Mexiprince.
 naveensnow.
 gowdah.
 SrijanPatwa.
-anurampalli.
 animeshdasgit.
 
 **Top 25% contributors:**
@@ -526,13 +526,14 @@ shraddhakadam301298.
 shridk.
 Soumyadeep10.
 stwinkle.
+anurampalli.
 Charanjet.
 phr-nk.
 davidkwhuang.
 MYaswanth28.
-naveensnow.
 
 **Top 25% contributors:**
+naveensnow.
 zahidask.
 DynamiteC.
 shakeel-sheikh.
@@ -547,7 +548,6 @@ techYESlogyXplorer.
 vijaytalupula.
 AdityaBala2026.
 alyaanbasha.
-anurampalli.
 ariyadmir.
 gregorwmail.
 harishankert.
