@@ -186,13 +186,13 @@ ewatch.
 Paulsylo25.
 
 **Top 50% contributors:**
+AnandMahajan2799.
 brenduh.
 ChandBasha-code.
 chetnadev.
 ivan-betev.
 KrishChothani.
 sumanth1710.
-AnandMahajan2799.
 GHSayak25.
 trupti65.
 lauri457.
@@ -675,6 +675,7 @@ sonamtiwari8.
 Adiana3308.
 akhoshnood.
 allam1234.
+AnandMahajan2799.
 Decoder-Paul.
 DhanushNehru.
 jesalynrose.
@@ -689,7 +690,6 @@ SaiSankar1309.
 soham-shee.
 UTSAVS26.
 Abbas-57.
-AnandMahajan2799.
 DChotaliya.
 ersureshbe.
 GHSayak25.
