@@ -201,6 +201,7 @@ HackoDev1530.
 sndevs-slacker-issue-reporter[bot].
 lauri457.
 mskoddow.
+ShuGitHub2022.
 Sriharsha19.
 AnandMahajan2799.
 chelming.
@@ -210,7 +211,6 @@ maheshkhatal27.
 mitalizope.
 pankajrj.
 sandeepd26.
-ShuGitHub2022.
 SwapnaAbburi.
 TejasSNOW.
 zstromsodt.
@@ -743,6 +743,7 @@ praisetoyt.
 puneet94.
 pviglianti.
 Shreedevisnow.
+ShuGitHub2022.
 sisco0.
 Sriharsha19.
 AnandMahajan2799.
@@ -755,7 +756,6 @@ mitalizope.
 pankajrj.
 RagaChitraMankala.
 ShakthiSn.
-ShuGitHub2022.
 SwapnaAbburi.
 tejasathalye.
 TejasSNOW.
