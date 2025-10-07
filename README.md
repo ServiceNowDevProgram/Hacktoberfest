@@ -146,9 +146,9 @@ am-shakeel.
 wiz0floyd.
 shivamvish160.
 vhudlikar.
+NavyasreeBolleboyana.
 
 **Top 10% contributors:**
-NavyasreeBolleboyana.
 snamjosh.
 JonSandoval.
 juhikumarimodi6.
@@ -160,9 +160,9 @@ naveensnow.
 gowdah.
 SrijanPatwa.
 anurampalli.
+animeshdasgit.
 
 **Top 25% contributors:**
-animeshdasgit.
 debendu-das.
 bhavyaa30.
 GokulkumarV.
@@ -213,10 +213,10 @@ TejasSNOW.
 Abhishek2634.
 AdityaBala2026.
 AyanAhmedKhan.
-CODEBRAKERBOYY.
-durgeshservicenow-hub.
 
 **Other contributors:**
+CODEBRAKERBOYY.
+durgeshservicenow-hub.
 harshal045.
 iamshankha.
 LakshmiChaitanyaReddy.
@@ -264,6 +264,7 @@ Shweyy123.
 silky-modi22.
 surajnikam111.
 TRIGGEREDcoder.
+2Prerna0.
 404paige.
 aaditya0004.
 abhi10pi.
@@ -454,9 +455,9 @@ ayleeandersen.
 Abhishekchowdarapu.
 alikuttyka.
 animeshdasgit.
+aswamy93.
 
 **Top 10% contributors:**
-aswamy93.
 YTejaswini18.
 BadalHub.
 ivan-betev.
@@ -525,9 +526,9 @@ Charanjet.
 phr-nk.
 davidkwhuang.
 MYaswanth28.
+naveensnow.
 
 **Top 25% contributors:**
-naveensnow.
 zahidask.
 DynamiteC.
 shakeel-sheikh.
@@ -806,10 +807,10 @@ moshjahan.
 msdfib.
 mwchiao.
 NilotpalMaitra.
-nvprav.
-pavankumar-4.
 
 **Other contributors:**
+nvprav.
+pavankumar-4.
 physi.
 PranavTamada.
 pratyushmp.
@@ -1022,6 +1023,7 @@ vivekverma18.
 Zephyre195.
 0x3developer.
 1-23-smy.
+2Prerna0.
 a-machado.
 A-Vishnupriya.
 aaditya0004.
