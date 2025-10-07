@@ -185,10 +185,11 @@ RaviGaurav007.
 at8807602.
 ewatch.
 Paulsylo25.
+Shashank102002.
 ChandBasha-code.
-chetnadev.
 
 **Top 50% contributors:**
+chetnadev.
 ivan-betev.
 KrishChothani.
 sumanth1710.
@@ -198,7 +199,6 @@ trupti65.
 shreyawani98.
 lauri457.
 mskoddow.
-Shashank102002.
 sndevs-slacker-issue-reporter[bot].
 AnandMahajan2799.
 chelming.
@@ -686,6 +686,7 @@ mo-dahir.
 dcord1x.
 djunaid.
 Haile-08.
+Shashank102002.
 sonamtiwari8.
 Adiana3308.
 akhoshnood.
@@ -738,7 +739,6 @@ NayeemKaka.
 praisetoyt.
 puneet94.
 pviglianti.
-Shashank102002.
 Shreedevisnow.
 sisco0.
 AnandMahajan2799.
