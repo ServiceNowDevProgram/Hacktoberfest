@@ -148,9 +148,9 @@ WillemZeiler.
 shivamvish160.
 
 **Top 10% contributors:**
+JonSandoval.
 juhikumarimodi6.
 snamjosh.
-JonSandoval.
 niamccash.
 Rampriya-S.
 Mexiprince.
@@ -417,6 +417,7 @@ sndevs-slacker-issue-reporter[bot].
 ankitshu.
 Mexiprince.
 at8807602.
+JonSandoval.
 Radhe-Manasa.
 vhudlikar.
 rohi-v.
@@ -426,7 +427,6 @@ sychi77.
 raghavs046.
 ronaldkarim.
 azeezgaa.
-JonSandoval.
 deepak-64742.
 bkb68.
 rafzk.
