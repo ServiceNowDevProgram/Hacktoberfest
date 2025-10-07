@@ -185,11 +185,12 @@ RaviGaurav007.
 at8807602.
 ewatch.
 Paulsylo25.
+ShuGitHub2022.
 Shashank102002.
 ChandBasha-code.
-chetnadev.
 
 **Top 50% contributors:**
+chetnadev.
 ivan-betev.
 KrishChothani.
 sumanth1710.
@@ -199,7 +200,6 @@ Soumyadeep10.
 trupti65.
 HackoDev1530.
 sndevs-slacker-issue-reporter[bot].
-ShuGitHub2022.
 lauri457.
 mskoddow.
 Sriharsha19.
@@ -686,6 +686,7 @@ AlphaEagle.
 ChandBasha-code.
 JWITSM.
 mo-dahir.
+ShuGitHub2022.
 dcord1x.
 djunaid.
 Haile-08.
@@ -732,7 +733,6 @@ TheShashank13.
 cmanik.
 pranavkhurana2011.
 rohantjoshi.
-ShuGitHub2022.
 abhilash264.
 aftab-mirza.
 Alprez.
