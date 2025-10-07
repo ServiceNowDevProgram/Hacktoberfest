@@ -193,6 +193,7 @@ ivan-betev.
 KrishChothani.
 sumanth1710.
 GHSayak25.
+Soumyadeep10.
 trupti65.
 lauri457.
 mskoddow.
@@ -212,16 +213,15 @@ TejasSNOW.
 Abhishek2634.
 AdityaBala2026.
 AyanAhmedKhan.
-CODEBRAKERBOYY.
 
 **Other contributors:**
+CODEBRAKERBOYY.
 durgeshservicenow-hub.
 harshal045.
 LakshmiChaitanyaReddy.
 PranavTamada.
 Siddhartha03D.
 SinghCod3r.
-Soumyadeep10.
 spnegi.
 bhavishyavelaga.
 dvn-lazywinner.
@@ -514,15 +514,16 @@ Adil404.
 avssrikanth.
 shraddhakadam301298.
 shridk.
+Soumyadeep10.
 stwinkle.
 Charanjet.
 phr-nk.
 davidkwhuang.
 MYaswanth28.
 naveensnow.
-zahidask.
 
 **Top 25% contributors:**
+zahidask.
 brenduh.
 DynamiteC.
 shakeel-sheikh.
@@ -533,7 +534,6 @@ DavidMarcial.
 mady22070.
 MarcMouries.
 sn-ajb.
-Soumyadeep10.
 techYESlogyXplorer.
 vijaytalupula.
 AdityaBala2026.
