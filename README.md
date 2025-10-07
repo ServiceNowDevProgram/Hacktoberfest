@@ -197,9 +197,9 @@ GHSayak25.
 shreyawani98.
 Soumyadeep10.
 trupti65.
+sndevs-slacker-issue-reporter[bot].
 lauri457.
 mskoddow.
-sndevs-slacker-issue-reporter[bot].
 Sriharsha19.
 AnandMahajan2799.
 chelming.
@@ -433,9 +433,9 @@ smartcarleen.
 rohi-v.
 debendu-das.
 raghavs046.
+sndevs-slacker-issue-reporter[bot].
 urspvs.
 anveshmupparaju.
-sndevs-slacker-issue-reporter[bot].
 ankitshu.
 Mexiprince.
 at8807602.
