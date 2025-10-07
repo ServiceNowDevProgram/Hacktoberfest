@@ -183,9 +183,9 @@ Rajat32-op.
 RaviGaurav007.
 at8807602.
 ewatch.
+Paulsylo25.
 
 **Top 50% contributors:**
-Paulsylo25.
 brenduh.
 ChandBasha-code.
 chetnadev.
@@ -208,9 +208,9 @@ Shashank102002.
 shreyawani98.
 SwapnaAbburi.
 TejasSNOW.
+Abhishek2634.
 
 **Other contributors:**
-Abhishek2634.
 AdityaBala2026.
 AnandMahajan2799.
 AyanAhmedKhan.
@@ -365,6 +365,7 @@ varun1325.
 Vishnugarg897.
 weirdwolf-eng.
 wmathor.
+zakir8992.
 zstromsodt.
 
 ## Leaderboard (all time):
@@ -1742,6 +1743,7 @@ yay-jake.
 YDdraigGoch70.
 youthinkasido.
 yrozo28.
+zakir8992.
 zerus83.
 zomsik.
 zstromsodt.
