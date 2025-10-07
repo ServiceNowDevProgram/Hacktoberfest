@@ -157,14 +157,14 @@ Mexiprince.
 naveensnow.
 gowdah.
 SrijanPatwa.
+anurampalli.
 debendu-das.
-animeshdasgit.
 
 **Top 25% contributors:**
+animeshdasgit.
 GokulkumarV.
 sivamuruganandam-coder.
 Jaspalsinghchot.
-anurampalli.
 anveshmupparaju.
 NavyasreeBolleboyana.
 kmxo.
@@ -521,6 +521,7 @@ techYESlogyXplorer.
 vijaytalupula.
 AdityaBala2026.
 alyaanbasha.
+anurampalli.
 ariyadmir.
 gregorwmail.
 harishankert.
@@ -550,7 +551,6 @@ dadhich-ashish.
 girishnagaraj09.
 Jayden-Chiu.
 OrgovanGeza.
-anurampalli.
 arhaan2019.
 designitsecure.
 llipovsky.
