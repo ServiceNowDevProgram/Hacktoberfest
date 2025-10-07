@@ -218,6 +218,7 @@ durgeshservicenow-hub.
 
 **Other contributors:**
 harshal045.
+iamshankha.
 LakshmiChaitanyaReddy.
 PranavTamada.
 Siddhartha03D.
@@ -306,7 +307,6 @@ han-le.
 hardik2109.
 hidipen.
 HimanshuSalunke.
-iamshankha.
 ineffable23.
 jainmridul82.
 KanavCode.
@@ -785,6 +785,7 @@ HackoDev1530.
 harshal045.
 HarshMN2345.
 hmadhsan.
+iamshankha.
 iamvpbhaskar.
 igrzhukovich.
 j4rodm.
@@ -807,9 +808,9 @@ mwchiao.
 NilotpalMaitra.
 nvprav.
 pavankumar-4.
-physi.
 
 **Other contributors:**
+physi.
 PranavTamada.
 pratyushmp.
 PreyumKr.
@@ -1291,7 +1292,6 @@ hockdiherdo.
 horizody.
 Hratakh.
 iamcreed.
-iamshankha.
 iDeepDev8.
 idns1.
 iks1.
