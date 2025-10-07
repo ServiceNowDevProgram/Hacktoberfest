@@ -186,7 +186,6 @@ ewatch.
 Paulsylo25.
 
 **Top 50% contributors:**
-AnandMahajan2799.
 brenduh.
 ChandBasha-code.
 chetnadev.
@@ -198,6 +197,7 @@ trupti65.
 lauri457.
 mskoddow.
 sndevs-slacker-issue-reporter[bot].
+AnandMahajan2799.
 chelming.
 DanielMadsenDK.
 Danmax.
@@ -675,7 +675,6 @@ sonamtiwari8.
 Adiana3308.
 akhoshnood.
 allam1234.
-AnandMahajan2799.
 Decoder-Paul.
 DhanushNehru.
 jesalynrose.
@@ -726,6 +725,7 @@ puneet94.
 pviglianti.
 Shreedevisnow.
 sisco0.
+AnandMahajan2799.
 ashaw7697.
 Beeram12.
 crooks-s.
