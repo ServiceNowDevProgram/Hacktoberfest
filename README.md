@@ -179,6 +179,7 @@ ShuGitHub2022.
 becksbyte.
 ChandBasha-code.
 koratalas.
+Soumyadeep10.
 stefanintech.
 1shabby.
 DhruvBhatheja.
@@ -188,14 +189,13 @@ at8807602.
 Paulsylo25.
 ewatch.
 lauri457.
-Shashank102002.
 
 **Top 50% contributors:**
+Shashank102002.
 chetnadev.
 ivan-betev.
 KrishChothani.
 shreyawani98.
-Soumyadeep10.
 sumanth1710.
 durgeshservicenow-hub.
 GHSayak25.
@@ -505,6 +505,7 @@ prashantmrshine.
 Dhruvyadav2000.
 manrick.
 VaishnaviLathkar98.
+Soumyadeep10.
 Vishnu-rvk.
 hafsa-asif.
 juhikumarimodi6.
@@ -524,7 +525,6 @@ MRSinghRajat.
 oasif.
 sivamuruganandam-coder.
 soerenmaucher.
-Soumyadeep10.
 Adil404.
 avssrikanth.
 shraddhakadam301298.
