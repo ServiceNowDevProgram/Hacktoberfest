@@ -156,11 +156,11 @@ JonSandoval.
 juhikumarimodi6.
 naveensnow.
 niamccash.
+kmxo.
 anurampalli.
 Mexiprince.
 anveshmupparaju.
 Atul-LNG.
-kmxo.
 gowdah.
 
 **Top 25% contributors:**
@@ -413,8 +413,8 @@ kmohit2809.
 chelming.
 chetnadev.
 sandeepd26.
-johndahl-now.
 kmxo.
+johndahl-now.
 MartinStoyanoff.
 ravichandra1998g.
 eriemer1.
