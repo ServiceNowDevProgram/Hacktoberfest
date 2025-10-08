@@ -194,6 +194,7 @@ ewatch.
 **Top 50% contributors:**
 ivan-betev.
 Shashank102002.
+jiteshmalik.
 lauri457.
 iamshankha.
 KrishChothani.
@@ -205,7 +206,6 @@ trupti65.
 HackoDev1530.
 sndevs-slacker-issue-reporter[bot].
 Sriharsha19.
-jiteshmalik.
 mskoddow.
 AnandMahajan2799.
 chelming.
@@ -487,6 +487,7 @@ Danmax.
 PranavBhagat18.
 Soumyadeep10.
 Irston.
+jiteshmalik.
 litwi1rm.
 mak1A4.
 selvarun-umass.
@@ -503,7 +504,6 @@ aatrey882.
 brenduh.
 mskoddow.
 salmaniqbal92.
-jiteshmalik.
 mohitchauhan-dev.
 mr-swann.
 shreyawani98.
