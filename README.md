@@ -199,6 +199,7 @@ shreyawani98.
 sumanth1710.
 durgeshservicenow-hub.
 GHSayak25.
+spnegi.
 trupti65.
 HackoDev1530.
 sndevs-slacker-issue-reporter[bot].
@@ -216,9 +217,9 @@ SwapnaAbburi.
 TejasSNOW.
 zstromsodt.
 Abhishek2634.
-AdityaBala2026.
 
 **Other contributors:**
+AdityaBala2026.
 AyanAhmedKhan.
 CODEBRAKERBOYY.
 harshal045.
@@ -227,7 +228,6 @@ LakshmiChaitanyaReddy.
 PranavTamada.
 Siddhartha03D.
 SinghCod3r.
-spnegi.
 Vishnu-rvk.
 bhavishyavelaga.
 dvn-lazywinner.
@@ -489,6 +489,7 @@ iar42.
 lakshmikanthgupta.
 mlemartien.
 riya-misra-1.
+spnegi.
 hentonjd.
 NavyasreeBolleboyana.
 23Thom.
@@ -502,7 +503,6 @@ Soumyadeep10.
 shreyawani98.
 himanshu7895.
 Munnisona.
-spnegi.
 prashantmrshine.
 sivamuruganandam-coder.
 Dhruvyadav2000.
