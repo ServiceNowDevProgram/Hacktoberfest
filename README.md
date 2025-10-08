@@ -204,8 +204,8 @@ GHSayak25.
 trupti65.
 HackoDev1530.
 sndevs-slacker-issue-reporter[bot].
-mskoddow.
 Sriharsha19.
+mskoddow.
 AnandMahajan2799.
 chelming.
 DanielMadsenDK.
@@ -742,6 +742,7 @@ TheShashank13.
 cmanik.
 pranavkhurana2011.
 rohantjoshi.
+Sriharsha19.
 abhilash264.
 aftab-mirza.
 Alprez.
@@ -754,7 +755,6 @@ puneet94.
 pviglianti.
 Shreedevisnow.
 sisco0.
-Sriharsha19.
 AnandMahajan2799.
 ashaw7697.
 Beeram12.
