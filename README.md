@@ -163,12 +163,12 @@ SrijanPatwa.
 animeshdasgit.
 
 **Top 25% contributors:**
+anveshmupparaju.
 debendu-das.
 bhavyaa30.
 GokulkumarV.
 Jaspalsinghchot.
 Atul-LNG.
-anveshmupparaju.
 brenduh.
 kmxo.
 bkb68.
@@ -435,13 +435,13 @@ TRIGGEREDcoder.
 maheshkhatal27.
 sumanthdosapati.
 SrijanPatwa.
+anveshmupparaju.
 rohi-v.
 smartcarleen.
 debendu-das.
 raghavs046.
 sndevs-slacker-issue-reporter[bot].
 urspvs.
-anveshmupparaju.
 ankitshu.
 Mexiprince.
 at8807602.
