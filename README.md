@@ -192,8 +192,8 @@ at8807602.
 
 **Top 50% contributors:**
 ewatch.
-Shashank102002.
 ivan-betev.
+Shashank102002.
 lauri457.
 chetnadev.
 KrishChothani.
@@ -463,13 +463,13 @@ deepak-64742.
 rafzk.
 anillande90.
 ayleeandersen.
+ivan-betev.
 Abhishekchowdarapu.
 alikuttyka.
-animeshdasgit.
 
 **Top 10% contributors:**
+animeshdasgit.
 aswamy93.
-ivan-betev.
 YTejaswini18.
 BadalHub.
 MrChrisE.
