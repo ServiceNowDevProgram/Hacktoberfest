@@ -185,12 +185,13 @@ stefanintech.
 bird-03.
 Rajat32-op.
 RaviGaurav007.
+spnegi.
 at8807602.
 Paulsylo25.
 ewatch.
-Shashank102002.
 
 **Top 50% contributors:**
+Shashank102002.
 lauri457.
 chetnadev.
 ivan-betev.
@@ -200,7 +201,6 @@ sumanth1710.
 durgeshservicenow-hub.
 GHSayak25.
 iamshankha.
-spnegi.
 trupti65.
 HackoDev1530.
 sndevs-slacker-issue-reporter[bot].
@@ -474,6 +474,7 @@ ivan-betev.
 MrChrisE.
 vandna07.
 captainbraddles.
+spnegi.
 abhrajyotikanrar.
 alkaChaudhary73.
 csharpie.
@@ -489,7 +490,6 @@ iar42.
 lakshmikanthgupta.
 mlemartien.
 riya-misra-1.
-spnegi.
 hentonjd.
 NavyasreeBolleboyana.
 sivamuruganandam-coder.
