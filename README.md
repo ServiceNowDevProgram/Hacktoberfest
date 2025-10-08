@@ -179,11 +179,11 @@ Thrizvi.
 ShuGitHub2022.
 becksbyte.
 ChandBasha-code.
+iamshankha.
 koratalas.
 stefanintech.
 1shabby.
 bird-03.
-iamshankha.
 Rajat32-op.
 RaviGaurav007.
 spnegi.
@@ -673,16 +673,16 @@ wiresgit.
 yourepicservices.
 becksbyte.
 ChecksumFailed.
+iamshankha.
 markroethof.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
 TechnologistTim.
 anguspalmer.
-Badal2k23.
 
 **Top 50% contributors:**
+Badal2k23.
 bhavyajain511.
-iamshankha.
 naveenraw25.
 NBaker137.
 patan116.
