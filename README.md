@@ -230,6 +230,7 @@ CODEBRAKERBOYY.
 harshal045.
 JorgeGRC.
 LakshmiChaitanyaReddy.
+Noah-Drew.
 PranavTamada.
 Siddhartha03D.
 SinghCod3r.
@@ -342,7 +343,6 @@ navyamasapu98.
 nikhilkumar76.
 niladriAdhikari.
 No-gui.
-Noah-Drew.
 poojithavalli22.
 Pram0dh-Kumar.
 praveen8808.
@@ -828,6 +828,7 @@ mwchiao.
 
 **Other contributors:**
 NilotpalMaitra.
+Noah-Drew.
 nvprav.
 pavankumar-4.
 physi.
@@ -1518,7 +1519,6 @@ niladriAdhikari.
 NiteeshL.
 nitya2701.
 No-gui.
-Noah-Drew.
 NoelJarling.
 nooras.
 NowZilla.
