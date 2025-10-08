@@ -202,6 +202,7 @@ shreyawani98.
 sumanth1710.
 durgeshservicenow-hub.
 GHSayak25.
+Noah-Drew.
 trupti65.
 HackoDev1530.
 sndevs-slacker-issue-reporter[bot].
@@ -218,9 +219,9 @@ sandeepd26.
 SwapnaAbburi.
 TejasSNOW.
 Vishnu-rvk.
-zstromsodt.
 
 **Other contributors:**
+zstromsodt.
 404paige.
 Abhishek2634.
 AdityaBala2026.
@@ -230,7 +231,6 @@ CODEBRAKERBOYY.
 harshal045.
 JorgeGRC.
 LakshmiChaitanyaReddy.
-Noah-Drew.
 PranavTamada.
 Siddhartha03D.
 SinghCod3r.
@@ -730,6 +730,7 @@ LucasRocha2308.
 Mahesh-Krishnan1.
 maialithar.
 MihirRathod.
+Noah-Drew.
 preshitd.
 prithvibalakka.
 Ratheshan03.
@@ -824,11 +825,10 @@ mevops.
 mikeroosa.
 moshjahan.
 msdfib.
-mwchiao.
 
 **Other contributors:**
+mwchiao.
 NilotpalMaitra.
-Noah-Drew.
 nvprav.
 pavankumar-4.
 physi.
