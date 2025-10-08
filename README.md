@@ -182,7 +182,6 @@ ShuGitHub2022.
 becksbyte.
 ChandBasha-code.
 chetnadev.
-iamshankha.
 koratalas.
 stefanintech.
 1shabby.
@@ -190,12 +189,13 @@ bird-03.
 Rajat32-op.
 RaviGaurav007.
 at8807602.
+ewatch.
 
 **Top 50% contributors:**
-ewatch.
 ivan-betev.
 Shashank102002.
 lauri457.
+iamshankha.
 KrishChothani.
 shreyawani98.
 sumanth1710.
@@ -414,8 +414,8 @@ sandeepd26.
 johndahl-now.
 MartinStoyanoff.
 eriemer1.
-Jaspalsinghchot.
 ravichandra1998g.
+Jaspalsinghchot.
 paigesndev.
 kmxo.
 ynr-ram.
@@ -675,15 +675,14 @@ wiresgit.
 yourepicservices.
 becksbyte.
 ChecksumFailed.
-iamshankha.
 markroethof.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
 TechnologistTim.
 anguspalmer.
+Badal2k23.
 
 **Top 50% contributors:**
-Badal2k23.
 bhavyajain511.
 naveenraw25.
 NBaker137.
@@ -707,6 +706,7 @@ akhoshnood.
 allam1234.
 Decoder-Paul.
 DhanushNehru.
+iamshankha.
 jesalynrose.
 KrishChothani.
 Ladirinia.
