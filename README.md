@@ -161,9 +161,9 @@ Mexiprince.
 anveshmupparaju.
 gowdah.
 SrijanPatwa.
+animeshdasgit.
 
 **Top 25% contributors:**
-animeshdasgit.
 Atul-LNG.
 debendu-das.
 bhavyaa30.
@@ -314,6 +314,7 @@ hidipen.
 HimanshuSalunke.
 ineffable23.
 jainmridul82.
+JorgeGRC.
 KanavCode.
 khyatithadani.
 knshkp.
@@ -959,6 +960,7 @@ javiervillarreal.
 JCofman.
 jefflintel.
 Jmyekn1123.
+JorgeGRC.
 kcimpulse.
 kfrencher.
 khoilu-1512.
@@ -1343,7 +1345,6 @@ jnikita067.
 JoeSDoro.
 john9006.
 Jon-Wadsworth.
-JorgeGRC.
 Josh767676.
 joshuaprakashg.
 JosielMalaquias.
