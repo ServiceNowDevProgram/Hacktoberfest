@@ -181,6 +181,7 @@ Thrizvi.
 ShuGitHub2022.
 becksbyte.
 ChandBasha-code.
+chetnadev.
 iamshankha.
 koratalas.
 stefanintech.
@@ -189,13 +190,12 @@ bird-03.
 Rajat32-op.
 RaviGaurav007.
 at8807602.
-ewatch.
 
 **Top 50% contributors:**
+ewatch.
 ivan-betev.
 Shashank102002.
 lauri457.
-chetnadev.
 KrishChothani.
 shreyawani98.
 sumanth1710.
@@ -409,8 +409,8 @@ Rampriya-S.
 snamjosh.
 kmohit2809.
 chelming.
-sandeepd26.
 chetnadev.
+sandeepd26.
 johndahl-now.
 MartinStoyanoff.
 eriemer1.
