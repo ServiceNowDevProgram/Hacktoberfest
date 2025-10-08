@@ -179,7 +179,6 @@ Thrizvi.
 ShuGitHub2022.
 becksbyte.
 ChandBasha-code.
-chetnadev.
 koratalas.
 stefanintech.
 1shabby.
@@ -189,10 +188,11 @@ RaviGaurav007.
 at8807602.
 Paulsylo25.
 ewatch.
+Shashank102002.
 
 **Top 50% contributors:**
-Shashank102002.
 lauri457.
+chetnadev.
 ivan-betev.
 KrishChothani.
 shreyawani98.
@@ -406,8 +406,8 @@ Rampriya-S.
 snamjosh.
 kmohit2809.
 chelming.
-chetnadev.
 sandeepd26.
+chetnadev.
 johndahl-now.
 MartinStoyanoff.
 eriemer1.
@@ -434,8 +434,8 @@ aykmrgit.
 anveshmupparaju.
 hrobarikt.
 Paulsylo25.
-Chraiseto.
 WillemZeiler.
+Chraiseto.
 TRIGGEREDcoder.
 maheshkhatal27.
 sumanthdosapati.
