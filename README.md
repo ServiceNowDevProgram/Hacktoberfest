@@ -175,6 +175,7 @@ Soumyadeep10.
 bkb68.
 DhruvBhatheja.
 JohanDC-1999.
+spnegi.
 Paulsylo25.
 Thrizvi.
 ShuGitHub2022.
@@ -187,7 +188,6 @@ stefanintech.
 bird-03.
 Rajat32-op.
 RaviGaurav007.
-spnegi.
 at8807602.
 
 **Top 50% contributors:**
@@ -462,12 +462,13 @@ azeezgaa.
 deepak-64742.
 rafzk.
 anillande90.
+spnegi.
 ayleeandersen.
 ivan-betev.
 Abhishekchowdarapu.
-alikuttyka.
 
 **Top 10% contributors:**
+alikuttyka.
 animeshdasgit.
 aswamy93.
 YTejaswini18.
@@ -475,7 +476,6 @@ BadalHub.
 MrChrisE.
 vandna07.
 captainbraddles.
-spnegi.
 abhrajyotikanrar.
 alkaChaudhary73.
 csharpie.
