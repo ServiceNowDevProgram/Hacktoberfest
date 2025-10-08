@@ -183,14 +183,15 @@ koratalas.
 stefanintech.
 1shabby.
 bird-03.
+iamshankha.
 Rajat32-op.
 RaviGaurav007.
 spnegi.
 at8807602.
 Paulsylo25.
-ewatch.
 
 **Top 50% contributors:**
+ewatch.
 Shashank102002.
 ivan-betev.
 lauri457.
@@ -200,7 +201,6 @@ shreyawani98.
 sumanth1710.
 durgeshservicenow-hub.
 GHSayak25.
-iamshankha.
 trupti65.
 HackoDev1530.
 sndevs-slacker-issue-reporter[bot].
@@ -682,6 +682,7 @@ Badal2k23.
 
 **Top 50% contributors:**
 bhavyajain511.
+iamshankha.
 naveenraw25.
 NBaker137.
 patan116.
@@ -721,7 +722,6 @@ durgeshservicenow-hub.
 ersureshbe.
 GHSayak25.
 HackoDev1530.
-iamshankha.
 LucasRocha2308.
 Mahesh-Krishnan1.
 maialithar.
