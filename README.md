@@ -165,12 +165,12 @@ gowdah.
 
 **Top 25% contributors:**
 SrijanPatwa.
+jiteshmalik.
 animeshdasgit.
 debendu-das.
 bhavyaa30.
 GokulkumarV.
 Jaspalsinghchot.
-jiteshmalik.
 Soumyadeep10.
 brenduh.
 Paulsylo25.
@@ -453,11 +453,11 @@ sndevs-slacker-issue-reporter[bot].
 urspvs.
 404paige.
 ankitshu.
+jiteshmalik.
 Mexiprince.
 at8807602.
 JonSandoval.
 Radhe-Manasa.
-jiteshmalik.
 bkb68.
 stevezero.
 sychi77.
