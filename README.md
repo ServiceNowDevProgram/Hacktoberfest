@@ -226,6 +226,7 @@ anjimuvva.
 AyanAhmedKhan.
 CODEBRAKERBOYY.
 harshal045.
+JorgeGRC.
 LakshmiChaitanyaReddy.
 PranavTamada.
 Siddhartha03D.
@@ -314,7 +315,6 @@ hidipen.
 HimanshuSalunke.
 ineffable23.
 jainmridul82.
-JorgeGRC.
 KanavCode.
 khyatithadani.
 knshkp.
@@ -761,6 +761,7 @@ Beeram12.
 crooks-s.
 cschmidt82.
 Jaskaran-Techno.
+JorgeGRC.
 mitalizope.
 pankajrj.
 RagaChitraMankala.
@@ -820,9 +821,9 @@ mikeroosa.
 moshjahan.
 msdfib.
 mwchiao.
-NilotpalMaitra.
 
 **Other contributors:**
+NilotpalMaitra.
 nvprav.
 pavankumar-4.
 physi.
@@ -961,7 +962,6 @@ javiervillarreal.
 JCofman.
 jefflintel.
 Jmyekn1123.
-JorgeGRC.
 kcimpulse.
 kfrencher.
 khoilu-1512.
