@@ -188,10 +188,10 @@ RaviGaurav007.
 at8807602.
 Paulsylo25.
 ewatch.
-lauri457.
+Shashank102002.
 
 **Top 50% contributors:**
-Shashank102002.
+lauri457.
 chetnadev.
 ivan-betev.
 KrishChothani.
@@ -692,11 +692,11 @@ ttoter.
 AlphaEagle.
 JWITSM.
 mo-dahir.
+Shashank102002.
 dcord1x.
 djunaid.
 Haile-08.
 lauri457.
-Shashank102002.
 sonamtiwari8.
 Adiana3308.
 akhoshnood.
