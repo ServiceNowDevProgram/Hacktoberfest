@@ -173,13 +173,13 @@ Jaspalsinghchot.
 Soumyadeep10.
 brenduh.
 Paulsylo25.
+jiteshmalik.
 bkb68.
 DhruvBhatheja.
 JohanDC-1999.
 spnegi.
 Thrizvi.
 ShuGitHub2022.
-jiteshmalik.
 becksbyte.
 ChandBasha-code.
 chetnadev.
@@ -462,21 +462,21 @@ sychi77.
 ronaldkarim.
 azeezgaa.
 deepak-64742.
+jiteshmalik.
 rafzk.
 shivamvish160.
 anillande90.
 spnegi.
 ayleeandersen.
 ivan-betev.
-Abhishekchowdarapu.
 
 **Top 10% contributors:**
+Abhishekchowdarapu.
 alikuttyka.
 animeshdasgit.
 aswamy93.
 YTejaswini18.
 BadalHub.
-jiteshmalik.
 MrChrisE.
 vandna07.
 captainbraddles.
