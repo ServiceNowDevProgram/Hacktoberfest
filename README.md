@@ -158,9 +158,9 @@ naveensnow.
 niamccash.
 kmxo.
 anurampalli.
+Atul-LNG.
 Mexiprince.
 anveshmupparaju.
-Atul-LNG.
 gowdah.
 
 **Top 25% contributors:**
@@ -451,8 +451,8 @@ debendu-das.
 sndevs-slacker-issue-reporter[bot].
 urspvs.
 404paige.
-ankitshu.
 Atul-LNG.
+ankitshu.
 Mexiprince.
 at8807602.
 JonSandoval.
