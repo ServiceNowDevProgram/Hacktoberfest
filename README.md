@@ -361,6 +361,7 @@ Saahil-Kumaar.
 SachinRajakaruna.
 samikshak-kaulkar-hacktoberfest.
 samikshak-web.
+sanjii02.
 sanket665.
 Saptarshi3456.
 Sayon008.
@@ -676,9 +677,9 @@ SNProductOwner.
 TechnologistTim.
 anguspalmer.
 Badal2k23.
+bhavyajain511.
 
 **Top 50% contributors:**
-bhavyajain511.
 DhruvBhatheja.
 naveenraw25.
 NBaker137.
@@ -818,9 +819,9 @@ moshjahan.
 msdfib.
 mwchiao.
 NilotpalMaitra.
+nvprav.
 
 **Other contributors:**
-nvprav.
 pavankumar-4.
 physi.
 PranavTamada.
@@ -1624,6 +1625,7 @@ samikshak-kaulkar-hacktoberfest.
 samikshak-web.
 samusahatpure.
 sanathan-git.
+sanjii02.
 sanket665.
 SanketJ29.
 Santosh-kumar01.
