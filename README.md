@@ -205,6 +205,7 @@ trupti65.
 HackoDev1530.
 sndevs-slacker-issue-reporter[bot].
 Sriharsha19.
+jiteshmalik.
 mskoddow.
 AnandMahajan2799.
 chelming.
@@ -217,9 +218,9 @@ sandeepd26.
 SwapnaAbburi.
 TejasSNOW.
 Vishnu-rvk.
-zstromsodt.
 
 **Other contributors:**
+zstromsodt.
 404paige.
 Abhishek2634.
 AdityaBala2026.
@@ -238,7 +239,6 @@ mitkarisunil.
 akshaydnetake.
 prataps135.
 Anudhyan.
-jiteshmalik.
 kmohit2809.
 Siri-007.
 Uma20-dev.
@@ -503,6 +503,7 @@ aatrey882.
 brenduh.
 mskoddow.
 salmaniqbal92.
+jiteshmalik.
 mohitchauhan-dev.
 mr-swann.
 shreyawani98.
@@ -513,7 +514,6 @@ Dhruvyadav2000.
 manrick.
 VaishnaviLathkar98.
 Vishnu-rvk.
-jiteshmalik.
 hafsa-asif.
 juhikumarimodi6.
 ovarn.
