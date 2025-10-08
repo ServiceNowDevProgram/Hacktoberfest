@@ -194,10 +194,11 @@ Shashank102002.
 chetnadev.
 ivan-betev.
 KrishChothani.
+Soumyadeep10.
 sumanth1710.
+durgeshservicenow-hub.
 GHSayak25.
 shreyawani98.
-Soumyadeep10.
 trupti65.
 HackoDev1530.
 sndevs-slacker-issue-reporter[bot].
@@ -214,13 +215,12 @@ sandeepd26.
 SwapnaAbburi.
 TejasSNOW.
 zstromsodt.
-Abhishek2634.
 
 **Other contributors:**
+Abhishek2634.
 AdityaBala2026.
 AyanAhmedKhan.
 CODEBRAKERBOYY.
-durgeshservicenow-hub.
 harshal045.
 iamshankha.
 LakshmiChaitanyaReddy.
@@ -712,6 +712,7 @@ soham-shee.
 UTSAVS26.
 Abbas-57.
 DChotaliya.
+durgeshservicenow-hub.
 ersureshbe.
 GHSayak25.
 HackoDev1530.
@@ -789,7 +790,6 @@ demetris7.
 devalcodes.
 dhruvii-powershell.
 dorsy99.
-durgeshservicenow-hub.
 ezratkim.
 harshal045.
 HarshMN2345.
