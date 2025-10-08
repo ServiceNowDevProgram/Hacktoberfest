@@ -175,6 +175,7 @@ Soumyadeep10.
 bkb68.
 DhruvBhatheja.
 JohanDC-1999.
+Paulsylo25.
 Thrizvi.
 ShuGitHub2022.
 becksbyte.
@@ -188,7 +189,6 @@ Rajat32-op.
 RaviGaurav007.
 spnegi.
 at8807602.
-Paulsylo25.
 
 **Top 50% contributors:**
 ewatch.
@@ -429,13 +429,13 @@ gowdah.
 RahmanM.
 R3J3NT.
 ajcooper72.
+Paulsylo25.
 rohi-v.
 raghavs046.
 aykmrgit.
 WillemZeiler.
 anveshmupparaju.
 hrobarikt.
-Paulsylo25.
 Chraiseto.
 TRIGGEREDcoder.
 maheshkhatal27.
