@@ -146,10 +146,10 @@ Lacah.
 wiz0floyd.
 am-shakeel.
 shivamvish160.
-snamjosh.
+vhudlikar.
 
 **Top 10% contributors:**
-vhudlikar.
+snamjosh.
 NavyasreeBolleboyana.
 sivamuruganandam-coder.
 JonSandoval.
@@ -444,11 +444,11 @@ TRIGGEREDcoder.
 maheshkhatal27.
 sumanthdosapati.
 SrijanPatwa.
+vhudlikar.
 smartcarleen.
 debendu-das.
 sndevs-slacker-issue-reporter[bot].
 urspvs.
-vhudlikar.
 404paige.
 ankitshu.
 Mexiprince.
