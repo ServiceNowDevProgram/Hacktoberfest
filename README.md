@@ -173,6 +173,7 @@ brenduh.
 kmxo.
 bkb68.
 Soumyadeep10.
+DhruvBhatheja.
 JohanDC-1999.
 Thrizvi.
 ShuGitHub2022.
@@ -182,7 +183,6 @@ koratalas.
 stefanintech.
 1shabby.
 bird-03.
-DhruvBhatheja.
 Rajat32-op.
 RaviGaurav007.
 at8807602.
@@ -647,6 +647,7 @@ AnithaA09.
 anubhav-ritolia.
 apple9000.
 briangodfreydev.
+DhruvBhatheja.
 GauthamBellamkonda.
 JohanDC-1999.
 Khasim-63993.
@@ -677,10 +678,9 @@ SNProductOwner.
 TechnologistTim.
 anguspalmer.
 Badal2k23.
-bhavyajain511.
 
 **Top 50% contributors:**
-DhruvBhatheja.
+bhavyajain511.
 naveenraw25.
 NBaker137.
 patan116.
