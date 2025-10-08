@@ -188,9 +188,9 @@ at8807602.
 Paulsylo25.
 ewatch.
 lauri457.
+Shashank102002.
 
 **Top 50% contributors:**
-Shashank102002.
 chetnadev.
 ivan-betev.
 KrishChothani.
@@ -216,9 +216,9 @@ SwapnaAbburi.
 TejasSNOW.
 zstromsodt.
 Abhishek2634.
+AdityaBala2026.
 
 **Other contributors:**
-AdityaBala2026.
 AyanAhmedKhan.
 CODEBRAKERBOYY.
 harshal045.
@@ -301,6 +301,7 @@ DivyanshRajSoni.
 Dnyanesh182.
 Durgeshpathak-111.
 Emmynem.
+ETHAN96308.
 FrancisBarla10.
 Girishbari.
 Govind1982.
@@ -1244,6 +1245,7 @@ EricLiv.
 erlingvt.
 erwinel.
 ESpivak1.
+ETHAN96308.
 euphoria18.
 evanrichardfpl.
 EvTheJavaScriptDev.
