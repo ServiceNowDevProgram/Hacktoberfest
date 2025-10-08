@@ -158,12 +158,12 @@ niamccash.
 anurampalli.
 Mexiprince.
 naveensnow.
+anveshmupparaju.
 gowdah.
 SrijanPatwa.
-animeshdasgit.
 
 **Top 25% contributors:**
-anveshmupparaju.
+animeshdasgit.
 debendu-das.
 bhavyaa30.
 GokulkumarV.
@@ -430,6 +430,7 @@ R3J3NT.
 ajcooper72.
 aykmrgit.
 rohi-v.
+anveshmupparaju.
 hrobarikt.
 Paulsylo25.
 Chraiseto.
@@ -437,7 +438,6 @@ TRIGGEREDcoder.
 maheshkhatal27.
 sumanthdosapati.
 SrijanPatwa.
-anveshmupparaju.
 smartcarleen.
 debendu-das.
 raghavs046.
