@@ -160,14 +160,14 @@ niamccash.
 kmxo.
 anurampalli.
 Mexiprince.
+Soumyadeep10.
 anveshmupparaju.
 bhavyaa30.
-gowdah.
 
 **Top 25% contributors:**
+gowdah.
 SrijanPatwa.
 jiteshmalik.
-Soumyadeep10.
 animeshdasgit.
 chetnadev.
 debendu-das.
@@ -476,17 +476,17 @@ ronaldkarim.
 spnegi.
 azeezgaa.
 deepak-64742.
+Soumyadeep10.
 rafzk.
 anillande90.
 ayleeandersen.
 ivan-betev.
-Abhishekchowdarapu.
 
 **Top 10% contributors:**
+Abhishekchowdarapu.
 alikuttyka.
 animeshdasgit.
 aswamy93.
-Soumyadeep10.
 YTejaswini18.
 BadalHub.
 MrChrisE.
