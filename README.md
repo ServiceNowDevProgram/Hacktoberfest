@@ -199,6 +199,7 @@ maheshkhatal27.
 Rajat32-op.
 RaviGaurav007.
 at8807602.
+HackoDev1530.
 ewatch.
 Shashank102002.
 shreyawani98.
@@ -210,7 +211,6 @@ GHSayak25.
 Noah-Drew.
 sandeepd26.
 trupti65.
-HackoDev1530.
 sndevs-slacker-issue-reporter[bot].
 mskoddow.
 Sriharsha19.
@@ -705,6 +705,7 @@ Badal2k23.
 
 **Top 50% contributors:**
 bhavyajain511.
+HackoDev1530.
 naveenraw25.
 NBaker137.
 patan116.
@@ -743,7 +744,6 @@ DChotaliya.
 durgeshservicenow-hub.
 ersureshbe.
 GHSayak25.
-HackoDev1530.
 LucasRocha2308.
 Mahesh-Krishnan1.
 maialithar.
