@@ -215,12 +215,13 @@ anjimuvva.
 chelming.
 DanielMadsenDK.
 Danmax.
+JorgeGRC.
 maheshkhatal27.
 mitalizope.
 pankajrj.
-SwapnaAbburi.
 
 **Other contributors:**
+SwapnaAbburi.
 TejasSNOW.
 zstromsodt.
 404paige.
@@ -229,7 +230,6 @@ AdityaBala2026.
 AyanAhmedKhan.
 CODEBRAKERBOYY.
 harshal045.
-JorgeGRC.
 LakshmiChaitanyaReddy.
 PranavTamada.
 Siddhartha03D.
@@ -754,6 +754,7 @@ Alprez.
 chris-canto-11.
 furquan5.
 harditsingh88.
+JorgeGRC.
 NayeemKaka.
 praisetoyt.
 puneet94.
@@ -767,7 +768,6 @@ Beeram12.
 crooks-s.
 cschmidt82.
 Jaskaran-Techno.
-JorgeGRC.
 mitalizope.
 pankajrj.
 RagaChitraMankala.
