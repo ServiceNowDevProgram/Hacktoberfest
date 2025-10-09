@@ -274,6 +274,7 @@ silky-modi22.
 surajnikam111.
 TRIGGEREDcoder.
 2Prerna0.
+5yruz.
 aaditya0004.
 abhi10pi.
 abhijeetpatil1818.
@@ -828,9 +829,9 @@ mikeroosa.
 moshjahan.
 msdfib.
 mwchiao.
+NilotpalMaitra.
 
 **Other contributors:**
-NilotpalMaitra.
 nvprav.
 pavankumar-4.
 physi.
@@ -1046,6 +1047,7 @@ Zephyre195.
 0x3developer.
 1-23-smy.
 2Prerna0.
+5yruz.
 a-machado.
 A-Vishnupriya.
 aaditya0004.
