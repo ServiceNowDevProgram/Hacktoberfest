@@ -154,13 +154,13 @@ NavyasreeBolleboyana.
 sivamuruganandam-coder.
 JonSandoval.
 Atul-LNG.
+jiteshmalik.
 juhikumarimodi6.
 naveensnow.
 niamccash.
 kmxo.
 bhavyaa30.
 anurampalli.
-jiteshmalik.
 Mexiprince.
 Soumyadeep10.
 
@@ -459,11 +459,11 @@ aykmrgit.
 anveshmupparaju.
 hrobarikt.
 Chraiseto.
+jiteshmalik.
 TRIGGEREDcoder.
 Atul-LNG.
 SrijanPatwa.
 smartcarleen.
-jiteshmalik.
 debendu-das.
 sndevs-slacker-issue-reporter[bot].
 urspvs.
