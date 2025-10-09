@@ -159,14 +159,14 @@ naveensnow.
 niamccash.
 kmxo.
 anurampalli.
+jiteshmalik.
 Mexiprince.
 anveshmupparaju.
 bhavyaa30.
-gowdah.
 
 **Top 25% contributors:**
+gowdah.
 SrijanPatwa.
-jiteshmalik.
 Soumyadeep10.
 animeshdasgit.
 chetnadev.
@@ -459,12 +459,12 @@ TRIGGEREDcoder.
 Atul-LNG.
 SrijanPatwa.
 smartcarleen.
+jiteshmalik.
 debendu-das.
 sndevs-slacker-issue-reporter[bot].
 urspvs.
 404paige.
 ankitshu.
-jiteshmalik.
 Mexiprince.
 at8807602.
 shivamvish160.
