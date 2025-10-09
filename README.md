@@ -208,8 +208,8 @@ sandeepd26.
 trupti65.
 HackoDev1530.
 sndevs-slacker-issue-reporter[bot].
-Sriharsha19.
 mskoddow.
+Sriharsha19.
 AnandMahajan2799.
 chelming.
 DanielMadsenDK.
@@ -498,12 +498,12 @@ lakshmikanthgupta.
 mlemartien.
 riya-misra-1.
 hentonjd.
+mskoddow.
 NavyasreeBolleboyana.
 sivamuruganandam-coder.
 23Thom.
 aatrey882.
 brenduh.
-mskoddow.
 salmaniqbal92.
 Vishnu-rvk.
 mohitchauhan-dev.
