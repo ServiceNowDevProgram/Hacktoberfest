@@ -181,6 +181,7 @@ spnegi.
 Thrizvi.
 ShuGitHub2022.
 becksbyte.
+lauri457.
 ChandBasha-code.
 chetnadev.
 koratalas.
@@ -189,13 +190,12 @@ stefanintech.
 bird-03.
 Rajat32-op.
 RaviGaurav007.
-at8807602.
 
 **Top 50% contributors:**
+at8807602.
 ewatch.
 ivan-betev.
 Shashank102002.
-lauri457.
 iamshankha.
 KrishChothani.
 shreyawani98.
@@ -673,6 +673,7 @@ homealone07.
 Iamsant.
 jeremyrubio27.
 kumarinisha378.
+lauri457.
 Sagar-agarwal.
 wiresgit.
 yourepicservices.
@@ -682,9 +683,9 @@ S-w-a-p-n-i-l-22.
 SNProductOwner.
 TechnologistTim.
 anguspalmer.
-Badal2k23.
 
 **Top 50% contributors:**
+Badal2k23.
 bhavyajain511.
 naveenraw25.
 NBaker137.
@@ -701,7 +702,6 @@ Shashank102002.
 dcord1x.
 djunaid.
 Haile-08.
-lauri457.
 sonamtiwari8.
 Adiana3308.
 akhoshnood.
