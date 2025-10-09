@@ -196,6 +196,7 @@ Vishnu-rvk.
 **Top 50% contributors:**
 Rajat32-op.
 RaviGaurav007.
+sumanthdosapati.
 at8807602.
 ewatch.
 ivan-betev.
@@ -207,7 +208,6 @@ durgeshservicenow-hub.
 GHSayak25.
 Noah-Drew.
 sandeepd26.
-sumanthdosapati.
 trupti65.
 HackoDev1530.
 sndevs-slacker-issue-reporter[bot].
@@ -445,10 +445,10 @@ rohi-v.
 gowdah.
 Paulsylo25.
 RahmanM.
+sumanthdosapati.
 R3J3NT.
 ajcooper72.
 maheshkhatal27.
-sumanthdosapati.
 raghavs046.
 aykmrgit.
 anveshmupparaju.
