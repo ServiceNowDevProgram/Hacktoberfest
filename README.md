@@ -187,11 +187,12 @@ lauri457.
 bird-03.
 ChandBasha-code.
 koratalas.
+maheshkhatal27.
 Vishnu-rvk.
 1shabby.
-Rajat32-op.
 
 **Top 50% contributors:**
+Rajat32-op.
 RaviGaurav007.
 at8807602.
 ewatch.
@@ -199,7 +200,6 @@ ivan-betev.
 Shashank102002.
 iamshankha.
 KrishChothani.
-maheshkhatal27.
 shreyawani98.
 sumanth1710.
 durgeshservicenow-hub.
