@@ -191,9 +191,9 @@ maheshkhatal27.
 Vishnu-rvk.
 1shabby.
 Rajat32-op.
+RaviGaurav007.
 
 **Top 50% contributors:**
-RaviGaurav007.
 at8807602.
 ewatch.
 ivan-betev.
@@ -220,9 +220,9 @@ DanielMadsenDK.
 Danmax.
 mitalizope.
 pankajrj.
+SwapnaAbburi.
 
 **Other contributors:**
-SwapnaAbburi.
 TejasSNOW.
 zstromsodt.
 404paige.
@@ -286,6 +286,7 @@ afrith03.
 Akshaykomar890.
 alankritijain2001-dot.
 andrey-verevkin.
+AniketSonje.
 anilpal678.
 Anjali655.
 Anubhav-developr.
@@ -479,9 +480,9 @@ rafzk.
 anillande90.
 ayleeandersen.
 ivan-betev.
+Abhishekchowdarapu.
 
 **Top 10% contributors:**
-Abhishekchowdarapu.
 alikuttyka.
 animeshdasgit.
 aswamy93.
@@ -551,9 +552,9 @@ anurampalli.
 Charanjet.
 phr-nk.
 davidkwhuang.
+MYaswanth28.
 
 **Top 25% contributors:**
-MYaswanth28.
 zahidask.
 bhavyaa30.
 DynamiteC.
@@ -836,10 +837,10 @@ moshjahan.
 msdfib.
 mwchiao.
 NilotpalMaitra.
-nvprav.
-pavankumar-4.
 
 **Other contributors:**
+nvprav.
+pavankumar-4.
 physi.
 PranavTamada.
 pratyushmp.
@@ -1104,6 +1105,7 @@ andrey-verevkin.
 andy1717.
 andyops.
 aneesh-pathanadathil.
+AniketSonje.
 anilpal678.
 Anjali655.
 Anks-26.
