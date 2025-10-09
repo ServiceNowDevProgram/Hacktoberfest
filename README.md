@@ -330,6 +330,7 @@ knshkp.
 Kolimator.
 kunalsinghdadhwal.
 kushalt112.
+lalit-oli-mohan-479.
 lstrallo.
 madhuri-ch4.
 Manish0621.
@@ -834,9 +835,9 @@ msdfib.
 mwchiao.
 NilotpalMaitra.
 nvprav.
+pavankumar-4.
 
 **Other contributors:**
-pavankumar-4.
 physi.
 PranavTamada.
 pratyushmp.
@@ -1427,6 +1428,7 @@ kurtzettel.
 kushalt112.
 kvdev29.
 laherfrit.
+lalit-oli-mohan-479.
 Lamquocminhhuy.
 LarsAssen.
 Lathasuv.
