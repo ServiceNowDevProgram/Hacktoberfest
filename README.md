@@ -184,11 +184,11 @@ Thrizvi.
 ShuGitHub2022.
 becksbyte.
 lauri457.
+bird-03.
 ChandBasha-code.
 koratalas.
 Vishnu-rvk.
 1shabby.
-bird-03.
 Rajat32-op.
 
 **Top 50% contributors:**
