@@ -338,6 +338,7 @@ mirellarc.
 Mittalkabir.
 mohcinebf.
 monicaepam.
+moritzrupp.
 MrAtharvaB.
 MrRohit2506.
 narayankr12.
@@ -688,9 +689,9 @@ SNProductOwner.
 TechnologistTim.
 anguspalmer.
 Badal2k23.
+bhavyajain511.
 
 **Top 50% contributors:**
-bhavyajain511.
 naveenraw25.
 NBaker137.
 patan116.
@@ -831,9 +832,9 @@ moshjahan.
 msdfib.
 mwchiao.
 NilotpalMaitra.
+nvprav.
 
 **Other contributors:**
-nvprav.
 pavankumar-4.
 physi.
 PranavTamada.
@@ -1486,6 +1487,7 @@ mohan-ServiceNow.
 MohanKumarAmbati.
 mohcinebf.
 monicaepam.
+moritzrupp.
 mortumus.
 mpvarmadatla.
 MrAtharvaB.
