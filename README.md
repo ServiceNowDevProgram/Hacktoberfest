@@ -187,14 +187,13 @@ lauri457.
 bird-03.
 ChandBasha-code.
 iamshankha.
-JorgeGRC.
 koratalas.
 maheshkhatal27.
 Vishnu-rvk.
 1shabby.
+Rajat32-op.
 
 **Top 50% contributors:**
-Rajat32-op.
 RaviGaurav007.
 sumanthdosapati.
 at8807602.
@@ -202,6 +201,7 @@ ewatch.
 ivan-betev.
 Shashank102002.
 shreyawani98.
+JorgeGRC.
 KrishChothani.
 sumanth1710.
 durgeshservicenow-hub.
@@ -682,7 +682,6 @@ becksbyte.
 homealone07.
 Iamsant.
 jeremyrubio27.
-JorgeGRC.
 kumarinisha378.
 lauri457.
 Sagar-agarwal.
@@ -695,9 +694,9 @@ S-w-a-p-n-i-l-22.
 SNProductOwner.
 TechnologistTim.
 anguspalmer.
+Badal2k23.
 
 **Top 50% contributors:**
-Badal2k23.
 bhavyajain511.
 naveenraw25.
 NBaker137.
@@ -714,6 +713,7 @@ Shashank102002.
 dcord1x.
 djunaid.
 Haile-08.
+JorgeGRC.
 sonamtiwari8.
 Adiana3308.
 akhoshnood.
