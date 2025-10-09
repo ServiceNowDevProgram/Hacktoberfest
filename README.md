@@ -175,6 +175,7 @@ Soumyadeep10.
 brenduh.
 Paulsylo25.
 bkb68.
+stefanintech.
 DhruvBhatheja.
 JohanDC-1999.
 spnegi.
@@ -185,7 +186,6 @@ lauri457.
 ChandBasha-code.
 chetnadev.
 koratalas.
-stefanintech.
 1shabby.
 bird-03.
 Rajat32-op.
@@ -531,6 +531,7 @@ danr2c2.
 Litwilly.
 MRSinghRajat.
 oasif.
+stefanintech.
 soerenmaucher.
 Adil404.
 avssrikanth.
@@ -541,13 +542,12 @@ anurampalli.
 Charanjet.
 phr-nk.
 davidkwhuang.
-MYaswanth28.
 
 **Top 25% contributors:**
+MYaswanth28.
 zahidask.
 DynamiteC.
 shakeel-sheikh.
-stefanintech.
 vjtknn.
 Yokesh0811.
 DavidMarcial.
