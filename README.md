@@ -190,9 +190,9 @@ koratalas.
 maheshkhatal27.
 Vishnu-rvk.
 1shabby.
+Rajat32-op.
 
 **Top 50% contributors:**
-Rajat32-op.
 RaviGaurav007.
 at8807602.
 ewatch.
@@ -219,9 +219,9 @@ DanielMadsenDK.
 Danmax.
 mitalizope.
 pankajrj.
+SwapnaAbburi.
 
 **Other contributors:**
-SwapnaAbburi.
 TejasSNOW.
 zstromsodt.
 404paige.
@@ -286,6 +286,7 @@ andrey-verevkin.
 anilpal678.
 Anjali655.
 Anubhav-developr.
+Anurag-Kar-240101094.
 Anusrita-Karmakar.
 apatti.
 Aryan-Bhendarkar.
@@ -1101,6 +1102,7 @@ AnnaGould.
 Anoop21-oss-a.
 Anson-Mathew.
 Anubhav-developr.
+Anurag-Kar-240101094.
 Anuraj4.
 apatti.
 apbuhssc.
