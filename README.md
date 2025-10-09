@@ -221,10 +221,11 @@ Danmax.
 Jmyekn1123.
 mitalizope.
 pankajrj.
+rishanmenezes.
 SwapnaAbburi.
-TejasSNOW.
 
 **Other contributors:**
+TejasSNOW.
 zstromsodt.
 404paige.
 Abhishek2634.
@@ -264,7 +265,6 @@ mayankgautam-dev.
 phegel.
 phr-nk.
 razorblack.
-rishanmenezes.
 SachinNarayanasamy.
 sanjaykumar3sn.
 sarthakjalan05.
@@ -786,6 +786,7 @@ Jmyekn1123.
 mitalizope.
 pankajrj.
 RagaChitraMankala.
+rishanmenezes.
 ShakthiSn.
 SwapnaAbburi.
 tejasathalye.
@@ -842,9 +843,9 @@ moshjahan.
 msdfib.
 mwchiao.
 NilotpalMaitra.
-nvprav.
 
 **Other contributors:**
+nvprav.
 pavankumar-4.
 physi.
 PranavTamada.
@@ -1020,7 +1021,6 @@ RasoolBux123.
 Ravindranath2511.
 razorblack.
 rickylarsson.
-rishanmenezes.
 ron-karim.
 roshanServiceNow.
 RoshanSingh04.
