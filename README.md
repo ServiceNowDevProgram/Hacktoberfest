@@ -207,6 +207,7 @@ durgeshservicenow-hub.
 GHSayak25.
 Noah-Drew.
 sandeepd26.
+sumanthdosapati.
 trupti65.
 HackoDev1530.
 sndevs-slacker-issue-reporter[bot].
@@ -219,9 +220,9 @@ DanielMadsenDK.
 Danmax.
 mitalizope.
 pankajrj.
-SwapnaAbburi.
 
 **Other contributors:**
+SwapnaAbburi.
 TejasSNOW.
 zstromsodt.
 404paige.
@@ -234,7 +235,6 @@ LakshmiChaitanyaReddy.
 PranavTamada.
 Siddhartha03D.
 SinghCod3r.
-sumanthdosapati.
 bhavishyavelaga.
 dvn-lazywinner.
 mitkarisunil.
@@ -446,8 +446,8 @@ WillemZeiler.
 R3J3NT.
 ajcooper72.
 maheshkhatal27.
-raghavs046.
 sumanthdosapati.
+raghavs046.
 aykmrgit.
 anveshmupparaju.
 hrobarikt.
