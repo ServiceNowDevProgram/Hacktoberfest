@@ -137,8 +137,8 @@ Meet the volunteer team who will be maintaining the Hacktoberfest projects:
 **Top 5% contributors:**
 earlduque.
 ravichandra1998g.
-Rampriya-S.
 WillemZeiler.
+Rampriya-S.
 raghavs046.
 rohi-v.
 SapphicFire.
@@ -439,10 +439,10 @@ gowdah.
 Paulsylo25.
 RahmanM.
 vhudlikar.
+WillemZeiler.
 R3J3NT.
 ajcooper72.
 maheshkhatal27.
-WillemZeiler.
 raghavs046.
 aykmrgit.
 anveshmupparaju.
