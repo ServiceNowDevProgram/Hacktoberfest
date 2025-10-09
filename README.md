@@ -205,8 +205,8 @@ GHSayak25.
 Noah-Drew.
 trupti65.
 HackoDev1530.
-sndevs-slacker-issue-reporter[bot].
 sandeepd26.
+sndevs-slacker-issue-reporter[bot].
 Sriharsha19.
 mskoddow.
 AnandMahajan2799.
