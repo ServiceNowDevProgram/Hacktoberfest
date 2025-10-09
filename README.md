@@ -374,6 +374,7 @@ servicenowspecialist.
 shaiksajidhussain.
 Shikhar-Shetty.
 shivam2003-dev.
+Shrutika10-sys.
 Shubham11440.
 shubsolos19.
 Sireesha-kante.
@@ -683,9 +684,9 @@ S-w-a-p-n-i-l-22.
 SNProductOwner.
 TechnologistTim.
 anguspalmer.
+Badal2k23.
 
 **Top 50% contributors:**
-Badal2k23.
 bhavyajain511.
 naveenraw25.
 NBaker137.
@@ -825,9 +826,9 @@ mevops.
 mikeroosa.
 moshjahan.
 msdfib.
+mwchiao.
 
 **Other contributors:**
-mwchiao.
 NilotpalMaitra.
 nvprav.
 pavankumar-4.
@@ -1665,6 +1666,7 @@ SherylThompson.
 Shikhar-Shetty.
 shivam2003-dev.
 shreyverma03.
+Shrutika10-sys.
 shubham-snc.
 Shubham11440.
 Shubham2227.
