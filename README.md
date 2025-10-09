@@ -158,14 +158,14 @@ juhikumarimodi6.
 naveensnow.
 niamccash.
 kmxo.
+bhavyaa30.
 anurampalli.
 jiteshmalik.
 Mexiprince.
 Soumyadeep10.
-anveshmupparaju.
 
 **Top 25% contributors:**
-bhavyaa30.
+anveshmupparaju.
 gowdah.
 SrijanPatwa.
 animeshdasgit.
@@ -539,6 +539,7 @@ sheikhafsarzap.
 sravankadudhuri.
 jonahpiascik.
 kylburns89.
+bhavyaa30.
 danr2c2.
 Litwilly.
 MRSinghRajat.
@@ -554,11 +555,10 @@ anurampalli.
 Charanjet.
 phr-nk.
 davidkwhuang.
-MYaswanth28.
 
 **Top 25% contributors:**
+MYaswanth28.
 zahidask.
-bhavyaa30.
 DynamiteC.
 shakeel-sheikh.
 vjtknn.
