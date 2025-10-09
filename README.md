@@ -147,9 +147,9 @@ Lacah.
 wiz0floyd.
 am-shakeel.
 shivamvish160.
+snamjosh.
 
 **Top 10% contributors:**
-snamjosh.
 NavyasreeBolleboyana.
 sivamuruganandam-coder.
 JonSandoval.
@@ -162,9 +162,9 @@ anurampalli.
 Mexiprince.
 anveshmupparaju.
 bhavyaa30.
+gowdah.
 
 **Top 25% contributors:**
-gowdah.
 SrijanPatwa.
 jiteshmalik.
 Soumyadeep10.
@@ -219,10 +219,10 @@ DanielMadsenDK.
 Danmax.
 mitalizope.
 pankajrj.
-SwapnaAbburi.
-TejasSNOW.
 
 **Other contributors:**
+SwapnaAbburi.
+TejasSNOW.
 zstromsodt.
 404paige.
 Abhishek2634.
@@ -297,6 +297,7 @@ Ash0807.
 Awesomefp.
 bgrk005.
 Bharathkogilamane274.
+bhavani-konda.
 brunoasantos.
 chaitaliKundu.
 chiemeriechibuzor.
@@ -1154,6 +1155,7 @@ bharakm.
 Bharat123rox.
 Bharathkogilamane274.
 bharatr21.
+bhavani-konda.
 BhavishyaA516.
 Bidexdablitz.
 Bigshmow.
