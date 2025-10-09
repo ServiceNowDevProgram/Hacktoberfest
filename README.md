@@ -166,11 +166,11 @@ bhavyaa30.
 **Top 25% contributors:**
 gowdah.
 SrijanPatwa.
+jiteshmalik.
 animeshdasgit.
 debendu-das.
 GokulkumarV.
 Jaspalsinghchot.
-jiteshmalik.
 Soumyadeep10.
 brenduh.
 chetnadev.
@@ -453,11 +453,11 @@ urspvs.
 404paige.
 Atul-LNG.
 ankitshu.
+jiteshmalik.
 Mexiprince.
 at8807602.
 JonSandoval.
 Radhe-Manasa.
-jiteshmalik.
 bkb68.
 shivamvish160.
 stevezero.
