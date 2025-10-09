@@ -365,6 +365,7 @@ ramkrishna-behera.
 ravii333.
 RedRangerWentWild.
 richirichard7789-svg.
+rishanmenezes.
 Ritanshusharma2.
 Riyamisra1.
 rly09.
@@ -1618,6 +1619,7 @@ retrokaj.
 richirichard7789-svg.
 ricksclick.
 rishabhbaranwal0.
+rishanmenezes.
 Ritanshusharma2.
 RitheshGit.
 Riyamisra1.
