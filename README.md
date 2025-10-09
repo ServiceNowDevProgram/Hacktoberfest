@@ -201,6 +201,7 @@ ewatch.
 ivan-betev.
 Shashank102002.
 shreyawani98.
+anjimuvva.
 JorgeGRC.
 KrishChothani.
 sumanth1710.
@@ -214,7 +215,6 @@ sndevs-slacker-issue-reporter[bot].
 mskoddow.
 Sriharsha19.
 AnandMahajan2799.
-anjimuvva.
 chelming.
 DanielMadsenDK.
 Danmax.
@@ -718,6 +718,7 @@ sonamtiwari8.
 Adiana3308.
 akhoshnood.
 allam1234.
+anjimuvva.
 Decoder-Paul.
 DhanushNehru.
 jesalynrose.
@@ -772,7 +773,6 @@ pviglianti.
 Shreedevisnow.
 sisco0.
 AnandMahajan2799.
-anjimuvva.
 ashaw7697.
 Beeram12.
 crooks-s.
