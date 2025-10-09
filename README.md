@@ -166,11 +166,11 @@ Soumyadeep10.
 anveshmupparaju.
 
 **Top 25% contributors:**
+brenduh.
 gowdah.
 SrijanPatwa.
 iamshankha.
 animeshdasgit.
-brenduh.
 chetnadev.
 debendu-das.
 GokulkumarV.
@@ -495,6 +495,7 @@ Abhishekchowdarapu.
 alikuttyka.
 animeshdasgit.
 aswamy93.
+brenduh.
 Vishnu-rvk.
 YTejaswini18.
 BadalHub.
@@ -507,7 +508,6 @@ csharpie.
 DanielMadsenDK.
 Danmax.
 PranavBhagat18.
-brenduh.
 Irston.
 litwi1rm.
 mak1A4.
