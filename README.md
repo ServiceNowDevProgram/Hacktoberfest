@@ -163,9 +163,9 @@ bhavyaa30.
 anurampalli.
 Mexiprince.
 Soumyadeep10.
+anveshmupparaju.
 
 **Top 25% contributors:**
-anveshmupparaju.
 gowdah.
 SrijanPatwa.
 animeshdasgit.
@@ -301,6 +301,7 @@ apatti.
 Aryan-Bhendarkar.
 Ash0807.
 Awesomefp.
+Ayush-216.
 bgrk005.
 Bharathkogilamane274.
 bhavani-konda.
@@ -844,9 +845,9 @@ moshjahan.
 msdfib.
 mwchiao.
 NilotpalMaitra.
+nvprav.
 
 **Other contributors:**
-nvprav.
 pavankumar-4.
 physi.
 PranavTamada.
@@ -1148,6 +1149,7 @@ AutumLeaf.
 AvTe.
 Awesomefp.
 aysenuruzunnn.
+Ayush-216.
 ayush06195.
 Ayushi22-coder.
 azabadaudiya.
