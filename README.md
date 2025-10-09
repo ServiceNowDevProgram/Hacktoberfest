@@ -181,6 +181,7 @@ stefanintech.
 Vishnu-rvk.
 DhruvBhatheja.
 JohanDC-1999.
+sumanthdosapati.
 Thrizvi.
 ShuGitHub2022.
 becksbyte.
@@ -191,12 +192,11 @@ iamshankha.
 JorgeGRC.
 koratalas.
 maheshkhatal27.
-1shabby.
 
 **Top 50% contributors:**
+1shabby.
 Rajat32-op.
 RaviGaurav007.
-sumanthdosapati.
 at8807602.
 ewatch.
 ivan-betev.
@@ -440,12 +440,12 @@ WillemZeiler.
 ashoo-jindal.
 koratalas.
 amigujarathi.
+sumanthdosapati.
 vhudlikar.
 Paulsylo25.
 rohi-v.
 gowdah.
 RahmanM.
-sumanthdosapati.
 R3J3NT.
 ajcooper72.
 maheshkhatal27.
