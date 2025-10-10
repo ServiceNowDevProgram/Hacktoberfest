@@ -168,8 +168,8 @@ brenduh.
 
 **Top 25% contributors:**
 gowdah.
-bird-03.
 ivan-betev.
+bird-03.
 Paulsylo25.
 SrijanPatwa.
 iamshankha.
@@ -479,8 +479,8 @@ aykmrgit.
 anveshmupparaju.
 hrobarikt.
 Chraiseto.
-TRIGGEREDcoder.
 ivan-betev.
+TRIGGEREDcoder.
 SrijanPatwa.
 smartcarleen.
 at8807602.
