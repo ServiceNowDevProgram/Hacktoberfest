@@ -168,8 +168,8 @@ anveshmupparaju.
 **Top 25% contributors:**
 brenduh.
 gowdah.
-SrijanPatwa.
 bird-03.
+SrijanPatwa.
 iamshankha.
 animeshdasgit.
 debendu-das.
@@ -442,8 +442,8 @@ kmxo.
 johndahl-now.
 MartinStoyanoff.
 eriemer1.
-Jaspalsinghchot.
 bird-03.
+Jaspalsinghchot.
 paigesndev.
 ynr-ram.
 ishaanshoor.
