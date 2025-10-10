@@ -187,6 +187,7 @@ bkb68.
 stefanintech.
 1shabby.
 JohanDC-1999.
+at8807602.
 Thrizvi.
 ShuGitHub2022.
 becksbyte.
@@ -194,12 +195,11 @@ lauri457.
 ChandBasha-code.
 JorgeGRC.
 koratalas.
-maheshkhatal27.
 
 **Top 50% contributors:**
+maheshkhatal27.
 Rajat32-op.
 RaviGaurav007.
-at8807602.
 HackoDev1530.
 ewatch.
 shreyawani98.
@@ -479,6 +479,7 @@ TRIGGEREDcoder.
 ivan-betev.
 SrijanPatwa.
 smartcarleen.
+at8807602.
 shivamvish160.
 debendu-das.
 sndevs-slacker-issue-reporter[bot].
@@ -486,7 +487,6 @@ urspvs.
 404paige.
 ankitshu.
 Mexiprince.
-at8807602.
 spnegi.
 JonSandoval.
 Radhe-Manasa.
