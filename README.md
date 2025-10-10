@@ -227,9 +227,9 @@ pankajrj.
 SwapnaAbburi.
 TejasSNOW.
 zstromsodt.
+404paige.
 
 **Other contributors:**
-404paige.
 Abhishek2634.
 AdityaBala2026.
 AyanAhmedKhan.
@@ -239,6 +239,7 @@ LakshmiChaitanyaReddy.
 PranavTamada.
 Siddhartha03D.
 SinghCod3r.
+alkaChaudhary73.
 bhavishyavelaga.
 dvn-lazywinner.
 mitkarisunil.
@@ -505,6 +506,7 @@ anillande90.
 sivamuruganandam-coder.
 
 **Top 10% contributors:**
+alkaChaudhary73.
 ayleeandersen.
 Abhishekchowdarapu.
 alikuttyka.
@@ -517,7 +519,6 @@ MrChrisE.
 vandna07.
 captainbraddles.
 abhrajyotikanrar.
-alkaChaudhary73.
 csharpie.
 DanielMadsenDK.
 Danmax.
