@@ -1,0 +1,97 @@
+name: Unassign stale PR assignees
+
+on:
+  workflow_call:
+    inputs:
+      enabled:         { type: boolean, default: true }
+      max_age_minutes: { type: number,  default: 60 }
+      dry_run:         { type: boolean, default: false }
+
+permissions:
+  pull-requests: write
+  issues: write
+  contents: read
+
+concurrency:
+  group: unassign-stale-${{ github.repository }}
+  cancel-in-progress: true
+
+jobs:
+  sweep:
+    if: ${{ inputs.enabled == true }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Unassign stale assignees
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const owner = context.repo.owner;
+            const repo  = context.repo.repo;
+
+            const MAX_MIN = Number(core.getInput('max_age_minutes') || 60);
+            const DRY_RUN = (core.getInput('dry_run') || 'false').toLowerCase() === 'true';
+            const now = new Date();
+
+            core.info(`Scanning open PRs. Threshold = ${MAX_MIN} minutes. DRY_RUN=${DRY_RUN}`);
+
+            const prs = await github.paginate(github.rest.pulls.list, { owner, repo, state: "open", per_page: 100 });
+
+            let totalUnassigned = 0;
+
+            for (const pr of prs) {
+              if (!pr.assignees?.length) continue;
+              // Optional: skip drafts
+              // if (pr.draft) continue;
+
+              const number = pr.number;
+
+              const [reviews, issueComments, reviewComments, issueEvents] = await Promise.all([
+                github.paginate(github.rest.pulls.listReviews,        { owner, repo, pull_number: number, per_page: 100 }),
+                github.paginate(github.rest.issues.listComments,      { owner, repo, issue_number: number, per_page: 100 }),
+                github.paginate(github.rest.pulls.listReviewComments, { owner, repo, pull_number: number, per_page: 100 }),
+                github.paginate(github.rest.issues.listEvents,        { owner, repo, issue_number: number, per_page: 100 })
+              ]);
+
+              for (const a of pr.assignees) {
+                const assignee = a.login;
+
+                const assignedEvents = issueEvents
+                  .filter(e => e.event === "assigned" && e.assignee?.login === assignee)
+                  .sort((x, y) => new Date(y.created_at) - new Date(x.created_at));
+
+                if (!assignedEvents.length) continue;
+
+                const assignedAt = new Date(assignedEvents[0].created_at);
+                const ageMin = (now - assignedAt) / 60000;
+
+                const hasIssueComment  = issueComments.some(c => c.user?.login === assignee);
+                const hasReviewComment = reviewComments.some(c => c.user?.login === assignee);
+                const hasReview        = reviews.some(r => r.user?.login === assignee);
+
+                const eligible =
+                  pr.state === "open" &&
+                  ageMin >= MAX_MIN &&
+                  !hasIssueComment &&
+                  !hasReviewComment &&
+                  !hasReview;
+
+                if (!eligible) continue;
+
+                if (DRY_RUN) {
+                  core.notice(`Would unassign @${assignee} from #${number} after ${Math.round(ageMin)} min`);
+                } else {
+                  await github.rest.issues.removeAssignees({ owner, repo, issue_number: number, assignees: [assignee] });
+                  await github.rest.issues.createComment({
+                    owner, repo, issue_number: number,
+                    body: `🤖 Unassigning @${assignee} after ${Math.round(ageMin)} min without comments/reviews. PR stays open for others.`
+                  });
+                  totalUnassigned++;
+                }
+              }
+            }
+
+            core.summary
+              .addHeading('Auto-unassign report')
+              .addRaw(`Threshold: ${MAX_MIN} minutes\n\n`)
+              .addRaw(`Total unassignments: ${totalUnassigned}\n`)
+              .write();
