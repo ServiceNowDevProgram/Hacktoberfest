@@ -471,6 +471,7 @@ Chraiseto.
 TRIGGEREDcoder.
 SrijanPatwa.
 smartcarleen.
+shivamvish160.
 debendu-das.
 sndevs-slacker-issue-reporter[bot].
 urspvs.
@@ -478,7 +479,6 @@ urspvs.
 ankitshu.
 Mexiprince.
 at8807602.
-shivamvish160.
 spnegi.
 JonSandoval.
 Radhe-Manasa.
