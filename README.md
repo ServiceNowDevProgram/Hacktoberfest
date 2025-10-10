@@ -202,6 +202,7 @@ at8807602.
 ewatch.
 Shashank102002.
 shreyawani98.
+Sriharsha19.
 anjimuvva.
 KrishChothani.
 sumanth1710.
@@ -213,7 +214,6 @@ trupti65.
 HackoDev1530.
 sndevs-slacker-issue-reporter[bot].
 mskoddow.
-Sriharsha19.
 AnandMahajan2799.
 chelming.
 DanielMadsenDK.
@@ -720,6 +720,7 @@ AlphaEagle.
 JWITSM.
 mo-dahir.
 Shashank102002.
+Sriharsha19.
 dcord1x.
 djunaid.
 Haile-08.
@@ -768,7 +769,6 @@ TheShashank13.
 cmanik.
 pranavkhurana2011.
 rohantjoshi.
-Sriharsha19.
 abhilash264.
 aftab-mirza.
 Alprez.
