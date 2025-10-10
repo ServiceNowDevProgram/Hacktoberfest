@@ -170,6 +170,7 @@ brenduh.
 gowdah.
 bird-03.
 SrijanPatwa.
+ivan-betev.
 iamshankha.
 animeshdasgit.
 debendu-das.
@@ -178,7 +179,6 @@ Paulsylo25.
 spnegi.
 sumanthdosapati.
 Jaspalsinghchot.
-ivan-betev.
 chetnadev.
 Vishnu-rvk.
 DhruvBhatheja.
@@ -472,12 +472,12 @@ anveshmupparaju.
 hrobarikt.
 Chraiseto.
 TRIGGEREDcoder.
+ivan-betev.
 SrijanPatwa.
 smartcarleen.
 shivamvish160.
 debendu-das.
 sndevs-slacker-issue-reporter[bot].
-ivan-betev.
 urspvs.
 404paige.
 ankitshu.
