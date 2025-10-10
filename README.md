@@ -150,8 +150,8 @@ shivamvish160.
 wiz0floyd.
 
 **Top 10% contributors:**
-NavyasreeBolleboyana.
 sivamuruganandam-coder.
+NavyasreeBolleboyana.
 jiteshmalik.
 niamccash.
 JonSandoval.
@@ -518,10 +518,10 @@ iar42.
 lakshmikanthgupta.
 mlemartien.
 riya-misra-1.
+sivamuruganandam-coder.
 hentonjd.
 mskoddow.
 NavyasreeBolleboyana.
-sivamuruganandam-coder.
 23Thom.
 aatrey882.
 salmaniqbal92.
