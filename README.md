@@ -178,9 +178,9 @@ spnegi.
 Jaspalsinghchot.
 bird-03.
 chetnadev.
+Vishnu-rvk.
 bkb68.
 stefanintech.
-Vishnu-rvk.
 1shabby.
 DhruvBhatheja.
 JohanDC-1999.
@@ -487,17 +487,17 @@ azeezgaa.
 deepak-64742.
 ivan-betev.
 Soumyadeep10.
+Vishnu-rvk.
 rafzk.
 anillande90.
-ayleeandersen.
 
 **Top 10% contributors:**
+ayleeandersen.
 Abhishekchowdarapu.
 alikuttyka.
 animeshdasgit.
 aswamy93.
 brenduh.
-Vishnu-rvk.
 YTejaswini18.
 BadalHub.
 MrChrisE.
