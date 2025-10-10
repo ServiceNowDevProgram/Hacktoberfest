@@ -214,6 +214,7 @@ HackoDev1530.
 sndevs-slacker-issue-reporter[bot].
 mskoddow.
 Sriharsha19.
+srishtinsaan.
 AnandMahajan2799.
 chelming.
 DanielMadsenDK.
@@ -221,7 +222,6 @@ Danmax.
 Jmyekn1123.
 mitalizope.
 pankajrj.
-srishtinsaan.
 SwapnaAbburi.
 TejasSNOW.
 zstromsodt.
@@ -784,6 +784,7 @@ puneet94.
 pviglianti.
 Shreedevisnow.
 sisco0.
+srishtinsaan.
 AnandMahajan2799.
 ashaw7697.
 Beeram12.
@@ -795,7 +796,6 @@ mitalizope.
 pankajrj.
 RagaChitraMankala.
 ShakthiSn.
-srishtinsaan.
 SwapnaAbburi.
 tejasathalye.
 TejasSNOW.
