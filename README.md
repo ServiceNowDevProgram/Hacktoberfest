@@ -187,6 +187,7 @@ stefanintech.
 1shabby.
 JohanDC-1999.
 Thrizvi.
+Shashank102002.
 ShuGitHub2022.
 becksbyte.
 lauri457.
@@ -194,13 +195,12 @@ ChandBasha-code.
 JorgeGRC.
 koratalas.
 maheshkhatal27.
-Rajat32-op.
 
 **Top 50% contributors:**
+Rajat32-op.
 RaviGaurav007.
 at8807602.
 ewatch.
-Shashank102002.
 shreyawani98.
 AnandMahajan2799.
 anjimuvva.
@@ -692,6 +692,7 @@ Pradeep567iaf.
 pratyushasndev.
 ChandBasha-code.
 nag39g.
+Shashank102002.
 ShuGitHub2022.
 becksbyte.
 homealone07.
@@ -711,9 +712,9 @@ TechnologistTim.
 anguspalmer.
 Badal2k23.
 bhavyajain511.
-naveenraw25.
 
 **Top 50% contributors:**
+naveenraw25.
 NBaker137.
 patan116.
 Rajat32-op.
@@ -724,7 +725,6 @@ ttoter.
 AlphaEagle.
 JWITSM.
 mo-dahir.
-Shashank102002.
 dcord1x.
 djunaid.
 Haile-08.
