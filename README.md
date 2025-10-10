@@ -225,9 +225,9 @@ Jmyekn1123.
 mitalizope.
 pankajrj.
 SwapnaAbburi.
+TejasSNOW.
 
 **Other contributors:**
-TejasSNOW.
 zstromsodt.
 404paige.
 Abhishek2634.
@@ -403,6 +403,7 @@ Shikhar-Shetty.
 shivam2003-dev.
 Shrutika10-sys.
 Shubham11440.
+Shubhgoyal-1.
 shubsolos19.
 Sireesha-kante.
 Smoothengineer.
@@ -861,9 +862,9 @@ mwchiao.
 NilotpalMaitra.
 nvprav.
 pavankumar-4.
+physi.
 
 **Other contributors:**
-physi.
 PranavTamada.
 pratyushmp.
 PreyumKr.
@@ -1720,6 +1721,7 @@ Shrutika10-sys.
 shubham-snc.
 Shubham11440.
 Shubham2227.
+Shubhgoyal-1.
 shubsolos19.
 simt0m.
 singhaditya73.
