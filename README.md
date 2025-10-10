@@ -220,15 +220,16 @@ srishtinsaan.
 chelming.
 DanielMadsenDK.
 Danmax.
+Gorav-Sharma.
 Jmyekn1123.
 mitalizope.
 pankajrj.
 SwapnaAbburi.
 TejasSNOW.
 zstromsodt.
-404paige.
 
 **Other contributors:**
+404paige.
 Abhishek2634.
 AdityaBala2026.
 AyanAhmedKhan.
@@ -261,7 +262,6 @@ divyajetti9.
 Dnyanesh182.
 Ehabpilloor.
 eriemer1.
-Gorav-Sharma.
 jonahpiascik.
 mady22070.
 Mahathiveena.
@@ -800,6 +800,7 @@ ashaw7697.
 Beeram12.
 crooks-s.
 cschmidt82.
+Gorav-Sharma.
 Jaskaran-Techno.
 Jmyekn1123.
 mitalizope.
@@ -863,9 +864,9 @@ msdfib.
 mwchiao.
 NilotpalMaitra.
 nvprav.
-pavankumar-4.
 
 **Other contributors:**
+pavankumar-4.
 physi.
 PranavTamada.
 pratyushmp.
@@ -991,7 +992,6 @@ garyditsch.
 gh0stxplt.
 GK884.
 gkiratkar1.
-Gorav-Sharma.
 Gowthamsai29.
 gurudev-7.
 hacktoberfestservicenow.
