@@ -178,6 +178,7 @@ Paulsylo25.
 spnegi.
 Jaspalsinghchot.
 bird-03.
+lauri457.
 bkb68.
 stefanintech.
 Vishnu-rvk.
@@ -189,7 +190,6 @@ Thrizvi.
 ShuGitHub2022.
 becksbyte.
 ivan-betev.
-lauri457.
 ChandBasha-code.
 JorgeGRC.
 koratalas.
@@ -653,6 +653,7 @@ Harshuu870.
 hrichiksite.
 Iuliak.
 jahnaviT2003.
+lauri457.
 RaunakScarlet.
 Srikanth1306.
 techTrekwithAJ.
@@ -693,7 +694,6 @@ Iamsant.
 jeremyrubio27.
 JorgeGRC.
 kumarinisha378.
-lauri457.
 Sagar-agarwal.
 wiresgit.
 yourepicservices.
