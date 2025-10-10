@@ -221,13 +221,14 @@ Danmax.
 Jmyekn1123.
 mitalizope.
 pankajrj.
+srishtinsaan.
 SwapnaAbburi.
 TejasSNOW.
 zstromsodt.
 404paige.
-Abhishek2634.
 
 **Other contributors:**
+Abhishek2634.
 AdityaBala2026.
 AyanAhmedKhan.
 CODEBRAKERBOYY.
@@ -236,7 +237,6 @@ LakshmiChaitanyaReddy.
 PranavTamada.
 Siddhartha03D.
 SinghCod3r.
-srishtinsaan.
 bhavishyavelaga.
 dvn-lazywinner.
 mitkarisunil.
@@ -795,6 +795,7 @@ mitalizope.
 pankajrj.
 RagaChitraMankala.
 ShakthiSn.
+srishtinsaan.
 SwapnaAbburi.
 tejasathalye.
 TejasSNOW.
@@ -853,9 +854,9 @@ mwchiao.
 NilotpalMaitra.
 nvprav.
 pavankumar-4.
-physi.
 
 **Other contributors:**
+physi.
 PranavTamada.
 pratyushmp.
 PreyumKr.
@@ -876,7 +877,6 @@ Siddhartha03D.
 SinghCod3r.
 speedy18.
 Sravanik12.
-srishtinsaan.
 Subhraneel77.
 TheRashRash.
 thomasvogh.
