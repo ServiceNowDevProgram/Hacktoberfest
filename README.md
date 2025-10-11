@@ -159,13 +159,13 @@ NavyasreeBolleboyana.
 niamccash.
 ivan-betev.
 JonSandoval.
+Paulsylo25.
 anurampalli.
 juhikumarimodi6.
 naveensnow.
 Soumyadeep10.
 kmxo.
 bhavyaa30.
-Paulsylo25.
 
 **Top 25% contributors:**
 Mexiprince.
@@ -471,9 +471,9 @@ vhudlikar.
 WillemZeiler.
 raghavs046.
 DavidArthurCole.
+Paulsylo25.
 Praiseto.
 rohi-v.
-Paulsylo25.
 ashoo-jindal.
 amigujarathi.
 gowdah.
