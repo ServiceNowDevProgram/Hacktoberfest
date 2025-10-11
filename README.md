@@ -163,12 +163,12 @@ Soumyadeep10.
 kmxo.
 sumanthdosapati.
 bhavyaa30.
+ivan-betev.
 Mexiprince.
 anveshmupparaju.
-brenduh.
 
 **Top 25% contributors:**
-ivan-betev.
+brenduh.
 gowdah.
 bird-03.
 Paulsylo25.
@@ -483,8 +483,8 @@ maheshkhatal27.
 aykmrgit.
 anveshmupparaju.
 hrobarikt.
-Chraiseto.
 ivan-betev.
+Chraiseto.
 TRIGGEREDcoder.
 SrijanPatwa.
 smartcarleen.
