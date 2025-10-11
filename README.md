@@ -234,6 +234,7 @@ zstromsodt.
 404paige.
 Abhishek2634.
 AdityaBala2026.
+afk-Parth.
 AyanAhmedKhan.
 CODEBRAKERBOYY.
 LakshmiChaitanyaReddy.
@@ -293,7 +294,6 @@ abhi10pi.
 abhijeetpatil1818.
 ABHINAVGUPTA02.
 Aditya-1208.
-afk-Parth.
 afrith03.
 Akshaykomar890.
 akshim1702.
@@ -825,6 +825,7 @@ zstromsodt.
 4bode.
 abhay625.
 Abhishek2634.
+afk-Parth.
 akipatil16.
 ananthsridhar.
 ankitshaw625.
@@ -868,9 +869,9 @@ mikeroosa.
 moshjahan.
 msdfib.
 mwchiao.
-NilotpalMaitra.
 
 **Other contributors:**
+NilotpalMaitra.
 pavankumar-4.
 physi.
 PranavTamada.
@@ -1108,7 +1109,6 @@ acdigitalclarity.
 adarshsingh7470.
 Aditya-1208.
 afejzic.
-afk-Parth.
 afrith03.
 ahamadunnisa-md.
 ahmadwhet.
