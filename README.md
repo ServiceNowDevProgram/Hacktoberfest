@@ -205,6 +205,7 @@ ewatch.
 shreyawani98.
 AnandMahajan2799.
 anjimuvva.
+Emmynem.
 KrishChothani.
 sumanth1710.
 durgeshservicenow-hub.
@@ -215,13 +216,13 @@ sa173199.
 sandeepd26.
 trupti65.
 HackoDev1530.
+mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
 SumithThota.
 srishtinsaan.
 chelming.
 DanielMadsenDK.
 Danmax.
-Emmynem.
 Gorav-Sharma.
 Jmyekn1123.
 mitalizope.
@@ -230,9 +231,9 @@ SwapnaAbburi.
 TejasSNOW.
 zstromsodt.
 404paige.
-Abhishek2634.
 
 **Other contributors:**
+Abhishek2634.
 AdityaBala2026.
 AyanAhmedKhan.
 CODEBRAKERBOYY.
@@ -244,7 +245,6 @@ SinghCod3r.
 alkaChaudhary73.
 bhavishyavelaga.
 dvn-lazywinner.
-mandeepkaran.
 mitkarisunil.
 MYaswanth28.
 akshaydnetake.
@@ -587,6 +587,7 @@ davidkwhuang.
 JohanDC-1999.
 
 **Top 25% contributors:**
+mandeepkaran.
 zahidask.
 DynamiteC.
 shakeel-sheikh.
@@ -612,7 +613,6 @@ unbirthdays.
 GokulkumarV.
 hoederath.
 isaac-vicentini.
-mandeepkaran.
 mioyokohama.
 mjonssonme.
 nthumma.
@@ -753,6 +753,7 @@ AnandMahajan2799.
 anjimuvva.
 Decoder-Paul.
 DhanushNehru.
+Emmynem.
 jesalynrose.
 KrishChothani.
 Ladirinia.
@@ -810,7 +811,6 @@ ashaw7697.
 Beeram12.
 crooks-s.
 cschmidt82.
-Emmynem.
 Gorav-Sharma.
 Jaskaran-Techno.
 Jmyekn1123.
