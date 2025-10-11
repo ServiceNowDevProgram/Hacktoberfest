@@ -182,11 +182,11 @@ GokulkumarV.
 spnegi.
 Jaspalsinghchot.
 chetnadev.
-Vishnu-rvk.
 DhruvBhatheja.
 Sriharsha19.
 bkb68.
 stefanintech.
+Vishnu-rvk.
 1shabby.
 at8807602.
 Thrizvi.
@@ -209,12 +209,12 @@ KrishChothani.
 sumanth1710.
 durgeshservicenow-hub.
 GHSayak25.
+mskoddow.
 Noah-Drew.
 sa173199.
 sandeepd26.
 trupti65.
 HackoDev1530.
-mskoddow.
 sndevs-slacker-issue-reporter[bot].
 SumithThota.
 srishtinsaan.
@@ -509,18 +509,18 @@ ronaldkarim.
 sivamuruganandam-coder.
 azeezgaa.
 deepak-64742.
-Vishnu-rvk.
 rafzk.
 anillande90.
+alkaChaudhary73.
 
 **Top 10% contributors:**
-alkaChaudhary73.
 ayleeandersen.
 Abhishekchowdarapu.
 alikuttyka.
 animeshdasgit.
 aswamy93.
 brenduh.
+Vishnu-rvk.
 YTejaswini18.
 BadalHub.
 MrChrisE.
@@ -534,12 +534,12 @@ PranavBhagat18.
 Irston.
 litwi1rm.
 mak1A4.
+mskoddow.
 selvarun-umass.
 shivamTodwal.
 iar42.
 lakshmikanthgupta.
 mlemartien.
-mskoddow.
 riya-misra-1.
 hentonjd.
 NavyasreeBolleboyana.
