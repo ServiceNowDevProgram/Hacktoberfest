@@ -216,6 +216,7 @@ sa173199.
 sandeepd26.
 trupti65.
 HackoDev1530.
+mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
 SumithThota.
 srishtinsaan.
@@ -230,9 +231,9 @@ SwapnaAbburi.
 TejasSNOW.
 zstromsodt.
 404paige.
-Abhishek2634.
 
 **Other contributors:**
+Abhishek2634.
 AdityaBala2026.
 AyanAhmedKhan.
 CODEBRAKERBOYY.
@@ -244,7 +245,6 @@ SinghCod3r.
 alkaChaudhary73.
 bhavishyavelaga.
 dvn-lazywinner.
-mandeepkaran.
 mitkarisunil.
 MYaswanth28.
 akshaydnetake.
@@ -587,6 +587,7 @@ davidkwhuang.
 JohanDC-1999.
 
 **Top 25% contributors:**
+mandeepkaran.
 zahidask.
 DynamiteC.
 shakeel-sheikh.
@@ -612,7 +613,6 @@ unbirthdays.
 GokulkumarV.
 hoederath.
 isaac-vicentini.
-mandeepkaran.
 mioyokohama.
 mjonssonme.
 nthumma.
