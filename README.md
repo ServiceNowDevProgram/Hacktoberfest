@@ -200,7 +200,6 @@ maheshkhatal27.
 **Top 50% contributors:**
 Rajat32-op.
 RaviGaurav007.
-HackoDev1530.
 ewatch.
 shreyawani98.
 Sriharsha19.
@@ -214,6 +213,7 @@ Noah-Drew.
 sa173199.
 sandeepd26.
 trupti65.
+HackoDev1530.
 sndevs-slacker-issue-reporter[bot].
 mskoddow.
 srishtinsaan.
@@ -721,10 +721,9 @@ TechnologistTim.
 anguspalmer.
 Badal2k23.
 bhavyajain511.
-HackoDev1530.
+naveenraw25.
 
 **Top 50% contributors:**
-naveenraw25.
 NBaker137.
 patan116.
 Rajat32-op.
@@ -763,6 +762,7 @@ DChotaliya.
 durgeshservicenow-hub.
 ersureshbe.
 GHSayak25.
+HackoDev1530.
 LucasRocha2308.
 Mahesh-Krishnan1.
 maialithar.
