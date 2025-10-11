@@ -214,9 +214,9 @@ sa173199.
 sandeepd26.
 trupti65.
 HackoDev1530.
+mskoddow.
 sndevs-slacker-issue-reporter[bot].
 SumithThota.
-mskoddow.
 srishtinsaan.
 chelming.
 DanielMadsenDK.
@@ -534,9 +534,9 @@ shivamTodwal.
 iar42.
 lakshmikanthgupta.
 mlemartien.
+mskoddow.
 riya-misra-1.
 hentonjd.
-mskoddow.
 NavyasreeBolleboyana.
 23Thom.
 aatrey882.
