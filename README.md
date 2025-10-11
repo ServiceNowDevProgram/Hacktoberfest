@@ -169,6 +169,7 @@ brenduh.
 **Top 25% contributors:**
 gowdah.
 ivan-betev.
+sumanthdosapati.
 bird-03.
 Paulsylo25.
 SrijanPatwa.
@@ -177,7 +178,6 @@ animeshdasgit.
 debendu-das.
 GokulkumarV.
 spnegi.
-sumanthdosapati.
 Jaspalsinghchot.
 chetnadev.
 Vishnu-rvk.
@@ -461,9 +461,9 @@ MGOPW.
 vhudlikar.
 WillemZeiler.
 raghavs046.
+sumanthdosapati.
 DavidArthurCole.
 Praiseto.
-sumanthdosapati.
 rohi-v.
 ashoo-jindal.
 koratalas.
