@@ -170,8 +170,8 @@ anveshmupparaju.
 **Top 25% contributors:**
 brenduh.
 JohanDC-1999.
-gowdah.
 bird-03.
+gowdah.
 Paulsylo25.
 SrijanPatwa.
 iamshankha.
@@ -201,7 +201,6 @@ Rajat32-op.
 
 **Top 50% contributors:**
 RaviGaurav007.
-mandeepkaran.
 ewatch.
 shreyawani98.
 AnandMahajan2799.
@@ -217,6 +216,7 @@ sa173199.
 sandeepd26.
 trupti65.
 HackoDev1530.
+mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
 SumithThota.
 srishtinsaan.
@@ -457,8 +457,8 @@ sandeepd26.
 kmxo.
 johndahl-now.
 MartinStoyanoff.
-eriemer1.
 bird-03.
+eriemer1.
 Jaspalsinghchot.
 paigesndev.
 sumanthdosapati.
@@ -568,7 +568,6 @@ sheikhafsarzap.
 sravankadudhuri.
 jonahpiascik.
 kylburns89.
-mandeepkaran.
 MYaswanth28.
 bhavyaa30.
 danr2c2.
@@ -585,9 +584,10 @@ stwinkle.
 Charanjet.
 phr-nk.
 davidkwhuang.
+JohanDC-1999.
 
 **Top 25% contributors:**
-JohanDC-1999.
+mandeepkaran.
 zahidask.
 DynamiteC.
 shakeel-sheikh.
