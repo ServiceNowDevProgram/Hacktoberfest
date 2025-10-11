@@ -144,10 +144,10 @@ vhudlikar.
 rohi-v.
 Rampriya-S.
 am-shakeel.
+shivamvish160.
 wiz0floyd.
 snamjosh.
 SapphicFire.
-shivamvish160.
 sivamuruganandam-coder.
 
 **Top 10% contributors:**
@@ -487,11 +487,11 @@ aykmrgit.
 anveshmupparaju.
 hrobarikt.
 Chraiseto.
+shivamvish160.
 TRIGGEREDcoder.
 SrijanPatwa.
 smartcarleen.
 at8807602.
-shivamvish160.
 debendu-das.
 sndevs-slacker-issue-reporter[bot].
 Mexiprince.
