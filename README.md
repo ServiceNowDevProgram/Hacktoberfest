@@ -225,20 +225,20 @@ DanielMadsenDK.
 Danmax.
 Gorav-Sharma.
 Jmyekn1123.
+LakshmiChaitanyaReddy.
 mitalizope.
 pankajrj.
 SwapnaAbburi.
 TejasSNOW.
 zstromsodt.
-404paige.
 
 **Other contributors:**
+404paige.
 Abhishek2634.
 AdityaBala2026.
 AyanAhmedKhan.
 CODEBRAKERBOYY.
 harshal045.
-LakshmiChaitanyaReddy.
 PranavTamada.
 Siddhartha03D.
 SinghCod3r.
@@ -814,6 +814,7 @@ cschmidt82.
 Gorav-Sharma.
 Jaskaran-Techno.
 Jmyekn1123.
+LakshmiChaitanyaReddy.
 mitalizope.
 nvprav.
 pankajrj.
@@ -865,7 +866,6 @@ jordanrogus.
 Juusoee.
 KartikeSingh.
 kaushalbharade.
-LakshmiChaitanyaReddy.
 lakshyatyagi24.
 loudigi.
 ManobhavSachan.
