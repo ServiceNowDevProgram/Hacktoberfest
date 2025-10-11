@@ -196,9 +196,9 @@ ChandBasha-code.
 JorgeGRC.
 koratalas.
 maheshkhatal27.
+Rajat32-op.
 
 **Top 50% contributors:**
-Rajat32-op.
 RaviGaurav007.
 ewatch.
 shreyawani98.
@@ -228,9 +228,9 @@ SwapnaAbburi.
 TejasSNOW.
 zstromsodt.
 404paige.
+Abhishek2634.
 
 **Other contributors:**
-Abhishek2634.
 AdityaBala2026.
 AyanAhmedKhan.
 CODEBRAKERBOYY.
@@ -371,6 +371,7 @@ navyamasapu98.
 nikhilkumar76.
 niladriAdhikari.
 No-gui.
+nvprav.
 patfedigan.
 poojithavalli22.
 Prajwalwho.
@@ -806,6 +807,7 @@ Gorav-Sharma.
 Jaskaran-Techno.
 Jmyekn1123.
 mitalizope.
+nvprav.
 pankajrj.
 RagaChitraMankala.
 ShakthiSn.
@@ -865,7 +867,6 @@ moshjahan.
 msdfib.
 mwchiao.
 NilotpalMaitra.
-nvprav.
 pavankumar-4.
 
 **Other contributors:**
