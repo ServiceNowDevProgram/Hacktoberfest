@@ -215,6 +215,7 @@ sandeepd26.
 trupti65.
 HackoDev1530.
 sndevs-slacker-issue-reporter[bot].
+SumithThota.
 mskoddow.
 srishtinsaan.
 chelming.
@@ -228,9 +229,9 @@ SwapnaAbburi.
 TejasSNOW.
 zstromsodt.
 404paige.
-Abhishek2634.
 
 **Other contributors:**
+Abhishek2634.
 AdityaBala2026.
 AyanAhmedKhan.
 CODEBRAKERBOYY.
@@ -243,7 +244,6 @@ alkaChaudhary73.
 bhavishyavelaga.
 dvn-lazywinner.
 mitkarisunil.
-SumithThota.
 akshaydnetake.
 prataps135.
 Anudhyan.
@@ -782,6 +782,7 @@ trupti65.
 ujjwalprem.
 zailugao.
 mockspeed.
+SumithThota.
 TheShashank13.
 cmanik.
 pranavkhurana2011.
@@ -867,9 +868,9 @@ moshjahan.
 msdfib.
 mwchiao.
 NilotpalMaitra.
-pavankumar-4.
 
 **Other contributors:**
+pavankumar-4.
 physi.
 PranavTamada.
 pratyushmp.
@@ -905,7 +906,6 @@ jon-lind-sn.
 kalyan120694.
 manoj424.
 mitkarisunil.
-SumithThota.
 abdgeio.
 abhishekchavan-git.
 abiramiyohesh.
