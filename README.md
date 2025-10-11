@@ -201,6 +201,7 @@ Rajat32-op.
 
 **Top 50% contributors:**
 RaviGaurav007.
+mandeepkaran.
 ewatch.
 shreyawani98.
 AnandMahajan2799.
@@ -216,7 +217,6 @@ sa173199.
 sandeepd26.
 trupti65.
 HackoDev1530.
-mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
 SumithThota.
 srishtinsaan.
@@ -568,6 +568,7 @@ sheikhafsarzap.
 sravankadudhuri.
 jonahpiascik.
 kylburns89.
+mandeepkaran.
 MYaswanth28.
 bhavyaa30.
 danr2c2.
@@ -584,10 +585,9 @@ stwinkle.
 Charanjet.
 phr-nk.
 davidkwhuang.
-JohanDC-1999.
 
 **Top 25% contributors:**
-mandeepkaran.
+JohanDC-1999.
 zahidask.
 DynamiteC.
 shakeel-sheikh.
