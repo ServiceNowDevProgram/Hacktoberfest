@@ -185,6 +185,7 @@ chetnadev.
 DhruvBhatheja.
 Sriharsha19.
 bkb68.
+koratalas.
 stefanintech.
 Vishnu-rvk.
 1shabby.
@@ -195,7 +196,6 @@ ShuGitHub2022.
 becksbyte.
 lauri457.
 JorgeGRC.
-koratalas.
 maheshkhatal27.
 Rajat32-op.
 
@@ -471,8 +471,8 @@ raghavs046.
 DavidArthurCole.
 Praiseto.
 rohi-v.
-ashoo-jindal.
 koratalas.
+ashoo-jindal.
 Paulsylo25.
 amigujarathi.
 gowdah.
