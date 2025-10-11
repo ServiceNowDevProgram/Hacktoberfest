@@ -230,9 +230,9 @@ TejasSNOW.
 zstromsodt.
 404paige.
 Abhishek2634.
+AdityaBala2026.
 
 **Other contributors:**
-AdityaBala2026.
 AyanAhmedKhan.
 CODEBRAKERBOYY.
 harshal045.
@@ -243,6 +243,7 @@ SinghCod3r.
 alkaChaudhary73.
 bhavishyavelaga.
 dvn-lazywinner.
+mandeepkaran.
 mitkarisunil.
 MYaswanth28.
 akshaydnetake.
@@ -611,6 +612,7 @@ unbirthdays.
 GokulkumarV.
 hoederath.
 isaac-vicentini.
+mandeepkaran.
 mioyokohama.
 mjonssonme.
 nthumma.
@@ -643,7 +645,6 @@ domuserk.
 HarneetSital.
 jacebenson.
 katsiarynasoshyna.
-mandeepkaran.
 mebeingmustaq.
 ReginaldFawcett.
 Saileshlanka.
