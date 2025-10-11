@@ -152,9 +152,9 @@ sivamuruganandam-coder.
 
 **Top 10% contributors:**
 Atul-LNG.
+sumanthdosapati.
 jiteshmalik.
 NavyasreeBolleboyana.
-sumanthdosapati.
 niamccash.
 JonSandoval.
 anurampalli.
@@ -460,9 +460,9 @@ bird-03.
 Jaspalsinghchot.
 paigesndev.
 ynr-ram.
+sumanthdosapati.
 ishaanshoor.
 MGOPW.
-sumanthdosapati.
 vhudlikar.
 WillemZeiler.
 raghavs046.
