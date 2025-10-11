@@ -169,6 +169,7 @@ anveshmupparaju.
 
 **Top 25% contributors:**
 brenduh.
+JohanDC-1999.
 gowdah.
 bird-03.
 Paulsylo25.
@@ -177,7 +178,6 @@ iamshankha.
 animeshdasgit.
 ChandBasha-code.
 debendu-das.
-JohanDC-1999.
 GokulkumarV.
 spnegi.
 Jaspalsinghchot.
@@ -583,9 +583,10 @@ stwinkle.
 Charanjet.
 phr-nk.
 davidkwhuang.
-zahidask.
+JohanDC-1999.
 
 **Top 25% contributors:**
+zahidask.
 DynamiteC.
 shakeel-sheikh.
 vjtknn.
@@ -610,7 +611,6 @@ unbirthdays.
 GokulkumarV.
 hoederath.
 isaac-vicentini.
-JohanDC-1999.
 mioyokohama.
 mjonssonme.
 nthumma.
