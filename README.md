@@ -247,7 +247,6 @@ harshal045.
 PranavTamada.
 Siddhartha03D.
 SinghCod3r.
-swatii23.
 alkaChaudhary73.
 bhavishyavelaga.
 mitkarisunil.
@@ -429,6 +428,7 @@ Southpaw09.
 SUMEDHFORTES.
 Sumit6307.
 SurajK6437.
+swatii23.
 swatimishracapg.
 Taranpreet1407.
 TarunTheDev.
@@ -910,7 +910,6 @@ SinghCod3r.
 speedy18.
 Sravanik12.
 Subhraneel77.
-swatii23.
 TheRashRash.
 thomasvogh.
 tomlozano.
@@ -1799,6 +1798,7 @@ suryakantshoor.
 sushil-now.
 SwarnadeepNandy.
 swaroop-surampalli.
+swatii23.
 swatimishracapg.
 syntax-syndicate.
 syprien.
