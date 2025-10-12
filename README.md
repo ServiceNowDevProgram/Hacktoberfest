@@ -153,8 +153,8 @@ sivamuruganandam-coder.
 **Top 10% contributors:**
 sumanthdosapati.
 koratalas.
-Atul-LNG.
 ivan-betev.
+Atul-LNG.
 NavyasreeBolleboyana.
 niamccash.
 jiteshmalik.
@@ -477,8 +477,8 @@ Paulsylo25.
 DavidArthurCole.
 Praiseto.
 rohi-v.
-ashoo-jindal.
 ivan-betev.
+ashoo-jindal.
 amigujarathi.
 gowdah.
 RahmanM.
