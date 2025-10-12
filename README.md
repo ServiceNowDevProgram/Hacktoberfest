@@ -244,6 +244,7 @@ AdityaBala2026.
 AyanAhmedKhan.
 CODEBRAKERBOYY.
 harshal045.
+NirajDN.
 PranavTamada.
 selvarun-umass.
 Siddhartha03D.
@@ -380,7 +381,6 @@ natemac47.
 navyamasapu98.
 nikhilkumar76.
 niladriAdhikari.
-NirajDN.
 No-gui.
 nvprav.
 patfedigan.
@@ -889,6 +889,7 @@ mwchiao.
 
 **Other contributors:**
 NilotpalMaitra.
+NirajDN.
 pavankumar-4.
 physi.
 PranavTamada.
@@ -1595,7 +1596,6 @@ Nikil-D-Gr8.
 NikkiJWebDevOps.
 nikkvijay.
 niladriAdhikari.
-NirajDN.
 NiteeshL.
 nitya2701.
 No-gui.
