@@ -223,6 +223,7 @@ sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
 abhix2112.
 Rajasree2004.
+ahmadibitoye.
 chelming.
 DanielMadsenDK.
 Danmax.
@@ -232,9 +233,9 @@ LakshmiChaitanyaReddy.
 pankajrj.
 SwapnaAbburi.
 TejasSNOW.
-zstromsodt.
 
 **Other contributors:**
+zstromsodt.
 404paige.
 Abhishek2634.
 AdityaBala2026.
@@ -258,7 +259,6 @@ phegel.
 Siri-007.
 Uma20-dev.
 abiramiyohesh.
-ahmadibitoye.
 Akash-44.
 anushka157.
 Awesomefp.
@@ -814,6 +814,7 @@ pviglianti.
 Rajasree2004.
 Shreedevisnow.
 sisco0.
+ahmadibitoye.
 ashaw7697.
 Beeram12.
 crooks-s.
@@ -880,9 +881,9 @@ mikeroosa.
 moshjahan.
 msdfib.
 mwchiao.
-NilotpalMaitra.
 
 **Other contributors:**
+NilotpalMaitra.
 pavankumar-4.
 physi.
 PranavTamada.
@@ -978,7 +979,6 @@ abhishek-kumar-91.
 AdibaNaushad.
 ADITYATIWARI342005.
 Ahkonn.
-ahmadibitoye.
 Akash-44.
 andersonvale78.
 ANIKETSURWASE.
