@@ -188,6 +188,7 @@ Jaspalsinghchot.
 bkb68.
 Emmynem.
 DhruvBhatheja.
+maheshkhatal27.
 stefanintech.
 SumithThota.
 Vishnu-rvk.
@@ -198,7 +199,6 @@ ShuGitHub2022.
 abhix2112.
 becksbyte.
 lauri457.
-maheshkhatal27.
 
 **Top 50% contributors:**
 AnandMahajan2799.
@@ -485,11 +485,11 @@ ivan-betev.
 Praiseto.
 ashoo-jindal.
 amigujarathi.
+maheshkhatal27.
 Atul-LNG.
 gowdah.
 RahmanM.
 R3J3NT.
-maheshkhatal27.
 ajcooper72.
 jiteshmalik.
 aykmrgit.
