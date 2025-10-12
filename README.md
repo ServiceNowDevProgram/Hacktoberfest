@@ -305,6 +305,7 @@ afrith03.
 Akshaykomar890.
 akshim1702.
 alankritijain2001-dot.
+AmalBajpayee09.
 amandasiriwardane.
 andrey-verevkin.
 AniketSonje.
@@ -737,9 +738,9 @@ TechnologistTim.
 anguspalmer.
 Badal2k23.
 bhavyajain511.
+GHSayak25.
 
 **Top 50% contributors:**
-GHSayak25.
 naveenraw25.
 NBaker137.
 patan116.
@@ -883,9 +884,9 @@ mikeroosa.
 moshjahan.
 msdfib.
 mwchiao.
+NilotpalMaitra.
 
 **Other contributors:**
-NilotpalMaitra.
 pavankumar-4.
 physi.
 PranavTamada.
@@ -1144,6 +1145,7 @@ alexcasper.
 aliceapps.
 allenmxh.
 AlphieKiu.
+AmalBajpayee09.
 aman-kumar-004.
 amandasiriwardane.
 amapal.
