@@ -198,11 +198,11 @@ Thrizvi.
 ShuGitHub2022.
 becksbyte.
 lauri457.
-AnandMahajan2799.
+maheshkhatal27.
 
 **Top 50% contributors:**
+AnandMahajan2799.
 JorgeGRC.
-maheshkhatal27.
 Rajat32-op.
 RaviGaurav007.
 dvn-lazywinner.
@@ -487,8 +487,8 @@ gowdah.
 RahmanM.
 Atul-LNG.
 R3J3NT.
-ajcooper72.
 maheshkhatal27.
+ajcooper72.
 jiteshmalik.
 aykmrgit.
 Mexiprince.
