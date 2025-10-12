@@ -205,6 +205,7 @@ JorgeGRC.
 maheshkhatal27.
 Rajat32-op.
 RaviGaurav007.
+dvn-lazywinner.
 ewatch.
 shreyawani98.
 anjimuvva.
@@ -216,7 +217,6 @@ Noah-Drew.
 sa173199.
 sandeepd26.
 trupti65.
-dvn-lazywinner.
 HackoDev1530.
 mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
@@ -598,6 +598,7 @@ davidkwhuang.
 JohanDC-1999.
 mandeepkaran.
 zahidask.
+dvn-lazywinner.
 DynamiteC.
 shakeel-sheikh.
 vjtknn.
@@ -627,7 +628,6 @@ mjonssonme.
 nthumma.
 templetontsai.
 b1naryst0rm.
-dvn-lazywinner.
 namrataghorpade.
 sdgrube2.
 wendy-ha18.
