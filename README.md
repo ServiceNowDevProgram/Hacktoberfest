@@ -217,7 +217,6 @@ Noah-Drew.
 sa173199.
 sandeepd26.
 trupti65.
-dvn-lazywinner.
 HackoDev1530.
 mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
@@ -231,9 +230,9 @@ Danmax.
 Gorav-Sharma.
 Jmyekn1123.
 LakshmiChaitanyaReddy.
+mitalizope.
 
 **Other contributors:**
-mitalizope.
 pankajrj.
 SwapnaAbburi.
 TejasSNOW.
@@ -249,6 +248,7 @@ Siddhartha03D.
 SinghCod3r.
 alkaChaudhary73.
 bhavishyavelaga.
+dvn-lazywinner.
 mitkarisunil.
 MYaswanth28.
 akshaydnetake.
@@ -627,7 +627,6 @@ mjonssonme.
 nthumma.
 templetontsai.
 b1naryst0rm.
-dvn-lazywinner.
 namrataghorpade.
 sdgrube2.
 wendy-ha18.
@@ -664,6 +663,7 @@ thorn91.
 Thrizvi.
 vamsi0777.
 DhruvBhatheja.
+dvn-lazywinner.
 GHSayak25.
 HarshLMP870.
 Himanshu-skb-oo7.
