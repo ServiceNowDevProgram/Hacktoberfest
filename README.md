@@ -143,8 +143,8 @@ raghavs046.
 vhudlikar.
 rohi-v.
 Rampriya-S.
-am-shakeel.
 SapphicFire.
+am-shakeel.
 snamjosh.
 shivamvish160.
 wiz0floyd.
@@ -238,7 +238,6 @@ zstromsodt.
 404paige.
 Abhishek2634.
 AdityaBala2026.
-anirudh7065.
 AyanAhmedKhan.
 CODEBRAKERBOYY.
 harshal045.
@@ -309,6 +308,7 @@ amandasiriwardane.
 andrey-verevkin.
 AniketSonje.
 anilpal678.
+anirudh7065.
 Anjali655.
 Anubhav-developr.
 Anurag-Kar-240101094.
@@ -839,7 +839,6 @@ abhay625.
 Abhishek2634.
 akipatil16.
 ananthsridhar.
-anirudh7065.
 ankitshaw625.
 anurags10.
 Arpan-InGen.
@@ -881,9 +880,9 @@ mikeroosa.
 moshjahan.
 msdfib.
 mwchiao.
+NilotpalMaitra.
 
 **Other contributors:**
-NilotpalMaitra.
 pavankumar-4.
 physi.
 PranavTamada.
@@ -1158,6 +1157,7 @@ andyops.
 aneesh-pathanadathil.
 AniketSonje.
 anilpal678.
+anirudh7065.
 Anjali655.
 Anks-26.
 AnnaGould.
