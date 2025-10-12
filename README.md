@@ -232,9 +232,9 @@ pankajrj.
 Rajasree2004.
 SwapnaAbburi.
 TejasSNOW.
+zstromsodt.
 
 **Other contributors:**
-zstromsodt.
 404paige.
 Abhishek2634.
 AdityaBala2026.
@@ -304,6 +304,7 @@ afrith03.
 Akshaykomar890.
 akshim1702.
 alankritijain2001-dot.
+amandasiriwardane.
 andrey-verevkin.
 AniketSonje.
 anilpal678.
@@ -588,9 +589,9 @@ Charanjet.
 phr-nk.
 davidkwhuang.
 JohanDC-1999.
+mandeepkaran.
 
 **Top 25% contributors:**
-mandeepkaran.
 zahidask.
 DynamiteC.
 shakeel-sheikh.
@@ -1141,6 +1142,7 @@ aliceapps.
 allenmxh.
 AlphieKiu.
 aman-kumar-004.
+amandasiriwardane.
 amapal.
 ambsoerensen.
 amdhavalikar.
