@@ -160,15 +160,15 @@ niamccash.
 jiteshmalik.
 JonSandoval.
 Paulsylo25.
+Mexiprince.
 anurampalli.
 juhikumarimodi6.
 naveensnow.
 Soumyadeep10.
 kmxo.
-bhavyaa30.
 
 **Top 25% contributors:**
-Mexiprince.
+bhavyaa30.
 bird-03.
 ChandBasha-code.
 anveshmupparaju.
@@ -493,12 +493,12 @@ hrobarikt.
 Chraiseto.
 shivamvish160.
 TRIGGEREDcoder.
+Mexiprince.
 SrijanPatwa.
 smartcarleen.
 at8807602.
 debendu-das.
 sndevs-slacker-issue-reporter[bot].
-Mexiprince.
 urspvs.
 404paige.
 ankitshu.
