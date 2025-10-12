@@ -189,6 +189,7 @@ Emmynem.
 DhruvBhatheja.
 bkb68.
 stefanintech.
+SumithThota.
 Vishnu-rvk.
 1shabby.
 at8807602.
@@ -198,7 +199,6 @@ becksbyte.
 lauri457.
 JorgeGRC.
 maheshkhatal27.
-SumithThota.
 
 **Top 50% contributors:**
 Rajat32-op.
@@ -697,6 +697,7 @@ harisnad.
 KedarisettiSreeVamsi.
 NowRishi.
 riya-vermaa.
+SumithThota.
 99Saurabh19.
 allenandreas.
 AnithaA09.
@@ -730,7 +731,6 @@ ChecksumFailed.
 markroethof.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
-SumithThota.
 TechnologistTim.
 anguspalmer.
 Badal2k23.
