@@ -201,6 +201,7 @@ JorgeGRC.
 maheshkhatal27.
 
 **Top 50% contributors:**
+GHSayak25.
 Rajat32-op.
 RaviGaurav007.
 ewatch.
@@ -211,7 +212,6 @@ KrishChothani.
 mitalizope.
 sumanth1710.
 durgeshservicenow-hub.
-GHSayak25.
 mskoddow.
 Noah-Drew.
 sa173199.
@@ -739,6 +739,7 @@ Badal2k23.
 bhavyajain511.
 
 **Top 50% contributors:**
+GHSayak25.
 naveenraw25.
 NBaker137.
 patan116.
@@ -777,7 +778,6 @@ Abbas-57.
 DChotaliya.
 durgeshservicenow-hub.
 ersureshbe.
-GHSayak25.
 HackoDev1530.
 LucasRocha2308.
 Mahesh-Krishnan1.
