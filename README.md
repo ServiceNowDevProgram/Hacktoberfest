@@ -224,6 +224,7 @@ srishtinsaan.
 abhix2112.
 Rajasree2004.
 ahmadibitoye.
+Awesomefp.
 chelming.
 DanielMadsenDK.
 Danmax.
@@ -232,9 +233,9 @@ Jmyekn1123.
 LakshmiChaitanyaReddy.
 pankajrj.
 SwapnaAbburi.
-TejasSNOW.
 
 **Other contributors:**
+TejasSNOW.
 zstromsodt.
 404paige.
 Abhishek2634.
@@ -261,7 +262,6 @@ Uma20-dev.
 abiramiyohesh.
 Akash-44.
 anushka157.
-Awesomefp.
 aykmrgit.
 cjuleff.
 D-GAJ.
@@ -816,6 +816,7 @@ Shreedevisnow.
 sisco0.
 ahmadibitoye.
 ashaw7697.
+Awesomefp.
 Beeram12.
 crooks-s.
 cschmidt82.
@@ -880,9 +881,9 @@ mevops.
 mikeroosa.
 moshjahan.
 msdfib.
-mwchiao.
 
 **Other contributors:**
+mwchiao.
 NilotpalMaitra.
 pavankumar-4.
 physi.
@@ -988,7 +989,6 @@ anushka157.
 Anusrita-Karmakar.
 APraestegaard.
 artemis15.
-Awesomefp.
 ayrotideysarkar.
 BadalKhojare.
 BeniRaja.
