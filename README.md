@@ -198,11 +198,11 @@ becksbyte.
 lauri457.
 JorgeGRC.
 maheshkhatal27.
-Rajat32-op.
+SumithThota.
 
 **Top 50% contributors:**
+Rajat32-op.
 RaviGaurav007.
-SumithThota.
 ewatch.
 shreyawani98.
 AnandMahajan2799.
@@ -730,20 +730,20 @@ ChecksumFailed.
 markroethof.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
+SumithThota.
 TechnologistTim.
 anguspalmer.
 Badal2k23.
 bhavyajain511.
-naveenraw25.
 
 **Top 50% contributors:**
+naveenraw25.
 NBaker137.
 patan116.
 Rajat32-op.
 RaviGaurav007.
 revantKulkarni.
 trade12.
-SumithThota.
 ttoter.
 AlphaEagle.
 JWITSM.
