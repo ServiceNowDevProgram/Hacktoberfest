@@ -199,9 +199,9 @@ ShuGitHub2022.
 abhix2112.
 becksbyte.
 lauri457.
+AnandMahajan2799.
 
 **Top 50% contributors:**
-AnandMahajan2799.
 JorgeGRC.
 GHSayak25.
 Rajat32-op.
@@ -232,9 +232,9 @@ Gorav-Sharma.
 Jmyekn1123.
 LakshmiChaitanyaReddy.
 mitalizope.
+pankajrj.
 
 **Other contributors:**
-pankajrj.
 SwapnaAbburi.
 TejasSNOW.
 zstromsodt.
@@ -328,6 +328,7 @@ chaitaliKundu.
 chiemeriechibuzor.
 ChiragBotkawar.
 DavidMarcial.
+davidphilpott01.
 debugwithshubham.
 deepanshu4688.
 develo-oper-piyush.
@@ -1279,6 +1280,7 @@ davewburns.
 daviddw2022.
 davidehira.
 davidjcarey.
+davidphilpott01.
 dchavez434.
 debugwithshubham.
 deepanshu4688.
