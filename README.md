@@ -231,9 +231,9 @@ Danmax.
 Gorav-Sharma.
 Jmyekn1123.
 LakshmiChaitanyaReddy.
+mitalizope.
 
 **Other contributors:**
-mitalizope.
 pankajrj.
 SwapnaAbburi.
 TejasSNOW.
@@ -380,6 +380,7 @@ natemac47.
 navyamasapu98.
 nikhilkumar76.
 niladriAdhikari.
+NirajDN.
 No-gui.
 nvprav.
 patfedigan.
@@ -1594,6 +1595,7 @@ Nikil-D-Gr8.
 NikkiJWebDevOps.
 nikkvijay.
 niladriAdhikari.
+NirajDN.
 NiteeshL.
 nitya2701.
 No-gui.
