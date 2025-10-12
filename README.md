@@ -209,7 +209,6 @@ ewatch.
 shreyawani98.
 anjimuvva.
 KrishChothani.
-mitalizope.
 sumanth1710.
 durgeshservicenow-hub.
 mskoddow.
@@ -230,6 +229,7 @@ Danmax.
 Gorav-Sharma.
 Jmyekn1123.
 LakshmiChaitanyaReddy.
+mitalizope.
 pankajrj.
 
 **Other contributors:**
@@ -768,7 +768,6 @@ KrishChothani.
 Ladirinia.
 miracc.
 MiroslawBuszek.
-mitalizope.
 osc99.
 pandeysumit-now.
 patrickpaterlini.
@@ -826,6 +825,7 @@ Gorav-Sharma.
 Jaskaran-Techno.
 Jmyekn1123.
 LakshmiChaitanyaReddy.
+mitalizope.
 nvprav.
 pankajrj.
 RagaChitraMankala.
