@@ -202,6 +202,7 @@ Rajat32-op.
 
 **Top 50% contributors:**
 RaviGaurav007.
+SumithThota.
 ewatch.
 shreyawani98.
 AnandMahajan2799.
@@ -218,7 +219,6 @@ trupti65.
 HackoDev1530.
 mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
-SumithThota.
 srishtinsaan.
 abhix2112.
 chelming.
@@ -743,6 +743,7 @@ Rajat32-op.
 RaviGaurav007.
 revantKulkarni.
 trade12.
+SumithThota.
 ttoter.
 AlphaEagle.
 JWITSM.
@@ -793,7 +794,6 @@ trupti65.
 ujjwalprem.
 zailugao.
 mockspeed.
-SumithThota.
 TheShashank13.
 cmanik.
 pranavkhurana2011.
