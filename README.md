@@ -215,7 +215,6 @@ mskoddow.
 Noah-Drew.
 sa173199.
 sandeepd26.
-selvarun-umass.
 trupti65.
 dvn-lazywinner.
 HackoDev1530.
@@ -231,9 +230,9 @@ DanielMadsenDK.
 Danmax.
 Gorav-Sharma.
 Jmyekn1123.
+LakshmiChaitanyaReddy.
 
 **Other contributors:**
-LakshmiChaitanyaReddy.
 mitalizope.
 pankajrj.
 SwapnaAbburi.
@@ -246,6 +245,7 @@ AyanAhmedKhan.
 CODEBRAKERBOYY.
 harshal045.
 PranavTamada.
+selvarun-umass.
 Siddhartha03D.
 SinghCod3r.
 alkaChaudhary73.
@@ -516,12 +516,11 @@ ronaldkarim.
 sivamuruganandam-coder.
 azeezgaa.
 deepak-64742.
-selvarun-umass.
 rafzk.
 anillande90.
+alkaChaudhary73.
 
 **Top 10% contributors:**
-alkaChaudhary73.
 ayleeandersen.
 Abhishekchowdarapu.
 alikuttyka.
@@ -532,6 +531,7 @@ Vishnu-rvk.
 YTejaswini18.
 BadalHub.
 MrChrisE.
+selvarun-umass.
 vandna07.
 captainbraddles.
 abhrajyotikanrar.
