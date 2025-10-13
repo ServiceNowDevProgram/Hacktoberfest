@@ -244,6 +244,7 @@ zstromsodt.
 Abhishek2634.
 AdityaBala2026.
 AyanAhmedKhan.
+chaitanyalal18.
 CODEBRAKERBOYY.
 harshal045.
 PranavTamada.
@@ -325,7 +326,6 @@ Bharathkogilamane274.
 bhavani-konda.
 brunoasantos.
 chaitaliKundu.
-chaitanyalal18.
 chiemeriechibuzor.
 ChiragBotkawar.
 DavidMarcial.
@@ -860,6 +860,7 @@ Avinash238.
 AyanAhmedKhan.
 bhavishyavelaga.
 brichards99.
+chaitanyalal18.
 ChndrshP.
 Chouffy.
 CODEBRAKERBOYY.
@@ -893,9 +894,9 @@ moshjahan.
 msdfib.
 mwchiao.
 NilotpalMaitra.
-pavankumar-4.
 
 **Other contributors:**
+pavankumar-4.
 physi.
 PranavTamada.
 pratyushmp.
@@ -1239,7 +1240,6 @@ callmeishmael-sn.
 celsiogil.
 chaitanyagummadavelly.
 ChaitanyaKiran14.
-chaitanyalal18.
 chalamalamahesh.
 chandumishra21.
 CharanjeetSi.
