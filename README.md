@@ -178,7 +178,6 @@ chetnadev.
 JohanDC-1999.
 gowdah.
 SrijanPatwa.
-Thrizvi.
 Shashank102002.
 iamshankha.
 animeshdasgit.
@@ -187,6 +186,7 @@ Emmynem.
 GokulkumarV.
 spnegi.
 Jaspalsinghchot.
+Thrizvi.
 lauri457.
 bkb68.
 DhruvBhatheja.
@@ -582,7 +582,6 @@ sravankadudhuri.
 jonahpiascik.
 kylburns89.
 MYaswanth28.
-Thrizvi.
 bhavyaa30.
 danr2c2.
 Litwilly.
@@ -598,11 +597,12 @@ Sriharsha19.
 stwinkle.
 Charanjet.
 phr-nk.
+davidkwhuang.
 
 **Top 25% contributors:**
-davidkwhuang.
 JohanDC-1999.
 mandeepkaran.
+Thrizvi.
 zahidask.
 dvn-lazywinner.
 DynamiteC.
