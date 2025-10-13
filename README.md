@@ -162,9 +162,9 @@ niamccash.
 jiteshmalik.
 JonSandoval.
 Paulsylo25.
+bird-03.
 kmxo.
 anurampalli.
-bird-03.
 ChandBasha-code.
 juhikumarimodi6.
 
@@ -191,7 +191,6 @@ DhruvBhatheja.
 lauri457.
 maheshkhatal27.
 SumithThota.
-LakshmiChaitanyaReddy.
 stefanintech.
 Vishnu-rvk.
 1shabby.
@@ -200,10 +199,11 @@ Thrizvi.
 ShuGitHub2022.
 abhix2112.
 becksbyte.
+AnandMahajan2799.
 
 **Top 50% contributors:**
-AnandMahajan2799.
 JorgeGRC.
+LakshmiChaitanyaReddy.
 GHSayak25.
 Rajat32-op.
 RaviGaurav007.
@@ -468,8 +468,8 @@ kmohit2809.
 chelming.
 sandeepd26.
 WillemZeiler.
-kmxo.
 bird-03.
+kmxo.
 johndahl-now.
 koratalas.
 MartinStoyanoff.
@@ -706,7 +706,6 @@ goranlundqvist.
 Hamritha0506.
 harisnad.
 KedarisettiSreeVamsi.
-LakshmiChaitanyaReddy.
 NowRishi.
 riya-vermaa.
 99Saurabh19.
@@ -740,6 +739,7 @@ wiresgit.
 yourepicservices.
 AnandMahajan2799.
 ChecksumFailed.
+LakshmiChaitanyaReddy.
 markroethof.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
