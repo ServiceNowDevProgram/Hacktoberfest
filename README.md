@@ -188,10 +188,10 @@ GokulkumarV.
 spnegi.
 maheshkhatal27.
 bkb68.
-dvn-lazywinner.
 DhruvBhatheja.
 lauri457.
 SumithThota.
+dvn-lazywinner.
 stefanintech.
 Vishnu-rvk.
 1shabby.
@@ -200,11 +200,11 @@ Thrizvi.
 abhix2112.
 ShuGitHub2022.
 becksbyte.
-AnandMahajan2799.
+shreyawani98.
 
 **Top 50% contributors:**
+AnandMahajan2799.
 JorgeGRC.
-shreyawani98.
 GHSayak25.
 Rajat32-op.
 RaviGaurav007.
@@ -550,11 +550,11 @@ DanielMadsenDK.
 Danmax.
 PranavBhagat18.
 Irston.
+shreyawani98.
 litwi1rm.
 mak1A4.
 mskoddow.
 shivamTodwal.
-shreyawani98.
 bgrk005.
 iar42.
 lakshmikanthgupta.
@@ -567,7 +567,6 @@ aatrey882.
 salmaniqbal92.
 mohitchauhan-dev.
 mr-swann.
-dvn-lazywinner.
 himanshu7895.
 Munnisona.
 prashantmrshine.
@@ -581,6 +580,7 @@ ovarn.
 QI-XING.
 anurampalli.
 devinvalencia.
+dvn-lazywinner.
 naveensnow.
 pallipoina92.
 sheikhafsarzap.
