@@ -159,6 +159,7 @@ NavyasreeBolleboyana.
 Mexiprince.
 niamccash.
 jiteshmalik.
+Soumyadeep10.
 JonSandoval.
 Paulsylo25.
 kmxo.
@@ -166,10 +167,9 @@ anurampalli.
 bird-03.
 ChandBasha-code.
 juhikumarimodi6.
-naveensnow.
 
 **Top 25% contributors:**
-Soumyadeep10.
+naveensnow.
 bhavyaa30.
 Sriharsha19.
 anveshmupparaju.
@@ -510,12 +510,12 @@ debendu-das.
 sndevs-slacker-issue-reporter[bot].
 urspvs.
 404paige.
+Soumyadeep10.
 ankitshu.
 bkb68.
 spnegi.
 JonSandoval.
 Radhe-Manasa.
-Soumyadeep10.
 stevezero.
 sychi77.
 ronaldkarim.
