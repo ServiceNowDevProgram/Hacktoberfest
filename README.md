@@ -188,6 +188,7 @@ Jaspalsinghchot.
 bkb68.
 Emmynem.
 DhruvBhatheja.
+lauri457.
 maheshkhatal27.
 stefanintech.
 SumithThota.
@@ -198,7 +199,6 @@ Thrizvi.
 ShuGitHub2022.
 abhix2112.
 becksbyte.
-lauri457.
 AnandMahajan2799.
 
 **Top 50% contributors:**
@@ -691,6 +691,7 @@ Harshuu870.
 hrichiksite.
 Iuliak.
 jahnaviT2003.
+lauri457.
 RaunakScarlet.
 Srikanth1306.
 techTrekwithAJ.
@@ -730,7 +731,6 @@ Iamsant.
 jeremyrubio27.
 JorgeGRC.
 kumarinisha378.
-lauri457.
 Sagar-agarwal.
 wiresgit.
 yourepicservices.
