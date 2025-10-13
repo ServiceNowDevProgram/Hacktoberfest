@@ -153,8 +153,8 @@ sivamuruganandam-coder.
 
 **Top 10% contributors:**
 sumanthdosapati.
-koratalas.
 Atul-LNG.
+koratalas.
 Soumyadeep10.
 NavyasreeBolleboyana.
 Mexiprince.
