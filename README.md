@@ -146,9 +146,9 @@ Rampriya-S.
 am-shakeel.
 SapphicFire.
 snamjosh.
+koratalas.
 shivamvish160.
 wiz0floyd.
-koratalas.
 ivan-betev.
 
 **Top 10% contributors:**
@@ -471,9 +471,9 @@ ravichandra1998g.
 chetnadev.
 kmohit2809.
 chelming.
+koratalas.
 sandeepd26.
 WillemZeiler.
-koratalas.
 bird-03.
 kmxo.
 johndahl-now.
