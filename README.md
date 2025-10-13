@@ -211,6 +211,7 @@ ewatch.
 shreyawani98.
 anjimuvva.
 KrishChothani.
+LakshmiChaitanyaReddy.
 sumanth1710.
 bgrk005.
 durgeshservicenow-hub.
@@ -231,7 +232,6 @@ DanielMadsenDK.
 Danmax.
 Gorav-Sharma.
 Jmyekn1123.
-LakshmiChaitanyaReddy.
 mitalizope.
 
 **Other contributors:**
@@ -771,6 +771,7 @@ DhanushNehru.
 jesalynrose.
 KrishChothani.
 Ladirinia.
+LakshmiChaitanyaReddy.
 miracc.
 MiroslawBuszek.
 osc99.
@@ -829,7 +830,6 @@ cschmidt82.
 Gorav-Sharma.
 Jaskaran-Techno.
 Jmyekn1123.
-LakshmiChaitanyaReddy.
 mitalizope.
 nvprav.
 pankajrj.
