@@ -188,7 +188,6 @@ spnegi.
 Jaspalsinghchot.
 bkb68.
 DhruvBhatheja.
-Thrizvi.
 lauri457.
 maheshkhatal27.
 SumithThota.
@@ -197,6 +196,7 @@ stefanintech.
 Vishnu-rvk.
 1shabby.
 at8807602.
+Thrizvi.
 ShuGitHub2022.
 abhix2112.
 becksbyte.
@@ -208,8 +208,8 @@ GHSayak25.
 Rajat32-op.
 RaviGaurav007.
 dvn-lazywinner.
-ewatch.
 shreyawani98.
+ewatch.
 anjimuvva.
 KrishChothani.
 sumanth1710.
@@ -557,10 +557,10 @@ mlemartien.
 riya-misra-1.
 hentonjd.
 NavyasreeBolleboyana.
+shreyawani98.
 23Thom.
 aatrey882.
 salmaniqbal92.
-shreyawani98.
 mohitchauhan-dev.
 mr-swann.
 himanshu7895.
@@ -634,7 +634,6 @@ mioyokohama.
 mjonssonme.
 nthumma.
 templetontsai.
-Thrizvi.
 b1naryst0rm.
 namrataghorpade.
 sdgrube2.
@@ -668,6 +667,7 @@ ReginaldFawcett.
 Saileshlanka.
 Southpaw09.
 thorn91.
+Thrizvi.
 vamsi0777.
 DhruvBhatheja.
 HarshLMP870.
