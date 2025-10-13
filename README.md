@@ -414,6 +414,7 @@ ruchirachaubey.
 RudraSathwara.
 Saahil-Kumaar.
 SachinRajakaruna.
+safwanahmadsaffi.
 samikshak-kaulkar-hacktoberfest.
 samikshak-web.
 samrat21saha.
@@ -895,9 +896,9 @@ mevops.
 mikeroosa.
 moshjahan.
 msdfib.
+mwchiao.
 
 **Other contributors:**
-mwchiao.
 NilotpalMaitra.
 pavankumar-4.
 physi.
@@ -1719,6 +1720,7 @@ rwhittaker.
 Saahil-Kumaar.
 saarimshaikh.
 SachinRajakaruna.
+safwanahmadsaffi.
 Sahil1607.
 SainathLRH.
 saipataneni.
