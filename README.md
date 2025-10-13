@@ -201,9 +201,9 @@ abhix2112.
 ShuGitHub2022.
 becksbyte.
 shreyawani98.
+AnandMahajan2799.
 
 **Top 50% contributors:**
-AnandMahajan2799.
 JorgeGRC.
 GHSayak25.
 Rajat32-op.
@@ -235,9 +235,9 @@ Danmax.
 Gorav-Sharma.
 Jmyekn1123.
 mitalizope.
+pankajrj.
 
 **Other contributors:**
-pankajrj.
 SwapnaAbburi.
 TejasSNOW.
 zstromsodt.
@@ -322,6 +322,7 @@ Anubhav-developr.
 Anurag-Kar-240101094.
 Anusrita-Karmakar.
 apatti.
+Aruncr123.
 Aryan-Bhendarkar.
 Ash0807.
 Ayush-216.
@@ -1195,6 +1196,7 @@ AritraSadhu.
 armandhaugerud.
 arostesri.
 artursnusz.
+Aruncr123.
 arwin1516.
 Aryan-Bhendarkar.
 Ash0807.
