@@ -155,11 +155,11 @@ sivamuruganandam-coder.
 koratalas.
 sumanthdosapati.
 Atul-LNG.
+Soumyadeep10.
 NavyasreeBolleboyana.
 Mexiprince.
 niamccash.
 jiteshmalik.
-Soumyadeep10.
 JonSandoval.
 Paulsylo25.
 kmxo.
@@ -505,12 +505,12 @@ shivamvish160.
 TRIGGEREDcoder.
 SrijanPatwa.
 smartcarleen.
+Soumyadeep10.
 at8807602.
 debendu-das.
 sndevs-slacker-issue-reporter[bot].
 urspvs.
 404paige.
-Soumyadeep10.
 ankitshu.
 bkb68.
 spnegi.
