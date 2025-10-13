@@ -237,6 +237,7 @@ mitalizope.
 pankajrj.
 
 **Other contributors:**
+surajnikam111.
 SwapnaAbburi.
 TejasSNOW.
 zstromsodt.
@@ -292,7 +293,6 @@ shivambitanwar-glitch.
 Shweyy123.
 silky-modi22.
 ssejal1508.
-surajnikam111.
 ToosinDada.
 TRIGGEREDcoder.
 uvenkatateja.
@@ -840,6 +840,7 @@ nvprav.
 pankajrj.
 RagaChitraMankala.
 ShakthiSn.
+surajnikam111.
 SwapnaAbburi.
 tejasathalye.
 TejasSNOW.
@@ -893,9 +894,9 @@ mevops.
 mikeroosa.
 moshjahan.
 msdfib.
-mwchiao.
 
 **Other contributors:**
+mwchiao.
 NilotpalMaitra.
 pavankumar-4.
 physi.
@@ -1096,7 +1097,6 @@ ssejal1508.
 sudhanshu-77.
 Sudhanva204.
 SujathaSuj.
-surajnikam111.
 swathinagamahanti.
 TanushreeBorase.
 techLrd.
