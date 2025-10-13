@@ -227,12 +227,12 @@ HackoDev1530.
 mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
+divyajetti9.
 Rajasree2004.
 ahmadibitoye.
 chelming.
 DanielMadsenDK.
 Danmax.
-divyajetti9.
 Gorav-Sharma.
 Jmyekn1123.
 mitalizope.
@@ -822,6 +822,7 @@ abhilash264.
 aftab-mirza.
 Alprez.
 chris-canto-11.
+divyajetti9.
 furquan5.
 harditsingh88.
 NayeemKaka.
@@ -836,7 +837,6 @@ ashaw7697.
 Beeram12.
 crooks-s.
 cschmidt82.
-divyajetti9.
 Gorav-Sharma.
 Jaskaran-Techno.
 Jmyekn1123.
