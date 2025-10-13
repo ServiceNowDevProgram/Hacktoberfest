@@ -304,6 +304,7 @@ abhi10pi.
 abhijeetpatil1818.
 ABHINAVGUPTA02.
 Aditya-1208.
+afislonge.
 afk-Parth.
 afrith03.
 Akshaykomar890.
@@ -751,9 +752,9 @@ TechnologistTim.
 anguspalmer.
 Badal2k23.
 bhavyajain511.
+naveenraw25.
 
 **Top 50% contributors:**
-naveenraw25.
 NBaker137.
 patan116.
 Rajat32-op.
@@ -898,9 +899,9 @@ mevops.
 mikeroosa.
 moshjahan.
 msdfib.
+mwchiao.
 
 **Other contributors:**
-mwchiao.
 NilotpalMaitra.
 pavankumar-4.
 physi.
@@ -1138,6 +1139,7 @@ acdigitalclarity.
 adarshsingh7470.
 Aditya-1208.
 afejzic.
+afislonge.
 afk-Parth.
 afrith03.
 ahamadunnisa-md.
