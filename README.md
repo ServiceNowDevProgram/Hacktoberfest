@@ -324,6 +324,7 @@ Bharathkogilamane274.
 bhavani-konda.
 brunoasantos.
 chaitaliKundu.
+chaitanyalal18.
 chiemeriechibuzor.
 ChiragBotkawar.
 DavidMarcial.
@@ -742,9 +743,9 @@ SNProductOwner.
 TechnologistTim.
 anguspalmer.
 Badal2k23.
+bhavyajain511.
 
 **Top 50% contributors:**
-bhavyajain511.
 GHSayak25.
 naveenraw25.
 NBaker137.
@@ -889,9 +890,9 @@ moshjahan.
 msdfib.
 mwchiao.
 NilotpalMaitra.
+pavankumar-4.
 
 **Other contributors:**
-pavankumar-4.
 physi.
 PranavTamada.
 pratyushmp.
@@ -1235,6 +1236,7 @@ callmeishmael-sn.
 celsiogil.
 chaitanyagummadavelly.
 ChaitanyaKiran14.
+chaitanyalal18.
 chalamalamahesh.
 chandumishra21.
 CharanjeetSi.
