@@ -200,9 +200,9 @@ ShuGitHub2022.
 abhix2112.
 becksbyte.
 AnandMahajan2799.
+JorgeGRC.
 
 **Top 50% contributors:**
-JorgeGRC.
 shreyawani98.
 GHSayak25.
 Rajat32-op.
@@ -234,9 +234,9 @@ Gorav-Sharma.
 Jmyekn1123.
 mitalizope.
 pankajrj.
+sahilsanap101.
 
 **Other contributors:**
-sahilsanap101.
 SwapnaAbburi.
 TejasSNOW.
 zstromsodt.
@@ -348,6 +348,7 @@ Hacker7766.
 hakinadey.
 han-le.
 hardik2109.
+harishkSN.
 hidipen.
 HimanshuSalunke.
 ineffable23.
@@ -1375,6 +1376,7 @@ Hanan-Ashraf.
 HannaGilbertson.
 hardik2109.
 hardikvyasji.
+harishkSN.
 Harshthakur1825.
 Hasanul-Banna-Himel.
 Hashir524.
