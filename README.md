@@ -171,6 +171,7 @@ Soumyadeep10.
 **Top 25% contributors:**
 bhavyaa30.
 bird-03.
+Thrizvi.
 Sriharsha19.
 anveshmupparaju.
 brenduh.
@@ -178,7 +179,6 @@ chetnadev.
 JohanDC-1999.
 gowdah.
 SrijanPatwa.
-Thrizvi.
 Shashank102002.
 iamshankha.
 animeshdasgit.
@@ -565,6 +565,7 @@ mr-swann.
 himanshu7895.
 Munnisona.
 prashantmrshine.
+Thrizvi.
 Dhruvyadav2000.
 manrick.
 VaishnaviLathkar98.
@@ -582,7 +583,6 @@ sravankadudhuri.
 jonahpiascik.
 kylburns89.
 MYaswanth28.
-Thrizvi.
 bhavyaa30.
 danr2c2.
 Litwilly.
