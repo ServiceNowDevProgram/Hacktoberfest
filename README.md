@@ -232,11 +232,12 @@ ahmadibitoye.
 chelming.
 DanielMadsenDK.
 Danmax.
+divyajetti9.
 Gorav-Sharma.
 Jmyekn1123.
-mitalizope.
 
 **Other contributors:**
+mitalizope.
 pankajrj.
 SwapnaAbburi.
 TejasSNOW.
@@ -270,7 +271,6 @@ aykmrgit.
 cjuleff.
 D-GAJ.
 Das-Suparna.
-divyajetti9.
 Dnyanesh182.
 Ehabpilloor.
 eriemer1.
@@ -834,6 +834,7 @@ ashaw7697.
 Beeram12.
 crooks-s.
 cschmidt82.
+divyajetti9.
 Gorav-Sharma.
 Jaskaran-Techno.
 Jmyekn1123.
@@ -894,9 +895,9 @@ ManobhavSachan.
 mevops.
 mikeroosa.
 moshjahan.
-msdfib.
 
 **Other contributors:**
+msdfib.
 mwchiao.
 NilotpalMaitra.
 pavankumar-4.
@@ -1015,7 +1016,6 @@ d7ianielsimonP.
 DaiTranIT.
 Das-Suparna.
 dh3bp.
-divyajetti9.
 Dnyanesh182.
 drk1rd.
 DVJ101.
