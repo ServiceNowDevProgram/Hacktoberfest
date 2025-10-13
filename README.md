@@ -148,8 +148,8 @@ am-shakeel.
 snamjosh.
 shivamvish160.
 wiz0floyd.
-ivan-betev.
 koratalas.
+ivan-betev.
 
 **Top 10% contributors:**
 sivamuruganandam-coder.
@@ -470,9 +470,9 @@ kmohit2809.
 chelming.
 sandeepd26.
 WillemZeiler.
+koratalas.
 bird-03.
 kmxo.
-koratalas.
 johndahl-now.
 MartinStoyanoff.
 eriemer1.
