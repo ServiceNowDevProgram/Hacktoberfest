@@ -227,6 +227,7 @@ HackoDev1530.
 mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
+divyajetti9.
 Rajasree2004.
 ahmadibitoye.
 chelming.
@@ -235,9 +236,9 @@ Danmax.
 Gorav-Sharma.
 Jmyekn1123.
 mitalizope.
-pankajrj.
 
 **Other contributors:**
+pankajrj.
 SwapnaAbburi.
 TejasSNOW.
 zstromsodt.
@@ -260,7 +261,6 @@ akshaydnetake.
 prataps135.
 Anudhyan.
 delphiniumbee.
-divyajetti9.
 phegel.
 Siri-007.
 Uma20-dev.
@@ -822,6 +822,7 @@ abhilash264.
 aftab-mirza.
 Alprez.
 chris-canto-11.
+divyajetti9.
 furquan5.
 harditsingh88.
 NayeemKaka.
@@ -897,9 +898,9 @@ mevops.
 mikeroosa.
 moshjahan.
 msdfib.
-mwchiao.
 
 **Other contributors:**
+mwchiao.
 NilotpalMaitra.
 pavankumar-4.
 physi.
@@ -961,7 +962,6 @@ chaytarak.
 CreatorWorkflowsNow.
 delphiniumbee.
 DennisRutherford.
-divyajetti9.
 djharshit.
 Dwarkilal-Monetapp.
 geekshreya.
