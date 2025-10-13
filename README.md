@@ -169,8 +169,8 @@ naveensnow.
 Soumyadeep10.
 
 **Top 25% contributors:**
-bhavyaa30.
 bird-03.
+bhavyaa30.
 Sriharsha19.
 anveshmupparaju.
 brenduh.
@@ -187,9 +187,9 @@ GokulkumarV.
 spnegi.
 Jaspalsinghchot.
 Thrizvi.
-lauri457.
 bkb68.
 DhruvBhatheja.
+lauri457.
 maheshkhatal27.
 SumithThota.
 stefanintech.
@@ -650,7 +650,6 @@ Jayden-Chiu.
 OrgovanGeza.
 arhaan2019.
 designitsecure.
-lauri457.
 llipovsky.
 prynacshrma.
 seviceN.
@@ -694,6 +693,7 @@ Harshuu870.
 hrichiksite.
 Iuliak.
 jahnaviT2003.
+lauri457.
 RaunakScarlet.
 Srikanth1306.
 SumithThota.
