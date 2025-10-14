@@ -196,17 +196,17 @@ dvn-lazywinner.
 stefanintech.
 Vishnu-rvk.
 1shabby.
-RaviGaurav007.
 at8807602.
 Thrizvi.
 ShuGitHub2022.
 becksbyte.
 shreyawani98.
 AnandMahajan2799.
+JorgeGRC.
 
 **Top 50% contributors:**
-JorgeGRC.
 Rajat32-op.
+RaviGaurav007.
 ewatch.
 Rajasree2004.
 anjimuvva.
@@ -731,7 +731,6 @@ GauthamBellamkonda.
 Khasim-63993.
 odinsride.
 piyusalunke123.
-RaviGaurav007.
 rene-el.
 rmedved84.
 src107.
@@ -759,12 +758,13 @@ TechnologistTim.
 anguspalmer.
 Badal2k23.
 bhavyajain511.
+naveenraw25.
 
 **Top 50% contributors:**
-naveenraw25.
 NBaker137.
 patan116.
 Rajat32-op.
+RaviGaurav007.
 revantKulkarni.
 trade12.
 ttoter.
