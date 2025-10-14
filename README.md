@@ -203,9 +203,9 @@ Thrizvi.
 ShuGitHub2022.
 becksbyte.
 shreyawani98.
+Awesomefp.
 
 **Top 50% contributors:**
-Awesomefp.
 JorgeGRC.
 Rajat32-op.
 ewatch.
@@ -238,9 +238,9 @@ Danmax.
 Gorav-Sharma.
 Indra-kolge.
 Jmyekn1123.
+mitalizope.
 
 **Other contributors:**
-mitalizope.
 pankajrj.
 SwapnaAbburi.
 TejasSNOW.
@@ -336,6 +336,7 @@ Bharathkogilamane274.
 bhavani-konda.
 brunoasantos.
 chaitaliKundu.
+Charanjet.
 ChiragBotkawar.
 DavidMarcial.
 davidphilpott01.
@@ -610,12 +611,12 @@ stefanintech.
 soerenmaucher.
 Adil404.
 avssrikanth.
+Charanjet.
 Shashank102002.
 shraddhakadam301298.
 shridk.
 Sriharsha19.
 stwinkle.
-Charanjet.
 Emmynem.
 
 **Top 25% contributors:**
