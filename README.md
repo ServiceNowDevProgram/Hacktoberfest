@@ -172,12 +172,12 @@ juhikumarimodi6.
 naveensnow.
 
 **Top 25% contributors:**
+brenduh.
 bhavyaa30.
 Jaspalsinghchot.
 Shashank102002.
 Sriharsha19.
 anveshmupparaju.
-brenduh.
 chetnadev.
 JohanDC-1999.
 gowdah.
@@ -545,18 +545,18 @@ sychi77.
 ronaldkarim.
 sivamuruganandam-coder.
 azeezgaa.
+brenduh.
 deepak-64742.
 rafzk.
 anillande90.
 alkaChaudhary73.
-ayleeandersen.
 
 **Top 10% contributors:**
+ayleeandersen.
 Abhishekchowdarapu.
 alikuttyka.
 animeshdasgit.
 aswamy93.
-brenduh.
 Vishnu-rvk.
 YTejaswini18.
 BadalHub.
