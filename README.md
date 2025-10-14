@@ -382,6 +382,7 @@ lalit-oli-mohan-479.
 lstrallo.
 madhuri-ch4.
 Manish0621.
+manjot2092-rob.
 manojkumar-itsm.
 martin-rudack-agineo.
 mayankbonfire-wq.
@@ -768,9 +769,9 @@ TechnologistTim.
 anguspalmer.
 Badal2k23.
 bhavyajain511.
+naveenraw25.
 
 **Top 50% contributors:**
-naveenraw25.
 NBaker137.
 patan116.
 Rajat32-op.
@@ -917,9 +918,9 @@ moshjahan.
 msdfib.
 mwchiao.
 NilotpalMaitra.
+pavankumar-4.
 
 **Other contributors:**
-pavankumar-4.
 physi.
 PranavTamada.
 pratyushmp.
@@ -1563,6 +1564,7 @@ makroset.
 manichin1998.
 Manish0621.
 Manishak798.
+manjot2092-rob.
 ManjuRichi.
 manjuyb.
 manojkumar-itsm.
