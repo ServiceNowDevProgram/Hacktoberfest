@@ -169,9 +169,9 @@ anurampalli.
 ChandBasha-code.
 juhikumarimodi6.
 naveensnow.
+bhavyaa30.
 
 **Top 25% contributors:**
-bhavyaa30.
 Jaspalsinghchot.
 abhix2112.
 Shashank102002.
@@ -365,6 +365,7 @@ harishkSN.
 hidipen.
 HimanshuSalunke.
 ineffable23.
+Its-Nmk.
 jainmridul82.
 jawahar03.
 jsywongServiceNow.
@@ -921,9 +922,9 @@ msdfib.
 mwchiao.
 NilotpalMaitra.
 pavankumar-4.
+physi.
 
 **Other contributors:**
-physi.
 PranavTamada.
 pratyushmp.
 PreyumKr.
@@ -1437,6 +1438,7 @@ ineffable23.
 ishanpatil35.
 ishwarighule.
 IslamMari.
+Its-Nmk.
 IvanStojanov.
 j-infinger.
 j2clow.
