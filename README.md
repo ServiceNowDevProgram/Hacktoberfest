@@ -254,6 +254,7 @@ AyanAhmedKhan.
 chaitaliKundu.
 CODEBRAKERBOYY.
 harshal045.
+nehatalha725.
 PranavTamada.
 selvarun-umass.
 Siddhartha03D.
@@ -400,7 +401,6 @@ MrRohit2506.
 narayankr12.
 natemac47.
 navyamasapu98.
-nehatalha725.
 nikhilkumar76.
 niladriAdhikari.
 NirajDN.
@@ -921,11 +921,12 @@ mikeroosa.
 moshjahan.
 msdfib.
 mwchiao.
+nehatalha725.
 NilotpalMaitra.
 pavankumar-4.
-physi.
 
 **Other contributors:**
+physi.
 PranavTamada.
 pratyushmp.
 PreyumKr.
@@ -1636,7 +1637,6 @@ nayeemwajid97.
 neenaSharma1.
 neerajs296.
 neetu20221.
-nehatalha725.
 Nerdcode.
 newl92.
 Nexarsysllc.
