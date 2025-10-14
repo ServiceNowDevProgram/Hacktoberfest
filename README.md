@@ -326,6 +326,7 @@ AniketSonje.
 anilpal678.
 anirudh7065.
 Anjali655.
+AnkithSharmaji.
 Anubhav-developr.
 Anurag-Kar-240101094.
 Anusrita-Karmakar.
@@ -914,9 +915,9 @@ mikeroosa.
 moshjahan.
 msdfib.
 mwchiao.
+NilotpalMaitra.
 
 **Other contributors:**
-NilotpalMaitra.
 pavankumar-4.
 physi.
 PranavTamada.
@@ -1196,6 +1197,7 @@ AniketSonje.
 anilpal678.
 anirudh7065.
 Anjali655.
+AnkithSharmaji.
 Anks-26.
 AnnaGould.
 Anoop21-oss-a.
