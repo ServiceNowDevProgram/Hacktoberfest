@@ -205,6 +205,7 @@ AnandMahajan2799.
 JorgeGRC.
 
 **Top 50% contributors:**
+Abbas-57.
 Rajat32-op.
 RaviGaurav007.
 ewatch.
@@ -214,7 +215,6 @@ KrishChothani.
 LakshmiChaitanyaReddy.
 sumanth1710.
 surajnikam111.
-Abbas-57.
 bgrk005.
 chaitanyalal18.
 durgeshservicenow-hub.
@@ -667,6 +667,7 @@ seviceN.
 sumanth1710.
 tejudhoran95.
 vasantharaja-natarajan.
+Abbas-57.
 amoore-coder.
 dean-croaker.
 domuserk.
@@ -711,7 +712,6 @@ Srikanth1306.
 SumithThota.
 techTrekwithAJ.
 TVani5.
-Abbas-57.
 adarshsingh0205.
 annaydas.
 goranlundqvist.
