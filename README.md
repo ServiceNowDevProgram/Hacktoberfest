@@ -239,9 +239,9 @@ Gorav-Sharma.
 Indra-kolge.
 Jmyekn1123.
 mitalizope.
+pankajrj.
 
 **Other contributors:**
-pankajrj.
 SwapnaAbburi.
 TejasSNOW.
 zstromsodt.
@@ -339,6 +339,7 @@ Bharathkogilamane274.
 bhavani-konda.
 brunoasantos.
 ChiragBotkawar.
+daramcdonald96-ops.
 DavidMarcial.
 davidphilpott01.
 debugwithshubham.
@@ -1303,6 +1304,7 @@ DangerousNights.
 danieltayal07.
 danybr0.
 Daoist-Ye.
+daramcdonald96-ops.
 Darkwasp.
 Darrkshade.
 DaSilvaThiago.
