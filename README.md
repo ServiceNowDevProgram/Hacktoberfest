@@ -209,6 +209,7 @@ JorgeGRC.
 **Top 50% contributors:**
 Rajat32-op.
 ewatch.
+ahmadibitoye.
 anjimuvva.
 KrishChothani.
 LakshmiChaitanyaReddy.
@@ -230,7 +231,6 @@ sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
 divyajetti9.
 Rajasree2004.
-ahmadibitoye.
 Charanjet.
 chelming.
 chiemeriechibuzor.
@@ -790,6 +790,7 @@ djunaid.
 Haile-08.
 sonamtiwari8.
 Adiana3308.
+ahmadibitoye.
 akhoshnood.
 allam1234.
 anjimuvva.
@@ -851,7 +852,6 @@ pviglianti.
 Rajasree2004.
 Shreedevisnow.
 sisco0.
-ahmadibitoye.
 ashaw7697.
 Beeram12.
 chiemeriechibuzor.
