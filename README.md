@@ -173,7 +173,6 @@ bhavyaa30.
 
 **Top 25% contributors:**
 Jaspalsinghchot.
-abhix2112.
 Shashank102002.
 Sriharsha19.
 Emmynem.
@@ -183,6 +182,7 @@ chetnadev.
 JohanDC-1999.
 gowdah.
 SrijanPatwa.
+abhix2112.
 iamshankha.
 lauri457.
 animeshdasgit.
@@ -616,7 +616,6 @@ MRSinghRajat.
 oasif.
 stefanintech.
 soerenmaucher.
-abhix2112.
 Adil404.
 avssrikanth.
 Shashank102002.
@@ -624,9 +623,9 @@ shraddhakadam301298.
 shridk.
 Sriharsha19.
 stwinkle.
+Emmynem.
 
 **Top 25% contributors:**
-Emmynem.
 phr-nk.
 davidkwhuang.
 JohanDC-1999.
@@ -640,6 +639,7 @@ DavidMarcial.
 mady22070.
 MarcMouries.
 sn-ajb.
+abhix2112.
 techYESlogyXplorer.
 vijaytalupula.
 AdityaBala2026.
