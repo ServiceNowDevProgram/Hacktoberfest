@@ -168,9 +168,10 @@ anurampalli.
 ChandBasha-code.
 juhikumarimodi6.
 naveensnow.
-bhavyaa30.
+RaviGaurav007.
 
 **Top 25% contributors:**
+bhavyaa30.
 Jaspalsinghchot.
 Shashank102002.
 Sriharsha19.
@@ -179,7 +180,6 @@ anveshmupparaju.
 brenduh.
 chetnadev.
 JohanDC-1999.
-RaviGaurav007.
 gowdah.
 SrijanPatwa.
 iamshankha.
@@ -598,6 +598,7 @@ sravankadudhuri.
 jonahpiascik.
 kylburns89.
 MYaswanth28.
+RaviGaurav007.
 bhavyaa30.
 danr2c2.
 Litwilly.
@@ -614,13 +615,12 @@ Sriharsha19.
 stwinkle.
 Charanjet.
 Emmynem.
-phr-nk.
 
 **Top 25% contributors:**
+phr-nk.
 davidkwhuang.
 JohanDC-1999.
 mandeepkaran.
-RaviGaurav007.
 zahidask.
 DynamiteC.
 shakeel-sheikh.
