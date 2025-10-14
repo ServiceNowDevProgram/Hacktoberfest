@@ -171,6 +171,7 @@ naveensnow.
 
 **Top 25% contributors:**
 bhavyaa30.
+Jaspalsinghchot.
 Shashank102002.
 Sriharsha19.
 Emmynem.
@@ -179,7 +180,6 @@ brenduh.
 chetnadev.
 JohanDC-1999.
 gowdah.
-Jaspalsinghchot.
 SrijanPatwa.
 iamshankha.
 lauri457.
@@ -481,9 +481,9 @@ sandeepd26.
 WillemZeiler.
 koratalas.
 bird-03.
+Jaspalsinghchot.
 kmxo.
 johndahl-now.
-Jaspalsinghchot.
 MartinStoyanoff.
 eriemer1.
 paigesndev.
