@@ -210,7 +210,6 @@ JorgeGRC.
 Rajat32-op.
 HackoDev1530.
 ewatch.
-divyajetti9.
 anjimuvva.
 KrishChothani.
 LakshmiChaitanyaReddy.
@@ -229,6 +228,7 @@ trupti65.
 mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
+divyajetti9.
 Rajasree2004.
 ahmadibitoye.
 Charanjet.
@@ -784,7 +784,6 @@ AlphaEagle.
 JWITSM.
 mo-dahir.
 dcord1x.
-divyajetti9.
 djunaid.
 Haile-08.
 sonamtiwari8.
@@ -839,6 +838,7 @@ abhilash264.
 aftab-mirza.
 Alprez.
 chris-canto-11.
+divyajetti9.
 furquan5.
 harditsingh88.
 NayeemKaka.
