@@ -208,7 +208,6 @@ AnandMahajan2799.
 JorgeGRC.
 Rajat32-op.
 ewatch.
-Rajasree2004.
 anjimuvva.
 Awesomefp.
 KrishChothani.
@@ -230,6 +229,7 @@ mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
 divyajetti9.
+Rajasree2004.
 ahmadibitoye.
 chelming.
 chiemeriechibuzor.
@@ -774,7 +774,6 @@ mo-dahir.
 dcord1x.
 djunaid.
 Haile-08.
-Rajasree2004.
 sonamtiwari8.
 Adiana3308.
 akhoshnood.
@@ -836,6 +835,7 @@ NayeemKaka.
 praisetoyt.
 puneet94.
 pviglianti.
+Rajasree2004.
 Shreedevisnow.
 sisco0.
 ahmadibitoye.
