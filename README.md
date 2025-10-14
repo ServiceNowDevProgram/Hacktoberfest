@@ -210,7 +210,6 @@ Rajat32-op.
 ewatch.
 anjimuvva.
 Awesomefp.
-Indra-kolge.
 KrishChothani.
 LakshmiChaitanyaReddy.
 sumanth1710.
@@ -237,6 +236,7 @@ chiemeriechibuzor.
 DanielMadsenDK.
 Danmax.
 Gorav-Sharma.
+Indra-kolge.
 
 **Other contributors:**
 Jmyekn1123.
@@ -784,7 +784,6 @@ anjimuvva.
 Awesomefp.
 Decoder-Paul.
 DhanushNehru.
-Indra-kolge.
 jesalynrose.
 KrishChothani.
 Ladirinia.
@@ -848,6 +847,7 @@ chiemeriechibuzor.
 crooks-s.
 cschmidt82.
 Gorav-Sharma.
+Indra-kolge.
 Jaskaran-Techno.
 Jmyekn1123.
 mitalizope.
