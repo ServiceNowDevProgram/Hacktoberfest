@@ -205,11 +205,11 @@ shreyawani98.
 AnandMahajan2799.
 
 **Top 50% contributors:**
+Awesomefp.
 JorgeGRC.
 Rajat32-op.
 ewatch.
 anjimuvva.
-Awesomefp.
 KrishChothani.
 LakshmiChaitanyaReddy.
 sumanth1710.
@@ -753,6 +753,7 @@ Sagar-agarwal.
 wiresgit.
 yourepicservices.
 AnandMahajan2799.
+Awesomefp.
 ChecksumFailed.
 markroethof.
 S-w-a-p-n-i-l-22.
@@ -760,9 +761,9 @@ SNProductOwner.
 TechnologistTim.
 anguspalmer.
 Badal2k23.
-bhavyajain511.
 
 **Top 50% contributors:**
+bhavyajain511.
 naveenraw25.
 NBaker137.
 patan116.
@@ -781,7 +782,6 @@ Adiana3308.
 akhoshnood.
 allam1234.
 anjimuvva.
-Awesomefp.
 Decoder-Paul.
 DhanushNehru.
 jesalynrose.
