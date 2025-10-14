@@ -202,9 +202,9 @@ ShuGitHub2022.
 becksbyte.
 shreyawani98.
 AnandMahajan2799.
+JorgeGRC.
 
 **Top 50% contributors:**
-JorgeGRC.
 Rajat32-op.
 RaviGaurav007.
 ewatch.
@@ -237,9 +237,9 @@ Danmax.
 Gorav-Sharma.
 Jmyekn1123.
 mitalizope.
+pankajrj.
 
 **Other contributors:**
-pankajrj.
 SwapnaAbburi.
 TejasSNOW.
 zstromsodt.
@@ -419,6 +419,7 @@ RudraSathwara.
 Saahil-Kumaar.
 SachinRajakaruna.
 safwanahmadsaffi.
+sahilshingate01.
 samikshak-kaulkar-hacktoberfest.
 samikshak-web.
 samrat21saha.
@@ -902,9 +903,9 @@ ManobhavSachan.
 mevops.
 mikeroosa.
 moshjahan.
+msdfib.
 
 **Other contributors:**
-msdfib.
 mwchiao.
 NilotpalMaitra.
 pavankumar-4.
@@ -1729,6 +1730,7 @@ saarimshaikh.
 SachinRajakaruna.
 safwanahmadsaffi.
 Sahil1607.
+sahilshingate01.
 SainathLRH.
 saipataneni.
 Sakshi29G.
