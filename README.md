@@ -236,11 +236,12 @@ chiemeriechibuzor.
 DanielMadsenDK.
 Danmax.
 Gorav-Sharma.
+Indra-kolge.
 Jmyekn1123.
 mitalizope.
-pankajrj.
 
 **Other contributors:**
+pankajrj.
 SwapnaAbburi.
 TejasSNOW.
 zstromsodt.
@@ -277,7 +278,6 @@ Das-Suparna.
 Dnyanesh182.
 Ehabpilloor.
 eriemer1.
-Indra-kolge.
 jonahpiascik.
 mady22070.
 Mahathiveena.
@@ -846,6 +846,7 @@ chiemeriechibuzor.
 crooks-s.
 cschmidt82.
 Gorav-Sharma.
+Indra-kolge.
 Jaskaran-Techno.
 Jmyekn1123.
 mitalizope.
@@ -907,9 +908,9 @@ mevops.
 mikeroosa.
 moshjahan.
 msdfib.
-mwchiao.
 
 **Other contributors:**
+mwchiao.
 NilotpalMaitra.
 pavankumar-4.
 physi.
@@ -1041,7 +1042,6 @@ hacktoberfestservicenow.
 han-le.
 HariniSnow.
 himanisinghal.
-Indra-kolge.
 ishanjain18.
 isrbaral.
 Itsreema.
