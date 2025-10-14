@@ -203,13 +203,13 @@ Thrizvi.
 ShuGitHub2022.
 becksbyte.
 shreyawani98.
+ahmadibitoye.
 Awesomefp.
-JorgeGRC.
 
 **Top 50% contributors:**
+JorgeGRC.
 Rajat32-op.
 ewatch.
-ahmadibitoye.
 anjimuvva.
 KrishChothani.
 LakshmiChaitanyaReddy.
@@ -764,6 +764,7 @@ kumarinisha378.
 Sagar-agarwal.
 wiresgit.
 yourepicservices.
+ahmadibitoye.
 Awesomefp.
 ChecksumFailed.
 markroethof.
@@ -773,9 +774,9 @@ TechnologistTim.
 anguspalmer.
 Badal2k23.
 bhavyajain511.
-naveenraw25.
 
 **Top 50% contributors:**
+naveenraw25.
 NBaker137.
 patan116.
 Rajat32-op.
@@ -790,7 +791,6 @@ djunaid.
 Haile-08.
 sonamtiwari8.
 Adiana3308.
-ahmadibitoye.
 akhoshnood.
 allam1234.
 anjimuvva.
