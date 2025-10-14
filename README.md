@@ -231,6 +231,7 @@ sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
 Rajasree2004.
 ahmadibitoye.
+Charanjet.
 chelming.
 chiemeriechibuzor.
 DanielMadsenDK.
@@ -239,9 +240,9 @@ Gorav-Sharma.
 Indra-kolge.
 Jmyekn1123.
 mitalizope.
-pankajrj.
 
 **Other contributors:**
+pankajrj.
 SwapnaAbburi.
 TejasSNOW.
 zstromsodt.
@@ -274,7 +275,6 @@ abiramiyohesh.
 Akash-44.
 anushka157.
 aykmrgit.
-Charanjet.
 cjuleff.
 D-GAJ.
 Das-Suparna.
@@ -591,6 +591,7 @@ Dhruvyadav2000.
 manrick.
 VaishnaviLathkar98.
 ChandBasha-code.
+Charanjet.
 hafsa-asif.
 juhikumarimodi6.
 ovarn.
@@ -611,7 +612,6 @@ Litwilly.
 MRSinghRajat.
 oasif.
 stefanintech.
-Charanjet.
 soerenmaucher.
 abhix2112.
 Adil404.
