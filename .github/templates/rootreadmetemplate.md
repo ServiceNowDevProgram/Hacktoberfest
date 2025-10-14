@@ -29,11 +29,11 @@ Every reviewer/maintainer hangs out on the SNDevs Slack workspace. You can join 
 <!-- TOC -->
 ## Quick navigation
 
-- [How to contribute](#contribute)
-- [Projects](#projects)
-- [Scoring](#points)
-- [Your Hacktoberfest crew](#reviewers)
-- [Leaderboard](#leaders)
+- [🚀 How to contribute](#contribute) - Get started with your first contribution
+- [📂 Available projects](#projects) - Browse the projects you can work on
+- [🎯 Point system](#points) - Learn how to earn points
+- [👥 Meet the crew](#reviewers) - Our volunteer review team
+- [🏆 Leaderboard](#leaders) - Top contributors and rankings
 
 <!-- /TOC -->
 
