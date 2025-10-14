@@ -205,8 +205,8 @@ AnandMahajan2799.
 JorgeGRC.
 
 **Top 50% contributors:**
-Rajat32-op.
 RaviGaurav007.
+Rajat32-op.
 ewatch.
 Rajasree2004.
 anjimuvva.
@@ -752,19 +752,19 @@ yourepicservices.
 AnandMahajan2799.
 ChecksumFailed.
 markroethof.
+RaviGaurav007.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
 TechnologistTim.
 anguspalmer.
 Badal2k23.
 bhavyajain511.
-naveenraw25.
 
 **Top 50% contributors:**
+naveenraw25.
 NBaker137.
 patan116.
 Rajat32-op.
-RaviGaurav007.
 revantKulkarni.
 trade12.
 ttoter.
