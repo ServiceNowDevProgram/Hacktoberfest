@@ -237,9 +237,9 @@ DanielMadsenDK.
 Danmax.
 Gorav-Sharma.
 Indra-kolge.
+Jmyekn1123.
 
 **Other contributors:**
-Jmyekn1123.
 mitalizope.
 pankajrj.
 SwapnaAbburi.
@@ -459,6 +459,7 @@ VA2707.
 varun1325.
 virendrapratapsinghyadav.
 Vishnugarg897.
+VishwajeetGupta1709.
 weirdwolf-eng.
 wmathor.
 yanshOnHub.
@@ -762,9 +763,9 @@ SNProductOwner.
 TechnologistTim.
 anguspalmer.
 Badal2k23.
+bhavyajain511.
 
 **Top 50% contributors:**
-bhavyajain511.
 naveenraw25.
 NBaker137.
 patan116.
@@ -910,9 +911,9 @@ mevops.
 mikeroosa.
 moshjahan.
 msdfib.
+mwchiao.
 
 **Other contributors:**
-mwchiao.
 NilotpalMaitra.
 pavankumar-4.
 physi.
@@ -1897,6 +1898,7 @@ vikasphougat.
 vino3110.
 virendrapratapsinghyadav.
 Vishnugarg897.
+VishwajeetGupta1709.
 vivaan01.
 Vivek-KP.
 vivekmunda1609.
