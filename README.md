@@ -193,6 +193,7 @@ maheshkhatal27.
 bkb68.
 DhruvBhatheja.
 SumithThota.
+AnandMahajan2799.
 dvn-lazywinner.
 stefanintech.
 Vishnu-rvk.
@@ -202,7 +203,6 @@ Thrizvi.
 ShuGitHub2022.
 becksbyte.
 shreyawani98.
-AnandMahajan2799.
 
 **Top 50% contributors:**
 Awesomefp.
@@ -720,6 +720,7 @@ techTrekwithAJ.
 TVani5.
 Abbas-57.
 adarshsingh0205.
+AnandMahajan2799.
 annaydas.
 goranlundqvist.
 Hamritha0506.
@@ -755,7 +756,6 @@ kumarinisha378.
 Sagar-agarwal.
 wiresgit.
 yourepicservices.
-AnandMahajan2799.
 Awesomefp.
 ChecksumFailed.
 markroethof.
