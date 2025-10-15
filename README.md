@@ -204,16 +204,16 @@ at8807602.
 Thrizvi.
 ShuGitHub2022.
 becksbyte.
+divyajetti9.
 shreyawani98.
 Abbas-57.
-chiemeriechibuzor.
 
 **Top 50% contributors:**
+chiemeriechibuzor.
 JorgeGRC.
 Rajat32-op.
 HackoDev1530.
 ewatch.
-divyajetti9.
 anjimuvva.
 Charanjet.
 KrishChothani.
@@ -764,6 +764,7 @@ pratyushasndev.
 nag39g.
 ShuGitHub2022.
 becksbyte.
+divyajetti9.
 homealone07.
 Iamsant.
 jeremyrubio27.
@@ -780,9 +781,9 @@ SNProductOwner.
 TechnologistTim.
 anguspalmer.
 Badal2k23.
-bhavyajain511.
 
 **Top 50% contributors:**
+bhavyajain511.
 HackoDev1530.
 naveenraw25.
 NBaker137.
@@ -795,7 +796,6 @@ AlphaEagle.
 JWITSM.
 mo-dahir.
 dcord1x.
-divyajetti9.
 djunaid.
 Haile-08.
 sonamtiwari8.
