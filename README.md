@@ -153,8 +153,8 @@ ivan-betev.
 Atul-LNG.
 
 **Top 10% contributors:**
-sivamuruganandam-coder.
 Soumyadeep10.
+sivamuruganandam-coder.
 sumanthdosapati.
 NavyasreeBolleboyana.
 bird-03.
@@ -519,10 +519,10 @@ Atul-LNG.
 ashoo-jindal.
 amigujarathi.
 maheshkhatal27.
+Soumyadeep10.
 gowdah.
 RahmanM.
 R3J3NT.
-Soumyadeep10.
 ajcooper72.
 jiteshmalik.
 aykmrgit.
