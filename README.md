@@ -211,6 +211,7 @@ shreyawani98.
 **Top 50% contributors:**
 Abbas-57.
 JorgeGRC.
+Noah-Drew.
 Rajat32-op.
 HackoDev1530.
 ewatch.
@@ -228,7 +229,6 @@ GHSayak25.
 Mahmud1087.
 mskoddow.
 MYaswanth28.
-Noah-Drew.
 sa173199.
 sandeepd26.
 trupti65.
@@ -788,6 +788,7 @@ bhavyajain511.
 HackoDev1530.
 naveenraw25.
 NBaker137.
+Noah-Drew.
 patan116.
 Rajat32-op.
 revantKulkarni.
@@ -830,7 +831,6 @@ Mahesh-Krishnan1.
 Mahmud1087.
 maialithar.
 MihirRathod.
-Noah-Drew.
 preshitd.
 prithvibalakka.
 Ratheshan03.
