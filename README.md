@@ -197,6 +197,7 @@ divyajetti9.
 ahmadibitoye.
 AnandMahajan2799.
 Awesomefp.
+chiemeriechibuzor.
 dvn-lazywinner.
 stefanintech.
 Vishnu-rvk.
@@ -206,10 +207,9 @@ Thrizvi.
 ShuGitHub2022.
 becksbyte.
 shreyawani98.
-Abbas-57.
 
 **Top 50% contributors:**
-chiemeriechibuzor.
+Abbas-57.
 JorgeGRC.
 Rajat32-op.
 HackoDev1530.
@@ -740,6 +740,7 @@ ahmadibitoye.
 AnandMahajan2799.
 annaydas.
 Awesomefp.
+chiemeriechibuzor.
 goranlundqvist.
 Hamritha0506.
 harisnad.
@@ -775,7 +776,6 @@ Sagar-agarwal.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
-chiemeriechibuzor.
 markroethof.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
