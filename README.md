@@ -177,6 +177,7 @@ bhavyaa30.
 Jaspalsinghchot.
 Shashank102002.
 Sriharsha19.
+lauri457.
 anveshmupparaju.
 chetnadev.
 JohanDC-1999.
@@ -184,7 +185,6 @@ gowdah.
 SrijanPatwa.
 abhix2112.
 iamshankha.
-lauri457.
 animeshdasgit.
 debendu-das.
 GokulkumarV.
@@ -627,6 +627,7 @@ Sriharsha19.
 stwinkle.
 
 **Top 25% contributors:**
+lauri457.
 phr-nk.
 davidkwhuang.
 JohanDC-1999.
@@ -649,7 +650,6 @@ ariyadmir.
 gregorwmail.
 harishankert.
 iamshankha.
-lauri457.
 prash5595.
 priyasnexpert.
 thejasr110.
