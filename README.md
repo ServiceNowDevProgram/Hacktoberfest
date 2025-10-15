@@ -203,14 +203,14 @@ Thrizvi.
 ShuGitHub2022.
 becksbyte.
 shreyawani98.
+Abbas-57.
 ahmadibitoye.
 Awesomefp.
-JorgeGRC.
 
 **Top 50% contributors:**
+JorgeGRC.
 Rajat32-op.
 ewatch.
-Abbas-57.
 anjimuvva.
 KrishChothani.
 LakshmiChaitanyaReddy.
@@ -678,6 +678,7 @@ dadhich-ashish.
 girishnagaraj09.
 Jayden-Chiu.
 OrgovanGeza.
+Abbas-57.
 arhaan2019.
 chaitaliKundu.
 designitsecure.
@@ -718,7 +719,6 @@ Ramesh-hub007.
 salma-93.
 sauravsumankumar.
 yuvraj1107thapa.
-Abbas-57.
 ashuprince121.
 ewatch.
 Harshuu870.
