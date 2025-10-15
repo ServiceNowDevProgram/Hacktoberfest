@@ -165,17 +165,17 @@ Paulsylo25.
 JonSandoval.
 RaviGaurav007.
 kmxo.
+abhix2112.
 anurampalli.
 ChandBasha-code.
 Emmynem.
 juhikumarimodi6.
-naveensnow.
 
 **Top 25% contributors:**
+naveensnow.
 brenduh.
 bhavyaa30.
 Jaspalsinghchot.
-abhix2112.
 Shashank102002.
 Sriharsha19.
 lauri457.
@@ -599,6 +599,7 @@ manrick.
 VaishnaviLathkar98.
 ChandBasha-code.
 Charanjet.
+abhix2112.
 hafsa-asif.
 juhikumarimodi6.
 ovarn.
@@ -621,7 +622,6 @@ MRSinghRajat.
 oasif.
 stefanintech.
 soerenmaucher.
-abhix2112.
 Adil404.
 avssrikanth.
 Shashank102002.
