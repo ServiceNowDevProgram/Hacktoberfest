@@ -205,9 +205,9 @@ becksbyte.
 shreyawani98.
 ahmadibitoye.
 Awesomefp.
+JorgeGRC.
 
 **Top 50% contributors:**
-JorgeGRC.
 Rajat32-op.
 ewatch.
 anjimuvva.
@@ -241,9 +241,9 @@ Danmax.
 Gorav-Sharma.
 Indra-kolge.
 Jmyekn1123.
+mitalizope.
 
 **Other contributors:**
-mitalizope.
 pankajrj.
 SwapnaAbburi.
 TejasSNOW.
@@ -471,6 +471,7 @@ Vishnugarg897.
 VishwajeetGupta1709.
 weirdwolf-eng.
 wmathor.
+xbasrie.
 yanshOnHub.
 zakir8992.
 zoro-kiki.
@@ -550,9 +551,9 @@ deepak-64742.
 alkaChaudhary73.
 rafzk.
 anillande90.
+ayleeandersen.
 
 **Top 10% contributors:**
-ayleeandersen.
 Abhishekchowdarapu.
 alikuttyka.
 animeshdasgit.
@@ -625,9 +626,9 @@ shraddhakadam301298.
 shridk.
 Sriharsha19.
 stwinkle.
+lauri457.
 
 **Top 25% contributors:**
-lauri457.
 phr-nk.
 davidkwhuang.
 JohanDC-1999.
@@ -922,10 +923,10 @@ moshjahan.
 msdfib.
 mwchiao.
 nehatalha725.
-NilotpalMaitra.
-pavankumar-4.
 
 **Other contributors:**
+NilotpalMaitra.
+pavankumar-4.
 physi.
 PranavTamada.
 pratyushmp.
@@ -1933,6 +1934,7 @@ wggibson.
 williambhadley.
 wkbroxton.
 wmathor.
+xbasrie.
 xdisplay.
 xjfdzn.
 yanshOnHub.
