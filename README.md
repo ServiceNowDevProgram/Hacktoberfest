@@ -242,9 +242,9 @@ Gorav-Sharma.
 Indra-kolge.
 Jmyekn1123.
 mitalizope.
+pankajrj.
 
 **Other contributors:**
-pankajrj.
 SwapnaAbburi.
 TejasSNOW.
 zstromsodt.
@@ -454,6 +454,7 @@ shubsolos19.
 Sireesha-kante.
 Smoothengineer.
 Southpaw09.
+srikanthroyal932-cmyk.
 SUMEDHFORTES.
 Sumit6307.
 SurajK6437.
@@ -924,9 +925,9 @@ moshjahan.
 msdfib.
 mwchiao.
 nehatalha725.
+NilotpalMaitra.
 
 **Other contributors:**
-NilotpalMaitra.
 pavankumar-4.
 physi.
 PranavTamada.
@@ -1831,6 +1832,7 @@ somusekher.
 Sookeyy-12.
 Soulpancake000.
 Souradeephazra123.
+srikanthroyal932-cmyk.
 srirampusuluri1.
 srramanujam.
 Srutip04.
