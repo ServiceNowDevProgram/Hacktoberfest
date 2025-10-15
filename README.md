@@ -206,9 +206,9 @@ shreyawani98.
 Abbas-57.
 ahmadibitoye.
 Awesomefp.
+JorgeGRC.
 
 **Top 50% contributors:**
-JorgeGRC.
 Rajat32-op.
 ewatch.
 anjimuvva.
@@ -243,9 +243,9 @@ Indra-kolge.
 Jmyekn1123.
 mitalizope.
 pankajrj.
+SwapnaAbburi.
 
 **Other contributors:**
-SwapnaAbburi.
 TejasSNOW.
 zstromsodt.
 404paige.
@@ -453,6 +453,7 @@ Shubham11440.
 Shubhgoyal-1.
 shubsolos19.
 Sireesha-kante.
+slytechiefrommagentashore.
 Smoothengineer.
 Southpaw09.
 SUMEDHFORTES.
@@ -778,9 +779,9 @@ TechnologistTim.
 anguspalmer.
 Badal2k23.
 bhavyajain511.
+naveenraw25.
 
 **Top 50% contributors:**
-naveenraw25.
 NBaker137.
 patan116.
 Rajat32-op.
@@ -927,9 +928,9 @@ msdfib.
 mwchiao.
 nehatalha725.
 NilotpalMaitra.
+pavankumar-4.
 
 **Other contributors:**
-pavankumar-4.
 physi.
 PranavTamada.
 pratyushmp.
@@ -1823,6 +1824,7 @@ sivangbagri.
 sixstatdad.
 sjmeissner.
 slwb.
+slytechiefrommagentashore.
 smkylecribbs.
 Smoothengineer.
 smoothwood.
