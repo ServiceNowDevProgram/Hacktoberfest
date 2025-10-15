@@ -173,13 +173,13 @@ juhikumarimodi6.
 
 **Top 25% contributors:**
 naveensnow.
+anveshmupparaju.
 brenduh.
 bhavyaa30.
 Jaspalsinghchot.
 Shashank102002.
 Sriharsha19.
 lauri457.
-anveshmupparaju.
 chetnadev.
 JohanDC-1999.
 gowdah.
@@ -526,10 +526,10 @@ RahmanM.
 R3J3NT.
 shivamvish160.
 ajcooper72.
+anveshmupparaju.
 jiteshmalik.
 aykmrgit.
 Mexiprince.
-anveshmupparaju.
 hrobarikt.
 Chraiseto.
 TRIGGEREDcoder.
