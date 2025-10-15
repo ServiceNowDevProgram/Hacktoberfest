@@ -206,13 +206,13 @@ ShuGitHub2022.
 becksbyte.
 shreyawani98.
 Abbas-57.
-JorgeGRC.
+chiemeriechibuzor.
 
 **Top 50% contributors:**
+JorgeGRC.
 Rajat32-op.
 ewatch.
 anjimuvva.
-chiemeriechibuzor.
 KrishChothani.
 LakshmiChaitanyaReddy.
 sumanth1710.
@@ -772,6 +772,7 @@ Sagar-agarwal.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
+chiemeriechibuzor.
 markroethof.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
@@ -779,9 +780,9 @@ TechnologistTim.
 anguspalmer.
 Badal2k23.
 bhavyajain511.
-naveenraw25.
 
 **Top 50% contributors:**
+naveenraw25.
 NBaker137.
 patan116.
 Rajat32-op.
@@ -799,7 +800,6 @@ Adiana3308.
 akhoshnood.
 allam1234.
 anjimuvva.
-chiemeriechibuzor.
 Decoder-Paul.
 DhanushNehru.
 jesalynrose.
