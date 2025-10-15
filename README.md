@@ -219,6 +219,7 @@ sumanth1710.
 surajnikam111.
 abdulsalamnafisat59-rgb.
 bgrk005.
+chaitaliKundu.
 chaitanyalal18.
 durgeshservicenow-hub.
 GHSayak25.
@@ -243,9 +244,9 @@ Danmax.
 Gorav-Sharma.
 Indra-kolge.
 Jmyekn1123.
-mitalizope.
 
 **Other contributors:**
+mitalizope.
 pankajrj.
 SwapnaAbburi.
 TejasSNOW.
@@ -254,7 +255,6 @@ zstromsodt.
 Abhishek2634.
 AdityaBala2026.
 AyanAhmedKhan.
-chaitaliKundu.
 CODEBRAKERBOYY.
 harshal045.
 nehatalha725.
@@ -652,6 +652,7 @@ vijaytalupula.
 AdityaBala2026.
 alyaanbasha.
 ariyadmir.
+chaitaliKundu.
 gregorwmail.
 harishankert.
 iamshankha.
@@ -682,7 +683,6 @@ Jayden-Chiu.
 OrgovanGeza.
 Abbas-57.
 arhaan2019.
-chaitaliKundu.
 designitsecure.
 llipovsky.
 prynacshrma.
