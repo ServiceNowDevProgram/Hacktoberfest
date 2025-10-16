@@ -182,13 +182,13 @@ Sriharsha19.
 lauri457.
 maheshkhatal27.
 chetnadev.
-chiemeriechibuzor.
 JohanDC-1999.
 GokulkumarV.
 gowdah.
 SrijanPatwa.
 iamshankha.
 animeshdasgit.
+chiemeriechibuzor.
 debendu-das.
 spnegi.
 AnandMahajan2799.
@@ -640,7 +640,6 @@ stwinkle.
 **Top 25% contributors:**
 lauri457.
 phr-nk.
-chiemeriechibuzor.
 davidkwhuang.
 GokulkumarV.
 JohanDC-1999.
@@ -667,6 +666,7 @@ prash5595.
 priyasnexpert.
 thejasr110.
 unbirthdays.
+chiemeriechibuzor.
 hoederath.
 isaac-vicentini.
 mioyokohama.
