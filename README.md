@@ -207,9 +207,9 @@ MYaswanth28.
 at8807602.
 Thrizvi.
 shreyawani98.
+ShuGitHub2022.
 
 **Top 50% contributors:**
-ShuGitHub2022.
 becksbyte.
 Abbas-57.
 JorgeGRC.
@@ -244,9 +244,9 @@ Charanjet.
 chelming.
 DanielMadsenDK.
 Danmax.
+dominik-kiss.
 
 **Other contributors:**
-dominik-kiss.
 Gorav-Sharma.
 Indra-kolge.
 Jmyekn1123.
@@ -410,6 +410,7 @@ MrRohit2506.
 narayankr12.
 natemac47.
 navyamasapu98.
+NayeemKaka.
 nikhilkumar76.
 niladriAdhikari.
 NirajDN.
@@ -853,6 +854,7 @@ zailugao.
 mockspeed.
 TheShashank13.
 cmanik.
+NayeemKaka.
 pranavkhurana2011.
 rohantjoshi.
 srishtinsaan.
@@ -862,7 +864,6 @@ Alprez.
 chris-canto-11.
 furquan5.
 harditsingh88.
-NayeemKaka.
 praisetoyt.
 puneet94.
 pviglianti.
