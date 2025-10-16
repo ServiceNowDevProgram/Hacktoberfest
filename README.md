@@ -258,6 +258,7 @@ Abhishek2634.
 AdityaBala2026.
 AyanAhmedKhan.
 CODEBRAKERBOYY.
+dominik-kiss.
 harshal045.
 nehatalha725.
 PranavTamada.
@@ -358,7 +359,6 @@ developer-mohitsoni.
 DevvSaxena17.
 DimpleShaik.
 DivyanshRajSoni.
-dominik-kiss.
 Durgeshpathak-111.
 ETHAN96308.
 FrancisBarla10.
@@ -911,6 +911,7 @@ deathkraiser.
 demetris7.
 devalcodes.
 dhruvii-powershell.
+dominik-kiss.
 dorsy99.
 ezratkim.
 harshal045.
@@ -935,9 +936,9 @@ moshjahan.
 msdfib.
 mwchiao.
 nehatalha725.
-NilotpalMaitra.
 
 **Other contributors:**
+NilotpalMaitra.
 pavankumar-4.
 physi.
 PranavTamada.
@@ -1364,7 +1365,6 @@ dk0017.
 dk5ax.
 dkrueger0315.
 DoColl-Byte.
-dominik-kiss.
 dominikhycnar.
 drc.
 DRDeep7.
