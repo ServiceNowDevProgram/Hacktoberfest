@@ -202,16 +202,16 @@ dvn-lazywinner.
 stefanintech.
 Vishnu-rvk.
 1shabby.
+MYaswanth28.
 at8807602.
 Thrizvi.
 shreyawani98.
 ShuGitHub2022.
-becksbyte.
 
 **Top 50% contributors:**
+becksbyte.
 Abbas-57.
 JorgeGRC.
-MYaswanth28.
 Noah-Drew.
 Rajat32-op.
 HackoDev1530.
@@ -574,6 +574,7 @@ MrChrisE.
 selvarun-umass.
 vandna07.
 captainbraddles.
+MYaswanth28.
 abhrajyotikanrar.
 csharpie.
 DanielMadsenDK.
@@ -590,7 +591,6 @@ bgrk005.
 iar42.
 lakshmikanthgupta.
 mlemartien.
-MYaswanth28.
 riya-misra-1.
 hentonjd.
 23Thom.
