@@ -219,6 +219,7 @@ Rajat32-op.
 HackoDev1530.
 ewatch.
 anjimuvva.
+harishkSN.
 KrishChothani.
 LakshmiChaitanyaReddy.
 sumanth1710.
@@ -243,11 +244,10 @@ Charanjet.
 chelming.
 DanielMadsenDK.
 Danmax.
-dominik-kiss.
 
 **Other contributors:**
+dominik-kiss.
 Gorav-Sharma.
-harishkSN.
 Indra-kolge.
 Jmyekn1123.
 mitalizope.
@@ -814,6 +814,7 @@ allam1234.
 anjimuvva.
 Decoder-Paul.
 DhanushNehru.
+harishkSN.
 jesalynrose.
 KrishChothani.
 Ladirinia.
@@ -875,7 +876,6 @@ crooks-s.
 cschmidt82.
 dominik-kiss.
 Gorav-Sharma.
-harishkSN.
 Indra-kolge.
 Jaskaran-Techno.
 Jmyekn1123.
