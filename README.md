@@ -196,6 +196,7 @@ bkb68.
 DhruvBhatheja.
 SumithThota.
 divyajetti9.
+AdaOkoye-coder.
 ahmadibitoye.
 Awesomefp.
 dvn-lazywinner.
@@ -206,12 +207,11 @@ MYaswanth28.
 at8807602.
 Thrizvi.
 shreyawani98.
-ShuGitHub2022.
 
 **Top 50% contributors:**
+ShuGitHub2022.
 becksbyte.
 Abbas-57.
-AdaOkoye-coder.
 JorgeGRC.
 Noah-Drew.
 Rajat32-op.
@@ -740,6 +740,7 @@ RaunakScarlet.
 Srikanth1306.
 techTrekwithAJ.
 TVani5.
+AdaOkoye-coder.
 adarshsingh0205.
 ahmadibitoye.
 annaydas.
@@ -778,7 +779,6 @@ kumarinisha378.
 Sagar-agarwal.
 wiresgit.
 yourepicservices.
-AdaOkoye-coder.
 ChecksumFailed.
 markroethof.
 S-w-a-p-n-i-l-22.
