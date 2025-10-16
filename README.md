@@ -211,12 +211,12 @@ ShuGitHub2022.
 **Top 50% contributors:**
 becksbyte.
 Abbas-57.
+AdaOkoye-coder.
 JorgeGRC.
 Noah-Drew.
 Rajat32-op.
 HackoDev1530.
 ewatch.
-AdaOkoye-coder.
 anjimuvva.
 KrishChothani.
 LakshmiChaitanyaReddy.
@@ -778,6 +778,7 @@ kumarinisha378.
 Sagar-agarwal.
 wiresgit.
 yourepicservices.
+AdaOkoye-coder.
 ChecksumFailed.
 markroethof.
 S-w-a-p-n-i-l-22.
@@ -785,9 +786,9 @@ SNProductOwner.
 TechnologistTim.
 anguspalmer.
 Badal2k23.
-bhavyajain511.
 
 **Top 50% contributors:**
+bhavyajain511.
 HackoDev1530.
 naveenraw25.
 NBaker137.
@@ -804,7 +805,6 @@ dcord1x.
 djunaid.
 Haile-08.
 sonamtiwari8.
-AdaOkoye-coder.
 Adiana3308.
 akhoshnood.
 allam1234.
