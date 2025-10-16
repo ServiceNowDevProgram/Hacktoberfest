@@ -203,18 +203,18 @@ dvn-lazywinner.
 stefanintech.
 Vishnu-rvk.
 1shabby.
+Mahmud1087.
 MYaswanth28.
 at8807602.
 Thrizvi.
 shreyawani98.
-ShuGitHub2022.
 
 **Top 50% contributors:**
+ShuGitHub2022.
 becksbyte.
 Abbas-57.
 JorgeGRC.
 abdulsalamnafisat59-rgb.
-Mahmud1087.
 Noah-Drew.
 Rajat32-op.
 HackoDev1530.
@@ -762,6 +762,7 @@ apple9000.
 briangodfreydev.
 GauthamBellamkonda.
 Khasim-63993.
+Mahmud1087.
 odinsride.
 piyusalunke123.
 rene-el.
@@ -788,13 +789,12 @@ S-w-a-p-n-i-l-22.
 SNProductOwner.
 TechnologistTim.
 abdulsalamnafisat59-rgb.
-anguspalmer.
 
 **Top 50% contributors:**
+anguspalmer.
 Badal2k23.
 bhavyajain511.
 HackoDev1530.
-Mahmud1087.
 naveenraw25.
 NBaker137.
 Noah-Drew.
