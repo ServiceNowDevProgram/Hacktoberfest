@@ -211,6 +211,7 @@ becksbyte.
 **Top 50% contributors:**
 Abbas-57.
 JorgeGRC.
+chaitaliKundu.
 Noah-Drew.
 Rajat32-op.
 HackoDev1530.
@@ -222,7 +223,6 @@ sumanth1710.
 surajnikam111.
 abdulsalamnafisat59-rgb.
 bgrk005.
-chaitaliKundu.
 chaitanyalal18.
 durgeshservicenow-hub.
 GHSayak25.
@@ -636,6 +636,7 @@ Sriharsha19.
 stwinkle.
 
 **Top 25% contributors:**
+chaitaliKundu.
 lauri457.
 phr-nk.
 davidkwhuang.
@@ -655,7 +656,6 @@ vijaytalupula.
 AdityaBala2026.
 alyaanbasha.
 ariyadmir.
-chaitaliKundu.
 gregorwmail.
 harishankert.
 iamshankha.
