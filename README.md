@@ -156,8 +156,8 @@ Atul-LNG.
 Soumyadeep10.
 sivamuruganandam-coder.
 sumanthdosapati.
-NavyasreeBolleboyana.
 bird-03.
+NavyasreeBolleboyana.
 Paulsylo25.
 niamccash.
 Mexiprince.
@@ -211,7 +211,6 @@ becksbyte.
 **Top 50% contributors:**
 Abbas-57.
 JorgeGRC.
-chaitaliKundu.
 Noah-Drew.
 Rajat32-op.
 HackoDev1530.
@@ -223,6 +222,7 @@ sumanth1710.
 surajnikam111.
 abdulsalamnafisat59-rgb.
 bgrk005.
+chaitaliKundu.
 chaitanyalal18.
 durgeshservicenow-hub.
 GHSayak25.
@@ -497,8 +497,8 @@ snamjosh.
 ravichandra1998g.
 chetnadev.
 kmohit2809.
-chelming.
 bird-03.
+chelming.
 sandeepd26.
 WillemZeiler.
 koratalas.
@@ -636,7 +636,6 @@ Sriharsha19.
 stwinkle.
 
 **Top 25% contributors:**
-chaitaliKundu.
 lauri457.
 phr-nk.
 davidkwhuang.
@@ -656,6 +655,7 @@ vijaytalupula.
 AdityaBala2026.
 alyaanbasha.
 ariyadmir.
+chaitaliKundu.
 gregorwmail.
 harishankert.
 iamshankha.
