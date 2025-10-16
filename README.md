@@ -204,9 +204,9 @@ Vishnu-rvk.
 1shabby.
 at8807602.
 Thrizvi.
+shreyawani98.
 ShuGitHub2022.
 becksbyte.
-shreyawani98.
 
 **Top 50% contributors:**
 Abbas-57.
@@ -578,8 +578,8 @@ DanielMadsenDK.
 Danmax.
 NavyasreeBolleboyana.
 PranavBhagat18.
-Irston.
 shreyawani98.
+Irston.
 litwi1rm.
 mak1A4.
 mskoddow.
