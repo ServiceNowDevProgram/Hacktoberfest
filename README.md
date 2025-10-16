@@ -213,6 +213,7 @@ ShuGitHub2022.
 becksbyte.
 Abbas-57.
 JorgeGRC.
+abdulsalamnafisat59-rgb.
 Noah-Drew.
 Rajat32-op.
 HackoDev1530.
@@ -222,7 +223,6 @@ KrishChothani.
 LakshmiChaitanyaReddy.
 sumanth1710.
 surajnikam111.
-abdulsalamnafisat59-rgb.
 bgrk005.
 chaitaliKundu.
 chaitanyalal18.
@@ -784,10 +784,11 @@ markroethof.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
 TechnologistTim.
+abdulsalamnafisat59-rgb.
 anguspalmer.
-Badal2k23.
 
 **Top 50% contributors:**
+Badal2k23.
 bhavyajain511.
 HackoDev1530.
 naveenraw25.
@@ -824,7 +825,6 @@ SaiSankar1309.
 soham-shee.
 surajnikam111.
 UTSAVS26.
-abdulsalamnafisat59-rgb.
 chaitanyalal18.
 DChotaliya.
 durgeshservicenow-hub.
