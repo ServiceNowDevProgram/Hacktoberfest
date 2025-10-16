@@ -247,6 +247,7 @@ dominik-kiss.
 
 **Other contributors:**
 Gorav-Sharma.
+harishkSN.
 Indra-kolge.
 Jmyekn1123.
 mitalizope.
@@ -289,7 +290,6 @@ Dnyanesh182.
 Ehabpilloor.
 eriemer1.
 Folorunshoginni.
-harishkSN.
 Its-Nmk.
 jonahpiascik.
 mady22070.
@@ -875,6 +875,7 @@ crooks-s.
 cschmidt82.
 dominik-kiss.
 Gorav-Sharma.
+harishkSN.
 Indra-kolge.
 Jaskaran-Techno.
 Jmyekn1123.
@@ -937,9 +938,9 @@ mevops.
 mikeroosa.
 moshjahan.
 msdfib.
-mwchiao.
 
 **Other contributors:**
+mwchiao.
 nehatalha725.
 NilotpalMaitra.
 pavankumar-4.
@@ -1074,7 +1075,6 @@ gurudev-7.
 hacktoberfestservicenow.
 han-le.
 HariniSnow.
-harishkSN.
 himanisinghal.
 ishanjain18.
 isrbaral.
