@@ -216,6 +216,7 @@ Noah-Drew.
 Rajat32-op.
 HackoDev1530.
 ewatch.
+AdaOkoye-coder.
 anjimuvva.
 KrishChothani.
 LakshmiChaitanyaReddy.
@@ -236,7 +237,6 @@ mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
 Rajasree2004.
-AdaOkoye-coder.
 afislonge.
 alkaChaudhary73.
 Charanjet.
@@ -804,6 +804,7 @@ dcord1x.
 djunaid.
 Haile-08.
 sonamtiwari8.
+AdaOkoye-coder.
 Adiana3308.
 akhoshnood.
 allam1234.
@@ -865,7 +866,6 @@ pviglianti.
 Rajasree2004.
 Shreedevisnow.
 sisco0.
-AdaOkoye-coder.
 afislonge.
 ashaw7697.
 Beeram12.
