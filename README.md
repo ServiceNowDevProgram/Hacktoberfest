@@ -176,6 +176,7 @@ naveensnow.
 anveshmupparaju.
 brenduh.
 bhavyaa30.
+GokulkumarV.
 Jaspalsinghchot.
 Shashank102002.
 Sriharsha19.
@@ -183,7 +184,6 @@ lauri457.
 maheshkhatal27.
 chetnadev.
 JohanDC-1999.
-GokulkumarV.
 gowdah.
 SrijanPatwa.
 iamshankha.
@@ -620,6 +620,7 @@ naveensnow.
 pallipoina92.
 sheikhafsarzap.
 sravankadudhuri.
+GokulkumarV.
 jonahpiascik.
 kylburns89.
 bhavyaa30.
@@ -635,13 +636,12 @@ Shashank102002.
 shraddhakadam301298.
 shridk.
 Sriharsha19.
-stwinkle.
 
 **Top 25% contributors:**
+stwinkle.
 lauri457.
 phr-nk.
 davidkwhuang.
-GokulkumarV.
 JohanDC-1999.
 mandeepkaran.
 zahidask.
