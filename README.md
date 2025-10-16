@@ -243,9 +243,9 @@ Charanjet.
 chelming.
 DanielMadsenDK.
 Danmax.
+dominik-kiss.
 
 **Other contributors:**
-dominik-kiss.
 Gorav-Sharma.
 Indra-kolge.
 Jmyekn1123.
@@ -408,6 +408,7 @@ MrRohit2506.
 narayankr12.
 natemac47.
 navyamasapu98.
+Nayanika-Acharjee.
 nikhilkumar76.
 niladriAdhikari.
 NirajDN.
@@ -636,9 +637,9 @@ Shashank102002.
 shraddhakadam301298.
 shridk.
 Sriharsha19.
+stwinkle.
 
 **Top 25% contributors:**
-stwinkle.
 lauri457.
 phr-nk.
 davidkwhuang.
@@ -1650,6 +1651,7 @@ narayankr12.
 natefern.
 natemac47.
 navyamasapu98.
+Nayanika-Acharjee.
 nayeemwajid97.
 neenaSharma1.
 neerajs296.
