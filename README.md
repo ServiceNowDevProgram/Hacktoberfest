@@ -245,6 +245,7 @@ DanielMadsenDK.
 Danmax.
 
 **Other contributors:**
+dominik-kiss.
 Gorav-Sharma.
 Indra-kolge.
 Jmyekn1123.
@@ -258,7 +259,6 @@ Abhishek2634.
 AdityaBala2026.
 AyanAhmedKhan.
 CODEBRAKERBOYY.
-dominik-kiss.
 harshal045.
 nehatalha725.
 PranavTamada.
@@ -871,6 +871,7 @@ ashaw7697.
 Beeram12.
 crooks-s.
 cschmidt82.
+dominik-kiss.
 Gorav-Sharma.
 Indra-kolge.
 Jaskaran-Techno.
@@ -911,7 +912,6 @@ deathkraiser.
 demetris7.
 devalcodes.
 dhruvii-powershell.
-dominik-kiss.
 dorsy99.
 ezratkim.
 harshal045.
