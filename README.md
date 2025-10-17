@@ -227,7 +227,6 @@ anjimuvva.
 Charanjet.
 harishkSN.
 KrishChothani.
-SachinNarayanasamy.
 sumanth1710.
 surajnikam111.
 andrey-verevkin.
@@ -248,14 +247,15 @@ alkaChaudhary73.
 chelming.
 DanielMadsenDK.
 Danmax.
+dominik-kiss.
 
 **Other contributors:**
-dominik-kiss.
 Gorav-Sharma.
 Jmyekn1123.
 mitalizope.
 pankajrj.
 Priscilladevtech.
+SachinNarayanasamy.
 SwapnaAbburi.
 TejasSNOW.
 zstromsodt.
@@ -837,7 +837,6 @@ MiroslawBuszek.
 osc99.
 pandeysumit-now.
 patrickpaterlini.
-SachinNarayanasamy.
 SaiSankar1309.
 soham-shee.
 surajnikam111.
@@ -896,6 +895,7 @@ nvprav.
 pankajrj.
 Priscilladevtech.
 RagaChitraMankala.
+SachinNarayanasamy.
 ShakthiSn.
 SwapnaAbburi.
 tejasathalye.
