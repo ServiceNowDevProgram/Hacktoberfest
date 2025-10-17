@@ -198,6 +198,7 @@ spnegi.
 AnandMahajan2799.
 bkb68.
 Indra-kolge.
+Vishnu-rvk.
 DhruvBhatheja.
 Mahmud1087.
 SumithThota.
@@ -205,7 +206,6 @@ divyajetti9.
 ahmadibitoye.
 dvn-lazywinner.
 stefanintech.
-Vishnu-rvk.
 1shabby.
 at8807602.
 shreyawani98.
@@ -568,17 +568,17 @@ sivamuruganandam-coder.
 azeezgaa.
 brenduh.
 deepak-64742.
+Vishnu-rvk.
 alkaChaudhary73.
 rafzk.
-anillande90.
 
 **Top 10% contributors:**
+anillande90.
 ayleeandersen.
 Abhishekchowdarapu.
 alikuttyka.
 animeshdasgit.
 aswamy93.
-Vishnu-rvk.
 YTejaswini18.
 BadalHub.
 MrChrisE.
