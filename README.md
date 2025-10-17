@@ -180,9 +180,9 @@ bhavyaa30.
 Jaspalsinghchot.
 Shashank102002.
 Sriharsha19.
+Awesomefp.
 lauri457.
 maheshkhatal27.
-Awesomefp.
 chetnadev.
 chiemeriechibuzor.
 JohanDC-1999.
@@ -647,9 +647,9 @@ Sriharsha19.
 stwinkle.
 
 **Top 25% contributors:**
+Awesomefp.
 lauri457.
 phr-nk.
-Awesomefp.
 chiemeriechibuzor.
 davidkwhuang.
 JohanDC-1999.
