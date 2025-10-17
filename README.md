@@ -256,6 +256,7 @@ pankajrj.
 Priscilladevtech.
 SwapnaAbburi.
 TejasSNOW.
+vijaykumar7177.
 zstromsodt.
 404paige.
 Abhishek2634.
@@ -319,7 +320,6 @@ ToosinDada.
 TRIGGEREDcoder.
 uvenkatateja.
 VaishnaviDwase.
-vijaykumar7177.
 2Prerna0.
 5yruz.
 aaditya0004.
@@ -897,6 +897,7 @@ TejasSNOW.
 thameemskings.
 ToosinDada.
 umangkedia92.
+vijaykumar7177.
 vk-cloud.
 zstromsodt.
 4bode.
@@ -944,9 +945,9 @@ ManobhavSachan.
 mevops.
 mikeroosa.
 moshjahan.
-msdfib.
 
 **Other contributors:**
+msdfib.
 mwchiao.
 nehatalha725.
 NilotpalMaitra.
@@ -1168,7 +1169,6 @@ uvenkatateja.
 VaishnaviDwase.
 VarAti.
 varunasuresh92.
-vijaykumar7177.
 vishalbirajdar0712.
 vivekverma18.
 Zephyre195.
