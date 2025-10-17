@@ -207,9 +207,10 @@ Vishnu-rvk.
 1shabby.
 MYaswanth28.
 at8807602.
-Thrizvi.
+HackoDev1530.
 
 **Top 50% contributors:**
+Thrizvi.
 shreyawani98.
 ShuGitHub2022.
 becksbyte.
@@ -218,7 +219,6 @@ JorgeGRC.
 abdulsalamnafisat59-rgb.
 Noah-Drew.
 Rajat32-op.
-HackoDev1530.
 ewatch.
 anjimuvva.
 Charanjet.
@@ -765,6 +765,7 @@ anubhav-ritolia.
 apple9000.
 briangodfreydev.
 GauthamBellamkonda.
+HackoDev1530.
 Khasim-63993.
 odinsride.
 piyusalunke123.
@@ -791,13 +792,12 @@ markroethof.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
 TechnologistTim.
-abdulsalamnafisat59-rgb.
 
 **Top 50% contributors:**
+abdulsalamnafisat59-rgb.
 anguspalmer.
 Badal2k23.
 bhavyajain511.
-HackoDev1530.
 naveenraw25.
 NBaker137.
 Noah-Drew.
