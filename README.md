@@ -206,17 +206,17 @@ divyajetti9.
 ahmadibitoye.
 dvn-lazywinner.
 stefanintech.
+vijaykumar7177.
 1shabby.
 at8807602.
-shreyawani98.
 
 **Top 50% contributors:**
+shreyawani98.
 Thrizvi.
 ShuGitHub2022.
 becksbyte.
 Abbas-57.
 JorgeGRC.
-vijaykumar7177.
 abdulsalamnafisat59-rgb.
 chaitanyalal18.
 Noah-Drew.
@@ -764,6 +764,7 @@ harisnad.
 KedarisettiSreeVamsi.
 NowRishi.
 riya-vermaa.
+vijaykumar7177.
 99Saurabh19.
 allenandreas.
 AnithaA09.
@@ -797,7 +798,6 @@ markroethof.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
 TechnologistTim.
-vijaykumar7177.
 
 **Top 50% contributors:**
 abdulsalamnafisat59-rgb.
