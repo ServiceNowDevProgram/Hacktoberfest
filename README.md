@@ -264,6 +264,7 @@ AdityaBala2026.
 AyanAhmedKhan.
 ChaseMillers.
 CODEBRAKERBOYY.
+DavidMarcial.
 harshal045.
 Kart-19.
 Maheshkh9738.
@@ -360,7 +361,6 @@ brunoasantos.
 captainbraddles.
 ChiragBotkawar.
 daramcdonald96-ops.
-DavidMarcial.
 davidphilpott01.
 debugwithshubham.
 deepanshu4688.
@@ -638,6 +638,7 @@ Litwilly.
 MRSinghRajat.
 oasif.
 stefanintech.
+DavidMarcial.
 soerenmaucher.
 Adil404.
 avssrikanth.
@@ -645,9 +646,9 @@ Shashank102002.
 shraddhakadam301298.
 shridk.
 Sriharsha19.
-stwinkle.
 
 **Top 25% contributors:**
+stwinkle.
 Awesomefp.
 lauri457.
 phr-nk.
@@ -660,7 +661,6 @@ DynamiteC.
 shakeel-sheikh.
 vjtknn.
 Yokesh0811.
-DavidMarcial.
 mady22070.
 MarcMouries.
 sn-ajb.
