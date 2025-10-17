@@ -217,6 +217,7 @@ Thrizvi.
 ShuGitHub2022.
 becksbyte.
 Abbas-57.
+DanielMadsenDK.
 JorgeGRC.
 abdulsalamnafisat59-rgb.
 chaitanyalal18.
@@ -226,7 +227,6 @@ HackoDev1530.
 ewatch.
 anjimuvva.
 Charanjet.
-DanielMadsenDK.
 harishkSN.
 KrishChothani.
 sumanth1710.
@@ -567,15 +567,15 @@ sychi77.
 ronaldkarim.
 sivamuruganandam-coder.
 azeezgaa.
+DanielMadsenDK.
 brenduh.
 deepak-64742.
 alkaChaudhary73.
 rafzk.
-anillande90.
 
 **Top 10% contributors:**
+anillande90.
 ayleeandersen.
-DanielMadsenDK.
 Abhishekchowdarapu.
 alikuttyka.
 animeshdasgit.
