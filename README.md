@@ -203,18 +203,18 @@ SumithThota.
 divyajetti9.
 ahmadibitoye.
 dvn-lazywinner.
+Indra-kolge.
 stefanintech.
 Vishnu-rvk.
 1shabby.
 at8807602.
 shreyawani98.
-Thrizvi.
 
 **Top 50% contributors:**
+Thrizvi.
 ShuGitHub2022.
 becksbyte.
 Abbas-57.
-Indra-kolge.
 JorgeGRC.
 abdulsalamnafisat59-rgb.
 chaitanyalal18.
@@ -759,6 +759,7 @@ annaydas.
 goranlundqvist.
 Hamritha0506.
 harisnad.
+Indra-kolge.
 KedarisettiSreeVamsi.
 NowRishi.
 riya-vermaa.
@@ -791,7 +792,6 @@ Sagar-agarwal.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
-Indra-kolge.
 markroethof.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
