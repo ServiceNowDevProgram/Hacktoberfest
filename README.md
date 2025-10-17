@@ -214,6 +214,7 @@ shreyawani98.
 ShuGitHub2022.
 becksbyte.
 Abbas-57.
+Indra-kolge.
 JorgeGRC.
 abdulsalamnafisat59-rgb.
 Noah-Drew.
@@ -223,7 +224,6 @@ ewatch.
 anjimuvva.
 Charanjet.
 harishkSN.
-Indra-kolge.
 KrishChothani.
 sumanth1710.
 surajnikam111.
@@ -791,14 +791,15 @@ Sagar-agarwal.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
+Indra-kolge.
 markroethof.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
 TechnologistTim.
 abdulsalamnafisat59-rgb.
-anguspalmer.
 
 **Top 50% contributors:**
+anguspalmer.
 Badal2k23.
 bhavyajain511.
 HackoDev1530.
@@ -824,7 +825,6 @@ anjimuvva.
 Decoder-Paul.
 DhanushNehru.
 harishkSN.
-Indra-kolge.
 jesalynrose.
 KrishChothani.
 Ladirinia.
