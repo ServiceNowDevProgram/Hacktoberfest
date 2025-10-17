@@ -171,9 +171,10 @@ ChandBasha-code.
 Emmynem.
 juhikumarimodi6.
 naveensnow.
-anveshmupparaju.
+AdaOkoye-coder.
 
 **Top 25% contributors:**
+anveshmupparaju.
 brenduh.
 GokulkumarV.
 bhavyaa30.
@@ -183,7 +184,6 @@ Sriharsha19.
 Awesomefp.
 lauri457.
 maheshkhatal27.
-AdaOkoye-coder.
 chetnadev.
 chiemeriechibuzor.
 JohanDC-1999.
@@ -631,6 +631,7 @@ naveensnow.
 pallipoina92.
 sheikhafsarzap.
 sravankadudhuri.
+AdaOkoye-coder.
 jonahpiascik.
 kylburns89.
 bhavyaa30.
@@ -646,14 +647,13 @@ avssrikanth.
 Shashank102002.
 shraddhakadam301298.
 shridk.
-Sriharsha19.
 
 **Top 25% contributors:**
+Sriharsha19.
 stwinkle.
 Awesomefp.
 lauri457.
 phr-nk.
-AdaOkoye-coder.
 chiemeriechibuzor.
 davidkwhuang.
 JohanDC-1999.
