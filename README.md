@@ -200,6 +200,7 @@ LakshmiChaitanyaReddy.
 ahmadibitoye.
 AnandMahajan2799.
 bkb68.
+ChaseMillers.
 DhruvBhatheja.
 SumithThota.
 divyajetti9.
@@ -208,7 +209,6 @@ stefanintech.
 vijaykumar7177.
 Vishnu-rvk.
 1shabby.
-ChaseMillers.
 at8807602.
 
 **Top 50% contributors:**
@@ -727,6 +727,7 @@ Southpaw09.
 thorn91.
 Thrizvi.
 vamsi0777.
+ChaseMillers.
 DhruvBhatheja.
 HarshLMP870.
 Himanshu-skb-oo7.
@@ -772,7 +773,6 @@ AnithaA09.
 anubhav-ritolia.
 apple9000.
 briangodfreydev.
-ChaseMillers.
 GauthamBellamkonda.
 Khasim-63993.
 odinsride.
