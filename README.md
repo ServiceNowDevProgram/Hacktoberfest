@@ -226,6 +226,7 @@ HackoDev1530.
 ewatch.
 anjimuvva.
 Charanjet.
+DanielMadsenDK.
 harishkSN.
 KrishChothani.
 sumanth1710.
@@ -246,7 +247,6 @@ Rajasree2004.
 afislonge.
 alkaChaudhary73.
 chelming.
-DanielMadsenDK.
 Danmax.
 
 **Other contributors:**
@@ -575,6 +575,7 @@ anillande90.
 
 **Top 10% contributors:**
 ayleeandersen.
+DanielMadsenDK.
 Abhishekchowdarapu.
 alikuttyka.
 animeshdasgit.
@@ -588,7 +589,6 @@ vandna07.
 captainbraddles.
 abhrajyotikanrar.
 csharpie.
-DanielMadsenDK.
 Danmax.
 NavyasreeBolleboyana.
 PranavBhagat18.
