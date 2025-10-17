@@ -207,8 +207,8 @@ stefanintech.
 Vishnu-rvk.
 1shabby.
 at8807602.
-Thrizvi.
 shreyawani98.
+Thrizvi.
 
 **Top 50% contributors:**
 ShuGitHub2022.
