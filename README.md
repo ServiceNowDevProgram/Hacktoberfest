@@ -171,9 +171,9 @@ ChandBasha-code.
 Emmynem.
 juhikumarimodi6.
 naveensnow.
+anveshmupparaju.
 
 **Top 25% contributors:**
-anveshmupparaju.
 brenduh.
 GokulkumarV.
 bhavyaa30.
@@ -351,6 +351,7 @@ Aruncr123.
 Aryan-Bhendarkar.
 Ash0807.
 Ayush-216.
+Azazelxo0.
 Bharathkogilamane274.
 bhavani-konda.
 brunoasantos.
@@ -795,9 +796,9 @@ S-w-a-p-n-i-l-22.
 SNProductOwner.
 TechnologistTim.
 abdulsalamnafisat59-rgb.
+anguspalmer.
 
 **Top 50% contributors:**
-anguspalmer.
 Badal2k23.
 bhavyajain511.
 HackoDev1530.
@@ -946,9 +947,9 @@ Maheshkh9738.
 ManobhavSachan.
 mevops.
 mikeroosa.
+moshjahan.
 
 **Other contributors:**
-moshjahan.
 msdfib.
 mwchiao.
 nehatalha725.
@@ -1273,6 +1274,7 @@ Ayush-216.
 ayush06195.
 Ayushi22-coder.
 azabadaudiya.
+Azazelxo0.
 BAB533.
 Balamurugan-RR.
 banjofrailer.
