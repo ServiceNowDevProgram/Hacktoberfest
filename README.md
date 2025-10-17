@@ -245,9 +245,9 @@ alkaChaudhary73.
 chelming.
 DanielMadsenDK.
 Danmax.
+dominik-kiss.
 
 **Other contributors:**
-dominik-kiss.
 Gorav-Sharma.
 Indra-kolge.
 Jmyekn1123.
@@ -464,6 +464,7 @@ shubsolos19.
 Sireesha-kante.
 slytechiefrommagentashore.
 Smoothengineer.
+snehapotadar1-bot.
 SoftSage07.
 Southpaw09.
 SUMEDHFORTES.
@@ -790,9 +791,9 @@ markroethof.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
 TechnologistTim.
+abdulsalamnafisat59-rgb.
 
 **Top 50% contributors:**
-abdulsalamnafisat59-rgb.
 anguspalmer.
 Badal2k23.
 bhavyajain511.
@@ -940,9 +941,9 @@ lakshyatyagi24.
 loudigi.
 ManobhavSachan.
 mevops.
+mikeroosa.
 
 **Other contributors:**
-mikeroosa.
 moshjahan.
 msdfib.
 mwchiao.
@@ -1845,6 +1846,7 @@ smkylecribbs.
 Smoothengineer.
 smoothwood.
 SMS2612.
+snehapotadar1-bot.
 snehauj.
 SNOWMac75.
 SoftSage07.
