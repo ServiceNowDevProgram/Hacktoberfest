@@ -223,6 +223,7 @@ ewatch.
 anjimuvva.
 Charanjet.
 harishkSN.
+Indra-kolge.
 KrishChothani.
 sumanth1710.
 surajnikam111.
@@ -246,11 +247,10 @@ alkaChaudhary73.
 chelming.
 DanielMadsenDK.
 Danmax.
-dominik-kiss.
 
 **Other contributors:**
+dominik-kiss.
 Gorav-Sharma.
-Indra-kolge.
 Jmyekn1123.
 mitalizope.
 pankajrj.
@@ -823,6 +823,7 @@ anjimuvva.
 Decoder-Paul.
 DhanushNehru.
 harishkSN.
+Indra-kolge.
 jesalynrose.
 KrishChothani.
 Ladirinia.
@@ -884,7 +885,6 @@ crooks-s.
 cschmidt82.
 dominik-kiss.
 Gorav-Sharma.
-Indra-kolge.
 Jaskaran-Techno.
 Jmyekn1123.
 mitalizope.
