@@ -212,6 +212,7 @@ Vishnu-rvk.
 1shabby.
 
 **Top 50% contributors:**
+abdulsalamnafisat59-rgb.
 at8807602.
 shreyawani98.
 Thrizvi.
@@ -219,7 +220,6 @@ ShuGitHub2022.
 becksbyte.
 Abbas-57.
 JorgeGRC.
-abdulsalamnafisat59-rgb.
 chaitanyalal18.
 Noah-Drew.
 Rajat32-op.
@@ -768,6 +768,7 @@ NowRishi.
 riya-vermaa.
 vijaykumar7177.
 99Saurabh19.
+abdulsalamnafisat59-rgb.
 allenandreas.
 AnithaA09.
 anubhav-ritolia.
@@ -798,11 +799,10 @@ yourepicservices.
 ChecksumFailed.
 markroethof.
 S-w-a-p-n-i-l-22.
-SNProductOwner.
 
 **Top 50% contributors:**
+SNProductOwner.
 TechnologistTim.
-abdulsalamnafisat59-rgb.
 anguspalmer.
 Badal2k23.
 bhavyajain511.
