@@ -201,20 +201,20 @@ SumithThota.
 divyajetti9.
 ahmadibitoye.
 dvn-lazywinner.
+LakshmiChaitanyaReddy.
 stefanintech.
 Vishnu-rvk.
 1shabby.
 MYaswanth28.
 at8807602.
 Thrizvi.
-shreyawani98.
 
 **Top 50% contributors:**
+shreyawani98.
 ShuGitHub2022.
 becksbyte.
 Abbas-57.
 JorgeGRC.
-LakshmiChaitanyaReddy.
 abdulsalamnafisat59-rgb.
 Noah-Drew.
 Rajat32-op.
@@ -754,6 +754,7 @@ goranlundqvist.
 Hamritha0506.
 harisnad.
 KedarisettiSreeVamsi.
+LakshmiChaitanyaReddy.
 NowRishi.
 riya-vermaa.
 99Saurabh19.
@@ -785,7 +786,6 @@ Sagar-agarwal.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
-LakshmiChaitanyaReddy.
 markroethof.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
