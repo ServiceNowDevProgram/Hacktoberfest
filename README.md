@@ -226,6 +226,7 @@ harishkSN.
 KrishChothani.
 sumanth1710.
 surajnikam111.
+vijaykumar7177.
 andrey-verevkin.
 bgrk005.
 chaitaliKundu.
@@ -246,9 +247,9 @@ chelming.
 DanielMadsenDK.
 Danmax.
 dominik-kiss.
-Gorav-Sharma.
 
 **Other contributors:**
+Gorav-Sharma.
 Indra-kolge.
 Jmyekn1123.
 mitalizope.
@@ -256,7 +257,6 @@ pankajrj.
 Priscilladevtech.
 SwapnaAbburi.
 TejasSNOW.
-vijaykumar7177.
 zstromsodt.
 404paige.
 Abhishek2634.
@@ -835,6 +835,7 @@ SaiSankar1309.
 soham-shee.
 surajnikam111.
 UTSAVS26.
+vijaykumar7177.
 andrey-verevkin.
 chaitanyalal18.
 DChotaliya.
@@ -898,7 +899,6 @@ TejasSNOW.
 thameemskings.
 ToosinDada.
 umangkedia92.
-vijaykumar7177.
 vk-cloud.
 zstromsodt.
 4bode.
