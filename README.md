@@ -222,6 +222,7 @@ Thrizvi.
 ShuGitHub2022.
 becksbyte.
 Abbas-57.
+himanshu7895.
 JorgeGRC.
 VaishnaviLathkar98.
 chaitanyalal18.
@@ -230,7 +231,6 @@ HackoDev1530.
 ewatch.
 anjimuvva.
 harishkSN.
-himanshu7895.
 KrishChothani.
 mitalizope.
 mskoddow.
@@ -575,9 +575,10 @@ sivamuruganandam-coder.
 azeezgaa.
 brenduh.
 deepak-64742.
-alkaChaudhary73.
+himanshu7895.
 
 **Top 10% contributors:**
+alkaChaudhary73.
 rafzk.
 anillande90.
 VaishnaviLathkar98.
@@ -589,7 +590,6 @@ aswamy93.
 Vishnu-rvk.
 YTejaswini18.
 BadalHub.
-himanshu7895.
 MrChrisE.
 selvarun-umass.
 vandna07.
