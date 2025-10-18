@@ -202,6 +202,7 @@ debendu-das.
 himanshu7895.
 Mahmud1087.
 spnegi.
+chaitaliKundu.
 LakshmiChaitanyaReddy.
 AnandMahajan2799.
 bkb68.
@@ -209,7 +210,6 @@ DanielMadsenDK.
 dvn-lazywinner.
 abdulsalamnafisat59-rgb.
 DhruvBhatheja.
-chaitaliKundu.
 divyajetti9.
 
 **Top 50% contributors:**
@@ -616,6 +616,7 @@ hentonjd.
 23Thom.
 aatrey882.
 salmaniqbal92.
+chaitaliKundu.
 ChandBasha-code.
 mohitchauhan-dev.
 mr-swann.
@@ -627,7 +628,6 @@ prashantmrshine.
 RaviGaurav007.
 Dhruvyadav2000.
 manrick.
-chaitaliKundu.
 abhix2112.
 hafsa-asif.
 juhikumarimodi6.
