@@ -223,9 +223,9 @@ ShuGitHub2022.
 becksbyte.
 Abbas-57.
 JorgeGRC.
+VaishnaviLathkar98.
 chaitanyalal18.
 Rajat32-op.
-VaishnaviLathkar98.
 HackoDev1530.
 ewatch.
 anjimuvva.
@@ -579,8 +579,8 @@ alkaChaudhary73.
 **Top 10% contributors:**
 rafzk.
 anillande90.
-ayleeandersen.
 VaishnaviLathkar98.
+ayleeandersen.
 Abhishekchowdarapu.
 alikuttyka.
 animeshdasgit.
