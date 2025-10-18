@@ -210,9 +210,10 @@ divyajetti9.
 chaitaliKundu.
 dvn-lazywinner.
 stefanintech.
-Vishnu-rvk.
+VaishnaviLathkar98.
 
 **Top 50% contributors:**
+Vishnu-rvk.
 1shabby.
 Noah-Drew.
 at8807602.
@@ -224,7 +225,6 @@ becksbyte.
 Abbas-57.
 himanshu7895.
 JorgeGRC.
-VaishnaviLathkar98.
 chaitanyalal18.
 Rajat32-op.
 HackoDev1530.
@@ -572,16 +572,16 @@ stevezero.
 sychi77.
 ronaldkarim.
 sivamuruganandam-coder.
+VaishnaviLathkar98.
 azeezgaa.
 brenduh.
 deepak-64742.
-himanshu7895.
 
 **Top 10% contributors:**
+himanshu7895.
 alkaChaudhary73.
 rafzk.
 anillande90.
-VaishnaviLathkar98.
 ayleeandersen.
 Abhishekchowdarapu.
 alikuttyka.
