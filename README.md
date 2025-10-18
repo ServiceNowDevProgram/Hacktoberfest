@@ -208,13 +208,13 @@ AnandMahajan2799.
 bkb68.
 DanielMadsenDK.
 dvn-lazywinner.
+Vishnu-rvk.
 abdulsalamnafisat59-rgb.
 DhruvBhatheja.
-divyajetti9.
 
 **Top 50% contributors:**
+divyajetti9.
 stefanintech.
-Vishnu-rvk.
 1shabby.
 Noah-Drew.
 at8807602.
@@ -579,6 +579,7 @@ brenduh.
 deepak-64742.
 
 **Top 10% contributors:**
+Vishnu-rvk.
 alkaChaudhary73.
 rafzk.
 anillande90.
@@ -587,7 +588,6 @@ Abhishekchowdarapu.
 alikuttyka.
 animeshdasgit.
 aswamy93.
-Vishnu-rvk.
 YTejaswini18.
 BadalHub.
 MrChrisE.
