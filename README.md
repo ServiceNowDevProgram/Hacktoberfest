@@ -206,11 +206,11 @@ LakshmiChaitanyaReddy.
 AnandMahajan2799.
 bkb68.
 DanielMadsenDK.
+dvn-lazywinner.
 abdulsalamnafisat59-rgb.
 DhruvBhatheja.
 chaitaliKundu.
 divyajetti9.
-dvn-lazywinner.
 
 **Top 50% contributors:**
 stefanintech.
@@ -619,6 +619,7 @@ salmaniqbal92.
 ChandBasha-code.
 mohitchauhan-dev.
 mr-swann.
+dvn-lazywinner.
 Munnisona.
 AdaOkoye-coder.
 prashantmrshine.
@@ -633,7 +634,6 @@ ovarn.
 QI-XING.
 anurampalli.
 devinvalencia.
-dvn-lazywinner.
 Emmynem.
 GokulkumarV.
 naveensnow.
