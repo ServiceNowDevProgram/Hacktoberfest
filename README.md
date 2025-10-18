@@ -240,6 +240,7 @@ bgrk005.
 durgeshservicenow-hub.
 GHSayak25.
 himanshu7895.
+NayeemKaka.
 sa173199.
 sandeepd26.
 trupti65.
@@ -248,9 +249,9 @@ sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
 Rajasree2004.
 afislonge.
-alkaChaudhary73.
 
 **Other contributors:**
+alkaChaudhary73.
 chelming.
 Danmax.
 dominik-kiss.
@@ -270,7 +271,6 @@ DavidMarcial.
 harshal045.
 Kart-19.
 Maheshkh9738.
-NayeemKaka.
 nehatalha725.
 prakritimallick1308.
 PranavTamada.
@@ -789,6 +789,7 @@ Pradeep567iaf.
 pratyushasndev.
 SumithThota.
 nag39g.
+NayeemKaka.
 ShuGitHub2022.
 becksbyte.
 homealone07.
@@ -800,9 +801,9 @@ Sagar-agarwal.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
-markroethof.
 
 **Top 50% contributors:**
+markroethof.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
 TechnologistTim.
@@ -821,7 +822,6 @@ ttoter.
 AlphaEagle.
 JWITSM.
 mo-dahir.
-NayeemKaka.
 dcord1x.
 djunaid.
 Haile-08.
