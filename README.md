@@ -208,8 +208,8 @@ bkb68.
 DanielMadsenDK.
 abdulsalamnafisat59-rgb.
 DhruvBhatheja.
-divyajetti9.
 chaitaliKundu.
+divyajetti9.
 dvn-lazywinner.
 
 **Top 50% contributors:**
@@ -625,8 +625,8 @@ prashantmrshine.
 RaviGaurav007.
 Dhruvyadav2000.
 manrick.
-abhix2112.
 chaitaliKundu.
+abhix2112.
 hafsa-asif.
 juhikumarimodi6.
 ovarn.
