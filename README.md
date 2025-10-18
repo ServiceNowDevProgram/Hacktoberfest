@@ -278,7 +278,6 @@ selvarun-umass.
 Siddhartha03D.
 SinghCod3r.
 bhavishyavelaga.
-jahnaviT2003.
 kmohit2809.
 mitkarisunil.
 akshaydnetake.
@@ -711,7 +710,6 @@ OrgovanGeza.
 Abbas-57.
 arhaan2019.
 designitsecure.
-jahnaviT2003.
 LakshmiChaitanyaReddy.
 llipovsky.
 prynacshrma.
@@ -758,6 +756,7 @@ ewatch.
 Harshuu870.
 hrichiksite.
 Iuliak.
+jahnaviT2003.
 RaunakScarlet.
 Srikanth1306.
 techTrekwithAJ.
