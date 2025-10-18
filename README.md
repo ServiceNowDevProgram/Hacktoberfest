@@ -220,6 +220,7 @@ Thrizvi.
 ShuGitHub2022.
 becksbyte.
 Abbas-57.
+Charanjet.
 DanielMadsenDK.
 JorgeGRC.
 chaitanyalal18.
@@ -227,7 +228,6 @@ Rajat32-op.
 HackoDev1530.
 ewatch.
 anjimuvva.
-Charanjet.
 harishkSN.
 KrishChothani.
 mitalizope.
@@ -593,6 +593,7 @@ Danmax.
 NavyasreeBolleboyana.
 PranavBhagat18.
 shreyawani98.
+Charanjet.
 Irston.
 mskoddow.
 litwi1rm.
@@ -608,7 +609,6 @@ hentonjd.
 aatrey882.
 salmaniqbal92.
 ChandBasha-code.
-Charanjet.
 mohitchauhan-dev.
 mr-swann.
 chaitaliKundu.
