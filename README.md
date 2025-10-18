@@ -203,19 +203,19 @@ AnandMahajan2799.
 bkb68.
 DanielMadsenDK.
 DhruvBhatheja.
-SumithThota.
 divyajetti9.
 dvn-lazywinner.
 stefanintech.
 vijaykumar7177.
 Vishnu-rvk.
 1shabby.
+abdulsalamnafisat59-rgb.
 
 **Top 50% contributors:**
-abdulsalamnafisat59-rgb.
 Noah-Drew.
 at8807602.
 shreyawani98.
+SumithThota.
 Thrizvi.
 ShuGitHub2022.
 becksbyte.
@@ -229,6 +229,7 @@ anjimuvva.
 Charanjet.
 harishkSN.
 KrishChothani.
+mskoddow.
 sumanth1710.
 surajnikam111.
 andrey-verevkin.
@@ -236,7 +237,6 @@ bgrk005.
 chaitaliKundu.
 durgeshservicenow-hub.
 GHSayak25.
-mskoddow.
 sa173199.
 sandeepd26.
 trupti65.
@@ -594,9 +594,9 @@ NavyasreeBolleboyana.
 PranavBhagat18.
 shreyawani98.
 Irston.
+mskoddow.
 litwi1rm.
 mak1A4.
-mskoddow.
 shivamTodwal.
 bgrk005.
 iar42.
@@ -738,7 +738,6 @@ Suri123789.
 yansa-reece.
 aman2519.
 dalestubblefield.
-SumithThota.
 vermaamit1664.
 watrick.
 almajam.
@@ -786,6 +785,7 @@ Tushnik-cyber.
 fn20200323.
 Pradeep567iaf.
 pratyushasndev.
+SumithThota.
 nag39g.
 ShuGitHub2022.
 becksbyte.
