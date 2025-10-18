@@ -209,9 +209,10 @@ vijaykumar7177.
 Vishnu-rvk.
 1shabby.
 abdulsalamnafisat59-rgb.
-Noah-Drew.
+chaitaliKundu.
 
 **Top 50% contributors:**
+Noah-Drew.
 at8807602.
 shreyawani98.
 SumithThota.
@@ -221,7 +222,6 @@ becksbyte.
 Abbas-57.
 DanielMadsenDK.
 JorgeGRC.
-chaitaliKundu.
 chaitanyalal18.
 Rajat32-op.
 HackoDev1530.
@@ -625,6 +625,7 @@ juhikumarimodi6.
 ovarn.
 QI-XING.
 anurampalli.
+chaitaliKundu.
 devinvalencia.
 dvn-lazywinner.
 Emmynem.
@@ -647,13 +648,12 @@ Adil404.
 avssrikanth.
 Shashank102002.
 shraddhakadam301298.
-shridk.
 
 **Top 25% contributors:**
+shridk.
 Sriharsha19.
 stwinkle.
 Awesomefp.
-chaitaliKundu.
 lauri457.
 phr-nk.
 chiemeriechibuzor.
