@@ -205,13 +205,14 @@ DanielMadsenDK.
 abdulsalamnafisat59-rgb.
 DhruvBhatheja.
 divyajetti9.
+Charanjet.
 dvn-lazywinner.
 stefanintech.
 vijaykumar7177.
 Vishnu-rvk.
-1shabby.
 
 **Top 50% contributors:**
+1shabby.
 chaitaliKundu.
 Noah-Drew.
 at8807602.
@@ -221,7 +222,6 @@ Thrizvi.
 ShuGitHub2022.
 becksbyte.
 Abbas-57.
-Charanjet.
 JorgeGRC.
 chaitanyalal18.
 Rajat32-op.
@@ -585,6 +585,7 @@ aswamy93.
 Vishnu-rvk.
 YTejaswini18.
 BadalHub.
+Charanjet.
 MrChrisE.
 selvarun-umass.
 vandna07.
@@ -595,7 +596,6 @@ Danmax.
 NavyasreeBolleboyana.
 PranavBhagat18.
 shreyawani98.
-Charanjet.
 Irston.
 mskoddow.
 litwi1rm.
