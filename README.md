@@ -166,20 +166,20 @@ Mexiprince.
 ChandBasha-code.
 jiteshmalik.
 AdaOkoye-coder.
+chiemeriechibuzor.
 JonSandoval.
 RaviGaurav007.
 kmxo.
 abhix2112.
 anurampalli.
-Emmynem.
 
 **Top 25% contributors:**
+Emmynem.
 juhikumarimodi6.
 naveensnow.
 anveshmupparaju.
 brenduh.
 ChaseMillers.
-chiemeriechibuzor.
 GokulkumarV.
 VaishnaviLathkar98.
 bhavyaa30.
@@ -622,6 +622,7 @@ mr-swann.
 dvn-lazywinner.
 Munnisona.
 AdaOkoye-coder.
+chiemeriechibuzor.
 prashantmrshine.
 RaviGaurav007.
 Dhruvyadav2000.
@@ -641,7 +642,6 @@ pallipoina92.
 sheikhafsarzap.
 sravankadudhuri.
 ChaseMillers.
-chiemeriechibuzor.
 jonahpiascik.
 kylburns89.
 bhavyaa30.
