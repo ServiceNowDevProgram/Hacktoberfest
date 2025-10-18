@@ -205,12 +205,12 @@ LakshmiChaitanyaReddy.
 AnandMahajan2799.
 bkb68.
 DanielMadsenDK.
+himanshu7895.
 abdulsalamnafisat59-rgb.
 DhruvBhatheja.
 divyajetti9.
 chaitaliKundu.
 dvn-lazywinner.
-himanshu7895.
 
 **Top 50% contributors:**
 stefanintech.
@@ -564,13 +564,13 @@ DanielMadsenDK.
 urspvs.
 404paige.
 ankitshu.
+himanshu7895.
 bkb68.
 MYaswanth28.
 spnegi.
 JonSandoval.
 Radhe-Manasa.
 Charanjet.
-himanshu7895.
 stevezero.
 sychi77.
 ronaldkarim.
