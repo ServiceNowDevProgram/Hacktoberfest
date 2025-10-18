@@ -178,6 +178,7 @@ anveshmupparaju.
 brenduh.
 GokulkumarV.
 Indra-kolge.
+vijaykumar7177.
 bhavyaa30.
 Jaspalsinghchot.
 Shashank102002.
@@ -188,7 +189,6 @@ maheshkhatal27.
 chetnadev.
 chiemeriechibuzor.
 JohanDC-1999.
-vijaykumar7177.
 ChaseMillers.
 gowdah.
 MYaswanth28.
@@ -639,6 +639,7 @@ sravankadudhuri.
 Indra-kolge.
 jonahpiascik.
 kylburns89.
+vijaykumar7177.
 bhavyaa30.
 danr2c2.
 Litwilly.
@@ -649,9 +650,9 @@ DavidMarcial.
 soerenmaucher.
 Adil404.
 avssrikanth.
-Shashank102002.
 
 **Top 25% contributors:**
+Shashank102002.
 shraddhakadam301298.
 shridk.
 Sriharsha19.
@@ -663,7 +664,6 @@ chiemeriechibuzor.
 davidkwhuang.
 JohanDC-1999.
 mandeepkaran.
-vijaykumar7177.
 zahidask.
 ChaseMillers.
 DynamiteC.
