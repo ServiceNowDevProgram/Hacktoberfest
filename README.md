@@ -242,15 +242,16 @@ himanshu7895.
 sa173199.
 sandeepd26.
 trupti65.
+VaishnaviLathkar98.
 mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
 Rajasree2004.
 afislonge.
 alkaChaudhary73.
-chelming.
 
 **Other contributors:**
+chelming.
 Danmax.
 dominik-kiss.
 Gorav-Sharma.
@@ -275,7 +276,6 @@ PranavTamada.
 selvarun-umass.
 Siddhartha03D.
 SinghCod3r.
-VaishnaviLathkar98.
 bhavishyavelaga.
 kmohit2809.
 mitkarisunil.
@@ -597,6 +597,7 @@ Danmax.
 NavyasreeBolleboyana.
 PranavBhagat18.
 shreyawani98.
+VaishnaviLathkar98.
 Irston.
 mskoddow.
 litwi1rm.
@@ -608,7 +609,6 @@ lakshmikanthgupta.
 mlemartien.
 riya-misra-1.
 hentonjd.
-VaishnaviLathkar98.
 23Thom.
 aatrey882.
 salmaniqbal92.
