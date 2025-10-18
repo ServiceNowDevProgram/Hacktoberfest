@@ -201,12 +201,12 @@ spnegi.
 LakshmiChaitanyaReddy.
 AnandMahajan2799.
 bkb68.
+Charanjet.
 DanielMadsenDK.
 abdulsalamnafisat59-rgb.
 DhruvBhatheja.
 divyajetti9.
 chaitaliKundu.
-Charanjet.
 dvn-lazywinner.
 stefanintech.
 vijaykumar7177.
@@ -572,10 +572,11 @@ sivamuruganandam-coder.
 azeezgaa.
 brenduh.
 deepak-64742.
+Charanjet.
 alkaChaudhary73.
-rafzk.
 
 **Top 10% contributors:**
+rafzk.
 anillande90.
 ayleeandersen.
 Abhishekchowdarapu.
@@ -585,7 +586,6 @@ aswamy93.
 Vishnu-rvk.
 YTejaswini18.
 BadalHub.
-Charanjet.
 MrChrisE.
 selvarun-umass.
 vandna07.
