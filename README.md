@@ -179,6 +179,7 @@ naveensnow.
 anveshmupparaju.
 brenduh.
 ChaseMillers.
+chiemeriechibuzor.
 GokulkumarV.
 VaishnaviLathkar98.
 bhavyaa30.
@@ -189,7 +190,6 @@ Awesomefp.
 lauri457.
 maheshkhatal27.
 chetnadev.
-chiemeriechibuzor.
 JohanDC-1999.
 gowdah.
 MYaswanth28.
@@ -641,6 +641,7 @@ pallipoina92.
 sheikhafsarzap.
 sravankadudhuri.
 ChaseMillers.
+chiemeriechibuzor.
 jonahpiascik.
 kylburns89.
 bhavyaa30.
@@ -652,9 +653,9 @@ stefanintech.
 DavidMarcial.
 soerenmaucher.
 Adil404.
-avssrikanth.
 
 **Top 25% contributors:**
+avssrikanth.
 Shashank102002.
 shraddhakadam301298.
 shridk.
@@ -663,7 +664,6 @@ stwinkle.
 Awesomefp.
 lauri457.
 phr-nk.
-chiemeriechibuzor.
 davidkwhuang.
 JohanDC-1999.
 mandeepkaran.
