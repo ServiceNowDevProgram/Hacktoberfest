@@ -204,13 +204,13 @@ LakshmiChaitanyaReddy.
 AnandMahajan2799.
 bkb68.
 DanielMadsenDK.
+VaishnaviLathkar98.
 abdulsalamnafisat59-rgb.
 DhruvBhatheja.
 divyajetti9.
 chaitaliKundu.
 dvn-lazywinner.
 stefanintech.
-VaishnaviLathkar98.
 
 **Top 50% contributors:**
 Vishnu-rvk.
@@ -565,6 +565,7 @@ ankitshu.
 bkb68.
 MYaswanth28.
 spnegi.
+VaishnaviLathkar98.
 JonSandoval.
 Radhe-Manasa.
 Charanjet.
@@ -572,7 +573,6 @@ stevezero.
 sychi77.
 ronaldkarim.
 sivamuruganandam-coder.
-VaishnaviLathkar98.
 azeezgaa.
 brenduh.
 deepak-64742.
