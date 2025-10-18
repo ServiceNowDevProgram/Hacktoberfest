@@ -210,9 +210,9 @@ divyajetti9.
 chaitaliKundu.
 dvn-lazywinner.
 stefanintech.
-VaishnaviLathkar98.
 
 **Top 50% contributors:**
+VaishnaviLathkar98.
 Vishnu-rvk.
 1shabby.
 Noah-Drew.
@@ -249,9 +249,9 @@ sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
 Rajasree2004.
 afislonge.
-alkaChaudhary73.
 
 **Other contributors:**
+alkaChaudhary73.
 chelming.
 Danmax.
 dominik-kiss.
@@ -278,7 +278,6 @@ selvarun-umass.
 Siddhartha03D.
 SinghCod3r.
 bhavishyavelaga.
-jahnaviT2003.
 kmohit2809.
 mitkarisunil.
 akshaydnetake.
@@ -712,7 +711,6 @@ OrgovanGeza.
 Abbas-57.
 arhaan2019.
 designitsecure.
-jahnaviT2003.
 LakshmiChaitanyaReddy.
 llipovsky.
 prynacshrma.
@@ -759,6 +757,7 @@ ewatch.
 Harshuu870.
 hrichiksite.
 Iuliak.
+jahnaviT2003.
 RaunakScarlet.
 Srikanth1306.
 techTrekwithAJ.
