@@ -198,6 +198,7 @@ iamshankha.
 ahmadibitoye.
 animeshdasgit.
 Charanjet.
+DanielMadsenDK.
 debendu-das.
 himanshu7895.
 Mahmud1087.
@@ -206,7 +207,6 @@ chaitaliKundu.
 LakshmiChaitanyaReddy.
 AnandMahajan2799.
 bkb68.
-DanielMadsenDK.
 dvn-lazywinner.
 Vishnu-rvk.
 abdulsalamnafisat59-rgb.
@@ -554,13 +554,13 @@ Mexiprince.
 hrobarikt.
 Chraiseto.
 TRIGGEREDcoder.
+DanielMadsenDK.
 SrijanPatwa.
 smartcarleen.
 himanshu7895.
 at8807602.
 debendu-das.
 sndevs-slacker-issue-reporter[bot].
-DanielMadsenDK.
 urspvs.
 404paige.
 ankitshu.
