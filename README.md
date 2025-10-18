@@ -154,8 +154,8 @@ Soumyadeep10.
 ivan-betev.
 
 **Top 10% contributors:**
-bird-03.
 Paulsylo25.
+bird-03.
 sivamuruganandam-coder.
 sumanthdosapati.
 NavyasreeBolleboyana.
@@ -529,8 +529,8 @@ eriemer1.
 paigesndev.
 sumanthdosapati.
 Atul-LNG.
-ynr-ram.
 Paulsylo25.
+ynr-ram.
 ishaanshoor.
 MGOPW.
 vhudlikar.
