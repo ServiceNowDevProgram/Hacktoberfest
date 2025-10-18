@@ -210,9 +210,9 @@ divyajetti9.
 chaitaliKundu.
 dvn-lazywinner.
 stefanintech.
+Vishnu-rvk.
 
 **Top 50% contributors:**
-Vishnu-rvk.
 1shabby.
 Noah-Drew.
 at8807602.
@@ -249,9 +249,9 @@ sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
 Rajasree2004.
 afislonge.
+alkaChaudhary73.
 
 **Other contributors:**
-alkaChaudhary73.
 chelming.
 Danmax.
 dominik-kiss.
@@ -355,6 +355,7 @@ Anubhav-developr.
 Anurag-Kar-240101094.
 Anusrita-Karmakar.
 apatti.
+Arcade-With-Us.
 Aruncr123.
 Aryan-Bhendarkar.
 Ash0807.
@@ -1257,6 +1258,7 @@ Anuraj4.
 apatti.
 apbuhssc.
 aravindbarla22.
+Arcade-With-Us.
 Archita-2023.
 Arinakathayat.
 Arit-Su.
