@@ -432,6 +432,7 @@ patfedigan.
 poojithavalli22.
 Prajwalwho.
 Pram0dh-Kumar.
+pratap360.
 praveen8808.
 priyasnexpert.
 probablyAdi.
@@ -576,9 +577,9 @@ ronaldkarim.
 sivamuruganandam-coder.
 azeezgaa.
 brenduh.
+deepak-64742.
 
 **Top 10% contributors:**
-deepak-64742.
 alkaChaudhary73.
 rafzk.
 anillande90.
@@ -652,9 +653,9 @@ stefanintech.
 DavidMarcial.
 soerenmaucher.
 Adil404.
+avssrikanth.
 
 **Top 25% contributors:**
-avssrikanth.
 Shashank102002.
 shraddhakadam301298.
 shridk.
@@ -953,10 +954,10 @@ lakshyatyagi24.
 loudigi.
 Maheshkh9738.
 ManobhavSachan.
-mevops.
-mikeroosa.
 
 **Other contributors:**
+mevops.
+mikeroosa.
 moshjahan.
 msdfib.
 mwchiao.
@@ -1725,6 +1726,7 @@ Prajwalwho.
 Pram0dh-Kumar.
 pranjalisr.
 Prasannalakshmik.
+pratap360.
 pratiksha2717.
 Pratyusha418.
 praveen8808.
