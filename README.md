@@ -208,12 +208,12 @@ chaitaliKundu.
 LakshmiChaitanyaReddy.
 AnandMahajan2799.
 bkb68.
-dvn-lazywinner.
 abdulsalamnafisat59-rgb.
 DhruvBhatheja.
+divyajetti9.
 
 **Top 50% contributors:**
-divyajetti9.
+dvn-lazywinner.
 stefanintech.
 1shabby.
 Noah-Drew.
@@ -529,8 +529,8 @@ MartinStoyanoff.
 eriemer1.
 paigesndev.
 sumanthdosapati.
-Atul-LNG.
 Paulsylo25.
+Atul-LNG.
 ynr-ram.
 ishaanshoor.
 MGOPW.
@@ -623,7 +623,6 @@ ChandBasha-code.
 mohitchauhan-dev.
 mr-swann.
 abhix2112.
-dvn-lazywinner.
 Munnisona.
 AdaOkoye-coder.
 prashantmrshine.
@@ -636,6 +635,7 @@ ovarn.
 QI-XING.
 anurampalli.
 devinvalencia.
+dvn-lazywinner.
 Emmynem.
 GokulkumarV.
 naveensnow.
