@@ -225,6 +225,7 @@ Abbas-57.
 JorgeGRC.
 chaitanyalal18.
 Rajat32-op.
+VaishnaviLathkar98.
 HackoDev1530.
 ewatch.
 anjimuvva.
@@ -242,7 +243,6 @@ himanshu7895.
 sa173199.
 sandeepd26.
 trupti65.
-VaishnaviLathkar98.
 mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
@@ -579,6 +579,7 @@ alkaChaudhary73.
 rafzk.
 anillande90.
 ayleeandersen.
+VaishnaviLathkar98.
 Abhishekchowdarapu.
 alikuttyka.
 animeshdasgit.
@@ -597,7 +598,6 @@ Danmax.
 NavyasreeBolleboyana.
 PranavBhagat18.
 shreyawani98.
-VaishnaviLathkar98.
 Irston.
 mskoddow.
 litwi1rm.
