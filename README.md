@@ -203,13 +203,13 @@ AnandMahajan2799.
 bkb68.
 Charanjet.
 DanielMadsenDK.
+vijaykumar7177.
 abdulsalamnafisat59-rgb.
 DhruvBhatheja.
 divyajetti9.
 chaitaliKundu.
 dvn-lazywinner.
 stefanintech.
-vijaykumar7177.
 
 **Top 50% contributors:**
 Vishnu-rvk.
@@ -730,6 +730,7 @@ Southpaw09.
 thorn91.
 Thrizvi.
 vamsi0777.
+vijaykumar7177.
 abdulsalamnafisat59-rgb.
 DhruvBhatheja.
 HarshLMP870.
@@ -768,7 +769,6 @@ harisnad.
 KedarisettiSreeVamsi.
 NowRishi.
 riya-vermaa.
-vijaykumar7177.
 99Saurabh19.
 allenandreas.
 AnithaA09.
