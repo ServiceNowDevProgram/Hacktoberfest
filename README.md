@@ -229,6 +229,7 @@ anjimuvva.
 Charanjet.
 harishkSN.
 KrishChothani.
+mitalizope.
 mskoddow.
 sumanth1710.
 surajnikam111.
@@ -247,13 +248,12 @@ Rajasree2004.
 afislonge.
 alkaChaudhary73.
 chelming.
-Danmax.
 
 **Other contributors:**
+Danmax.
 dominik-kiss.
 Gorav-Sharma.
 Jmyekn1123.
-mitalizope.
 pankajrj.
 Priscilladevtech.
 SwapnaAbburi.
@@ -835,6 +835,7 @@ KrishChothani.
 Ladirinia.
 miracc.
 MiroslawBuszek.
+mitalizope.
 osc99.
 pandeysumit-now.
 patrickpaterlini.
@@ -891,7 +892,6 @@ dominik-kiss.
 Gorav-Sharma.
 Jaskaran-Techno.
 Jmyekn1123.
-mitalizope.
 nvprav.
 pankajrj.
 Priscilladevtech.
