@@ -238,6 +238,7 @@ andrey-verevkin.
 bgrk005.
 durgeshservicenow-hub.
 GHSayak25.
+himanshu7895.
 sa173199.
 sandeepd26.
 trupti65.
@@ -248,9 +249,9 @@ Rajasree2004.
 afislonge.
 alkaChaudhary73.
 chelming.
-Danmax.
 
 **Other contributors:**
+Danmax.
 dominik-kiss.
 Gorav-Sharma.
 Jmyekn1123.
@@ -266,7 +267,6 @@ AyanAhmedKhan.
 CODEBRAKERBOYY.
 DavidMarcial.
 harshal045.
-himanshu7895.
 Kart-19.
 Maheshkh9738.
 nehatalha725.
@@ -590,6 +590,7 @@ MrChrisE.
 selvarun-umass.
 vandna07.
 captainbraddles.
+himanshu7895.
 abhrajyotikanrar.
 csharpie.
 Danmax.
@@ -598,7 +599,6 @@ PranavBhagat18.
 shreyawani98.
 Irston.
 mskoddow.
-himanshu7895.
 litwi1rm.
 mak1A4.
 shivamTodwal.
