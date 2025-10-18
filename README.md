@@ -196,13 +196,13 @@ SrijanPatwa.
 iamshankha.
 ahmadibitoye.
 animeshdasgit.
+Charanjet.
 debendu-das.
 Mahmud1087.
 spnegi.
 LakshmiChaitanyaReddy.
 AnandMahajan2799.
 bkb68.
-Charanjet.
 DanielMadsenDK.
 abdulsalamnafisat59-rgb.
 DhruvBhatheja.
@@ -565,6 +565,7 @@ MYaswanth28.
 spnegi.
 JonSandoval.
 Radhe-Manasa.
+Charanjet.
 stevezero.
 sychi77.
 ronaldkarim.
@@ -572,7 +573,6 @@ sivamuruganandam-coder.
 azeezgaa.
 brenduh.
 deepak-64742.
-Charanjet.
 alkaChaudhary73.
 
 **Top 10% contributors:**
