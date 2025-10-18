@@ -248,9 +248,9 @@ Rajasree2004.
 afislonge.
 alkaChaudhary73.
 chelming.
+Danmax.
 
 **Other contributors:**
-Danmax.
 dominik-kiss.
 Gorav-Sharma.
 Jmyekn1123.
@@ -486,6 +486,7 @@ tejaswahinduja2.
 tylerhermanabm.
 udaysiddapur.
 VA2707.
+VaishnaviLathkar98.
 varun1325.
 virendrapratapsinghyadav.
 Vishnugarg897.
@@ -618,9 +619,9 @@ Munnisona.
 AdaOkoye-coder.
 prashantmrshine.
 RaviGaurav007.
+VaishnaviLathkar98.
 Dhruvyadav2000.
 manrick.
-VaishnaviLathkar98.
 abhix2112.
 hafsa-asif.
 juhikumarimodi6.
