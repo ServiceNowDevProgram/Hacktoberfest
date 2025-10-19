@@ -214,6 +214,7 @@ Noah-Drew.
 
 **Top 50% contributors:**
 divyajetti9.
+NowSharif.
 dvn-lazywinner.
 Jmyekn1123.
 stefanintech.
@@ -224,7 +225,6 @@ SumithThota.
 Thrizvi.
 ShuGitHub2022.
 becksbyte.
-NowSharif.
 Abbas-57.
 JorgeGRC.
 chaitanyalal18.
@@ -752,6 +752,7 @@ Suri123789.
 yansa-reece.
 aman2519.
 dalestubblefield.
+NowSharif.
 vermaamit1664.
 watrick.
 almajam.
@@ -795,7 +796,6 @@ rmedved84.
 src107.
 Tushnik-cyber.
 fn20200323.
-NowSharif.
 Pradeep567iaf.
 pratyushasndev.
 SumithThota.
