@@ -252,12 +252,12 @@ trupti65.
 mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
-Rajasree2004.
+bharakm.
 
 **Other contributors:**
+Rajasree2004.
 afislonge.
 alkaChaudhary73.
-bharakm.
 chelming.
 Danmax.
 dominik-kiss.
@@ -890,6 +890,7 @@ ujjwalprem.
 zailugao.
 mockspeed.
 TheShashank13.
+bharakm.
 cmanik.
 pranavkhurana2011.
 rohantjoshi.
@@ -897,7 +898,6 @@ srishtinsaan.
 abhilash264.
 aftab-mirza.
 Alprez.
-bharakm.
 chris-canto-11.
 furquan5.
 harditsingh88.
