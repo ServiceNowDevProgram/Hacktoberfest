@@ -212,9 +212,9 @@ abdulsalamnafisat59-rgb.
 DhruvBhatheja.
 Noah-Drew.
 divyajetti9.
+NowSharif.
 
 **Top 50% contributors:**
-NowSharif.
 dvn-lazywinner.
 Jmyekn1123.
 stefanintech.
@@ -252,9 +252,9 @@ trupti65.
 mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
+Rajasree2004.
 
 **Other contributors:**
-Rajasree2004.
 afislonge.
 alkaChaudhary73.
 chelming.
@@ -468,6 +468,7 @@ sahilshingate01.
 samikshak-kaulkar-hacktoberfest.
 samikshak-web.
 samrat21saha.
+sandeep-rajput-infobeans.
 sanjii02.
 sanket665.
 Saptarshi3456.
@@ -1827,6 +1828,7 @@ samikshak-web.
 samrat21saha.
 samusahatpure.
 sanathan-git.
+sandeep-rajput-infobeans.
 sanjii02.
 sanket665.
 SanketJ29.
