@@ -251,9 +251,9 @@ trupti65.
 mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
+Rajasree2004.
 
 **Other contributors:**
-Rajasree2004.
 afislonge.
 alkaChaudhary73.
 chelming.
@@ -348,6 +348,7 @@ Adrija-verse.
 afk-Parth.
 afrith03.
 Akashdevin09.
+akashk6697.
 Akshaykomar890.
 akshim1702.
 alankritijain2001-dot.
@@ -1231,6 +1232,7 @@ ajbuono.
 ajithaju15.
 Akashdevin09.
 AKASHDHARDUBEY.
+akashk6697.
 AKBKCKDK444.
 akchowdam.
 akmittal.
