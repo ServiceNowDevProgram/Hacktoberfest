@@ -224,13 +224,13 @@ SumithThota.
 Thrizvi.
 ShuGitHub2022.
 becksbyte.
+NowSharif.
 Abbas-57.
 JorgeGRC.
 chaitanyalal18.
 Rajat32-op.
 HackoDev1530.
 ewatch.
-NowSharif.
 anjimuvva.
 hakinadey.
 harishkSN.
@@ -795,6 +795,7 @@ rmedved84.
 src107.
 Tushnik-cyber.
 fn20200323.
+NowSharif.
 Pradeep567iaf.
 pratyushasndev.
 SumithThota.
@@ -810,9 +811,9 @@ kumarinisha378.
 Sagar-agarwal.
 wiresgit.
 yourepicservices.
-ChecksumFailed.
 
 **Top 50% contributors:**
+ChecksumFailed.
 markroethof.
 S-w-a-p-n-i-l-22.
 SNProductOwner.
@@ -828,7 +829,6 @@ patan116.
 Rajat32-op.
 revantKulkarni.
 trade12.
-NowSharif.
 ttoter.
 AlphaEagle.
 JWITSM.
