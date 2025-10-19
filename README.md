@@ -259,6 +259,7 @@ Danmax.
 dominik-kiss.
 Gorav-Sharma.
 Jmyekn1123.
+NowSharif.
 pankajrj.
 Priscilladevtech.
 SwapnaAbburi.
@@ -312,7 +313,6 @@ mady22070.
 Mahathiveena.
 mariwarl.
 mayankgautam-dev.
-NowSharif.
 phr-nk.
 razorblack.
 risavrakshit.
@@ -880,6 +880,7 @@ zailugao.
 mockspeed.
 TheShashank13.
 cmanik.
+NowSharif.
 pranavkhurana2011.
 rohantjoshi.
 srishtinsaan.
@@ -959,9 +960,9 @@ KartikeSingh.
 kaushalbharade.
 lakshyatyagi24.
 loudigi.
-Maheshkh9738.
 
 **Other contributors:**
+Maheshkh9738.
 ManobhavSachan.
 mevops.
 mikeroosa.
@@ -1022,7 +1023,6 @@ KonvalinkaCodes.
 Mallikarjuna900.
 Marll22.
 Nikuuuuu.
-NowSharif.
 prataps135.
 sagarbhadke08.
 adamnewhall.
