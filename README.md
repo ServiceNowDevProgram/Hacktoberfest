@@ -232,6 +232,7 @@ ewatch.
 anjimuvva.
 hakinadey.
 harishkSN.
+Jmyekn1123.
 KrishChothani.
 mitalizope.
 mskoddow.
@@ -249,15 +250,14 @@ mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
 Rajasree2004.
-afislonge.
 
 **Other contributors:**
+afislonge.
 alkaChaudhary73.
 chelming.
 Danmax.
 dominik-kiss.
 Gorav-Sharma.
-Jmyekn1123.
 NowSharif.
 pankajrj.
 Priscilladevtech.
@@ -844,6 +844,7 @@ DhanushNehru.
 hakinadey.
 harishkSN.
 jesalynrose.
+Jmyekn1123.
 KrishChothani.
 Ladirinia.
 miracc.
@@ -905,7 +906,6 @@ cschmidt82.
 dominik-kiss.
 Gorav-Sharma.
 Jaskaran-Techno.
-Jmyekn1123.
 nvprav.
 pankajrj.
 Priscilladevtech.
