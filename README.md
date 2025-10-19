@@ -240,6 +240,7 @@ hakinadey.
 harishkSN.
 KrishChothani.
 mskoddow.
+SachinNarayanasamy.
 sumanth1710.
 surajnikam111.
 andrey-verevkin.
@@ -252,9 +253,9 @@ trupti65.
 mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
-Rajasree2004.
 
 **Other contributors:**
+Rajasree2004.
 afislonge.
 alkaChaudhary73.
 chelming.
@@ -264,7 +265,6 @@ Gorav-Sharma.
 pankajrj.
 poojithavalli22.
 Priscilladevtech.
-SachinNarayanasamy.
 SwapnaAbburi.
 TejasSNOW.
 zstromsodt.
@@ -863,6 +863,7 @@ MiroslawBuszek.
 osc99.
 pandeysumit-now.
 patrickpaterlini.
+SachinNarayanasamy.
 SaiSankar1309.
 soham-shee.
 surajnikam111.
@@ -919,7 +920,6 @@ pankajrj.
 poojithavalli22.
 Priscilladevtech.
 RagaChitraMankala.
-SachinNarayanasamy.
 ShakthiSn.
 SwapnaAbburi.
 tejasathalye.
