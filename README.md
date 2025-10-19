@@ -211,9 +211,9 @@ bkb68.
 abdulsalamnafisat59-rgb.
 DhruvBhatheja.
 Noah-Drew.
+divyajetti9.
 
 **Top 50% contributors:**
-divyajetti9.
 NowSharif.
 dvn-lazywinner.
 Jmyekn1123.
@@ -250,9 +250,9 @@ sa173199.
 sandeepd26.
 trupti65.
 mandeepkaran.
+sndevs-slacker-issue-reporter[bot].
 
 **Other contributors:**
-sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
 Rajasree2004.
 afislonge.
@@ -445,6 +445,7 @@ QI-XING.
 rafak9.
 rahulsamanta82.
 Rajat9122.
+RajNish1210.
 ramkrishna-behera.
 ravii333.
 RedRangerWentWild.
@@ -1054,6 +1055,7 @@ outlivo.
 Pari-3.
 phegel.
 Piyushsahu99.
+RajNish1210.
 saketh-22.
 SavedByTheVine.
 ServiceNowDevProgram.
@@ -1149,7 +1151,6 @@ pedromadidc.
 ppalaskar.
 Prachi-BKulkarni.
 PromoFaux.
-RajNish1210.
 ranjithsit.
 RasoolBux123.
 Ravindranath2511.
