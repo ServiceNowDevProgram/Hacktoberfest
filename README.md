@@ -213,9 +213,9 @@ abdulsalamnafisat59-rgb.
 DhruvBhatheja.
 Noah-Drew.
 divyajetti9.
+NowSharif.
 
 **Top 50% contributors:**
-NowSharif.
 dvn-lazywinner.
 Jmyekn1123.
 stefanintech.
@@ -253,9 +253,9 @@ mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
 Rajasree2004.
+afislonge.
 
 **Other contributors:**
-afislonge.
 alkaChaudhary73.
 chelming.
 Danmax.
@@ -368,6 +368,7 @@ apatti.
 Aruncr123.
 Aryan-Bhendarkar.
 Ash0807.
+ashvin2005.
 Ayush-216.
 Azazelxo0.
 Bharathkogilamane274.
@@ -1294,6 +1295,7 @@ arwin1516.
 Aryan-Bhendarkar.
 Ash0807.
 ashish310188.
+ashvin2005.
 askarthik.
 Athens0111.
 atipisova.
