@@ -151,10 +151,10 @@ shivamvish160.
 wiz0floyd.
 koratalas.
 Soumyadeep10.
-ivan-betev.
+Paulsylo25.
 
 **Top 10% contributors:**
-Paulsylo25.
+ivan-betev.
 bird-03.
 sivamuruganandam-coder.
 sumanthdosapati.
