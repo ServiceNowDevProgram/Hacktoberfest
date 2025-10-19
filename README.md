@@ -227,6 +227,7 @@ ShuGitHub2022.
 becksbyte.
 Abbas-57.
 JorgeGRC.
+mitalizope.
 chaitanyalal18.
 Rajat32-op.
 HackoDev1530.
@@ -236,7 +237,6 @@ bgrk005.
 hakinadey.
 harishkSN.
 KrishChothani.
-mitalizope.
 mskoddow.
 SachinNarayanasamy.
 sumanth1710.
@@ -822,6 +822,7 @@ yourepicservices.
 **Top 50% contributors:**
 ChecksumFailed.
 markroethof.
+mitalizope.
 SNProductOwner.
 TechnologistTim.
 anguspalmer.
@@ -856,7 +857,6 @@ KrishChothani.
 Ladirinia.
 miracc.
 MiroslawBuszek.
-mitalizope.
 osc99.
 pandeysumit-now.
 patrickpaterlini.
