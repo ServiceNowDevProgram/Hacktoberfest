@@ -243,15 +243,16 @@ andrey-verevkin.
 bgrk005.
 durgeshservicenow-hub.
 GHSayak25.
+Kart-19.
 NayeemKaka.
 sa173199.
 sandeepd26.
 trupti65.
 mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
-srishtinsaan.
 
 **Other contributors:**
+srishtinsaan.
 Rajasree2004.
 afislonge.
 alkaChaudhary73.
@@ -273,7 +274,6 @@ bharakm.
 CODEBRAKERBOYY.
 DavidMarcial.
 harshal045.
-Kart-19.
 Maheshkh9738.
 nehatalha725.
 prakritimallick1308.
@@ -863,6 +863,7 @@ DChotaliya.
 durgeshservicenow-hub.
 ersureshbe.
 GHSayak25.
+Kart-19.
 LucasRocha2308.
 Mahesh-Krishnan1.
 maialithar.
@@ -956,7 +957,6 @@ JBscriptsNow.
 JingAlanzhixin.
 jordanrogus.
 Juusoee.
-Kart-19.
 KartikeSingh.
 kaushalbharade.
 lakshyatyagi24.
