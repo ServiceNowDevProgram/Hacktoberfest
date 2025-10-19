@@ -249,9 +249,9 @@ sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
 Rajasree2004.
 afislonge.
+alkaChaudhary73.
 
 **Other contributors:**
-alkaChaudhary73.
 chelming.
 Danmax.
 dominik-kiss.
@@ -430,6 +430,7 @@ nikhilkumar76.
 niladriAdhikari.
 NirajDN.
 No-gui.
+NowSharif.
 nvprav.
 patfedigan.
 poojithavalli22.
@@ -1044,6 +1045,7 @@ mohdzeeshan96.
 mvkassak.
 nancystodd.
 Nayanika-Acharjee.
+NowSharif.
 outlivo.
 Pari-3.
 phegel.
@@ -1136,7 +1138,6 @@ mvarshney99.
 NicoxNall.
 NK-01.
 noviicee.
-NowSharif.
 OsvaldoCabral.
 Pavandileep.
 pedromadidc.
