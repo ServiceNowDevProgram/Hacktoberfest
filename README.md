@@ -230,6 +230,7 @@ Rajat32-op.
 HackoDev1530.
 ewatch.
 anjimuvva.
+hakinadey.
 harishkSN.
 KrishChothani.
 mitalizope.
@@ -249,14 +250,13 @@ sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
 Rajasree2004.
 afislonge.
-alkaChaudhary73.
 
 **Other contributors:**
+alkaChaudhary73.
 chelming.
 Danmax.
 dominik-kiss.
 Gorav-Sharma.
-hakinadey.
 Jmyekn1123.
 pankajrj.
 Priscilladevtech.
@@ -840,6 +840,7 @@ allam1234.
 anjimuvva.
 Decoder-Paul.
 DhanushNehru.
+hakinadey.
 harishkSN.
 jesalynrose.
 KrishChothani.
@@ -901,7 +902,6 @@ crooks-s.
 cschmidt82.
 dominik-kiss.
 Gorav-Sharma.
-hakinadey.
 Jaskaran-Techno.
 Jmyekn1123.
 nvprav.
