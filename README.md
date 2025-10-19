@@ -280,6 +280,7 @@ nehatalha725.
 prakritimallick1308.
 PranavTamada.
 pratap360.
+Pratyush2240.
 selvarun-umass.
 Shashank0701-byte.
 Siddhartha03D.
@@ -441,7 +442,6 @@ nvprav.
 patfedigan.
 Prajwalwho.
 Pram0dh-Kumar.
-Pratyush2240.
 praveen8808.
 priyasnexpert.
 probablyAdi.
@@ -986,6 +986,7 @@ physi.
 prakritimallick1308.
 PranavTamada.
 pratap360.
+Pratyush2240.
 pratyushmp.
 PreyumKr.
 RajputUsman.
@@ -1748,7 +1749,6 @@ Pram0dh-Kumar.
 pranjalisr.
 Prasannalakshmik.
 pratiksha2717.
-Pratyush2240.
 Pratyusha418.
 praveen8808.
 praveenabhra.
