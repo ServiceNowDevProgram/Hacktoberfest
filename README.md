@@ -210,13 +210,13 @@ AnandMahajan2799.
 bkb68.
 abdulsalamnafisat59-rgb.
 DhruvBhatheja.
-divyajetti9.
+Noah-Drew.
 
 **Top 50% contributors:**
+divyajetti9.
 dvn-lazywinner.
 stefanintech.
 1shabby.
-Noah-Drew.
 at8807602.
 shreyawani98.
 SumithThota.
@@ -741,6 +741,7 @@ DhruvBhatheja.
 HarshLMP870.
 Himanshu-skb-oo7.
 mmaraj1.
+Noah-Drew.
 nowitsvashu.
 sanjivmeher.
 Suri123789.
@@ -782,7 +783,6 @@ apple9000.
 briangodfreydev.
 GauthamBellamkonda.
 Khasim-63993.
-Noah-Drew.
 odinsride.
 piyusalunke123.
 rene-el.
