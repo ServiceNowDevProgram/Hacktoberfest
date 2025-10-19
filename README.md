@@ -191,6 +191,7 @@ lauri457.
 maheshkhatal27.
 chetnadev.
 JohanDC-1999.
+Vishnu-rvk.
 gowdah.
 MYaswanth28.
 SrijanPatwa.
@@ -202,7 +203,6 @@ Charanjet.
 DanielMadsenDK.
 debendu-das.
 himanshu7895.
-Vishnu-rvk.
 Mahmud1087.
 spnegi.
 LakshmiChaitanyaReddy.
@@ -570,13 +570,13 @@ debendu-das.
 sndevs-slacker-issue-reporter[bot].
 urspvs.
 404paige.
+Vishnu-rvk.
 ankitshu.
 bkb68.
 MYaswanth28.
 spnegi.
 JonSandoval.
 Radhe-Manasa.
-Vishnu-rvk.
 Charanjet.
 stevezero.
 sychi77.
