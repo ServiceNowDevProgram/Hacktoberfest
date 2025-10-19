@@ -236,6 +236,7 @@ harishkSN.
 KrishChothani.
 mitalizope.
 mskoddow.
+NowSharif.
 sumanth1710.
 surajnikam111.
 andrey-verevkin.
@@ -249,16 +250,15 @@ trupti65.
 mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
-Rajasree2004.
 
 **Other contributors:**
+Rajasree2004.
 afislonge.
 alkaChaudhary73.
 chelming.
 Danmax.
 dominik-kiss.
 Gorav-Sharma.
-NowSharif.
 pankajrj.
 Priscilladevtech.
 SwapnaAbburi.
@@ -832,6 +832,7 @@ ttoter.
 AlphaEagle.
 JWITSM.
 mo-dahir.
+NowSharif.
 dcord1x.
 djunaid.
 Haile-08.
@@ -881,7 +882,6 @@ zailugao.
 mockspeed.
 TheShashank13.
 cmanik.
-NowSharif.
 pranavkhurana2011.
 rohantjoshi.
 srishtinsaan.
