@@ -184,9 +184,9 @@ brenduh.
 GokulkumarV.
 Vishnu-rvk.
 bhavyaa30.
+Sriharsha19.
 Jaspalsinghchot.
 Shashank102002.
-Sriharsha19.
 Awesomefp.
 lauri457.
 maheshkhatal27.
@@ -658,17 +658,17 @@ danr2c2.
 Litwilly.
 MRSinghRajat.
 oasif.
+Sriharsha19.
 stefanintech.
 DavidMarcial.
 soerenmaucher.
-Adil404.
 
 **Top 25% contributors:**
+Adil404.
 avssrikanth.
 Shashank102002.
 shraddhakadam301298.
 shridk.
-Sriharsha19.
 stwinkle.
 Awesomefp.
 lauri457.
