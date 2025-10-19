@@ -211,10 +211,11 @@ bkb68.
 abdulsalamnafisat59-rgb.
 DhruvBhatheja.
 Noah-Drew.
+bharakm.
 divyajetti9.
-NowSharif.
 
 **Top 50% contributors:**
+NowSharif.
 dvn-lazywinner.
 Jmyekn1123.
 stefanintech.
@@ -225,7 +226,6 @@ SumithThota.
 Thrizvi.
 ShuGitHub2022.
 becksbyte.
-bharakm.
 Abbas-57.
 JorgeGRC.
 mitalizope.
@@ -763,6 +763,7 @@ NowSharif.
 vermaamit1664.
 watrick.
 almajam.
+bharakm.
 danielliaus.
 Ramesh-hub007.
 salma-93.
@@ -806,7 +807,6 @@ fn20200323.
 Pradeep567iaf.
 pratyushasndev.
 SumithThota.
-bharakm.
 nag39g.
 NayeemKaka.
 ShuGitHub2022.
