@@ -233,6 +233,7 @@ chaitanyalal18.
 Rajat32-op.
 HackoDev1530.
 ewatch.
+bharakm.
 anjimuvva.
 bgrk005.
 hakinadey.
@@ -252,7 +253,6 @@ trupti65.
 mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
-bharakm.
 
 **Other contributors:**
 Rajasree2004.
@@ -840,6 +840,7 @@ revantKulkarni.
 trade12.
 ttoter.
 AlphaEagle.
+bharakm.
 JWITSM.
 mo-dahir.
 dcord1x.
@@ -890,7 +891,6 @@ ujjwalprem.
 zailugao.
 mockspeed.
 TheShashank13.
-bharakm.
 cmanik.
 pranavkhurana2011.
 rohantjoshi.
