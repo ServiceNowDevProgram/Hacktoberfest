@@ -225,6 +225,7 @@ SumithThota.
 Thrizvi.
 ShuGitHub2022.
 becksbyte.
+bharakm.
 Abbas-57.
 JorgeGRC.
 mitalizope.
@@ -233,7 +234,6 @@ Kart-19.
 Rajat32-op.
 HackoDev1530.
 ewatch.
-bharakm.
 anjimuvva.
 bgrk005.
 hakinadey.
@@ -806,6 +806,7 @@ fn20200323.
 Pradeep567iaf.
 pratyushasndev.
 SumithThota.
+bharakm.
 nag39g.
 NayeemKaka.
 ShuGitHub2022.
@@ -818,9 +819,9 @@ kumarinisha378.
 S-w-a-p-n-i-l-22.
 Sagar-agarwal.
 wiresgit.
-yourepicservices.
 
 **Top 50% contributors:**
+yourepicservices.
 ChecksumFailed.
 markroethof.
 mitalizope.
@@ -840,7 +841,6 @@ revantKulkarni.
 trade12.
 ttoter.
 AlphaEagle.
-bharakm.
 JWITSM.
 mo-dahir.
 dcord1x.
