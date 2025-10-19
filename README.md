@@ -267,6 +267,7 @@ zstromsodt.
 Abhishek2634.
 AdityaBala2026.
 AyanAhmedKhan.
+bharakm.
 CODEBRAKERBOYY.
 DavidMarcial.
 harshal045.
@@ -361,7 +362,6 @@ Aryan-Bhendarkar.
 Ash0807.
 Ayush-216.
 Azazelxo0.
-bharakm.
 Bharathkogilamane274.
 bhavani-konda.
 brunoasantos.
@@ -893,6 +893,7 @@ sisco0.
 afislonge.
 ashaw7697.
 Beeram12.
+bharakm.
 crooks-s.
 cschmidt82.
 dominik-kiss.
@@ -955,9 +956,9 @@ kaushalbharade.
 lakshyatyagi24.
 loudigi.
 Maheshkh9738.
-ManobhavSachan.
 
 **Other contributors:**
+ManobhavSachan.
 mevops.
 mikeroosa.
 moshjahan.
@@ -1076,7 +1077,6 @@ artemis15.
 ayrotideysarkar.
 BadalKhojare.
 BeniRaja.
-bharakm.
 Brian-Rowland.
 cjuleff.
 cmurley.
