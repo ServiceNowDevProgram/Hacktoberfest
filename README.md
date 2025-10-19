@@ -176,6 +176,7 @@ abhix2112.
 anurampalli.
 
 **Top 25% contributors:**
+bharakm.
 Emmynem.
 juhikumarimodi6.
 naveensnow.
@@ -188,7 +189,6 @@ bhavyaa30.
 Jaspalsinghchot.
 Shashank102002.
 Awesomefp.
-bharakm.
 lauri457.
 maheshkhatal27.
 chetnadev.
@@ -644,6 +644,7 @@ RaviGaurav007.
 Dhruvyadav2000.
 manrick.
 abhix2112.
+bharakm.
 hafsa-asif.
 juhikumarimodi6.
 ovarn.
@@ -668,11 +669,10 @@ oasif.
 stefanintech.
 DavidMarcial.
 soerenmaucher.
-Adil404.
 
 **Top 25% contributors:**
+Adil404.
 avssrikanth.
-bharakm.
 Shashank102002.
 shraddhakadam301298.
 shridk.
