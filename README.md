@@ -277,6 +277,7 @@ AyanAhmedKhan.
 CODEBRAKERBOYY.
 daramcdonald96-ops.
 DavidMarcial.
+hanna-g-sn.
 harshal045.
 Maheshkh9738.
 nehatalha725.
@@ -400,7 +401,6 @@ GTKsnow.
 Gurkunwar-Singh.
 Hacker7766.
 han-le.
-hanna-g-sn.
 hardik2109.
 hidipen.
 HimanshuSalunke.
@@ -963,6 +963,7 @@ devalcodes.
 dhruvii-powershell.
 dorsy99.
 ezratkim.
+hanna-g-sn.
 harshal045.
 HarshMN2345.
 hmadhsan.
@@ -980,9 +981,9 @@ lakshyatyagi24.
 loudigi.
 Maheshkh9738.
 ManobhavSachan.
-mevops.
 
 **Other contributors:**
+mevops.
 mikeroosa.
 moshjahan.
 msdfib.
@@ -1484,7 +1485,6 @@ Gurkunwar-Singh.
 Hacker7766.
 Halim--1.
 Hanan-Ashraf.
-hanna-g-sn.
 HannaGilbertson.
 hardik2109.
 hardikvyasji.
