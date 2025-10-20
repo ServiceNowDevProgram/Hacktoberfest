@@ -266,6 +266,7 @@ dominik-kiss.
 Gorav-Sharma.
 pankajrj.
 poojithavalli22.
+pratap360.
 Priscilladevtech.
 QI-XING.
 SachinNarayanasamy.
@@ -284,7 +285,6 @@ Maheshkh9738.
 nehatalha725.
 prakritimallick1308.
 PranavTamada.
-pratap360.
 selvarun-umass.
 Shashank0701-byte.
 Siddhartha03D.
@@ -928,6 +928,7 @@ Jaskaran-Techno.
 nvprav.
 pankajrj.
 poojithavalli22.
+pratap360.
 Priscilladevtech.
 RagaChitraMankala.
 SachinNarayanasamy.
@@ -981,9 +982,9 @@ KartikeSingh.
 kaushalbharade.
 lakshyatyagi24.
 loudigi.
-Maheshkh9738.
 
 **Other contributors:**
+Maheshkh9738.
 ManobhavSachan.
 mevops.
 mikeroosa.
@@ -996,7 +997,6 @@ pavankumar-4.
 physi.
 prakritimallick1308.
 PranavTamada.
-pratap360.
 pratyushmp.
 PreyumKr.
 RajputUsman.
