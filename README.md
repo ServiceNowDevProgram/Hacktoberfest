@@ -171,11 +171,12 @@ jiteshmalik.
 AdaOkoye-coder.
 JonSandoval.
 RaviGaurav007.
+Sriharsha19.
 VaishnaviLathkar98.
 abhix2112.
-anurampalli.
 
 **Top 25% contributors:**
+anurampalli.
 bharakm.
 Emmynem.
 juhikumarimodi6.
@@ -183,7 +184,6 @@ naveensnow.
 anveshmupparaju.
 brenduh.
 GokulkumarV.
-Sriharsha19.
 Vishnu-rvk.
 bhavyaa30.
 Jaspalsinghchot.
@@ -649,6 +649,7 @@ Munnisona.
 AdaOkoye-coder.
 prashantmrshine.
 RaviGaurav007.
+Sriharsha19.
 Dhruvyadav2000.
 manrick.
 abhix2112.
@@ -667,7 +668,6 @@ sheikhafsarzap.
 sravankadudhuri.
 jonahpiascik.
 kylburns89.
-Sriharsha19.
 bhavyaa30.
 danr2c2.
 Litwilly.
