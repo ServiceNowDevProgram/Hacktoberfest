@@ -239,6 +239,7 @@ hakinadey.
 harishkSN.
 KrishChothani.
 mskoddow.
+QI-XING.
 sumanth1710.
 surajnikam111.
 andrey-verevkin.
@@ -254,9 +255,9 @@ mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
 Rajasree2004.
-afislonge.
 
 **Other contributors:**
+afislonge.
 alkaChaudhary73.
 chelming.
 Danmax.
@@ -265,7 +266,6 @@ Gorav-Sharma.
 pankajrj.
 poojithavalli22.
 Priscilladevtech.
-QI-XING.
 SachinNarayanasamy.
 SwapnaAbburi.
 TejasSNOW.
@@ -622,6 +622,7 @@ PranavBhagat18.
 chaitaliKundu.
 Irston.
 mskoddow.
+QI-XING.
 bgrk005.
 litwi1rm.
 mak1A4.
@@ -640,7 +641,6 @@ salmaniqbal92.
 ChandBasha-code.
 mohitchauhan-dev.
 mr-swann.
-QI-XING.
 Munnisona.
 AdaOkoye-coder.
 prashantmrshine.
