@@ -259,6 +259,7 @@ afislonge.
 alkaChaudhary73.
 
 **Other contributors:**
+AmrutaKR007.
 chelming.
 Danmax.
 dominik-kiss.
@@ -304,7 +305,6 @@ Siri-007.
 Uma20-dev.
 abiramiyohesh.
 Akash-44.
-AmrutaKR007.
 AnkithSharmaji.
 anushka157.
 Arcade-With-Us.
@@ -917,6 +917,7 @@ Rajasree2004.
 Shreedevisnow.
 sisco0.
 afislonge.
+AmrutaKR007.
 ashaw7697.
 Beeram12.
 crooks-s.
@@ -981,9 +982,9 @@ kaushalbharade.
 lakshyatyagi24.
 loudigi.
 Maheshkh9738.
-ManobhavSachan.
 
 **Other contributors:**
+ManobhavSachan.
 mevops.
 mikeroosa.
 moshjahan.
@@ -1094,7 +1095,6 @@ AdibaNaushad.
 ADITYATIWARI342005.
 Ahkonn.
 Akash-44.
-AmrutaKR007.
 andersonvale78.
 ANIKETSURWASE.
 anilvaranasi.
