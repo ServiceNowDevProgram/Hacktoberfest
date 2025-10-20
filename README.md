@@ -254,9 +254,9 @@ mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
 Rajasree2004.
+afislonge.
 
 **Other contributors:**
-afislonge.
 alkaChaudhary73.
 chelming.
 Danmax.
@@ -453,6 +453,7 @@ rahulsamanta82.
 Rajat9122.
 RajNish1210.
 ramkrishna-behera.
+rashmi269.
 ravii333.
 RedRangerWentWild.
 richirichard7789-svg.
@@ -1787,6 +1788,7 @@ rajpootrajs.
 rajubhojane.
 ramkrishna-behera.
 raphaelcrv.
+rashmi269.
 Ravenon.
 ravii333.
 razerbackh.
