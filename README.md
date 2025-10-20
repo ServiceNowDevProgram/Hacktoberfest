@@ -219,7 +219,6 @@ divyajetti9.
 **Top 50% contributors:**
 shreyawani98.
 dvn-lazywinner.
-mitalizope.
 stefanintech.
 1shabby.
 chaitanyalal18.
@@ -230,6 +229,7 @@ ShuGitHub2022.
 becksbyte.
 Abbas-57.
 JorgeGRC.
+mitalizope.
 GHSayak25.
 Rajat32-op.
 HackoDev1530.
@@ -795,7 +795,6 @@ goranlundqvist.
 Hamritha0506.
 harisnad.
 KedarisettiSreeVamsi.
-mitalizope.
 NowRishi.
 riya-vermaa.
 99Saurabh19.
@@ -829,11 +828,12 @@ kumarinisha378.
 S-w-a-p-n-i-l-22.
 Sagar-agarwal.
 wiresgit.
+yourepicservices.
 
 **Top 50% contributors:**
-yourepicservices.
 ChecksumFailed.
 markroethof.
+mitalizope.
 SNProductOwner.
 TechnologistTim.
 anguspalmer.
