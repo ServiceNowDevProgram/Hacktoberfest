@@ -266,7 +266,6 @@ pankajrj.
 poojithavalli22.
 Priscilladevtech.
 QI-XING.
-rashmi269.
 SachinNarayanasamy.
 SwapnaAbburi.
 TejasSNOW.
@@ -322,6 +321,7 @@ Mahathiveena.
 mariwarl.
 mayankgautam-dev.
 phr-nk.
+rashmi269.
 razorblack.
 risavrakshit.
 rishanmenezes.
@@ -924,7 +924,6 @@ pankajrj.
 poojithavalli22.
 Priscilladevtech.
 RagaChitraMankala.
-rashmi269.
 SachinNarayanasamy.
 ShakthiSn.
 SwapnaAbburi.
@@ -976,9 +975,9 @@ kaushalbharade.
 lakshyatyagi24.
 loudigi.
 Maheshkh9738.
+ManobhavSachan.
 
 **Other contributors:**
-ManobhavSachan.
 mevops.
 mikeroosa.
 moshjahan.
@@ -1166,6 +1165,7 @@ ppalaskar.
 Prachi-BKulkarni.
 PromoFaux.
 ranjithsit.
+rashmi269.
 RasoolBux123.
 Ravindranath2511.
 razorblack.
