@@ -191,6 +191,7 @@ Awesomefp.
 bharakm.
 lauri457.
 maheshkhatal27.
+NowSharif.
 chetnadev.
 JohanDC-1999.
 gowdah.
@@ -198,7 +199,6 @@ MYaswanth28.
 SrijanPatwa.
 chaitaliKundu.
 iamshankha.
-NowSharif.
 ahmadibitoye.
 animeshdasgit.
 Charanjet.
@@ -670,10 +670,11 @@ MRSinghRajat.
 oasif.
 stefanintech.
 DavidMarcial.
+NowSharif.
 soerenmaucher.
-Adil404.
 
 **Top 25% contributors:**
+Adil404.
 avssrikanth.
 bharakm.
 Shashank102002.
@@ -694,7 +695,6 @@ vjtknn.
 Yokesh0811.
 mady22070.
 MarcMouries.
-NowSharif.
 sn-ajb.
 techYESlogyXplorer.
 vijaytalupula.
