@@ -236,6 +236,7 @@ ewatch.
 anjimuvva.
 bgrk005.
 hakinadey.
+hanna-g-sn.
 harishkSN.
 KrishChothani.
 mskoddow.
@@ -256,14 +257,13 @@ srishtinsaan.
 Rajasree2004.
 afislonge.
 alkaChaudhary73.
-AmrutaKR007.
 
 **Other contributors:**
+AmrutaKR007.
 chelming.
 Danmax.
 dominik-kiss.
 Gorav-Sharma.
-hanna-g-sn.
 pankajrj.
 poojithavalli22.
 Priscilladevtech.
@@ -861,6 +861,7 @@ anjimuvva.
 Decoder-Paul.
 DhanushNehru.
 hakinadey.
+hanna-g-sn.
 harishkSN.
 jesalynrose.
 KrishChothani.
@@ -923,7 +924,6 @@ crooks-s.
 cschmidt82.
 dominik-kiss.
 Gorav-Sharma.
-hanna-g-sn.
 Jaskaran-Techno.
 nvprav.
 pankajrj.
