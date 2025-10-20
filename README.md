@@ -228,6 +228,7 @@ Thrizvi.
 ShuGitHub2022.
 becksbyte.
 Abbas-57.
+hanna-g-sn.
 JorgeGRC.
 mitalizope.
 Rajat32-op.
@@ -236,7 +237,6 @@ ewatch.
 anjimuvva.
 bgrk005.
 hakinadey.
-hanna-g-sn.
 harishkSN.
 KrishChothani.
 mskoddow.
@@ -832,6 +832,7 @@ yourepicservices.
 
 **Top 50% contributors:**
 ChecksumFailed.
+hanna-g-sn.
 markroethof.
 mitalizope.
 SNProductOwner.
@@ -861,7 +862,6 @@ anjimuvva.
 Decoder-Paul.
 DhanushNehru.
 hakinadey.
-hanna-g-sn.
 harishkSN.
 jesalynrose.
 KrishChothani.
