@@ -275,6 +275,7 @@ Abhishek2634.
 AdityaBala2026.
 AyanAhmedKhan.
 CODEBRAKERBOYY.
+daramcdonald96-ops.
 DavidMarcial.
 harshal045.
 Maheshkh9738.
@@ -379,7 +380,6 @@ brunoasantos.
 captainbraddles.
 Cheeny09.
 ChiragBotkawar.
-daramcdonald96-ops.
 davidphilpott01.
 debugwithshubham.
 deepanshu4688.
@@ -953,6 +953,7 @@ Chouffy.
 CODEBRAKERBOYY.
 Coder0131.
 DaleD-SN.
+daramcdonald96-ops.
 deathkraiser.
 demetris7.
 devalcodes.
@@ -975,9 +976,9 @@ kaushalbharade.
 lakshyatyagi24.
 loudigi.
 Maheshkh9738.
-ManobhavSachan.
 
 **Other contributors:**
+ManobhavSachan.
 mevops.
 mikeroosa.
 moshjahan.
@@ -1383,7 +1384,6 @@ DangerousNights.
 danieltayal07.
 danybr0.
 Daoist-Ye.
-daramcdonald96-ops.
 Darkwasp.
 Darrkshade.
 DaSilvaThiago.
