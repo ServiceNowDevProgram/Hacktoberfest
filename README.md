@@ -211,17 +211,17 @@ LakshmiChaitanyaReddy.
 AnandMahajan2799.
 bkb68.
 abdulsalamnafisat59-rgb.
+chaitanyalal18.
 DhruvBhatheja.
 Noah-Drew.
 divyajetti9.
-shreyawani98.
 
 **Top 50% contributors:**
+shreyawani98.
 dvn-lazywinner.
 Jmyekn1123.
 stefanintech.
 1shabby.
-chaitanyalal18.
 at8807602.
 SumithThota.
 Thrizvi.
@@ -758,6 +758,7 @@ thorn91.
 Thrizvi.
 vamsi0777.
 abdulsalamnafisat59-rgb.
+chaitanyalal18.
 DhruvBhatheja.
 HarshLMP870.
 Himanshu-skb-oo7.
@@ -803,7 +804,6 @@ AnithaA09.
 anubhav-ritolia.
 apple9000.
 briangodfreydev.
-chaitanyalal18.
 GauthamBellamkonda.
 Khasim-63993.
 odinsride.
