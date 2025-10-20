@@ -214,9 +214,9 @@ abdulsalamnafisat59-rgb.
 DhruvBhatheja.
 Noah-Drew.
 divyajetti9.
+shreyawani98.
 
 **Top 50% contributors:**
-shreyawani98.
 dvn-lazywinner.
 Jmyekn1123.
 stefanintech.
@@ -255,9 +255,9 @@ sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
 Rajasree2004.
 afislonge.
+alkaChaudhary73.
 
 **Other contributors:**
-alkaChaudhary73.
 chelming.
 Danmax.
 dominik-kiss.
@@ -464,6 +464,7 @@ robinbishtt.
 RR-Sahoo.
 ruchirachaubey.
 RudraSathwara.
+Rushikesh812.
 S-w-a-p-n-i-l-22.
 Saahil-Kumaar.
 SachinRajakaruna.
@@ -1821,6 +1822,7 @@ Ruchi-here.
 ruchirachaubey.
 RudraSathwara.
 rupam870.
+Rushikesh812.
 rverrips.
 rwhittaker.
 Saahil-Kumaar.
