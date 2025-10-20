@@ -255,10 +255,11 @@ trupti65.
 mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
+Its-Nmk.
 pratap360.
-Rajasree2004.
 
 **Other contributors:**
+Rajasree2004.
 afislonge.
 alkaChaudhary73.
 AmrutaKR007.
@@ -266,7 +267,6 @@ chelming.
 Danmax.
 dominik-kiss.
 Gorav-Sharma.
-Its-Nmk.
 pankajrj.
 poojithavalli22.
 Priscilladevtech.
@@ -911,6 +911,7 @@ Alprez.
 chris-canto-11.
 furquan5.
 harditsingh88.
+Its-Nmk.
 praisetoyt.
 pratap360.
 puneet94.
@@ -926,7 +927,6 @@ crooks-s.
 cschmidt82.
 dominik-kiss.
 Gorav-Sharma.
-Its-Nmk.
 Jaskaran-Techno.
 nvprav.
 pankajrj.
