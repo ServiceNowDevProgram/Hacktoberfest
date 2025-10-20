@@ -361,6 +361,7 @@ alankritijain2001-dot.
 AlfrinAJ.
 AmalBajpayee09.
 amandasiriwardane.
+AmrutaKR007.
 AniketSonje.
 anilpal678.
 anirudh7065.
@@ -826,9 +827,9 @@ kumarinisha378.
 S-w-a-p-n-i-l-22.
 Sagar-agarwal.
 wiresgit.
+yourepicservices.
 
 **Top 50% contributors:**
-yourepicservices.
 ChecksumFailed.
 markroethof.
 mitalizope.
@@ -979,9 +980,9 @@ lakshyatyagi24.
 loudigi.
 Maheshkh9738.
 ManobhavSachan.
+mevops.
 
 **Other contributors:**
-mevops.
 mikeroosa.
 moshjahan.
 msdfib.
@@ -1269,6 +1270,7 @@ ambsoerensen.
 amdhavalikar.
 Amitanand0123.
 amrita06-max.
+AmrutaKR007.
 Anantharaman91.
 Ananya54321.
 andreneris.
