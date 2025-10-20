@@ -262,7 +262,6 @@ chelming.
 Danmax.
 dominik-kiss.
 Gorav-Sharma.
-hanna-g-sn.
 pankajrj.
 poojithavalli22.
 Priscilladevtech.
@@ -317,6 +316,7 @@ Dnyanesh182.
 Ehabpilloor.
 eriemer1.
 Folorunshoginni.
+hanna-g-sn.
 Its-Nmk.
 jonahpiascik.
 mady22070.
@@ -921,7 +921,6 @@ crooks-s.
 cschmidt82.
 dominik-kiss.
 Gorav-Sharma.
-hanna-g-sn.
 Jaskaran-Techno.
 nvprav.
 pankajrj.
@@ -981,9 +980,9 @@ lakshyatyagi24.
 loudigi.
 Maheshkh9738.
 ManobhavSachan.
+mevops.
 
 **Other contributors:**
-mevops.
 mikeroosa.
 moshjahan.
 msdfib.
@@ -1130,6 +1129,7 @@ Gowthamsai29.
 gurudev-7.
 hacktoberfestservicenow.
 han-le.
+hanna-g-sn.
 HariniSnow.
 himanisinghal.
 ishanjain18.
