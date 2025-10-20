@@ -221,6 +221,7 @@ dvn-lazywinner.
 Jmyekn1123.
 stefanintech.
 1shabby.
+chaitanyalal18.
 at8807602.
 SumithThota.
 Thrizvi.
@@ -229,7 +230,6 @@ becksbyte.
 Abbas-57.
 JorgeGRC.
 mitalizope.
-chaitanyalal18.
 Rajat32-op.
 HackoDev1530.
 ewatch.
@@ -799,6 +799,7 @@ AnithaA09.
 anubhav-ritolia.
 apple9000.
 briangodfreydev.
+chaitanyalal18.
 GauthamBellamkonda.
 Khasim-63993.
 odinsride.
@@ -823,9 +824,9 @@ kumarinisha378.
 S-w-a-p-n-i-l-22.
 Sagar-agarwal.
 wiresgit.
-yourepicservices.
 
 **Top 50% contributors:**
+yourepicservices.
 ChecksumFailed.
 markroethof.
 mitalizope.
@@ -834,7 +835,6 @@ TechnologistTim.
 anguspalmer.
 Badal2k23.
 bhavyajain511.
-chaitanyalal18.
 HackoDev1530.
 naveenraw25.
 NBaker137.
