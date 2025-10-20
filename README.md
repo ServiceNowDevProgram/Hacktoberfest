@@ -256,9 +256,9 @@ srishtinsaan.
 Rajasree2004.
 afislonge.
 alkaChaudhary73.
+chelming.
 
 **Other contributors:**
-chelming.
 Danmax.
 dominik-kiss.
 Gorav-Sharma.
@@ -449,6 +449,7 @@ Prajwalwho.
 Pram0dh-Kumar.
 Pratyush2240.
 praveen8808.
+prithvihn.
 priyasnexpert.
 probablyAdi.
 rafak9.
@@ -1768,6 +1769,7 @@ prevostr.
 PrimeDemonic.
 princeofnubia.
 princeofwales88.
+prithvihn.
 probablyAdi.
 psharma0202.
 psyherin.
