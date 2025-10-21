@@ -212,15 +212,15 @@ spnegi.
 LakshmiChaitanyaReddy.
 AnandMahajan2799.
 bkb68.
+hanna-g-sn.
 abdulsalamnafisat59-rgb.
 DhruvBhatheja.
-chaitanyalal18.
 
 **Top 50% contributors:**
+chaitanyalal18.
 divyajetti9.
 shreyawani98.
 dvn-lazywinner.
-hanna-g-sn.
 stefanintech.
 1shabby.
 at8807602.
@@ -751,6 +751,7 @@ amoore-coder.
 AnandMahajan2799.
 dean-croaker.
 domuserk.
+hanna-g-sn.
 HarneetSital.
 jacebenson.
 katsiarynasoshyna.
@@ -796,7 +797,6 @@ adarshsingh0205.
 annaydas.
 goranlundqvist.
 Hamritha0506.
-hanna-g-sn.
 harisnad.
 KedarisettiSreeVamsi.
 NowRishi.
