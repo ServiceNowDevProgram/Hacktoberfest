@@ -211,16 +211,16 @@ Jmyekn1123.
 Mahmud1087.
 Noah-Drew.
 spnegi.
-divyajetti9.
 LakshmiChaitanyaReddy.
 AnandMahajan2799.
 bkb68.
+SumithThota.
 
 **Top 50% contributors:**
-SumithThota.
 abdulsalamnafisat59-rgb.
 DhruvBhatheja.
 chaitanyalal18.
+divyajetti9.
 shreyawani98.
 dvn-lazywinner.
 SachinNarayanasamy.
@@ -743,7 +743,6 @@ OrgovanGeza.
 Abbas-57.
 arhaan2019.
 designitsecure.
-divyajetti9.
 LakshmiChaitanyaReddy.
 llipovsky.
 prynacshrma.
@@ -788,6 +787,7 @@ salma-93.
 sauravsumankumar.
 yuvraj1107thapa.
 ashuprince121.
+divyajetti9.
 ewatch.
 Harshuu870.
 hrichiksite.
