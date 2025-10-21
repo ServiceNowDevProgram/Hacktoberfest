@@ -220,7 +220,6 @@ chaitanyalal18.
 divyajetti9.
 shreyawani98.
 dvn-lazywinner.
-hanna-g-sn.
 SachinNarayanasamy.
 stefanintech.
 1shabby.
@@ -230,6 +229,7 @@ Thrizvi.
 ShuGitHub2022.
 becksbyte.
 Abbas-57.
+hanna-g-sn.
 JorgeGRC.
 mitalizope.
 GHSayak25.
@@ -796,7 +796,6 @@ adarshsingh0205.
 annaydas.
 goranlundqvist.
 Hamritha0506.
-hanna-g-sn.
 harisnad.
 KedarisettiSreeVamsi.
 NowRishi.
@@ -831,11 +830,12 @@ JorgeGRC.
 kumarinisha378.
 S-w-a-p-n-i-l-22.
 Sagar-agarwal.
+wiresgit.
 
 **Top 50% contributors:**
-wiresgit.
 yourepicservices.
 ChecksumFailed.
+hanna-g-sn.
 markroethof.
 mitalizope.
 SNProductOwner.
