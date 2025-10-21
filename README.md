@@ -246,6 +246,7 @@ bgrk005.
 harishkSN.
 KrishChothani.
 mskoddow.
+Priscilladevtech.
 sumanth1710.
 surajnikam111.
 andrey-verevkin.
@@ -258,9 +259,9 @@ trupti65.
 mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
-Its-Nmk.
 
 **Other contributors:**
+Its-Nmk.
 Rajasree2004.
 404paige.
 afislonge.
@@ -271,7 +272,6 @@ dominik-kiss.
 Gorav-Sharma.
 pankajrj.
 poojithavalli22.
-Priscilladevtech.
 QI-XING.
 SwapnaAbburi.
 TejasSNOW.
@@ -886,6 +886,7 @@ MiroslawBuszek.
 osc99.
 pandeysumit-now.
 patrickpaterlini.
+Priscilladevtech.
 SaiSankar1309.
 soham-shee.
 surajnikam111.
@@ -943,7 +944,6 @@ Jaskaran-Techno.
 nvprav.
 pankajrj.
 poojithavalli22.
-Priscilladevtech.
 RagaChitraMankala.
 ShakthiSn.
 SwapnaAbburi.
