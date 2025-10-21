@@ -283,6 +283,7 @@ CODEBRAKERBOYY.
 daramcdonald96-ops.
 DavidMarcial.
 harshal045.
+KUSHAL1912.
 Maheshkh9738.
 nehatalha725.
 prakritimallick1308.
@@ -420,7 +421,6 @@ Kolimator.
 KrushnaliMungekar57.
 kumar9060.
 kunalsinghdadhwal.
-KUSHAL1912.
 kushalt112.
 lalit-oli-mohan-479.
 lstrallo.
@@ -990,6 +990,7 @@ KartikeSingh.
 kaushalbharade.
 
 **Other contributors:**
+KUSHAL1912.
 lakshyatyagi24.
 loudigi.
 Maheshkh9738.
@@ -1621,7 +1622,6 @@ kumar9060.
 kunal15112001.
 kunalsinghdadhwal.
 kurtzettel.
-KUSHAL1912.
 kushalt112.
 kvdev29.
 laherfrit.
