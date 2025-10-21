@@ -255,9 +255,9 @@ trupti65.
 mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
+Its-Nmk.
 
 **Other contributors:**
-Its-Nmk.
 pratap360.
 Rajasree2004.
 afislonge.
@@ -413,6 +413,7 @@ justHarshraj.
 KanavCode.
 kanishkmangal.
 khyatithadani.
+knightmarshal.
 knshkp.
 Kolimator.
 KrushnaliMungekar57.
@@ -602,9 +603,9 @@ ronaldkarim.
 sivamuruganandam-coder.
 azeezgaa.
 NavyasreeBolleboyana.
+brenduh.
 
 **Top 10% contributors:**
-brenduh.
 deepak-64742.
 alkaChaudhary73.
 rafzk.
@@ -679,9 +680,9 @@ oasif.
 stefanintech.
 DavidMarcial.
 NowSharif.
+soerenmaucher.
 
 **Top 25% contributors:**
-soerenmaucher.
 Adil404.
 avssrikanth.
 Shashank102002.
@@ -984,10 +985,10 @@ jordanrogus.
 Juusoee.
 KartikeSingh.
 kaushalbharade.
-lakshyatyagi24.
-loudigi.
 
 **Other contributors:**
+lakshyatyagi24.
+loudigi.
 Maheshkh9738.
 ManobhavSachan.
 mevops.
@@ -1597,6 +1598,7 @@ kit-t.
 KiwiPelago.
 KkRainyre.
 kmahesh18.
+knightmarshal.
 knshkp.
 KokilaAbeysinghe.
 Kolimator.
