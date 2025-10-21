@@ -240,6 +240,7 @@ NayeemKaka.
 Rajat32-op.
 ewatch.
 pratap360.
+alkaChaudhary73.
 anjimuvva.
 bgrk005.
 harishkSN.
@@ -258,12 +259,11 @@ mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
 Its-Nmk.
-Rajasree2004.
 
 **Other contributors:**
+Rajasree2004.
 404paige.
 afislonge.
-alkaChaudhary73.
 AmrutaKR007.
 chelming.
 Danmax.
@@ -604,17 +604,17 @@ spnegi.
 JonSandoval.
 Radhe-Manasa.
 Charanjet.
+alkaChaudhary73.
 stevezero.
 sychi77.
 ronaldkarim.
 sivamuruganandam-coder.
 azeezgaa.
 NavyasreeBolleboyana.
-brenduh.
 
 **Top 10% contributors:**
+brenduh.
 deepak-64742.
-alkaChaudhary73.
 rafzk.
 anillande90.
 ayleeandersen.
