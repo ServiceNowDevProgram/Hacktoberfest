@@ -214,11 +214,11 @@ bkb68.
 Jmyekn1123.
 abdulsalamnafisat59-rgb.
 DhruvBhatheja.
-divyajetti9.
+chaitanyalal18.
 
 **Top 50% contributors:**
+divyajetti9.
 shreyawani98.
-chaitanyalal18.
 dvn-lazywinner.
 stefanintech.
 1shabby.
@@ -779,6 +779,7 @@ salma-93.
 sauravsumankumar.
 yuvraj1107thapa.
 ashuprince121.
+chaitanyalal18.
 divyajetti9.
 ewatch.
 Harshuu870.
@@ -791,7 +792,6 @@ techTrekwithAJ.
 TVani5.
 adarshsingh0205.
 annaydas.
-chaitanyalal18.
 goranlundqvist.
 Hamritha0506.
 harisnad.
