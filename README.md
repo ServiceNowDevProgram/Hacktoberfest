@@ -220,6 +220,7 @@ bkb68.
 **Top 50% contributors:**
 abdulsalamnafisat59-rgb.
 DhruvBhatheja.
+franks883.
 chaitanyalal18.
 shreyawani98.
 dvn-lazywinner.
@@ -227,7 +228,6 @@ GHSayak25.
 SachinNarayanasamy.
 stefanintech.
 1shabby.
-franks883.
 at8807602.
 Thrizvi.
 ShuGitHub2022.
@@ -771,6 +771,7 @@ Thrizvi.
 vamsi0777.
 abdulsalamnafisat59-rgb.
 DhruvBhatheja.
+franks883.
 HarshLMP870.
 Himanshu-skb-oo7.
 mmaraj1.
@@ -816,7 +817,6 @@ AnithaA09.
 anubhav-ritolia.
 apple9000.
 briangodfreydev.
-franks883.
 GauthamBellamkonda.
 Khasim-63993.
 odinsride.
