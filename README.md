@@ -221,6 +221,7 @@ divyajetti9.
 shreyawani98.
 dvn-lazywinner.
 hanna-g-sn.
+SachinNarayanasamy.
 stefanintech.
 1shabby.
 at8807602.
@@ -231,7 +232,6 @@ becksbyte.
 Abbas-57.
 JorgeGRC.
 mitalizope.
-SachinNarayanasamy.
 GHSayak25.
 Rajat32-op.
 HackoDev1530.
@@ -800,6 +800,7 @@ harisnad.
 KedarisettiSreeVamsi.
 NowRishi.
 riya-vermaa.
+SachinNarayanasamy.
 99Saurabh19.
 allenandreas.
 AnithaA09.
@@ -829,14 +830,13 @@ JorgeGRC.
 kumarinisha378.
 S-w-a-p-n-i-l-22.
 Sagar-agarwal.
-wiresgit.
 
 **Top 50% contributors:**
+wiresgit.
 yourepicservices.
 ChecksumFailed.
 markroethof.
 mitalizope.
-SachinNarayanasamy.
 SNProductOwner.
 TechnologistTim.
 anguspalmer.
