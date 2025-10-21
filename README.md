@@ -214,10 +214,9 @@ LakshmiChaitanyaReddy.
 AnandMahajan2799.
 bkb68.
 SachinNarayanasamy.
-SumithThota.
+abdulsalamnafisat59-rgb.
 
 **Top 50% contributors:**
-abdulsalamnafisat59-rgb.
 DhruvBhatheja.
 chaitanyalal18.
 divyajetti9.
@@ -225,6 +224,7 @@ shreyawani98.
 dvn-lazywinner.
 hakinadey.
 stefanintech.
+SumithThota.
 1shabby.
 at8807602.
 Thrizvi.
@@ -761,7 +761,6 @@ ReginaldFawcett.
 SachinNarayanasamy.
 Saileshlanka.
 Southpaw09.
-SumithThota.
 thorn91.
 Thrizvi.
 vamsi0777.
@@ -806,6 +805,7 @@ harisnad.
 KedarisettiSreeVamsi.
 NowRishi.
 riya-vermaa.
+SumithThota.
 99Saurabh19.
 allenandreas.
 AnithaA09.
