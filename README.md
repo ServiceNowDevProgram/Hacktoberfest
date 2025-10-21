@@ -238,6 +238,7 @@ NayeemKaka.
 Rajat32-op.
 HackoDev1530.
 ewatch.
+Its-Nmk.
 anjimuvva.
 bgrk005.
 harishkSN.
@@ -254,10 +255,9 @@ sandeepd26.
 trupti65.
 mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
-srishtinsaan.
 
 **Other contributors:**
-Its-Nmk.
+srishtinsaan.
 pratap360.
 Rajasree2004.
 afislonge.
@@ -859,6 +859,7 @@ mo-dahir.
 dcord1x.
 djunaid.
 Haile-08.
+Its-Nmk.
 sonamtiwari8.
 Adiana3308.
 akhoshnood.
@@ -913,7 +914,6 @@ Alprez.
 chris-canto-11.
 furquan5.
 harditsingh88.
-Its-Nmk.
 praisetoyt.
 pratap360.
 puneet94.
