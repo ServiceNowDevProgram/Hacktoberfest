@@ -173,9 +173,10 @@ AdaOkoye-coder.
 JonSandoval.
 RaviGaurav007.
 VaishnaviLathkar98.
-anurampalli.
+Vishnu-rvk.
 
 **Top 25% contributors:**
+anurampalli.
 bharakm.
 Emmynem.
 juhikumarimodi6.
@@ -184,7 +185,6 @@ anveshmupparaju.
 brenduh.
 GokulkumarV.
 Sriharsha19.
-Vishnu-rvk.
 bhavyaa30.
 Jaspalsinghchot.
 Shashank102002.
@@ -575,12 +575,12 @@ jiteshmalik.
 aykmrgit.
 Mexiprince.
 hrobarikt.
+Vishnu-rvk.
 Chraiseto.
 TRIGGEREDcoder.
 DanielMadsenDK.
 SrijanPatwa.
 smartcarleen.
-Vishnu-rvk.
 himanshu7895.
 at8807602.
 debendu-das.
