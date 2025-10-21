@@ -218,10 +218,10 @@ divyajetti9.
 
 **Top 50% contributors:**
 shreyawani98.
+chaitanyalal18.
 dvn-lazywinner.
 stefanintech.
 1shabby.
-chaitanyalal18.
 at8807602.
 SumithThota.
 Thrizvi.
@@ -791,6 +791,7 @@ techTrekwithAJ.
 TVani5.
 adarshsingh0205.
 annaydas.
+chaitanyalal18.
 goranlundqvist.
 Hamritha0506.
 harisnad.
@@ -803,7 +804,6 @@ AnithaA09.
 anubhav-ritolia.
 apple9000.
 briangodfreydev.
-chaitanyalal18.
 GauthamBellamkonda.
 Khasim-63993.
 odinsride.
