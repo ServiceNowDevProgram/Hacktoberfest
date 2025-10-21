@@ -153,9 +153,9 @@ koratalas.
 Soumyadeep10.
 Paulsylo25.
 ivan-betev.
+bird-03.
 
 **Top 10% contributors:**
-bird-03.
 sivamuruganandam-coder.
 NavyasreeBolleboyana.
 sumanthdosapati.
@@ -174,9 +174,9 @@ JonSandoval.
 RaviGaurav007.
 VaishnaviLathkar98.
 Vishnu-rvk.
+anurampalli.
 
 **Top 25% contributors:**
-anurampalli.
 bharakm.
 Emmynem.
 juhikumarimodi6.
@@ -255,10 +255,10 @@ trupti65.
 mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
-Its-Nmk.
-pratap360.
 
 **Other contributors:**
+Its-Nmk.
+pratap360.
 Rajasree2004.
 afislonge.
 alkaChaudhary73.
@@ -402,6 +402,7 @@ Gurkunwar-Singh.
 Hacker7766.
 han-le.
 hardik2109.
+Hemant9993.
 hidipen.
 HimanshuSalunke.
 ineffable23.
@@ -1134,6 +1135,7 @@ gurudev-7.
 hacktoberfestservicenow.
 han-le.
 HariniSnow.
+Hemant9993.
 himanisinghal.
 ishanjain18.
 isrbaral.
@@ -1497,7 +1499,6 @@ haupx9.
 HauseMasterZ.
 Hecktoberfest.
 Hemant-Goldar.
-Hemant9993.
 hendrikengler.
 herambchaudhari4121.
 hidipen.
