@@ -472,6 +472,7 @@ Saahil-Kumaar.
 SachinRajakaruna.
 safwanahmadsaffi.
 sagarbhadke08.
+sahilansari0002.
 sahilshingate01.
 samikshak-kaulkar-hacktoberfest.
 samikshak-web.
@@ -982,9 +983,9 @@ Juusoee.
 KartikeSingh.
 kaushalbharade.
 lakshyatyagi24.
+loudigi.
 
 **Other contributors:**
-loudigi.
 Maheshkh9738.
 ManobhavSachan.
 mevops.
@@ -1834,6 +1835,7 @@ saarimshaikh.
 SachinRajakaruna.
 safwanahmadsaffi.
 Sahil1607.
+sahilansari0002.
 sahilshingate01.
 SainathLRH.
 saipataneni.
