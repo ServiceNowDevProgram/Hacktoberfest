@@ -248,6 +248,7 @@ surajnikam111.
 andrey-verevkin.
 ashvin2005.
 durgeshservicenow-hub.
+franks883.
 Kart-19.
 sa173199.
 sandeepd26.
@@ -256,9 +257,9 @@ mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
 Its-Nmk.
-pratap360.
 
 **Other contributors:**
+pratap360.
 Rajasree2004.
 afislonge.
 alkaChaudhary73.
@@ -281,7 +282,6 @@ AyanAhmedKhan.
 CODEBRAKERBOYY.
 daramcdonald96-ops.
 DavidMarcial.
-franks883.
 harshal045.
 Maheshkh9738.
 nehatalha725.
@@ -888,6 +888,7 @@ ashvin2005.
 DChotaliya.
 durgeshservicenow-hub.
 ersureshbe.
+franks883.
 Kart-19.
 LucasRocha2308.
 Mahesh-Krishnan1.
@@ -974,7 +975,6 @@ devalcodes.
 dhruvii-powershell.
 dorsy99.
 ezratkim.
-franks883.
 harshal045.
 HarshMN2345.
 hmadhsan.
