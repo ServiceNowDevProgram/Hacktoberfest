@@ -279,6 +279,7 @@ zstromsodt.
 Abhishek2634.
 AdityaBala2026.
 AyanAhmedKhan.
+ayorindeoluwayemi-coder.
 CODEBRAKERBOYY.
 daramcdonald96-ops.
 DavidMarcial.
@@ -379,7 +380,6 @@ apatti.
 Aruncr123.
 Aryan-Bhendarkar.
 Ash0807.
-ayorindeoluwayemi-coder.
 Ayush-216.
 Azazelxo0.
 Bharathkogilamane274.
@@ -966,6 +966,7 @@ AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
 AyanAhmedKhan.
+ayorindeoluwayemi-coder.
 bhavishyavelaga.
 brichards99.
 ChndrshP.
@@ -994,9 +995,9 @@ Juusoee.
 KartikeSingh.
 kaushalbharade.
 KUSHAL1912.
-lakshyatyagi24.
 
 **Other contributors:**
+lakshyatyagi24.
 loudigi.
 Maheshkh9738.
 ManobhavSachan.
@@ -1330,7 +1331,6 @@ attilaandrade.
 AudreyLin.
 AutumLeaf.
 AvTe.
-ayorindeoluwayemi-coder.
 aysenuruzunnn.
 Ayush-216.
 ayush06195.
