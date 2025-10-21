@@ -205,6 +205,7 @@ animeshdasgit.
 Charanjet.
 DanielMadsenDK.
 debendu-das.
+hakinadey.
 himanshu7895.
 Jmyekn1123.
 Mahmud1087.
@@ -213,7 +214,6 @@ spnegi.
 LakshmiChaitanyaReddy.
 AnandMahajan2799.
 bkb68.
-hakinadey.
 SumithThota.
 
 **Top 50% contributors:**
@@ -717,6 +717,7 @@ priyasnexpert.
 thejasr110.
 unbirthdays.
 ahmadibitoye.
+hakinadey.
 hoederath.
 Jmyekn1123.
 mioyokohama.
@@ -753,7 +754,6 @@ amoore-coder.
 AnandMahajan2799.
 dean-croaker.
 domuserk.
-hakinadey.
 HarneetSital.
 jacebenson.
 katsiarynasoshyna.
