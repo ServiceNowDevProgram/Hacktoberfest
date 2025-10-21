@@ -216,9 +216,9 @@ spnegi.
 LakshmiChaitanyaReddy.
 AnandMahajan2799.
 bkb68.
+abdulsalamnafisat59-rgb.
 
 **Top 50% contributors:**
-abdulsalamnafisat59-rgb.
 DhruvBhatheja.
 chaitanyalal18.
 shreyawani98.
@@ -258,9 +258,9 @@ mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
 Its-Nmk.
+Rajasree2004.
 
 **Other contributors:**
-Rajasree2004.
 404paige.
 afislonge.
 alkaChaudhary73.
@@ -416,6 +416,7 @@ jsywongServiceNow.
 justHarshraj.
 KanavCode.
 kanishkmangal.
+kayoeservicenow.
 khyatithadani.
 knightmarshal.
 knshkp.
@@ -992,9 +993,9 @@ Juusoee.
 KartikeSingh.
 kaushalbharade.
 KUSHAL1912.
+lakshyatyagi24.
 
 **Other contributors:**
-lakshyatyagi24.
 loudigi.
 Maheshkh9738.
 ManobhavSachan.
@@ -1591,6 +1592,7 @@ kashinathlcyb.
 Kawshal29.
 KayakDK.
 kaylin-lee.
+kayoeservicenow.
 kdinesh26.
 Keagnn.
 kenish12.
