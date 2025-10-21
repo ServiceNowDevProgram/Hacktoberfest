@@ -281,6 +281,7 @@ AyanAhmedKhan.
 CODEBRAKERBOYY.
 daramcdonald96-ops.
 DavidMarcial.
+franks883.
 harshal045.
 Maheshkh9738.
 nehatalha725.
@@ -394,7 +395,6 @@ DivyanshRajSoni.
 Durgeshpathak-111.
 ETHAN96308.
 FrancisBarla10.
-franks883.
 Girishbari.
 gnaneshreddyy.
 Govind1982.
@@ -974,6 +974,7 @@ devalcodes.
 dhruvii-powershell.
 dorsy99.
 ezratkim.
+franks883.
 harshal045.
 HarshMN2345.
 hmadhsan.
@@ -987,9 +988,9 @@ jordanrogus.
 Juusoee.
 KartikeSingh.
 kaushalbharade.
-lakshyatyagi24.
 
 **Other contributors:**
+lakshyatyagi24.
 loudigi.
 Maheshkh9738.
 ManobhavSachan.
@@ -1467,7 +1468,6 @@ flab-io.
 Flashdevp95.
 fodelaye26.
 FrancisBarla10.
-franks883.
 fredosborne.
 GAURAV4761.
 gauravghodinde.
