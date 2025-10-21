@@ -229,6 +229,7 @@ Thrizvi.
 ShuGitHub2022.
 becksbyte.
 Abbas-57.
+hakinadey.
 JorgeGRC.
 mitalizope.
 GHSayak25.
@@ -237,7 +238,6 @@ HackoDev1530.
 ewatch.
 anjimuvva.
 bgrk005.
-hakinadey.
 harishkSN.
 KrishChothani.
 mskoddow.
@@ -835,6 +835,7 @@ wiresgit.
 **Top 50% contributors:**
 yourepicservices.
 ChecksumFailed.
+hakinadey.
 markroethof.
 mitalizope.
 SNProductOwner.
@@ -864,7 +865,6 @@ allam1234.
 anjimuvva.
 Decoder-Paul.
 DhanushNehru.
-hakinadey.
 harishkSN.
 jesalynrose.
 KrishChothani.
