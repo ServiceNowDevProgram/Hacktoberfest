@@ -227,6 +227,7 @@ GHSayak25.
 SachinNarayanasamy.
 stefanintech.
 1shabby.
+franks883.
 at8807602.
 Thrizvi.
 ShuGitHub2022.
@@ -234,7 +235,6 @@ becksbyte.
 Abbas-57.
 JorgeGRC.
 mitalizope.
-franks883.
 NayeemKaka.
 Rajat32-op.
 HackoDev1530.
@@ -816,6 +816,7 @@ AnithaA09.
 anubhav-ritolia.
 apple9000.
 briangodfreydev.
+franks883.
 GauthamBellamkonda.
 Khasim-63993.
 odinsride.
@@ -834,9 +835,9 @@ homealone07.
 Iamsant.
 jeremyrubio27.
 JorgeGRC.
-kumarinisha378.
 
 **Top 50% contributors:**
+kumarinisha378.
 S-w-a-p-n-i-l-22.
 Sagar-agarwal.
 wiresgit.
@@ -849,7 +850,6 @@ TechnologistTim.
 anguspalmer.
 Badal2k23.
 bhavyajain511.
-franks883.
 HackoDev1530.
 naveenraw25.
 NBaker137.
