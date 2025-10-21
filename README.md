@@ -214,16 +214,16 @@ bkb68.
 Jmyekn1123.
 abdulsalamnafisat59-rgb.
 DhruvBhatheja.
-SumithThota.
+chaitanyalal18.
 
 **Top 50% contributors:**
-chaitanyalal18.
 divyajetti9.
 shreyawani98.
 dvn-lazywinner.
 stefanintech.
 1shabby.
 at8807602.
+SumithThota.
 Thrizvi.
 ShuGitHub2022.
 becksbyte.
@@ -770,7 +770,6 @@ Suri123789.
 yansa-reece.
 aman2519.
 dalestubblefield.
-SumithThota.
 vermaamit1664.
 watrick.
 almajam.
@@ -816,6 +815,7 @@ Tushnik-cyber.
 fn20200323.
 Pradeep567iaf.
 pratyushasndev.
+SumithThota.
 nag39g.
 NayeemKaka.
 ShuGitHub2022.
