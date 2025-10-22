@@ -219,9 +219,9 @@ chaitanyalal18.
 LakshmiChaitanyaReddy.
 AnandMahajan2799.
 bkb68.
+GHSayak25.
 
 **Top 50% contributors:**
-GHSayak25.
 mitalizope.
 DhruvBhatheja.
 Its-Nmk.
@@ -262,9 +262,9 @@ sandeepd26.
 trupti65.
 Dhruvyadav2000.
 mandeepkaran.
+sndevs-slacker-issue-reporter[bot].
 
 **Other contributors:**
-sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
 varshh-ds.
 Rajasree2004.
@@ -419,6 +419,7 @@ Gurkunwar-Singh.
 Hacker7766.
 han-le.
 hardik2109.
+Harshuu870.
 Hemant9993.
 hidipen.
 HimanshuSalunke.
@@ -808,13 +809,13 @@ vermaamit1664.
 watrick.
 almajam.
 danielliaus.
+Harshuu870.
 Ramesh-hub007.
 salma-93.
 sauravsumankumar.
 yuvraj1107thapa.
 ashuprince121.
 ewatch.
-Harshuu870.
 hrichiksite.
 Its-Nmk.
 Iuliak.
