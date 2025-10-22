@@ -187,8 +187,8 @@ anveshmupparaju.
 brenduh.
 GokulkumarV.
 Sriharsha19.
-bhavyaa30.
 TechTrekwithAJ.
+bhavyaa30.
 Jaspalsinghchot.
 Shashank102002.
 Awesomefp.
@@ -624,8 +624,8 @@ NavyasreeBolleboyana.
 **Top 10% contributors:**
 brenduh.
 deepak-64742.
-rafzk.
 techTrekwithAJ.
+rafzk.
 anillande90.
 ayleeandersen.
 Abhishekchowdarapu.
