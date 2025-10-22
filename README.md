@@ -159,8 +159,8 @@ sivamuruganandam-coder.
 **Top 10% contributors:**
 NavyasreeBolleboyana.
 sumanthdosapati.
-TechTrekwithAJ.
 bharakm.
+TechTrekwithAJ.
 ChaseMillers.
 kmxo.
 AdaOkoye-coder.
@@ -632,6 +632,7 @@ NavyasreeBolleboyana.
 **Top 10% contributors:**
 brenduh.
 deepak-64742.
+bharakm.
 rafzk.
 anillande90.
 ayleeandersen.
@@ -645,7 +646,6 @@ MrChrisE.
 selvarun-umass.
 shreyawani98.
 vandna07.
-bharakm.
 captainbraddles.
 ChaseMillers.
 abhrajyotikanrar.
