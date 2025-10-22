@@ -265,8 +265,8 @@ mandeepkaran.
 **Other contributors:**
 sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
-Rajasree2004.
 varshh-ds.
+Rajasree2004.
 404paige.
 afislonge.
 AmrutaKR007.
@@ -933,6 +933,7 @@ cmanik.
 pranavkhurana2011.
 rohantjoshi.
 srishtinsaan.
+varshh-ds.
 abhilash264.
 aftab-mirza.
 Alprez.
@@ -945,7 +946,6 @@ pviglianti.
 Rajasree2004.
 Shreedevisnow.
 sisco0.
-varshh-ds.
 afislonge.
 AmrutaKR007.
 ashaw7697.
