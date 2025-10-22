@@ -218,9 +218,10 @@ LakshmiChaitanyaReddy.
 AnandMahajan2799.
 bkb68.
 GHSayak25.
-DhruvBhatheja.
+ashvin2005.
 
 **Top 50% contributors:**
+DhruvBhatheja.
 TechTrekwithAJ.
 chaitanyalal18.
 shreyawani98.
@@ -229,7 +230,6 @@ NayeemKaka.
 SachinNarayanasamy.
 stefanintech.
 1shabby.
-ashvin2005.
 at8807602.
 HackoDev1530.
 Thrizvi.
@@ -786,6 +786,7 @@ Southpaw09.
 thorn91.
 Thrizvi.
 vamsi0777.
+ashvin2005.
 DhruvBhatheja.
 HarshLMP870.
 Himanshu-skb-oo7.
@@ -829,7 +830,6 @@ allenandreas.
 AnithaA09.
 anubhav-ritolia.
 apple9000.
-ashvin2005.
 briangodfreydev.
 GauthamBellamkonda.
 HackoDev1530.
