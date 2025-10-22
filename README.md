@@ -249,6 +249,7 @@ mskoddow.
 anjimuvva.
 bgrk005.
 harishkSN.
+kayoeservicenow.
 KrishChothani.
 Priscilladevtech.
 sumanth1710.
@@ -260,9 +261,9 @@ sa173199.
 sandeepd26.
 trupti65.
 Dhruvyadav2000.
-mandeepkaran.
 
 **Other contributors:**
+mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
 varshh-ds.
@@ -274,7 +275,6 @@ chelming.
 Danmax.
 dominik-kiss.
 Gorav-Sharma.
-kayoeservicenow.
 pankajrj.
 poojithavalli22.
 QI-XING.
@@ -894,6 +894,7 @@ Decoder-Paul.
 DhanushNehru.
 harishkSN.
 jesalynrose.
+kayoeservicenow.
 KrishChothani.
 Ladirinia.
 miracc.
@@ -955,7 +956,6 @@ cschmidt82.
 dominik-kiss.
 Gorav-Sharma.
 Jaskaran-Techno.
-kayoeservicenow.
 nvprav.
 pankajrj.
 poojithavalli22.
