@@ -262,10 +262,9 @@ trupti65.
 Dhruvyadav2000.
 mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
-akaanakbaik.
+srishtinsaan.
 
 **Other contributors:**
-srishtinsaan.
 Rajasree2004.
 404paige.
 afislonge.
@@ -305,6 +304,7 @@ bhavishyavelaga.
 isaac-vicentini.
 kmohit2809.
 mitkarisunil.
+akaanakbaik.
 akshaydnetake.
 Anudhyan.
 eriemer1.
@@ -927,7 +927,6 @@ ujjwalprem.
 zailugao.
 mockspeed.
 TheShashank13.
-akaanakbaik.
 cmanik.
 pranavkhurana2011.
 rohantjoshi.
@@ -1008,9 +1007,9 @@ KartikeSingh.
 kaushalbharade.
 KUSHAL1912.
 lakshyatyagi24.
+loudigi.
 
 **Other contributors:**
-loudigi.
 Maheshkh9738.
 ManobhavSachan.
 mevops.
@@ -1064,6 +1063,7 @@ mitkarisunil.
 abdgeio.
 abhishekchavan-git.
 abiramiyohesh.
+akaanakbaik.
 akshaydnetake.
 annapoornakesha.
 Anudhyan.
