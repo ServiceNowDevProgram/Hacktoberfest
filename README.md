@@ -239,7 +239,6 @@ mitalizope.
 franks883.
 Rajat32-op.
 TechTrekwithAJ.
-Dhruvyadav2000.
 ewatch.
 pratap360.
 alkaChaudhary73.
@@ -258,6 +257,7 @@ Kart-19.
 sa173199.
 sandeepd26.
 trupti65.
+Dhruvyadav2000.
 mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
@@ -629,7 +629,6 @@ Abhishekchowdarapu.
 alikuttyka.
 animeshdasgit.
 aswamy93.
-Dhruvyadav2000.
 YTejaswini18.
 BadalHub.
 MrChrisE.
@@ -643,6 +642,7 @@ chiemeriechibuzor.
 csharpie.
 Danmax.
 PranavBhagat18.
+Dhruvyadav2000.
 chaitaliKundu.
 Irston.
 mskoddow.
