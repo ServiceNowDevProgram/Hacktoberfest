@@ -174,10 +174,11 @@ ChandBasha-code.
 jiteshmalik.
 JonSandoval.
 RaviGaurav007.
+TechTrekwithAJ.
 VaishnaviLathkar98.
-Vishnu-rvk.
 
 **Top 25% contributors:**
+Vishnu-rvk.
 anurampalli.
 Emmynem.
 juhikumarimodi6.
@@ -187,7 +188,6 @@ anveshmupparaju.
 brenduh.
 GokulkumarV.
 Sriharsha19.
-TechTrekwithAJ.
 bhavyaa30.
 Jaspalsinghchot.
 Shashank102002.
@@ -613,18 +613,18 @@ spnegi.
 JonSandoval.
 Radhe-Manasa.
 Charanjet.
+techTrekwithAJ.
 alkaChaudhary73.
 stevezero.
 sychi77.
 ronaldkarim.
 sivamuruganandam-coder.
 azeezgaa.
-NavyasreeBolleboyana.
 
 **Top 10% contributors:**
+NavyasreeBolleboyana.
 brenduh.
 deepak-64742.
-techTrekwithAJ.
 rafzk.
 anillande90.
 ayleeandersen.
