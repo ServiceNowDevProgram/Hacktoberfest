@@ -170,16 +170,16 @@ Indra-kolge.
 vijaykumar7177.
 MYaswanth28.
 Mexiprince.
-abhix2112.
 ChandBasha-code.
 jiteshmalik.
 JonSandoval.
 RaviGaurav007.
 VaishnaviLathkar98.
+Vishnu-rvk.
 
 **Top 25% contributors:**
-Vishnu-rvk.
 ashvin2005.
+abhix2112.
 anurampalli.
 Emmynem.
 juhikumarimodi6.
@@ -670,12 +670,12 @@ ChandBasha-code.
 mohitchauhan-dev.
 mr-swann.
 QI-XING.
-abhix2112.
 Munnisona.
 prashantmrshine.
 RaviGaurav007.
 ashvin2005.
 manrick.
+abhix2112.
 hafsa-asif.
 juhikumarimodi6.
 ovarn.
