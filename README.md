@@ -229,6 +229,7 @@ NayeemKaka.
 SachinNarayanasamy.
 stefanintech.
 1shabby.
+ashvin2005.
 at8807602.
 HackoDev1530.
 Thrizvi.
@@ -238,7 +239,6 @@ Abbas-57.
 Its-Nmk.
 JorgeGRC.
 mitalizope.
-ashvin2005.
 franks883.
 Kart-19.
 Rajat32-op.
@@ -828,6 +828,7 @@ allenandreas.
 AnithaA09.
 anubhav-ritolia.
 apple9000.
+ashvin2005.
 briangodfreydev.
 GauthamBellamkonda.
 HackoDev1530.
@@ -849,9 +850,9 @@ Iamsant.
 jeremyrubio27.
 JorgeGRC.
 kumarinisha378.
-Sagar-agarwal.
 
 **Top 50% contributors:**
+Sagar-agarwal.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
@@ -861,7 +862,6 @@ mitalizope.
 SNProductOwner.
 TechnologistTim.
 anguspalmer.
-ashvin2005.
 Badal2k23.
 bhavyajain511.
 franks883.
