@@ -208,6 +208,7 @@ animeshdasgit.
 Charanjet.
 DanielMadsenDK.
 debendu-das.
+GHSayak25.
 hakinadey.
 himanshu7895.
 Jmyekn1123.
@@ -218,10 +219,9 @@ spnegi.
 chaitanyalal18.
 LakshmiChaitanyaReddy.
 AnandMahajan2799.
-bkb68.
 
 **Top 50% contributors:**
-GHSayak25.
+bkb68.
 Its-Nmk.
 DhruvBhatheja.
 shreyawani98.
@@ -740,6 +740,7 @@ priyasnexpert.
 thejasr110.
 unbirthdays.
 ahmadibitoye.
+GHSayak25.
 hakinadey.
 hoederath.
 Jmyekn1123.
@@ -780,7 +781,6 @@ amoore-coder.
 AnandMahajan2799.
 dean-croaker.
 domuserk.
-GHSayak25.
 HarneetSital.
 Its-Nmk.
 jacebenson.
