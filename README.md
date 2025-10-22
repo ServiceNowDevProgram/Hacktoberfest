@@ -247,6 +247,7 @@ Kart-19.
 Rajat32-op.
 ewatch.
 mskoddow.
+afislonge.
 anjimuvva.
 bgrk005.
 harishkSN.
@@ -262,14 +263,13 @@ sandeepd26.
 trupti65.
 Dhruvyadav2000.
 mandeepkaran.
-sndevs-slacker-issue-reporter[bot].
 
 **Other contributors:**
+sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
 varshh-ds.
 Rajasree2004.
 404paige.
-afislonge.
 AmrutaKR007.
 chelming.
 Danmax.
@@ -892,6 +892,7 @@ djunaid.
 Haile-08.
 sonamtiwari8.
 Adiana3308.
+afislonge.
 akhoshnood.
 allam1234.
 anjimuvva.
@@ -951,7 +952,6 @@ pviglianti.
 Rajasree2004.
 Shreedevisnow.
 sisco0.
-afislonge.
 AmrutaKR007.
 ashaw7697.
 Beeram12.
