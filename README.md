@@ -136,8 +136,8 @@ Meet the volunteer team who will be maintaining the Hacktoberfest projects:
 
 **Top 5% contributors:**
 ravichandra1998g.
-earlduque.
 am-shakeel.
+earlduque.
 raghavs046.
 WillemZeiler.
 rohi-v.
@@ -267,7 +267,6 @@ Rajasree2004.
 afislonge.
 AmrutaKR007.
 chelming.
-D-GAJ.
 Danmax.
 dominik-kiss.
 Gorav-Sharma.
@@ -316,6 +315,7 @@ anushka157.
 Arcade-With-Us.
 aykmrgit.
 cjuleff.
+D-GAJ.
 Das-Suparna.
 dheeraj00733.
 Dnyanesh182.
@@ -938,7 +938,6 @@ ashaw7697.
 Beeram12.
 crooks-s.
 cschmidt82.
-D-GAJ.
 dominik-kiss.
 Gorav-Sharma.
 Jaskaran-Techno.
@@ -995,9 +994,9 @@ jordanrogus.
 Juusoee.
 KartikeSingh.
 kaushalbharade.
+KUSHAL1912.
 
 **Other contributors:**
-KUSHAL1912.
 lakshyatyagi24.
 loudigi.
 Maheshkh9738.
@@ -1128,6 +1127,7 @@ Brian-Rowland.
 cjuleff.
 cmurley.
 Code-mantle.
+D-GAJ.
 d7ianielsimonP.
 DaiTranIT.
 Das-Suparna.
