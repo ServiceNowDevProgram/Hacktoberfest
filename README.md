@@ -222,10 +222,10 @@ bkb68.
 
 **Top 50% contributors:**
 GHSayak25.
+Its-Nmk.
 DhruvBhatheja.
 shreyawani98.
 dvn-lazywinner.
-Its-Nmk.
 NayeemKaka.
 SachinNarayanasamy.
 stefanintech.
@@ -782,6 +782,7 @@ dean-croaker.
 domuserk.
 GHSayak25.
 HarneetSital.
+Its-Nmk.
 jacebenson.
 katsiarynasoshyna.
 mebeingmustaq.
@@ -824,7 +825,6 @@ annaydas.
 goranlundqvist.
 Hamritha0506.
 harisnad.
-Its-Nmk.
 KedarisettiSreeVamsi.
 NowRishi.
 riya-vermaa.
