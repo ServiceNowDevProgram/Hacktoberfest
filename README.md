@@ -195,7 +195,6 @@ maheshkhatal27.
 NowSharif.
 chetnadev.
 hanna-g-sn.
-himanshu7895.
 JohanDC-1999.
 gowdah.
 SrijanPatwa.
@@ -208,6 +207,7 @@ Charanjet.
 DanielMadsenDK.
 debendu-das.
 hakinadey.
+himanshu7895.
 Jmyekn1123.
 SumithThota.
 Mahmud1087.
@@ -590,11 +590,11 @@ Mexiprince.
 hrobarikt.
 Vishnu-rvk.
 Chraiseto.
-himanshu7895.
 TRIGGEREDcoder.
 DanielMadsenDK.
 SrijanPatwa.
 smartcarleen.
+himanshu7895.
 at8807602.
 debendu-das.
 sndevs-slacker-issue-reporter[bot].
