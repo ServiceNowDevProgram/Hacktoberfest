@@ -240,6 +240,7 @@ franks883.
 Rajat32-op.
 TechTrekwithAJ.
 ewatch.
+Its-Nmk.
 pratap360.
 alkaChaudhary73.
 anjimuvva.
@@ -261,7 +262,6 @@ Dhruvyadav2000.
 mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
-Its-Nmk.
 
 **Other contributors:**
 Rajasree2004.
@@ -876,6 +876,7 @@ mo-dahir.
 dcord1x.
 djunaid.
 Haile-08.
+Its-Nmk.
 pratap360.
 sonamtiwari8.
 Adiana3308.
@@ -932,7 +933,6 @@ Alprez.
 chris-canto-11.
 furquan5.
 harditsingh88.
-Its-Nmk.
 praisetoyt.
 puneet94.
 pviglianti.
