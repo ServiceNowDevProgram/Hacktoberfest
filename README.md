@@ -227,7 +227,6 @@ GHSayak25.
 SachinNarayanasamy.
 stefanintech.
 1shabby.
-franks883.
 at8807602.
 HackoDev1530.
 Thrizvi.
@@ -236,6 +235,7 @@ becksbyte.
 Abbas-57.
 JorgeGRC.
 mitalizope.
+franks883.
 NayeemKaka.
 Rajat32-op.
 ewatch.
@@ -821,7 +821,6 @@ AnithaA09.
 anubhav-ritolia.
 apple9000.
 briangodfreydev.
-franks883.
 GauthamBellamkonda.
 HackoDev1530.
 Khasim-63993.
@@ -841,9 +840,9 @@ homealone07.
 Iamsant.
 jeremyrubio27.
 JorgeGRC.
+kumarinisha378.
 
 **Top 50% contributors:**
-kumarinisha378.
 S-w-a-p-n-i-l-22.
 Sagar-agarwal.
 wiresgit.
@@ -856,6 +855,7 @@ TechnologistTim.
 anguspalmer.
 Badal2k23.
 bhavyajain511.
+franks883.
 naveenraw25.
 NBaker137.
 patan116.
