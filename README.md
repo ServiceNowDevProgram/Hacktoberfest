@@ -226,6 +226,7 @@ Its-Nmk.
 DhruvBhatheja.
 shreyawani98.
 dvn-lazywinner.
+mitalizope.
 NayeemKaka.
 SachinNarayanasamy.
 stefanintech.
@@ -240,7 +241,6 @@ pratap360.
 Abbas-57.
 alkaChaudhary73.
 JorgeGRC.
-mitalizope.
 franks883.
 Kart-19.
 Rajat32-op.
@@ -826,6 +826,7 @@ goranlundqvist.
 Hamritha0506.
 harisnad.
 KedarisettiSreeVamsi.
+mitalizope.
 NowRishi.
 riya-vermaa.
 SachinNarayanasamy.
@@ -855,16 +856,15 @@ homealone07.
 Iamsant.
 jeremyrubio27.
 JorgeGRC.
-kumarinisha378.
 
 **Top 50% contributors:**
+kumarinisha378.
 pratap360.
 Sagar-agarwal.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
 markroethof.
-mitalizope.
 SNProductOwner.
 TechnologistTim.
 anguspalmer.
