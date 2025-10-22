@@ -210,13 +210,13 @@ hakinadey.
 himanshu7895.
 Jmyekn1123.
 SumithThota.
+abdulsalamnafisat59-rgb.
 Mahmud1087.
 Noah-Drew.
 spnegi.
 LakshmiChaitanyaReddy.
 AnandMahajan2799.
 bkb68.
-abdulsalamnafisat59-rgb.
 
 **Top 50% contributors:**
 DhruvBhatheja.
@@ -736,6 +736,7 @@ mjonssonme.
 nthumma.
 SumithThota.
 templetontsai.
+abdulsalamnafisat59-rgb.
 b1naryst0rm.
 Mahmud1087.
 namrataghorpade.
@@ -776,7 +777,6 @@ Southpaw09.
 thorn91.
 Thrizvi.
 vamsi0777.
-abdulsalamnafisat59-rgb.
 DhruvBhatheja.
 HarshLMP870.
 Himanshu-skb-oo7.
