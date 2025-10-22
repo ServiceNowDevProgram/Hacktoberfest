@@ -260,9 +260,9 @@ mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
 Its-Nmk.
+Rajasree2004.
 
 **Other contributors:**
-Rajasree2004.
 404paige.
 afislonge.
 AmrutaKR007.
@@ -447,6 +447,7 @@ moritzrupp.
 MradulDeodhiya.
 MrAtharvaB.
 MrRohit2506.
+Naman-Vasudev.
 narayankr12.
 natemac47.
 navyamasapu98.
@@ -1727,6 +1728,7 @@ Mukeshpandey0286.
 mukeshpandey9.
 muthuj.
 mybpdi.
+Naman-Vasudev.
 napul205.
 Narasimha677.
 narayankr12.
