@@ -226,6 +226,7 @@ DhruvBhatheja.
 chaitanyalal18.
 shreyawani98.
 dvn-lazywinner.
+Its-Nmk.
 NayeemKaka.
 SachinNarayanasamy.
 stefanintech.
@@ -237,7 +238,6 @@ ShuGitHub2022.
 becksbyte.
 Abbas-57.
 alkaChaudhary73.
-Its-Nmk.
 JorgeGRC.
 mitalizope.
 franks883.
@@ -823,6 +823,7 @@ annaydas.
 goranlundqvist.
 Hamritha0506.
 harisnad.
+Its-Nmk.
 KedarisettiSreeVamsi.
 NowRishi.
 riya-vermaa.
@@ -852,14 +853,13 @@ homealone07.
 Iamsant.
 jeremyrubio27.
 JorgeGRC.
-kumarinisha378.
 
 **Top 50% contributors:**
+kumarinisha378.
 Sagar-agarwal.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
-Its-Nmk.
 markroethof.
 mitalizope.
 SNProductOwner.
