@@ -236,6 +236,7 @@ HackoDev1530.
 Thrizvi.
 ShuGitHub2022.
 becksbyte.
+pratap360.
 Abbas-57.
 alkaChaudhary73.
 JorgeGRC.
@@ -245,7 +246,6 @@ Kart-19.
 Rajat32-op.
 ewatch.
 mskoddow.
-pratap360.
 anjimuvva.
 bgrk005.
 harishkSN.
@@ -858,6 +858,7 @@ JorgeGRC.
 kumarinisha378.
 
 **Top 50% contributors:**
+pratap360.
 Sagar-agarwal.
 wiresgit.
 yourepicservices.
@@ -884,7 +885,6 @@ mo-dahir.
 dcord1x.
 djunaid.
 Haile-08.
-pratap360.
 sonamtiwari8.
 Adiana3308.
 akhoshnood.
