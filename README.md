@@ -138,8 +138,8 @@ Meet the volunteer team who will be maintaining the Hacktoberfest projects:
 ravichandra1998g.
 raghavs046.
 am-shakeel.
-rohi-v.
 earlduque.
+rohi-v.
 WillemZeiler.
 Lacah.
 Rampriya-S.
@@ -559,8 +559,8 @@ niamccash.
 wiz0floyd.
 Rampriya-S.
 snamjosh.
-rohi-v.
 chetnadev.
+rohi-v.
 bird-03.
 kmohit2809.
 raghavs046.
