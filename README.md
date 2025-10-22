@@ -261,9 +261,9 @@ sa173199.
 sandeepd26.
 trupti65.
 Dhruvyadav2000.
+mandeepkaran.
 
 **Other contributors:**
-mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
 varshh-ds.
@@ -538,6 +538,7 @@ virendrapratapsinghyadav.
 Vishnugarg897.
 VishwajeetGupta1709.
 viveksahu92.
+wahidbux.
 weirdwolf-eng.
 wmathor.
 xbasrie.
@@ -1011,9 +1012,9 @@ kaushalbharade.
 KUSHAL1912.
 lakshyatyagi24.
 loudigi.
+Maheshkh9738.
 
 **Other contributors:**
-Maheshkh9738.
 ManobhavSachan.
 mevops.
 mikeroosa.
@@ -2051,6 +2052,7 @@ VNAGULA117.
 vssandilya.
 vvijaya19.
 vynna19.
+wahidbux.
 Watermark-ServiceNow.
 wave-inguane.
 wcarroll.
