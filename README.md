@@ -218,9 +218,9 @@ LakshmiChaitanyaReddy.
 AnandMahajan2799.
 bkb68.
 GHSayak25.
+DhruvBhatheja.
 
 **Top 50% contributors:**
-DhruvBhatheja.
 chaitanyalal18.
 shreyawani98.
 dvn-lazywinner.
@@ -261,9 +261,9 @@ Dhruvyadav2000.
 mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
+Its-Nmk.
 
 **Other contributors:**
-Its-Nmk.
 Rajasree2004.
 404paige.
 afislonge.
@@ -522,6 +522,7 @@ swatimishracapg.
 Taranpreet1407.
 TarunTheDev.
 tejaswahinduja2.
+TheNikhilRaj.
 tripathiaman0709.
 tylerhermanabm.
 udaysiddapur.
@@ -848,9 +849,9 @@ jeremyrubio27.
 JorgeGRC.
 kumarinisha378.
 S-w-a-p-n-i-l-22.
+Sagar-agarwal.
 
 **Top 50% contributors:**
-Sagar-agarwal.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
@@ -1002,9 +1003,9 @@ KartikeSingh.
 kaushalbharade.
 KUSHAL1912.
 lakshyatyagi24.
+loudigi.
 
 **Other contributors:**
-loudigi.
 Maheshkh9738.
 ManobhavSachan.
 mevops.
@@ -1983,6 +1984,7 @@ tedante.
 tejaswahinduja2.
 telbir.
 tgeesman.
+TheNikhilRaj.
 TheoCantor.
 theotherdebs.
 thesnowguy.
