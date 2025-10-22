@@ -164,13 +164,13 @@ kmxo.
 AdaOkoye-coder.
 chiemeriechibuzor.
 niamccash.
+TechTrekwithAJ.
 bharakm.
 Indra-kolge.
 vijaykumar7177.
 MYaswanth28.
 Mexiprince.
 abhix2112.
-TechTrekwithAJ.
 ChandBasha-code.
 jiteshmalik.
 JonSandoval.
@@ -607,6 +607,7 @@ at8807602.
 debendu-das.
 sndevs-slacker-issue-reporter[bot].
 404paige.
+techTrekwithAJ.
 urspvs.
 ankitshu.
 alkaChaudhary73.
@@ -614,7 +615,6 @@ bkb68.
 spnegi.
 JonSandoval.
 Radhe-Manasa.
-techTrekwithAJ.
 Charanjet.
 stevezero.
 sychi77.
