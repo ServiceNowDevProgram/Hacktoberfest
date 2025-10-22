@@ -216,14 +216,14 @@ abdulsalamnafisat59-rgb.
 Mahmud1087.
 Noah-Drew.
 spnegi.
+chaitanyalal18.
 LakshmiChaitanyaReddy.
 AnandMahajan2799.
-bkb68.
 
 **Top 50% contributors:**
+bkb68.
 GHSayak25.
 DhruvBhatheja.
-chaitanyalal18.
 shreyawani98.
 dvn-lazywinner.
 Its-Nmk.
@@ -760,6 +760,7 @@ pradeepthipani.
 Vish-X07.
 1shabby.
 ashu759.
+chaitanyalal18.
 dadhich-ashish.
 girishnagaraj09.
 Jayden-Chiu.
@@ -802,7 +803,6 @@ dalestubblefield.
 vermaamit1664.
 watrick.
 almajam.
-chaitanyalal18.
 danielliaus.
 Ramesh-hub007.
 salma-93.
