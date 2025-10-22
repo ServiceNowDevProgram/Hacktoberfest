@@ -262,9 +262,9 @@ Dhruvyadav2000.
 mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
+Rajasree2004.
 
 **Other contributors:**
-Rajasree2004.
 404paige.
 afislonge.
 AmrutaKR007.
@@ -434,6 +434,7 @@ kumar9060.
 kunalsinghdadhwal.
 kushalt112.
 lalit-oli-mohan-479.
+LItuD.
 lstrallo.
 madhuri-ch4.
 Manish0621.
@@ -1005,9 +1006,9 @@ kaushalbharade.
 KUSHAL1912.
 lakshyatyagi24.
 loudigi.
+Maheshkh9738.
 
 **Other contributors:**
-Maheshkh9738.
 ManobhavSachan.
 mevops.
 mikeroosa.
@@ -1655,6 +1656,7 @@ le-burger.
 LekiaAnonim.
 lianskaya.
 lidmaylid.
+LItuD.
 liyAGHORI.
 loganpoynter.
 LoicSanchez.
