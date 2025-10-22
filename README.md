@@ -257,12 +257,13 @@ sa173199.
 sandeepd26.
 TechTrekwithAJ.
 trupti65.
+Dhruvyadav2000.
 mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
-Its-Nmk.
 
 **Other contributors:**
+Its-Nmk.
 Rajasree2004.
 404paige.
 afislonge.
@@ -297,7 +298,6 @@ Siddhartha03D.
 SinghCod3r.
 Sushmakothagattu.
 bhavishyavelaga.
-Dhruvyadav2000.
 isaac-vicentini.
 kmohit2809.
 mitkarisunil.
@@ -641,6 +641,7 @@ chiemeriechibuzor.
 csharpie.
 Danmax.
 PranavBhagat18.
+Dhruvyadav2000.
 chaitaliKundu.
 Irston.
 mskoddow.
@@ -659,7 +660,6 @@ Indra-kolge.
 vijaykumar7177.
 23Thom.
 aatrey882.
-Dhruvyadav2000.
 salmaniqbal92.
 ChandBasha-code.
 mohitchauhan-dev.
