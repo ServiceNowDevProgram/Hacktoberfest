@@ -255,14 +255,15 @@ durgeshservicenow-hub.
 Kart-19.
 sa173199.
 sandeepd26.
+TechTrekwithAJ.
 trupti65.
 mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
 Its-Nmk.
-Rajasree2004.
 
 **Other contributors:**
+Rajasree2004.
 404paige.
 afislonge.
 AmrutaKR007.
@@ -295,7 +296,6 @@ Shashank0701-byte.
 Siddhartha03D.
 SinghCod3r.
 Sushmakothagattu.
-TechTrekwithAJ.
 bhavishyavelaga.
 Dhruvyadav2000.
 isaac-vicentini.
@@ -719,6 +719,7 @@ Yokesh0811.
 mady22070.
 MarcMouries.
 sn-ajb.
+techTrekwithAJ.
 techYESlogyXplorer.
 vijaytalupula.
 AdityaBala2026.
@@ -757,7 +758,6 @@ dadhich-ashish.
 girishnagaraj09.
 Jayden-Chiu.
 OrgovanGeza.
-techTrekwithAJ.
 Abbas-57.
 arhaan2019.
 designitsecure.
