@@ -368,6 +368,7 @@ afrith03.
 Akashdevin09.
 akashk6697.
 Akshaykomar890.
+akshaypatni-lgtm.
 akshim1702.
 alankritijain2001-dot.
 AlfrinAJ.
@@ -1283,6 +1284,7 @@ akmittal.
 akoolarni.
 Akshay-sri0001.
 Akshaykomar890.
+akshaypatni-lgtm.
 akshim1702.
 alankritijain2001-dot.
 alekseylee.
