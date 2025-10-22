@@ -154,9 +154,9 @@ Paulsylo25.
 Soumyadeep10.
 ivan-betev.
 bird-03.
+sivamuruganandam-coder.
 
 **Top 10% contributors:**
-sivamuruganandam-coder.
 NavyasreeBolleboyana.
 sumanthdosapati.
 TechTrekwithAJ.
@@ -176,9 +176,9 @@ JonSandoval.
 RaviGaurav007.
 VaishnaviLathkar98.
 Vishnu-rvk.
+abhix2112.
 
 **Top 25% contributors:**
-abhix2112.
 anurampalli.
 Emmynem.
 juhikumarimodi6.
@@ -261,10 +261,10 @@ sandeepd26.
 trupti65.
 Dhruvyadav2000.
 mandeepkaran.
-sndevs-slacker-issue-reporter[bot].
-srishtinsaan.
 
 **Other contributors:**
+sndevs-slacker-issue-reporter[bot].
+srishtinsaan.
 Rajasree2004.
 404paige.
 afislonge.
@@ -375,6 +375,7 @@ alankritijain2001-dot.
 AlfrinAJ.
 AmalBajpayee09.
 amandasiriwardane.
+Amitkumar012.
 AniketSonje.
 anilpal678.
 anirudh7065.
@@ -853,9 +854,9 @@ homealone07.
 Iamsant.
 jeremyrubio27.
 JorgeGRC.
+kumarinisha378.
 
 **Top 50% contributors:**
-kumarinisha378.
 Sagar-agarwal.
 wiresgit.
 yourepicservices.
@@ -1008,9 +1009,9 @@ kaushalbharade.
 KUSHAL1912.
 lakshyatyagi24.
 loudigi.
+Maheshkh9738.
 
 **Other contributors:**
-Maheshkh9738.
 ManobhavSachan.
 mevops.
 mikeroosa.
@@ -1303,6 +1304,7 @@ amapal.
 ambsoerensen.
 amdhavalikar.
 Amitanand0123.
+Amitkumar012.
 amrita06-max.
 Anantharaman91.
 Ananya54321.
