@@ -236,6 +236,7 @@ Thrizvi.
 ShuGitHub2022.
 becksbyte.
 Abbas-57.
+alkaChaudhary73.
 Its-Nmk.
 JorgeGRC.
 mitalizope.
@@ -244,7 +245,6 @@ Kart-19.
 Rajat32-op.
 ewatch.
 pratap360.
-alkaChaudhary73.
 anjimuvva.
 bgrk005.
 harishkSN.
@@ -609,13 +609,13 @@ sndevs-slacker-issue-reporter[bot].
 404paige.
 urspvs.
 ankitshu.
+alkaChaudhary73.
 bkb68.
 spnegi.
 JonSandoval.
 Radhe-Manasa.
 Charanjet.
 techTrekwithAJ.
-alkaChaudhary73.
 stevezero.
 sychi77.
 ronaldkarim.
