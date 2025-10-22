@@ -238,6 +238,7 @@ mitalizope.
 franks883.
 NayeemKaka.
 Rajat32-op.
+TechTrekwithAJ.
 ewatch.
 pratap360.
 alkaChaudhary73.
@@ -255,7 +256,6 @@ durgeshservicenow-hub.
 Kart-19.
 sa173199.
 sandeepd26.
-TechTrekwithAJ.
 trupti65.
 mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
@@ -702,6 +702,7 @@ Shashank102002.
 shraddhakadam301298.
 shridk.
 stwinkle.
+techTrekwithAJ.
 Awesomefp.
 lauri457.
 phr-nk.
@@ -719,7 +720,6 @@ Yokesh0811.
 mady22070.
 MarcMouries.
 sn-ajb.
-techTrekwithAJ.
 techYESlogyXplorer.
 vijaytalupula.
 AdityaBala2026.
