@@ -245,6 +245,7 @@ franks883.
 Kart-19.
 Rajat32-op.
 ewatch.
+varshh-ds.
 mskoddow.
 anjimuvva.
 bgrk005.
@@ -260,13 +261,12 @@ durgeshservicenow-hub.
 sa173199.
 sandeepd26.
 trupti65.
-Dhruvyadav2000.
 
 **Other contributors:**
+Dhruvyadav2000.
 mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
-varshh-ds.
 Rajasree2004.
 404paige.
 afislonge.
@@ -882,6 +882,7 @@ ttoter.
 AlphaEagle.
 JWITSM.
 mo-dahir.
+varshh-ds.
 dcord1x.
 djunaid.
 Haile-08.
@@ -934,7 +935,6 @@ cmanik.
 pranavkhurana2011.
 rohantjoshi.
 srishtinsaan.
-varshh-ds.
 abhilash264.
 aftab-mirza.
 Alprez.
