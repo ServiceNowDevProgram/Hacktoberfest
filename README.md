@@ -172,9 +172,9 @@ Mexiprince.
 abhix2112.
 ChandBasha-code.
 jiteshmalik.
+TechTrekwithAJ.
 JonSandoval.
 RaviGaurav007.
-TechTrekwithAJ.
 VaishnaviLathkar98.
 
 **Top 25% contributors:**
@@ -614,8 +614,8 @@ bkb68.
 spnegi.
 JonSandoval.
 Radhe-Manasa.
-Charanjet.
 techTrekwithAJ.
+Charanjet.
 stevezero.
 sychi77.
 ronaldkarim.
