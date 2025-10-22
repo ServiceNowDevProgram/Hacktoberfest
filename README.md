@@ -519,6 +519,7 @@ Smoothengineer.
 snehapotadar1-bot.
 SoftSage07.
 Southpaw09.
+stallcounter.
 stmapman7.
 SUMEDHFORTES.
 Sumit6307.
@@ -626,9 +627,9 @@ sychi77.
 ronaldkarim.
 sivamuruganandam-coder.
 azeezgaa.
+NavyasreeBolleboyana.
 
 **Top 10% contributors:**
-NavyasreeBolleboyana.
 brenduh.
 deepak-64742.
 rafzk.
@@ -704,9 +705,9 @@ stefanintech.
 DavidMarcial.
 NowSharif.
 soerenmaucher.
+Adil404.
 
 **Top 25% contributors:**
-Adil404.
 avssrikanth.
 Shashank102002.
 shraddhakadam301298.
@@ -1013,10 +1014,10 @@ KartikeSingh.
 kaushalbharade.
 KUSHAL1912.
 lakshyatyagi24.
-loudigi.
-Maheshkh9738.
 
 **Other contributors:**
+loudigi.
+Maheshkh9738.
 ManobhavSachan.
 mevops.
 mikeroosa.
@@ -1957,6 +1958,7 @@ Souradeephazra123.
 srirampusuluri1.
 srramanujam.
 Srutip04.
+stallcounter.
 StephenKanikaraj.
 Stevay3.
 SteveMunsell.
