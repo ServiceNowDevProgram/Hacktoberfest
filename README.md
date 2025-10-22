@@ -228,7 +228,6 @@ NayeemKaka.
 SachinNarayanasamy.
 stefanintech.
 1shabby.
-TechTrekwithAJ.
 at8807602.
 HackoDev1530.
 Thrizvi.
@@ -239,6 +238,7 @@ JorgeGRC.
 mitalizope.
 franks883.
 Rajat32-op.
+TechTrekwithAJ.
 Dhruvyadav2000.
 ewatch.
 pratap360.
@@ -674,7 +674,6 @@ manrick.
 hafsa-asif.
 juhikumarimodi6.
 ovarn.
-techTrekwithAJ.
 anurampalli.
 devinvalencia.
 dvn-lazywinner.
@@ -696,14 +695,15 @@ stefanintech.
 DavidMarcial.
 NowSharif.
 soerenmaucher.
+Adil404.
 
 **Top 25% contributors:**
-Adil404.
 avssrikanth.
 Shashank102002.
 shraddhakadam301298.
 shridk.
 stwinkle.
+techTrekwithAJ.
 Awesomefp.
 lauri457.
 phr-nk.
