@@ -266,6 +266,7 @@ mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
 Rajasree2004.
+varshh-ds.
 404paige.
 afislonge.
 AmrutaKR007.
@@ -315,7 +316,6 @@ phegel.
 ServiceNowDevProgram.
 Siri-007.
 Uma20-dev.
-varshh-ds.
 abiramiyohesh.
 Akash-44.
 AnkithSharmaji.
@@ -945,6 +945,7 @@ pviglianti.
 Rajasree2004.
 Shreedevisnow.
 sisco0.
+varshh-ds.
 afislonge.
 AmrutaKR007.
 ashaw7697.
@@ -1010,9 +1011,9 @@ kaushalbharade.
 KUSHAL1912.
 lakshyatyagi24.
 loudigi.
-Maheshkh9738.
 
 **Other contributors:**
+Maheshkh9738.
 ManobhavSachan.
 mevops.
 mikeroosa.
@@ -1114,7 +1115,6 @@ sohailkhilji.
 SweetPoodle.
 tewariap.
 Uma20-dev.
-varshh-ds.
 varunharih.
 vpeinado.
 ZaberMohd.
