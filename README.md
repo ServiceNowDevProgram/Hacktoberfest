@@ -256,6 +256,7 @@ KrishChothani.
 Priscilladevtech.
 sumanth1710.
 surajnikam111.
+aishar563.
 andrey-verevkin.
 ayorindeoluwayemi-coder.
 durgeshservicenow-hub.
@@ -264,9 +265,9 @@ sa173199.
 sandeepd26.
 trupti65.
 Dhruvyadav2000.
-mandeepkaran.
 
 **Other contributors:**
+mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
 varshh-ds.
@@ -285,7 +286,6 @@ TejasSNOW.
 zstromsodt.
 Abhishek2634.
 AdityaBala2026.
-aishar563.
 AnithaA09.
 AyanAhmedKhan.
 CODEBRAKERBOYY.
@@ -918,6 +918,7 @@ SaiSankar1309.
 soham-shee.
 surajnikam111.
 UTSAVS26.
+aishar563.
 andrey-verevkin.
 ayorindeoluwayemi-coder.
 DChotaliya.
@@ -982,7 +983,6 @@ zstromsodt.
 4bode.
 abhay625.
 Abhishek2634.
-aishar563.
 akipatil16.
 ananthsridhar.
 ankitshaw625.
