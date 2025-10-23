@@ -266,9 +266,9 @@ sandeepd26.
 sudhanshu-raj.
 trupti65.
 Dhruvyadav2000.
+mandeepkaran.
 
 **Other contributors:**
-mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
 LItuD.
 srishtinsaan.
@@ -546,6 +546,7 @@ udaysiddapur.
 VA2707.
 vachaspathi6.
 varun1325.
+VinayKumarVangala.
 virendrapratapsinghyadav.
 Vishnugarg897.
 VishwajeetGupta1709.
@@ -869,9 +870,9 @@ pratap360.
 ShuGitHub2022.
 becksbyte.
 homealone07.
+Iamsant.
 
 **Top 50% contributors:**
-Iamsant.
 jeremyrubio27.
 JorgeGRC.
 kumarinisha378.
@@ -1025,9 +1026,9 @@ jordanrogus.
 Juusoee.
 KartikeSingh.
 kaushalbharade.
+KUSHAL1912.
 
 **Other contributors:**
-KUSHAL1912.
 lakshyatyagi24.
 loudigi.
 Maheshkh9738.
@@ -2059,6 +2060,7 @@ vijay1379.
 vijayshankar485.
 vijaytechy.
 vikasphougat.
+VinayKumarVangala.
 vino3110.
 virendrapratapsinghyadav.
 Vishnugarg897.
