@@ -258,14 +258,15 @@ surajnikam111.
 andrey-verevkin.
 ayorindeoluwayemi-coder.
 durgeshservicenow-hub.
+Harshuu870.
 sa173199.
 sandeepd26.
 trupti65.
 Dhruvyadav2000.
 mandeepkaran.
-sndevs-slacker-issue-reporter[bot].
 
 **Other contributors:**
+sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
 varshh-ds.
 Rajasree2004.
@@ -288,7 +289,6 @@ CODEBRAKERBOYY.
 daramcdonald96-ops.
 DavidMarcial.
 harshal045.
-Harshuu870.
 KUSHAL1912.
 Maheshkh9738.
 Naman-Vasudev.
@@ -732,6 +732,7 @@ Yokesh0811.
 mady22070.
 MarcMouries.
 sn-ajb.
+Harshuu870.
 techYESlogyXplorer.
 vijaytalupula.
 AdityaBala2026.
@@ -770,7 +771,6 @@ ashu759.
 chaitanyalal18.
 dadhich-ashish.
 girishnagaraj09.
-Harshuu870.
 Jayden-Chiu.
 OrgovanGeza.
 Abbas-57.
