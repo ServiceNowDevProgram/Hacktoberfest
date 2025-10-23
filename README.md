@@ -181,6 +181,7 @@ VaishnaviLathkar98.
 
 **Top 25% contributors:**
 Vishnu-rvk.
+chaitanyalal18.
 anurampalli.
 Emmynem.
 juhikumarimodi6.
@@ -192,7 +193,6 @@ GokulkumarV.
 aishar563.
 bhavyaa30.
 Jaspalsinghchot.
-chaitanyalal18.
 Shashank102002.
 Awesomefp.
 lauri457.
@@ -693,6 +693,7 @@ prashantmrshine.
 RaviGaurav007.
 Sriharsha19.
 manrick.
+chaitanyalal18.
 hafsa-asif.
 juhikumarimodi6.
 ovarn.
@@ -713,14 +714,13 @@ danr2c2.
 Litwilly.
 MRSinghRajat.
 oasif.
-stefanintech.
 
 **Top 25% contributors:**
+stefanintech.
 DavidMarcial.
 soerenmaucher.
 Adil404.
 avssrikanth.
-chaitanyalal18.
 Shashank102002.
 shraddhakadam301298.
 shridk.
