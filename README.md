@@ -177,9 +177,9 @@ NowSharif.
 JonSandoval.
 RaviGaurav007.
 VaishnaviLathkar98.
+Vishnu-rvk.
 
 **Top 25% contributors:**
-Vishnu-rvk.
 anurampalli.
 Emmynem.
 juhikumarimodi6.
@@ -372,6 +372,7 @@ Aditya-1208.
 Adrija-verse.
 afk-Parth.
 afrith03.
+aishar563.
 Akashdevin09.
 akashk6697.
 Akshaykomar890.
@@ -864,9 +865,9 @@ homealone07.
 Iamsant.
 jeremyrubio27.
 JorgeGRC.
+kumarinisha378.
 
 **Top 50% contributors:**
-kumarinisha378.
 pratap360.
 Sagar-agarwal.
 wiresgit.
@@ -1019,9 +1020,9 @@ kaushalbharade.
 KUSHAL1912.
 lakshyatyagi24.
 loudigi.
+Maheshkh9738.
 
 **Other contributors:**
-Maheshkh9738.
 ManobhavSachan.
 mevops.
 mikeroosa.
@@ -1290,6 +1291,7 @@ afk-Parth.
 afrith03.
 ahamadunnisa-md.
 ahmadwhet.
+aishar563.
 ajbuono.
 ajithaju15.
 Akashdevin09.
