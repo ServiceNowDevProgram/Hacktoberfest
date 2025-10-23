@@ -263,9 +263,9 @@ sandeepd26.
 trupti65.
 Dhruvyadav2000.
 mandeepkaran.
+sndevs-slacker-issue-reporter[bot].
 
 **Other contributors:**
-sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
 varshh-ds.
 Rajasree2004.
@@ -439,6 +439,7 @@ kumar9060.
 kunalsinghdadhwal.
 kushalt112.
 lalit-oli-mohan-479.
+lameloball6741.
 LItuD.
 lstrallo.
 madhuri-ch4.
@@ -1659,6 +1660,7 @@ kushalt112.
 kvdev29.
 laherfrit.
 lalit-oli-mohan-479.
+lameloball6741.
 Lamquocminhhuy.
 LarsAssen.
 Lathasuv.
