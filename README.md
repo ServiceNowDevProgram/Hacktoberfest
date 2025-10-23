@@ -232,6 +232,7 @@ NayeemKaka.
 SachinNarayanasamy.
 stefanintech.
 1shabby.
+aishar563.
 ashvin2005.
 at8807602.
 HackoDev1530.
@@ -244,7 +245,6 @@ afislonge.
 alkaChaudhary73.
 JorgeGRC.
 kayoeservicenow.
-aishar563.
 franks883.
 Kart-19.
 Rajat32-op.
@@ -842,6 +842,7 @@ NowRishi.
 riya-vermaa.
 SachinNarayanasamy.
 99Saurabh19.
+aishar563.
 allenandreas.
 anubhav-ritolia.
 apple9000.
@@ -866,9 +867,9 @@ homealone07.
 Iamsant.
 jeremyrubio27.
 JorgeGRC.
-kumarinisha378.
 
 **Top 50% contributors:**
+kumarinisha378.
 pratap360.
 Sagar-agarwal.
 wiresgit.
@@ -879,7 +880,6 @@ kayoeservicenow.
 markroethof.
 SNProductOwner.
 TechnologistTim.
-aishar563.
 anguspalmer.
 Badal2k23.
 bhavyajain511.
