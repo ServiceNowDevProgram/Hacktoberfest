@@ -225,6 +225,7 @@ AnandMahajan2799.
 **Top 50% contributors:**
 bkb68.
 mitalizope.
+aishar563.
 DhruvBhatheja.
 shreyawani98.
 dvn-lazywinner.
@@ -233,7 +234,6 @@ NayeemKaka.
 SachinNarayanasamy.
 stefanintech.
 1shabby.
-aishar563.
 ashvin2005.
 at8807602.
 HackoDev1530.
@@ -806,6 +806,7 @@ Southpaw09.
 thorn91.
 Thrizvi.
 vamsi0777.
+aishar563.
 DhruvBhatheja.
 HarshLMP870.
 Himanshu-skb-oo7.
@@ -843,7 +844,6 @@ NowRishi.
 riya-vermaa.
 SachinNarayanasamy.
 99Saurabh19.
-aishar563.
 allenandreas.
 anubhav-ritolia.
 apple9000.
