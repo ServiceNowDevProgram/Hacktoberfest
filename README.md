@@ -221,14 +221,14 @@ Mahmud1087.
 Noah-Drew.
 spnegi.
 LakshmiChaitanyaReddy.
-AnandMahajan2799.
+afislonge.
 
 **Top 50% contributors:**
+AnandMahajan2799.
 bkb68.
 mitalizope.
 DhruvBhatheja.
 shreyawani98.
-afislonge.
 dvn-lazywinner.
 kayoeservicenow.
 NayeemKaka.
@@ -793,6 +793,7 @@ seviceN.
 sumanth1710.
 tejudhoran95.
 vasantharaja-natarajan.
+afislonge.
 amoore-coder.
 AnandMahajan2799.
 AnithaA09.
@@ -836,7 +837,6 @@ RaunakScarlet.
 Srikanth1306.
 TVani5.
 adarshsingh0205.
-afislonge.
 annaydas.
 goranlundqvist.
 Hamritha0506.
