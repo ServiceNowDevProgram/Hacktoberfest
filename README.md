@@ -228,6 +228,7 @@ bkb68.
 mitalizope.
 DhruvBhatheja.
 shreyawani98.
+afislonge.
 dvn-lazywinner.
 kayoeservicenow.
 NayeemKaka.
@@ -243,7 +244,6 @@ ShuGitHub2022.
 becksbyte.
 pratap360.
 Abbas-57.
-afislonge.
 alkaChaudhary73.
 JorgeGRC.
 franks883.
@@ -836,6 +836,7 @@ RaunakScarlet.
 Srikanth1306.
 TVani5.
 adarshsingh0205.
+afislonge.
 annaydas.
 goranlundqvist.
 Hamritha0506.
@@ -868,16 +869,15 @@ ShuGitHub2022.
 becksbyte.
 homealone07.
 Iamsant.
-jeremyrubio27.
 
 **Top 50% contributors:**
+jeremyrubio27.
 JorgeGRC.
 kumarinisha378.
 pratap360.
 Sagar-agarwal.
 wiresgit.
 yourepicservices.
-afislonge.
 ChecksumFailed.
 markroethof.
 SNProductOwner.
