@@ -232,6 +232,7 @@ SachinNarayanasamy.
 stefanintech.
 1shabby.
 ashvin2005.
+Harshuu870.
 at8807602.
 HackoDev1530.
 Thrizvi.
@@ -244,7 +245,6 @@ alkaChaudhary73.
 JorgeGRC.
 kayoeservicenow.
 franks883.
-Harshuu870.
 Kart-19.
 Rajat32-op.
 ewatch.
@@ -686,6 +686,7 @@ RaviGaurav007.
 manrick.
 NowSharif.
 hafsa-asif.
+Harshuu870.
 juhikumarimodi6.
 ovarn.
 anurampalli.
@@ -708,11 +709,10 @@ oasif.
 stefanintech.
 DavidMarcial.
 soerenmaucher.
-Adil404.
 
 **Top 25% contributors:**
+Adil404.
 avssrikanth.
-Harshuu870.
 Shashank102002.
 shraddhakadam301298.
 shridk.
