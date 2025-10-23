@@ -173,18 +173,18 @@ Mexiprince.
 abhix2112.
 ChandBasha-code.
 jiteshmalik.
+NowSharif.
 JonSandoval.
 RaviGaurav007.
 VaishnaviLathkar98.
-Vishnu-rvk.
 
 **Top 25% contributors:**
+Vishnu-rvk.
 anurampalli.
 Emmynem.
 juhikumarimodi6.
 maheshkhatal27.
 naveensnow.
-NowSharif.
 anveshmupparaju.
 brenduh.
 GokulkumarV.
@@ -678,13 +678,13 @@ salmaniqbal92.
 ChandBasha-code.
 mohitchauhan-dev.
 mr-swann.
+NowSharif.
 QI-XING.
 abhix2112.
 Munnisona.
 prashantmrshine.
 RaviGaurav007.
 manrick.
-NowSharif.
 hafsa-asif.
 Harshuu870.
 juhikumarimodi6.
