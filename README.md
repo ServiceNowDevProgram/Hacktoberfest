@@ -228,6 +228,7 @@ mitalizope.
 DhruvBhatheja.
 shreyawani98.
 dvn-lazywinner.
+kayoeservicenow.
 NayeemKaka.
 SachinNarayanasamy.
 stefanintech.
@@ -244,7 +245,6 @@ Abbas-57.
 afislonge.
 alkaChaudhary73.
 JorgeGRC.
-kayoeservicenow.
 franks883.
 Kart-19.
 Rajat32-op.
@@ -837,6 +837,7 @@ annaydas.
 goranlundqvist.
 Hamritha0506.
 harisnad.
+kayoeservicenow.
 KedarisettiSreeVamsi.
 NowRishi.
 riya-vermaa.
@@ -866,9 +867,9 @@ becksbyte.
 homealone07.
 Iamsant.
 jeremyrubio27.
-JorgeGRC.
 
 **Top 50% contributors:**
+JorgeGRC.
 kumarinisha378.
 pratap360.
 Sagar-agarwal.
@@ -876,7 +877,6 @@ wiresgit.
 yourepicservices.
 afislonge.
 ChecksumFailed.
-kayoeservicenow.
 markroethof.
 SNProductOwner.
 TechnologistTim.
