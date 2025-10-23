@@ -263,11 +263,12 @@ ayorindeoluwayemi-coder.
 durgeshservicenow-hub.
 sa173199.
 sandeepd26.
+sudhanshu-raj.
 trupti65.
 Dhruvyadav2000.
-mandeepkaran.
 
 **Other contributors:**
+mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
 varshh-ds.
@@ -305,7 +306,6 @@ selvarun-umass.
 Shashank0701-byte.
 Siddhartha03D.
 SinghCod3r.
-sudhanshu-raj.
 Sushmakothagattu.
 zakir8992.
 bhavishyavelaga.
@@ -935,6 +935,7 @@ prithvibalakka.
 Ratheshan03.
 sa173199.
 Sallu77.
+sudhanshu-raj.
 tanu-profile.
 Thanai14.
 TheTreyKyle.
@@ -1024,9 +1025,9 @@ Juusoee.
 KartikeSingh.
 kaushalbharade.
 KUSHAL1912.
-lakshyatyagi24.
 
 **Other contributors:**
+lakshyatyagi24.
 loudigi.
 Maheshkh9738.
 ManobhavSachan.
@@ -1064,7 +1065,6 @@ SinghCod3r.
 speedy18.
 Sravanik12.
 Subhraneel77.
-sudhanshu-raj.
 Sushmakothagattu.
 TheRashRash.
 thomasvogh.
