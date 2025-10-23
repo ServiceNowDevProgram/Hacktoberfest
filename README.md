@@ -280,6 +280,7 @@ Gorav-Sharma.
 pankajrj.
 poojithavalli22.
 QI-XING.
+srikanthroyal932-cmyk.
 SwapnaAbburi.
 TejasSNOW.
 zstromsodt.
@@ -353,7 +354,6 @@ shivambitanwar-glitch.
 Shweyy123.
 silky-modi22.
 slytechiefrommagentashore.
-srikanthroyal932-cmyk.
 ssejal1508.
 surajkewat72.
 ToosinDada.
@@ -968,6 +968,7 @@ pankajrj.
 poojithavalli22.
 RagaChitraMankala.
 ShakthiSn.
+srikanthroyal932-cmyk.
 SwapnaAbburi.
 tejasathalye.
 TejasSNOW.
@@ -1017,9 +1018,9 @@ KartikeSingh.
 kaushalbharade.
 KUSHAL1912.
 lakshyatyagi24.
-loudigi.
 
 **Other contributors:**
+loudigi.
 Maheshkh9738.
 ManobhavSachan.
 mevops.
@@ -1238,7 +1239,6 @@ skwashim786.
 SKYsnaX.
 slytechiefrommagentashore.
 snowritik.
-srikanthroyal932-cmyk.
 SruthiSivarajan.
 ssejal1508.
 sudhanshu-77.
