@@ -239,9 +239,9 @@ ashvin2005.
 at8807602.
 HackoDev1530.
 Thrizvi.
+pratap360.
 ShuGitHub2022.
 becksbyte.
-pratap360.
 Abbas-57.
 alkaChaudhary73.
 JorgeGRC.
@@ -865,16 +865,16 @@ fn20200323.
 Pradeep567iaf.
 pratyushasndev.
 nag39g.
+pratap360.
 ShuGitHub2022.
 becksbyte.
 homealone07.
-Iamsant.
 
 **Top 50% contributors:**
+Iamsant.
 jeremyrubio27.
 JorgeGRC.
 kumarinisha378.
-pratap360.
 Sagar-agarwal.
 wiresgit.
 yourepicservices.
