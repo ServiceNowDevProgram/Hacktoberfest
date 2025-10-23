@@ -189,6 +189,7 @@ anveshmupparaju.
 brenduh.
 GokulkumarV.
 Sriharsha19.
+aishar563.
 bhavyaa30.
 Jaspalsinghchot.
 chaitanyalal18.
@@ -199,7 +200,6 @@ chetnadev.
 hanna-g-sn.
 JohanDC-1999.
 SumithThota.
-aishar563.
 gowdah.
 SrijanPatwa.
 chaitaliKundu.
@@ -705,6 +705,7 @@ sravankadudhuri.
 jonahpiascik.
 kylburns89.
 Sriharsha19.
+aishar563.
 bhavyaa30.
 danr2c2.
 Litwilly.
@@ -712,9 +713,9 @@ MRSinghRajat.
 oasif.
 stefanintech.
 DavidMarcial.
-soerenmaucher.
 
 **Top 25% contributors:**
+soerenmaucher.
 Adil404.
 avssrikanth.
 chaitanyalal18.
@@ -732,7 +733,6 @@ JohanDC-1999.
 mandeepkaran.
 SumithThota.
 zahidask.
-aishar563.
 DynamiteC.
 shakeel-sheikh.
 vjtknn.
