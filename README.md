@@ -237,6 +237,7 @@ at8807602.
 HackoDev1530.
 Thrizvi.
 ShuGitHub2022.
+varshh-ds.
 becksbyte.
 pratap360.
 Abbas-57.
@@ -248,7 +249,6 @@ franks883.
 Kart-19.
 Rajat32-op.
 ewatch.
-varshh-ds.
 mskoddow.
 anjimuvva.
 bgrk005.
@@ -858,13 +858,14 @@ Pradeep567iaf.
 pratyushasndev.
 nag39g.
 ShuGitHub2022.
+varshh-ds.
 becksbyte.
 homealone07.
 Iamsant.
 jeremyrubio27.
-JorgeGRC.
 
 **Top 50% contributors:**
+JorgeGRC.
 kumarinisha378.
 pratap360.
 Sagar-agarwal.
@@ -891,7 +892,6 @@ ttoter.
 AlphaEagle.
 JWITSM.
 mo-dahir.
-varshh-ds.
 dcord1x.
 djunaid.
 Haile-08.
