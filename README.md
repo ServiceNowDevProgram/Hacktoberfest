@@ -303,7 +303,6 @@ Siddhartha03D.
 SinghCod3r.
 sudhanshu-raj.
 Sushmakothagattu.
-zakir8992.
 bhavishyavelaga.
 isaac-vicentini.
 kmohit2809.
@@ -549,6 +548,7 @@ weirdwolf-eng.
 wmathor.
 xbasrie.
 yanshOnHub.
+zakir8992.
 zoro-kiki.
 
 ## Leaderboard (all time):
@@ -1065,7 +1065,6 @@ ultralegendary.
 workpurposeusername.
 YadlaMani.
 zaidongy.
-zakir8992.
 ChilloutSenthil.
 jon-lind-sn.
 kalyan120694.
@@ -2080,6 +2079,7 @@ yay-jake.
 YDdraigGoch70.
 youthinkasido.
 yrozo28.
+zakir8992.
 zerus83.
 zomsik.
 zoro-kiki.
