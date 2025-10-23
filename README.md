@@ -217,14 +217,14 @@ Mahmud1087.
 Noah-Drew.
 spnegi.
 chaitanyalal18.
+Its-Nmk.
 LakshmiChaitanyaReddy.
 AnandMahajan2799.
 bkb68.
-mitalizope.
 
 **Top 50% contributors:**
+mitalizope.
 DhruvBhatheja.
-Its-Nmk.
 shreyawani98.
 dvn-lazywinner.
 NayeemKaka.
@@ -778,6 +778,7 @@ OrgovanGeza.
 Abbas-57.
 arhaan2019.
 designitsecure.
+Its-Nmk.
 LakshmiChaitanyaReddy.
 llipovsky.
 prynacshrma.
@@ -823,7 +824,6 @@ yuvraj1107thapa.
 ashuprince121.
 ewatch.
 hrichiksite.
-Its-Nmk.
 Iuliak.
 jahnaviT2003.
 RaunakScarlet.
