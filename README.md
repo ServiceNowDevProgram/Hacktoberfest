@@ -213,6 +213,7 @@ hakinadey.
 himanshu7895.
 Jmyekn1123.
 abdulsalamnafisat59-rgb.
+Harshuu870.
 Mahmud1087.
 Noah-Drew.
 spnegi.
@@ -220,12 +221,11 @@ chaitanyalal18.
 Its-Nmk.
 LakshmiChaitanyaReddy.
 AnandMahajan2799.
-bkb68.
 
 **Top 50% contributors:**
+bkb68.
 mitalizope.
 DhruvBhatheja.
-Harshuu870.
 shreyawani98.
 dvn-lazywinner.
 NayeemKaka.
@@ -662,6 +662,7 @@ mskoddow.
 chaitaliKundu.
 Irston.
 bgrk005.
+Harshuu870.
 litwi1rm.
 mak1A4.
 shivamTodwal.
@@ -681,7 +682,6 @@ mr-swann.
 NowSharif.
 QI-XING.
 abhix2112.
-Harshuu870.
 Munnisona.
 prashantmrshine.
 RaviGaurav007.
