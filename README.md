@@ -191,6 +191,7 @@ GokulkumarV.
 Sriharsha19.
 bhavyaa30.
 Jaspalsinghchot.
+chaitanyalal18.
 Shashank102002.
 Awesomefp.
 lauri457.
@@ -201,7 +202,6 @@ SumithThota.
 aishar563.
 gowdah.
 SrijanPatwa.
-chaitanyalal18.
 chaitaliKundu.
 divyajetti9.
 iamshankha.
@@ -717,6 +717,7 @@ soerenmaucher.
 **Top 25% contributors:**
 Adil404.
 avssrikanth.
+chaitanyalal18.
 Shashank102002.
 shraddhakadam301298.
 shridk.
@@ -739,7 +740,6 @@ Yokesh0811.
 mady22070.
 MarcMouries.
 sn-ajb.
-chaitanyalal18.
 techYESlogyXplorer.
 vijaytalupula.
 AdityaBala2026.
