@@ -483,6 +483,7 @@ RavleenKaur-rk.
 RedRangerWentWild.
 richirichard7789-svg.
 Ritanshusharma2.
+Riya010107.
 Riyamisra1.
 rly09.
 robinbishtt.
@@ -1015,9 +1016,9 @@ KartikeSingh.
 kaushalbharade.
 KUSHAL1912.
 lakshyatyagi24.
+loudigi.
 
 **Other contributors:**
-loudigi.
 Maheshkh9738.
 ManobhavSachan.
 mevops.
@@ -1856,6 +1857,7 @@ ricksclick.
 rishabhbaranwal0.
 Ritanshusharma2.
 RitheshGit.
+Riya010107.
 Riyamisra1.
 rly09.
 robertbeeman.
