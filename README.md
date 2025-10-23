@@ -237,6 +237,7 @@ SachinNarayanasamy.
 stefanintech.
 1shabby.
 ashvin2005.
+ayorindeoluwayemi-coder.
 at8807602.
 HackoDev1530.
 Thrizvi.
@@ -246,7 +247,6 @@ becksbyte.
 Abbas-57.
 alkaChaudhary73.
 JorgeGRC.
-ayorindeoluwayemi-coder.
 franks883.
 Kart-19.
 Rajat32-op.
@@ -852,6 +852,7 @@ allenandreas.
 anubhav-ritolia.
 apple9000.
 ashvin2005.
+ayorindeoluwayemi-coder.
 briangodfreydev.
 GauthamBellamkonda.
 HackoDev1530.
@@ -870,9 +871,9 @@ pratap360.
 ShuGitHub2022.
 becksbyte.
 homealone07.
-Iamsant.
 
 **Top 50% contributors:**
+Iamsant.
 jeremyrubio27.
 JorgeGRC.
 kumarinisha378.
@@ -884,7 +885,6 @@ markroethof.
 SNProductOwner.
 TechnologistTim.
 anguspalmer.
-ayorindeoluwayemi-coder.
 Badal2k23.
 bhavyajain511.
 franks883.
