@@ -244,6 +244,7 @@ alkaChaudhary73.
 JorgeGRC.
 kayoeservicenow.
 franks883.
+Harshuu870.
 Kart-19.
 Rajat32-op.
 ewatch.
@@ -258,7 +259,6 @@ surajnikam111.
 andrey-verevkin.
 ayorindeoluwayemi-coder.
 durgeshservicenow-hub.
-Harshuu870.
 S-w-a-p-n-i-l-22.
 sa173199.
 sandeepd26.
@@ -711,6 +711,7 @@ Adil404.
 
 **Top 25% contributors:**
 avssrikanth.
+Harshuu870.
 Shashank102002.
 shraddhakadam301298.
 shridk.
@@ -733,7 +734,6 @@ mady22070.
 MarcMouries.
 sn-ajb.
 chaitanyalal18.
-Harshuu870.
 techYESlogyXplorer.
 vijaytalupula.
 AdityaBala2026.
