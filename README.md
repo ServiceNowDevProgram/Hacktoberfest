@@ -220,9 +220,9 @@ spnegi.
 LakshmiChaitanyaReddy.
 AnandMahajan2799.
 bkb68.
+mitalizope.
 
 **Top 50% contributors:**
-mitalizope.
 DhruvBhatheja.
 Its-Nmk.
 shreyawani98.
@@ -264,9 +264,9 @@ sa173199.
 sandeepd26.
 trupti65.
 Dhruvyadav2000.
+mandeepkaran.
 
 **Other contributors:**
-mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
 srishtinsaan.
 varshh-ds.
@@ -383,6 +383,7 @@ Amitkumar012.
 AniketSonje.
 anilpal678.
 anirudh7065.
+AnithaA09.
 Anjali655.
 ankayoe.
 Anubhav-developr.
@@ -828,6 +829,7 @@ RaunakScarlet.
 Srikanth1306.
 TVani5.
 adarshsingh0205.
+AnithaA09.
 annaydas.
 goranlundqvist.
 Hamritha0506.
@@ -838,7 +840,6 @@ riya-vermaa.
 SachinNarayanasamy.
 99Saurabh19.
 allenandreas.
-AnithaA09.
 anubhav-ritolia.
 apple9000.
 ashvin2005.
