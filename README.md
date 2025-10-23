@@ -265,10 +265,11 @@ sa173199.
 sandeepd26.
 sudhanshu-raj.
 trupti65.
+zakir8992.
 Dhruvyadav2000.
-mandeepkaran.
 
 **Other contributors:**
+mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
 LItuD.
 srishtinsaan.
@@ -308,7 +309,6 @@ Shashank0701-byte.
 Siddhartha03D.
 SinghCod3r.
 Sushmakothagattu.
-zakir8992.
 bhavishyavelaga.
 isaac-vicentini.
 kmohit2809.
@@ -944,6 +944,7 @@ thisnameissoclever.
 trupti65.
 ujjwalprem.
 zailugao.
+zakir8992.
 mockspeed.
 TheShashank13.
 cmanik.
@@ -1026,9 +1027,9 @@ jordanrogus.
 Juusoee.
 KartikeSingh.
 kaushalbharade.
-KUSHAL1912.
 
 **Other contributors:**
+KUSHAL1912.
 lakshyatyagi24.
 loudigi.
 Maheshkh9738.
@@ -1076,7 +1077,6 @@ ultralegendary.
 workpurposeusername.
 YadlaMani.
 zaidongy.
-zakir8992.
 ChilloutSenthil.
 jon-lind-sn.
 kalyan120694.
