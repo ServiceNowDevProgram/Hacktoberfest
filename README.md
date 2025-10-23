@@ -220,15 +220,15 @@ abdulsalamnafisat59-rgb.
 Harshuu870.
 Mahmud1087.
 Noah-Drew.
+S-w-a-p-n-i-l-22.
 spnegi.
-LakshmiChaitanyaReddy.
 
 **Top 50% contributors:**
+LakshmiChaitanyaReddy.
 AnandMahajan2799.
 bkb68.
 mitalizope.
 DhruvBhatheja.
-S-w-a-p-n-i-l-22.
 shreyawani98.
 dvn-lazywinner.
 kayoeservicenow.
@@ -688,6 +688,7 @@ mr-swann.
 QI-XING.
 abhix2112.
 Munnisona.
+S-w-a-p-n-i-l-22.
 prashantmrshine.
 RaviGaurav007.
 Sriharsha19.
@@ -702,7 +703,6 @@ Emmynem.
 GokulkumarV.
 naveensnow.
 pallipoina92.
-S-w-a-p-n-i-l-22.
 sheikhafsarzap.
 sravankadudhuri.
 jonahpiascik.
