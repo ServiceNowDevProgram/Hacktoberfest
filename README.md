@@ -278,6 +278,7 @@ Rajasree2004.
 404paige.
 AmrutaKR007.
 chelming.
+d-sharmagit.
 Danmax.
 dominik-kiss.
 Gorav-Sharma.
@@ -333,7 +334,6 @@ aykmrgit.
 Cheeny09.
 cjuleff.
 D-GAJ.
-d-sharmagit.
 Das-Suparna.
 dheeraj00733.
 Dnyanesh182.
@@ -971,6 +971,7 @@ ashaw7697.
 Beeram12.
 crooks-s.
 cschmidt82.
+d-sharmagit.
 dominik-kiss.
 Gorav-Sharma.
 Jaskaran-Techno.
@@ -1027,9 +1028,9 @@ JingAlanzhixin.
 jordanrogus.
 Juusoee.
 KartikeSingh.
-kaushalbharade.
 
 **Other contributors:**
+kaushalbharade.
 KUSHAL1912.
 lakshyatyagi24.
 loudigi.
@@ -1165,7 +1166,6 @@ cjuleff.
 cmurley.
 Code-mantle.
 D-GAJ.
-d-sharmagit.
 d7ianielsimonP.
 DaiTranIT.
 Das-Suparna.
