@@ -153,9 +153,9 @@ Paulsylo25.
 koratalas.
 Soumyadeep10.
 ivan-betev.
+ChaseMillers.
 bird-03.
 bharakm.
-ChaseMillers.
 
 **Top 10% contributors:**
 sivamuruganandam-coder.
@@ -637,6 +637,7 @@ urspvs.
 ankitshu.
 alkaChaudhary73.
 bkb68.
+ChaseMillers.
 spnegi.
 JonSandoval.
 Radhe-Manasa.
@@ -644,7 +645,6 @@ Charanjet.
 bharakm.
 stevezero.
 sychi77.
-ChaseMillers.
 ronaldkarim.
 sivamuruganandam-coder.
 
