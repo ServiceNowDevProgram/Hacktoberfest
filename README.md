@@ -154,12 +154,12 @@ Paulsylo25.
 Soumyadeep10.
 ivan-betev.
 bird-03.
+bharakm.
 sivamuruganandam-coder.
-NavyasreeBolleboyana.
 
 **Top 10% contributors:**
+NavyasreeBolleboyana.
 sumanthdosapati.
-bharakm.
 ChaseMillers.
 NowSharif.
 TechTrekwithAJ.
@@ -638,18 +638,18 @@ spnegi.
 JonSandoval.
 Radhe-Manasa.
 Charanjet.
+bharakm.
 stevezero.
 sychi77.
 ronaldkarim.
 sivamuruganandam-coder.
 azeezgaa.
-NavyasreeBolleboyana.
 
 **Top 10% contributors:**
+NavyasreeBolleboyana.
 brenduh.
 deepak-64742.
 NowSharif.
-bharakm.
 rafzk.
 anillande90.
 ChaseMillers.
