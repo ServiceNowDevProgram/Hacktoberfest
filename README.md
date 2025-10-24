@@ -234,7 +234,6 @@ mitalizope.
 shreyawani98.
 NayeemKaka.
 SachinNarayanasamy.
-satya2025sahoo.
 stefanintech.
 1shabby.
 ashvin2005.
@@ -250,6 +249,7 @@ Abbas-57.
 alkaChaudhary73.
 JorgeGRC.
 Priscilladevtech.
+satya2025sahoo.
 franks883.
 Kart-19.
 Rajat32-op.
@@ -849,7 +849,6 @@ KedarisettiSreeVamsi.
 NowRishi.
 riya-vermaa.
 SachinNarayanasamy.
-satya2025sahoo.
 99Saurabh19.
 allenandreas.
 anubhav-ritolia.
@@ -873,9 +872,9 @@ nag39g.
 pratap360.
 ShuGitHub2022.
 becksbyte.
+d-sharmagit.
 
 **Top 50% contributors:**
-d-sharmagit.
 homealone07.
 Iamsant.
 jeremyrubio27.
@@ -887,6 +886,7 @@ yourepicservices.
 ChecksumFailed.
 markroethof.
 Priscilladevtech.
+satya2025sahoo.
 SNProductOwner.
 TechnologistTim.
 anguspalmer.
