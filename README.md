@@ -204,6 +204,7 @@ hanna-g-sn.
 JohanDC-1999.
 kayoeservicenow.
 SumithThota.
+franks883.
 gowdah.
 S-w-a-p-n-i-l-22.
 SrijanPatwa.
@@ -222,7 +223,6 @@ himanshu7895.
 Jmyekn1123.
 abdulsalamnafisat59-rgb.
 ayorindeoluwayemi-coder.
-franks883.
 Harshuu870.
 
 **Top 50% contributors:**
@@ -751,6 +751,7 @@ mandeepkaran.
 SumithThota.
 zahidask.
 DynamiteC.
+franks883.
 shakeel-sheikh.
 vjtknn.
 Yokesh0811.
@@ -783,7 +784,6 @@ templetontsai.
 abdulsalamnafisat59-rgb.
 ayorindeoluwayemi-coder.
 b1naryst0rm.
-franks883.
 Mahmud1087.
 namrataghorpade.
 Noah-Drew.
