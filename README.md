@@ -286,6 +286,7 @@ Gorav-Sharma.
 pankajrj.
 poojithavalli22.
 QI-XING.
+satya2025sahoo.
 SwapnaAbburi.
 TejasSNOW.
 zstromsodt.
@@ -354,7 +355,6 @@ rishanmenezes.
 sahilsanap101.
 sanjaykumar3sn.
 sarthakjalan05.
-satya2025sahoo.
 SavedByTheVine.
 shivambitanwar-glitch.
 Shweyy123.
@@ -980,6 +980,7 @@ nvprav.
 pankajrj.
 poojithavalli22.
 RagaChitraMankala.
+satya2025sahoo.
 ShakthiSn.
 SwapnaAbburi.
 tejasathalye.
@@ -1027,9 +1028,9 @@ JBscriptsNow.
 JingAlanzhixin.
 jordanrogus.
 Juusoee.
-KartikeSingh.
 
 **Other contributors:**
+KartikeSingh.
 kaushalbharade.
 KUSHAL1912.
 lakshyatyagi24.
@@ -1241,7 +1242,6 @@ saidinesh123.
 sanjaykumar3sn.
 sankar-coder.
 sarthakjalan05.
-satya2025sahoo.
 shivambitanwar-glitch.
 Shriramjoshi86.
 Shweyy123.
