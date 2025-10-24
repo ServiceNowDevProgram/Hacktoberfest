@@ -244,6 +244,7 @@ Thrizvi.
 pratap360.
 ShuGitHub2022.
 becksbyte.
+d-sharmagit.
 Abbas-57.
 alkaChaudhary73.
 JorgeGRC.
@@ -252,7 +253,6 @@ franks883.
 Kart-19.
 Rajat32-op.
 ewatch.
-d-sharmagit.
 mskoddow.
 anjimuvva.
 bgrk005.
@@ -871,9 +871,10 @@ nag39g.
 pratap360.
 ShuGitHub2022.
 becksbyte.
-homealone07.
+d-sharmagit.
 
 **Top 50% contributors:**
+homealone07.
 Iamsant.
 jeremyrubio27.
 JorgeGRC.
@@ -901,7 +902,6 @@ ttoter.
 AlphaEagle.
 JWITSM.
 mo-dahir.
-d-sharmagit.
 dcord1x.
 djunaid.
 Haile-08.
