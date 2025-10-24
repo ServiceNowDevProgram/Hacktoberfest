@@ -232,6 +232,7 @@ AnandMahajan2799.
 bkb68.
 dvn-lazywinner.
 mitalizope.
+ayorindeoluwayemi-coder.
 d-sharmagit.
 shreyawani98.
 NayeemKaka.
@@ -239,7 +240,6 @@ SachinNarayanasamy.
 stefanintech.
 1shabby.
 ashvin2005.
-ayorindeoluwayemi-coder.
 at8807602.
 HackoDev1530.
 Thrizvi.
@@ -821,6 +821,7 @@ Southpaw09.
 thorn91.
 Thrizvi.
 vamsi0777.
+ayorindeoluwayemi-coder.
 HarshLMP870.
 Himanshu-skb-oo7.
 mmaraj1.
@@ -861,7 +862,6 @@ allenandreas.
 anubhav-ritolia.
 apple9000.
 ashvin2005.
-ayorindeoluwayemi-coder.
 briangodfreydev.
 GauthamBellamkonda.
 HackoDev1530.
