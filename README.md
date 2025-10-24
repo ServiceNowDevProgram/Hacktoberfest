@@ -282,6 +282,7 @@ Rajasree2004.
 404paige.
 Aish18-96.
 AmrutaKR007.
+Cheeny09.
 chelming.
 Danmax.
 dominik-kiss.
@@ -335,7 +336,6 @@ AnkithSharmaji.
 anushka157.
 Arcade-With-Us.
 aykmrgit.
-Cheeny09.
 cjuleff.
 D-GAJ.
 Das-Suparna.
@@ -980,6 +980,7 @@ Aish18-96.
 AmrutaKR007.
 ashaw7697.
 Beeram12.
+Cheeny09.
 crooks-s.
 cschmidt82.
 dominik-kiss.
@@ -1035,9 +1036,9 @@ jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
 jordanrogus.
-Juusoee.
 
 **Other contributors:**
+Juusoee.
 KartikeSingh.
 kaushalbharade.
 KUSHAL1912.
@@ -1170,7 +1171,6 @@ ayrotideysarkar.
 BadalKhojare.
 BeniRaja.
 Brian-Rowland.
-Cheeny09.
 cjuleff.
 cmurley.
 Code-mantle.
