@@ -218,18 +218,18 @@ DhruvBhatheja.
 GHSayak25.
 himanshu7895.
 Jmyekn1123.
+kayoeservicenow.
 abdulsalamnafisat59-rgb.
 Harshuu870.
 Mahmud1087.
 Noah-Drew.
-spnegi.
 
 **Top 50% contributors:**
+spnegi.
 LakshmiChaitanyaReddy.
 AnandMahajan2799.
 bkb68.
 dvn-lazywinner.
-kayoeservicenow.
 mitalizope.
 satya2025sahoo.
 shreyawani98.
@@ -769,6 +769,7 @@ DhruvBhatheja.
 GHSayak25.
 hoederath.
 Jmyekn1123.
+kayoeservicenow.
 mioyokohama.
 mjonssonme.
 nthumma.
@@ -809,7 +810,6 @@ domuserk.
 HarneetSital.
 jacebenson.
 katsiarynasoshyna.
-kayoeservicenow.
 mebeingmustaq.
 mitalizope.
 ReginaldFawcett.
