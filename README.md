@@ -221,10 +221,11 @@ GHSayak25.
 himanshu7895.
 Jmyekn1123.
 abdulsalamnafisat59-rgb.
+ayorindeoluwayemi-coder.
 Harshuu870.
-Mahmud1087.
 
 **Top 50% contributors:**
+Mahmud1087.
 Noah-Drew.
 spnegi.
 LakshmiChaitanyaReddy.
@@ -232,7 +233,6 @@ AnandMahajan2799.
 bkb68.
 dvn-lazywinner.
 mitalizope.
-ayorindeoluwayemi-coder.
 d-sharmagit.
 shreyawani98.
 NayeemKaka.
@@ -778,6 +778,7 @@ mjonssonme.
 nthumma.
 templetontsai.
 abdulsalamnafisat59-rgb.
+ayorindeoluwayemi-coder.
 b1naryst0rm.
 Mahmud1087.
 namrataghorpade.
@@ -821,7 +822,6 @@ Southpaw09.
 thorn91.
 Thrizvi.
 vamsi0777.
-ayorindeoluwayemi-coder.
 HarshLMP870.
 Himanshu-skb-oo7.
 mmaraj1.
