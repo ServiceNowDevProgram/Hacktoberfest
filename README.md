@@ -255,6 +255,7 @@ ewatch.
 mskoddow.
 anjimuvva.
 bgrk005.
+d-sharmagit.
 harishkSN.
 KrishChothani.
 sumanth1710.
@@ -266,9 +267,9 @@ sandeepd26.
 sudhanshu-raj.
 trupti65.
 zakir8992.
-Dhruvyadav2000.
 
 **Other contributors:**
+Dhruvyadav2000.
 mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
 LItuD.
@@ -278,7 +279,6 @@ Rajasree2004.
 404paige.
 AmrutaKR007.
 chelming.
-d-sharmagit.
 Danmax.
 dominik-kiss.
 Gorav-Sharma.
@@ -909,6 +909,7 @@ Adiana3308.
 akhoshnood.
 allam1234.
 anjimuvva.
+d-sharmagit.
 Decoder-Paul.
 DhanushNehru.
 harishkSN.
@@ -971,7 +972,6 @@ ashaw7697.
 Beeram12.
 crooks-s.
 cschmidt82.
-d-sharmagit.
 dominik-kiss.
 Gorav-Sharma.
 Jaskaran-Techno.
