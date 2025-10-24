@@ -253,6 +253,7 @@ Priscilladevtech.
 franks883.
 Kart-19.
 Rajat32-op.
+zakir8992.
 ewatch.
 mskoddow.
 AAladeen.
@@ -266,12 +267,11 @@ surajnikam111.
 andrey-verevkin.
 durgeshservicenow-hub.
 sa173199.
-sandeepd26.
 
 **Other contributors:**
+sandeepd26.
 sudhanshu-raj.
 trupti65.
-zakir8992.
 Dhruvyadav2000.
 mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
@@ -904,6 +904,7 @@ patan116.
 Rajat32-op.
 revantKulkarni.
 trade12.
+zakir8992.
 ttoter.
 AlphaEagle.
 JWITSM.
@@ -954,7 +955,6 @@ thisnameissoclever.
 trupti65.
 ujjwalprem.
 zailugao.
-zakir8992.
 mockspeed.
 TheShashank13.
 cmanik.
