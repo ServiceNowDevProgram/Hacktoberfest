@@ -236,6 +236,7 @@ dvn-lazywinner.
 mitalizope.
 d-sharmagit.
 shreyawani98.
+alkaChaudhary73.
 NayeemKaka.
 SachinNarayanasamy.
 stefanintech.
@@ -248,7 +249,6 @@ pratap360.
 ShuGitHub2022.
 becksbyte.
 Abbas-57.
-alkaChaudhary73.
 JorgeGRC.
 Priscilladevtech.
 QI-XING.
@@ -630,13 +630,13 @@ DanielMadsenDK.
 SrijanPatwa.
 smartcarleen.
 himanshu7895.
+alkaChaudhary73.
 at8807602.
 debendu-das.
 sndevs-slacker-issue-reporter[bot].
 404paige.
 urspvs.
 ankitshu.
-alkaChaudhary73.
 bkb68.
 ChaseMillers.
 spnegi.
