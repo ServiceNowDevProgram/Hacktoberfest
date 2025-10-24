@@ -232,6 +232,7 @@ AnandMahajan2799.
 bkb68.
 dvn-lazywinner.
 mitalizope.
+d-sharmagit.
 shreyawani98.
 NayeemKaka.
 SachinNarayanasamy.
@@ -245,7 +246,6 @@ Thrizvi.
 pratap360.
 ShuGitHub2022.
 becksbyte.
-d-sharmagit.
 Abbas-57.
 alkaChaudhary73.
 JorgeGRC.
@@ -839,6 +839,7 @@ salma-93.
 sauravsumankumar.
 yuvraj1107thapa.
 ashuprince121.
+d-sharmagit.
 ewatch.
 hrichiksite.
 Iuliak.
@@ -878,7 +879,6 @@ nag39g.
 pratap360.
 ShuGitHub2022.
 becksbyte.
-d-sharmagit.
 
 **Top 50% contributors:**
 homealone07.
