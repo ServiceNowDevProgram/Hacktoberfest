@@ -268,9 +268,9 @@ durgeshservicenow-hub.
 sa173199.
 sandeepd26.
 sudhanshu-raj.
+trupti65.
 
 **Other contributors:**
-trupti65.
 zakir8992.
 Dhruvyadav2000.
 mandeepkaran.
@@ -532,6 +532,7 @@ snehapotadar1-bot.
 SoftSage07.
 Southpaw09.
 stallcounter.
+stescaster.
 stmapman7.
 SUMEDHFORTES.
 Sumit6307.
@@ -874,9 +875,9 @@ pratap360.
 ShuGitHub2022.
 becksbyte.
 d-sharmagit.
+homealone07.
 
 **Top 50% contributors:**
-homealone07.
 Iamsant.
 jeremyrubio27.
 JorgeGRC.
@@ -1030,9 +1031,9 @@ JBscriptsNow.
 JingAlanzhixin.
 jordanrogus.
 Juusoee.
+KartikeSingh.
 
 **Other contributors:**
-KartikeSingh.
 kaushalbharade.
 KUSHAL1912.
 lakshyatyagi24.
@@ -1983,6 +1984,7 @@ srramanujam.
 Srutip04.
 stallcounter.
 StephenKanikaraj.
+stescaster.
 Stevay3.
 SteveMunsell.
 steveuncg.
