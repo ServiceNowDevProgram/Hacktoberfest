@@ -258,6 +258,7 @@ anjimuvva.
 bgrk005.
 harishkSN.
 KrishChothani.
+satya2025sahoo.
 srikanthroyal932-cmyk.
 sumanth1710.
 surajnikam111.
@@ -266,9 +267,9 @@ durgeshservicenow-hub.
 sa173199.
 sandeepd26.
 sudhanshu-raj.
-trupti65.
 
 **Other contributors:**
+trupti65.
 zakir8992.
 Dhruvyadav2000.
 mandeepkaran.
@@ -287,7 +288,6 @@ Gorav-Sharma.
 pankajrj.
 poojithavalli22.
 QI-XING.
-satya2025sahoo.
 SwapnaAbburi.
 TejasSNOW.
 zstromsodt.
@@ -922,6 +922,7 @@ osc99.
 pandeysumit-now.
 patrickpaterlini.
 SaiSankar1309.
+satya2025sahoo.
 soham-shee.
 srikanthroyal932-cmyk.
 surajnikam111.
@@ -981,7 +982,6 @@ nvprav.
 pankajrj.
 poojithavalli22.
 RagaChitraMankala.
-satya2025sahoo.
 ShakthiSn.
 SwapnaAbburi.
 tejasathalye.
