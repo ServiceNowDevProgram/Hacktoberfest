@@ -274,6 +274,7 @@ sudhanshu-raj.
 trupti65.
 Dhruvyadav2000.
 mandeepkaran.
+prashantmrshine.
 sndevs-slacker-issue-reporter[bot].
 LItuD.
 srishtinsaan.
@@ -318,7 +319,6 @@ bhavishyavelaga.
 isaac-vicentini.
 kmohit2809.
 mitkarisunil.
-prashantmrshine.
 akaanakbaik.
 akshaydnetake.
 Anudhyan.
@@ -672,6 +672,7 @@ csharpie.
 Danmax.
 mskoddow.
 PranavBhagat18.
+prashantmrshine.
 Dhruvyadav2000.
 chaitaliKundu.
 Irston.
@@ -687,7 +688,6 @@ riya-misra-1.
 S-w-a-p-n-i-l-22.
 hentonjd.
 Indra-kolge.
-prashantmrshine.
 vijaykumar7177.
 23Thom.
 aatrey882.
