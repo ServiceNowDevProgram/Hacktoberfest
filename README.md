@@ -219,19 +219,19 @@ GHSayak25.
 himanshu7895.
 Jmyekn1123.
 kayoeservicenow.
+satya2025sahoo.
 abdulsalamnafisat59-rgb.
 Harshuu870.
 Mahmud1087.
-Noah-Drew.
 
 **Top 50% contributors:**
+Noah-Drew.
 spnegi.
 LakshmiChaitanyaReddy.
 AnandMahajan2799.
 bkb68.
 dvn-lazywinner.
 mitalizope.
-satya2025sahoo.
 shreyawani98.
 NayeemKaka.
 SachinNarayanasamy.
@@ -774,6 +774,7 @@ kayoeservicenow.
 mioyokohama.
 mjonssonme.
 nthumma.
+satya2025sahoo.
 templetontsai.
 abdulsalamnafisat59-rgb.
 b1naryst0rm.
@@ -815,7 +816,6 @@ mebeingmustaq.
 mitalizope.
 ReginaldFawcett.
 Saileshlanka.
-satya2025sahoo.
 Southpaw09.
 thorn91.
 Thrizvi.
