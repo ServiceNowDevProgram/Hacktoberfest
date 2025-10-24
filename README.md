@@ -222,9 +222,9 @@ Harshuu870.
 Mahmud1087.
 Noah-Drew.
 spnegi.
+LakshmiChaitanyaReddy.
 
 **Top 50% contributors:**
-LakshmiChaitanyaReddy.
 AnandMahajan2799.
 bkb68.
 DhruvBhatheja.
@@ -267,9 +267,9 @@ durgeshservicenow-hub.
 sa173199.
 sandeepd26.
 sudhanshu-raj.
+trupti65.
 
 **Other contributors:**
-trupti65.
 zakir8992.
 Dhruvyadav2000.
 mandeepkaran.
@@ -439,6 +439,7 @@ justHarshraj.
 KanavCode.
 kanishkmangal.
 khyatithadani.
+kishoretk92.
 knightmarshal.
 knshkp.
 Kolimator.
@@ -716,9 +717,9 @@ danr2c2.
 Litwilly.
 MRSinghRajat.
 oasif.
+stefanintech.
 
 **Top 25% contributors:**
-stefanintech.
 DavidMarcial.
 soerenmaucher.
 Adil404.
@@ -1648,6 +1649,7 @@ Khushi799.
 khyatithadani.
 kieo-on.
 KishoreGitRepo.
+kishoretk92.
 kit-t.
 KiwiPelago.
 KkRainyre.
