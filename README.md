@@ -277,7 +277,6 @@ surajnikam111.
 andrey-verevkin.
 durgeshservicenow-hub.
 sa173199.
-samisthapur.
 sandeepd26.
 sudhanshu-raj.
 trupti65.
@@ -315,6 +314,7 @@ nehatalha725.
 prakritimallick1308.
 PranavTamada.
 Pratyush2240.
+samisthapur.
 selvarun-umass.
 Shashank0701-byte.
 Siddhartha03D.
@@ -964,7 +964,6 @@ prithvibalakka.
 Ratheshan03.
 sa173199.
 Sallu77.
-samisthapur.
 sudhanshu-raj.
 tanu-profile.
 Thanai14.
@@ -1047,9 +1046,9 @@ hmadhsan.
 iamvpbhaskar.
 igrzhukovich.
 j4rodm.
+jamesfoot.
 
 **Other contributors:**
-jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
 jordanrogus.
@@ -1085,6 +1084,7 @@ SagarVijaykumar.
 saikumar-e.
 Saiprethaa.
 saitarun2499.
+samisthapur.
 samwinchet.
 sanchit-varshney.
 sanju009.
