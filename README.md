@@ -243,6 +243,7 @@ d-sharmagit.
 alkaChaudhary73.
 NayeemKaka.
 SachinNarayanasamy.
+srikanthroyal932-cmyk.
 stefanintech.
 1shabby.
 ashvin2005.
@@ -256,7 +257,6 @@ Abbas-57.
 JorgeGRC.
 Priscilladevtech.
 QI-XING.
-srikanthroyal932-cmyk.
 Kart-19.
 Rajat32-op.
 Dhruvyadav2000.
@@ -867,6 +867,7 @@ KedarisettiSreeVamsi.
 NowRishi.
 riya-vermaa.
 SachinNarayanasamy.
+srikanthroyal932-cmyk.
 99Saurabh19.
 allenandreas.
 anubhav-ritolia.
@@ -884,9 +885,9 @@ Tushnik-cyber.
 zakir8992.
 fn20200323.
 Pradeep567iaf.
-pratyushasndev.
 
 **Top 50% contributors:**
+pratyushasndev.
 nag39g.
 pratap360.
 ShuGitHub2022.
@@ -903,7 +904,6 @@ ChecksumFailed.
 markroethof.
 Priscilladevtech.
 SNProductOwner.
-srikanthroyal932-cmyk.
 TechnologistTim.
 anguspalmer.
 Badal2k23.
