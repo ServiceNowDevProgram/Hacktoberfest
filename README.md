@@ -179,9 +179,9 @@ JonSandoval.
 RaviGaurav007.
 Sriharsha19.
 VaishnaviLathkar98.
+Vishnu-rvk.
 
 **Top 25% contributors:**
-Vishnu-rvk.
 anurampalli.
 Emmynem.
 juhikumarimodi6.
@@ -409,6 +409,7 @@ Aryan-Bhendarkar.
 Ash0807.
 Ayush-216.
 Azazelxo0.
+BEASTSHRIRAM.
 Bharathkogilamane274.
 bhavani-konda.
 brunoasantos.
@@ -1404,6 +1405,7 @@ Balamurugan-RR.
 banjofrailer.
 Basha8.
 bcprolive.
+BEASTSHRIRAM.
 beedme.
 belloibrahv.
 ben-vargas.
