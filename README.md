@@ -184,6 +184,7 @@ Vishnu-rvk.
 **Top 25% contributors:**
 anurampalli.
 Emmynem.
+Its-Nmk.
 juhikumarimodi6.
 maheshkhatal27.
 naveensnow.
@@ -196,7 +197,6 @@ bhavyaa30.
 Jaspalsinghchot.
 Shashank102002.
 Awesomefp.
-Its-Nmk.
 lauri457.
 afislonge.
 Aish18-96.
@@ -720,6 +720,7 @@ anurampalli.
 devinvalencia.
 Emmynem.
 GokulkumarV.
+Its-Nmk.
 naveensnow.
 pallipoina92.
 sheikhafsarzap.
@@ -733,9 +734,9 @@ danr2c2.
 Litwilly.
 MRSinghRajat.
 oasif.
-stefanintech.
 
 **Top 25% contributors:**
+stefanintech.
 DavidMarcial.
 soerenmaucher.
 Adil404.
@@ -745,7 +746,6 @@ shraddhakadam301298.
 shridk.
 stwinkle.
 Awesomefp.
-Its-Nmk.
 lauri457.
 phr-nk.
 afislonge.
