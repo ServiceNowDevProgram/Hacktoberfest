@@ -152,9 +152,9 @@ wiz0floyd.
 Paulsylo25.
 koratalas.
 NowSharif.
+ChaseMillers.
 Soumyadeep10.
 ivan-betev.
-ChaseMillers.
 bird-03.
 
 **Top 10% contributors:**
@@ -634,13 +634,13 @@ smartcarleen.
 himanshu7895.
 alkaChaudhary73.
 at8807602.
+ChaseMillers.
 debendu-das.
 sndevs-slacker-issue-reporter[bot].
 404paige.
 urspvs.
 ankitshu.
 bkb68.
-ChaseMillers.
 spnegi.
 JonSandoval.
 Radhe-Manasa.
