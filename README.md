@@ -245,7 +245,6 @@ alkaChaudhary73.
 NayeemKaka.
 Priscilladevtech.
 SachinNarayanasamy.
-srikanthroyal932-cmyk.
 stefanintech.
 1shabby.
 ashvin2005.
@@ -259,6 +258,7 @@ Rajasree2004.
 Abbas-57.
 JorgeGRC.
 QI-XING.
+srikanthroyal932-cmyk.
 Kart-19.
 Rajat32-op.
 ewatch.
@@ -874,7 +874,6 @@ NowRishi.
 Priscilladevtech.
 riya-vermaa.
 SachinNarayanasamy.
-srikanthroyal932-cmyk.
 99Saurabh19.
 allenandreas.
 anubhav-ritolia.
@@ -890,9 +889,9 @@ rene-el.
 rmedved84.
 src107.
 Tushnik-cyber.
+zakir8992.
 
 **Top 50% contributors:**
-zakir8992.
 fn20200323.
 Pradeep567iaf.
 pratyushasndev.
@@ -911,6 +910,7 @@ yourepicservices.
 ChecksumFailed.
 markroethof.
 SNProductOwner.
+srikanthroyal932-cmyk.
 TechnologistTim.
 anguspalmer.
 Badal2k23.
