@@ -249,7 +249,6 @@ SachinNarayanasamy.
 stefanintech.
 1shabby.
 ashvin2005.
-BEASTSHRIRAM.
 zakir8992.
 at8807602.
 Thrizvi.
@@ -259,6 +258,7 @@ Abbas-57.
 JorgeGRC.
 QI-XING.
 srikanthroyal932-cmyk.
+BEASTSHRIRAM.
 Kart-19.
 Rajat32-op.
 ewatch.
@@ -881,7 +881,6 @@ allenandreas.
 anubhav-ritolia.
 apple9000.
 ashvin2005.
-BEASTSHRIRAM.
 briangodfreydev.
 GauthamBellamkonda.
 Khasim-63993.
@@ -891,9 +890,9 @@ rene-el.
 rmedved84.
 src107.
 Tushnik-cyber.
+zakir8992.
 
 **Top 50% contributors:**
-zakir8992.
 fn20200323.
 Pradeep567iaf.
 pratyushasndev.
@@ -915,6 +914,7 @@ srikanthroyal932-cmyk.
 TechnologistTim.
 anguspalmer.
 Badal2k23.
+BEASTSHRIRAM.
 bhavyajain511.
 Kart-19.
 naveenraw25.
