@@ -298,6 +298,7 @@ pankajrj.
 poojithavalli22.
 SwapnaAbburi.
 TejasSNOW.
+TinkerTechie.
 zstromsodt.
 Abhishek2634.
 AdityaBala2026.
@@ -371,7 +372,6 @@ silky-modi22.
 slytechiefrommagentashore.
 ssejal1508.
 surajkewat72.
-TinkerTechie.
 ToosinDada.
 TRIGGEREDcoder.
 uvenkatateja.
@@ -1010,6 +1010,7 @@ SwapnaAbburi.
 tejasathalye.
 TejasSNOW.
 thameemskings.
+TinkerTechie.
 ToosinDada.
 umangkedia92.
 vk-cloud.
@@ -1046,9 +1047,9 @@ hmadhsan.
 iamvpbhaskar.
 igrzhukovich.
 j4rodm.
-jamesfoot.
 
 **Other contributors:**
+jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
 jordanrogus.
@@ -1287,7 +1288,6 @@ TanushreeBorase.
 techLrd.
 TheSethRose.
 thoffman210.
-TinkerTechie.
 TonySerN.
 TracyCurry96.
 udaysiddapur.
