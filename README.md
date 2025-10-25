@@ -225,9 +225,9 @@ GHSayak25.
 himanshu7895.
 Jmyekn1123.
 abdulsalamnafisat59-rgb.
+ayorindeoluwayemi-coder.
 
 **Top 50% contributors:**
-ayorindeoluwayemi-coder.
 Harshuu870.
 Mahmud1087.
 Noah-Drew.
@@ -271,9 +271,9 @@ harishkSN.
 KrishChothani.
 sumanth1710.
 surajnikam111.
+andrey-verevkin.
 
 **Other contributors:**
-andrey-verevkin.
 durgeshservicenow-hub.
 sa173199.
 samisthapur.
@@ -384,6 +384,7 @@ abhijeetpatil1818.
 ABHINAVGUPTA02.
 Aditya-1208.
 Adrija-verse.
+Aeshp.
 afk-Parth.
 afrith03.
 Akashdevin09.
@@ -1321,6 +1322,7 @@ acdigitalclarity.
 adarshsingh7470.
 Aditya-1208.
 Adrija-verse.
+Aeshp.
 afejzic.
 afk-Parth.
 afrith03.
