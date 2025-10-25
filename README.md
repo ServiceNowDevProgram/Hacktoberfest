@@ -520,6 +520,7 @@ sahilshingate01.
 sairajgad06.
 samikshak-kaulkar-hacktoberfest.
 samikshak-web.
+samisthapur.
 samrat21saha.
 sandeep-rajput-infobeans.
 sanjii02.
@@ -651,9 +652,9 @@ bharakm.
 stevezero.
 sychi77.
 ronaldkarim.
+sivamuruganandam-coder.
 
 **Top 10% contributors:**
-sivamuruganandam-coder.
 azeezgaa.
 NavyasreeBolleboyana.
 brenduh.
@@ -730,9 +731,9 @@ danr2c2.
 Litwilly.
 MRSinghRajat.
 oasif.
+stefanintech.
 
 **Top 25% contributors:**
-stefanintech.
 DavidMarcial.
 soerenmaucher.
 Adil404.
@@ -1043,10 +1044,10 @@ iamvpbhaskar.
 igrzhukovich.
 j4rodm.
 jamesfoot.
-JBscriptsNow.
-JingAlanzhixin.
 
 **Other contributors:**
+JBscriptsNow.
+JingAlanzhixin.
 jordanrogus.
 Juusoee.
 KartikeSingh.
@@ -1930,6 +1931,7 @@ sam16vis.
 samgoodecc.
 samikshak-kaulkar-hacktoberfest.
 samikshak-web.
+samisthapur.
 samrat21saha.
 samusahatpure.
 sanathan-git.
