@@ -243,6 +243,7 @@ SachinNarayanasamy.
 stefanintech.
 1shabby.
 ashvin2005.
+zakir8992.
 at8807602.
 Thrizvi.
 pratap360.
@@ -255,7 +256,6 @@ Priscilladevtech.
 QI-XING.
 Kart-19.
 Rajat32-op.
-zakir8992.
 Dhruvyadav2000.
 ewatch.
 mskoddow.
@@ -878,15 +878,16 @@ rene-el.
 rmedved84.
 src107.
 Tushnik-cyber.
+zakir8992.
 fn20200323.
 Pradeep567iaf.
 pratyushasndev.
 nag39g.
 pratap360.
 ShuGitHub2022.
-becksbyte.
 
 **Top 50% contributors:**
+becksbyte.
 homealone07.
 Iamsant.
 jeremyrubio27.
@@ -911,7 +912,6 @@ patan116.
 Rajat32-op.
 revantKulkarni.
 trade12.
-zakir8992.
 ttoter.
 AlphaEagle.
 JWITSM.
