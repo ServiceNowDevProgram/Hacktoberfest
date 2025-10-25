@@ -231,6 +231,7 @@ Harshuu870.
 Mahmud1087.
 Noah-Drew.
 spnegi.
+pratap360.
 d-sharmagit.
 LakshmiChaitanyaReddy.
 AnandMahajan2799.
@@ -240,7 +241,6 @@ mitalizope.
 RaghavBCarvana.
 HackoDev1530.
 shreyawani98.
-pratap360.
 alkaChaudhary73.
 NayeemKaka.
 SachinNarayanasamy.
@@ -804,6 +804,7 @@ dadhich-ashish.
 girishnagaraj09.
 Jayden-Chiu.
 OrgovanGeza.
+pratap360.
 Abbas-57.
 arhaan2019.
 d-sharmagit.
@@ -846,7 +847,6 @@ vermaamit1664.
 watrick.
 almajam.
 danielliaus.
-pratap360.
 Ramesh-hub007.
 salma-93.
 sauravsumankumar.
