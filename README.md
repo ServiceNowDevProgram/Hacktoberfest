@@ -238,6 +238,7 @@ HackoDev1530.
 d-sharmagit.
 shreyawani98.
 alkaChaudhary73.
+Cheeny26.
 NayeemKaka.
 SachinNarayanasamy.
 stefanintech.
@@ -250,7 +251,6 @@ pratap360.
 ShuGitHub2022.
 becksbyte.
 Abbas-57.
-Cheeny26.
 JorgeGRC.
 Priscilladevtech.
 QI-XING.
@@ -857,6 +857,7 @@ Srikanth1306.
 TVani5.
 adarshsingh0205.
 annaydas.
+Cheeny26.
 goranlundqvist.
 Hamritha0506.
 harisnad.
@@ -884,9 +885,9 @@ Pradeep567iaf.
 pratyushasndev.
 nag39g.
 pratap360.
-ShuGitHub2022.
 
 **Top 50% contributors:**
+ShuGitHub2022.
 becksbyte.
 homealone07.
 Iamsant.
@@ -897,7 +898,6 @@ Sagar-agarwal.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
-Cheeny26.
 markroethof.
 Priscilladevtech.
 SNProductOwner.
