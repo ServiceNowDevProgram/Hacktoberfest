@@ -213,6 +213,7 @@ divyajetti9.
 hakinadey.
 iamshankha.
 ahmadibitoye.
+Aish18-96.
 animeshdasgit.
 Charanjet.
 DanielMadsenDK.
@@ -223,14 +224,13 @@ himanshu7895.
 Jmyekn1123.
 abdulsalamnafisat59-rgb.
 ayorindeoluwayemi-coder.
-Harshuu870.
 
 **Top 50% contributors:**
+Harshuu870.
 Mahmud1087.
 Noah-Drew.
 spnegi.
 LakshmiChaitanyaReddy.
-Aish18-96.
 AnandMahajan2799.
 bkb68.
 Cheeny26.
@@ -775,6 +775,7 @@ priyasnexpert.
 thejasr110.
 unbirthdays.
 ahmadibitoye.
+Aish18-96.
 DhruvBhatheja.
 GHSayak25.
 hoederath.
@@ -812,7 +813,6 @@ seviceN.
 sumanth1710.
 tejudhoran95.
 vasantharaja-natarajan.
-Aish18-96.
 amoore-coder.
 AnandMahajan2799.
 AnithaA09.
