@@ -209,6 +209,7 @@ franks883.
 gowdah.
 S-w-a-p-n-i-l-22.
 SrijanPatwa.
+pratap360.
 chaitaliKundu.
 divyajetti9.
 hakinadey.
@@ -223,15 +224,14 @@ DhruvBhatheja.
 GHSayak25.
 himanshu7895.
 Jmyekn1123.
-abdulsalamnafisat59-rgb.
 
 **Top 50% contributors:**
+abdulsalamnafisat59-rgb.
 ayorindeoluwayemi-coder.
 Harshuu870.
 Mahmud1087.
 Noah-Drew.
 spnegi.
-pratap360.
 d-sharmagit.
 LakshmiChaitanyaReddy.
 AnandMahajan2799.
@@ -761,6 +761,7 @@ Yokesh0811.
 mady22070.
 MarcMouries.
 sn-ajb.
+pratap360.
 techYESlogyXplorer.
 vijaytalupula.
 AdityaBala2026.
@@ -804,7 +805,6 @@ dadhich-ashish.
 girishnagaraj09.
 Jayden-Chiu.
 OrgovanGeza.
-pratap360.
 Abbas-57.
 arhaan2019.
 d-sharmagit.
