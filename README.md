@@ -238,6 +238,7 @@ dvn-lazywinner.
 mitalizope.
 RaghavBCarvana.
 HackoDev1530.
+pratap360.
 shreyawani98.
 d-sharmagit.
 alkaChaudhary73.
@@ -250,7 +251,6 @@ ashvin2005.
 zakir8992.
 at8807602.
 Thrizvi.
-pratap360.
 ShuGitHub2022.
 becksbyte.
 Abbas-57.
@@ -845,6 +845,7 @@ vermaamit1664.
 watrick.
 almajam.
 danielliaus.
+pratap360.
 Ramesh-hub007.
 salma-93.
 sauravsumankumar.
@@ -884,12 +885,11 @@ src107.
 Tushnik-cyber.
 zakir8992.
 fn20200323.
-Pradeep567iaf.
 
 **Top 50% contributors:**
+Pradeep567iaf.
 pratyushasndev.
 nag39g.
-pratap360.
 ShuGitHub2022.
 becksbyte.
 homealone07.
