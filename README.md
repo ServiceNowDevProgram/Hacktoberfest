@@ -556,6 +556,7 @@ Taranpreet1407.
 TarunTheDev.
 tejaswahinduja2.
 TheNikhilRaj.
+TinkerTechie.
 tripathiaman0709.
 tylerhermanabm.
 udaysiddapur.
@@ -1045,9 +1046,9 @@ hmadhsan.
 iamvpbhaskar.
 igrzhukovich.
 j4rodm.
+jamesfoot.
 
 **Other contributors:**
-jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
 jordanrogus.
@@ -2052,6 +2053,7 @@ theotherdebs.
 thesnowguy.
 thomas-seiberl.
 Timi-2023.
+TinkerTechie.
 tohlox.
 tosuch.
 toxic-8437.
