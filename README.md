@@ -249,6 +249,7 @@ stefanintech.
 1shabby.
 ashvin2005.
 BEASTSHRIRAM.
+samisthapur.
 zakir8992.
 at8807602.
 Thrizvi.
@@ -260,7 +261,6 @@ QI-XING.
 srikanthroyal932-cmyk.
 Kart-19.
 Rajat32-op.
-samisthapur.
 ewatch.
 mskoddow.
 Rajasree2004.
@@ -888,11 +888,12 @@ odinsride.
 piyusalunke123.
 rene-el.
 rmedved84.
+samisthapur.
 src107.
 Tushnik-cyber.
-zakir8992.
 
 **Top 50% contributors:**
+zakir8992.
 fn20200323.
 Pradeep567iaf.
 pratyushasndev.
@@ -921,7 +922,6 @@ NBaker137.
 patan116.
 Rajat32-op.
 revantKulkarni.
-samisthapur.
 trade12.
 ttoter.
 AlphaEagle.
