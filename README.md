@@ -172,16 +172,16 @@ Indra-kolge.
 vijaykumar7177.
 Mexiprince.
 abhix2112.
+chaitanyalal18.
 ChandBasha-code.
 jiteshmalik.
 JonSandoval.
 RaviGaurav007.
 Sriharsha19.
 VaishnaviLathkar98.
-Vishnu-rvk.
 
 **Top 25% contributors:**
-chaitanyalal18.
+Vishnu-rvk.
 anurampalli.
 Emmynem.
 juhikumarimodi6.
@@ -702,12 +702,12 @@ ChandBasha-code.
 mohitchauhan-dev.
 mr-swann.
 abhix2112.
+chaitanyalal18.
 dvn-lazywinner.
 Munnisona.
 RaviGaurav007.
 Sriharsha19.
 manrick.
-chaitanyalal18.
 hafsa-asif.
 juhikumarimodi6.
 ovarn.
