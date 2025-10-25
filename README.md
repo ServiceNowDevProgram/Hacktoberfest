@@ -255,6 +255,7 @@ QI-XING.
 Kart-19.
 Rajat32-op.
 zakir8992.
+Dhruvyadav2000.
 ewatch.
 mskoddow.
 sanjaykumar3sn.
@@ -269,13 +270,12 @@ sumanth1710.
 surajnikam111.
 andrey-verevkin.
 durgeshservicenow-hub.
-sa173199.
 
 **Other contributors:**
+sa173199.
 sandeepd26.
 sudhanshu-raj.
 trupti65.
-Dhruvyadav2000.
 mandeepkaran.
 prashantmrshine.
 sndevs-slacker-issue-reporter[bot].
@@ -663,6 +663,7 @@ Abhishekchowdarapu.
 alikuttyka.
 animeshdasgit.
 aswamy93.
+Dhruvyadav2000.
 YTejaswini18.
 BadalHub.
 MrChrisE.
@@ -679,7 +680,6 @@ Danmax.
 mskoddow.
 PranavBhagat18.
 prashantmrshine.
-Dhruvyadav2000.
 chaitaliKundu.
 Irston.
 bgrk005.
