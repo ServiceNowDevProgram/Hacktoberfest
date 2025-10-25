@@ -154,11 +154,11 @@ koratalas.
 Soumyadeep10.
 ivan-betev.
 ChaseMillers.
+NowSharif.
 bird-03.
-bharakm.
 
 **Top 10% contributors:**
-NowSharif.
+bharakm.
 sivamuruganandam-coder.
 NavyasreeBolleboyana.
 sumanthdosapati.
@@ -638,13 +638,13 @@ sndevs-slacker-issue-reporter[bot].
 404paige.
 urspvs.
 ankitshu.
+NowSharif.
 bkb68.
 ChaseMillers.
 spnegi.
 JonSandoval.
 Radhe-Manasa.
 Charanjet.
-NowSharif.
 bharakm.
 stevezero.
 sychi77.
