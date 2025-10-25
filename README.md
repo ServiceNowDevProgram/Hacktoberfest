@@ -313,6 +313,7 @@ nehatalha725.
 prakritimallick1308.
 PranavTamada.
 Pratyush2240.
+samisthapur.
 selvarun-umass.
 Shashank0701-byte.
 Siddhartha03D.
@@ -521,7 +522,6 @@ sahilshingate01.
 sairajgad06.
 samikshak-kaulkar-hacktoberfest.
 samikshak-web.
-samisthapur.
 samrat21saha.
 sandeep-rajput-infobeans.
 sanjii02.
@@ -1082,6 +1082,7 @@ SagarVijaykumar.
 saikumar-e.
 Saiprethaa.
 saitarun2499.
+samisthapur.
 samwinchet.
 sanchit-varshney.
 sanju009.
@@ -1933,7 +1934,6 @@ sam16vis.
 samgoodecc.
 samikshak-kaulkar-hacktoberfest.
 samikshak-web.
-samisthapur.
 samrat21saha.
 samusahatpure.
 sanathan-git.
