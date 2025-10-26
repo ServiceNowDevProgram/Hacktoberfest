@@ -308,6 +308,7 @@ zstromsodt.
 Abhishek2634.
 AdityaBala2026.
 AnithaA09.
+arigalamani.
 AyanAhmedKhan.
 CODEBRAKERBOYY.
 daramcdonald96-ops.
@@ -414,7 +415,6 @@ anujos.
 Anurag-Kar-240101094.
 Anusrita-Karmakar.
 apatti.
-arigalamani.
 arjav007.
 arpithamenden-del.
 Aruncr123.
@@ -1039,6 +1039,7 @@ akipatil16.
 ananthsridhar.
 ankitshaw625.
 anurags10.
+arigalamani.
 Arpan-InGen.
 AryanBarsaiyan.
 ashleysnyder.
@@ -1063,9 +1064,9 @@ HarshMN2345.
 hmadhsan.
 iamvpbhaskar.
 igrzhukovich.
-j4rodm.
 
 **Other contributors:**
+j4rodm.
 jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
@@ -1397,7 +1398,6 @@ apatti.
 apbuhssc.
 aravindbarla22.
 Archita-2023.
-arigalamani.
 Arinakathayat.
 Arit-Su.
 AritraSadhu.
