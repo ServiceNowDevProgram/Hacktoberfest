@@ -253,6 +253,7 @@ stefanintech.
 sumanth1710.
 1shabby.
 ashvin2005.
+salma-93.
 at8807602.
 Thrizvi.
 ShuGitHub2022.
@@ -264,7 +265,6 @@ QI-XING.
 srikanthroyal932-cmyk.
 Kart-19.
 Rajat32-op.
-salma-93.
 mskoddow.
 ewatch.
 tab22.
@@ -725,6 +725,7 @@ Munnisona.
 RaviGaurav007.
 Sriharsha19.
 manrick.
+salma-93.
 hafsa-asif.
 juhikumarimodi6.
 ovarn.
@@ -746,12 +747,11 @@ danr2c2.
 Litwilly.
 MRSinghRajat.
 oasif.
-stefanintech.
 
 **Top 25% contributors:**
+stefanintech.
 DavidMarcial.
 NayeemKaka.
-salma-93.
 soerenmaucher.
 Adil404.
 avssrikanth.
