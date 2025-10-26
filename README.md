@@ -211,6 +211,7 @@ S-w-a-p-n-i-l-22.
 SrijanPatwa.
 pratap360.
 chaitaliKundu.
+d-sharmagit.
 divyajetti9.
 hakinadey.
 iamshankha.
@@ -225,14 +226,13 @@ GHSayak25.
 himanshu7895.
 Jmyekn1123.
 abdulsalamnafisat59-rgb.
-ayorindeoluwayemi-coder.
 
 **Top 50% contributors:**
+ayorindeoluwayemi-coder.
 Harshuu870.
 Mahmud1087.
 Noah-Drew.
 spnegi.
-d-sharmagit.
 LakshmiChaitanyaReddy.
 AnandMahajan2799.
 bkb68.
@@ -775,6 +775,7 @@ vijaytalupula.
 AdityaBala2026.
 alyaanbasha.
 ariyadmir.
+d-sharmagit.
 divyajetti9.
 gregorwmail.
 hakinadey.
@@ -814,7 +815,6 @@ Jayden-Chiu.
 OrgovanGeza.
 Abbas-57.
 arhaan2019.
-d-sharmagit.
 designitsecure.
 LakshmiChaitanyaReddy.
 llipovsky.
