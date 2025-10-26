@@ -289,6 +289,7 @@ sndevs-slacker-issue-reporter[bot].
 LItuD.
 srishtinsaan.
 varshh-ds.
+tab22.
 404paige.
 AmrutaKR007.
 Cheeny09.
@@ -300,7 +301,6 @@ kishoretk92.
 pankajrj.
 poojithavalli22.
 SwapnaAbburi.
-tab22.
 TejasSNOW.
 zstromsodt.
 Abhishek2634.
@@ -997,6 +997,7 @@ puneet94.
 pviglianti.
 Shreedevisnow.
 sisco0.
+tab22.
 AmrutaKR007.
 ashaw7697.
 Beeram12.
@@ -1013,7 +1014,6 @@ poojithavalli22.
 RagaChitraMankala.
 ShakthiSn.
 SwapnaAbburi.
-tab22.
 tejasathalye.
 TejasSNOW.
 thameemskings.
