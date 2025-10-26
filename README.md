@@ -265,15 +265,16 @@ prashantmrshine.
 ewatch.
 mskoddow.
 Rajasree2004.
+TinkerTechie.
 AAladeen.
 anjimuvva.
 bgrk005.
 harishkSN.
 KrishChothani.
 sumanth1710.
-surajnikam111.
 
 **Other contributors:**
+surajnikam111.
 andrey-verevkin.
 BEASTSHRIRAM.
 durgeshservicenow-hub.
@@ -287,7 +288,6 @@ sndevs-slacker-issue-reporter[bot].
 LItuD.
 srishtinsaan.
 varshh-ds.
-TinkerTechie.
 404paige.
 AmrutaKR007.
 Cheeny09.
@@ -932,6 +932,7 @@ djunaid.
 Haile-08.
 Rajasree2004.
 sonamtiwari8.
+TinkerTechie.
 AAladeen.
 Adiana3308.
 akhoshnood.
@@ -993,7 +994,6 @@ puneet94.
 pviglianti.
 Shreedevisnow.
 sisco0.
-TinkerTechie.
 AmrutaKR007.
 ashaw7697.
 Beeram12.
