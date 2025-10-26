@@ -158,8 +158,8 @@ ivan-betev.
 bird-03.
 
 **Top 10% contributors:**
-bharakm.
 kmxo.
+bharakm.
 sivamuruganandam-coder.
 NavyasreeBolleboyana.
 sumanthdosapati.
