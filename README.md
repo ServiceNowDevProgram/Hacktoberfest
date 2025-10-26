@@ -260,6 +260,7 @@ Abbas-57.
 JorgeGRC.
 QI-XING.
 srikanthroyal932-cmyk.
+sumanth1710.
 Kart-19.
 Rajat32-op.
 mskoddow.
@@ -272,7 +273,6 @@ anjimuvva.
 bgrk005.
 harishkSN.
 KrishChothani.
-sumanth1710.
 surajnikam111.
 
 **Other contributors:**
@@ -792,6 +792,7 @@ harishankert.
 iamshankha.
 prash5595.
 priyasnexpert.
+sumanth1710.
 thejasr110.
 unbirthdays.
 ahmadibitoye.
@@ -830,7 +831,6 @@ LakshmiChaitanyaReddy.
 llipovsky.
 prynacshrma.
 seviceN.
-sumanth1710.
 tejudhoran95.
 vasantharaja-natarajan.
 amoore-coder.
