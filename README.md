@@ -253,6 +253,7 @@ sumanth1710.
 1shabby.
 ashvin2005.
 at8807602.
+prashantmrshine.
 Thrizvi.
 ShuGitHub2022.
 becksbyte.
@@ -265,7 +266,6 @@ Kart-19.
 Rajat32-op.
 salma-93.
 mskoddow.
-prashantmrshine.
 ewatch.
 tab22.
 TinkerTechie.
@@ -671,13 +671,13 @@ sivamuruganandam-coder.
 **Top 10% contributors:**
 azeezgaa.
 NavyasreeBolleboyana.
+prashantmrshine.
 brenduh.
 deepak-64742.
 rafzk.
 anillande90.
 shreyawani98.
 ayleeandersen.
-prashantmrshine.
 Abhishekchowdarapu.
 alikuttyka.
 animeshdasgit.
