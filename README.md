@@ -245,6 +245,7 @@ samisthapur.
 shreyawani98.
 zakir8992.
 HackoDev1530.
+sanjaykumar3sn.
 alkaChaudhary73.
 SachinNarayanasamy.
 stefanintech.
@@ -255,7 +256,6 @@ Thrizvi.
 ShuGitHub2022.
 becksbyte.
 Rajasree2004.
-sanjaykumar3sn.
 Abbas-57.
 JorgeGRC.
 QI-XING.
@@ -868,6 +868,7 @@ hrichiksite.
 Iuliak.
 jahnaviT2003.
 RaunakScarlet.
+sanjaykumar3sn.
 Srikanth1306.
 TVani5.
 adarshsingh0205.
@@ -893,9 +894,9 @@ rene-el.
 rmedved84.
 src107.
 Tushnik-cyber.
-fn20200323.
 
 **Top 50% contributors:**
+fn20200323.
 Pradeep567iaf.
 pratyushasndev.
 nag39g.
@@ -908,7 +909,6 @@ JorgeGRC.
 kumarinisha378.
 Rajasree2004.
 Sagar-agarwal.
-sanjaykumar3sn.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
