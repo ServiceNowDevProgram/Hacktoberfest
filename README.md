@@ -298,6 +298,7 @@ Danmax.
 dominik-kiss.
 Gorav-Sharma.
 kishoretk92.
+krahul11.
 pankajrj.
 poojithavalli22.
 SwapnaAbburi.
@@ -356,7 +357,6 @@ Ehabpilloor.
 Folorunshoginni.
 jonahpiascik.
 kayodeanjorin.
-krahul11.
 L-S-R.
 mady22070.
 Mahathiveena.
@@ -1016,6 +1016,7 @@ dominik-kiss.
 Gorav-Sharma.
 Jaskaran-Techno.
 kishoretk92.
+krahul11.
 nvprav.
 pankajrj.
 poojithavalli22.
@@ -1060,9 +1061,9 @@ harshal045.
 HarshMN2345.
 hmadhsan.
 iamvpbhaskar.
-igrzhukovich.
 
 **Other contributors:**
+igrzhukovich.
 j4rodm.
 jamesfoot.
 JBscriptsNow.
@@ -1243,7 +1244,6 @@ khoilu-1512.
 khushii-hub.
 kkbrains1.
 Koustav-coder.
-krahul11.
 Kswierk.
 L-S-R.
 LakshmiPrasanna96.
