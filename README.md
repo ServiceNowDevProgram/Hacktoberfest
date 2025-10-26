@@ -245,6 +245,7 @@ samisthapur.
 shreyawani98.
 zakir8992.
 HackoDev1530.
+prashantmrshine.
 sanjaykumar3sn.
 alkaChaudhary73.
 SachinNarayanasamy.
@@ -253,7 +254,6 @@ sumanth1710.
 1shabby.
 ashvin2005.
 at8807602.
-prashantmrshine.
 Thrizvi.
 ShuGitHub2022.
 becksbyte.
@@ -660,18 +660,18 @@ ankitshu.
 bkb68.
 spnegi.
 JonSandoval.
+prashantmrshine.
 Radhe-Manasa.
 Charanjet.
 bharakm.
 stevezero.
 sychi77.
 ronaldkarim.
-sivamuruganandam-coder.
 
 **Top 10% contributors:**
+sivamuruganandam-coder.
 azeezgaa.
 NavyasreeBolleboyana.
-prashantmrshine.
 brenduh.
 deepak-64742.
 rafzk.
