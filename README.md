@@ -174,17 +174,17 @@ Mexiprince.
 abhix2112.
 chaitanyalal18.
 ChandBasha-code.
+Its-Nmk.
 jiteshmalik.
 JonSandoval.
 RaviGaurav007.
 Sriharsha19.
 VaishnaviLathkar98.
 Vishnu-rvk.
-anurampalli.
 
 **Top 25% contributors:**
+anurampalli.
 Emmynem.
-Its-Nmk.
 juhikumarimodi6.
 maheshkhatal27.
 naveensnow.
@@ -722,6 +722,7 @@ mr-swann.
 abhix2112.
 chaitanyalal18.
 dvn-lazywinner.
+Its-Nmk.
 Munnisona.
 RaviGaurav007.
 Sriharsha19.
@@ -733,7 +734,6 @@ anurampalli.
 devinvalencia.
 Emmynem.
 GokulkumarV.
-Its-Nmk.
 naveensnow.
 pallipoina92.
 sheikhafsarzap.
