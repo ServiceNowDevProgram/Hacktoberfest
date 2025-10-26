@@ -412,6 +412,7 @@ Anurag-Kar-240101094.
 Anusrita-Karmakar.
 apatti.
 arjav007.
+arpithamenden-del.
 Aruncr123.
 Aryan-Bhendarkar.
 Ash0807.
@@ -898,9 +899,9 @@ rene-el.
 rmedved84.
 src107.
 Tushnik-cyber.
+fn20200323.
 
 **Top 50% contributors:**
-fn20200323.
 Pradeep567iaf.
 pratyushasndev.
 nag39g.
@@ -1056,9 +1057,9 @@ HarshMN2345.
 hmadhsan.
 iamvpbhaskar.
 igrzhukovich.
+j4rodm.
 
 **Other contributors:**
-j4rodm.
 jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
@@ -1396,6 +1397,7 @@ AritraSadhu.
 arjav007.
 armandhaugerud.
 arostesri.
+arpithamenden-del.
 artursnusz.
 Aruncr123.
 arwin1516.
@@ -2045,6 +2047,7 @@ SwarnadeepNandy.
 swaroop-surampalli.
 swatii23.
 swatimishracapg.
+Swetha13251325.
 syntax-syndicate.
 syprien.
 TamByrd.
