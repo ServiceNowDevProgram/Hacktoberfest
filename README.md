@@ -262,7 +262,6 @@ srikanthroyal932-cmyk.
 Kart-19.
 Rajat32-op.
 mskoddow.
-prashantmrshine.
 ewatch.
 Rajasree2004.
 TinkerTechie.
@@ -272,9 +271,9 @@ bgrk005.
 harishkSN.
 KrishChothani.
 sumanth1710.
+surajnikam111.
 
 **Other contributors:**
-surajnikam111.
 andrey-verevkin.
 BEASTSHRIRAM.
 durgeshservicenow-hub.
@@ -284,6 +283,7 @@ sudhanshu-raj.
 trupti65.
 Dhruvyadav2000.
 mandeepkaran.
+prashantmrshine.
 sndevs-slacker-issue-reporter[bot].
 LItuD.
 srishtinsaan.
@@ -666,7 +666,6 @@ rafzk.
 anillande90.
 shreyawani98.
 ayleeandersen.
-prashantmrshine.
 Abhishekchowdarapu.
 alikuttyka.
 animeshdasgit.
@@ -685,6 +684,7 @@ chiemeriechibuzor.
 csharpie.
 Danmax.
 PranavBhagat18.
+prashantmrshine.
 Dhruvyadav2000.
 Irston.
 chaitaliKundu.
