@@ -419,6 +419,7 @@ bhavani-konda.
 brunoasantos.
 captainbraddles.
 ChiragBotkawar.
+coder-Madhavi360.
 davidphilpott01.
 debugwithshubham.
 deepanshu4688.
@@ -891,9 +892,9 @@ rene-el.
 rmedved84.
 src107.
 Tushnik-cyber.
+fn20200323.
 
 **Top 50% contributors:**
-fn20200323.
 Pradeep567iaf.
 pratyushasndev.
 nag39g.
@@ -1048,9 +1049,9 @@ HarshMN2345.
 hmadhsan.
 iamvpbhaskar.
 igrzhukovich.
+j4rodm.
 
 **Other contributors:**
-j4rodm.
 jamesfoot.
 JBscriptsNow.
 JingAlanzhixin.
@@ -1454,6 +1455,7 @@ ChrRepou.
 Cioraz.
 cnavr.
 CObsidien.
+coder-Madhavi360.
 coderdude207.
 codexpert247.
 Codjam.
