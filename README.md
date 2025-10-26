@@ -242,6 +242,7 @@ Priscilladevtech.
 RaghavBCarvana.
 samisthapur.
 shreyawani98.
+zakir8992.
 HackoDev1530.
 sanjaykumar3sn.
 alkaChaudhary73.
@@ -250,7 +251,6 @@ SachinNarayanasamy.
 stefanintech.
 1shabby.
 ashvin2005.
-zakir8992.
 at8807602.
 Thrizvi.
 ShuGitHub2022.
@@ -849,6 +849,7 @@ samisthapur.
 sanjivmeher.
 Suri123789.
 yansa-reece.
+zakir8992.
 aman2519.
 dalestubblefield.
 vermaamit1664.
@@ -890,10 +891,9 @@ piyusalunke123.
 rene-el.
 rmedved84.
 src107.
-Tushnik-cyber.
 
 **Top 50% contributors:**
-zakir8992.
+Tushnik-cyber.
 fn20200323.
 Pradeep567iaf.
 pratyushasndev.
