@@ -286,6 +286,7 @@ sandeepd26.
 sudhanshu-raj.
 trupti65.
 Dhruvyadav2000.
+isaac-vicentini.
 mandeepkaran.
 sndevs-slacker-issue-reporter[bot].
 LItuD.
@@ -329,7 +330,6 @@ Siddhartha03D.
 SinghCod3r.
 Sushmakothagattu.
 bhavishyavelaga.
-isaac-vicentini.
 kmohit2809.
 mitkarisunil.
 akaanakbaik.
@@ -740,6 +740,7 @@ naveensnow.
 pallipoina92.
 sheikhafsarzap.
 sravankadudhuri.
+isaac-vicentini.
 jonahpiascik.
 kylburns89.
 satya2025sahoo.
@@ -748,9 +749,9 @@ bhavyaa30.
 danr2c2.
 Litwilly.
 MRSinghRajat.
-oasif.
 
 **Top 25% contributors:**
+oasif.
 stefanintech.
 DavidMarcial.
 NayeemKaka.
@@ -770,7 +771,6 @@ afislonge.
 Aish18-96.
 davidkwhuang.
 hanna-g-sn.
-isaac-vicentini.
 JohanDC-1999.
 kayoeservicenow.
 mandeepkaran.
