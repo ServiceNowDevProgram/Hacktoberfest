@@ -156,9 +156,9 @@ NowSharif.
 Soumyadeep10.
 ivan-betev.
 bird-03.
+kmxo.
 
 **Top 10% contributors:**
-kmxo.
 bharakm.
 sivamuruganandam-coder.
 NavyasreeBolleboyana.
@@ -180,9 +180,9 @@ RaviGaurav007.
 Sriharsha19.
 VaishnaviLathkar98.
 Vishnu-rvk.
+anurampalli.
 
 **Top 25% contributors:**
-anurampalli.
 Emmynem.
 Its-Nmk.
 juhikumarimodi6.
@@ -273,10 +273,10 @@ bgrk005.
 harishkSN.
 KrishChothani.
 sumanth1710.
-surajnikam111.
-andrey-verevkin.
 
 **Other contributors:**
+surajnikam111.
+andrey-verevkin.
 BEASTSHRIRAM.
 durgeshservicenow-hub.
 ohadoweregchimereobim-byte.
@@ -528,6 +528,7 @@ sagarbhadke08.
 sahilansari0002.
 sahilshingate01.
 sairajgad06.
+salma-93.
 samikshak-kaulkar-hacktoberfest.
 samikshak-web.
 samrat21saha.
@@ -859,12 +860,12 @@ yansa-reece.
 zakir8992.
 aman2519.
 dalestubblefield.
+salma-93.
 vermaamit1664.
 watrick.
 almajam.
 danielliaus.
 Ramesh-hub007.
-salma-93.
 sauravsumankumar.
 yuvraj1107thapa.
 ashuprince121.
