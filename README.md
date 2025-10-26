@@ -225,10 +225,11 @@ DhruvBhatheja.
 GHSayak25.
 himanshu7895.
 Jmyekn1123.
+NayeemKaka.
 abdulsalamnafisat59-rgb.
-ayorindeoluwayemi-coder.
 
 **Top 50% contributors:**
+ayorindeoluwayemi-coder.
 Harshuu870.
 Mahmud1087.
 Noah-Drew.
@@ -238,7 +239,6 @@ AnandMahajan2799.
 bkb68.
 dvn-lazywinner.
 mitalizope.
-NayeemKaka.
 Priscilladevtech.
 RaghavBCarvana.
 samisthapur.
@@ -749,6 +749,7 @@ stefanintech.
 
 **Top 25% contributors:**
 DavidMarcial.
+NayeemKaka.
 soerenmaucher.
 Adil404.
 avssrikanth.
@@ -777,7 +778,6 @@ vjtknn.
 Yokesh0811.
 mady22070.
 MarcMouries.
-NayeemKaka.
 sn-ajb.
 pratap360.
 techYESlogyXplorer.
