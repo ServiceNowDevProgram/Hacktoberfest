@@ -272,21 +272,21 @@ Abbas-57.
 DimpleShaik.
 JorgeGRC.
 QI-XING.
+isaac-vicentini.
 mskoddow.
 Rajat32-op.
 trimbakeshmadhan-109.
 ewatch.
 AAladeen.
-anjimuvva.
 
 **Other contributors:**
+anjimuvva.
 bgrk005.
 harishkSN.
 KrishChothani.
 surajnikam111.
 andrey-verevkin.
 durgeshservicenow-hub.
-isaac-vicentini.
 sa173199.
 sandeepd26.
 sudhanshu-raj.
@@ -734,6 +734,7 @@ mr-swann.
 abhix2112.
 chaitanyalal18.
 dvn-lazywinner.
+isaac-vicentini.
 Munnisona.
 RaviGaurav007.
 Sriharsha19.
@@ -747,7 +748,6 @@ devinvalencia.
 Emmynem.
 GokulkumarV.
 hanna-g-sn.
-isaac-vicentini.
 naveensnow.
 pallipoina92.
 sheikhafsarzap.
