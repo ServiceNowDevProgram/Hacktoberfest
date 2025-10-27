@@ -289,6 +289,7 @@ isaac-vicentini.
 sa173199.
 sandeepd26.
 sudhanshu-raj.
+trimbakeshmadhan-109.
 trupti65.
 Dhruvyadav2000.
 mandeepkaran.
@@ -332,7 +333,6 @@ Shashank0701-byte.
 Siddhartha03D.
 SinghCod3r.
 Sushmakothagattu.
-trimbakeshmadhan-109.
 bhavishyavelaga.
 kmohit2809.
 mitkarisunil.
@@ -999,6 +999,7 @@ tanu-profile.
 Thanai14.
 TheTreyKyle.
 thisnameissoclever.
+trimbakeshmadhan-109.
 trupti65.
 ujjwalprem.
 zailugao.
@@ -1073,9 +1074,9 @@ devalcodes.
 dhruvii-powershell.
 dorsy99.
 ezratkim.
-harshal045.
 
 **Other contributors:**
+harshal045.
 HarshMN2345.
 hmadhsan.
 iamvpbhaskar.
@@ -1131,7 +1132,6 @@ Sushmakothagattu.
 TheRashRash.
 thomasvogh.
 tomlozano.
-trimbakeshmadhan-109.
 trishitapingolia.
 ultralegendary.
 workpurposeusername.
