@@ -254,6 +254,7 @@ srikanthroyal932-cmyk.
 ohadoweregchimereobim-byte.
 HackoDev1530.
 alkaChaudhary73.
+krahul11.
 SachinNarayanasamy.
 stefanintech.
 sumanth1710.
@@ -269,7 +270,6 @@ Rajasree2004.
 Abbas-57.
 DimpleShaik.
 JorgeGRC.
-krahul11.
 QI-XING.
 mskoddow.
 Rajat32-op.
@@ -901,6 +901,7 @@ goranlundqvist.
 Hamritha0506.
 harisnad.
 KedarisettiSreeVamsi.
+krahul11.
 NowRishi.
 riya-vermaa.
 SachinNarayanasamy.
@@ -915,9 +916,9 @@ Kart-19.
 Khasim-63993.
 odinsride.
 piyusalunke123.
-rene-el.
 
 **Top 50% contributors:**
+rene-el.
 rmedved84.
 src107.
 Tushnik-cyber.
@@ -939,7 +940,6 @@ wiresgit.
 yourepicservices.
 ChecksumFailed.
 DimpleShaik.
-krahul11.
 markroethof.
 SNProductOwner.
 TechnologistTim.
