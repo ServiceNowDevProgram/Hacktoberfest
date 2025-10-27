@@ -169,6 +169,7 @@ AdaOkoye-coder.
 chiemeriechibuzor.
 niamccash.
 Indra-kolge.
+shreyawani98.
 vijaykumar7177.
 Vishnu-rvk.
 Mexiprince.
@@ -179,7 +180,6 @@ Its-Nmk.
 jiteshmalik.
 JonSandoval.
 RaviGaurav007.
-shreyawani98.
 Sriharsha19.
 
 **Top 25% contributors:**
@@ -646,13 +646,13 @@ anveshmupparaju.
 Vishnu-rvk.
 jiteshmalik.
 NowSharif.
+shreyawani98.
 techTrekwithAJ.
 aykmrgit.
 Mexiprince.
 prashantmrshine.
 hrobarikt.
 Chraiseto.
-shreyawani98.
 TRIGGEREDcoder.
 DanielMadsenDK.
 SrijanPatwa.
