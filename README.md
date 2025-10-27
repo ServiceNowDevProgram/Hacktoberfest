@@ -181,9 +181,9 @@ Its-Nmk.
 jiteshmalik.
 JonSandoval.
 RaviGaurav007.
+Sriharsha19.
 
 **Top 25% contributors:**
-Sriharsha19.
 VaishnaviLathkar98.
 pratap360.
 anurampalli.
@@ -521,6 +521,7 @@ ravii333.
 RavleenKaur-rk.
 RedRangerWentWild.
 richirichard7789-svg.
+rishabhh077.
 Ritanshusharma2.
 Riya010107.
 Riyamisra1.
@@ -1071,9 +1072,9 @@ ezratkim.
 harshal045.
 HarshMN2345.
 hmadhsan.
+iamvpbhaskar.
 
 **Other contributors:**
-iamvpbhaskar.
 igrzhukovich.
 j4rodm.
 jamesfoot.
@@ -1929,6 +1930,7 @@ retrokaj.
 richirichard7789-svg.
 ricksclick.
 rishabhbaranwal0.
+rishabhh077.
 Ritanshusharma2.
 RitheshGit.
 Riya010107.
