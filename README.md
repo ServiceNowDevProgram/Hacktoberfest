@@ -232,6 +232,7 @@ himanshu7895.
 
 **Top 50% contributors:**
 Jmyekn1123.
+shreyawani98.
 abdulsalamnafisat59-rgb.
 ayorindeoluwayemi-coder.
 Harshuu870.
@@ -246,7 +247,6 @@ dvn-lazywinner.
 mitalizope.
 Priscilladevtech.
 RaghavBCarvana.
-shreyawani98.
 srikanthroyal932-cmyk.
 samisthapur.
 HackoDev1530.
@@ -669,11 +669,12 @@ JonSandoval.
 Radhe-Manasa.
 Charanjet.
 bharakm.
+shreyawani98.
 stevezero.
 sychi77.
-ronaldkarim.
 
 **Top 10% contributors:**
+ronaldkarim.
 sivamuruganandam-coder.
 azeezgaa.
 NavyasreeBolleboyana.
@@ -681,7 +682,6 @@ brenduh.
 deepak-64742.
 salma-93.
 rafzk.
-shreyawani98.
 anillande90.
 ayleeandersen.
 Abhishekchowdarapu.
