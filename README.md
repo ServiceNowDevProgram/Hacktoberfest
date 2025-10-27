@@ -216,6 +216,7 @@ d-sharmagit.
 divyajetti9.
 hakinadey.
 iamshankha.
+NayeemKaka.
 sanjaykumar3sn.
 ahmadibitoye.
 animeshdasgit.
@@ -227,7 +228,6 @@ DhruvBhatheja.
 GHSayak25.
 himanshu7895.
 Jmyekn1123.
-NayeemKaka.
 
 **Top 50% contributors:**
 abdulsalamnafisat59-rgb.
@@ -751,10 +751,10 @@ Litwilly.
 MRSinghRajat.
 
 **Top 25% contributors:**
+NayeemKaka.
 oasif.
 stefanintech.
 DavidMarcial.
-NayeemKaka.
 soerenmaucher.
 Adil404.
 avssrikanth.
