@@ -278,9 +278,9 @@ mskoddow.
 Rajat32-op.
 ewatch.
 AAladeen.
+anjimuvva.
 
 **Other contributors:**
-anjimuvva.
 bgrk005.
 harishkSN.
 KrishChothani.
@@ -481,6 +481,7 @@ lalit-oli-mohan-479.
 lameloball6741.
 lstrallo.
 madhuri-ch4.
+mamioussama99-ops.
 Manish0621.
 manjot2092-rob.
 manojkumar-itsm.
@@ -1074,9 +1075,9 @@ demetris7.
 devalcodes.
 dhruvii-powershell.
 dorsy99.
+ezratkim.
 
 **Other contributors:**
-ezratkim.
 harshal045.
 HarshMN2345.
 hmadhsan.
@@ -1766,6 +1767,7 @@ mahithak17.
 Maithani-ji.
 makesh-ind.
 makroset.
+mamioussama99-ops.
 manichin1998.
 Manish0621.
 Manishak798.
