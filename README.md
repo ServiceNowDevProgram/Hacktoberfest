@@ -155,8 +155,8 @@ koratalas.
 NowSharif.
 Soumyadeep10.
 ivan-betev.
-bird-03.
 kmxo.
+bird-03.
 
 **Top 10% contributors:**
 bharakm.
@@ -605,10 +605,10 @@ Rampriya-S.
 snamjosh.
 rohi-v.
 raghavs046.
+kmxo.
 Atul-LNG.
 bird-03.
 chetnadev.
-kmxo.
 kmohit2809.
 koratalas.
 chelming.
