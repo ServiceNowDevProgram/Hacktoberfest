@@ -173,6 +173,7 @@ shreyawani98.
 vijaykumar7177.
 Vishnu-rvk.
 Mexiprince.
+prashantmrshine.
 abhix2112.
 chaitanyalal18.
 ChandBasha-code.
@@ -180,11 +181,10 @@ Its-Nmk.
 jiteshmalik.
 JonSandoval.
 RaviGaurav007.
-Sriharsha19.
 
 **Top 25% contributors:**
+Sriharsha19.
 VaishnaviLathkar98.
-prashantmrshine.
 anurampalli.
 Emmynem.
 hanna-g-sn.
@@ -639,10 +639,10 @@ ChaseMillers.
 gowdah.
 MYaswanth28.
 RahmanM.
+prashantmrshine.
 R3J3NT.
 ajcooper72.
 VaishnaviLathkar98.
-prashantmrshine.
 anveshmupparaju.
 Vishnu-rvk.
 jiteshmalik.
