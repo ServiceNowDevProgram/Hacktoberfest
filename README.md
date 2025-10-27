@@ -305,6 +305,7 @@ Danmax.
 dominik-kiss.
 Gorav-Sharma.
 kishoretk92.
+KUSHAL1912.
 pankajrj.
 poojithavalli22.
 Surekha232.
@@ -321,7 +322,6 @@ CODEBRAKERBOYY.
 daramcdonald96-ops.
 DavidMarcial.
 harshal045.
-KUSHAL1912.
 Maheshkh9738.
 Naman-Vasudev.
 nehatalha725.
@@ -1032,6 +1032,7 @@ dominik-kiss.
 Gorav-Sharma.
 Jaskaran-Techno.
 kishoretk92.
+KUSHAL1912.
 nvprav.
 pankajrj.
 poojithavalli22.
@@ -1073,9 +1074,9 @@ demetris7.
 devalcodes.
 dhruvii-powershell.
 dorsy99.
-ezratkim.
 
 **Other contributors:**
+ezratkim.
 harshal045.
 HarshMN2345.
 hmadhsan.
@@ -1089,7 +1090,6 @@ jordanrogus.
 Juusoee.
 KartikeSingh.
 kaushalbharade.
-KUSHAL1912.
 lakshyatyagi24.
 loudigi.
 Maheshkh9738.
