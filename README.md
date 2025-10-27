@@ -214,6 +214,7 @@ SumithThota.
 franks883.
 gowdah.
 S-w-a-p-n-i-l-22.
+samisthapur.
 SrijanPatwa.
 chaitaliKundu.
 d-sharmagit.
@@ -229,9 +230,9 @@ DanielMadsenDK.
 debendu-das.
 DhruvBhatheja.
 GHSayak25.
-himanshu7895.
 
 **Top 50% contributors:**
+himanshu7895.
 Jmyekn1123.
 abdulsalamnafisat59-rgb.
 ayorindeoluwayemi-coder.
@@ -240,7 +241,6 @@ Harshuu870.
 keshava-palisetti.
 Mahmud1087.
 Noah-Drew.
-samisthapur.
 spnegi.
 LakshmiChaitanyaReddy.
 tab22.
@@ -787,6 +787,7 @@ SumithThota.
 zahidask.
 DynamiteC.
 franks883.
+samisthapur.
 shakeel-sheikh.
 vjtknn.
 Yokesh0811.
@@ -827,7 +828,6 @@ keshava-palisetti.
 Mahmud1087.
 namrataghorpade.
 Noah-Drew.
-samisthapur.
 sdgrube2.
 wendy-ha18.
 AdilBasha1SAP.
