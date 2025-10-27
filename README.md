@@ -208,6 +208,7 @@ Aish18-96.
 chetnadev.
 JohanDC-1999.
 kayoeservicenow.
+shreyawani98.
 SumithThota.
 zakir8992.
 franks883.
@@ -228,11 +229,10 @@ DanielMadsenDK.
 debendu-das.
 DhruvBhatheja.
 GHSayak25.
-himanshu7895.
 
 **Top 50% contributors:**
+himanshu7895.
 Jmyekn1123.
-shreyawani98.
 abdulsalamnafisat59-rgb.
 ayorindeoluwayemi-coder.
 Harshuu870.
@@ -665,12 +665,12 @@ sndevs-slacker-issue-reporter[bot].
 urspvs.
 ankitshu.
 bkb68.
+shreyawani98.
 spnegi.
 JonSandoval.
 Radhe-Manasa.
 Charanjet.
 bharakm.
-shreyawani98.
 stevezero.
 sychi77.
 
