@@ -259,7 +259,6 @@ alkaChaudhary73.
 SachinNarayanasamy.
 stefanintech.
 sumanth1710.
-trimbakeshmadhan-109.
 1shabby.
 ashvin2005.
 isaac-vicentini.
@@ -274,6 +273,7 @@ Abbas-57.
 DimpleShaik.
 JorgeGRC.
 QI-XING.
+trimbakeshmadhan-109.
 mskoddow.
 Rajat32-op.
 ewatch.
@@ -907,7 +907,6 @@ KedarisettiSreeVamsi.
 NowRishi.
 riya-vermaa.
 SachinNarayanasamy.
-trimbakeshmadhan-109.
 99Saurabh19.
 allenandreas.
 anubhav-ritolia.
@@ -917,9 +916,9 @@ briangodfreydev.
 GauthamBellamkonda.
 Kart-19.
 Khasim-63993.
+odinsride.
 
 **Top 50% contributors:**
-odinsride.
 piyusalunke123.
 rene-el.
 rmedved84.
@@ -946,6 +945,7 @@ DimpleShaik.
 markroethof.
 SNProductOwner.
 TechnologistTim.
+trimbakeshmadhan-109.
 anguspalmer.
 Badal2k23.
 bhavyajain511.
