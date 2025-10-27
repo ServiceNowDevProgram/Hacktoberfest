@@ -212,6 +212,7 @@ franks883.
 gowdah.
 S-w-a-p-n-i-l-22.
 zakir8992.
+prashantmrshine.
 SrijanPatwa.
 chaitaliKundu.
 d-sharmagit.
@@ -227,9 +228,9 @@ DanielMadsenDK.
 debendu-das.
 DhruvBhatheja.
 GHSayak25.
-himanshu7895.
 
 **Top 50% contributors:**
+himanshu7895.
 Jmyekn1123.
 abdulsalamnafisat59-rgb.
 ayorindeoluwayemi-coder.
@@ -237,7 +238,6 @@ Harshuu870.
 Mahmud1087.
 Noah-Drew.
 spnegi.
-prashantmrshine.
 LakshmiChaitanyaReddy.
 AnandMahajan2799.
 bkb68.
@@ -649,6 +649,7 @@ Vishnu-rvk.
 Chraiseto.
 TRIGGEREDcoder.
 DanielMadsenDK.
+prashantmrshine.
 SrijanPatwa.
 smartcarleen.
 himanshu7895.
@@ -657,7 +658,6 @@ at8807602.
 debendu-das.
 sndevs-slacker-issue-reporter[bot].
 404paige.
-prashantmrshine.
 urspvs.
 ankitshu.
 bkb68.
