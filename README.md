@@ -274,12 +274,13 @@ JorgeGRC.
 QI-XING.
 mskoddow.
 Rajat32-op.
+trimbakeshmadhan-109.
 ewatch.
 AAladeen.
 anjimuvva.
-bgrk005.
 
 **Other contributors:**
+bgrk005.
 harishkSN.
 KrishChothani.
 surajnikam111.
@@ -289,7 +290,6 @@ isaac-vicentini.
 sa173199.
 sandeepd26.
 sudhanshu-raj.
-trimbakeshmadhan-109.
 trupti65.
 Dhruvyadav2000.
 mandeepkaran.
@@ -953,6 +953,7 @@ patan116.
 Rajat32-op.
 revantKulkarni.
 trade12.
+trimbakeshmadhan-109.
 ttoter.
 AlphaEagle.
 JWITSM.
@@ -999,7 +1000,6 @@ tanu-profile.
 Thanai14.
 TheTreyKyle.
 thisnameissoclever.
-trimbakeshmadhan-109.
 trupti65.
 ujjwalprem.
 zailugao.
