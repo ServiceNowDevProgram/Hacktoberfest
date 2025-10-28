@@ -170,6 +170,7 @@ AdaOkoye-coder.
 chiemeriechibuzor.
 niamccash.
 Its-Nmk.
+zakir8992.
 Indra-kolge.
 vijaykumar7177.
 Vishnu-rvk.
@@ -180,7 +181,6 @@ chaitanyalal18.
 ChandBasha-code.
 jiteshmalik.
 NayeemKaka.
-zakir8992.
 JonSandoval.
 RaviGaurav007.
 
@@ -731,6 +731,7 @@ lakshmikanthgupta.
 mlemartien.
 riya-misra-1.
 S-w-a-p-n-i-l-22.
+zakir8992.
 hentonjd.
 Indra-kolge.
 vijaykumar7177.
@@ -744,7 +745,6 @@ abhix2112.
 chaitanyalal18.
 dvn-lazywinner.
 Munnisona.
-zakir8992.
 RaviGaurav007.
 Sriharsha19.
 manrick.
