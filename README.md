@@ -253,6 +253,7 @@ AnandMahajan2799.
 bkb68.
 chaytarak.
 dvn-lazywinner.
+isaac-vicentini.
 mitalizope.
 Priscilladevtech.
 srikanthroyal932-cmyk.
@@ -261,7 +262,6 @@ HackoDev1530.
 Rajasree2004.
 tab22.
 alkaChaudhary73.
-isaac-vicentini.
 SachinNarayanasamy.
 stefanintech.
 sumanth1710.
@@ -709,6 +709,7 @@ QI-XING.
 selvarun-umass.
 vandna07.
 captainbraddles.
+isaac-vicentini.
 abhrajyotikanrar.
 AdaOkoye-coder.
 chiemeriechibuzor.
@@ -721,7 +722,6 @@ NayeemKaka.
 chaitaliKundu.
 bgrk005.
 Harshuu870.
-isaac-vicentini.
 litwi1rm.
 mak1A4.
 shivamTodwal.
