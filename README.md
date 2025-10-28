@@ -331,7 +331,6 @@ Nisha-admin.
 prakritimallick1308.
 PranavTamada.
 Pratyush2240.
-Satya2234.
 selvarun-umass.
 Shashank0701-byte.
 Siddhartha03D.
@@ -556,6 +555,7 @@ sandeep-rajput-infobeans.
 sanjii02.
 sanket665.
 Saptarshi3456.
+Satya2234.
 Sayon008.
 Sefali12.
 servicenowspecialist.
@@ -1132,7 +1132,6 @@ saitarun2499.
 samwinchet.
 sanchit-varshney.
 sanju009.
-Satya2234.
 Shambu-K.
 Shashank0701-byte.
 Siddhartha03D.
@@ -2003,6 +2002,7 @@ sarath-patoju.
 Sarita3012.
 sasukepatel.
 saswata-panda.
+Satya2234.
 Saumyaup11.
 Sauron-Dev.
 Sayon008.
