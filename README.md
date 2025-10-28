@@ -273,17 +273,17 @@ ShuGitHub2022.
 TinkerTechie.
 becksbyte.
 Abbas-57.
-anjimuvva.
 chaytarak.
 DimpleShaik.
 JorgeGRC.
 mskoddow.
 QI-XING.
+Rajat32-op.
 
 **Other contributors:**
-Rajat32-op.
 ewatch.
 AAladeen.
+anjimuvva.
 bgrk005.
 harishkSN.
 KrishChothani.
@@ -950,7 +950,6 @@ kumarinisha378.
 Sagar-agarwal.
 wiresgit.
 yourepicservices.
-anjimuvva.
 ChecksumFailed.
 DimpleShaik.
 markroethof.
@@ -977,6 +976,7 @@ AAladeen.
 Adiana3308.
 akhoshnood.
 allam1234.
+anjimuvva.
 Decoder-Paul.
 DhanushNehru.
 harishkSN.
