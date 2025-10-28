@@ -280,9 +280,9 @@ Rajat32-op.
 ewatch.
 AAladeen.
 anjimuvva.
+bgrk005.
 
 **Other contributors:**
-bgrk005.
 harishkSN.
 KrishChothani.
 KUSHAL1912.
@@ -508,6 +508,7 @@ navyamasapu98.
 nikhilkumar76.
 niladriAdhikari.
 NirajDN.
+Nisha-admin.
 No-gui.
 nvprav.
 Parjanya5537.
@@ -920,9 +921,9 @@ briangodfreydev.
 GauthamBellamkonda.
 Kart-19.
 Khasim-63993.
+odinsride.
 
 **Top 50% contributors:**
-odinsride.
 piyusalunke123.
 prudvi-sai-posetty.
 rene-el.
@@ -1079,9 +1080,9 @@ devalcodes.
 dhruvii-powershell.
 dorsy99.
 ezratkim.
+harshal045.
 
 **Other contributors:**
-harshal045.
 HarshMN2345.
 hmadhsan.
 iamvpbhaskar.
@@ -1853,6 +1854,7 @@ NikkiJWebDevOps.
 nikkvijay.
 niladriAdhikari.
 NirajDN.
+Nisha-admin.
 NiteeshL.
 nitya2701.
 No-gui.
