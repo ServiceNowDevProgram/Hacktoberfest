@@ -266,7 +266,6 @@ sumanth1710.
 ashvin2005.
 isaac-vicentini.
 Kart-19.
-Maheshkh9738.
 at8807602.
 Thrizvi.
 ShuGitHub2022.
@@ -278,6 +277,7 @@ DimpleShaik.
 JorgeGRC.
 mskoddow.
 QI-XING.
+Maheshkh9738.
 Rajat32-op.
 
 **Other contributors:**
@@ -927,7 +927,6 @@ Kart-19.
 
 **Top 50% contributors:**
 Khasim-63993.
-Maheshkh9738.
 odinsride.
 piyusalunke123.
 rene-el.
@@ -958,6 +957,7 @@ TechnologistTim.
 anguspalmer.
 Badal2k23.
 bhavyajain511.
+Maheshkh9738.
 naveenraw25.
 NBaker137.
 patan116.
