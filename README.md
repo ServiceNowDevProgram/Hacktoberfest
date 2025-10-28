@@ -264,6 +264,7 @@ sumanth1710.
 ashvin2005.
 isaac-vicentini.
 Kart-19.
+prudvi-sai-posetty.
 at8807602.
 Thrizvi.
 ShuGitHub2022.
@@ -275,7 +276,6 @@ DimpleShaik.
 JorgeGRC.
 QI-XING.
 mskoddow.
-prudvi-sai-posetty.
 Rajat32-op.
 ewatch.
 AAladeen.
@@ -924,6 +924,7 @@ Khasim-63993.
 **Top 50% contributors:**
 odinsride.
 piyusalunke123.
+prudvi-sai-posetty.
 rene-el.
 rmedved84.
 src107.
@@ -955,7 +956,6 @@ bhavyajain511.
 naveenraw25.
 NBaker137.
 patan116.
-prudvi-sai-posetty.
 Rajat32-op.
 revantKulkarni.
 trade12.
