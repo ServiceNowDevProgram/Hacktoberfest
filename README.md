@@ -157,9 +157,9 @@ bird-03.
 Soumyadeep10.
 NavyasreeBolleboyana.
 ivan-betev.
+kmxo.
 
 **Top 10% contributors:**
-kmxo.
 bharakm.
 sivamuruganandam-coder.
 sumanthdosapati.
@@ -182,9 +182,9 @@ jiteshmalik.
 JonSandoval.
 RaviGaurav007.
 Sriharsha19.
+VaishnaviLathkar98.
 
 **Top 25% contributors:**
-VaishnaviLathkar98.
 pratap360.
 anurampalli.
 Emmynem.
@@ -279,10 +279,10 @@ JorgeGRC.
 QI-XING.
 mskoddow.
 Rajat32-op.
-ewatch.
-AAladeen.
 
 **Other contributors:**
+ewatch.
+AAladeen.
 anjimuvva.
 bgrk005.
 harishkSN.
@@ -554,6 +554,7 @@ sandeep-rajput-infobeans.
 sanjii02.
 sanket665.
 Saptarshi3456.
+Satya2234.
 Sayon008.
 Sefali12.
 servicenowspecialist.
@@ -1082,9 +1083,9 @@ demetris7.
 devalcodes.
 dhruvii-powershell.
 dorsy99.
+ezratkim.
 
 **Other contributors:**
-ezratkim.
 harshal045.
 HarshMN2345.
 hmadhsan.
@@ -1999,6 +2000,7 @@ sarath-patoju.
 Sarita3012.
 sasukepatel.
 saswata-panda.
+Satya2234.
 Saumyaup11.
 Sauron-Dev.
 Sayon008.
