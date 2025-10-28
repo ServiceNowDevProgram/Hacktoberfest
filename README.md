@@ -255,6 +255,7 @@ mitalizope.
 Priscilladevtech.
 srikanthroyal932-cmyk.
 ohadoweregchimereobim-byte.
+prudvi-sai-posetty.
 HackoDev1530.
 alkaChaudhary73.
 SachinNarayanasamy.
@@ -264,7 +265,6 @@ sumanth1710.
 ashvin2005.
 isaac-vicentini.
 Kart-19.
-prudvi-sai-posetty.
 at8807602.
 Thrizvi.
 ShuGitHub2022.
@@ -885,6 +885,7 @@ Himanshu-skb-oo7.
 mmaraj1.
 nowitsvashu.
 ohadoweregchimereobim-byte.
+prudvi-sai-posetty.
 sanjivmeher.
 yansa-reece.
 aman2519.
@@ -922,11 +923,10 @@ briangodfreydev.
 GauthamBellamkonda.
 Kart-19.
 Khasim-63993.
-odinsride.
 
 **Top 50% contributors:**
+odinsride.
 piyusalunke123.
-prudvi-sai-posetty.
 rene-el.
 rmedved84.
 src107.
