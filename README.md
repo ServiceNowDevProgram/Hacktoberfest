@@ -256,6 +256,7 @@ dvn-lazywinner.
 mitalizope.
 Priscilladevtech.
 srikanthroyal932-cmyk.
+Kart-19.
 HackoDev1530.
 Rajasree2004.
 tab22.
@@ -266,7 +267,6 @@ stefanintech.
 sumanth1710.
 1shabby.
 ashvin2005.
-Kart-19.
 at8807602.
 Thrizvi.
 ShuGitHub2022.
@@ -886,6 +886,7 @@ vamsi0777.
 HackoDev1530.
 HarshLMP870.
 Himanshu-skb-oo7.
+Kart-19.
 mmaraj1.
 nowitsvashu.
 sanjivmeher.
@@ -924,10 +925,9 @@ anubhav-ritolia.
 apple9000.
 ashvin2005.
 briangodfreydev.
-GauthamBellamkonda.
 
 **Top 50% contributors:**
-Kart-19.
+GauthamBellamkonda.
 Khasim-63993.
 odinsride.
 piyusalunke123.
