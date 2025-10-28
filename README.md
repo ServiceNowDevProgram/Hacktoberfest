@@ -230,9 +230,9 @@ Cheeny26.
 DanielMadsenDK.
 debendu-das.
 DhruvBhatheja.
+GHSayak25.
 
 **Top 50% contributors:**
-GHSayak25.
 himanshu7895.
 Jmyekn1123.
 krahul11.
@@ -279,9 +279,9 @@ Rajat32-op.
 ewatch.
 AAladeen.
 anjimuvva.
+bgrk005.
 
 **Other contributors:**
-bgrk005.
 harishkSN.
 KrishChothani.
 KUSHAL1912.
@@ -516,6 +516,7 @@ praveen8808.
 prithvihn.
 priyasnexpert.
 probablyAdi.
+prudvi-sai-posetty.
 r9t6bjfsvf-oss.
 Radhika-Uppula.
 rafak9.
@@ -1899,6 +1900,7 @@ princeofnubia.
 princeofwales88.
 prithvihn.
 probablyAdi.
+prudvi-sai-posetty.
 psharma0202.
 psyherin.
 ptupe.
