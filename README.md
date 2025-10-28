@@ -259,6 +259,7 @@ HackoDev1530.
 Rajasree2004.
 tab22.
 alkaChaudhary73.
+chaytarak.
 SachinNarayanasamy.
 stefanintech.
 sumanth1710.
@@ -272,7 +273,6 @@ ShuGitHub2022.
 TinkerTechie.
 becksbyte.
 Abbas-57.
-chaytarak.
 DimpleShaik.
 JorgeGRC.
 mskoddow.
@@ -889,6 +889,7 @@ nowitsvashu.
 sanjivmeher.
 yansa-reece.
 aman2519.
+chaytarak.
 dalestubblefield.
 vermaamit1664.
 watrick.
@@ -923,9 +924,9 @@ apple9000.
 ashvin2005.
 briangodfreydev.
 GauthamBellamkonda.
-Kart-19.
 
 **Top 50% contributors:**
+Kart-19.
 Khasim-63993.
 odinsride.
 piyusalunke123.
@@ -933,7 +934,6 @@ rene-el.
 rmedved84.
 src107.
 Tushnik-cyber.
-chaytarak.
 fn20200323.
 Pradeep567iaf.
 pratyushasndev.
