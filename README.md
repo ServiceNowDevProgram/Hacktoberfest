@@ -318,6 +318,7 @@ Abhishek2634.
 AdityaBala2026.
 AnithaA09.
 AyanAhmedKhan.
+chaytarak.
 CODEBRAKERBOYY.
 daramcdonald96-ops.
 DavidMarcial.
@@ -434,7 +435,6 @@ Bharathkogilamane274.
 bhavani-konda.
 brunoasantos.
 captainbraddles.
-chaytarak.
 ChiragBotkawar.
 danielostler.
 davidphilpott01.
@@ -1013,6 +1013,7 @@ ujjwalprem.
 zailugao.
 mockspeed.
 TheShashank13.
+chaytarak.
 cmanik.
 LItuD.
 pranavkhurana2011.
@@ -1081,9 +1082,9 @@ devalcodes.
 dhruvii-powershell.
 dorsy99.
 ezratkim.
-harshal045.
 
 **Other contributors:**
+harshal045.
 HarshMN2345.
 hmadhsan.
 iamvpbhaskar.
@@ -1157,7 +1158,6 @@ annapoornakesha.
 Anudhyan.
 beingfluid.
 bendouglass.
-chaytarak.
 Deraged.
 fauverism.
 GTKsnow.
