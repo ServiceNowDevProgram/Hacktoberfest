@@ -154,12 +154,12 @@ wiz0floyd.
 koratalas.
 NowSharif.
 Soumyadeep10.
+NavyasreeBolleboyana.
 kmxo.
 ivan-betev.
-bird-03.
 
 **Top 10% contributors:**
-NavyasreeBolleboyana.
+bird-03.
 bharakm.
 sivamuruganandam-coder.
 sumanthdosapati.
@@ -669,12 +669,12 @@ at8807602.
 debendu-das.
 sndevs-slacker-issue-reporter[bot].
 404paige.
+NavyasreeBolleboyana.
 urspvs.
 ankitshu.
 bkb68.
 spnegi.
 JonSandoval.
-NavyasreeBolleboyana.
 Radhe-Manasa.
 Charanjet.
 bharakm.
