@@ -159,9 +159,9 @@ ivan-betev.
 bird-03.
 
 **Top 10% contributors:**
+NavyasreeBolleboyana.
 bharakm.
 sivamuruganandam-coder.
-NavyasreeBolleboyana.
 sumanthdosapati.
 TechTrekwithAJ.
 shreyawani98.
@@ -674,17 +674,17 @@ ankitshu.
 bkb68.
 spnegi.
 JonSandoval.
+NavyasreeBolleboyana.
 Radhe-Manasa.
 Charanjet.
 bharakm.
 stevezero.
 sychi77.
-ronaldkarim.
 
 **Top 10% contributors:**
+ronaldkarim.
 sivamuruganandam-coder.
 azeezgaa.
-NavyasreeBolleboyana.
 brenduh.
 deepak-64742.
 salma-93.
