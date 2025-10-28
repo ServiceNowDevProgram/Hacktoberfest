@@ -180,11 +180,12 @@ chaitanyalal18.
 ChandBasha-code.
 jiteshmalik.
 NayeemKaka.
+zakir8992.
 JonSandoval.
 RaviGaurav007.
-Sriharsha19.
 
 **Top 25% contributors:**
+Sriharsha19.
 VaishnaviLathkar98.
 pratap360.
 anurampalli.
@@ -193,7 +194,6 @@ hanna-g-sn.
 juhikumarimodi6.
 maheshkhatal27.
 naveensnow.
-zakir8992.
 anveshmupparaju.
 brenduh.
 GokulkumarV.
@@ -744,6 +744,7 @@ abhix2112.
 chaitanyalal18.
 dvn-lazywinner.
 Munnisona.
+zakir8992.
 RaviGaurav007.
 Sriharsha19.
 manrick.
@@ -760,7 +761,6 @@ naveensnow.
 pallipoina92.
 sheikhafsarzap.
 sravankadudhuri.
-zakir8992.
 jonahpiascik.
 kylburns89.
 satya2025sahoo.
