@@ -211,6 +211,7 @@ chetnadev.
 JohanDC-1999.
 kayoeservicenow.
 SumithThota.
+BEASTSHRIRAM.
 franks883.
 gowdah.
 keshava-palisetti.
@@ -230,9 +231,9 @@ Cheeny26.
 DanielMadsenDK.
 debendu-das.
 DhruvBhatheja.
-GHSayak25.
 
 **Top 50% contributors:**
+GHSayak25.
 himanshu7895.
 Jmyekn1123.
 krahul11.
@@ -240,7 +241,6 @@ LaxmanKukunooru.
 RaghavBCarvana.
 abdulsalamnafisat59-rgb.
 ayorindeoluwayemi-coder.
-BEASTSHRIRAM.
 Harshuu870.
 Mahmud1087.
 Noah-Drew.
@@ -789,6 +789,7 @@ kayoeservicenow.
 mandeepkaran.
 SumithThota.
 zahidask.
+BEASTSHRIRAM.
 DynamiteC.
 franks883.
 keshava-palisetti.
@@ -832,7 +833,6 @@ templetontsai.
 abdulsalamnafisat59-rgb.
 ayorindeoluwayemi-coder.
 b1naryst0rm.
-BEASTSHRIRAM.
 Mahmud1087.
 namrataghorpade.
 Noah-Drew.
