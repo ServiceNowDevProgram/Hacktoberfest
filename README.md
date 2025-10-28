@@ -288,6 +288,7 @@ KUSHAL1912.
 surajnikam111.
 andrey-verevkin.
 durgeshservicenow-hub.
+prudvi-sai-posetty.
 sa173199.
 sandeepd26.
 sudhanshu-raj.
@@ -328,7 +329,6 @@ nehatalha725.
 prakritimallick1308.
 PranavTamada.
 Pratyush2240.
-prudvi-sai-posetty.
 selvarun-umass.
 Shashank0701-byte.
 Siddhartha03D.
@@ -996,6 +996,7 @@ maialithar.
 MihirRathod.
 preshitd.
 prithvibalakka.
+prudvi-sai-posetty.
 Ratheshan03.
 sa173199.
 Sallu77.
@@ -1077,9 +1078,9 @@ demetris7.
 devalcodes.
 dhruvii-powershell.
 dorsy99.
-ezratkim.
 
 **Other contributors:**
+ezratkim.
 harshal045.
 HarshMN2345.
 hmadhsan.
@@ -1112,7 +1113,6 @@ PranavTamada.
 Pratyush2240.
 pratyushmp.
 PreyumKr.
-prudvi-sai-posetty.
 RajputUsman.
 rawnaldduck.
 renuka-rajpuria.
