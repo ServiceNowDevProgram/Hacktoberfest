@@ -267,6 +267,7 @@ sumanth1710.
 ashvin2005.
 isaac-vicentini.
 Kart-19.
+Sushmakothagattu.
 at8807602.
 Thrizvi.
 ShuGitHub2022.
@@ -278,10 +279,9 @@ JorgeGRC.
 mskoddow.
 QI-XING.
 Maheshkh9738.
-Rajat32-op.
 
 **Other contributors:**
-Sushmakothagattu.
+Rajat32-op.
 ewatch.
 AAladeen.
 anjimuvva.
@@ -933,6 +933,7 @@ piyusalunke123.
 rene-el.
 rmedved84.
 src107.
+Sushmakothagattu.
 Tushnik-cyber.
 fn20200323.
 Pradeep567iaf.
@@ -963,7 +964,6 @@ NBaker137.
 patan116.
 Rajat32-op.
 revantKulkarni.
-Sushmakothagattu.
 trade12.
 ttoter.
 AlphaEagle.
