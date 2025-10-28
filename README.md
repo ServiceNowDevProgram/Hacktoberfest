@@ -277,8 +277,8 @@ anjimuvva.
 chaytarak.
 DimpleShaik.
 JorgeGRC.
-QI-XING.
 mskoddow.
+QI-XING.
 
 **Other contributors:**
 Rajat32-op.
@@ -703,11 +703,11 @@ aswamy93.
 YTejaswini18.
 BadalHub.
 MrChrisE.
+mskoddow.
 QI-XING.
 selvarun-umass.
 vandna07.
 captainbraddles.
-mskoddow.
 abhrajyotikanrar.
 AdaOkoye-coder.
 chiemeriechibuzor.
