@@ -275,12 +275,13 @@ becksbyte.
 Abbas-57.
 DimpleShaik.
 JorgeGRC.
+KUSHAL1912.
 mskoddow.
 QI-XING.
 Maheshkh9738.
-Rajat32-op.
 
 **Other contributors:**
+Rajat32-op.
 Sushmakothagattu.
 ewatch.
 AAladeen.
@@ -288,7 +289,6 @@ anjimuvva.
 bgrk005.
 harishkSN.
 KrishChothani.
-KUSHAL1912.
 surajnikam111.
 andrey-verevkin.
 DavidMarcial.
@@ -952,6 +952,7 @@ wiresgit.
 yourepicservices.
 ChecksumFailed.
 DimpleShaik.
+KUSHAL1912.
 markroethof.
 SNProductOwner.
 TechnologistTim.
@@ -984,7 +985,6 @@ DhanushNehru.
 harishkSN.
 jesalynrose.
 KrishChothani.
-KUSHAL1912.
 Ladirinia.
 miracc.
 MiroslawBuszek.
