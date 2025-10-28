@@ -291,6 +291,7 @@ KrishChothani.
 KUSHAL1912.
 surajnikam111.
 andrey-verevkin.
+DavidMarcial.
 durgeshservicenow-hub.
 sa173199.
 sandeepd26.
@@ -324,7 +325,6 @@ AnithaA09.
 AyanAhmedKhan.
 CODEBRAKERBOYY.
 daramcdonald96-ops.
-DavidMarcial.
 harshal045.
 Naman-Vasudev.
 nehatalha725.
@@ -748,6 +748,7 @@ zakir8992.
 RaviGaurav007.
 Sriharsha19.
 manrick.
+DavidMarcial.
 hafsa-asif.
 juhikumarimodi6.
 ovarn.
@@ -765,9 +766,9 @@ jonahpiascik.
 kylburns89.
 satya2025sahoo.
 aishar563.
-BEASTSHRIRAM.
 
 **Top 25% contributors:**
+BEASTSHRIRAM.
 bhavyaa30.
 danr2c2.
 keshava-palisetti.
@@ -775,7 +776,6 @@ Litwilly.
 MRSinghRajat.
 oasif.
 stefanintech.
-DavidMarcial.
 soerenmaucher.
 Adil404.
 avssrikanth.
