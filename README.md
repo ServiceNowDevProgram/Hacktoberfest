@@ -256,7 +256,6 @@ spnegi.
 LakshmiChaitanyaReddy.
 Sushmakothagattu.
 AnandMahajan2799.
-bgrk005.
 bkb68.
 dvn-lazywinner.
 isaac-vicentini.
@@ -267,6 +266,7 @@ HackoDev1530.
 Rajasree2004.
 tab22.
 alkaChaudhary73.
+bgrk005.
 QI-XING.
 SachinNarayanasamy.
 stefanintech.
@@ -690,12 +690,11 @@ spnegi.
 JonSandoval.
 Radhe-Manasa.
 Charanjet.
-bgrk005.
 bharakm.
 stevezero.
+sychi77.
 
 **Top 10% contributors:**
-sychi77.
 ronaldkarim.
 sivamuruganandam-coder.
 azeezgaa.
@@ -703,6 +702,7 @@ brenduh.
 deepak-64742.
 QI-XING.
 salma-93.
+bgrk005.
 rafzk.
 anillande90.
 ayleeandersen.
