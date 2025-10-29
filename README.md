@@ -212,6 +212,7 @@ lauri457.
 afislonge.
 Aish18-96.
 chetnadev.
+DimpleShaik.
 JohanDC-1999.
 kayoeservicenow.
 SumithThota.
@@ -230,13 +231,12 @@ ahmadibitoye.
 animeshdasgit.
 Charanjet.
 chaytarak.
-Cheeny26.
 
 **Top 50% contributors:**
+Cheeny26.
 DanielMadsenDK.
 debendu-das.
 DhruvBhatheja.
-DimpleShaik.
 GHSayak25.
 himanshu7895.
 Jmyekn1123.
@@ -794,6 +794,7 @@ sumanth1710.
 afislonge.
 Aish18-96.
 davidkwhuang.
+DimpleShaik.
 JohanDC-1999.
 kayoeservicenow.
 mandeepkaran.
@@ -828,7 +829,6 @@ unbirthdays.
 ahmadibitoye.
 Cheeny26.
 DhruvBhatheja.
-DimpleShaik.
 GHSayak25.
 hoederath.
 Jmyekn1123.
