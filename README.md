@@ -284,6 +284,7 @@ Maheshkh9738.
 Rajat32-op.
 
 **Other contributors:**
+Suri123789.
 ewatch.
 AAladeen.
 bgrk005.
@@ -296,7 +297,6 @@ durgeshservicenow-hub.
 sa173199.
 sandeepd26.
 sudhanshu-raj.
-Suri123789.
 trupti65.
 Dhruvyadav2000.
 mandeepkaran.
@@ -774,6 +774,7 @@ kylburns89.
 satya2025sahoo.
 
 **Top 25% contributors:**
+Suri123789.
 trimbakeshmadhan-109.
 aishar563.
 BEASTSHRIRAM.
@@ -802,7 +803,6 @@ JohanDC-1999.
 kayoeservicenow.
 mandeepkaran.
 SumithThota.
-Suri123789.
 zahidask.
 DynamiteC.
 franks883.
