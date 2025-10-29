@@ -231,9 +231,9 @@ ahmadibitoye.
 animeshdasgit.
 Charanjet.
 Cheeny26.
+DanielMadsenDK.
 
 **Top 50% contributors:**
-DanielMadsenDK.
 debendu-das.
 DhruvBhatheja.
 GHSayak25.
@@ -280,9 +280,9 @@ JorgeGRC.
 KUSHAL1912.
 mskoddow.
 QI-XING.
+Maheshkh9738.
 
 **Other contributors:**
-Maheshkh9738.
 Rajat32-op.
 ewatch.
 AAladeen.
@@ -456,6 +456,7 @@ Girishbari.
 gnaneshreddyy.
 Govind1982.
 Gowtham2801031902.
+gowthamiavasani.
 GTKsnow.
 Gungunchauraisa.
 Gurkunwar-Singh.
@@ -768,9 +769,9 @@ sravankadudhuri.
 DimpleShaik.
 jonahpiascik.
 kylburns89.
+satya2025sahoo.
 
 **Top 25% contributors:**
-satya2025sahoo.
 trimbakeshmadhan-109.
 aishar563.
 BEASTSHRIRAM.
@@ -1612,6 +1613,7 @@ golu833.
 GouthamSG.
 Govind1982.
 Gowtham2801031902.
+gowthamiavasani.
 Gowthammadhusuthanan067.
 GP-UOB.
 greenc123.
