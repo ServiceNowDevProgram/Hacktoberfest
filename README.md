@@ -280,15 +280,15 @@ becksbyte.
 KUSHAL1912.
 Sushmakothagattu.
 Abbas-57.
+bgrk005.
 JorgeGRC.
-mskoddow.
 
 **Other contributors:**
+mskoddow.
 DavidMarcial.
 Rajat32-op.
 ewatch.
 AAladeen.
-bgrk005.
 harishkSN.
 KrishChothani.
 surajnikam111.
@@ -714,6 +714,7 @@ MrChrisE.
 mskoddow.
 selvarun-umass.
 vandna07.
+bgrk005.
 captainbraddles.
 isaac-vicentini.
 abhrajyotikanrar.
@@ -726,7 +727,6 @@ Dhruvyadav2000.
 Irston.
 ohadoweregchimereobim-byte.
 chaitaliKundu.
-bgrk005.
 Harshuu870.
 litwi1rm.
 mak1A4.
