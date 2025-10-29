@@ -152,8 +152,8 @@ Paulsylo25.
 ChaseMillers.
 wiz0floyd.
 koratalas.
-NowSharif.
 kmxo.
+NowSharif.
 bird-03.
 Soumyadeep10.
 NavyasreeBolleboyana.
@@ -188,7 +188,6 @@ jiteshmalik.
 JonSandoval.
 RaviGaurav007.
 Sriharsha19.
-trimbakeshmadhan-109.
 VaishnaviLathkar98.
 pratap360.
 anurampalli.
@@ -202,6 +201,7 @@ anveshmupparaju.
 brenduh.
 GokulkumarV.
 satya2025sahoo.
+trimbakeshmadhan-109.
 aishar563.
 BEASTSHRIRAM.
 bhavyaa30.
@@ -759,7 +759,6 @@ dvn-lazywinner.
 Munnisona.
 RaviGaurav007.
 Sriharsha19.
-trimbakeshmadhan-109.
 manrick.
 hafsa-asif.
 juhikumarimodi6.
@@ -774,11 +773,12 @@ naveensnow.
 pallipoina92.
 sheikhafsarzap.
 sravankadudhuri.
+jonahpiascik.
 
 **Top 25% contributors:**
-jonahpiascik.
 kylburns89.
 satya2025sahoo.
+trimbakeshmadhan-109.
 aishar563.
 BEASTSHRIRAM.
 bhavyaa30.
