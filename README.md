@@ -281,9 +281,9 @@ JorgeGRC.
 mskoddow.
 QI-XING.
 Maheshkh9738.
+Rajat32-op.
 
 **Other contributors:**
-Rajat32-op.
 ewatch.
 AAladeen.
 bgrk005.
@@ -464,6 +464,7 @@ Gurkunwar-Singh.
 Hacker7766.
 han-le.
 hardik2109.
+harishbaislaawc2022-sketch.
 Hemant9993.
 hidipen.
 HimanshuSalunke.
@@ -930,9 +931,9 @@ anubhav-ritolia.
 apple9000.
 ashvin2005.
 briangodfreydev.
+GauthamBellamkonda.
 
 **Top 50% contributors:**
-GauthamBellamkonda.
 Khasim-63993.
 odinsride.
 piyusalunke123.
@@ -1090,9 +1091,9 @@ devalcodes.
 dhruvii-powershell.
 dorsy99.
 ezratkim.
+harshal045.
 
 **Other contributors:**
-harshal045.
 HarshMN2345.
 hmadhsan.
 iamvpbhaskar.
@@ -1630,6 +1631,7 @@ Hanan-Ashraf.
 HannaGilbertson.
 hardik2109.
 hardikvyasji.
+harishbaislaawc2022-sketch.
 Harshthakur1825.
 Hasanul-Banna-Himel.
 Hashir524.
