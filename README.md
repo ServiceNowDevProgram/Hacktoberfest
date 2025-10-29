@@ -265,6 +265,7 @@ HackoDev1530.
 Rajasree2004.
 tab22.
 alkaChaudhary73.
+anjimuvva.
 QI-XING.
 SachinNarayanasamy.
 stefanintech.
@@ -279,7 +280,6 @@ becksbyte.
 KUSHAL1912.
 Sushmakothagattu.
 Abbas-57.
-anjimuvva.
 JorgeGRC.
 mskoddow.
 
@@ -918,6 +918,7 @@ Srikanth1306.
 tab22.
 TVani5.
 adarshsingh0205.
+anjimuvva.
 annaydas.
 goranlundqvist.
 Hamritha0506.
@@ -931,9 +932,9 @@ allenandreas.
 anubhav-ritolia.
 apple9000.
 ashvin2005.
-briangodfreydev.
 
 **Top 50% contributors:**
+briangodfreydev.
 GauthamBellamkonda.
 Khasim-63993.
 odinsride.
@@ -959,7 +960,6 @@ Sagar-agarwal.
 Sushmakothagattu.
 wiresgit.
 yourepicservices.
-anjimuvva.
 ChecksumFailed.
 markroethof.
 SNProductOwner.
