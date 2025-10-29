@@ -230,10 +230,11 @@ sanjaykumar3sn.
 ahmadibitoye.
 animeshdasgit.
 Charanjet.
+chaytarak.
 Cheeny26.
-DanielMadsenDK.
 
 **Top 50% contributors:**
+DanielMadsenDK.
 debendu-das.
 DhruvBhatheja.
 GHSayak25.
@@ -252,7 +253,6 @@ spnegi.
 LakshmiChaitanyaReddy.
 AnandMahajan2799.
 bkb68.
-chaytarak.
 dvn-lazywinner.
 isaac-vicentini.
 mitalizope.
@@ -807,6 +807,7 @@ samisthapur.
 shakeel-sheikh.
 vjtknn.
 Yokesh0811.
+chaytarak.
 mady22070.
 MarcMouries.
 sn-ajb.
@@ -851,7 +852,6 @@ sdgrube2.
 wendy-ha18.
 AdilBasha1SAP.
 bradtiltonnow.
-chaytarak.
 pradeepthipani.
 Vish-X07.
 1shabby.
