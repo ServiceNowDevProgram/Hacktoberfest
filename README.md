@@ -270,6 +270,7 @@ stefanintech.
 sumanth1710.
 1shabby.
 ashvin2005.
+Maheshkh9738.
 at8807602.
 Thrizvi.
 ShuGitHub2022.
@@ -281,10 +282,9 @@ Abbas-57.
 anjimuvva.
 JorgeGRC.
 mskoddow.
-DavidMarcial.
 
 **Other contributors:**
-Maheshkh9738.
+DavidMarcial.
 Rajat32-op.
 ewatch.
 AAladeen.
@@ -935,6 +935,7 @@ GauthamBellamkonda.
 
 **Top 50% contributors:**
 Khasim-63993.
+Maheshkh9738.
 odinsride.
 piyusalunke123.
 rene-el.
@@ -966,7 +967,6 @@ TechnologistTim.
 anguspalmer.
 Badal2k23.
 bhavyajain511.
-Maheshkh9738.
 naveenraw25.
 NBaker137.
 patan116.
