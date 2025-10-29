@@ -162,8 +162,8 @@ ivan-betev.
 **Top 10% contributors:**
 MYaswanth28.
 bharakm.
-sivamuruganandam-coder.
 shreyawani98.
+sivamuruganandam-coder.
 sumanthdosapati.
 TechTrekwithAJ.
 AdaOkoye-coder.
@@ -653,8 +653,8 @@ ChaseMillers.
 MYaswanth28.
 ashoo-jindal.
 Soumyadeep10.
-amigujarathi.
 shreyawani98.
+amigujarathi.
 gowdah.
 RahmanM.
 prashantmrshine.
