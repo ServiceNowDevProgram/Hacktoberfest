@@ -279,9 +279,9 @@ KUSHAL1912.
 mskoddow.
 QI-XING.
 Rajat32-op.
+Sushmakothagattu.
 
 **Other contributors:**
-Sushmakothagattu.
 ewatch.
 AAladeen.
 anjimuvva.
@@ -571,6 +571,7 @@ Sireesha-kante.
 Smoothengineer.
 snehapotadar1-bot.
 SoftSage07.
+Soumya123Mishra.
 Southpaw09.
 stallcounter.
 stescaster.
@@ -925,9 +926,9 @@ anubhav-ritolia.
 apple9000.
 ashvin2005.
 briangodfreydev.
+GauthamBellamkonda.
 
 **Top 50% contributors:**
-GauthamBellamkonda.
 Khasim-63993.
 odinsride.
 piyusalunke123.
@@ -1085,9 +1086,9 @@ demetris7.
 devalcodes.
 dhruvii-powershell.
 dorsy99.
+ezratkim.
 
 **Other contributors:**
-ezratkim.
 harshal045.
 HarshMN2345.
 hmadhsan.
@@ -2054,6 +2055,7 @@ somjyotisinha.
 somusekher.
 Sookeyy-12.
 Soulpancake000.
+Soumya123Mishra.
 Souradeephazra123.
 srirampusuluri1.
 srramanujam.
