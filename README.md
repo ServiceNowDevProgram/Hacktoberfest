@@ -259,6 +259,7 @@ dvn-lazywinner.
 isaac-vicentini.
 mitalizope.
 srikanthroyal932-cmyk.
+Maheshkh9738.
 Suri123789.
 HackoDev1530.
 Rajasree2004.
@@ -270,7 +271,6 @@ stefanintech.
 sumanth1710.
 1shabby.
 ashvin2005.
-Maheshkh9738.
 at8807602.
 Thrizvi.
 ShuGitHub2022.
@@ -893,6 +893,7 @@ vamsi0777.
 HackoDev1530.
 HarshLMP870.
 Himanshu-skb-oo7.
+Maheshkh9738.
 mmaraj1.
 nowitsvashu.
 sanjivmeher.
@@ -931,11 +932,10 @@ anubhav-ritolia.
 apple9000.
 ashvin2005.
 briangodfreydev.
-GauthamBellamkonda.
 
 **Top 50% contributors:**
+GauthamBellamkonda.
 Khasim-63993.
-Maheshkh9738.
 odinsride.
 piyusalunke123.
 rene-el.
