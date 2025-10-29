@@ -264,6 +264,7 @@ HackoDev1530.
 Rajasree2004.
 tab22.
 alkaChaudhary73.
+QI-XING.
 SachinNarayanasamy.
 stefanintech.
 sumanth1710.
@@ -280,7 +281,6 @@ Abbas-57.
 anjimuvva.
 JorgeGRC.
 mskoddow.
-QI-XING.
 Maheshkh9738.
 
 **Other contributors:**
@@ -698,6 +698,7 @@ sivamuruganandam-coder.
 azeezgaa.
 brenduh.
 deepak-64742.
+QI-XING.
 salma-93.
 rafzk.
 anillande90.
@@ -710,7 +711,6 @@ YTejaswini18.
 BadalHub.
 MrChrisE.
 mskoddow.
-QI-XING.
 selvarun-umass.
 vandna07.
 captainbraddles.
