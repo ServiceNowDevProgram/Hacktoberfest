@@ -268,6 +268,7 @@ stefanintech.
 sumanth1710.
 1shabby.
 ashvin2005.
+Suri123789.
 at8807602.
 Thrizvi.
 ShuGitHub2022.
@@ -281,10 +282,9 @@ JorgeGRC.
 mskoddow.
 QI-XING.
 Maheshkh9738.
-Rajat32-op.
 
 **Other contributors:**
-Suri123789.
+Rajat32-op.
 ewatch.
 AAladeen.
 bgrk005.
@@ -753,6 +753,7 @@ dvn-lazywinner.
 Munnisona.
 RaviGaurav007.
 Sriharsha19.
+Suri123789.
 manrick.
 DavidMarcial.
 hafsa-asif.
@@ -771,10 +772,9 @@ sravankadudhuri.
 DimpleShaik.
 jonahpiascik.
 kylburns89.
-satya2025sahoo.
 
 **Top 25% contributors:**
-Suri123789.
+satya2025sahoo.
 trimbakeshmadhan-109.
 aishar563.
 BEASTSHRIRAM.
