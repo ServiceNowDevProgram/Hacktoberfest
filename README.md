@@ -349,6 +349,7 @@ deepatservicenow-debug.
 delphiniumbee.
 Nayanika-Acharjee.
 phegel.
+ritoban23.
 ServiceNowDevProgram.
 Siri-007.
 Uma20-dev.
@@ -382,7 +383,6 @@ rashmi269.
 razorblack.
 risavrakshit.
 rishanmenezes.
-ritoban23.
 sahilsanap101.
 sarthakjalan05.
 SavedByTheVine.
@@ -1204,6 +1204,7 @@ outlivo.
 Pari-3.
 phegel.
 Piyushsahu99.
+ritoban23.
 saketh-22.
 SavedByTheVine.
 Siri-007.
@@ -1312,7 +1313,6 @@ razorblack.
 rickylarsson.
 risavrakshit.
 rishanmenezes.
-ritoban23.
 ron-karim.
 roshanServiceNow.
 RoshanSingh04.
