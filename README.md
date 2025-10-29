@@ -263,6 +263,7 @@ srikanthroyal932-cmyk.
 Suri123789.
 HackoDev1530.
 Rajasree2004.
+Sushmakothagattu.
 tab22.
 alkaChaudhary73.
 anjimuvva.
@@ -278,7 +279,6 @@ ShuGitHub2022.
 TinkerTechie.
 becksbyte.
 KUSHAL1912.
-Sushmakothagattu.
 Abbas-57.
 bgrk005.
 JorgeGRC.
@@ -916,6 +916,7 @@ jahnaviT2003.
 Rajasree2004.
 RaunakScarlet.
 Srikanth1306.
+Sushmakothagattu.
 tab22.
 TVani5.
 adarshsingh0205.
@@ -932,9 +933,9 @@ SachinNarayanasamy.
 allenandreas.
 anubhav-ritolia.
 apple9000.
-ashvin2005.
 
 **Top 50% contributors:**
+ashvin2005.
 briangodfreydev.
 GauthamBellamkonda.
 Khasim-63993.
@@ -958,7 +959,6 @@ JorgeGRC.
 kumarinisha378.
 KUSHAL1912.
 Sagar-agarwal.
-Sushmakothagattu.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
