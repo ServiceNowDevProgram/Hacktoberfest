@@ -302,6 +302,7 @@ puteushede-rgb.
 sa173199.
 sandeepd26.
 sudhanshu-raj.
+SwamyMA.
 trupti65.
 Dhruvyadav2000.
 mandeepkaran.
@@ -342,7 +343,6 @@ selvarun-umass.
 Shashank0701-byte.
 Siddhartha03D.
 SinghCod3r.
-SwamyMA.
 bhavishyavelaga.
 kmohit2809.
 mitkarisunil.
@@ -1028,6 +1028,7 @@ Ratheshan03.
 sa173199.
 Sallu77.
 sudhanshu-raj.
+SwamyMA.
 tanu-profile.
 Thanai14.
 TheTreyKyle.
@@ -1101,9 +1102,9 @@ DaleD-SN.
 daramcdonald96-ops.
 deathkraiser.
 demetris7.
-devalcodes.
 
 **Other contributors:**
+devalcodes.
 dhruvii-powershell.
 dorsy99.
 ezratkim.
@@ -1158,7 +1159,6 @@ SinghCod3r.
 speedy18.
 Sravanik12.
 Subhraneel77.
-SwamyMA.
 TheRashRash.
 thomasvogh.
 tomlozano.
