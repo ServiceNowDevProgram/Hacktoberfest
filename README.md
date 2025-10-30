@@ -273,6 +273,7 @@ stefanintech.
 sumanth1710.
 1shabby.
 ashvin2005.
+DavidMarcial.
 at8807602.
 Thrizvi.
 ShuGitHub2022.
@@ -282,7 +283,6 @@ KUSHAL1912.
 Abbas-57.
 JorgeGRC.
 mskoddow.
-DavidMarcial.
 
 **Other contributors:**
 Rajat32-op.
@@ -731,6 +731,7 @@ PranavBhagat18.
 Dhruvyadav2000.
 Irston.
 chaitaliKundu.
+DavidMarcial.
 Harshuu870.
 litwi1rm.
 mak1A4.
@@ -750,7 +751,6 @@ aatrey882.
 NayeemKaka.
 salmaniqbal92.
 ChandBasha-code.
-DavidMarcial.
 mohitchauhan-dev.
 mr-swann.
 abhix2112.
