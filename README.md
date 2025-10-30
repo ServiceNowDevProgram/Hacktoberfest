@@ -229,12 +229,13 @@ divyajetti9.
 hakinadey.
 iamshankha.
 sanjaykumar3sn.
+Sushmakothagattu.
 ahmadibitoye.
 animeshdasgit.
 Charanjet.
-chaytarak.
 
 **Top 50% contributors:**
+chaytarak.
 Cheeny26.
 DanielMadsenDK.
 debendu-das.
@@ -256,7 +257,6 @@ prudvi-sai-posetty.
 spnegi.
 LakshmiChaitanyaReddy.
 Rajasree2004.
-Sushmakothagattu.
 AnandMahajan2799.
 bkb68.
 dvn-lazywinner.
@@ -833,6 +833,7 @@ iamshankha.
 prash5595.
 priyasnexpert.
 sanjaykumar3sn.
+Sushmakothagattu.
 thejasr110.
 unbirthdays.
 ahmadibitoye.
@@ -878,7 +879,6 @@ llipovsky.
 prynacshrma.
 Rajasree2004.
 seviceN.
-Sushmakothagattu.
 tejudhoran95.
 vasantharaja-natarajan.
 amoore-coder.
