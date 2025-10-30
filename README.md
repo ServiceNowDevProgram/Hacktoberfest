@@ -284,9 +284,9 @@ KUSHAL1912.
 Abbas-57.
 JorgeGRC.
 mskoddow.
+Rajat32-op.
 
 **Other contributors:**
-Rajat32-op.
 Suri123789.
 ewatch.
 knightmarshal.
@@ -422,6 +422,7 @@ AlfrinAJ.
 AmalBajpayee09.
 amandasiriwardane.
 Amitkumar012.
+aniketchavan-blip.
 AniketSonje.
 anilpal678.
 anirudh7065.
@@ -698,9 +699,9 @@ Charanjet.
 QI-XING.
 bharakm.
 stevezero.
+sychi77.
 
 **Top 10% contributors:**
-sychi77.
 ronaldkarim.
 sivamuruganandam-coder.
 zakir8992.
@@ -779,9 +780,9 @@ naveensnow.
 pallipoina92.
 sheikhafsarzap.
 sravankadudhuri.
+jonahpiascik.
 
 **Top 25% contributors:**
-jonahpiascik.
 kylburns89.
 satya2025sahoo.
 Suri123789.
@@ -1100,10 +1101,10 @@ deathkraiser.
 demetris7.
 devalcodes.
 dhruvii-powershell.
-dorsy99.
-ezratkim.
 
 **Other contributors:**
+dorsy99.
+ezratkim.
 harishbaislaawc2022-sketch.
 harshal045.
 HarshMN2345.
@@ -1425,6 +1426,7 @@ andreneris.
 andy1717.
 andyops.
 aneesh-pathanadathil.
+aniketchavan-blip.
 AniketSonje.
 anilpal678.
 anirudh7065.
