@@ -321,6 +321,7 @@ Gorav-Sharma.
 kishoretk92.
 pankajrj.
 poojithavalli22.
+shwetasingh14.
 Surekha232.
 SwapnaAbburi.
 TejasSNOW.
@@ -393,7 +394,6 @@ sahilsanap101.
 sarthakjalan05.
 SavedByTheVine.
 shivambitanwar-glitch.
-shwetasingh14.
 Shweyy123.
 silky-modi22.
 slytechiefrommagentashore.
@@ -1071,6 +1071,7 @@ pankajrj.
 poojithavalli22.
 RagaChitraMankala.
 ShakthiSn.
+shwetasingh14.
 Surekha232.
 SwapnaAbburi.
 tejasathalye.
@@ -1103,9 +1104,9 @@ DaleD-SN.
 daramcdonald96-ops.
 deathkraiser.
 demetris7.
-devalcodes.
 
 **Other contributors:**
+devalcodes.
 dhruvii-powershell.
 dorsy99.
 ezratkim.
@@ -1336,7 +1337,6 @@ sankar-coder.
 sarthakjalan05.
 shivambitanwar-glitch.
 Shriramjoshi86.
-shwetasingh14.
 Shweyy123.
 silky-modi22.
 sivajyo0803.
