@@ -261,13 +261,13 @@ bkb68.
 dvn-lazywinner.
 isaac-vicentini.
 mitalizope.
+QI-XING.
 HackoDev1530.
 Rajasree2004.
 tab22.
 alkaChaudhary73.
 anjimuvva.
 bgrk005.
-QI-XING.
 SachinNarayanasamy.
 stefanintech.
 sumanth1710.
@@ -694,18 +694,18 @@ spnegi.
 JonSandoval.
 Radhe-Manasa.
 Charanjet.
+QI-XING.
 bharakm.
 stevezero.
-sychi77.
 
 **Top 10% contributors:**
+sychi77.
 ronaldkarim.
 sivamuruganandam-coder.
 azeezgaa.
 brenduh.
 deepak-64742.
 ohadoweregchimereobim-byte.
-QI-XING.
 salma-93.
 bgrk005.
 rafzk.
