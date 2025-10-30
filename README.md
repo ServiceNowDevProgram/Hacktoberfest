@@ -226,6 +226,7 @@ samisthapur.
 SrijanPatwa.
 chaitaliKundu.
 d-sharmagit.
+DavidMarcial.
 divyajetti9.
 hakinadey.
 iamshankha.
@@ -233,13 +234,12 @@ sanjaykumar3sn.
 Sushmakothagattu.
 ahmadibitoye.
 animeshdasgit.
-Charanjet.
 
 **Top 50% contributors:**
+Charanjet.
 chaytarak.
 Cheeny26.
 DanielMadsenDK.
-DavidMarcial.
 debendu-das.
 DhruvBhatheja.
 GHSayak25.
@@ -704,8 +704,8 @@ sychi77.
 ronaldkarim.
 sivamuruganandam-coder.
 azeezgaa.
-brenduh.
 DavidMarcial.
+brenduh.
 deepak-64742.
 ohadoweregchimereobim-byte.
 salma-93.
