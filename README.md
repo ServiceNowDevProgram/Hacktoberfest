@@ -234,9 +234,9 @@ iamshankha.
 sanjaykumar3sn.
 ahmadibitoye.
 animeshdasgit.
+Charanjet.
 
 **Top 50% contributors:**
-Charanjet.
 chaytarak.
 Cheeny26.
 DanielMadsenDK.
@@ -285,9 +285,9 @@ Abbas-57.
 JorgeGRC.
 mskoddow.
 aniketchavan-blip.
+Rajat32-op.
 
 **Other contributors:**
-Rajat32-op.
 Suri123789.
 ewatch.
 knightmarshal.
@@ -580,6 +580,7 @@ Shrutika10-sys.
 Shubham11440.
 Shubhgoyal-1.
 shubsolos19.
+shwetasingh14.
 Sireesha-kante.
 Smoothengineer.
 snehapotadar1-bot.
@@ -1102,9 +1103,9 @@ DaleD-SN.
 daramcdonald96-ops.
 deathkraiser.
 demetris7.
+devalcodes.
 
 **Other contributors:**
-devalcodes.
 dhruvii-powershell.
 dorsy99.
 ezratkim.
@@ -2061,6 +2062,7 @@ Shubham11440.
 Shubham2227.
 Shubhgoyal-1.
 shubsolos19.
+shwetasingh14.
 simt0m.
 singhaditya73.
 SinNaveen.
