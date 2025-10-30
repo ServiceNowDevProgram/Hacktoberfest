@@ -233,9 +233,9 @@ Sushmakothagattu.
 ahmadibitoye.
 animeshdasgit.
 Charanjet.
+chaytarak.
 
 **Top 50% contributors:**
-chaytarak.
 Cheeny26.
 DanielMadsenDK.
 debendu-das.
@@ -283,9 +283,9 @@ KUSHAL1912.
 Abbas-57.
 JorgeGRC.
 mskoddow.
+Rajat32-op.
 
 **Other contributors:**
-Rajat32-op.
 Suri123789.
 ewatch.
 AAladeen.
@@ -530,6 +530,7 @@ praveen8808.
 prithvihn.
 priyasnexpert.
 probablyAdi.
+puteushede-rgb.
 r9t6bjfsvf-oss.
 Radhika-Uppula.
 rafak9.
@@ -1099,9 +1100,9 @@ dhruvii-powershell.
 dorsy99.
 ezratkim.
 harishbaislaawc2022-sketch.
+harshal045.
 
 **Other contributors:**
-harshal045.
 HarshMN2345.
 hmadhsan.
 iamvpbhaskar.
@@ -1934,6 +1935,7 @@ ptupe.
 pujitakonjety.
 pupchenko.
 purplemanchris.
+puteushede-rgb.
 PyansiSuman.
 pysanders.
 r1990v.
