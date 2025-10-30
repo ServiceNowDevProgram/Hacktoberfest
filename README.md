@@ -324,7 +324,6 @@ Abhishek2634.
 AdityaBala2026.
 AnithaA09.
 AyanAhmedKhan.
-bitflicker64.
 CODEBRAKERBOYY.
 daramcdonald96-ops.
 harishbaislaawc2022-sketch.
@@ -440,6 +439,7 @@ Ayush-216.
 Azazelxo0.
 Bharathkogilamane274.
 bhavani-konda.
+bitflicker64.
 brunoasantos.
 captainbraddles.
 ChiragBotkawar.
@@ -1083,7 +1083,6 @@ ashleysnyder.
 Avinash238.
 AyanAhmedKhan.
 bhavishyavelaga.
-bitflicker64.
 brichards99.
 ChndrshP.
 Chouffy.
@@ -1098,9 +1097,9 @@ dhruvii-powershell.
 dorsy99.
 ezratkim.
 harishbaislaawc2022-sketch.
+harshal045.
 
 **Other contributors:**
-harshal045.
 HarshMN2345.
 hmadhsan.
 iamvpbhaskar.
@@ -1487,6 +1486,7 @@ BhavishyaA516.
 Bidexdablitz.
 Bigshmow.
 billyperkinsukg.
+bitflicker64.
 bjmfransen.
 blindaks.
 bmfmancini.
