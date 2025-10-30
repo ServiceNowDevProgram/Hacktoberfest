@@ -234,9 +234,10 @@ iamshankha.
 sanjaykumar3sn.
 ahmadibitoye.
 animeshdasgit.
-Charanjet.
+bgrk005.
 
 **Top 50% contributors:**
+Charanjet.
 chaytarak.
 Cheeny26.
 DanielMadsenDK.
@@ -261,7 +262,6 @@ prudvi-sai-posetty.
 spnegi.
 LakshmiChaitanyaReddy.
 AnandMahajan2799.
-bgrk005.
 bkb68.
 dvn-lazywinner.
 mitalizope.
@@ -694,12 +694,12 @@ NavyasreeBolleboyana.
 urspvs.
 ankitshu.
 QI-XING.
+bgrk005.
 bkb68.
 spnegi.
 JonSandoval.
 Radhe-Manasa.
 Charanjet.
-bgrk005.
 bharakm.
 stevezero.
 
