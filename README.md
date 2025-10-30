@@ -307,6 +307,7 @@ LItuD.
 srishtinsaan.
 varshh-ds.
 deepatservicenow-debug.
+knightmarshal.
 404paige.
 AmrutaKR007.
 Cheeny09.
@@ -348,7 +349,6 @@ Anudhyan.
 eriemer1.
 prataps135.
 delphiniumbee.
-knightmarshal.
 Nayanika-Acharjee.
 phegel.
 ritoban23.
@@ -1044,6 +1044,7 @@ chris-canto-11.
 deepatservicenow-debug.
 furquan5.
 harditsingh88.
+knightmarshal.
 praisetoyt.
 puneet94.
 pviglianti.
@@ -1101,9 +1102,9 @@ dhruvii-powershell.
 dorsy99.
 ezratkim.
 harishbaislaawc2022-sketch.
-harshal045.
 
 **Other contributors:**
+harshal045.
 HarshMN2345.
 hmadhsan.
 iamvpbhaskar.
@@ -1200,7 +1201,6 @@ geekshreya.
 harishkm6689.
 jaz1gdev.
 joshuatechie.
-knightmarshal.
 Krishnakant-iv.
 Litaflom.
 lverbeke.
