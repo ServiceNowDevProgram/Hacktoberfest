@@ -161,12 +161,12 @@ ivan-betev.
 
 **Top 10% contributors:**
 MYaswanth28.
+ohadoweregchimereobim-byte.
 shreyawani98.
 bharakm.
 sivamuruganandam-coder.
 zakir8992.
 sumanthdosapati.
-ohadoweregchimereobim-byte.
 TechTrekwithAJ.
 prashantmrshine.
 AdaOkoye-coder.
@@ -702,11 +702,12 @@ bkb68.
 spnegi.
 JonSandoval.
 Radhe-Manasa.
+ohadoweregchimereobim-byte.
 Charanjet.
 bharakm.
-stevezero.
 
 **Top 10% contributors:**
+stevezero.
 sychi77.
 ronaldkarim.
 sivamuruganandam-coder.
@@ -715,7 +716,6 @@ azeezgaa.
 DavidMarcial.
 brenduh.
 deepak-64742.
-ohadoweregchimereobim-byte.
 salma-93.
 isaac-vicentini.
 rafzk.
