@@ -218,6 +218,7 @@ chetnadev.
 JohanDC-1999.
 kayoeservicenow.
 SumithThota.
+AnithaA09.
 franks883.
 gowdah.
 S-w-a-p-n-i-l-22.
@@ -233,9 +234,9 @@ Sushmakothagattu.
 ahmadibitoye.
 animeshdasgit.
 Charanjet.
-chaytarak.
 
 **Top 50% contributors:**
+chaytarak.
 Cheeny26.
 DanielMadsenDK.
 debendu-das.
@@ -248,7 +249,6 @@ LaxmanKukunooru.
 Priscilladevtech.
 RaghavBCarvana.
 abdulsalamnafisat59-rgb.
-AnithaA09.
 ayorindeoluwayemi-coder.
 Harshuu870.
 Kart-19.
@@ -728,6 +728,7 @@ captainbraddles.
 isaac-vicentini.
 abhrajyotikanrar.
 AdaOkoye-coder.
+AnithaA09.
 chiemeriechibuzor.
 csharpie.
 Danmax.
@@ -745,7 +746,6 @@ lakshmikanthgupta.
 mlemartien.
 riya-misra-1.
 S-w-a-p-n-i-l-22.
-AnithaA09.
 DimpleShaik.
 hentonjd.
 Indra-kolge.
