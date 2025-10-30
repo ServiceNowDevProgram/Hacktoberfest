@@ -294,7 +294,6 @@ KrishChothani.
 surajnikam111.
 andrey-verevkin.
 durgeshservicenow-hub.
-Nisha-admin.
 sa173199.
 sandeepd26.
 sudhanshu-raj.
@@ -330,6 +329,7 @@ harishbaislaawc2022-sketch.
 harshal045.
 Naman-Vasudev.
 nehatalha725.
+Nisha-admin.
 prakritimallick1308.
 PranavTamada.
 Pratyush2240.
@@ -1011,7 +1011,6 @@ LucasRocha2308.
 Mahesh-Krishnan1.
 maialithar.
 MihirRathod.
-Nisha-admin.
 preshitd.
 prithvibalakka.
 Ratheshan03.
@@ -1096,9 +1095,9 @@ dhruvii-powershell.
 dorsy99.
 ezratkim.
 harishbaislaawc2022-sketch.
+harshal045.
 
 **Other contributors:**
-harshal045.
 HarshMN2345.
 hmadhsan.
 iamvpbhaskar.
@@ -1122,6 +1121,7 @@ mwchiao.
 Naman-Vasudev.
 nehatalha725.
 NilotpalMaitra.
+Nisha-admin.
 pavankumar-4.
 physi.
 prakritimallick1308.
