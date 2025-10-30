@@ -286,9 +286,9 @@ JorgeGRC.
 mskoddow.
 aniketchavan-blip.
 Rajat32-op.
+Suri123789.
 
 **Other contributors:**
-Suri123789.
 ewatch.
 AAladeen.
 Danmax.
@@ -605,6 +605,7 @@ TheNikhilRaj.
 tripathiaman0709.
 tylerhermanabm.
 udaysiddapur.
+uteeokon-dev.
 VA2707.
 vachaspathi6.
 varun1325.
@@ -944,9 +945,9 @@ SachinNarayanasamy.
 allenandreas.
 anubhav-ritolia.
 apple9000.
+ashvin2005.
 
 **Top 50% contributors:**
-ashvin2005.
 briangodfreydev.
 GauthamBellamkonda.
 Khasim-63993.
@@ -1105,9 +1106,9 @@ daramcdonald96-ops.
 deathkraiser.
 demetris7.
 devalcodes.
+dhruvii-powershell.
 
 **Other contributors:**
-dhruvii-powershell.
 dorsy99.
 ezratkim.
 harishbaislaawc2022-sketch.
@@ -2158,6 +2159,7 @@ tylerteter.
 uditjainstjis.
 ujjwalgupta2021.
 umd-dit-servicenow.
+uteeokon-dev.
 utk1725.
 v-agnihotri.
 VA2707.
