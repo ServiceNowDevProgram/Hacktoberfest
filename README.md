@@ -260,6 +260,7 @@ prudvi-sai-posetty.
 spnegi.
 LakshmiChaitanyaReddy.
 AnandMahajan2799.
+bgrk005.
 bkb68.
 dvn-lazywinner.
 mitalizope.
@@ -270,7 +271,6 @@ Rajasree2004.
 tab22.
 alkaChaudhary73.
 anjimuvva.
-bgrk005.
 SachinNarayanasamy.
 stefanintech.
 sumanth1710.
@@ -697,11 +697,12 @@ JonSandoval.
 Radhe-Manasa.
 Charanjet.
 QI-XING.
+bgrk005.
 bharakm.
 stevezero.
-sychi77.
 
 **Top 10% contributors:**
+sychi77.
 ronaldkarim.
 sivamuruganandam-coder.
 zakir8992.
@@ -711,7 +712,6 @@ brenduh.
 deepak-64742.
 ohadoweregchimereobim-byte.
 salma-93.
-bgrk005.
 isaac-vicentini.
 rafzk.
 anillande90.
