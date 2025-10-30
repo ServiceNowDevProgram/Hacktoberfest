@@ -262,6 +262,7 @@ dvn-lazywinner.
 isaac-vicentini.
 mitalizope.
 QI-XING.
+DavidMarcial.
 HackoDev1530.
 Rajasree2004.
 tab22.
@@ -273,7 +274,6 @@ stefanintech.
 sumanth1710.
 1shabby.
 ashvin2005.
-DavidMarcial.
 at8807602.
 Thrizvi.
 ShuGitHub2022.
@@ -719,6 +719,7 @@ animeshdasgit.
 aswamy93.
 YTejaswini18.
 BadalHub.
+DavidMarcial.
 MrChrisE.
 mskoddow.
 selvarun-umass.
@@ -734,7 +735,6 @@ PranavBhagat18.
 Dhruvyadav2000.
 Irston.
 chaitaliKundu.
-DavidMarcial.
 Harshuu870.
 litwi1rm.
 mak1A4.
