@@ -183,9 +183,9 @@ chaitanyalal18.
 ChandBasha-code.
 jiteshmalik.
 JonSandoval.
+RaviGaurav007.
 
 **Top 25% contributors:**
-RaviGaurav007.
 Sriharsha19.
 srikanthroyal932-cmyk.
 VaishnaviLathkar98.
@@ -439,6 +439,7 @@ Ayush-216.
 Azazelxo0.
 Bharathkogilamane274.
 bhavani-konda.
+bitflicker64.
 brunoasantos.
 captainbraddles.
 ChiragBotkawar.
@@ -935,9 +936,9 @@ SachinNarayanasamy.
 allenandreas.
 anubhav-ritolia.
 apple9000.
+ashvin2005.
 
 **Top 50% contributors:**
-ashvin2005.
 briangodfreydev.
 GauthamBellamkonda.
 Khasim-63993.
@@ -1096,9 +1097,9 @@ dorsy99.
 ezratkim.
 harishbaislaawc2022-sketch.
 harshal045.
+HarshMN2345.
 
 **Other contributors:**
-HarshMN2345.
 hmadhsan.
 iamvpbhaskar.
 igrzhukovich.
@@ -1485,6 +1486,7 @@ BhavishyaA516.
 Bidexdablitz.
 Bigshmow.
 billyperkinsukg.
+bitflicker64.
 bjmfransen.
 blindaks.
 bmfmancini.
