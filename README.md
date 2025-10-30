@@ -249,6 +249,7 @@ Jmyekn1123.
 krahul11.
 LaxmanKukunooru.
 Priscilladevtech.
+QI-XING.
 RaghavBCarvana.
 abdulsalamnafisat59-rgb.
 ayorindeoluwayemi-coder.
@@ -264,7 +265,6 @@ bgrk005.
 bkb68.
 dvn-lazywinner.
 mitalizope.
-QI-XING.
 HackoDev1530.
 KUSHAL1912.
 Rajasree2004.
@@ -692,12 +692,12 @@ sndevs-slacker-issue-reporter[bot].
 NavyasreeBolleboyana.
 urspvs.
 ankitshu.
+QI-XING.
 bkb68.
 spnegi.
 JonSandoval.
 Radhe-Manasa.
 Charanjet.
-QI-XING.
 bgrk005.
 bharakm.
 stevezero.
