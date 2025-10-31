@@ -291,12 +291,12 @@ mskoddow.
 Abbas-57.
 
 **Other contributors:**
+anujbaliyan.
 JorgeGRC.
 A1B2C3D4E5F6G7H8I9J0164-hack.
 Rajat32-op.
 ewatch.
 AAladeen.
-anujbaliyan.
 Danmax.
 harishkSN.
 KrishChothani.
@@ -988,6 +988,7 @@ kumarinisha378.
 Sagar-agarwal.
 wiresgit.
 yourepicservices.
+anujbaliyan.
 ChecksumFailed.
 markroethof.
 nvprav.
@@ -1015,7 +1016,6 @@ AAladeen.
 Adiana3308.
 akhoshnood.
 allam1234.
-anujbaliyan.
 Decoder-Paul.
 DhanushNehru.
 harishkSN.
