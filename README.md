@@ -288,13 +288,13 @@ Abbas-57.
 JorgeGRC.
 
 **Other contributors:**
+kishoretk92.
 mskoddow.
 Rajat32-op.
 ewatch.
 AAladeen.
 Danmax.
 harishkSN.
-kishoretk92.
 KrishChothani.
 surajnikam111.
 andrey-verevkin.
@@ -979,6 +979,7 @@ Sagar-agarwal.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
+kishoretk92.
 markroethof.
 SNProductOwner.
 TechnologistTim.
@@ -1007,7 +1008,6 @@ Decoder-Paul.
 DhanushNehru.
 harishkSN.
 jesalynrose.
-kishoretk92.
 KrishChothani.
 Ladirinia.
 miracc.
