@@ -277,6 +277,7 @@ stefanintech.
 sumanth1710.
 1shabby.
 ashvin2005.
+puteushede-rgb.
 SwamyMA.
 uteeokon-dev.
 at8807602.
@@ -287,10 +288,9 @@ becksbyte.
 Abbas-57.
 JorgeGRC.
 kishoretk92.
-mskoddow.
 
 **Other contributors:**
-puteushede-rgb.
+mskoddow.
 Rajat32-op.
 ewatch.
 AAladeen.
@@ -961,6 +961,7 @@ GauthamBellamkonda.
 Khasim-63993.
 odinsride.
 piyusalunke123.
+puteushede-rgb.
 rene-el.
 rmedved84.
 src107.
@@ -993,7 +994,6 @@ bhavyajain511.
 naveenraw25.
 NBaker137.
 patan116.
-puteushede-rgb.
 Rajat32-op.
 revantKulkarni.
 trade12.
