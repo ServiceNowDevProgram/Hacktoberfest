@@ -287,9 +287,9 @@ becksbyte.
 Abbas-57.
 JorgeGRC.
 kishoretk92.
+mskoddow.
 
 **Other contributors:**
-mskoddow.
 puteushede-rgb.
 Rajat32-op.
 ewatch.
@@ -503,6 +503,7 @@ KrushnaliMungekar57.
 kumar9060.
 kunalsinghdadhwal.
 kushalt112.
+lakshmikanthgupta.
 lalit-oli-mohan-479.
 lameloball6741.
 lstrallo.
@@ -751,12 +752,12 @@ Irston.
 NayeemKaka.
 chaitaliKundu.
 Harshuu870.
+lakshmikanthgupta.
 litwi1rm.
 mak1A4.
 shivamTodwal.
 iar42.
 Its-Nmk.
-lakshmikanthgupta.
 mlemartien.
 riya-misra-1.
 S-w-a-p-n-i-l-22.
