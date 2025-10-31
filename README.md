@@ -278,6 +278,7 @@ sumanth1710.
 1shabby.
 ashvin2005.
 SwamyMA.
+uteeokon-dev.
 at8807602.
 Thrizvi.
 ShuGitHub2022.
@@ -285,11 +286,10 @@ TinkerTechie.
 becksbyte.
 Abbas-57.
 JorgeGRC.
-mskoddow.
 
 **Other contributors:**
+mskoddow.
 Rajat32-op.
-uteeokon-dev.
 ewatch.
 AAladeen.
 Danmax.
@@ -962,6 +962,7 @@ rmedved84.
 src107.
 SwamyMA.
 Tushnik-cyber.
+uteeokon-dev.
 fn20200323.
 Pradeep567iaf.
 pratyushasndev.
@@ -990,7 +991,6 @@ patan116.
 Rajat32-op.
 revantKulkarni.
 trade12.
-uteeokon-dev.
 ttoter.
 AlphaEagle.
 JWITSM.
