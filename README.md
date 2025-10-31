@@ -262,7 +262,6 @@ Mahmud1087.
 Noah-Drew.
 prudvi-sai-posetty.
 spnegi.
-Thrizvi.
 LakshmiChaitanyaReddy.
 alkaChaudhary73.
 AnandMahajan2799.
@@ -271,6 +270,7 @@ bkb68.
 dvn-lazywinner.
 mitalizope.
 HackoDev1530.
+Thrizvi.
 KUSHAL1912.
 Rajasree2004.
 SachinNarayanasamy.
@@ -821,7 +821,6 @@ kayoeservicenow.
 mandeepkaran.
 RaghavBCarvana.
 SumithThota.
-Thrizvi.
 zahidask.
 DynamiteC.
 franks883.
@@ -863,6 +862,7 @@ mjonssonme.
 nthumma.
 Priscilladevtech.
 templetontsai.
+Thrizvi.
 abdulsalamnafisat59-rgb.
 ayorindeoluwayemi-coder.
 b1naryst0rm.
