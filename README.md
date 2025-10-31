@@ -280,6 +280,7 @@ stefanintech.
 sumanth1710.
 1shabby.
 ashvin2005.
+KaavyaGala546.
 SwamyMA.
 at8807602.
 Thrizvi.
@@ -288,11 +289,10 @@ TinkerTechie.
 becksbyte.
 mskoddow.
 Abbas-57.
-JorgeGRC.
 
 **Other contributors:**
+JorgeGRC.
 A1B2C3D4E5F6G7H8I9J0164-hack.
-KaavyaGala546.
 Rajat32-op.
 ewatch.
 AAladeen.
@@ -963,6 +963,7 @@ apple9000.
 ashvin2005.
 briangodfreydev.
 GauthamBellamkonda.
+KaavyaGala546.
 Khasim-63993.
 odinsride.
 piyusalunke123.
@@ -995,7 +996,6 @@ A1B2C3D4E5F6G7H8I9J0164-hack.
 anguspalmer.
 Badal2k23.
 bhavyajain511.
-KaavyaGala546.
 naveenraw25.
 NBaker137.
 patan116.
