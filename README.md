@@ -265,13 +265,13 @@ prudvi-sai-posetty.
 spnegi.
 LakshmiChaitanyaReddy.
 AnandMahajan2799.
-anjimuvva.
 bkb68.
 dvn-lazywinner.
 mitalizope.
 HackoDev1530.
 KUSHAL1912.
 Rajasree2004.
+anjimuvva.
 SachinNarayanasamy.
 stefanintech.
 sumanth1710.
@@ -285,12 +285,12 @@ Thrizvi.
 ShuGitHub2022.
 TinkerTechie.
 becksbyte.
+mskoddow.
 Abbas-57.
 JorgeGRC.
-kishoretk92.
 
 **Other contributors:**
-mskoddow.
+kishoretk92.
 Rajat32-op.
 ewatch.
 AAladeen.
@@ -734,10 +734,10 @@ Abhishekchowdarapu.
 alikuttyka.
 animeshdasgit.
 aswamy93.
+mskoddow.
 YTejaswini18.
 BadalHub.
 MrChrisE.
-mskoddow.
 selvarun-umass.
 vandna07.
 captainbraddles.
@@ -901,7 +901,6 @@ tejudhoran95.
 vasantharaja-natarajan.
 amoore-coder.
 AnandMahajan2799.
-anjimuvva.
 dean-croaker.
 domuserk.
 HarneetSital.
@@ -941,6 +940,7 @@ RaunakScarlet.
 Srikanth1306.
 TVani5.
 adarshsingh0205.
+anjimuvva.
 annaydas.
 goranlundqvist.
 Hamritha0506.
