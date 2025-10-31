@@ -212,6 +212,7 @@ salma-93.
 Jaspalsinghchot.
 Shashank102002.
 Awesomefp.
+DavidMarcial.
 lauri457.
 afislonge.
 Aish18-96.
@@ -229,7 +230,6 @@ samisthapur.
 SrijanPatwa.
 chaitaliKundu.
 d-sharmagit.
-DavidMarcial.
 divyajetti9.
 hakinadey.
 iamshankha.
@@ -702,19 +702,19 @@ QI-XING.
 bgrk005.
 bkb68.
 spnegi.
+DavidMarcial.
 JonSandoval.
 Radhe-Manasa.
 ohadoweregchimereobim-byte.
-Charanjet.
 
 **Top 10% contributors:**
+Charanjet.
 bharakm.
 stevezero.
 sychi77.
 ronaldkarim.
 sivamuruganandam-coder.
 azeezgaa.
-DavidMarcial.
 brenduh.
 deepak-64742.
 salma-93.
