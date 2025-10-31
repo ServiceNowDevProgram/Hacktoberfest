@@ -289,6 +289,7 @@ mskoddow.
 
 **Other contributors:**
 Rajat32-op.
+uteeokon-dev.
 ewatch.
 AAladeen.
 Danmax.
@@ -303,7 +304,6 @@ sa173199.
 sandeepd26.
 sudhanshu-raj.
 trupti65.
-uteeokon-dev.
 vanosaur.
 Dhruvyadav2000.
 mandeepkaran.
@@ -990,6 +990,7 @@ patan116.
 Rajat32-op.
 revantKulkarni.
 trade12.
+uteeokon-dev.
 ttoter.
 AlphaEagle.
 JWITSM.
@@ -1040,7 +1041,6 @@ TheTreyKyle.
 thisnameissoclever.
 trupti65.
 ujjwalprem.
-uteeokon-dev.
 vanosaur.
 zailugao.
 mockspeed.
