@@ -270,7 +270,6 @@ bkb68.
 dvn-lazywinner.
 mitalizope.
 HackoDev1530.
-Thrizvi.
 KUSHAL1912.
 Rajasree2004.
 SachinNarayanasamy.
@@ -279,6 +278,7 @@ sumanth1710.
 1shabby.
 ashvin2005.
 at8807602.
+Thrizvi.
 ShuGitHub2022.
 TinkerTechie.
 becksbyte.
@@ -862,7 +862,6 @@ mjonssonme.
 nthumma.
 Priscilladevtech.
 templetontsai.
-Thrizvi.
 abdulsalamnafisat59-rgb.
 ayorindeoluwayemi-coder.
 b1naryst0rm.
@@ -906,6 +905,7 @@ ReginaldFawcett.
 Saileshlanka.
 Southpaw09.
 thorn91.
+Thrizvi.
 vamsi0777.
 HackoDev1530.
 HarshLMP870.
