@@ -276,6 +276,7 @@ HackoDev1530.
 KUSHAL1912.
 Rajasree2004.
 anjimuvva.
+anujbaliyan.
 SachinNarayanasamy.
 stefanintech.
 sumanth1710.
@@ -288,10 +289,9 @@ ShuGitHub2022.
 TinkerTechie.
 becksbyte.
 mskoddow.
-Abbas-57.
 
 **Other contributors:**
-anujbaliyan.
+Abbas-57.
 JorgeGRC.
 A1B2C3D4E5F6G7H8I9J0164-hack.
 Rajat32-op.
@@ -949,6 +949,7 @@ TVani5.
 adarshsingh0205.
 anjimuvva.
 annaydas.
+anujbaliyan.
 goranlundqvist.
 Hamritha0506.
 harisnad.
@@ -958,9 +959,9 @@ riya-vermaa.
 SachinNarayanasamy.
 99Saurabh19.
 allenandreas.
-anubhav-ritolia.
 
 **Top 50% contributors:**
+anubhav-ritolia.
 apple9000.
 ashvin2005.
 briangodfreydev.
@@ -988,7 +989,6 @@ kumarinisha378.
 Sagar-agarwal.
 wiresgit.
 yourepicservices.
-anujbaliyan.
 ChecksumFailed.
 markroethof.
 nvprav.
