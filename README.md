@@ -158,10 +158,10 @@ bird-03.
 Soumyadeep10.
 zakir8992.
 NavyasreeBolleboyana.
-ivan-betev.
+MYaswanth28.
 
 **Top 10% contributors:**
-MYaswanth28.
+ivan-betev.
 ohadoweregchimereobim-byte.
 shreyawani98.
 bharakm.
@@ -663,8 +663,8 @@ ivan-betev.
 maheshkhatal27.
 DavidArthurCole.
 Praiseto.
-ChaseMillers.
 MYaswanth28.
+ChaseMillers.
 prashantmrshine.
 shreyawani98.
 ashoo-jindal.
