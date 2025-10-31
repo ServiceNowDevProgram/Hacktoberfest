@@ -176,6 +176,7 @@ niamccash.
 Its-Nmk.
 DimpleShaik.
 Indra-kolge.
+JonSandoval.
 vijaykumar7177.
 Vishnu-rvk.
 abhix2112.
@@ -183,7 +184,6 @@ chaitanyalal18.
 ChandBasha-code.
 jiteshmalik.
 NayeemKaka.
-JonSandoval.
 RaghavBCarvana.
 
 **Top 25% contributors:**
@@ -706,6 +706,7 @@ sndevs-slacker-issue-reporter[bot].
 zakir8992.
 404paige.
 DavidMarcial.
+JonSandoval.
 NavyasreeBolleboyana.
 urspvs.
 ankitshu.
@@ -713,7 +714,6 @@ QI-XING.
 bgrk005.
 bkb68.
 spnegi.
-JonSandoval.
 Radhe-Manasa.
 
 **Top 10% contributors:**
