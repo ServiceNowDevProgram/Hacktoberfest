@@ -235,10 +235,11 @@ d-sharmagit.
 divyajetti9.
 hakinadey.
 iamshankha.
+kishoretk92.
 sanjaykumar3sn.
-tab22.
 
 **Top 50% contributors:**
+tab22.
 ahmadibitoye.
 animeshdasgit.
 bgrk005.
@@ -266,7 +267,6 @@ Noah-Drew.
 prudvi-sai-posetty.
 spnegi.
 uteeokon-dev.
-kishoretk92.
 LakshmiChaitanyaReddy.
 AnandMahajan2799.
 bkb68.
@@ -854,6 +854,7 @@ gregorwmail.
 hakinadey.
 harishankert.
 iamshankha.
+kishoretk92.
 prash5595.
 priyasnexpert.
 sanjaykumar3sn.
@@ -899,7 +900,6 @@ OrgovanGeza.
 Abbas-57.
 arhaan2019.
 designitsecure.
-kishoretk92.
 LakshmiChaitanyaReddy.
 llipovsky.
 prynacshrma.
