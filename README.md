@@ -160,12 +160,12 @@ NavyasreeBolleboyana.
 ivan-betev.
 
 **Top 10% contributors:**
+zakir8992.
 MYaswanth28.
 ohadoweregchimereobim-byte.
 shreyawani98.
 bharakm.
 sivamuruganandam-coder.
-zakir8992.
 sumanthdosapati.
 TechTrekwithAJ.
 prashantmrshine.
@@ -700,18 +700,18 @@ QI-XING.
 bgrk005.
 bkb68.
 spnegi.
+zakir8992.
 JonSandoval.
 Radhe-Manasa.
 ohadoweregchimereobim-byte.
 Charanjet.
-bharakm.
 
 **Top 10% contributors:**
+bharakm.
 stevezero.
 sychi77.
 ronaldkarim.
 sivamuruganandam-coder.
-zakir8992.
 azeezgaa.
 DavidMarcial.
 brenduh.
