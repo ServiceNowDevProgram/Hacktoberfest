@@ -293,6 +293,7 @@ Abbas-57.
 **Other contributors:**
 JorgeGRC.
 A1B2C3D4E5F6G7H8I9J0164-hack.
+nvprav.
 Rajat32-op.
 ewatch.
 AAladeen.
@@ -303,7 +304,6 @@ surajnikam111.
 andrey-verevkin.
 durgeshservicenow-hub.
 Nisha-admin.
-nvprav.
 sa173199.
 sandeepd26.
 sudhanshu-raj.
@@ -955,12 +955,13 @@ Hamritha0506.
 harisnad.
 KedarisettiSreeVamsi.
 NowRishi.
+nvprav.
 riya-vermaa.
 SachinNarayanasamy.
 99Saurabh19.
-allenandreas.
 
 **Top 50% contributors:**
+allenandreas.
 anubhav-ritolia.
 apple9000.
 ashvin2005.
@@ -990,7 +991,6 @@ wiresgit.
 yourepicservices.
 ChecksumFailed.
 markroethof.
-nvprav.
 SNProductOwner.
 TechnologistTim.
 A1B2C3D4E5F6G7H8I9J0164-hack.
