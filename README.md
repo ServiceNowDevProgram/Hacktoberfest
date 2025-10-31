@@ -236,9 +236,9 @@ hakinadey.
 iamshankha.
 sanjaykumar3sn.
 tab22.
+ahmadibitoye.
 
 **Top 50% contributors:**
-ahmadibitoye.
 animeshdasgit.
 bgrk005.
 Charanjet.
@@ -288,9 +288,9 @@ TinkerTechie.
 becksbyte.
 mskoddow.
 Abbas-57.
+JorgeGRC.
 
 **Other contributors:**
-JorgeGRC.
 Rajat32-op.
 ewatch.
 AAladeen.
@@ -439,6 +439,7 @@ anirudh7065.
 Anjali655.
 ankayoe.
 Anubhav-developr.
+anujbaliyan.
 anujos.
 Anurag-Kar-240101094.
 Anusrita-Karmakar.
@@ -1458,6 +1459,7 @@ AnnaGould.
 Anoop21-oss-a.
 Anson-Mathew.
 Anubhav-developr.
+anujbaliyan.
 anujos.
 Anurag-Kar-240101094.
 Anuraj4.
