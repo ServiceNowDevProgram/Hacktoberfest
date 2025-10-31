@@ -285,9 +285,9 @@ TinkerTechie.
 becksbyte.
 Abbas-57.
 JorgeGRC.
+mskoddow.
 
 **Other contributors:**
-mskoddow.
 Rajat32-op.
 ewatch.
 AAladeen.
@@ -610,6 +610,7 @@ tylerhermanabm.
 udaysiddapur.
 VA2707.
 vachaspathi6.
+vanosaur.
 varun1325.
 VinayKumarVangala.
 vipin379.
@@ -949,9 +950,9 @@ allenandreas.
 anubhav-ritolia.
 apple9000.
 ashvin2005.
+briangodfreydev.
 
 **Top 50% contributors:**
-briangodfreydev.
 GauthamBellamkonda.
 Khasim-63993.
 odinsride.
@@ -1111,9 +1112,9 @@ demetris7.
 devalcodes.
 dhruvii-powershell.
 dorsy99.
+ezratkim.
 
 **Other contributors:**
-ezratkim.
 harishbaislaawc2022-sketch.
 harshal045.
 HarshMN2345.
@@ -2173,6 +2174,7 @@ Vaibhav91one.
 vaishakbkj-ml.
 VaishnaviUbarhande.
 valaparlasalmonraj.
+vanosaur.
 VanWeapon.
 varun1325.
 vedika0109.
