@@ -288,6 +288,7 @@ mskoddow.
 
 **Other contributors:**
 Rajat32-op.
+SwamyMA.
 ewatch.
 AAladeen.
 Danmax.
@@ -301,7 +302,6 @@ puteushede-rgb.
 sa173199.
 sandeepd26.
 sudhanshu-raj.
-SwamyMA.
 trupti65.
 Dhruvyadav2000.
 mandeepkaran.
@@ -987,6 +987,7 @@ NBaker137.
 patan116.
 Rajat32-op.
 revantKulkarni.
+SwamyMA.
 trade12.
 ttoter.
 AlphaEagle.
@@ -1032,7 +1033,6 @@ Ratheshan03.
 sa173199.
 Sallu77.
 sudhanshu-raj.
-SwamyMA.
 tanu-profile.
 Thanai14.
 TheTreyKyle.
