@@ -269,6 +269,7 @@ bkb68.
 dvn-lazywinner.
 kishoretk92.
 mitalizope.
+puteushede-rgb.
 HackoDev1530.
 KUSHAL1912.
 Rajasree2004.
@@ -278,7 +279,6 @@ stefanintech.
 sumanth1710.
 1shabby.
 ashvin2005.
-puteushede-rgb.
 SwamyMA.
 uteeokon-dev.
 at8807602.
@@ -919,6 +919,7 @@ HarshLMP870.
 Himanshu-skb-oo7.
 mmaraj1.
 nowitsvashu.
+puteushede-rgb.
 sanjivmeher.
 yansa-reece.
 aman2519.
@@ -954,15 +955,14 @@ SachinNarayanasamy.
 allenandreas.
 anubhav-ritolia.
 apple9000.
-ashvin2005.
 
 **Top 50% contributors:**
+ashvin2005.
 briangodfreydev.
 GauthamBellamkonda.
 Khasim-63993.
 odinsride.
 piyusalunke123.
-puteushede-rgb.
 rene-el.
 rmedved84.
 src107.
