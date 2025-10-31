@@ -277,6 +277,7 @@ stefanintech.
 sumanth1710.
 1shabby.
 ashvin2005.
+SwamyMA.
 at8807602.
 Thrizvi.
 ShuGitHub2022.
@@ -284,11 +285,10 @@ TinkerTechie.
 becksbyte.
 Abbas-57.
 JorgeGRC.
-mskoddow.
 
 **Other contributors:**
+mskoddow.
 Rajat32-op.
-SwamyMA.
 ewatch.
 AAladeen.
 Danmax.
@@ -959,6 +959,7 @@ piyusalunke123.
 rene-el.
 rmedved84.
 src107.
+SwamyMA.
 Tushnik-cyber.
 fn20200323.
 Pradeep567iaf.
@@ -987,7 +988,6 @@ NBaker137.
 patan116.
 Rajat32-op.
 revantKulkarni.
-SwamyMA.
 trade12.
 ttoter.
 AlphaEagle.
