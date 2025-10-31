@@ -303,6 +303,7 @@ sa173199.
 sandeepd26.
 sudhanshu-raj.
 trupti65.
+uteeokon-dev.
 vanosaur.
 Dhruvyadav2000.
 mandeepkaran.
@@ -344,7 +345,6 @@ selvarun-umass.
 Shashank0701-byte.
 Siddhartha03D.
 SinghCod3r.
-uteeokon-dev.
 bhavishyavelaga.
 kmohit2809.
 mitkarisunil.
@@ -1040,6 +1040,7 @@ TheTreyKyle.
 thisnameissoclever.
 trupti65.
 ujjwalprem.
+uteeokon-dev.
 vanosaur.
 zailugao.
 mockspeed.
@@ -1112,9 +1113,9 @@ deathkraiser.
 demetris7.
 devalcodes.
 dhruvii-powershell.
-dorsy99.
 
 **Other contributors:**
+dorsy99.
 ezratkim.
 harishbaislaawc2022-sketch.
 harshal045.
@@ -1172,7 +1173,6 @@ thomasvogh.
 tomlozano.
 trishitapingolia.
 ultralegendary.
-uteeokon-dev.
 workpurposeusername.
 YadlaMani.
 zaidongy.
