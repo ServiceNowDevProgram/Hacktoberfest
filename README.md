@@ -272,6 +272,7 @@ HackoDev1530.
 KUSHAL1912.
 Rajasree2004.
 anjimuvva.
+kishoretk92.
 SachinNarayanasamy.
 stefanintech.
 sumanth1710.
@@ -287,10 +288,9 @@ TinkerTechie.
 becksbyte.
 mskoddow.
 Abbas-57.
-JorgeGRC.
 
 **Other contributors:**
-kishoretk92.
+JorgeGRC.
 Rajat32-op.
 ewatch.
 AAladeen.
@@ -946,6 +946,7 @@ goranlundqvist.
 Hamritha0506.
 harisnad.
 KedarisettiSreeVamsi.
+kishoretk92.
 NowRishi.
 riya-vermaa.
 SachinNarayanasamy.
@@ -954,9 +955,9 @@ allenandreas.
 anubhav-ritolia.
 apple9000.
 ashvin2005.
-briangodfreydev.
 
 **Top 50% contributors:**
+briangodfreydev.
 GauthamBellamkonda.
 Khasim-63993.
 odinsride.
@@ -984,7 +985,6 @@ Sagar-agarwal.
 wiresgit.
 yourepicservices.
 ChecksumFailed.
-kishoretk92.
 markroethof.
 SNProductOwner.
 TechnologistTim.
