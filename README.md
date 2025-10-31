@@ -227,7 +227,6 @@ gowdah.
 S-w-a-p-n-i-l-22.
 samisthapur.
 SrijanPatwa.
-Thrizvi.
 chaitaliKundu.
 d-sharmagit.
 DavidMarcial.
@@ -235,9 +234,9 @@ divyajetti9.
 hakinadey.
 iamshankha.
 sanjaykumar3sn.
+tab22.
 
 **Top 50% contributors:**
-tab22.
 ahmadibitoye.
 animeshdasgit.
 bgrk005.
@@ -263,6 +262,7 @@ Mahmud1087.
 Noah-Drew.
 prudvi-sai-posetty.
 spnegi.
+Thrizvi.
 LakshmiChaitanyaReddy.
 alkaChaudhary73.
 AnandMahajan2799.
@@ -791,7 +791,6 @@ Sushmakothagattu.
 jonahpiascik.
 kylburns89.
 satya2025sahoo.
-Thrizvi.
 trimbakeshmadhan-109.
 aishar563.
 BEASTSHRIRAM.
@@ -822,6 +821,7 @@ kayoeservicenow.
 mandeepkaran.
 RaghavBCarvana.
 SumithThota.
+Thrizvi.
 zahidask.
 DynamiteC.
 franks883.
