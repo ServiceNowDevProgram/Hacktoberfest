@@ -161,8 +161,8 @@ zakir8992.
 NavyasreeBolleboyana.
 
 **Top 10% contributors:**
-ivan-betev.
 ohadoweregchimereobim-byte.
+ivan-betev.
 shreyawani98.
 bharakm.
 sivamuruganandam-coder.
@@ -706,6 +706,7 @@ zakir8992.
 DavidMarcial.
 NavyasreeBolleboyana.
 urspvs.
+ohadoweregchimereobim-byte.
 ankitshu.
 QI-XING.
 bgrk005.
@@ -713,7 +714,6 @@ bkb68.
 spnegi.
 JonSandoval.
 Radhe-Manasa.
-ohadoweregchimereobim-byte.
 
 **Top 10% contributors:**
 Charanjet.
