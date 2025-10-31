@@ -494,6 +494,7 @@ jawahar03.
 JScoder4005.
 jsywongServiceNow.
 justHarshraj.
+KaavyaGala546.
 KanavCode.
 kanishkmangal.
 khyatithadani.
@@ -955,9 +956,9 @@ SachinNarayanasamy.
 99Saurabh19.
 allenandreas.
 anubhav-ritolia.
+apple9000.
 
 **Top 50% contributors:**
-apple9000.
 ashvin2005.
 briangodfreydev.
 GauthamBellamkonda.
@@ -1117,9 +1118,9 @@ daramcdonald96-ops.
 deathkraiser.
 demetris7.
 devalcodes.
+dhruvii-powershell.
 
 **Other contributors:**
-dhruvii-powershell.
 dorsy99.
 ezratkim.
 harishbaislaawc2022-sketch.
@@ -1737,6 +1738,7 @@ JustinLoftas.
 justSNaccount.
 K-Sankalp.
 k-zeeshan.
+KaavyaGala546.
 kainturar.
 Kaluzy.
 kalyans12.
