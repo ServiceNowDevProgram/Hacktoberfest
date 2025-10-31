@@ -216,6 +216,7 @@ DavidMarcial.
 lauri457.
 afislonge.
 Aish18-96.
+alkaChaudhary73.
 chetnadev.
 JohanDC-1999.
 kayoeservicenow.
@@ -234,11 +235,10 @@ divyajetti9.
 hakinadey.
 iamshankha.
 sanjaykumar3sn.
-tab22.
 
 **Top 50% contributors:**
+tab22.
 ahmadibitoye.
-alkaChaudhary73.
 animeshdasgit.
 bgrk005.
 Charanjet.
@@ -677,13 +677,13 @@ gowdah.
 RahmanM.
 Mexiprince.
 R3J3NT.
+alkaChaudhary73.
 ajcooper72.
 VaishnaviLathkar98.
 anveshmupparaju.
 Vishnu-rvk.
 jiteshmalik.
 NowSharif.
-alkaChaudhary73.
 techTrekwithAJ.
 aykmrgit.
 hrobarikt.
