@@ -226,6 +226,7 @@ Suri123789.
 AnithaA09.
 franks883.
 gowdah.
+puteushede-rgb.
 S-w-a-p-n-i-l-22.
 samisthapur.
 SrijanPatwa.
@@ -236,9 +237,9 @@ hakinadey.
 iamshankha.
 sanjaykumar3sn.
 tab22.
-ahmadibitoye.
 
 **Top 50% contributors:**
+ahmadibitoye.
 animeshdasgit.
 bgrk005.
 Charanjet.
@@ -262,7 +263,6 @@ Kart-19.
 Mahmud1087.
 Noah-Drew.
 prudvi-sai-posetty.
-puteushede-rgb.
 spnegi.
 uteeokon-dev.
 kishoretk92.
@@ -833,6 +833,7 @@ SumithThota.
 zahidask.
 DynamiteC.
 franks883.
+puteushede-rgb.
 samisthapur.
 shakeel-sheikh.
 vjtknn.
@@ -879,7 +880,6 @@ Mahmud1087.
 namrataghorpade.
 Noah-Drew.
 prudvi-sai-posetty.
-puteushede-rgb.
 sdgrube2.
 uteeokon-dev.
 wendy-ha18.
