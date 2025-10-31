@@ -192,6 +192,7 @@ srikanthroyal932-cmyk.
 VaishnaviLathkar98.
 pratap360.
 anurampalli.
+DavidMarcial.
 Emmynem.
 GokulkumarV.
 hanna-g-sn.
@@ -212,7 +213,6 @@ salma-93.
 Jaspalsinghchot.
 Shashank102002.
 Awesomefp.
-DavidMarcial.
 lauri457.
 afislonge.
 Aish18-96.
@@ -698,6 +698,7 @@ debendu-das.
 sndevs-slacker-issue-reporter[bot].
 zakir8992.
 404paige.
+DavidMarcial.
 NavyasreeBolleboyana.
 urspvs.
 ankitshu.
@@ -705,7 +706,6 @@ QI-XING.
 bgrk005.
 bkb68.
 spnegi.
-DavidMarcial.
 JonSandoval.
 Radhe-Manasa.
 ohadoweregchimereobim-byte.
