@@ -158,9 +158,9 @@ bird-03.
 Soumyadeep10.
 NavyasreeBolleboyana.
 ivan-betev.
+zakir8992.
 
 **Top 10% contributors:**
-zakir8992.
 MYaswanth28.
 ohadoweregchimereobim-byte.
 shreyawani98.
@@ -184,9 +184,9 @@ ChandBasha-code.
 jiteshmalik.
 NayeemKaka.
 JonSandoval.
+RaviGaurav007.
 
 **Top 25% contributors:**
-RaviGaurav007.
 Sriharsha19.
 srikanthroyal932-cmyk.
 VaishnaviLathkar98.
@@ -285,10 +285,10 @@ becksbyte.
 Abbas-57.
 JorgeGRC.
 mskoddow.
-Rajat32-op.
-ewatch.
 
 **Other contributors:**
+Rajat32-op.
+ewatch.
 AAladeen.
 Danmax.
 harishkSN.
@@ -611,6 +611,7 @@ VA2707.
 vachaspathi6.
 varun1325.
 VinayKumarVangala.
+vipin379.
 virendrapratapsinghyadav.
 Vishnugarg897.
 VishwajeetGupta1709.
@@ -1108,9 +1109,9 @@ demetris7.
 devalcodes.
 dhruvii-powershell.
 dorsy99.
+ezratkim.
 
 **Other contributors:**
-ezratkim.
 harishbaislaawc2022-sketch.
 harshal045.
 HarshMN2345.
@@ -2183,6 +2184,7 @@ vijaytechy.
 vikasphougat.
 VinayKumarVangala.
 vino3110.
+vipin379.
 virendrapratapsinghyadav.
 Vishnugarg897.
 VishwajeetGupta1709.
