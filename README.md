@@ -271,6 +271,7 @@ AnandMahajan2799.
 bkb68.
 dvn-lazywinner.
 mitalizope.
+KaavyaGala546.
 HackoDev1530.
 KUSHAL1912.
 Rajasree2004.
@@ -280,7 +281,6 @@ stefanintech.
 sumanth1710.
 1shabby.
 ashvin2005.
-KaavyaGala546.
 SwamyMA.
 at8807602.
 Thrizvi.
@@ -922,6 +922,7 @@ vamsi0777.
 HackoDev1530.
 HarshLMP870.
 Himanshu-skb-oo7.
+KaavyaGala546.
 mmaraj1.
 nowitsvashu.
 sanjivmeher.
@@ -958,13 +959,12 @@ SachinNarayanasamy.
 99Saurabh19.
 allenandreas.
 anubhav-ritolia.
-apple9000.
 
 **Top 50% contributors:**
+apple9000.
 ashvin2005.
 briangodfreydev.
 GauthamBellamkonda.
-KaavyaGala546.
 Khasim-63993.
 odinsride.
 piyusalunke123.
