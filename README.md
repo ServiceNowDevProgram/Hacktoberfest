@@ -156,9 +156,9 @@ kmxo.
 NowSharif.
 bird-03.
 Soumyadeep10.
+zakir8992.
 NavyasreeBolleboyana.
 ivan-betev.
-zakir8992.
 
 **Top 10% contributors:**
 MYaswanth28.
@@ -693,6 +693,7 @@ himanshu7895.
 at8807602.
 debendu-das.
 sndevs-slacker-issue-reporter[bot].
+zakir8992.
 404paige.
 NavyasreeBolleboyana.
 urspvs.
@@ -701,7 +702,6 @@ QI-XING.
 bgrk005.
 bkb68.
 spnegi.
-zakir8992.
 JonSandoval.
 Radhe-Manasa.
 ohadoweregchimereobim-byte.
