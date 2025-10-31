@@ -155,10 +155,10 @@ koratalas.
 kmxo.
 NowSharif.
 bird-03.
-MYaswanth28.
 Soumyadeep10.
 zakir8992.
 NavyasreeBolleboyana.
+MYaswanth28.
 
 **Top 10% contributors:**
 ivan-betev.
@@ -661,9 +661,9 @@ MGOPW.
 shivamvish160.
 ivan-betev.
 maheshkhatal27.
-MYaswanth28.
 DavidArthurCole.
 Praiseto.
+MYaswanth28.
 ChaseMillers.
 prashantmrshine.
 shreyawani98.
