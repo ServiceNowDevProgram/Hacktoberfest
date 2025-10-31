@@ -235,9 +235,9 @@ divyajetti9.
 hakinadey.
 iamshankha.
 sanjaykumar3sn.
+tab22.
 
 **Top 50% contributors:**
-tab22.
 ahmadibitoye.
 animeshdasgit.
 bgrk005.
@@ -286,9 +286,9 @@ TinkerTechie.
 becksbyte.
 Abbas-57.
 JorgeGRC.
+kishoretk92.
 
 **Other contributors:**
-kishoretk92.
 mskoddow.
 puteushede-rgb.
 Rajat32-op.
@@ -468,6 +468,7 @@ Durgeshpathak-111.
 engolawale.
 ETHAN96308.
 FrancisBarla10.
+ganga-300.
 Girishbari.
 gmariniello.
 gnaneshreddyy.
@@ -790,9 +791,9 @@ pallipoina92.
 sheikhafsarzap.
 sravankadudhuri.
 Sushmakothagattu.
+jonahpiascik.
 
 **Top 25% contributors:**
-jonahpiascik.
 kylburns89.
 satya2025sahoo.
 trimbakeshmadhan-109.
@@ -1631,6 +1632,7 @@ Flashdevp95.
 fodelaye26.
 FrancisBarla10.
 fredosborne.
+ganga-300.
 GAURAV4761.
 gauravghodinde.
 Gayathrichennaioutlook.
