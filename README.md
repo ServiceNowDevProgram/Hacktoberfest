@@ -219,6 +219,7 @@ chetnadev.
 JohanDC-1999.
 kayoeservicenow.
 SumithThota.
+Suri123789.
 AnithaA09.
 franks883.
 gowdah.
@@ -234,9 +235,9 @@ iamshankha.
 sanjaykumar3sn.
 tab22.
 ahmadibitoye.
-animeshdasgit.
 
 **Top 50% contributors:**
+animeshdasgit.
 bgrk005.
 Charanjet.
 chaytarak.
@@ -253,7 +254,6 @@ LaxmanKukunooru.
 Priscilladevtech.
 QI-XING.
 RaghavBCarvana.
-Suri123789.
 abdulsalamnafisat59-rgb.
 ayorindeoluwayemi-coder.
 Harshuu870.
@@ -720,6 +720,7 @@ salma-93.
 isaac-vicentini.
 rafzk.
 anillande90.
+Suri123789.
 ayleeandersen.
 Danmax.
 Abhishekchowdarapu.
@@ -733,7 +734,6 @@ mskoddow.
 selvarun-umass.
 vandna07.
 captainbraddles.
-Suri123789.
 abhrajyotikanrar.
 AdaOkoye-coder.
 AnithaA09.
