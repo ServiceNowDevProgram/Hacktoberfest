@@ -270,6 +270,7 @@ dvn-lazywinner.
 kishoretk92.
 mitalizope.
 puteushede-rgb.
+uteeokon-dev.
 HackoDev1530.
 KUSHAL1912.
 Rajasree2004.
@@ -280,7 +281,6 @@ sumanth1710.
 1shabby.
 ashvin2005.
 SwamyMA.
-uteeokon-dev.
 at8807602.
 Thrizvi.
 ShuGitHub2022.
@@ -921,6 +921,7 @@ mmaraj1.
 nowitsvashu.
 puteushede-rgb.
 sanjivmeher.
+uteeokon-dev.
 yansa-reece.
 aman2519.
 dalestubblefield.
@@ -954,9 +955,9 @@ SachinNarayanasamy.
 99Saurabh19.
 allenandreas.
 anubhav-ritolia.
-apple9000.
 
 **Top 50% contributors:**
+apple9000.
 ashvin2005.
 briangodfreydev.
 GauthamBellamkonda.
@@ -968,7 +969,6 @@ rmedved84.
 src107.
 SwamyMA.
 Tushnik-cyber.
-uteeokon-dev.
 fn20200323.
 Pradeep567iaf.
 pratyushasndev.
