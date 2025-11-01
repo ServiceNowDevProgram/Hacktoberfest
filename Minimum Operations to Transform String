@@ -1,0 +1,12 @@
+class Solution:
+    def minOperations(self, s: str) -> int:
+        an = float('inf')
+        for target in range(26):
+            maxo = 0
+            for ch in s:
+                dif = (26 - (ord(ch)- ord('a')) )%26
+                maxo = max(maxo,dif)
+            an = min(an,maxo)
+
+        return an
+        
