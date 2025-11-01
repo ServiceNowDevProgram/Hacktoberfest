@@ -272,6 +272,7 @@ AnandMahajan2799.
 bkb68.
 dvn-lazywinner.
 mitalizope.
+SwamyMA.
 HackoDev1530.
 KUSHAL1912.
 Rajasree2004.
@@ -282,7 +283,6 @@ stefanintech.
 sumanth1710.
 1shabby.
 ashvin2005.
-SwamyMA.
 at8807602.
 Thrizvi.
 ShuGitHub2022.
@@ -926,6 +926,7 @@ Himanshu-skb-oo7.
 mmaraj1.
 nowitsvashu.
 sanjivmeher.
+SwamyMA.
 yansa-reece.
 aman2519.
 dalestubblefield.
@@ -958,9 +959,9 @@ NowRishi.
 nvprav.
 riya-vermaa.
 SachinNarayanasamy.
-99Saurabh19.
 
 **Top 50% contributors:**
+99Saurabh19.
 allenandreas.
 anubhav-ritolia.
 apple9000.
@@ -973,7 +974,6 @@ piyusalunke123.
 rene-el.
 rmedved84.
 src107.
-SwamyMA.
 Tushnik-cyber.
 fn20200323.
 Pradeep567iaf.
