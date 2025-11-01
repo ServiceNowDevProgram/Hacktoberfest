@@ -229,6 +229,7 @@ gowdah.
 puteushede-rgb.
 S-w-a-p-n-i-l-22.
 samisthapur.
+SwamyMA.
 SrijanPatwa.
 chaitaliKundu.
 d-sharmagit.
@@ -236,9 +237,9 @@ divyajetti9.
 hakinadey.
 iamshankha.
 kishoretk92.
-sanjaykumar3sn.
 
 **Top 50% contributors:**
+sanjaykumar3sn.
 tab22.
 ahmadibitoye.
 animeshdasgit.
@@ -266,7 +267,6 @@ Mahmud1087.
 Noah-Drew.
 prudvi-sai-posetty.
 spnegi.
-SwamyMA.
 uteeokon-dev.
 LakshmiChaitanyaReddy.
 AnandMahajan2799.
@@ -837,6 +837,7 @@ franks883.
 puteushede-rgb.
 samisthapur.
 shakeel-sheikh.
+SwamyMA.
 vjtknn.
 Yokesh0811.
 chaytarak.
@@ -884,7 +885,6 @@ namrataghorpade.
 Noah-Drew.
 prudvi-sai-posetty.
 sdgrube2.
-SwamyMA.
 uteeokon-dev.
 wendy-ha18.
 AdilBasha1SAP.
