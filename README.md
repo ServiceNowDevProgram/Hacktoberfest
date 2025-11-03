@@ -410,6 +410,7 @@ ToosinDada.
 TRIGGEREDcoder.
 uvenkatateja.
 VaishnaviDwase.
+Vedavyasa21.
 2Prerna0.
 5yruz.
 aaditya0004.
@@ -960,9 +961,9 @@ NowRishi.
 nvprav.
 riya-vermaa.
 SachinNarayanasamy.
+99Saurabh19.
 
 **Top 50% contributors:**
-99Saurabh19.
 allenandreas.
 anubhav-ritolia.
 apple9000.
@@ -1123,9 +1124,9 @@ daramcdonald96-ops.
 deathkraiser.
 demetris7.
 devalcodes.
+dhruvii-powershell.
 
 **Other contributors:**
-dhruvii-powershell.
 dorsy99.
 ezratkim.
 harishbaislaawc2022-sketch.
@@ -1383,6 +1384,7 @@ uvenkatateja.
 VaishnaviDwase.
 VarAti.
 varunasuresh92.
+Vedavyasa21.
 vishalbirajdar0712.
 vivekverma18.
 Zephyre195.
