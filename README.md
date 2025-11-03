@@ -225,6 +225,7 @@ krahul11.
 SumithThota.
 Suri123789.
 AnithaA09.
+chelming.
 franks883.
 gowdah.
 puteushede-rgb.
@@ -236,9 +237,9 @@ chaitaliKundu.
 d-sharmagit.
 divyajetti9.
 hakinadey.
-iamshankha.
 
 **Top 50% contributors:**
+iamshankha.
 kishoretk92.
 sanjaykumar3sn.
 tab22.
@@ -260,7 +261,6 @@ Priscilladevtech.
 QI-XING.
 abdulsalamnafisat59-rgb.
 ayorindeoluwayemi-coder.
-chelming.
 Harshuu870.
 KaavyaGala546.
 Kart-19.
