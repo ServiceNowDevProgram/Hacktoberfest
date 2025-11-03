@@ -274,6 +274,7 @@ bkb68.
 dvn-lazywinner.
 mitalizope.
 HackoDev1530.
+chelming.
 KUSHAL1912.
 Rajasree2004.
 anjimuvva.
@@ -288,7 +289,6 @@ Thrizvi.
 ShuGitHub2022.
 TinkerTechie.
 becksbyte.
-chelming.
 
 **Other contributors:**
 mskoddow.
@@ -652,9 +652,9 @@ rohi-v.
 raghavs046.
 kmxo.
 bird-03.
+chelming.
 chetnadev.
 Paulsylo25.
-chelming.
 kmohit2809.
 koratalas.
 WillemZeiler.
