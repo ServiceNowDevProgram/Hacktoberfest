@@ -458,6 +458,7 @@ bhavani-konda.
 bhavay009.
 bitflicker64.
 brunoasantos.
+Burnhamt256.
 captainbraddles.
 ChiragBotkawar.
 daksh-00.
@@ -720,9 +721,9 @@ bgrk005.
 bkb68.
 spnegi.
 Radhe-Manasa.
+Charanjet.
 
 **Top 10% contributors:**
-Charanjet.
 bharakm.
 stevezero.
 sychi77.
@@ -802,9 +803,9 @@ pallipoina92.
 sheikhafsarzap.
 sravankadudhuri.
 Sushmakothagattu.
+jonahpiascik.
 
 **Top 25% contributors:**
-jonahpiascik.
 kylburns89.
 satya2025sahoo.
 trimbakeshmadhan-109.
@@ -1127,10 +1128,10 @@ daramcdonald96-ops.
 deathkraiser.
 demetris7.
 devalcodes.
-dhruvii-powershell.
-dorsy99.
 
 **Other contributors:**
+dhruvii-powershell.
+dorsy99.
 ezratkim.
 harishbaislaawc2022-sketch.
 harshal045.
@@ -1532,6 +1533,7 @@ bmfmancini.
 bradfordshelley.
 brunoasantos.
 Bsprogrammer28.
+Burnhamt256.
 but69.
 caffe1983.
 callmeishmael-sn.
