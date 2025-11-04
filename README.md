@@ -540,6 +540,7 @@ niladriAdhikari.
 NirajDN.
 Nithish2010.
 No-gui.
+Oussama9920.
 Parjanya5537.
 patfedigan.
 Prabhashasachinthana.
@@ -1126,9 +1127,9 @@ deathkraiser.
 demetris7.
 devalcodes.
 dhruvii-powershell.
+dorsy99.
 
 **Other contributors:**
-dorsy99.
 ezratkim.
 harishbaislaawc2022-sketch.
 harshal045.
@@ -1934,6 +1935,7 @@ omkar2508.
 omkarvasekar.
 opensrczy.
 oskadoskaposka.
+Oussama9920.
 ousswx-wx.
 pabloferr92.
 Pakoola.
