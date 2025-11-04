@@ -237,9 +237,9 @@ chaitaliKundu.
 d-sharmagit.
 divyajetti9.
 hakinadey.
+iamshankha.
 
 **Top 50% contributors:**
-iamshankha.
 kishoretk92.
 sanjaykumar3sn.
 tab22.
@@ -289,9 +289,9 @@ Thrizvi.
 ShuGitHub2022.
 TinkerTechie.
 becksbyte.
+mskoddow.
 
 **Other contributors:**
-mskoddow.
 Abbas-57.
 JorgeGRC.
 A1B2C3D4E5F6G7H8I9J0164-hack.
@@ -473,6 +473,7 @@ DivyanshRajSoni.
 Durgeshpathak-111.
 engolawale.
 ETHAN96308.
+farstic.
 FrancisBarla10.
 ganga-300.
 Girishbari.
@@ -1638,6 +1639,7 @@ ewhite1.
 extinctsion.
 eyawson.
 farihatabassum9130.
+farstic.
 fisikos.
 flab-io.
 Flashdevp95.
