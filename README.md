@@ -238,9 +238,9 @@ d-sharmagit.
 divyajetti9.
 hakinadey.
 iamshankha.
+kishoretk92.
 
 **Top 50% contributors:**
-kishoretk92.
 sanjaykumar3sn.
 tab22.
 ahmadibitoye.
@@ -291,9 +291,9 @@ TinkerTechie.
 becksbyte.
 mskoddow.
 Abbas-57.
+JorgeGRC.
 
 **Other contributors:**
-JorgeGRC.
 A1B2C3D4E5F6G7H8I9J0164-hack.
 nvprav.
 Rajat32-op.
@@ -453,6 +453,7 @@ Aryan-Bhendarkar.
 Ash0807.
 Ayush-216.
 Azazelxo0.
+bbass50.
 Bharathkogilamane274.
 bhavani-konda.
 bhavay009.
@@ -1507,6 +1508,7 @@ BAB533.
 Balamurugan-RR.
 banjofrailer.
 Basha8.
+bbass50.
 bcprolive.
 beedme.
 belloibrahv.
