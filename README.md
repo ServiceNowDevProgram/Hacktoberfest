@@ -593,6 +593,7 @@ Saptarshi3456.
 Satya2234.
 Sayon008.
 Sefali12.
+sergio95dr.
 servicenowspecialist.
 shaiksajidhussain.
 shanjidhasan.
@@ -969,9 +970,9 @@ nvprav.
 riya-vermaa.
 SachinNarayanasamy.
 99Saurabh19.
+allenandreas.
 
 **Top 50% contributors:**
-allenandreas.
 anubhav-ritolia.
 apple9000.
 ashvin2005.
@@ -1132,9 +1133,9 @@ deathkraiser.
 demetris7.
 devalcodes.
 dhruvii-powershell.
+dorsy99.
 
 **Other contributors:**
-dorsy99.
 ezratkim.
 harishbaislaawc2022-sketch.
 harshal045.
@@ -2084,6 +2085,7 @@ seemaPatl.
 Sefali12.
 sekhar398.
 sergelouie6.
+sergio95dr.
 ServiceNow-Tsvetomir-PDI-Lab.
 servicenowspecialist.
 SG-SN.
