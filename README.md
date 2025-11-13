@@ -291,9 +291,9 @@ TinkerTechie.
 becksbyte.
 mskoddow.
 Abbas-57.
+JorgeGRC.
 
 **Other contributors:**
-JorgeGRC.
 A1B2C3D4E5F6G7H8I9J0164-hack.
 nvprav.
 Rajat32-op.
@@ -621,6 +621,7 @@ SurajPatil1404.
 swatii23.
 swatimishracapg.
 Swetha13251325.
+Taceyes.
 Taranpreet1407.
 TarunTheDev.
 tejaswahinduja2.
@@ -2167,6 +2168,7 @@ swatimishracapg.
 Swetha13251325.
 syntax-syndicate.
 syprien.
+Taceyes.
 TamByrd.
 TamizhNesan.
 tan-delphinus.
