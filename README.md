@@ -432,6 +432,7 @@ akshaypatni-lgtm.
 akshim1702.
 alankritijain2001-dot.
 AlfrinAJ.
+aljoh.
 AmalBajpayee09.
 amandasiriwardane.
 Amitkumar012.
@@ -974,9 +975,9 @@ riya-vermaa.
 SachinNarayanasamy.
 99Saurabh19.
 allenandreas.
+anubhav-ritolia.
 
 **Top 50% contributors:**
-anubhav-ritolia.
 apple9000.
 ashvin2005.
 briangodfreydev.
@@ -1138,9 +1139,9 @@ devalcodes.
 dhruvii-powershell.
 dorsy99.
 ezratkim.
+harishbaislaawc2022-sketch.
 
 **Other contributors:**
-harishbaislaawc2022-sketch.
 harshal045.
 HarshMN2345.
 hmadhsan.
@@ -1448,6 +1449,7 @@ alekseylee.
 alexcasper.
 AlfrinAJ.
 aliceapps.
+aljoh.
 allenmxh.
 AlphieKiu.
 AmalBajpayee09.
