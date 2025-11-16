@@ -239,9 +239,9 @@ divyajetti9.
 hakinadey.
 iamshankha.
 kishoretk92.
+sanjaykumar3sn.
 
 **Top 50% contributors:**
-sanjaykumar3sn.
 tab22.
 ahmadibitoye.
 animeshdasgit.
@@ -292,9 +292,9 @@ becksbyte.
 mskoddow.
 Abbas-57.
 JorgeGRC.
+A1B2C3D4E5F6G7H8I9J0164-hack.
 
 **Other contributors:**
-A1B2C3D4E5F6G7H8I9J0164-hack.
 nvprav.
 Rajat32-op.
 ewatch.
@@ -427,6 +427,7 @@ afk-Parth.
 afrith03.
 Akashdevin09.
 akashk6697.
+AkashMarkile-1947.
 Akshaykomar890.
 akshaypatni-lgtm.
 akshim1702.
@@ -1436,6 +1437,7 @@ ajithaju15.
 Akashdevin09.
 AKASHDHARDUBEY.
 akashk6697.
+AkashMarkile-1947.
 AKBKCKDK444.
 akchowdam.
 akmittal.
