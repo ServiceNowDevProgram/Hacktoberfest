@@ -462,6 +462,7 @@ Bharathkogilamane274.
 bhavani-konda.
 bhavay009.
 bitflicker64.
+brazadrian.
 brunoasantos.
 Burnhamt256.
 captainbraddles.
@@ -979,9 +980,9 @@ SachinNarayanasamy.
 99Saurabh19.
 allenandreas.
 anubhav-ritolia.
+apple9000.
 
 **Top 50% contributors:**
-apple9000.
 ashvin2005.
 briangodfreydev.
 GauthamBellamkonda.
@@ -1143,9 +1144,9 @@ dhruvii-powershell.
 dorsy99.
 ezratkim.
 harishbaislaawc2022-sketch.
+harshal045.
 
 **Other contributors:**
-harshal045.
 HarshMN2345.
 hmadhsan.
 iamvpbhaskar.
@@ -1547,6 +1548,7 @@ bjmfransen.
 blindaks.
 bmfmancini.
 bradfordshelley.
+brazadrian.
 brunoasantos.
 Bsprogrammer28.
 Burnhamt256.
