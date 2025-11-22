@@ -476,6 +476,7 @@ develo-oper-piyush.
 developer-mohitsoni.
 DeveloperViraj.
 DevvSaxena17.
+diguerd.
 DineshNalli1011.
 DivyanshRajSoni.
 Durgeshpathak-111.
@@ -1146,9 +1147,9 @@ dorsy99.
 ezratkim.
 harishbaislaawc2022-sketch.
 harshal045.
+HarshMN2345.
 
 **Other contributors:**
-HarshMN2345.
 hmadhsan.
 iamvpbhaskar.
 igrzhukovich.
@@ -1621,6 +1622,7 @@ dhadwal.
 Dhar45.
 dhumalparth.
 diasjp.
+diguerd.
 Dimuthu7.
 Dineshk00580.
 DineshNalli1011.
