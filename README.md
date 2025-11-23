@@ -187,9 +187,9 @@ jiteshmalik.
 NayeemKaka.
 RaghavBCarvana.
 RaviGaurav007.
+Sriharsha19.
 
 **Top 25% contributors:**
-Sriharsha19.
 srikanthroyal932-cmyk.
 VaishnaviLathkar98.
 pratap360.
@@ -485,6 +485,7 @@ ETHAN96308.
 farstic.
 FrancisBarla10.
 ganga-300.
+GirardGH.
 Girishbari.
 gmariniello.
 gnaneshreddyy.
@@ -1679,6 +1680,7 @@ Gayathrichennaioutlook.
 Geraldf.
 GerhardDJ.
 GiovanniPeretti.
+GirardGH.
 Girishbari.
 git-rep0.
 Git-Snow-dev.
