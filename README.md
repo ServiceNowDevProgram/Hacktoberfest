@@ -607,6 +607,7 @@ sergio95dr.
 servicenowspecialist.
 shaiksajidhussain.
 shanjidhasan.
+sharma1305.
 Shikhar-Shetty.
 shivam2003-dev.
 Shrutika10-sys.
@@ -984,9 +985,9 @@ SachinNarayanasamy.
 allenandreas.
 anubhav-ritolia.
 apple9000.
+ashvin2005.
 
 **Top 50% contributors:**
-ashvin2005.
 briangodfreydev.
 GauthamBellamkonda.
 Khasim-63993.
@@ -1149,9 +1150,9 @@ ezratkim.
 harishbaislaawc2022-sketch.
 harshal045.
 HarshMN2345.
+hmadhsan.
 
 **Other contributors:**
-hmadhsan.
 iamvpbhaskar.
 igrzhukovich.
 j4rodm.
@@ -2115,6 +2116,7 @@ shakysnake.
 ShanClayton.
 shanjidhasan.
 shaoservicenow.
+sharma1305.
 sharsha315.
 shashwatmishraog.
 sherief-io.
