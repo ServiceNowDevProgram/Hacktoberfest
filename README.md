@@ -241,9 +241,9 @@ iamshankha.
 kishoretk92.
 sanjaykumar3sn.
 tab22.
+ahmadibitoye.
 
 **Top 50% contributors:**
-ahmadibitoye.
 animeshdasgit.
 bgrk005.
 Charanjet.
@@ -295,9 +295,9 @@ JorgeGRC.
 A1B2C3D4E5F6G7H8I9J0164-hack.
 nvprav.
 Rajat32-op.
+ewatch.
 
 **Other contributors:**
-ewatch.
 AAladeen.
 Danmax.
 harishkSN.
@@ -641,6 +641,7 @@ udaysiddapur.
 VA2707.
 vachaspathi6.
 varun1325.
+Vijayshree25.
 VinayKumarVangala.
 vipin379.
 virendrapratapsinghyadav.
@@ -2241,6 +2242,7 @@ vieraruben.
 vigneshmc.
 vijay1379.
 vijayshankar485.
+Vijayshree25.
 vijaytechy.
 vikasphougat.
 VinayKumarVangala.
