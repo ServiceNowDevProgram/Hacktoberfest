@@ -1153,9 +1153,9 @@ dorsy99.
 ezratkim.
 harishbaislaawc2022-sketch.
 harshal045.
+HarshMN2345.
 
 **Other contributors:**
-HarshMN2345.
 hmadhsan.
 iamvpbhaskar.
 igrzhukovich.
@@ -2259,6 +2259,7 @@ Vishnugarg897.
 VishwajeetGupta1709.
 vivaan01.
 Vivek-KP.
+vivek5239.
 vivekmunda1609.
 Vivekprasad20.
 viveksahu92.
