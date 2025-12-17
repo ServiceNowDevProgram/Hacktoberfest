@@ -989,9 +989,9 @@ allenandreas.
 anubhav-ritolia.
 apple9000.
 ashvin2005.
+briangodfreydev.
 
 **Top 50% contributors:**
-briangodfreydev.
 GauthamBellamkonda.
 Khasim-63993.
 odinsride.
@@ -1154,9 +1154,9 @@ ezratkim.
 harishbaislaawc2022-sketch.
 harshal045.
 HarshMN2345.
+hmadhsan.
 
 **Other contributors:**
-hmadhsan.
 iamvpbhaskar.
 igrzhukovich.
 j4rodm.
@@ -1699,6 +1699,7 @@ GLaDOS2199.
 gmariniello.
 gnaneshreddyy.
 golu833.
+goran-solvvision.
 GouthamSG.
 Gowtham2801031902.
 Gowthammadhusuthanan067.
