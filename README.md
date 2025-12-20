@@ -1155,9 +1155,9 @@ harishbaislaawc2022-sketch.
 harshal045.
 HarshMN2345.
 hmadhsan.
+iamvpbhaskar.
 
 **Other contributors:**
-iamvpbhaskar.
 igrzhukovich.
 j4rodm.
 jamesfoot.
@@ -2049,6 +2049,7 @@ remkarthick.
 renjithragil.
 retrokaj.
 richirichard7789-svg.
+rickmahabeersingh.
 ricksclick.
 rishabhbaranwal0.
 rishabhh077.
