@@ -1159,6 +1159,7 @@ iamvpbhaskar.
 
 **Other contributors:**
 igrzhukovich.
+j0hn2608.
 j4rodm.
 jamesfoot.
 Jashnavi25.
@@ -1748,7 +1749,6 @@ ishwarighule.
 IslamMari.
 IvanStojanov.
 j-infinger.
-j0hn2608.
 j2clow.
 jainmridul82.
 jamalissimo.
