@@ -469,9 +469,9 @@ apple9000.
 ashvin2005.
 briangodfreydev.
 GauthamBellamkonda.
+Khasim-63993.
 
 **Top 50% contributors:**
-Khasim-63993.
 odinsride.
 piyusalunke123.
 rene-el.
@@ -635,9 +635,9 @@ hmadhsan.
 iamvpbhaskar.
 igrzhukovich.
 j0hn2608.
+j4rodm.
 
 **Other contributors:**
-j4rodm.
 jamesfoot.
 Jashnavi25.
 JBscriptsNow.
@@ -1261,6 +1261,7 @@ Jon-Wadsworth.
 Josh767676.
 joshuaprakashg.
 JosielMalaquias.
+jppassalacqua.
 jschuller.
 jsmayo.
 JStuempert.
