@@ -636,9 +636,9 @@ iamvpbhaskar.
 igrzhukovich.
 j0hn2608.
 j4rodm.
+jamesfoot.
 
 **Other contributors:**
-jamesfoot.
 Jashnavi25.
 JBscriptsNow.
 JingAlanzhixin.
@@ -1272,6 +1272,7 @@ JulietteM81.
 justHarshraj.
 JustinLoftas.
 justSNaccount.
+jvharyani.
 K-Sankalp.
 k-zeeshan.
 kainturar.
