@@ -470,9 +470,9 @@ ashvin2005.
 briangodfreydev.
 GauthamBellamkonda.
 Khasim-63993.
+odinsride.
 
 **Top 50% contributors:**
-odinsride.
 piyusalunke123.
 rene-el.
 rmedved84.
@@ -637,9 +637,9 @@ igrzhukovich.
 j0hn2608.
 j4rodm.
 jamesfoot.
+Jashnavi25.
 
 **Other contributors:**
-Jashnavi25.
 JBscriptsNow.
 JingAlanzhixin.
 jordanrogus.
@@ -1031,6 +1031,7 @@ bhanucvbmg.
 Bharat123rox.
 Bharathkogilamane274.
 bharatr21.
+bharatsharp.
 bhavani-konda.
 bhavay009.
 BhavishyaA516.
