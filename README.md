@@ -638,9 +638,9 @@ j0hn2608.
 j4rodm.
 jamesfoot.
 Jashnavi25.
+JBscriptsNow.
 
 **Other contributors:**
-JBscriptsNow.
 JingAlanzhixin.
 jordanrogus.
 Juusoee.
@@ -1694,6 +1694,7 @@ tan-delphinus.
 tapishsh.
 Taranpreet1407.
 TarunTheDev.
+tbskllr.
 tdprot.
 TechnoDeba.
 techspark77.
@@ -1701,6 +1702,7 @@ tedante.
 tejaswahinduja2.
 telbir.
 tgeesman.
+TheBAnalystSN.
 TheNikhilRaj.
 TheoCantor.
 theotherdebs.
