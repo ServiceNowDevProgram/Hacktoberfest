@@ -471,9 +471,9 @@ briangodfreydev.
 GauthamBellamkonda.
 Khasim-63993.
 odinsride.
+piyusalunke123.
 
 **Top 50% contributors:**
-piyusalunke123.
 rene-el.
 rmedved84.
 src107.
@@ -638,9 +638,9 @@ j0hn2608.
 j4rodm.
 jamesfoot.
 Jashnavi25.
+JBscriptsNow.
 
 **Other contributors:**
-JBscriptsNow.
 JingAlanzhixin.
 jordanrogus.
 Juusoee.
@@ -1343,6 +1343,7 @@ LarsAssen.
 Lathasuv.
 LaviniaChiburte.
 LekiaAnonim.
+lewb1993.
 lianskaya.
 lidmaylid.
 liyAGHORI.
