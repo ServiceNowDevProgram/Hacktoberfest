@@ -639,9 +639,9 @@ j4rodm.
 jamesfoot.
 Jashnavi25.
 JBscriptsNow.
+JingAlanzhixin.
 
 **Other contributors:**
-JingAlanzhixin.
 jordanrogus.
 Juusoee.
 KartikeSingh.
@@ -1335,6 +1335,7 @@ kunalsinghdadhwal.
 kurtzettel.
 kushalt112.
 kvdev29.
+kwadhwa123.
 laherfrit.
 lalit-oli-mohan-479.
 lameloball6741.
