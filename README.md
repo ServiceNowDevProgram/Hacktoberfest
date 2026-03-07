@@ -634,14 +634,15 @@ HarshMN2345.
 hmadhsan.
 iamvpbhaskar.
 igrzhukovich.
+ishitadatta.
 j0hn2608.
 j4rodm.
 jamesfoot.
 Jashnavi25.
 JBscriptsNow.
-JingAlanzhixin.
 
 **Other contributors:**
+JingAlanzhixin.
 jordanrogus.
 Juusoee.
 KartikeSingh.
@@ -1233,7 +1234,6 @@ imaxdvd.
 Imsurajr.
 ineffable23.
 ishanpatil35.
-ishitadatta.
 ishwarighule.
 IslamMari.
 IvanStojanov.
