@@ -472,9 +472,9 @@ GauthamBellamkonda.
 Khasim-63993.
 odinsride.
 piyusalunke123.
+rene-el.
 
 **Top 50% contributors:**
-rene-el.
 rmedved84.
 src107.
 Tushnik-cyber.
@@ -640,9 +640,9 @@ j4rodm.
 jamesfoot.
 Jashnavi25.
 JBscriptsNow.
+JingAlanzhixin.
 
 **Other contributors:**
-JingAlanzhixin.
 jordanrogus.
 Juusoee.
 KartikeSingh.
@@ -1404,6 +1404,7 @@ Mikerniker.
 mirellarc.
 mishraca.
 Mittalkabir.
+mkreutzfeldt.
 mohammedusama.
 mohan-ServiceNow.
 MohanKumarAmbati.
