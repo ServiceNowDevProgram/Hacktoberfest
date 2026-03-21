@@ -582,6 +582,7 @@ sisco0.
 AmrutaKR007.
 ashaw7697.
 Beeram12.
+chadronbryant.
 Cheeny09.
 crooks-s.
 cschmidt82.
@@ -640,9 +641,9 @@ j4rodm.
 jamesfoot.
 Jashnavi25.
 JBscriptsNow.
-JingAlanzhixin.
 
 **Other contributors:**
+JingAlanzhixin.
 jordanrogus.
 Juusoee.
 KartikeSingh.
@@ -694,7 +695,6 @@ vivek5239.
 workpurposeusername.
 YadlaMani.
 zaidongy.
-chadronbryant.
 ChilloutSenthil.
 jon-lind-sn.
 kalyan120694.
