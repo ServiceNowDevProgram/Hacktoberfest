@@ -473,9 +473,9 @@ Khasim-63993.
 odinsride.
 piyusalunke123.
 rene-el.
+rmedved84.
 
 **Top 50% contributors:**
-rmedved84.
 src107.
 Tushnik-cyber.
 fn20200323.
@@ -641,9 +641,9 @@ j4rodm.
 jamesfoot.
 Jashnavi25.
 JBscriptsNow.
+JingAlanzhixin.
 
 **Other contributors:**
-JingAlanzhixin.
 jordanrogus.
 Juusoee.
 KartikeSingh.
@@ -1142,6 +1142,7 @@ dthai689.
 DudeDrew.
 Durgeshpathak-111.
 dwilso1018.
+echelon-cnanda.
 eduard-nitoi.
 EduardoUG.
 eizzledizzle.
