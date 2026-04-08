@@ -642,9 +642,9 @@ jamesfoot.
 Jashnavi25.
 JBscriptsNow.
 JingAlanzhixin.
+jordanrogus.
 
 **Other contributors:**
-jordanrogus.
 Juusoee.
 KartikeSingh.
 kaushalbharade.
@@ -1268,6 +1268,7 @@ jnikita067.
 JoeSDoro.
 john9006.
 Jon-Wadsworth.
+JonathanWilson3.
 Josh767676.
 joshuaprakashg.
 JosielMalaquias.
