@@ -644,9 +644,9 @@ JBscriptsNow.
 JingAlanzhixin.
 jordanrogus.
 Juusoee.
+KartikeSingh.
 
 **Other contributors:**
-KartikeSingh.
 kaushalbharade.
 krishna-medapati.
 lakshyatyagi24.
@@ -1109,6 +1109,7 @@ davidehira.
 davidjcarey.
 davidphilpott01.
 dchavez434.
+dchums.
 debugwithshubham.
 deepanshu4688.
 denmant.
