@@ -643,9 +643,9 @@ Jashnavi25.
 JBscriptsNow.
 JingAlanzhixin.
 jordanrogus.
+Juusoee.
 
 **Other contributors:**
-Juusoee.
 KartikeSingh.
 kaushalbharade.
 krishna-medapati.
@@ -971,6 +971,7 @@ amrita06-max.
 Anantharaman91.
 ananya26102006.
 Ananya54321.
+anderle0815.
 andreneris.
 andy1717.
 andyops.
