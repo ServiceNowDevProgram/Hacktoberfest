@@ -475,9 +475,9 @@ piyusalunke123.
 rene-el.
 rmedved84.
 src107.
+Tushnik-cyber.
 
 **Top 50% contributors:**
-Tushnik-cyber.
 fn20200323.
 Pradeep567iaf.
 pratyushasndev.
@@ -644,9 +644,9 @@ JBscriptsNow.
 JingAlanzhixin.
 jordanrogus.
 Juusoee.
+KartikeSingh.
 
 **Other contributors:**
-KartikeSingh.
 kaushalbharade.
 krishna-medapati.
 lakshyatyagi24.
@@ -1722,6 +1722,7 @@ TechnoDeba.
 techspark77.
 tedante.
 tejaswahinduja2.
+tejaswimazing.
 telbir.
 tgeesman.
 TheBAnalystSN.
