@@ -645,9 +645,9 @@ JingAlanzhixin.
 jordanrogus.
 Juusoee.
 KartikeSingh.
+kaushalbharade.
 
 **Other contributors:**
-kaushalbharade.
 krishna-medapati.
 lakshyatyagi24.
 loudigi.
@@ -1180,6 +1180,7 @@ Flashdevp95.
 fodelaye26.
 FrancisBarla10.
 fredosborne.
+fstewart2.
 fuzzylojiq.
 gaganpasupuleti.
 ganga-300.
