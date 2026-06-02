@@ -476,9 +476,9 @@ rene-el.
 rmedved84.
 src107.
 Tushnik-cyber.
+fn20200323.
 
 **Top 50% contributors:**
-fn20200323.
 Pradeep567iaf.
 pratyushasndev.
 nag39g.
@@ -646,9 +646,9 @@ jordanrogus.
 Juusoee.
 KartikeSingh.
 kaushalbharade.
+krishna-medapati.
 
 **Other contributors:**
-krishna-medapati.
 lakshyatyagi24.
 loudigi.
 ManobhavSachan.
@@ -1117,6 +1117,7 @@ dchavez434.
 debugwithshubham.
 deepanshu4688.
 denmant.
+denniskoumatchev-hue.
 derHundOida.
 develo-oper-piyush.
 developer-mohitsoni.
