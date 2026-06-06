@@ -615,6 +615,7 @@ AryanBarsaiyan.
 ashleysnyder.
 Avinash238.
 AyanAhmedKhan.
+Ayushmann13479.
 bhavishyavelaga.
 brichards99.
 ChndrshP.
@@ -646,9 +647,9 @@ jordanrogus.
 Juusoee.
 KartikeSingh.
 kaushalbharade.
-krishna-medapati.
 
 **Other contributors:**
+krishna-medapati.
 lakshyatyagi24.
 loudigi.
 ManobhavSachan.
@@ -1023,7 +1024,6 @@ aysenuruzunnn.
 Ayush-216.
 ayush06195.
 Ayushi22-coder.
-Ayushmann13479.
 azabadaudiya.
 Azazelxo0.
 BAB533.
