@@ -648,9 +648,9 @@ Juusoee.
 KartikeSingh.
 kaushalbharade.
 krishna-medapati.
+lakshyatyagi24.
 
 **Other contributors:**
-lakshyatyagi24.
 loudigi.
 ManobhavSachan.
 mevops.
@@ -1742,6 +1742,7 @@ thesnowguy.
 thomas-seiberl.
 Timi-2023.
 tohlox.
+tomasvg.
 tomrausch.
 tosuch.
 toxic-8437.
