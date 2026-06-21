@@ -441,6 +441,7 @@ Ramesh-hub007.
 sauravsumankumar.
 yuvraj1107thapa.
 ashuprince121.
+Ayushmann13479.
 ewatch.
 hrichiksite.
 Iuliak.
@@ -477,14 +478,13 @@ rmedved84.
 src107.
 Tushnik-cyber.
 fn20200323.
-Pradeep567iaf.
 
 **Top 50% contributors:**
+Pradeep567iaf.
 pratyushasndev.
 nag39g.
 ShuGitHub2022.
 TinkerTechie.
-Ayushmann13479.
 becksbyte.
 homealone07.
 Iamsant.
