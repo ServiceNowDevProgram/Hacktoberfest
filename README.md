@@ -222,9 +222,9 @@ Charanjet.
 bharakm.
 stevezero.
 sychi77.
+ronaldkarim.
 
 **Top 10% contributors:**
-ronaldkarim.
 sivamuruganandam-coder.
 azeezgaa.
 brenduh.
@@ -308,9 +308,9 @@ trimbakeshmadhan-109.
 aishar563.
 BEASTSHRIRAM.
 bhavyaa30.
+danr2c2.
 
 **Top 25% contributors:**
-danr2c2.
 keshava-palisetti.
 Litwilly.
 Maheshkh9738.
@@ -649,10 +649,10 @@ KartikeSingh.
 kaushalbharade.
 krishna-medapati.
 lakshyatyagi24.
-loudigi.
-ManobhavSachan.
 
 **Other contributors:**
+loudigi.
+ManobhavSachan.
 mevops.
 mikeroosa.
 moshjahan.
@@ -1756,6 +1756,7 @@ TreasuryDigitalApps.
 triciac4.
 tripathiaman0709.
 troat9824.
+tsankaran.
 Tsegagedefaw.
 Tsheens.
 tsicot.
