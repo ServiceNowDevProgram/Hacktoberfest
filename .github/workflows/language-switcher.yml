@@ -1,0 +1,46 @@
+name: Update language switcher
+
+# Regenerates the language-switcher block in README/CONTRIBUTING/CODE_OF_CONDUCT
+# (and their translations/<locale>/ counterparts) whenever a translation is
+# added, removed, or the docs/templates themselves change. Self-healing: if
+# the root README.md is ever regenerated externally and wipes the switcher
+# from the template's copy, the next push touching those paths restores it.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'translations/**'
+      - 'CONTRIBUTING.md'
+      - 'CODE_OF_CONDUCT.md'
+      - '.github/templates/rootreadmetemplate.md'
+      - '.github/scripts/update-language-switcher.js'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: language-switcher-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  update:
+    if: github.repository == 'ServiceNowDevProgram/Hacktoberfest'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Run language switcher generator
+        id: generate
+        run: node .github/scripts/update-language-switcher.js
+
+      - name: Commit changes
+        if: steps.generate.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add CONTRIBUTING.md CODE_OF_CONDUCT.md .github/templates/rootreadmetemplate.md translations/
+          git commit -m "chore: update language switcher [skip ci]"
+          git push

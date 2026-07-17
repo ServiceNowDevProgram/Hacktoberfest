@@ -1,5 +1,8 @@
 # Contributing to this repo
 
+<!-- LANGUAGE_SWITCHER:START -->
+<!-- LANGUAGE_SWITCHER:END -->
+
 This is a host repo to another repos, so there isn't much to contribute to it.
 
 But if you do have something to contribute, the only requirements are:
