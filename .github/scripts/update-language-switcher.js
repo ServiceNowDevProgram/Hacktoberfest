@@ -26,7 +26,7 @@ const DOCS = {
 };
 
 const LANGUAGES = {
-  en: { name: 'English', flag: '🇬🇧' },
+  en: { name: 'English', flag: '🇺🇸' },
   es: { name: 'Español', flag: '🇪🇸' },
   de: { name: 'Deutsch', flag: '🇩🇪' },
   fr: { name: 'Français', flag: '🇫🇷' },
@@ -49,6 +49,17 @@ const LANGUAGES = {
   ar: { name: 'العربية', flag: '🇸🇦' },
   he: { name: 'עברית', flag: '🇮🇱' },
   hi: { name: 'हिन्दी', flag: '🇮🇳' },
+  bn: { name: 'বাংলা', flag: '🇮🇳🇧🇩' },
+  ta: { name: 'தமிழ்', flag: '🇮🇳' },
+  te: { name: 'తెలుగు', flag: '🇮🇳' },
+  mr: { name: 'मराठी', flag: '🇮🇳' },
+  gu: { name: 'ગુજરાતી', flag: '🇮🇳' },
+  kn: { name: 'ಕನ್ನಡ', flag: '🇮🇳' },
+  ml: { name: 'മലയാളം', flag: '🇮🇳' },
+  pa: { name: 'ਪੰਜਾਬੀ', flag: '🇮🇳🇵🇰' },
+  or: { name: 'ଓଡ଼ିଆ', flag: '🇮🇳' },
+  as: { name: 'অসমীয়া', flag: '🇮🇳' },
+  ur: { name: 'اردو', flag: '🇮🇳🇵🇰' },
   ja: { name: '日本語', flag: '🇯🇵' },
   ko: { name: '한국어', flag: '🇰🇷' },
   'zh-cn': { name: '简体中文', flag: '🇨🇳' },
