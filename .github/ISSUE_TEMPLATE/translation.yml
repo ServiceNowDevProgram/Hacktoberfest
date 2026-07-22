@@ -1,0 +1,97 @@
+name: Translation Request
+description: Claim a language and translate the main documentation (README, CONTRIBUTING, CODE_OF_CONDUCT).
+title: "[Translation] Add <language> translation"
+labels: ["translation", "hacktoberfest"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping translate this repository!
+
+        **Please open this issue first** to claim a language before starting a PR — this avoids duplicate work. Wait for a maintainer to assign the issue to you before opening a PR.
+
+        Read the whole template carefully — PRs that don't follow these conventions will be asked to revise before merge.
+
+  - type: input
+    id: language
+    attributes:
+      label: Language
+      description: The name of the target language, in English.
+      placeholder: "e.g. Spanish, German, Brazilian Portuguese"
+    validations:
+      required: true
+
+  - type: input
+    id: iso-code
+    attributes:
+      label: ISO 639-1 code (or BCP 47 tag for regional variants)
+      description: The 2-letter ISO code, or `<lang>-<region>` for regional variants. Use lowercase.
+      placeholder: "e.g. es, de, fr, pt-br"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: files
+    attributes:
+      label: Required files
+      description: All three files are required. Partial translations will not be merged.
+      options:
+        - label: "`README.md`"
+          required: true
+        - label: "`CONTRIBUTING.md`"
+          required: true
+        - label: "`CODE_OF_CONDUCT.md`"
+          required: true
+
+  - type: checkboxes
+    id: structure
+    attributes:
+      label: Folder & filename conventions
+      options:
+        - label: I will create a new folder `translations/<iso-code>/` (e.g. `translations/es/`).
+          required: true
+        - label: Translated files keep the exact original filenames (`README.md`, `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`) — no suffixes, no renaming.
+          required: true
+        - label: All three files land in a single PR. Splitting them across PRs will be closed and asked to consolidate.
+          required: true
+
+  - type: checkboxes
+    id: links-and-assets
+    attributes:
+      label: Links & assets
+      options:
+        - label: Internal links between translated files point to the **same-language siblings** in the same folder. E.g. inside `translations/es/README.md`, a link to CONTRIBUTING points to `CONTRIBUTING.md` (Spanish), not `../../CONTRIBUTING.md` (English).
+          required: true
+        - label: Links to files that are **not translated** (e.g. `LICENSE`, source code) point back to the repo root using relative paths — e.g. `../../LICENSE`.
+          required: true
+        - label: Image references use relative paths back to the original assets (e.g. `../../images/logo.png`). **Do not duplicate images** or any non-markdown assets.
+          required: true
+
+  - type: checkboxes
+    id: switcher
+    attributes:
+      label: Language switcher — DO NOT hand-write this
+      description: |
+        The language switcher at the top of each translated file is generated automatically by a script that scans the `translations/` folder. This keeps every file in sync as new languages are added.
+      options:
+        - label: |
+            I will place these two markers on their own lines, immediately after the H1 title in each translated file, with **nothing between them**:
+
+            ```
+            <!-- LANGUAGE_SWITCHER:START -->
+            <!-- LANGUAGE_SWITCHER:END -->
+            ```
+
+            The automation will fill in the list of available languages between these markers. If you write links yourself, they will be overwritten.
+          required: true
+        - label: I understand the same markers will be added to the English source files (`README.md`, `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`) at the repo root, and I will not remove them.
+          required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes (optional)
+      description: Anything relevant — regional variant reasoning, timeline, questions for maintainers.
+      placeholder: "e.g. I'm a native speaker; expect to have a PR ready within a week."
+    validations:
+      required: false
