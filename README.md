@@ -649,9 +649,9 @@ KartikeSingh.
 kaushalbharade.
 krishna-medapati.
 lakshyatyagi24.
+loudigi.
 
 **Other contributors:**
-loudigi.
 ManobhavSachan.
 mevops.
 mikeroosa.
@@ -1779,6 +1779,7 @@ valaparlasalmonraj.
 VanWeapon.
 varun1325.
 vedika0109.
+veluvarthi-sravya.
 venkat-244.
 VictorAlbergaria.
 vieraruben.
