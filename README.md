@@ -479,9 +479,9 @@ src107.
 Tushnik-cyber.
 fn20200323.
 Pradeep567iaf.
+pratyushasndev.
 
 **Top 50% contributors:**
-pratyushasndev.
 nag39g.
 ShuGitHub2022.
 TinkerTechie.
@@ -650,9 +650,9 @@ kaushalbharade.
 krishna-medapati.
 lakshyatyagi24.
 loudigi.
+ManobhavSachan.
 
 **Other contributors:**
-ManobhavSachan.
 mevops.
 mikeroosa.
 moshjahan.
@@ -1081,6 +1081,7 @@ ChocolateTilt.
 ChristineMayfield.
 ChrRepou.
 Cioraz.
+cjwesley.
 cnavr.
 CObsidien.
 coderdude207.
