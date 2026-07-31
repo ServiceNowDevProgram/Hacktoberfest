@@ -651,9 +651,9 @@ krishna-medapati.
 lakshyatyagi24.
 loudigi.
 ManobhavSachan.
+mevops.
 
 **Other contributors:**
-mevops.
 mikeroosa.
 moshjahan.
 msdfib.
@@ -1498,6 +1498,7 @@ OllyIB.
 omkar2508.
 omkarvasekar.
 opensrczy.
+osamahamad.
 oskadoskaposka.
 Oussama9920.
 ousswx-wx.
