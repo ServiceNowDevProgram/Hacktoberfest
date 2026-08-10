@@ -480,9 +480,9 @@ Tushnik-cyber.
 fn20200323.
 Pradeep567iaf.
 pratyushasndev.
+nag39g.
 
 **Top 50% contributors:**
-nag39g.
 ShuGitHub2022.
 TinkerTechie.
 becksbyte.
@@ -652,9 +652,9 @@ lakshyatyagi24.
 loudigi.
 ManobhavSachan.
 mevops.
+mikeroosa.
 
 **Other contributors:**
-mikeroosa.
 moshjahan.
 msdfib.
 mwchiao.
@@ -996,6 +996,7 @@ Anurag-Kar-240101094.
 Anuraj4.
 apatti.
 apbuhssc.
+apexnowtechnologies.
 aravindbarla22.
 Archita-2023.
 arigalamani.
