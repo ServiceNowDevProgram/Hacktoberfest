@@ -134,6 +134,9 @@ Meet the volunteer team who will be maintaining the Hacktoberfest projects:
 
 ## Leaderboard (this year):
 
+**Top 50% contributors:**
+mini-oreo.
+
 **Other contributors:**
 realcooro.
 
@@ -1430,6 +1433,7 @@ MidhaShrey.
 Mihir008.
 Mikerniker.
 mileadragos.
+mini-oreo.
 mirellarc.
 mishraca.
 Mittalkabir.
