@@ -135,6 +135,7 @@ Meet the volunteer team who will be maintaining the Hacktoberfest projects:
 ## Leaderboard (this year):
 
 **Other contributors:**
+realcooro.
 
 ## Leaderboard (all time):
 
@@ -309,9 +310,9 @@ aishar563.
 BEASTSHRIRAM.
 bhavyaa30.
 danr2c2.
+keshava-palisetti.
 
 **Top 25% contributors:**
-keshava-palisetti.
 Litwilly.
 Maheshkh9738.
 MRSinghRajat.
@@ -1572,6 +1573,7 @@ ravii333.
 RavleenKaur-rk.
 razerbackh.
 Razzzial.
+realcooro.
 ReapredatoR.
 RedRangerWentWild.
 remi-servicenow.
