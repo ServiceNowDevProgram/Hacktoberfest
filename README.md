@@ -850,6 +850,7 @@ marcos-michalski.
 mariwarl.
 mayankgautam-dev.
 MillerYadira.
+mini-oreo.
 monica9703.
 mua35.
 mucho243.
@@ -1433,7 +1434,6 @@ MidhaShrey.
 Mihir008.
 Mikerniker.
 mileadragos.
-mini-oreo.
 mirellarc.
 mishraca.
 Mittalkabir.
