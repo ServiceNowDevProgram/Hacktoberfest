@@ -4,6 +4,9 @@
 
 # 🎃 Hacktoberfest 2025 is Live! 🎃
 
+<!-- LANGUAGE_SWITCHER:START -->
+<!-- LANGUAGE_SWITCHER:END -->
+
 <table role="presentation">
   <tr>
     <td><a href="https://github.com/ServiceNowDevProgram/code-snippets"><img src="/images/skinnymainbanner-code-snippets.png" alt="Visit the Code Snippets repository" width="427" height="250"></a></td>
