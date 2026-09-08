@@ -659,6 +659,7 @@ mevops.
 mikeroosa.
 
 **Other contributors:**
+mini-oreo.
 moshjahan.
 msdfib.
 mwchiao.
@@ -706,7 +707,6 @@ GTKsnow.
 jon-lind-sn.
 kalyan120694.
 manoj424.
-mini-oreo.
 mitkarisunil.
 nancystodd.
 roshanServiceNow.
